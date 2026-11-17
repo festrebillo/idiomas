@@ -1,7 +1,7 @@
 /* Idiomas · curso por unidades con lecciones, repaso espaciado y audio. Tu progreso va a tu hoja «Fergard · Idiomas». */
 (function () {
   "use strict";
-  var CFG = window.FG_CFG || {}, VERSION = "0.6.1", DB_KEY = "idiomas_db", M = window.IMotor;
+  var CFG = window.FG_CFG || {}, VERSION = "0.7.0", DB_KEY = "idiomas_db", M = window.IMotor;
   var IDI = [{ id: "en", n: "Inglés", nat: "English", b: "🇺🇸", voz: "en-US" }, { id: "pt", n: "Portugués", nat: "Português", b: "🇧🇷", voz: "pt-BR" }, { id: "it", n: "Italiano", nat: "Italiano", b: "🇮🇹", voz: "it-IT" }];
   var $ = function (s, r) { return (r || document).querySelector(s); };
   var $$ = function (s, r) { return Array.prototype.slice.call((r || document).querySelectorAll(s)); };
@@ -54,6 +54,25 @@
   function ico(n) {
     var p = { camino: '<path d="M4 19c4-1 3-6 7-7s3-6 9-7"/><circle cx="5" cy="19" r="1.6"/><circle cx="19" cy="5" r="1.6"/>', repaso: '<path d="M4 12a8 8 0 0 1 14-5.3L20 9"/><path d="M20 4v5h-5"/><path d="M20 12a8 8 0 0 1-14 5.3L4 15"/><path d="M4 20v-5h5"/>', palabras: '<path d="M5 4h10a3 3 0 0 1 3 3v13H8a3 3 0 0 1-3-3z"/><path d="M8 8h6M8 12h6"/>', perfil: '<circle cx="12" cy="8" r="4"/><path d="M4 20c1-4 4-6 8-6s7 2 8 6"/>' };
     return '<svg viewBox="0 0 24 24" aria-hidden="true">' + (p[n] || "") + "</svg>";
+  }
+
+  /* ---------- tema, anillo y dragón ---------- */
+  var TEMAS = ["claro", "oscuro", "auto"], TEMA_NOM = { claro: "Claro", oscuro: "Oscuro", auto: "Automático" }, TEMA_IC = { claro: "☀️", oscuro: "🌙", auto: "🌓" };
+  function temaPref() { var p = "claro"; try { p = LS.getItem("idiomas_tema") || "claro"; } catch (e) {} return TEMAS.indexOf(p) >= 0 ? p : "claro"; }
+  function temaAplicar() {
+    var p = temaPref(), osc = p === "oscuro" || (p === "auto" && window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches);
+    document.documentElement.setAttribute("data-tema", osc ? "oscuro" : "claro");
+    var m = document.querySelector("meta[name=theme-color]"); if (m) m.setAttribute("content", osc ? "#0D0F1F" : "#F4F5FB");
+  }
+  function setTema(t) { try { LS.setItem("idiomas_tema", t); } catch (e) {} temaAplicar(); pintar(); toast("Tema: " + TEMA_NOM[t].toLowerCase()); }
+  function anillo(pc, txt, cls) {
+    var r = 42, c = 2 * Math.PI * r, o = c * (1 - Math.max(0, Math.min(100, pc)) / 100);
+    return '<div class="ring ' + (cls || "") + '" role="img" aria-label="' + pc + ' por ciento"><svg viewBox="0 0 100 100" aria-hidden="true"><circle class="rt" cx="50" cy="50" r="42"/><circle class="rf" cx="50" cy="50" r="42" stroke-dasharray="' + c.toFixed(1) + '" stroke-dashoffset="' + o.toFixed(1) + '"/></svg><b>' + txt + "</b></div>";
+  }
+  function drg(mood, sz) {   // el dragón de la app: tranquilo, triste («mal») o celebrando («fiesta»)
+    var ojos = mood === "mal" ? '<path d="M29 50q8-8 16 0M55 50q8-8 16 0" stroke="#0B3B40" stroke-width="4" fill="none"/>' : '<circle cx="37" cy="50" r="8" fill="#fff" stroke="none"/><circle cx="63" cy="50" r="8" fill="#fff" stroke="none"/><circle cx="38.5" cy="51" r="4" fill="#0B3B40" stroke="none"/><circle cx="61.5" cy="51" r="4" fill="#0B3B40" stroke="none"/><circle cx="40" cy="49" r="1.5" fill="#fff" stroke="none"/><circle cx="63" cy="49" r="1.5" fill="#fff" stroke="none"/>';
+    var boca = mood === "mal" ? '<path d="M40 78q10-7 20 0" stroke="#0B3B40" stroke-width="3.5" fill="none"/>' : '<path d="M38 70q12 14 24 0z" fill="#fff" stroke="#0B3B40" stroke-width="3"/>';
+    return '<svg class="drg" viewBox="0 0 100 100" width="' + sz + '" height="' + sz + '" aria-hidden="true"><path d="M26 34L20 8l24 16z" fill="#FFC247" stroke="none"/><path d="M74 34l6-26-24 16z" fill="#FFC247" stroke="none"/><circle cx="50" cy="56" r="36" fill="#5ED654" stroke="#2E9C3F" stroke-width="3"/><ellipse cx="50" cy="76" rx="22" ry="13" fill="#D6F7B2" stroke="none"/><circle cx="44" cy="63" r="2" fill="#2E9C3F" stroke="none"/><circle cx="56" cy="63" r="2" fill="#2E9C3F" stroke="none"/>' + ojos + boca + (mood === "fiesta" ? '<path d="M12 18l5 9M88 18l-5 9M5 44l9 3M95 44l-9 3" stroke="#FFC247" stroke-width="3.5"/>' : "") + "</svg>";
   }
 
   /* ---------- curso ---------- */
@@ -113,34 +132,45 @@
   /* ---------- pantallas ---------- */
   function topBar() {
     var i = idiOf(db.aj.idioma), r = M.racha(diasMapa(), M.hoy());
-    return '<div class="top"><button class="chip idi" data-a="idi" aria-label="Cambiar de idioma">' + i.b + " " + esc(i.n) + ' ▾</button><span class="chip" aria-label="Racha">🔥 ' + r + '</span><span class="chip" aria-label="Puntos">⭐ ' + xpTotal() + "</span></div>";
+    return '<div class="top"><button class="chip idi" data-a="idi" aria-label="Cambiar de idioma">' + i.b + " " + esc(i.n) + ' ▾</button><span class="chip" aria-label="Racha">🔥 ' + r + '</span><span class="chip" aria-label="Puntos">⭐ ' + xpTotal() + '</span><button class="ib" data-a="tema" aria-label="Cambiar tema (ahora ' + TEMA_NOM[temaPref()].toLowerCase() + ')">' + TEMA_IC[temaPref()] + "</button></div>";
   }
   function leccionesHoy() { var d = db.dia[M.hoy()]; return d ? d.n || 0 : 0; }
   function nodoHtml(e, c, j) {
-    var u = e.u >= 0 ? c.unidades[e.u] : null, off = [0, 44, 66, 44, 0, -44, -66][j % 7];
-    var cls = (e.k !== "lec" ? "exam " : "") + e.estado, cont = e.k === "lec" ? (e.estado === "hecha" ? "✓" : e.estado === "actual" ? "▶" : "🔒") : (e.ok ? "✓" : e.estado === "bloq" ? "🔒" : e.k === "niv" ? "🏆" : "👑");
-    var est = e.k === "lec" && e.ok ? '<span class="st" aria-hidden="true">' + "★★★".slice(0, db.lec[e.id].e) + "☆☆☆".slice(0, 3 - db.lec[e.id].e) + "</span>" : "";
+    var u = e.u >= 0 ? c.unidades[e.u] : null;
+    var cls = (e.k !== "lec" ? "exam " : "") + e.estado, cont = e.k === "lec" ? (e.estado === "hecha" ? "✓" : String(e.i + 1)) : (e.ok ? "✓" : e.estado === "bloq" ? "🔒" : e.k === "niv" ? "🏆" : "👑");
+    var est = e.k === "lec" && e.ok ? "★★★".slice(0, db.lec[e.id].e) + "☆☆☆".slice(0, 3 - db.lec[e.id].e) : "";
     var rot = e.k === "niv" ? "Examen final del nivel" : e.k === "exa" ? "Examen de la unidad " + u.n : "Lección " + (e.i + 1) + ": " + u.lecciones[e.i].titulo;
-    return '<button class="nd ' + cls + '" style="transform:translateX(' + off + 'px)" data-a="nodo" data-u="' + e.u + '" data-i="' + e.i + '"' + (e.k === "niv" ? ' data-nv="' + e.nv + '"' : "") + ' aria-label="' + esc(rot) + (e.estado === "bloq" ? " (bloqueada)" : "") + '">' + (e.estado === "actual" ? '<span class="go">EMPEZAR</span>' : "") + cont + est + "</button>";
+    return '<div class="stp"><button class="nd ' + cls + '" data-a="nodo" data-u="' + e.u + '" data-i="' + e.i + '"' + (e.k === "niv" ? ' data-nv="' + e.nv + '"' : "") + ' aria-label="' + esc(rot) + (e.estado === "bloq" ? " (bloqueada)" : "") + '">' + cont + '</button><span class="sts" aria-hidden="true">' + est + "</span></div>";
   }
   function vCamino() {
     var c = curso(); if (!c) return '<div class="vacio"><b>Cargando el curso…</b>Un momento.</div>';
-    var seq = secuencia(c), h = topBar(), meta = db.aj.meta || 1, hoyN = leccionesHoy(), pc = Math.min(100, Math.round(100 * hoyN / meta));
-    h += '<div class="meta"><div style="flex:1"><b>Meta de hoy</b><small>' + hoyN + " de " + meta + (meta === 1 ? " lección" : " lecciones") + (hoyN >= meta ? " · ¡cumplida! 🎉" : "") + '</small></div><div class="bar" style="max-width:110px"><i style="width:' + pc + '%"></i></div></div>';
+    var seq = secuencia(c), meta = db.aj.meta || 1, hoyN = leccionesHoy(), pc = Math.min(100, Math.round(100 * hoyN / meta)), fil = S.fil || "todas", racha = M.racha(diasMapa(), M.hoy()), dom = 0, mostradas = 0;
+    c.unidades.forEach(function (u) { if (examOk(u.id)) dom++; });
+    var h = topBar();
+    h += '<div class="hd"><div><h1>Tu camino</h1><div class="meta"><b>Meta de hoy</b><small>' + hoyN + " de " + meta + (meta === 1 ? " lección" : " lecciones") + (hoyN >= meta ? " · ¡cumplida! 🎉" : " · ¡Vas por buen camino!") + "</small></div></div>" + anillo(pc, hoyN + "/" + meta) + "</div>";
+    h += '<div class="stats"><div class="stat"><b>🔥 ' + racha + '</b><span>días de racha</span></div><div class="stat"><b>⭐ ' + xpTotal() + '</b><span>puntos</span></div><div class="stat"><b>👑 ' + dom + "</b><span>dominadas</span></div></div>";
+    h += '<div class="pills">' + [["todas", "Todas"], ["curso", "En curso"], ["dom", "Dominadas"]].map(function (f) { return '<button class="' + (fil === f[0] ? "on" : "") + '" data-a="fil" data-v="' + f[0] + '" aria-pressed="' + (fil === f[0]) + '">' + f[1] + "</button>"; }).join("") + "</div>";
     c.niveles.forEach(function (nv) {
-      var hechasN = 0, totN = nv.unidades.length * 5; nv.unidades.forEach(function (u) { u.lecciones.forEach(function (L) { if (hecha(L.id)) hechasN++; }); });
-      h += '<div class="nvl"><b>' + esc(nv.nombre) + "</b><small>" + hechasN + " de " + totN + " lecciones · " + nv.unidades.length + " de " + nv.total + " unidades · " + esc(nv.horas) + " de estudio guiado</small></div>";
+      var hechasN = 0, totN = nv.unidades.length * 5, cards = ""; nv.unidades.forEach(function (u) { u.lecciones.forEach(function (L) { if (hecha(L.id)) hechasN++; }); });
       nv.unidades.forEach(function (u) {
-        var k = c.unidades.indexOf(u);
-        h += '<div class="ub"><div><small>UNIDAD ' + u.n + " · " + esc(u.nivel) + "</small><b>" + esc(u.titulo) + '</b></div><button data-a="guia" data-u="' + k + '" aria-label="Guía de la unidad ' + u.n + '">📘 Guía</button></div><div class="path">';
-        var j = 0; seq.filter(function (e) { return e.u === k; }).forEach(function (e) { h += nodoHtml(e, c, j++); });
-        h += "</div>";
+        var k = c.unidades.indexOf(u), es = seq.filter(function (e) { return e.u === k; }), hechasU = 0, suma = 0;
+        u.lecciones.forEach(function (L) { if (hecha(L.id)) { hechasU++; suma += db.lec[L.id].p || 0; } });
+        var dm = examOk(u.id), cur = es.some(function (e) { return e.estado === "actual"; }), est = dm ? "dom" : cur ? "cur" : "lock";
+        if ((fil === "curso" && est !== "cur") || (fil === "dom" && est !== "dom")) return;
+        mostradas++;
+        var sub = dm ? "Dominada · " + hechasU + " de 5 lecciones" : cur ? (hechasU >= 5 ? "Listo para el examen de la unidad" : "Lección " + (hechasU + 1) + " de 5" + (hechasU ? " · " + Math.round(suma / hechasU) + " % de acierto" : "")) : "Se desbloquea al terminar la anterior";
+        cards += '<section class="uc ' + est + '"><span class="dot" aria-hidden="true">' + (dm ? "✓" : cur ? "▶" : "🔒") + '</span><div class="ucb"><div class="uh"><div class="ic" aria-hidden="true">' + (dm ? "👑" : u.n) + '</div><div class="ut"><b>' + esc(u.titulo) + "</b><small>Unidad " + u.n + " · " + esc(sub) + '</small></div><button class="guia" data-a="guia" data-u="' + k + '" aria-label="Guía de la unidad ' + u.n + '">📘</button></div><div class="bar"><i style="width:' + Math.round(100 * (hechasU + (dm ? 1 : 0)) / 6) + '%"></i></div><div class="steps">' + es.map(function (e, j) { return nodoHtml(e, c, j); }).join("") + "</div></div></section>";
       });
-      if (nv.completo) { var ne = seq.filter(function (e) { return e.k === "niv" && e.nv === c.niveles.indexOf(nv); })[0]; h += '<div class="ub" style="background:#7C5CFF;box-shadow:0 5px 0 #5238C8"><div><small>EXAMEN FINAL</small><b>Nivel ' + esc(nv.id.toUpperCase()) + '</b></div></div><div class="path">' + nodoHtml(ne, c, 0) + "</div>"; }
-      else h += '<div class="prox"><b>🚧 Próximamente · resto del nivel ' + esc(nv.id.toUpperCase()) + "</b>" + nv.plan.slice(nv.unidades.length).map(function (t, n) { return "<div>Unidad " + (nv.unidades.length + n + 1) + " · " + esc(t) + "</div>"; }).join("") + "<div>🏆 Examen final del nivel</div></div>";
+      if (nv.completo) {
+        var ne = seq.filter(function (e) { return e.k === "niv" && e.nv === c.niveles.indexOf(nv); })[0], ec = ne.ok ? "dom" : ne.estado === "actual" ? "cur" : "lock";
+        if (fil === "todas" || (fil === "dom" && ec === "dom") || (fil === "curso" && ec === "cur")) { mostradas++; cards += '<section class="uc ' + ec + '"><span class="dot" aria-hidden="true">' + (ne.ok ? "✓" : ne.estado === "actual" ? "▶" : "🔒") + '</span><div class="ucb"><div class="uh"><div class="ic" aria-hidden="true">🏆</div><div class="ut"><b>Examen final · Nivel ' + esc(nv.id.toUpperCase()) + "</b><small>40 preguntas · necesitas 85 % a la primera</small></div></div>" + '<div class="steps" style="margin-top:12px;justify-content:center">' + nodoHtml(ne, c, 0) + "</div></div></section>"; }
+      }
+      if (cards) h += '<div class="nvl"><b>' + esc(nv.nombre) + "</b><small>" + hechasN + " de " + totN + " lecciones · " + nv.unidades.length + " de " + nv.total + " unidades · " + esc(nv.horas) + " de estudio guiado</small></div><div class=\"tl\">" + cards + "</div>";
+      if (!nv.completo && fil === "todas") h += '<div class="prox"><b>🚧 Próximamente · resto del nivel ' + esc(nv.id.toUpperCase()) + "</b>" + nv.plan.slice(nv.unidades.length).map(function (t, n) { return "<div>Unidad " + (nv.unidades.length + n + 1) + " · " + esc(t) + "</div>"; }).join("") + "<div>🏆 Examen final del nivel</div></div>";
     });
+    if (!mostradas) h += '<div class="vacio"><b>' + (fil === "dom" ? "Aún no dominas ninguna unidad" : "No hay nada en curso") + "</b>" + (fil === "dom" ? "Termina las 5 lecciones de una unidad y aprueba su examen con 85 %." : "Elige «Todas» para ver el camino completo.") + "</div>";
     var vistos = {}; c.niveles.forEach(function (n) { vistos[n.id] = 1; }); var faltan = S.plan.niveles.filter(function (n) { return !vistos[n.id]; });
-    if (faltan.length) h += '<div class="prox"><b>🗺️ Más adelante</b>' + faltan.map(function (n) { return "<div>" + esc(n.nombre) + " · " + n.unidades.length + " unidades</div>"; }).join("") + "</div>";
+    if (faltan.length && fil === "todas") h += '<div class="prox"><b>🗺️ Más adelante</b>' + faltan.map(function (n) { return "<div>" + esc(n.nombre) + " · " + n.unidades.length + " unidades</div>"; }).join("") + "</div>";
     return h;
   }
   function vRepaso() {
@@ -165,7 +195,7 @@
     var c = curso(), hoyS = M.hoy(), srs = srsMap(db.aj.idioma), r = M.racha(diasMapa(), hoyS), hechas = Object.keys(db.lec).filter(function (id) { return db.lec[id].e >= 1; }).length, dom = Object.keys(srs).filter(function (k) { return srs[k].b >= 4; }).length;
     var h = topBar() + '<h1 class="t">Perfil</h1><div class="big"><div><b>' + r + "</b><span>Días de racha</span></div><div><b>" + xpTotal() + "</b><span>Puntos</span></div><div><b>" + hechas + "</b><span>Lecciones</span></div></div>";
     if (c) h += '<div class="card"><b>Dominio por unidad · ' + esc(idiOf(db.aj.idioma).n) + '</b><div class="st2" style="margin-bottom:8px">Qué tan firme está lo aprendido; baja si dejas de repasar.</div>' + c.unidades.map(function (u) { var ids = []; u.lecciones.forEach(function (L) { M.itemsDe(L).forEach(function (it) { ids.push(it.id); }); }); var d = M.dominio(ids, srs); return '<div class="fila"><div class="tx"><div class="tt">' + u.n + ". " + esc(u.titulo) + '</div></div><div class="bar" style="max-width:90px"><i style="width:' + d + '%"></i></div><b>' + d + "%</b></div>"; }).join("") + "</div>";
-    h += '<div class="card"><div class="lbl" style="margin-top:0">Meta diaria</div><div class="seg">' + [1, 2, 3].map(function (n) { return '<button class="' + ((db.aj.meta || 1) === n ? "on" : "") + '" data-a="meta" data-v="' + n + '">' + n + (n === 1 ? " lección" : " lecciones") + "</button>"; }).join("") + '</div><label class="sw"><input type="checkbox" data-a="lento"' + (db.aj.lento ? " checked" : "") + '> Voz siempre lenta (para aprender)</label><label class="sw"><input type="checkbox" data-a="sonidos"' + (db.aj.sonido !== false ? " checked" : "") + '> Sonidos de acierto y error</label></div>';
+    h += '<div class="card"><div class="lbl" style="margin-top:0">Tema</div><div class="seg">' + TEMAS.map(function (t) { return '<button class="' + (temaPref() === t ? "on" : "") + '" data-a="temaset" data-v="' + t + '">' + TEMA_NOM[t] + "</button>"; }).join("") + '</div><div class="lbl">Meta diaria</div><div class="seg">' + [1, 2, 3].map(function (n) { return '<button class="' + ((db.aj.meta || 1) === n ? "on" : "") + '" data-a="meta" data-v="' + n + '">' + n + (n === 1 ? " lección" : " lecciones") + "</button>"; }).join("") + '</div><label class="sw"><input type="checkbox" data-a="lento"' + (db.aj.lento ? " checked" : "") + '> Voz siempre lenta (para aprender)</label><label class="sw"><input type="checkbox" data-a="sonidos"' + (db.aj.sonido !== false ? " checked" : "") + '> Sonidos de acierto y error</label></div>';
     h += '<div class="card"><div class="lbl" style="margin-top:0">Acceso y datos</div><div id="acc"></div><div class="st2" style="margin:10px 0">' + esc(!cfg().token ? "Sin vincular" : S.sync || (db.sync.ok ? "Al día" : "Lista para sincronizar")) + " · pendientes: " + Object.keys(db.pend).length + '</div><div style="display:flex;gap:8px"><button class="btn sec" style="margin:0" data-a="sync">Sincronizar</button>' + (db.sync.url ? '<a class="btn sec" style="margin:0;text-decoration:none" target="_blank" rel="noopener" href="' + esc(db.sync.url) + '">Mi hoja</a>' : "") + '</div></div><div class="st2" style="text-align:center;margin:14px 0">Idiomas v' + VERSION + " · tu progreso se guarda en tu hoja «Fergard · Idiomas»</div>";
     return h;
   }
@@ -221,16 +251,16 @@
     P.e = M.actual(P.ses); P.sel = null; P.tok = []; P.txt = ""; P.fb = null; P.par = P.e && P.e.tipo === "parejas" ? { sel: null, hechos: {}, err: 0, mal: {} } : null; pintarJ();
     var e = P.e; if (e && (e.tipo === "escuchar" || e.tipo === "dictado" || (e.tipo === "elegir" && e.dir === "te"))) setTimeout(function () { hablar(e.audio); }, 250);
   }
-  function jHead(pc) { return '<div class="jh"><button class="x" data-a="jx" aria-label="Salir de la lección">✕</button><div class="bar"><i style="width:' + pc + '%"></i></div></div>'; }
+  function jHead(pc, cnt) { return '<div class="jh"><button class="x" data-a="jx" aria-label="Salir de la lección">✕</button><div class="bar"><i style="width:' + pc + '%"></i></div><span class="cnt">' + (cnt || "") + "</span></div>"; }
   function opcionesHtml(e) {
-    return e.opciones.map(function (o, i) { var cls = "op"; if (P.fb) { if (o.ok) cls += " ok"; else if (P.sel === i) cls += " mal"; } else if (P.sel === i) cls += " s"; return '<button class="' + cls + '" data-a="op" data-i="' + i + '"' + (P.fb ? " disabled" : "") + ">" + esc(o.txt) + "</button>"; }).join("");
+    return e.opciones.map(function (o, i) { var cls = "op"; if (P.fb) { if (o.ok) cls += " ok"; else if (P.sel === i) cls += " mal"; } else if (P.sel === i) cls += " s"; return '<button class="' + cls + '" data-a="op" data-i="' + i + '"' + (P.fb ? " disabled" : "") + '><i class="lt" aria-hidden="true">' + String.fromCharCode(65 + i) + "</i><span>" + esc(o.txt) + "</span></button>"; }).join("");
   }
   function audioBtn(txt) { return '<button class="sp" data-a="oir" aria-label="Escuchar">🔊</button><button class="lento" data-a="oirl">🐢 Más lento</button>'; }
   function ejHtml(e) {
     var h = "";
     if (e.tipo === "elegir") {
       h = '<div class="q"><small>' + (e.dir === "te" ? "¿Qué significa?" : "¿Cómo se dice en " + esc(idiOf(db.aj.idioma).n.toLowerCase()) + "?") + "</small></div>";
-      h += e.dir === "te" ? '<div class="pal">' + esc(e.pregunta) + '</div><div class="prn">' + esc(e.pron) + '</div><button class="sp" data-a="oir" aria-label="Escuchar">🔊</button>' : '<div class="pal" style="font-size:30px">' + esc(e.pregunta) + "</div>";
+      h += e.dir === "te" ? '<div class="wrow"><button class="sp sm" data-a="oir" aria-label="Escuchar">🔊</button><div><div class="pal">' + esc(e.pregunta) + '</div><div class="prn">' + esc(e.pron) + "</div></div></div>" : '<div class="pal" style="font-size:30px">' + esc(e.pregunta) + "</div>";
       return h + opcionesHtml(e);
     }
     if (e.tipo === "escuchar") return '<div class="q"><small>Escucha y elige lo que oyes</small></div>' + audioBtn() + opcionesHtml(e);
@@ -260,16 +290,16 @@
       if (!ok) { det = (e.tipo === "parejas" ? "Repasa estas parejas en tu próxima práctica." : "Respuesta correcta: <b>" + esc(e.correcta) + "</b>") + (e.pron && e.tipo !== "parejas" ? ' <span class="pron">' + esc(e.pron) + "</span>" : ""); }
       else if (P.fb.nota) det = esc(P.fb.nota); else if (e.traduccion) det = esc(e.traduccion);
       var msg = ok ? ["¡Muy bien!", "¡Correcto!", "¡Excelente!", "¡Eso es!"][P.ses.i % 4] : (P.modo === "exa" ? "Incorrecto" : "Casi… lo repetiremos");
-      return '<div class="jf ' + (ok ? "ok" : "mal") + '"><div class="m">' + (ok ? "✓ " : "✗ ") + msg + '</div><div class="d">' + det + '</div><button class="btn ' + (ok ? "pri" : "bad") + '" style="margin-top:4px" data-a="sig">Continuar</button></div>'; }
+      return '<div class="jf ' + (ok ? "ok" : "mal") + '"><div class="fbh">' + drg(ok ? "ok" : "mal", 54) + '<div class="fbt"><div class="m">' + (ok ? "✓ " : "✗ ") + msg + '</div><div class="d">' + det + '</div></div></div><button class="btn ' + (ok ? "ok" : "bad") + '" style="margin-top:12px" data-a="sig">Continuar</button></div>'; }
     if (P.e && P.e.tipo === "parejas") return '<div class="jf"></div>';
     return '<div class="jf"><button class="btn" data-a="chk"' + (listoParaComprobar() ? "" : " disabled") + ">Comprobar</button></div>";
   }
   function pintarJ() {
     var j = $("#jug"); if (!P) return;
-    if (P.fase === "tarj") { var t = P.tarj[P.ti], ult = P.ti === P.tarj.length - 1; j.innerHTML = jHead(Math.round(100 * P.ti / P.tarj.length)) + '<div class="jc">' + tarjHtml(t) + '</div><div class="jf"><button class="btn pri" data-a="tsig">' + (ult ? "¡A practicar!" : "Siguiente") + "</button></div>"; $(".jc", j).scrollTop = 0; return; }
+    if (P.fase === "tarj") { var t = P.tarj[P.ti], ult = P.ti === P.tarj.length - 1; j.innerHTML = jHead(Math.round(100 * P.ti / P.tarj.length), (P.ti + 1) + "/" + P.tarj.length) + '<div class="jc">' + tarjHtml(t) + '</div><div class="jf"><button class="btn pri" data-a="tsig">' + (ult ? "¡A practicar!" : "Siguiente") + "</button></div>"; $(".jc", j).scrollTop = 0; return; }
     if (P.fase === "fin") { j.innerHTML = finHtml(); return; }
     var foco = document.activeElement && document.activeElement.id === "jt";
-    j.innerHTML = jHead(Math.round(100 * P.ses.i / P.ses.cola.length)) + '<div class="jc">' + ejHtml(P.e) + "</div>" + pie();
+    j.innerHTML = jHead(Math.round(100 * P.ses.i / P.ses.cola.length), (P.ses.i + 1) + "/" + P.ses.cola.length) + '<div class="jc">' + ejHtml(P.e) + "</div>" + pie();
     var t2 = $("#jt"); if (t2 && !P.fb && (foco || P.e.tipo === "escribir")) { try { t2.focus(); } catch (x) {} }
   }
   function tarjHtml(t) {
@@ -284,8 +314,9 @@
   function finHtml() {
     var f = P.fin, e = P.modo === "exa";
     var titulo = e ? (f.aprobado ? (P.nivel ? "¡Nivel aprobado! 🏆" : "¡Examen aprobado!") : "Aún no lo logras") : P.modo === "rep" ? "¡Repaso hecho!" : "¡Lección completada!";
-    var sub = e && !f.aprobado ? "Necesitas 85 % a la primera. Repasa lo aprendido (📘 Guía y Repaso) e inténtalo de nuevo." : "";
-    return '<div class="jc"><div class="fin"><div class="es" aria-label="' + f.est + ' estrellas">' + "★".repeat(f.est) + '<span style="color:var(--gris2)">' + "★".repeat(3 - f.est) + "</span></div><h2>" + titulo + '</h2><div class="st2">' + esc(sub) + '</div><div class="nums"><div><b>' + f.pct + ' %</b><span>A la primera</span></div><div><b>+' + f.xp + '</b><span>Puntos</span></div><div><b>🔥 ' + f.racha + "</b><span>Racha</span></div></div>" +
+    var sub = e && !f.aprobado ? "Necesitas 85 % a la primera. Repasa lo aprendido (📘 Guía y Repaso) e inténtalo de nuevo." : "", bien = f.pct >= 75 || (e && f.aprobado);
+    return '<div class="jc"><div class="fin"><div class="kk">Resultado</div><div class="rgw">' + anillo(f.pct, f.pct + " %<small>A la primera</small>", "g" + (bien ? "" : " med")) + drg(bien ? "fiesta" : "ok", 84) + '</div><div class="es" aria-label="' + f.est + ' estrellas">' + "★".repeat(f.est) + '<span style="color:var(--gris2)">' + "★".repeat(3 - f.est) + "</span></div><h2>" + titulo + '</h2><div class="st2">' + esc(sub) + '</div>' +
+      '<div class="rows"><div class="rw"><div class="ri">⚡</div><div class="rt2"><b>Puntos ganados</b><span>Puntos de esta práctica</span></div><div class="rv">+' + f.xp + '</div></div><div class="rw"><div class="ri">🔥</div><div class="rt2"><b>Racha</b><span>Días seguidos estudiando</span></div><div class="rv">' + f.racha + "</div></div></div>" +
       (f.rev.length ? '<div class="lbl">Para repasar</div><div class="rev">' + f.rev.map(function (it) { return "<div><b>" + esc(it.t) + "</b> · " + esc(it.es) + "</div>"; }).join("") + "</div>" : '<div class="st2">¡Sin errores que repasar! 🎉</div>') + '</div></div><div class="jf"><button class="btn pri" data-a="jfin">Continuar</button></div>';
   }
   function terminarSesion() {
@@ -332,7 +363,7 @@
   /* ---------- acciones ---------- */
   var A = {
     tab: function (el) { S.tab = el.dataset.t; $("#app").scrollTop = 0; pintar(); }, mcerrar: cerrar,
-    idi: hojaIdiomas,
+    idi: hojaIdiomas, tema: function () { setTema(TEMAS[(TEMAS.indexOf(temaPref()) + 1) % TEMAS.length]); }, temaset: function (el) { setTema(el.dataset.v); }, fil: function (el) { S.fil = el.dataset.v; pintar(); },
     setidi: function (el) { db.aj.idioma = el.dataset.v; touch("ajustes", "a", db.aj); cerrar(); cargarCurso(db.aj.idioma).then(function () { pintar(); }); },
     guia: function (el) { hojaGuia(+el.dataset.u); },
     nodo: function (el) { if (el.dataset.nv !== undefined) hojaNivel(+el.dataset.nv); else hojaNodo(+el.dataset.u, +el.dataset.i); },
@@ -379,13 +410,14 @@
 
   /* ---------- arranque ---------- */
   function boot() {
+    temaAplicar(); try { if (window.matchMedia) matchMedia("(prefers-color-scheme: dark)").addEventListener("change", function () { if (temaPref() === "auto") { temaAplicar(); pintar(); } }); } catch (e) {}
     window.ID_DEBUG = { db: function () { return db; }, S: S, A: A, P: function () { return P; }, M: M };
     cargarCurso(db.aj.idioma).then(function () { pintar(); return sync(false); }).then(function () { return cargarCurso(db.aj.idioma); }).then(function () { pintar(); buscarActualizacion(); }).catch(function () { $("#app").innerHTML = '<div class="vacio"><b>No se pudo cargar el curso</b>Abre la app con internet una vez.</div>'; });
         if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(function () {});
   }
   FergardAcceso.iniciar({
     app: "idiomas", nombre: "Idiomas", clientId: CFG.CLIENT_ID, onListo: boot,
-    tema: { bg: "#F1FAF9", fg: "#0B3B40", mut: "#3E6A6D", acento: "#0E7C86", btnBg: "#0E7C86", btnFg: "#FFFFFF", font: "'Trebuchet MS','Segoe UI',system-ui,sans-serif" },
-    marca: '<svg width="46" height="46" viewBox="0 0 24 24" fill="none" stroke="#0E7C86" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h12a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2H9l-4 3v-3H4a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/><path d="M20 9a2 2 0 0 1 1 2v5a1 1 0 0 1-1 1h-1v2l-3-2"/></svg>'
+    tema: { bg: "#F4F5FB", fg: "#171A3A", mut: "#5B6089", acento: "#4F46E5", btnBg: "#4F46E5", btnFg: "#FFFFFF", font: "-apple-system,'SF Pro Display','Segoe UI',system-ui,sans-serif" },
+    marca: '<svg width="46" height="46" viewBox="0 0 24 24" fill="none" stroke="#4F46E5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h12a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2H9l-4 3v-3H4a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/><path d="M20 9a2 2 0 0 1 1 2v5a1 1 0 0 1-1 1h-1v2l-3-2"/></svg>'
   });
 })();
