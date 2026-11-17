@@ -1,0 +1,218 @@
+{
+  "id": "it-a2-u8",
+  "idioma": "it",
+  "nivel": "A2",
+  "n": 8,
+  "titulo": "Comida y restaurante",
+  "resumen": "Aprenderás a leer un menú, pedir con «del / della», hablar de cantidades y pagar en un restaurante.",
+  "puedo": [
+    "Entender las partes de un menú italiano.",
+    "Pedir comida y bebida con «del», «dello», «della».",
+    "Hablar de cantidades con «molto», «poco» y «quanto».",
+    "Reservar una mesa y pedir la cuenta.",
+    "Dar mi opinión sobre la comida."
+  ],
+  "gramatica": {
+    "titulo": "El partitivo: del, dello, della, dei, delle",
+    "texto": "Cuando quieres «algo de» o «un poco de» una cosa, sin decir la cantidad exacta, usas el partitivo: de + el artículo. En español basta decir «quisiera pan»; en italiano suele decirse «vorrei del pane».\nLas formas son como los artículos que ya sabes: del (il), dello (lo), della (la), dell' (l'), dei (i), degli (gli), delle (le).\nEjemplos: del pane, dello zucchero, della frutta, dell'acqua, dei panini, delle patate.\nNo se usa en frases negativas: «Non voglio pane», no «non voglio del pane».",
+    "tabla": [
+      ["del pane", "(algo de) pan", "del páne"],
+      ["dello zucchero", "(algo de) azúcar", "délo dsúquero"],
+      ["della frutta", "(algo de) fruta", "déla frúta"],
+      ["dell'acqua", "(algo de) agua", "delákua"],
+      ["dei panini", "(unos) sándwiches", "déi paníni"],
+      ["delle patate", "(unas) papas", "dele patáte"]
+    ],
+    "errores": [
+      "No omitas el partitivo siempre: en italiano «Vorrei pane» suena pobre; mejor «Vorrei del pane».",
+      "En frases negativas no se usa: «Non ho pane» (no «non ho del pane»).",
+      "Elige la forma según el artículo: del pane, della pasta, dello zucchero, dell'olio."
+    ]
+  },
+  "practica": [
+    "Abre tu refrigerador y di 10 alimentos con el partitivo: «del latte, della frutta, dei pomodori...» (5 minutos).",
+    "Escribe un pedido de restaurante completo: entrada, plato fuerte, bebida y postre (5 minutos).",
+    "Practica en voz alta el diálogo de la reserva cambiando el número de personas y la hora (5 minutos).",
+    "Di cinco frases con «molto», «poco» o «troppo» sobre tus comidas favoritas (3 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-a2-u8-l1",
+      "n": 1,
+      "titulo": "El menú italiano",
+      "objetivo": "Reconocer las partes de un menú y nombrar platos típicos.",
+      "intro": "Un menú italiano tiene un orden: antipasto, primo, secondo, contorno y dolce. Truco: «primo» es casi siempre pasta o sopa y «secondo» es carne o pescado.",
+      "palabras": [
+        { "t": "l'antipasto", "es": "la entrada", "pron": "lantipásto", "ej": "L'antipasto è buono.", "ejes": "La entrada está rica.", "cog": false },
+        { "t": "il primo", "es": "el primer plato (pasta, arroz, sopa)", "pron": "il prímo", "ej": "Il primo è la pasta.", "ejes": "El primer plato es la pasta.", "cog": false },
+        { "t": "il secondo", "es": "el segundo plato (carne, pescado)", "pron": "il secóndo", "ej": "Il secondo è il pollo.", "ejes": "El segundo es el pollo.", "cog": false },
+        { "t": "il contorno", "es": "la guarnición", "pron": "il contórno", "ej": "Il contorno è l'insalata.", "ejes": "La guarnición es la ensalada.", "cog": false },
+        { "t": "il dolce", "es": "el postre", "pron": "il dólche", "ej": "Il dolce è squisito.", "ejes": "El postre está exquisito.", "cog": false },
+        { "t": "il pesce", "es": "el pescado", "pron": "il péshe", "ej": "Il pesce è fresco.", "ejes": "El pescado está fresco.", "cog": false, "truco": "«sce» suena «she»." },
+        { "t": "la carne", "es": "la carne", "pron": "la cárne", "ej": "La carne è buona.", "ejes": "La carne está rica.", "cog": true },
+        { "t": "il pollo", "es": "el pollo", "pron": "il póllo", "ej": "Il pollo con le patate.", "ejes": "El pollo con papas.", "cog": true },
+        { "t": "il gelato", "es": "el helado", "pron": "il yeláto", "ej": "Il gelato è molto buono.", "ejes": "El helado está muy rico.", "cog": false },
+        { "t": "il menù", "es": "el menú", "pron": "il menú", "ej": "Il menù è lungo.", "ejes": "El menú es largo.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Come antipasto, il prosciutto.", "es": "De entrada, el jamón.", "pron": "kóme antipásto, il proshútto" },
+        { "t": "Come primo, la pasta.", "es": "De primer plato, la pasta.", "pron": "kóme prímo, la pásta" },
+        { "t": "Come secondo, il pesce.", "es": "De segundo, el pescado.", "pron": "kóme secóndo, il péshe" },
+        { "t": "Come dolce, il gelato.", "es": "De postre, el helado.", "pron": "kóme dólche, il yeláto" }
+      ],
+      "dialogo": {
+        "titulo": "Leyendo el menú",
+        "lineas": [
+          { "q": "A", "t": "Che cosa prendi come primo?", "es": "¿Qué tomas de primer plato?" },
+          { "q": "B", "t": "La pasta. E tu?", "es": "La pasta. ¿Y tú?" },
+          { "q": "A", "t": "Io prendo la zuppa. Come secondo, il pollo.", "es": "Yo tomo la sopa. De segundo, el pollo." },
+          { "q": "B", "t": "Io il pesce. E come dolce, il gelato!", "es": "Yo el pescado. ¡Y de postre, el helado!" }
+        ]
+      },
+      "nota": "Una comida completa en Italia sigue ese orden, pero nadie está obligado a pedir todo: muchos piden solo un primo o un secondo. «Prendo» (tomo) se usa mucho al pedir."
+    },
+    {
+      "id": "it-a2-u8-l2",
+      "n": 2,
+      "titulo": "Pedir con «del» y «della»",
+      "objetivo": "Pedir comida y bebida usando el partitivo.",
+      "intro": "Aquí aparece la idea de la unidad: «algo de» se dice «del / della». Truco: es «de» + el artículo que ya conoces: il pane → del pane; la frutta → della frutta.",
+      "palabras": [
+        { "t": "del pane", "es": "(algo de) pan", "pron": "del páne", "ej": "Vorrei del pane, per favore.", "ejes": "Quisiera pan, por favor.", "cog": false },
+        { "t": "dello zucchero", "es": "(algo de) azúcar", "pron": "délo dsúquero", "ej": "Posso avere dello zucchero?", "ejes": "¿Me da azúcar?", "cog": false },
+        { "t": "della frutta", "es": "(algo de) fruta", "pron": "déla frúta", "ej": "Prendo della frutta.", "ejes": "Tomo fruta.", "cog": false },
+        { "t": "dell'acqua", "es": "(algo de) agua", "pron": "delákua", "ej": "Vorrei dell'acqua, per favore.", "ejes": "Quisiera agua, por favor.", "cog": false },
+        { "t": "dei panini", "es": "(unos) sándwiches", "pron": "déi paníni", "ej": "Ci sono dei panini?", "ejes": "¿Hay sándwiches?", "cog": false },
+        { "t": "delle patate", "es": "(unas) papas", "pron": "déle patáte", "ej": "Vorrei delle patate.", "ejes": "Quisiera papas.", "cog": false },
+        { "t": "del formaggio", "es": "(algo de) queso", "pron": "del formáddyo", "ej": "Prendo del formaggio.", "ejes": "Tomo queso.", "cog": false, "truco": "«gg» + i suena «dy»." },
+        { "t": "del riso", "es": "(algo de) arroz", "pron": "del ríso", "ej": "Vorrei del riso.", "ejes": "Quisiera arroz.", "cog": false },
+        { "t": "dell'olio", "es": "(algo de) aceite", "pron": "delólio", "ej": "Vorrei dell'olio.", "ejes": "Quisiera aceite.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Vorrei del pane, per favore.", "es": "Quisiera pan, por favor.", "pron": "vorréi del páne, per favóre" },
+        { "t": "Posso avere dell'acqua?", "es": "¿Me da agua?", "pron": "pósso avére delákua" },
+        { "t": "Prendo della frutta.", "es": "Tomo fruta.", "pron": "préndo déla frúta" },
+        { "t": "Non voglio formaggio, grazie.", "es": "No quiero queso, gracias.", "pron": "non vóllio formáddyo, grátsie" },
+        { "t": "Ci sono dei panini?", "es": "¿Hay sándwiches?", "pron": "chi sóno déi paníni" }
+      ],
+      "dialogo": {
+        "titulo": "En la mesa",
+        "lineas": [
+          { "q": "A", "t": "Vorrei del pane, per favore.", "es": "Quisiera pan, por favor." },
+          { "q": "B", "t": "Certo! Vuole anche dell'acqua?", "es": "¡Claro! ¿Quiere también agua?" },
+          { "q": "A", "t": "Sì, grazie. E posso avere dell'olio?", "es": "Sí, gracias. ¿Y me da aceite?" },
+          { "q": "B", "t": "Ecco a lei!", "es": "¡Aquí tiene!" }
+        ]
+      },
+      "nota": "«Ci sono» significa «hay» (plural) y «c'è» «hay» (singular). El partitivo es muy natural en italiano hablado. En negativo se omite: «Non ho pane»."
+    },
+    {
+      "id": "it-a2-u8-l3",
+      "n": 3,
+      "titulo": "Cantidades: molto, poco, quanto",
+      "objetivo": "Hablar de cuánto hay o cuánto quieres de algo.",
+      "intro": "Para cantidades usa «molto» (mucho), «poco» (poco) y «quanto» (cuánto). Truco: concuerdan con el sustantivo como un adjetivo: molto pane, molta frutta, molti panini, molte patate.",
+      "palabras": [
+        { "t": "molto", "es": "mucho (masc.)", "pron": "mólto", "ej": "Mangio molto pane.", "ejes": "Como mucho pan.", "cog": true, "truco": "Femenino: molta; plural: molti, molte." },
+        { "t": "poco", "es": "poco (masc.)", "pron": "póco", "ej": "Bevo poco vino.", "ejes": "Bebo poco vino.", "cog": true, "truco": "Femenino: poca; plural: pochi, poche." },
+        { "t": "troppo", "es": "demasiado", "pron": "tróppo", "ej": "C'è troppo sale.", "ejes": "Hay demasiada sal.", "cog": false },
+        { "t": "abbastanza", "es": "bastante", "pron": "abbastántsa", "ej": "Il pranzo è abbastanza caro.", "ejes": "El almuerzo es bastante caro.", "cog": false },
+        { "t": "quanto", "es": "cuánto (masc.)", "pron": "cuánto", "ej": "Quanto pane vuoi?", "ejes": "¿Cuánto pan quieres?", "cog": true, "truco": "Femenino: quanta; plural: quanti, quante." },
+        { "t": "un po' di", "es": "un poco de", "pron": "un po di", "ej": "Vorrei un po' di vino.", "ejes": "Quisiera un poco de vino.", "cog": false },
+        { "t": "un chilo", "es": "un kilo", "pron": "un quílo", "ej": "Vorrei un chilo di pasta.", "ejes": "Quisiera un kilo de pasta.", "cog": true },
+        { "t": "il sale", "es": "la sal", "pron": "il sále", "ej": "Il sale, per favore.", "ejes": "La sal, por favor.", "cog": true },
+        { "t": "la bottiglia", "es": "la botella", "pron": "la bottíllia", "ej": "La bottiglia è piena.", "ejes": "La botella está llena.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Mangio molta frutta.", "es": "Como mucha fruta.", "pron": "mányo mólta frúta" },
+        { "t": "Bevo poco vino.", "es": "Bebo poco vino.", "pron": "bévo póco víno" },
+        { "t": "Quanta acqua vuoi?", "es": "¿Cuánta agua quieres?", "pron": "cuánta ákua vuói" },
+        { "t": "C'è troppo sale!", "es": "¡Hay demasiada sal!", "pron": "chè tróppo sále" },
+        { "t": "Una bottiglia d'acqua, per favore.", "es": "Una botella de agua, por favor.", "pron": "úna bottíllia dákua, per favóre" }
+      ],
+      "dialogo": {
+        "titulo": "Cenando en casa",
+        "lineas": [
+          { "q": "A", "t": "Quanta pasta vuoi, Elena?", "es": "¿Cuánta pasta quieres, Elena?" },
+          { "q": "B", "t": "Un po' di pasta, grazie. Mangio poco la sera.", "es": "Un poco de pasta, gracias. Como poco de noche." },
+          { "q": "A", "t": "E molta insalata?", "es": "¿Y mucha ensalada?" },
+          { "q": "B", "t": "Sì, mi piace molto l'insalata!", "es": "¡Sí, me gusta mucho la ensalada!" }
+        ]
+      },
+      "nota": "«Molto» como adverbio no cambia: «È molto buono», «Sono molto stanca». Solo cambia cuando acompaña a un sustantivo: «molta frutta». Truco: si puedes poner «mucho» antes de un sustantivo, concuerda."
+    },
+    {
+      "id": "it-a2-u8-l4",
+      "n": 4,
+      "titulo": "Reservar y pagar",
+      "objetivo": "Reservar mesa, pedir la cuenta y dividirla.",
+      "intro": "Antes de comer: reservar. Al terminar: pagar. Truco: «Siamo in tre» (somos tres) es la forma natural de decir cuántos van.",
+      "palabras": [
+        { "t": "il tavolo", "es": "la mesa", "pron": "il távolo", "ej": "Il tavolo è libero.", "ejes": "La mesa está libre.", "cog": false },
+        { "t": "prenotare", "es": "reservar", "pron": "prenotáre", "ej": "Vorrei prenotare un tavolo.", "ejes": "Quisiera reservar una mesa.", "cog": false },
+        { "t": "la prenotazione", "es": "la reserva", "pron": "la prenotatsióne", "ej": "La prenotazione è per le otto.", "ejes": "La reserva es para las ocho.", "cog": false },
+        { "t": "siamo in", "es": "somos (cuántos)", "pron": "siámo in", "ej": "Siamo in tre.", "ejes": "Somos tres.", "cog": false },
+        { "t": "il conto", "es": "la cuenta", "pron": "il cónto", "ej": "Il conto, per favore.", "ejes": "La cuenta, por favor.", "cog": false },
+        { "t": "la mancia", "es": "la propina", "pron": "la mántcha", "ej": "Lascio la mancia.", "ejes": "Dejo la propina.", "cog": false },
+        { "t": "dividere", "es": "dividir", "pron": "dividére", "ej": "Possiamo dividere il conto?", "ejes": "¿Podemos dividir la cuenta?", "cog": true },
+        { "t": "il coperto", "es": "el cubierto (cargo)", "pron": "il copérto", "ej": "Il coperto costa due euro.", "ejes": "El cubierto cuesta dos euros.", "cog": false },
+        { "t": "la carta di credito", "es": "la tarjeta de crédito", "pron": "la cárta di crédito", "ej": "Posso pagare con la carta di credito?", "ejes": "¿Puedo pagar con tarjeta de crédito?", "cog": true }
+      ],
+      "frases": [
+        { "t": "Vorrei prenotare un tavolo per due.", "es": "Quisiera reservar una mesa para dos.", "pron": "vorréi prenotáre un távolo per dúe" },
+        { "t": "Siamo in tre.", "es": "Somos tres.", "pron": "siámo in tré" },
+        { "t": "Il conto, per favore.", "es": "La cuenta, por favor.", "pron": "il cónto, per favóre" },
+        { "t": "Possiamo dividere il conto?", "es": "¿Podemos dividir la cuenta?", "pron": "possiámo dividére il cónto" },
+        { "t": "Posso pagare con la carta?", "es": "¿Puedo pagar con tarjeta?", "pron": "pósso pagáre con la cárta" }
+      ],
+      "dialogo": {
+        "titulo": "Reserva por teléfono",
+        "lineas": [
+          { "q": "A", "t": "Pronto, ristorante Da Mario. Dica!", "es": "Aló, restaurante Da Mario. ¡Dígame!" },
+          { "q": "B", "t": "Buonasera. Vorrei prenotare un tavolo per stasera.", "es": "Buenas noches. Quisiera reservar una mesa para esta noche." },
+          { "q": "A", "t": "Per quante persone?", "es": "¿Para cuántas personas?" },
+          { "q": "B", "t": "Siamo in quattro, alle otto.", "es": "Somos cuatro, a las ocho." },
+          { "q": "A", "t": "Va bene. A che nome?", "es": "Muy bien. ¿A nombre de quién?" }
+        ]
+      },
+      "nota": "En muchos restaurantes italianos se cobra el «coperto» (pan y cubierto) y la propina es opcional y pequeña. «Dica!» al teléfono es «¡dígame!»."
+    },
+    {
+      "id": "it-a2-u8-l5",
+      "n": 5,
+      "titulo": "Repaso: una cena en el restaurante",
+      "objetivo": "Pedir, opinar y pagar en una cena completa.",
+      "intro": "Junta todo: leer el menú, pedir con «del / della», hablar de cantidades y pagar. Truco: usa «Vorrei...» para pedir y «Prendo...» para decidir.",
+      "palabras": [
+        { "t": "prendo", "es": "tomo / pido", "pron": "préndo", "ej": "Io prendo la pizza.", "ejes": "Yo pido la pizza.", "cog": false },
+        { "t": "il cameriere", "es": "el mesero", "pron": "il cameriére", "ej": "Il cameriere è molto gentile.", "ejes": "El mesero es muy amable.", "cog": false },
+        { "t": "squisito", "es": "exquisito", "pron": "squisíto", "ej": "Il dolce è squisito.", "ejes": "El postre está exquisito.", "cog": false },
+        { "t": "caldo", "es": "caliente", "pron": "cáldo", "ej": "Il piatto è caldo.", "ejes": "El plato está caliente.", "cog": false },
+        { "t": "freddo", "es": "frío", "pron": "fréddo", "ej": "Il caffè è freddo.", "ejes": "El café está frío.", "cog": false },
+        { "t": "il piatto", "es": "el plato", "pron": "il piátto", "ej": "Il piatto del giorno è buono.", "ejes": "El plato del día está rico.", "cog": false },
+        { "t": "ancora", "es": "todavía / más", "pron": "ancóra", "ej": "Vorrei ancora del pane.", "ejes": "Quisiera más pan.", "cog": false },
+        { "t": "basta", "es": "basta / es suficiente", "pron": "básta", "ej": "Basta così, grazie.", "ejes": "Así está bien, gracias.", "cog": false },
+        { "t": "offrire", "es": "invitar / ofrecer", "pron": "offríre", "ej": "Posso offrire io?", "ejes": "¿Puedo invitar yo?", "cog": false }
+      ],
+      "frases": [
+        { "t": "Io prendo la pizza e una birra.", "es": "Yo pido una pizza y una cerveza.", "pron": "ío préndo la pítsa e úna bírra" },
+        { "t": "Il dolce è squisito!", "es": "¡El postre está exquisito!", "pron": "il dólche è squisíto" },
+        { "t": "Vorrei ancora del pane.", "es": "Quisiera más pan.", "pron": "vorréi ancóra del páne" },
+        { "t": "Basta così, grazie.", "es": "Así está bien, gracias.", "pron": "básta cosí, grátsie" },
+        { "t": "Stasera offro io.", "es": "Esta noche invito yo.", "pron": "stasséra óffro ío" }
+      ],
+      "dialogo": {
+        "titulo": "Una cena entre amigos",
+        "lineas": [
+          { "q": "A", "t": "Che cosa prendi come primo?", "es": "¿Qué pides de primer plato?" },
+          { "q": "B", "t": "Prendo della pasta e un po' di vino.", "es": "Pido pasta y un poco de vino." },
+          { "q": "A", "t": "Io il pesce con delle patate. Vuoi dell'acqua?", "es": "Yo el pescado con papas. ¿Quieres agua?" },
+          { "q": "B", "t": "Sì, grazie. Il pane è squisito!", "es": "Sí, gracias. ¡El pan está exquisito!" },
+          { "q": "A", "t": "Il conto, per favore. Stasera offro io.", "es": "La cuenta, por favor. Esta noche invito yo." },
+          { "q": "B", "t": "Grazie mille, Paola!", "es": "¡Muchas gracias, Paola!" }
+        ]
+      },
+      "nota": "Invitar se dice «offrire»: «Offro io» (invito yo). Entre amigos también se dice «facciamo alla romana» para dividir la cuenta en partes iguales."
+    }
+  ]
+}

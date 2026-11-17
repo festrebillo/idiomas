@@ -1,0 +1,225 @@
+{
+  "id": "it-a2-u1",
+  "idioma": "it",
+  "nivel": "A2",
+  "n": 1,
+  "titulo": "El fin de semana pasado",
+  "resumen": "Aprenderás a contar lo que hiciste ayer o el fin de semana pasado usando el passato prossimo con el verbo avere.",
+  "puedo": [
+    "Situar un hecho en el tiempo con ieri, sabato scorso o due giorni fa.",
+    "Nombrar actividades típicas del fin de semana.",
+    "Formar el passato prossimo con ho, hai y ha más el participio.",
+    "Contar lo que hicimos con abbiamo, avete y hanno.",
+    "Contar en pocas frases cómo fue mi fin de semana."
+  ],
+  "gramatica": {
+    "titulo": "El passato prossimo con avere (verbos regulares)",
+    "texto": "Para contar algo terminado en el pasado, el italiano usa dos piezas: el presente de «avere» (el verbo auxiliar, el que ayuda: ho, hai, ha...) + el participio del verbo principal.\nEl participio se forma así: -are pasa a -ato (parlare, parlato), -ere pasa a -uto (credere, creduto) y -ire pasa a -ito (dormire, dormito). Ejemplo: ieri ho mangiato una pizza.\nCon avere el participio NO cambia nunca: ho mangiato, abbiamo mangiato.\nEl passato prossimo sirve tanto para «comí» como para «he comido». Va bien con ieri, stamattina, sabato scorso, due giorni fa.",
+    "tabla": [
+      ["io ho parlato", "yo hablé / he hablado", "ío o parláto"],
+      ["tu hai parlato", "tú hablaste", "tu ái parláto"],
+      ["lui / lei ha parlato", "él / ella habló", "lui / léi a parláto"],
+      ["noi abbiamo parlato", "nosotros hablamos", "nói abbiámo parláto"],
+      ["voi avete parlato", "ustedes hablaron", "vói avéte parláto"],
+      ["loro hanno parlato", "ellos hablaron", "lóro ánno parláto"]
+    ],
+    "errores": [
+      "La «h» de ho, hai, ha y hanno es muda: «ho» suena «o». Se escribe para distinguirlo de «o» (o sea) y de «a» (a).",
+      "No olvides el auxiliar: no se dice «mangiato una pizza» sino «ho mangiato una pizza». Tampoco «ho mangiare»: se usa el participio, no el infinitivo.",
+      "Ojo con «gi» y «ci» y las dobles: mangiato suena manyáto; cenato, no «senato»; y «abbiamo» lleva doble b."
+    ]
+  },
+  "practica": [
+    "Escribe 5 frases sobre lo que hiciste ayer, empezando por «Ieri ho...» (5 minutos).",
+    "Di en voz alta, sin mirar, la tabla completa de «avere» con un verbo: ho, hai, ha, abbiamo, avete, hanno + parlato (3 minutos).",
+    "Cuéntale a alguien en italiano tu fin de semana pasado en 4 frases cortas y grábate con el celular (5 minutos).",
+    "Lee en voz alta los diálogos de la unidad y repite las frases con ho, hai y ha hasta decirlas de corrido (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-a2-u1-l1",
+      "n": 1,
+      "titulo": "¿Cuándo fue?",
+      "objetivo": "Ubicar un hecho en el pasado con expresiones de tiempo.",
+      "intro": "Antes de contar qué pasó hay que decir cuándo. Estas expresiones te servirán en toda la unidad. Truco: «scorso» (pasado) siempre acompaña a un día o un período: sabato scorso, la settimana scorsa.",
+      "palabras": [
+        { "t": "ieri", "es": "ayer", "pron": "iéri", "ej": "Ieri, che bella giornata!", "ejes": "Ayer, ¡qué bonito día!", "cog": false, "truco": "Suena «iéri»; la «i» inicial es corta." },
+        { "t": "ieri sera", "es": "anoche", "pron": "iéri séra", "ej": "Ieri sera, una cena a casa.", "ejes": "Anoche, una cena en casa.", "cog": false },
+        { "t": "stamattina", "es": "esta mañana", "pron": "stamatína", "ej": "Stamattina, un cornetto e un cappuccino.", "ejes": "Esta mañana, un croissant y un capuchino.", "cog": false, "truco": "«stamattina» = «questa mattina» (esta mañana) abreviado." },
+        { "t": "sabato scorso", "es": "el sábado pasado", "pron": "sábato scórso", "ej": "Il compleanno di Marco, sabato scorso.", "ejes": "El cumpleaños de Marco, el sábado pasado.", "cog": false, "truco": "«sc» + o suena «sk»: scórso." },
+        { "t": "domenica scorsa", "es": "el domingo pasado", "pron": "doménica scórsa", "ej": "Domenica scorsa, il pranzo con la famiglia.", "ejes": "El domingo pasado, el almuerzo con la familia.", "cog": false, "truco": "Scorso/scorsa concuerda: sabato scorso (m.), domenica scorsa (f.)." },
+        { "t": "la settimana scorsa", "es": "la semana pasada", "pron": "la settimána scórsa", "ej": "La settimana scorsa, tanto lavoro.", "ejes": "La semana pasada, mucho trabajo.", "cog": false },
+        { "t": "il fine settimana", "es": "el fin de semana", "pron": "il fíne settimána", "ej": "Il fine settimana mi piace dormire.", "ejes": "El fin de semana me gusta dormir.", "cog": false, "truco": "Fine es masculino: il fine settimana." },
+        { "t": "due giorni fa", "es": "hace dos días", "pron": "dúe yórni fa", "ej": "Due giorni fa, il compleanno di Ana.", "ejes": "Hace dos días, el cumpleaños de Ana.", "cog": false, "truco": "«fa» va detrás: due giorni fa (no «fa dos días»)." },
+        { "t": "un mese fa", "es": "hace un mes", "pron": "un méze fa", "ej": "Un mese fa, un viaggio a Roma.", "ejes": "Hace un mes, un viaje a Roma.", "cog": false },
+        { "t": "l'anno scorso", "es": "el año pasado", "pron": "lánno scórso", "ej": "L'anno scorso, le vacanze in Italia.", "ejes": "El año pasado, las vacaciones en Italia.", "cog": false, "truco": "Anno es masculino: l'anno scorso." }
+      ],
+      "frases": [
+        { "t": "Buon fine settimana!", "es": "¡Buen fin de semana!", "pron": "buón fíne settimána" },
+        { "t": "Che cosa fai sabato?", "es": "¿Qué haces el sábado?", "pron": "que cósa fái sábato" },
+        { "t": "Il fine settimana scorso, a Roma!", "es": "¡El fin de semana pasado, en Roma!", "pron": "il fíne settimána scórso, a róma" },
+        { "t": "Ieri sera, una cena con gli amici.", "es": "Anoche, una cena con los amigos.", "pron": "iéri séra, úna chéna con li amíchi" },
+        { "t": "Due giorni fa, la festa di Ana.", "es": "Hace dos días, la fiesta de Ana.", "pron": "dúe yórni fa, la fésta di ána" }
+      ],
+      "dialogo": {
+        "titulo": "Hablar del fin de semana",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Marco! Buon fine settimana!", "es": "¡Hola, Marco! ¡Buen fin de semana!" },
+          { "q": "B", "t": "Grazie, Giulia! Sabato, la festa di Luca.", "es": "¡Gracias, Giulia! El sábado, la fiesta de Luca." },
+          { "q": "A", "t": "Che bello! E domenica?", "es": "¡Qué bien! ¿Y el domingo?" },
+          { "q": "B", "t": "Domenica, la famiglia a casa.", "es": "El domingo, la familia en casa." },
+          { "q": "A", "t": "A lunedì, allora!", "es": "¡Hasta el lunes, entonces!" }
+        ]
+      },
+      "nota": "Todavía no contamos cosas pasadas con verbos: primero aprende estas marcas de tiempo. «Fa» (hace) va después de la cantidad de tiempo: una settimana fa, tre anni fa. En italiano la semana empieza el lunes, no el domingo."
+    },
+    {
+      "id": "it-a2-u1-l2",
+      "n": 2,
+      "titulo": "Ho + verbos en -are",
+      "objetivo": "Decir lo que hice con «ho», «hai» y «ha» y verbos que terminan en -are.",
+      "intro": "Los verbos en -are son los más comunes. Quita -are y pon -ato: parlare, parlato. Truco: «ho» + participio = «hice / he hecho», por ejemplo ho mangiato = comí.",
+      "palabras": [
+        { "t": "ho mangiato", "es": "comí / he comido", "pron": "o manyáto", "ej": "Ieri ho mangiato una pizza.", "ejes": "Ayer comí una pizza.", "cog": false, "truco": "«gi» suena como «y»: manyáto." },
+        { "t": "ho parlato", "es": "hablé / he hablado", "pron": "o parláto", "ej": "Stamattina ho parlato con Marco.", "ejes": "Esta mañana hablé con Marco.", "cog": false },
+        { "t": "ho lavorato", "es": "trabajé / he trabajado", "pron": "o lavoráto", "ej": "Sabato scorso ho lavorato molto.", "ejes": "El sábado pasado trabajé mucho.", "cog": false },
+        { "t": "ho comprato", "es": "compré / he comprado", "pron": "o compráto", "ej": "Ieri ho comprato il pane.", "ejes": "Ayer compré el pan.", "cog": false },
+        { "t": "ho cenato", "es": "cené / he cenado", "pron": "o chenáto", "ej": "Ieri sera ho cenato a casa.", "ejes": "Anoche cené en casa.", "cog": false, "truco": "«ce» suena «che»: chenáto." },
+        { "t": "hai guardato", "es": "miraste / has mirado", "pron": "ái guardáto", "ej": "Ieri hai guardato un film.", "ejes": "Ayer miraste una película.", "cog": false, "truco": "«gu» + a suena «gua»: guardáto." },
+        { "t": "hai ascoltato", "es": "escuchaste / has escuchado", "pron": "ái ascoltáto", "ej": "Hai ascoltato la musica?", "ejes": "¿Escuchaste la música?", "cog": false },
+        { "t": "ha cucinato", "es": "cocinó / ha cocinado", "pron": "a cuchináto", "ej": "Domenica scorsa ha cucinato la nonna.", "ejes": "El domingo pasado cocinó la abuela.", "cog": false, "truco": "«cu» suena «cu»: cuchináto." },
+        { "t": "ha pagato", "es": "pagó / ha pagado", "pron": "a pagáto", "ej": "Luca ha pagato il conto.", "ejes": "Luca pagó la cuenta.", "cog": true },
+        { "t": "ho studiato", "es": "estudié / he estudiado", "pron": "o studiáto", "ej": "Sabato ho studiato italiano.", "ejes": "El sábado estudié italiano.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Ieri ho mangiato una pizza.", "es": "Ayer comí una pizza.", "pron": "iéri o manyáto úna pítsa" },
+        { "t": "Ho parlato con Marco.", "es": "Hablé con Marco.", "pron": "o parláto con márco" },
+        { "t": "Hai guardato un film?", "es": "¿Miraste una película?", "pron": "ái guardáto un film" },
+        { "t": "Giulia ha cucinato la pasta.", "es": "Giulia cocinó la pasta.", "pron": "yúlia a cuchináto la pásta" },
+        { "t": "Ieri sera ho cenato a casa.", "es": "Anoche cené en casa.", "pron": "iéri séra o chenáto a casa" },
+        { "t": "Luca ha pagato il conto.", "es": "Luca pagó la cuenta.", "pron": "lúca a pagáto il cónto" }
+      ],
+      "dialogo": {
+        "titulo": "¿Qué hiciste ayer?",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Giulia! Che cosa hai fatto ieri?", "es": "¡Hola, Giulia! ¿Qué hiciste ayer?" },
+          { "q": "B", "t": "Ieri ho lavorato e ho studiato italiano.", "es": "Ayer trabajé y estudié italiano." },
+          { "q": "A", "t": "E ieri sera?", "es": "¿Y anoche?" },
+          { "q": "B", "t": "Ho cenato a casa e ho guardato un film.", "es": "Cené en casa y miré una película." },
+          { "q": "A", "t": "Che bello!", "es": "¡Qué bien!" }
+        ]
+      },
+      "nota": "Cuando dos acciones van seguidas se repite «ho»: ho cenato e ho guardato. Anticipamos «hai fatto» (de «fare»): es irregular y lo verás en la unidad siguiente; por ahora cópialo como frase hecha. «Ho studiato» es cognado de «estudié», pero ojo: lleva «di» y se pronuncia stu-diá-to."
+    },
+    {
+      "id": "it-a2-u1-l3",
+      "n": 3,
+      "titulo": "Verbos en -ere y -ire",
+      "objetivo": "Formar el participio de los verbos en -ere y -ire y contar más acciones.",
+      "intro": "Los verbos en -ere pasan a -uto y los en -ire pasan a -ito. Truco: la vocal del participio recuerda la del verbo: -ere -> -uto (u de «completo»), -ire -> -ito.",
+      "palabras": [
+        { "t": "ho dormito", "es": "dormí / he dormido", "pron": "o dormíto", "ej": "Sabato ho dormito fino a tardi.", "ejes": "El sábado dormí hasta tarde.", "cog": false, "truco": "dormire -> dormito." },
+        { "t": "ho capito", "es": "entendí / he entendido", "pron": "o capíto", "ej": "Ieri ho capito la lezione.", "ejes": "Ayer entendí la lección.", "cog": false, "truco": "capire = entender." },
+        { "t": "ho finito", "es": "terminé / he terminado", "pron": "o finíto", "ej": "Stamattina ho finito il lavoro.", "ejes": "Esta mañana terminé el trabajo.", "cog": true },
+        { "t": "ho pulito", "es": "limpié / he limpiado", "pron": "o pulíto", "ej": "Domenica ho pulito la casa.", "ejes": "El domingo limpié la casa.", "cog": false, "truco": "pulire = limpiar (no «pulir»)." },
+        { "t": "hai venduto", "es": "vendiste / has vendido", "pron": "ái vendúto", "ej": "Hai venduto la macchina?", "ejes": "¿Vendiste el carro?", "cog": true },
+        { "t": "hai ricevuto", "es": "recibiste / has recibido", "pron": "ái rechevúto", "ej": "Ieri hai ricevuto un regalo.", "ejes": "Ayer recibiste un regalo.", "cog": true, "truco": "«ce» suena «che»: rechevúto." },
+        { "t": "ha creduto", "es": "creyó / ha creído", "pron": "a credúto", "ej": "Marco ha creduto ad Ana.", "ejes": "Marco le creyó a Ana.", "cog": true },
+        { "t": "ha aspettato", "es": "esperó / ha esperado", "pron": "a aspettáto", "ej": "Giulia ha aspettato un'ora.", "ejes": "Giulia esperó una hora.", "cog": false, "truco": "Doble t: aspet-táto. Es -are, no -ere." },
+        { "t": "ha preferito", "es": "prefirió / ha preferido", "pron": "a preferíto", "ej": "Luca ha preferito il tè.", "ejes": "Luca prefirió el té.", "cog": true },
+        { "t": "ha seguito", "es": "siguió / ha seguido", "pron": "a seguíto", "ej": "Ana ha seguito la lezione.", "ejes": "Ana siguió la lección.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Ho dormito fino a tardi.", "es": "Dormí hasta tarde.", "pron": "o dormíto fíno a tárdi" },
+        { "t": "Hai capito la lezione?", "es": "¿Entendiste la lección?", "pron": "ái capíto la letsióne" },
+        { "t": "Ho finito il lavoro.", "es": "Terminé el trabajo.", "pron": "o finíto il lavóro" },
+        { "t": "Hai ricevuto il regalo?", "es": "¿Recibiste el regalo?", "pron": "ái rechevúto il regálo" },
+        { "t": "Luca ha preferito il tè.", "es": "Luca prefirió el té.", "pron": "lúca a preferíto il tè" },
+        { "t": "Ho pulito la casa.", "es": "Limpié la casa.", "pron": "o pulíto la cása" }
+      ],
+      "dialogo": {
+        "titulo": "Un sábado tranquilo",
+        "lineas": [
+          { "q": "A", "t": "Marco, che cosa hai fatto sabato?", "es": "Marco, ¿qué hiciste el sábado?" },
+          { "q": "B", "t": "Ho dormito fino a tardi e ho pulito la casa.", "es": "Dormí hasta tarde y limpié la casa." },
+          { "q": "A", "t": "Hai finito il lavoro?", "es": "¿Terminaste el trabajo?" },
+          { "q": "B", "t": "Sì, ho finito stamattina.", "es": "Sí, lo terminé esta mañana." },
+          { "q": "A", "t": "Che bello!", "es": "¡Qué bien!" }
+        ]
+      },
+      "nota": "Verbos en -ire con «-isc-» en presente (capisco, preferisco, finisco) forman igual el participio: capito, preferito, finito. Los verbos en -ere regulares como vendere y ricevere hacen -uto. «Aspettare» es -are: aspettato, no «aspettuto»."
+    },
+    {
+      "id": "it-a2-u1-l4",
+      "n": 4,
+      "titulo": "Lo hicimos juntos",
+      "objetivo": "Contar lo que hicimos nosotros, ustedes y ellos con abbiamo, avete y hanno.",
+      "intro": "Ya conoces ho, hai y ha. Ahora los plurales: abbiamo (nosotros), avete (ustedes) y hanno (ellos). Truco: «hanno» lleva doble n y h inicial; «anno» (año) no la lleva.",
+      "palabras": [
+        { "t": "abbiamo mangiato", "es": "comimos / hemos comido", "pron": "abbiámo manyáto", "ej": "Ieri abbiamo mangiato insieme.", "ejes": "Ayer comimos juntos.", "cog": false, "truco": "Doble b: ab-biá-mo." },
+        { "t": "abbiamo giocato", "es": "jugamos / hemos jugado", "pron": "abbiámo yocáto", "ej": "Sabato abbiamo giocato a calcio.", "ejes": "El sábado jugamos al fútbol.", "cog": false },
+        { "t": "abbiamo visitato", "es": "visitamos / hemos visitado", "pron": "abbiámo visitáto", "ej": "Domenica abbiamo visitato la nonna.", "ejes": "El domingo visitamos a la abuela.", "cog": true },
+        { "t": "avete cantato", "es": "cantaron / han cantado", "pron": "avéte cantáto", "ej": "Ieri sera avete cantato molto.", "ejes": "Anoche cantaron mucho.", "cog": true },
+        { "t": "avete ballato", "es": "bailaron / han bailado", "pron": "avéte balláto", "ej": "Avete ballato alla festa?", "ejes": "¿Bailaron en la fiesta?", "cog": false, "truco": "Doble l: bal-láto." },
+        { "t": "hanno aspettato", "es": "esperaron / han esperado", "pron": "ánno aspettáto", "ej": "Gli amici hanno aspettato un'ora.", "ejes": "Los amigos esperaron una hora.", "cog": false },
+        { "t": "hanno viaggiato", "es": "viajaron / han viajado", "pron": "ánno viayáto", "ej": "I miei nonni hanno viaggiato molto.", "ejes": "Mis abuelos viajaron mucho.", "cog": true, "truco": "«gi» suena como «y»: viayáto." },
+        { "t": "hanno dormito", "es": "durmieron / han dormido", "pron": "ánno dormíto", "ej": "I bambini hanno dormito tutto il giorno.", "ejes": "Los niños durmieron todo el día.", "cog": false },
+        { "t": "insieme", "es": "juntos", "pron": "insiéme", "ej": "Abbiamo cenato insieme.", "ejes": "Cenamos juntos.", "cog": false, "truco": "«insieme» = in + sieme, pero lo dices de corrido." }
+      ],
+      "frases": [
+        { "t": "Abbiamo mangiato insieme.", "es": "Comimos juntos.", "pron": "abbiámo manyáto insiéme" },
+        { "t": "Sabato abbiamo giocato a calcio.", "es": "El sábado jugamos al fútbol.", "pron": "sábato abbiámo yocáto a cálcho" },
+        { "t": "Avete ballato alla festa?", "es": "¿Bailaron en la fiesta?", "pron": "avéte balláto ála fésta" },
+        { "t": "I nonni hanno viaggiato molto.", "es": "Los abuelos viajaron mucho.", "pron": "i nónni ánno viayáto mólto" },
+        { "t": "Gli amici hanno aspettato un'ora.", "es": "Los amigos esperaron una hora.", "pron": "li amíchi ánno aspettáto un óra" }
+      ],
+      "dialogo": {
+        "titulo": "Una fiesta con amigos",
+        "lineas": [
+          { "q": "A", "t": "Ciao! Dove avete cenato ieri sera?", "es": "¡Hola! ¿Dónde cenaron anoche?" },
+          { "q": "B", "t": "Abbiamo cenato a casa di Luca.", "es": "Cenamos en casa de Luca." },
+          { "q": "A", "t": "E poi?", "es": "¿Y después?" },
+          { "q": "B", "t": "Abbiamo ballato e abbiamo cantato!", "es": "¡Bailamos y cantamos!" },
+          { "q": "A", "t": "Che bella serata!", "es": "¡Qué linda velada!" }
+        ]
+      },
+      "nota": "Con «abbiamo», «avete» y «hanno» el participio sigue sin cambiar: abbiamo cantato (aunque cantemos mujeres). «Hanno» (ellos tienen) y «anno» (año) se pronuncian igual: ánno; solo se distingue por contexto. Para decir «jugar a» un deporte usa «giocare a»: giocare a calcio."
+    },
+    {
+      "id": "it-a2-u1-l5",
+      "n": 5,
+      "titulo": "Mi fin de semana (repaso)",
+      "objetivo": "Contar mi fin de semana mezclando todas las personas y tipos de verbo.",
+      "intro": "Hoy lo juntas todo: tiempo, auxiliar y participio. Truco: antes de hablar, piensa tres cosas: cuándo (sabato), quién (ho / abbiamo) y qué (mangiato, dormito).",
+      "palabras": [
+        { "t": "ho passato", "es": "pasé / he pasado", "pron": "o passáto", "ej": "Sabato ho passato una bella giornata.", "ejes": "El sábado pasé un lindo día.", "cog": false, "truco": "passare = pasar (tiempo); doble s." },
+        { "t": "ho riposato", "es": "descansé / he descansado", "pron": "o riposáto", "ej": "Domenica ho riposato molto.", "ejes": "El domingo descansé mucho.", "cog": false },
+        { "t": "ho incontrato", "es": "me encontré con / conocí", "pron": "o incontráto", "ej": "Ho incontrato un amico al bar.", "ejes": "Me encontré con un amigo en el bar.", "cog": false, "truco": "Incontrare no es «encontrar objetos»: es encontrarse con alguien." },
+        { "t": "ho telefonato", "es": "llamé / he llamado", "pron": "o telefonáto", "ej": "Ho telefonato a mia nonna.", "ejes": "Llamé a mi abuela.", "cog": true, "truco": "Con telefonare se usa «a»: telefonare a qualcuno." },
+        { "t": "abbiamo preso", "es": "tomamos / hemos tomado", "pron": "abbiámo préso", "ej": "Abbiamo preso un caffè insieme.", "ejes": "Tomamos un café juntos.", "cog": false },
+        { "t": "abbiamo camminato", "es": "caminamos / hemos caminado", "pron": "abbiámo cammináto", "ej": "Domenica abbiamo camminato al parco.", "ejes": "El domingo caminamos en el parque.", "cog": false, "truco": "Doble m: cam-mi-náto." },
+        { "t": "hanno aiutato", "es": "ayudaron / han ayudado", "pron": "ánno aiutáto", "ej": "I miei amici hanno aiutato Ana.", "ejes": "Mis amigos ayudaron a Ana.", "cog": false },
+        { "t": "ho letto", "es": "leí / he leído", "pron": "o léto", "ej": "Ieri sera ho letto un libro.", "ejes": "Anoche leí un libro.", "cog": false, "truco": "Participio irregular: leggere -> letto." }
+      ],
+      "frases": [
+        { "t": "Sabato ho passato una bella giornata.", "es": "El sábado pasé un lindo día.", "pron": "sábato o passáto úna béla yornáta" },
+        { "t": "Domenica ho riposato molto.", "es": "El domingo descansé mucho.", "pron": "doménica o riposáto mólto" },
+        { "t": "Ho incontrato un amico al bar.", "es": "Me encontré con un amigo en el bar.", "pron": "o incontráto un amíco al bar" },
+        { "t": "Abbiamo preso un caffè insieme.", "es": "Tomamos un café juntos.", "pron": "abbiámo préso un cafè insiéme" },
+        { "t": "Ieri sera ho letto un libro.", "es": "Anoche leí un libro.", "pron": "iéri séra o léto un líbro" },
+        { "t": "Ho telefonato a mia nonna.", "es": "Llamé a mi abuela.", "pron": "o telefonáto a mía nónna" }
+      ],
+      "dialogo": {
+        "titulo": "Un lunes en la oficina",
+        "lineas": [
+          { "q": "A", "t": "Buongiorno, Marco! Com'è andato il fine settimana?", "es": "¡Buenos días, Marco! ¿Cómo te fue el fin de semana?" },
+          { "q": "B", "t": "Bene, grazie! Sabato ho dormito fino a tardi.", "es": "¡Bien, gracias! El sábado dormí hasta tarde." },
+          { "q": "A", "t": "E domenica?", "es": "¿Y el domingo?" },
+          { "q": "B", "t": "Abbiamo mangiato dalla nonna e ho riposato.", "es": "Comimos en casa de la abuela y descansé." },
+          { "q": "A", "t": "Che bello! Io ho lavorato.", "es": "¡Qué bien! Yo trabajé." }
+        ]
+      },
+      "nota": "En el diálogo «Com'è andato» es una frase hecha que verás completa en la unidad 2 (andato viene de andare y usa otro auxiliar). «Preso» (de prendere) y «letto» (de leggere) son participios irregulares con avere: los estudiarás mejor en la unidad siguiente. Repasa el esquema: cuándo + ho/abbiamo/hanno + participio."
+    }
+  ]
+}

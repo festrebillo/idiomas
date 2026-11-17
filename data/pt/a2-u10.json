@@ -1,0 +1,228 @@
+{
+  "id": "pt-a2-u10",
+  "idioma": "pt",
+  "nivel": "A2",
+  "n": 10,
+  "titulo": "Experiencias de vida",
+  "resumen": "Aprenderás a contar qué has hecho alguna vez en tu vida con «já» y «nunca» más el pasado: «já fui», «nunca comi».",
+  "puedo": [
+    "Decir qué lugares conozco con «já fui».",
+    "Decir qué nunca he hecho con «nunca».",
+    "Hablar de comidas y cosas que he probado.",
+    "Preguntar «Você já...?» y responder.",
+    "Contar mi mejor y peor experiencia con comparativos."
+  ],
+  "gramatica": {
+    "titulo": "Experiencias: já + pasado y nunca + pasado",
+    "texto": "Para decir qué has hecho alguna vez en tu vida, en Brasil se usa «já» + el pretérito simple (el pasado que ya conoces): Já fui ao Brasil (He ido a Brasil), Já comi feijoada (Ya comí feijoada).\nPara decir que nunca lo hiciste: «nunca» + pasado: Nunca fui à Argentina (Nunca he ido a Argentina), Nunca comi sushi.\nPara preguntar: Você já foi ao Brasil? Respuestas cortas: Já. / Ainda não. / Nunca.\nOjo: el pretérito compuesto «tenho ido» existe, pero en portugués expresa algo que se repite hasta ahora, no una experiencia de vida. Para experiencias usa siempre «já fui», «nunca comi».",
+    "tabla": [
+      ["Eu já fui ao Brasil.", "Ya fui / he ido a Brasil.", "éu ja fúi au brasíu"],
+      ["Eu nunca fui ao Japão.", "Nunca he ido a Japón.", "éu núnka fúi au japáun"],
+      ["Você já comeu feijoada?", "¿Has comido feijoada alguna vez?", "vosé ja koméu feiyoáda"],
+      ["Já. / Ainda não.", "Sí, ya. / Todavía no.", "ja / aínda náun"],
+      ["Ela nunca viu o mar.", "Ella nunca ha visto el mar.", "éla núnka víu u már"],
+      ["Eu já fiz isso.", "Eso ya lo hice.", "éu ja fís ísu"]
+    ],
+    "errores": [
+      "No uses «tenho ido» para experiencias: en Brasil se dice «Eu já fui», no «Eu tenho ido».",
+      "«Nunca» sola ya es negativa: se dice «Eu nunca fui», no «Eu não nunca fui».",
+      "«Já» es «ya», pero con pasado y en preguntas significa «alguna vez»: «Você já foi?» = «¿Has ido alguna vez?»."
+    ]
+  },
+  "practica": [
+    "Escribe 6 cosas que ya hiciste en tu vida con «Eu já...» y 4 cosas que nunca hiciste con «Eu nunca...» (6 minutos).",
+    "Pregunta en voz alta a alguien «Você já foi ao...?» con 5 lugares distintos y responde tú también (5 minutos).",
+    "Lee en voz alta 8 verbos en pasado: fui, fiz, vi, li, comi, bebi, dancei, aprendi (3 minutos).",
+    "Busca en YouTube «eu nunca...» en portugués y anota cuántas experiencias entiendes (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-a2-u10-l1",
+      "n": 1,
+      "titulo": "Lugares que conozco",
+      "objetivo": "Decir qué lugares conoces y cuáles nunca visitaste.",
+      "intro": "Con «já fui» cuentas un lugar que ya visitaste, y con «nunca fui» uno que no. Truco: «fui» es el pasado de ir y de ser; el contexto te dice cuál es.",
+      "palabras": [
+        { "t": "já", "es": "ya / alguna vez", "pron": "ja", "ej": "Eu já fui à praia.", "ejes": "Ya fui a la playa.", "cog": false, "truco": "«j» suena «y» fuerte: ya." },
+        { "t": "nunca", "es": "nunca", "pron": "núnka", "ej": "Eu nunca fui ao Japão.", "ejes": "Nunca he ido a Japón.", "cog": true },
+        { "t": "fui", "es": "fui (de ir o de ser)", "pron": "fúi", "ej": "Eu fui ao Brasil.", "ejes": "Fui a Brasil.", "cog": false, "truco": "Ya la viste: fui = fui (de ir)." },
+        { "t": "país", "es": "país", "pron": "país", "ej": "Que país você gosta?", "ejes": "¿Qué país te gusta?", "cog": true },
+        { "t": "cidade", "es": "ciudad", "pron": "sidádi", "ej": "Eu fui a uma cidade bonita.", "ejes": "Fui a una ciudad bonita.", "cog": false },
+        { "t": "viajar", "es": "viajar", "pron": "viayár", "ej": "Eu adoro viajar.", "ejes": "Me encanta viajar.", "cog": true },
+        { "t": "avião", "es": "avión", "pron": "aviáun", "ej": "Eu fui de avião.", "ejes": "Fui en avión.", "cog": true },
+        { "t": "praia", "es": "playa", "pron": "práia", "ej": "Eu fui à praia no verão.", "ejes": "Fui a la playa en verano.", "cog": false },
+        { "t": "ainda não", "es": "todavía no", "pron": "aínda náun", "ej": "Eu ainda não fui lá.", "ejes": "Todavía no he ido allá.", "cog": false },
+        { "t": "lá", "es": "allá", "pron": "lá", "ej": "Nunca fui lá.", "ejes": "Nunca he ido allá.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Eu já fui ao Brasil.", "es": "Ya he ido a Brasil.", "pron": "éu ja fúi au brasíu" },
+        { "t": "Eu nunca fui ao Japão.", "es": "Nunca he ido a Japón.", "pron": "éu núnka fúi au japáun" },
+        { "t": "Você já foi à praia?", "es": "¿Has ido alguna vez a la playa?", "pron": "vosé ja fói à práia" },
+        { "t": "Ainda não, mas quero ir.", "es": "Todavía no, pero quiero ir.", "pron": "aínda náun, máis kéru ír" },
+        { "t": "Eu fui de avião a São Paulo.", "es": "Fui en avión a São Paulo.", "pron": "éu fúi dyi aviáun a sáun páulu" }
+      ],
+      "dialogo": {
+        "titulo": "Você já viajou?",
+        "lineas": [
+          { "q": "A", "t": "Você já viajou de avião?", "es": "¿Ya viajaste en avión?" },
+          { "q": "B", "t": "Já! Eu fui ao Brasil no ano passado.", "es": "¡Sí! Fui a Brasil el año pasado." },
+          { "q": "A", "t": "Que legal! Eu nunca fui lá.", "es": "¡Qué bueno! Yo nunca he ido allá." },
+          { "q": "B", "t": "Você precisa ir! As praias são lindas.", "es": "¡Tienes que ir! Las playas son lindas." },
+          { "q": "A", "t": "Eu ainda não tenho dinheiro, mas vou um dia.", "es": "Todavía no tengo dinero, pero voy a ir algún día." }
+        ]
+      },
+      "nota": "«Fui» sirve para ir y para ser: «Eu fui ao Brasil» (fui) y «Eu fui professor» (fui profesor). Con lugares: «a + o» se une en «ao» (ao Brasil) y «a + a» en «à» (à praia)."
+    },
+    {
+      "id": "pt-a2-u10-l2",
+      "n": 2,
+      "titulo": "Comidas probadas",
+      "objetivo": "Decir qué comidas probaste y cuáles nunca comiste.",
+      "intro": "Para hablar de comida, usa «já comi» (ya comí) o «nunca comi» (nunca comí). Truco: con «ter» no hay «ya he comido», sino «já comi». Para varias veces: «uma vez», «duas vezes».",
+      "palabras": [
+        { "t": "comi", "es": "comí", "pron": "komí", "ej": "Eu já comi feijoada.", "ejes": "Ya comí feijoada.", "cog": false, "truco": "Pasado de comer: eu comi." },
+        { "t": "bebi", "es": "bebí", "pron": "bebí", "ej": "Eu nunca bebi chá gelado.", "ejes": "Nunca he tomado té helado.", "cog": false },
+        { "t": "experimentei", "es": "probé", "pron": "esperimentéi", "ej": "Eu experimentei sushi.", "ejes": "Probé sushi.", "cog": false },
+        { "t": "vez", "es": "vez", "pron": "vés", "ej": "Foi a primeira vez.", "ejes": "Fue la primera vez.", "cog": true, "truco": "Plural: vezes." },
+        { "t": "uma vez", "es": "una vez", "pron": "úma vés", "ej": "Eu comi uma vez só.", "ejes": "Comí solo una vez.", "cog": true },
+        { "t": "duas vezes", "es": "dos veces", "pron": "dúas vézis", "ej": "Eu já comi duas vezes.", "ejes": "Ya comí dos veces.", "cog": true },
+        { "t": "sempre", "es": "siempre", "pron": "sémpri", "ej": "Eu sempre como arroz.", "ejes": "Siempre como arroz.", "cog": true },
+        { "t": "sushi", "es": "sushi", "pron": "súshi", "ej": "Eu nunca comi sushi.", "ejes": "Nunca he comido sushi.", "cog": true },
+        { "t": "feijoada", "es": "feijoada", "pron": "feiyoáda", "ej": "Você já comeu feijoada?", "ejes": "¿Has comido feijoada alguna vez?", "cog": false },
+        { "t": "gostei", "es": "me gustó", "pron": "gostéi", "ej": "Eu gostei muito do bolo.", "ejes": "Me gustó mucho el pastel.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Eu já comi feijoada.", "es": "Ya he comido feijoada.", "pron": "éu ja komí feiyoáda" },
+        { "t": "Eu nunca comi sushi.", "es": "Nunca he comido sushi.", "pron": "éu núnka komí súshi" },
+        { "t": "Você já bebeu chá gelado?", "es": "¿Has tomado té helado alguna vez?", "pron": "vosé ja bebéu shá yeládu" },
+        { "t": "Eu comi uma vez e gostei muito.", "es": "Comí una vez y me gustó mucho.", "pron": "éu komí úma vés i gostéi múintu" },
+        { "t": "Foi a primeira vez que eu experimentei.", "es": "Fue la primera vez que probé.", "pron": "fói a primeira vés ki éu esperimentéi" }
+      ],
+      "dialogo": {
+        "titulo": "Uma comida nova",
+        "lineas": [
+          { "q": "A", "t": "Você já comeu feijoada?", "es": "¿Has comido feijoada alguna vez?" },
+          { "q": "B", "t": "Já, duas vezes. Eu gostei muito!", "es": "Sí, dos veces. ¡Me gustó mucho!" },
+          { "q": "A", "t": "Eu nunca comi. Como é?", "es": "Yo nunca la he comido. ¿Cómo es?" },
+          { "q": "B", "t": "É feijão com carne. É muito gostosa.", "es": "Es frijoles con carne. Es muy rica." },
+          { "q": "A", "t": "Então eu quero experimentar!", "es": "¡Entonces quiero probarla!" }
+        ]
+      },
+      "nota": "«Comi» (yo comí) y «comeu» (él/usted comió) son pasados de comer: el que lo hace cambia la terminación. «Experimentar» también significa probar comida, no solo experimentar en un laboratorio."
+    },
+    {
+      "id": "pt-a2-u10-l3",
+      "n": 3,
+      "titulo": "Cosas que he hecho",
+      "objetivo": "Contar actividades y experiencias de tu vida con «já» y «nunca».",
+      "intro": "Con ya y nunca puedes contar muchas cosas. Verbos útiles: ver (vi), leer (li), hacer (fiz), conocer (conheci). Truco: los irregulares «vi», «li», «fiz» se aprenden de memoria; los regulares, como «dancei», siguen la regla.",
+      "palabras": [
+        { "t": "vi", "es": "vi", "pron": "ví", "ej": "Eu já vi um filme brasileiro.", "ejes": "Ya vi una película brasileña.", "cog": false },
+        { "t": "li", "es": "leí", "pron": "lí", "ej": "Eu já li esse livro.", "ejes": "Ya leí ese libro.", "cog": false },
+        { "t": "fiz", "es": "hice", "pron": "fís", "ej": "Eu nunca fiz isso.", "ejes": "Nunca he hecho eso.", "cog": false },
+        { "t": "conheci", "es": "conocí", "pron": "koñesí", "ej": "Eu conheci um brasileiro.", "ejes": "Conocí a un brasileño.", "cog": false, "truco": "«nh» suena «ñ»." },
+        { "t": "dancei", "es": "bailé", "pron": "danséi", "ej": "Eu dancei samba uma vez.", "ejes": "Bailé samba una vez.", "cog": false },
+        { "t": "nadei", "es": "nadé", "pron": "nadéi", "ej": "Eu nadei no mar.", "ejes": "Nadé en el mar.", "cog": false },
+        { "t": "aprendi", "es": "aprendí", "pron": "aprendí", "ej": "Eu aprendi a cozinhar.", "ejes": "Aprendí a cocinar.", "cog": false },
+        { "t": "filme", "es": "película", "pron": "fílmi", "ej": "Esse filme é muito bom.", "ejes": "Esa película es muy buena.", "cog": true },
+        { "t": "livro", "es": "libro", "pron": "lívru", "ej": "Eu li um livro em português.", "ejes": "Leí un libro en portugués.", "cog": false },
+        { "t": "mar", "es": "mar", "pron": "már", "ej": "Eu nunca vi o mar.", "ejes": "Nunca he visto el mar.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu já vi um filme brasileiro.", "es": "Ya vi una película brasileña.", "pron": "éu ja ví ún fílmi brasiléiru" },
+        { "t": "Eu já li um livro em português.", "es": "Ya leí un libro en portugués.", "pron": "éu ja lí ún lívru ein portuguéis" },
+        { "t": "Eu nunca dancei samba.", "es": "Nunca he bailado samba.", "pron": "éu núnka danséi sámba" },
+        { "t": "Eu já nadei no mar.", "es": "Ya he nadado en el mar.", "pron": "éu ja nadéi nu már" },
+        { "t": "Eu conheci muitos amigos novos.", "es": "Conocí a muchos amigos nuevos.", "pron": "éu koñesí múintus amígus nóvus" },
+        { "t": "Eu nunca fiz isso antes.", "es": "Nunca he hecho eso antes.", "pron": "éu núnka fís ísu ántis" }
+      ],
+      "dialogo": {
+        "titulo": "Eu nunca...",
+        "lineas": [
+          { "q": "A", "t": "Eu nunca dancei samba. E você?", "es": "Yo nunca he bailado samba. ¿Y tú?" },
+          { "q": "B", "t": "Já, uma vez. Foi muito divertido!", "es": "Sí, una vez. ¡Fue muy divertido!" },
+          { "q": "A", "t": "Você já viu o mar?", "es": "¿Has visto el mar alguna vez?" },
+          { "q": "B", "t": "Já, eu nadei no mar no Rio.", "es": "Sí, nadé en el mar en Río." },
+          { "q": "A", "t": "Que legal! Eu nunca fui ao Rio.", "es": "¡Qué bueno! Yo nunca fui a Río." }
+        ]
+      },
+      "nota": "«Já vi» y «nunca vi» sirven para películas, lugares y personas. «Fiz» (hice) y «vi» (vi) son irregulares y muy usados: apréndelos primero."
+    },
+    {
+      "id": "pt-a2-u10-l4",
+      "n": 4,
+      "titulo": "Preguntar y responder",
+      "objetivo": "Preguntar «Você já...?» y dar respuestas cortas.",
+      "intro": "Para preguntar por una experiencia: «Você já + pasado?». Para responder sin repetir toda la frase: «Já», «Ainda não», «Nunca». Truco: «Já» sola significa «sí, ya».",
+      "palabras": [
+        { "t": "alguma vez", "es": "alguna vez", "pron": "algúma vés", "ej": "Você foi alguma vez ao Peru?", "ejes": "¿Fuiste alguna vez al Perú?", "cog": false },
+        { "t": "ainda", "es": "todavía / aún", "pron": "aínda", "ej": "Eu ainda estou aprendendo.", "ejes": "Todavía estoy aprendiendo.", "cog": false },
+        { "t": "sim", "es": "sí", "pron": "sín", "ej": "Sim, eu já fui.", "ejes": "Sí, ya fui.", "cog": false },
+        { "t": "não", "es": "no", "pron": "náun", "ej": "Não, eu nunca fui.", "ejes": "No, nunca fui.", "cog": false },
+        { "t": "mais de uma vez", "es": "más de una vez", "pron": "máis dyi úma vés", "ej": "Eu fui mais de uma vez.", "ejes": "Fui más de una vez.", "cog": false },
+        { "t": "primeira vez", "es": "primera vez", "pron": "priméira vés", "ej": "É a minha primeira vez aqui.", "ejes": "Es mi primera vez aquí.", "cog": false },
+        { "t": "foi", "es": "fue", "pron": "fói", "ej": "A viagem foi ótima.", "ejes": "El viaje fue genial.", "cog": false },
+        { "t": "melhor", "es": "mejor", "pron": "melyór", "ej": "Foi a melhor viagem.", "ejes": "Fue el mejor viaje.", "cog": true },
+        { "t": "pior", "es": "peor", "pron": "piór", "ej": "Foi o pior dia.", "ejes": "Fue el peor día.", "cog": true },
+        { "t": "ótimo", "es": "genial / excelente", "pron": "ótimu", "ej": "Foi um dia ótimo.", "ejes": "Fue un día genial.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Você já foi ao Peru?", "es": "¿Ya fuiste al Perú?", "pron": "vosé ja fói au perú" },
+        { "t": "Já, mais de uma vez.", "es": "Sí, más de una vez.", "pron": "ja, máis dyi úma vés" },
+        { "t": "Ainda não, mas vou um dia.", "es": "Todavía no, pero voy un día.", "pron": "aínda náun, máis vou ún día" },
+        { "t": "Foi a melhor viagem da minha vida.", "es": "Fue el mejor viaje de mi vida.", "pron": "fói a melyór viájein da míña vída" },
+        { "t": "Foi o pior dia do ano.", "es": "Fue el peor día del año.", "pron": "fói u piór día du ánu" },
+        { "t": "É a minha primeira vez no Brasil.", "es": "Es mi primera vez en Brasil.", "pron": "é a míña priméira vés nu brasíu" }
+      ],
+      "dialogo": {
+        "titulo": "Conversa de viagem",
+        "lineas": [
+          { "q": "A", "t": "Você já foi ao Peru?", "es": "¿Ya fuiste al Perú?" },
+          { "q": "B", "t": "Já, mais de uma vez! Eu gosto muito.", "es": "¡Sí, más de una vez! Me gusta mucho." },
+          { "q": "A", "t": "Qual foi a melhor viagem da sua vida?", "es": "¿Cuál fue el mejor viaje de tu vida?" },
+          { "q": "B", "t": "Foi Machu Picchu. E a pior?", "es": "Fue Machu Picchu. ¿Y el peor?" },
+          { "q": "A", "t": "Ainda não tenho uma pior. Foram todas ótimas!", "es": "Todavía no tengo un peor. ¡Todos fueron geniales!" }
+        ]
+      },
+      "nota": "«Ainda não» es «todavía no» y se puede usar sola como respuesta. «Melhor» y «pior» ya los viste en los comparativos y superlativos; aquí los reutilizas con «foi a melhor...»."
+    },
+    {
+      "id": "pt-a2-u10-l5",
+      "n": 5,
+      "titulo": "Repaso: mi vida hasta hoy",
+      "objetivo": "Mezclar lugares, comidas y actividades para contar tu vida hasta hoy.",
+      "intro": "En esta lección repasas todo: «já fui», «nunca comi», «já vi», «nunca fiz». Truco: arma una mini lista de 3 cosas que ya hiciste y 3 que nunca hiciste, y cuéntalas en voz alta.",
+      "palabras": [
+        { "t": "vida", "es": "vida", "pron": "vída", "ej": "Foi o melhor dia da minha vida.", "ejes": "Fue el mejor día de mi vida.", "cog": true },
+        { "t": "experiência", "es": "experiencia", "pron": "esperiénsia", "ej": "Foi uma experiência linda.", "ejes": "Fue una experiencia linda.", "cog": true },
+        { "t": "conhecer", "es": "conocer", "pron": "koñesér", "ej": "Eu quero conhecer o Rio.", "ejes": "Quiero conocer Río.", "cog": true },
+        { "t": "ano passado", "es": "año pasado", "pron": "ánu pasádu", "ej": "Eu viajei no ano passado.", "ejes": "Viajé el año pasado.", "cog": false },
+        { "t": "ainda", "es": "todavía", "pron": "aínda", "ej": "Ainda não fui ao Chile.", "ejes": "Todavía no he ido a Chile.", "cog": false },
+        { "t": "nunca mais", "es": "nunca más", "pron": "núnka máis", "ej": "Nunca mais volto lá.", "ejes": "Nunca más vuelvo allá.", "cog": false },
+        { "t": "viajei", "es": "viajé", "pron": "viayéi", "ej": "Eu viajei para o Chile.", "ejes": "Viajé a Chile.", "cog": false },
+        { "t": "sonho", "es": "sueño / meta", "pron": "sóñu", "ej": "Meu sonho é viajar muito.", "ejes": "Mi sueño es viajar mucho.", "cog": false },
+        { "t": "divertido", "es": "divertido", "pron": "dyivertídu", "ej": "O passeio foi divertido.", "ejes": "El paseo fue divertido.", "cog": true },
+        { "t": "inesquecível", "es": "inolvidable", "pron": "inesekével", "ej": "Foi uma viagem inesquecível.", "ejes": "Fue un viaje inolvidable.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Eu já fui ao Brasil e nunca fui à Argentina.", "es": "Ya fui a Brasil y nunca he ido a Argentina.", "pron": "éu ja fúi au brasíu i núnka fúi à arjentína" },
+        { "t": "Eu já comi feijoada e adorei.", "es": "Ya comí feijoada y me encantó.", "pron": "éu ja komí feiyoáda i adoréi" },
+        { "t": "Você já viu o mar?", "es": "¿Has visto el mar alguna vez?", "pron": "vosé ja víu u már" },
+        { "t": "Foi uma experiência inesquecível.", "es": "Fue una experiencia inolvidable.", "pron": "fói úma esperiénsia inesekével" },
+        { "t": "Eu nunca fiz isso, mas quero fazer.", "es": "Nunca lo hice, pero quiero hacerlo.", "pron": "éu núnka fís ísu, máis kéru fazér" }
+      ],
+      "dialogo": {
+        "titulo": "Contando a vida",
+        "lineas": [
+          { "q": "A", "t": "Eu já fui ao Brasil e já comi feijoada.", "es": "Ya fui a Brasil y ya comí feijoada." },
+          { "q": "B", "t": "Que legal! Eu nunca fui ao Brasil.", "es": "¡Qué bueno! Yo nunca fui a Brasil." },
+          { "q": "A", "t": "Você precisa ir. Foi uma experiência inesquecível.", "es": "Tienes que ir. Fue una experiencia inolvidable." },
+          { "q": "B", "t": "Meu sonho é conhecer o Rio. Você já nadou lá?", "es": "Mi sueño es conocer Río. ¿Ya nadaste allá?" },
+          { "q": "A", "t": "Já! Foi o melhor dia da minha vida.", "es": "¡Sí! Fue el mejor día de mi vida." },
+          { "q": "B", "t": "Então eu vou, com certeza!", "es": "¡Entonces voy, con seguridad!" }
+        ]
+      },
+      "nota": "Recuerda: para experiencias de vida usa «já + pasado» y «nunca + pasado». Para lo que haces ahora usa «estar + -ndo» (unidad 9). No mezcles los dos."
+    }
+  ]
+}

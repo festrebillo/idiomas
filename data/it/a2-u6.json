@@ -1,0 +1,224 @@
+{
+  "id": "it-a2-u6",
+  "idioma": "it",
+  "nivel": "A2",
+  "n": 6,
+  "titulo": "Viajes y transporte",
+  "resumen": "Aprenderás vocabulario de transporte, estación y aeropuerto y a hablar de tus planes de viaje con el presente, stare per y el futuro semplice.",
+  "puedo": [
+    "Nombrar medios de transporte y decir cómo me desplazo.",
+    "Comprar un billete y entender anuncios básicos en la estación.",
+    "Moverme en el aeropuerto: pasaporte, equipaje y puerta de embarque.",
+    "Decir que algo está a punto de pasar con stare per + infinitivo.",
+    "Hablar de mis planes con el presente y el futuro semplice (partirò, arriverò)."
+  ],
+  "gramatica": {
+    "titulo": "Hablar del futuro: presente, stare per y futuro semplice",
+    "texto": "El italiano tiene tres formas fáciles de hablar del futuro.\n1) El presente con una marca de tiempo: Domani parto (mañana parto). Es lo más común en la conversación.\n2) «Stare per» + infinitivo = estar a punto de: Il treno sta per partire (el tren está por salir).\n3) El futuro semplice, para planes y promesas: partirò, arriverò. Se forma quitando la -e del infinitivo y añadiendo -ò, -ai, -à, -emo, -ete, -anno. Los verbos en -are cambian la a por e: arrivare - arriverò. Irregulares útiles: essere - sarò, andare - andrò, avere - avrò.\nOjo: «andare a + infinitivo» NO es «ir a + infinitivo»: vado a mangiare = voy a un lugar a comer.",
+    "tabla": [
+      ["io partirò", "yo partiré", "ío partiró"],
+      ["tu partirai", "tú partirás", "tu partirái"],
+      ["lui / lei partirà", "él / ella partirá", "lui / léi partirá"],
+      ["noi partiremo", "nosotros partiremos", "nói partíremo"],
+      ["voi partirete", "ustedes partirán", "vói partírete"],
+      ["loro partiranno", "ellos partirán", "lóro partiránno"],
+      ["sto per partire", "estoy a punto de partir", "sto per partíre"]
+    ],
+    "errores": [
+      "«Andare a + infinitivo» no sirve para planes: «vado a mangiare» es «voy a (un lugar) a comer». Para decir «voy a comer» usa el presente («Domani mangio») o el futuro («Mangerò»).",
+      "El acento final del futuro es obligatorio: partirò, partirà (no «partiro»). Y en los verbos en -are la a cambia a e: arrivare - arriverò (no «arrivarò»).",
+      "«Stare per» solo sirve para algo inmediato: «Il treno sta per partire» (en segundos). Para el mes próximo no se usa «sto per»."
+    ]
+  },
+  "practica": [
+    "Mira tu agenda de la semana y di en voz alta cinco planes con «Domani...», «Sabato...» y el presente: «Domani parto, sabato lavoro...» (4 minutos).",
+    "Conjuga en voz alta partire, arrivare y prendere en futuro (partirò, partirai...) hasta que salgan sin mirar (4 minutos).",
+    "Imagina un viaje a Italia y escribe 6 frases con el futuro: «Arriverò a Roma... Prenderò il treno... Sarò in albergo...» (6 minutos).",
+    "Practica el diálogo de la estación con otra persona o contigo en voz alta: compra un billete de ida y vuelta y pregunta el andén (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-a2-u6-l1",
+      "n": 1,
+      "titulo": "Medios de transporte",
+      "objetivo": "Nombrar los medios de transporte y decir cómo viajo.",
+      "intro": "Para decir cómo te mueves usas «in» + medio: in treno, in autobus, in macchina. Truco: «a piedi» (a pie) es la excepción y usa «a».",
+      "palabras": [
+        { "t": "il treno", "es": "el tren", "pron": "il tréno", "ej": "Il treno è veloce.", "ejes": "El tren es rápido.", "cog": false },
+        { "t": "l'autobus", "es": "el autobús / bus", "pron": "láutobus", "ej": "L'autobus è lento.", "ejes": "El bus es lento.", "cog": true, "truco": "Se pronuncia «áutobus» y es masculino." },
+        { "t": "la metropolitana", "es": "el metro", "pron": "la metropolitána", "ej": "La metropolitana è economica.", "ejes": "El metro es barato.", "cog": true, "truco": "Se abrevia «la metro»." },
+        { "t": "il taxi", "es": "el taxi", "pron": "il táxi", "ej": "Il taxi è caro.", "ejes": "El taxi es caro.", "cog": true },
+        { "t": "la bicicletta", "es": "la bicicleta", "pron": "la bichiclétta", "ej": "La bicicletta è ecologica.", "ejes": "La bicicleta es ecológica.", "cog": true, "truco": "«ci» suena «chi»: bichiclétta." },
+        { "t": "l'aereo", "es": "el avión", "pron": "laéreo", "ej": "L'aereo è il più veloce.", "ejes": "El avión es el más rápido.", "cog": false, "truco": "Aereo = avión; aeroporto = aeropuerto." },
+        { "t": "in macchina", "es": "en carro / en auto", "pron": "in máquina", "ej": "Vado al lavoro in macchina.", "ejes": "Voy al trabajo en carro.", "cog": false, "truco": "Con «in» sin artículo: in macchina, in treno." },
+        { "t": "a piedi", "es": "a pie", "pron": "a piédi", "ej": "Vado a scuola a piedi.", "ejes": "Voy a la escuela a pie.", "cog": false, "truco": "Piedi = pies; a piedi = a pie." }
+      ],
+      "frases": [
+        { "t": "Vado a Roma in treno.", "es": "Voy a Roma en tren.", "pron": "vádo a róma in tréno" },
+        { "t": "Vado al lavoro in autobus.", "es": "Voy al trabajo en bus.", "pron": "vádo al lavóro in áutobus" },
+        { "t": "Il taxi è caro, il treno è economico.", "es": "El taxi es caro, el tren es barato.", "pron": "il táxi è cáro, il tren è economíco" },
+        { "t": "Vado a scuola a piedi.", "es": "Voy a la escuela a pie.", "pron": "vádo a scuóla a piédi" },
+        { "t": "Come vai a Firenze? In aereo?", "es": "¿Cómo vas a Florencia? ¿En avión?", "pron": "cóme vái a firéntse? in aéreo" }
+      ],
+      "dialogo": {
+        "titulo": "Cómo voy al trabajo",
+        "lineas": [
+          { "q": "A", "t": "Marco, come vai al lavoro?", "es": "Marco, ¿cómo vas al trabajo?" },
+          { "q": "B", "t": "Vado in autobus. E tu?", "es": "Voy en bus. ¿Y tú?" },
+          { "q": "A", "t": "Vado a piedi. Mi piace!", "es": "Voy a pie. ¡Me gusta!" },
+          { "q": "B", "t": "Ma il treno è più veloce.", "es": "Pero el tren es más rápido." },
+          { "q": "A", "t": "Sì, ma non c'è una stazione vicino.", "es": "Sí, pero no hay una estación cerca." }
+        ]
+      },
+      "nota": "Se dice «in treno», «in autobus», «in aereo», «in macchina», «in bicicletta» y «a piedi». Para ir a un lugar de la ciudad se usa «a» + artículo: vado al lavoro, vado a scuola. «C'è» = hay (singular). «Aereo» (avión) suena aéreo; la palabra «aeroporto» comparte la raíz."
+    },
+    {
+      "id": "it-a2-u6-l2",
+      "n": 2,
+      "titulo": "En la estación",
+      "objetivo": "Comprar un billete y entender información básica en una estación de tren.",
+      "intro": "Una estación italiana tiene muchas palabras en carteles y anuncios. Truco: aprende «biglietto» (billete), «binario» (andén) y «ritardo» (retraso) y entenderás casi todo.",
+      "palabras": [
+        { "t": "la stazione", "es": "la estación", "pron": "la statsióne", "ej": "La stazione è grande.", "ejes": "La estación es grande.", "cog": true, "truco": "«zi» suena «tsi»: statsióne." },
+        { "t": "binario", "es": "el andén / la vía", "pron": "binário", "ej": "Il treno parte dal binario cinque.", "ejes": "El tren sale del andén cinco.", "cog": false },
+        { "t": "il biglietto", "es": "el billete / el boleto", "pron": "il biliétto", "ej": "Il biglietto costa dieci euro.", "ejes": "El boleto cuesta diez euros.", "cog": false, "truco": "«gli» suena «li»: biliétto." },
+        { "t": "la partenza", "es": "la salida", "pron": "la parténtsa", "ej": "La partenza è alle nove.", "ejes": "La salida es a las nueve.", "cog": false },
+        { "t": "l'arrivo", "es": "la llegada", "pron": "larrívo", "ej": "L'arrivo è alle dodici.", "ejes": "La llegada es a las doce.", "cog": false },
+        { "t": "ritardo", "es": "el retraso", "pron": "ritárdo", "ej": "Il treno ha venti minuti di ritardo.", "ejes": "El tren tiene veinte minutos de retraso.", "cog": false },
+        { "t": "l'orario", "es": "el horario", "pron": "lorário", "ej": "L'orario è sul tabellone.", "ejes": "El horario está en el tablero.", "cog": true },
+        { "t": "andata e ritorno", "es": "ida y vuelta", "pron": "andáta e ritórno", "ej": "Un biglietto di andata e ritorno, per favore.", "ejes": "Un boleto de ida y vuelta, por favor.", "cog": false },
+        { "t": "solo andata", "es": "solo ida", "pron": "sólo andáta", "ej": "Un biglietto solo andata, per favore.", "ejes": "Un boleto solo de ida, por favor.", "cog": false },
+        { "t": "il posto", "es": "el asiento / el lugar", "pron": "il pósto", "ej": "Il posto è vicino al finestrino.", "ejes": "El asiento está junto a la ventanilla.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Un biglietto per Roma, per favore.", "es": "Un boleto a Roma, por favor.", "pron": "un biliétto per róma, per favóre" },
+        { "t": "Andata e ritorno, per favore.", "es": "Ida y vuelta, por favor.", "pron": "andáta e ritórno, per favóre" },
+        { "t": "A che ora parte il treno?", "es": "¿A qué hora sale el tren?", "pron": "a que óra párte il tren" },
+        { "t": "Da quale binario parte?", "es": "¿De qué andén sale?", "pron": "da cuále binário párte" },
+        { "t": "Il treno ha venti minuti di ritardo.", "es": "El tren tiene veinte minutos de retraso.", "pron": "il tren a vénti minúti di ritárdo" }
+      ],
+      "dialogo": {
+        "titulo": "En la taquilla",
+        "lineas": [
+          { "q": "A", "t": "Buongiorno! Un biglietto per Firenze, per favore.", "es": "¡Buenos días! Un boleto a Florencia, por favor." },
+          { "q": "B", "t": "Solo andata o andata e ritorno?", "es": "¿Solo ida o ida y vuelta?" },
+          { "q": "A", "t": "Andata e ritorno. Quanto costa?", "es": "Ida y vuelta. ¿Cuánto cuesta?" },
+          { "q": "B", "t": "Costa trenta euro. Il treno parte dal binario quattro.", "es": "Cuesta treinta euros. El tren sale del andén cuatro." },
+          { "q": "A", "t": "Grazie! A che ora parte?", "es": "¡Gracias! ¿A qué hora sale?" },
+          { "q": "B", "t": "Alle dieci e trenta.", "es": "A las diez y media." }
+        ]
+      },
+      "nota": "Antes de subir, en Italia hay que validar el billete en una máquina en el andén; si no, puede haber multa. «Partire» (salir) y «arrivare» (llegar) son los verbos clave: il treno parte, il treno arriva. «Quale» significa «cuál»: da quale binario (de qué andén)."
+    },
+    {
+      "id": "it-a2-u6-l3",
+      "n": 3,
+      "titulo": "En el aeropuerto",
+      "objetivo": "Moverme en el aeropuerto: facturar, pasar el control y llegar a la puerta.",
+      "intro": "El aeropuerto tiene su propio vocabulario, pero varias palabras se parecen al español: aeroporto, passaporto, controllo. Truco: la «a» final suele indicar femenino (la valigia) y la «o» masculino (il volo).",
+      "palabras": [
+        { "t": "l'aeroporto", "es": "el aeropuerto", "pron": "laeropórto", "ej": "L'aeroporto è grande.", "ejes": "El aeropuerto es grande.", "cog": true },
+        { "t": "il volo", "es": "el vuelo", "pron": "il vólo", "ej": "Il volo parte alle dieci.", "ejes": "El vuelo sale a las diez.", "cog": true },
+        { "t": "il passaporto", "es": "el pasaporte", "pron": "il pasapórto", "ej": "Ecco il passaporto.", "ejes": "Aquí está el pasaporte.", "cog": true },
+        { "t": "la valigia", "es": "la maleta", "pron": "la valíya", "ej": "La valigia è nuova.", "ejes": "La maleta es nueva.", "cog": false, "truco": "«gia» suena «dya»: valídya." },
+        { "t": "la carta d'imbarco", "es": "el pase de abordar", "pron": "la cárta dimbárco", "ej": "Ecco la carta d'imbarco.", "ejes": "Aquí está el pase de abordar.", "cog": false },
+        { "t": "il bagaglio", "es": "el equipaje", "pron": "il bagálio", "ej": "Il bagaglio è pesante.", "ejes": "El equipaje es pesado.", "cog": false, "truco": "«gli» suena «li»: bagálio." },
+        { "t": "il controllo", "es": "el control", "pron": "il contróllo", "ej": "Il controllo è alle otto.", "ejes": "El control es a las ocho.", "cog": true },
+        { "t": "l'uscita", "es": "la puerta de embarque / la salida", "pron": "lushíta", "ej": "L'uscita è la numero dodici.", "ejes": "La puerta es la número doce.", "cog": false, "truco": "«sci» suena «shi»: ushíta." },
+        { "t": "la dogana", "es": "la aduana", "pron": "la dogána", "ej": "La dogana è qui.", "ejes": "La aduana está aquí.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il passaporto, per favore.", "es": "El pasaporte, por favor.", "pron": "il pasapórto, per favóre" },
+        { "t": "Ecco la carta d'imbarco.", "es": "Aquí está el pase de abordar.", "pron": "éco la cárta dimbárco" },
+        { "t": "Il volo parte dall'uscita dodici.", "es": "El vuelo sale de la puerta doce.", "pron": "il vólo párte dalushíta dódichi" },
+        { "t": "Ho una valigia e un bagaglio a mano.", "es": "Tengo una maleta y un equipaje de mano.", "pron": "o úna valíya e un bagálio a máno" },
+        { "t": "Dov'è il controllo?", "es": "¿Dónde está el control?", "pron": "dovè il contróllo" }
+      ],
+      "dialogo": {
+        "titulo": "En el mostrador",
+        "lineas": [
+          { "q": "A", "t": "Buongiorno! Il passaporto, per favore.", "es": "¡Buenos días! El pasaporte, por favor." },
+          { "q": "B", "t": "Ecco il passaporto.", "es": "Aquí está el pasaporte." },
+          { "q": "A", "t": "Quante valigie ha?", "es": "¿Cuántas maletas tiene?" },
+          { "q": "B", "t": "Ho una valigia e un bagaglio a mano.", "es": "Tengo una maleta y un equipaje de mano." },
+          { "q": "A", "t": "Ecco la carta d'imbarco. L'uscita è la dodici.", "es": "Aquí tiene el pase de abordar. La puerta es la doce." },
+          { "q": "B", "t": "Grazie mille!", "es": "¡Muchas gracias!" }
+        ]
+      },
+      "nota": "Aeropuertos italianos: «bagaglio a mano» es el equipaje de mano y «bagaglio da stiva» el que se factura. «Uscita» es literalmente «salida» y también la puerta de embarque. Aviso común: «Imbarco immediato» (embarque inmediato). La «ll» de controllo es doble: con más fuerza. «Grazie mille» = mil gracias."
+    },
+    {
+      "id": "it-a2-u6-l4",
+      "n": 4,
+      "titulo": "Mis planes de viaje",
+      "objetivo": "Hablar de planes futuros con el presente, stare per y el futuro semplice.",
+      "intro": "Para planes usa el presente con una marca de tiempo (domani parto) o el futuro semplice (partirò). Para algo inminente usa «sto per». Truco: «partirò» lleva acento final y «arriverò» cambia la a por e.",
+      "palabras": [
+        { "t": "domani", "es": "mañana", "pron": "dománi", "ej": "Domani parto per Roma.", "ejes": "Mañana salgo hacia Roma.", "cog": false, "truco": "Domani = mañana (día siguiente)." },
+        { "t": "la settimana prossima", "es": "la semana próxima", "pron": "la settimána próssima", "ej": "La settimana prossima vado a Lima.", "ejes": "La semana próxima voy a Lima.", "cog": false },
+        { "t": "sto per partire", "es": "estoy a punto de partir", "pron": "sto per partíre", "ej": "Sto per partire, ciao!", "ejes": "Estoy a punto de partir, ¡chao!", "cog": false },
+        { "t": "sta per arrivare", "es": "está por llegar", "pron": "sta per arriváre", "ej": "Il treno sta per arrivare.", "ejes": "El tren está por llegar.", "cog": false },
+        { "t": "partirò", "es": "partiré / saldré", "pron": "partiró", "ej": "Domani partirò per Roma.", "ejes": "Mañana partiré hacia Roma.", "cog": false, "truco": "Partire -> partirò (verbo en -ire)." },
+        { "t": "arriverò", "es": "llegaré", "pron": "arriveró", "ej": "Arriverò alle otto.", "ejes": "Llegaré a las ocho.", "cog": false, "truco": "Arrivare -> arriverò (la a cambia a e)." },
+        { "t": "prenderò", "es": "tomaré", "pron": "prenderó", "ej": "Prenderò il treno delle nove.", "ejes": "Tomaré el tren de las nueve.", "cog": false },
+        { "t": "sarò", "es": "estaré / seré", "pron": "saró", "ej": "Alle sei sarò a casa.", "ejes": "A las seis estaré en casa.", "cog": false, "truco": "Essere es irregular: sarò, sarai, sarà..." },
+        { "t": "andrò", "es": "iré", "pron": "andró", "ej": "L'anno prossimo andrò in Italia.", "ejes": "El año próximo iré a Italia.", "cog": false, "truco": "Andare es irregular: andrò." },
+        { "t": "vado a prendere", "es": "voy a recoger / buscar", "pron": "vádo a préndere", "ej": "Vado a prendere Ana alla stazione.", "ejes": "Voy a recoger a Ana a la estación.", "cog": false, "truco": "Andare a + infinitivo = ir físicamente a hacer algo." }
+      ],
+      "frases": [
+        { "t": "Domani parto per Roma.", "es": "Mañana salgo hacia Roma.", "pron": "dománi párto per róma" },
+        { "t": "Il treno sta per partire.", "es": "El tren está por salir.", "pron": "il tren sta per partíre" },
+        { "t": "Arriverò alle otto.", "es": "Llegaré a las ocho.", "pron": "arriveró ále ótto" },
+        { "t": "L'anno prossimo andrò in Italia.", "es": "El año próximo iré a Italia.", "pron": "lánno próssimo andró in itália" },
+        { "t": "Vado a prendere Ana alla stazione.", "es": "Voy a recoger a Ana a la estación.", "pron": "vádo a préndere ána ála statsióne" }
+      ],
+      "dialogo": {
+        "titulo": "Planes para el viaje",
+        "lineas": [
+          { "q": "A", "t": "Quando parti per Roma?", "es": "¿Cuándo sales hacia Roma?" },
+          { "q": "B", "t": "Domani! Partirò alle sette.", "es": "¡Mañana! Saldré a las siete." },
+          { "q": "A", "t": "A che ora arriverai?", "es": "¿A qué hora llegarás?" },
+          { "q": "B", "t": "Arriverò alle dodici.", "es": "Llegaré a las doce." },
+          { "q": "A", "t": "Vado a prendere Ana alla stazione.", "es": "Voy a recoger a Ana a la estación." }
+        ]
+      },
+      "nota": "Cuidado: «vado a mangiare» no es «voy a comer» como plan futuro; es «voy a (un lugar) a comer». Para planes: «Domani mangio fuori» (mañana como afuera) o «Mangerò fuori». Con «stare per» (sto, stai, sta...) hablas de lo inminente: Il treno sta per partire. En la conversación diaria predomina el presente con una marca de tiempo; el futuro semplice suena algo más formal o decidido."
+    },
+    {
+      "id": "it-a2-u6-l5",
+      "n": 5,
+      "titulo": "Preparando las vacaciones (repaso)",
+      "objetivo": "Repasar vocabulario de viaje y hablar de planes de vacaciones.",
+      "intro": "Hoy combinas transporte, estación, aeropuerto y futuro. Truco: para cada plan, elige primero el medio (in treno, in aereo) y luego el tiempo (domani, partirò).",
+      "palabras": [
+        { "t": "le vacanze", "es": "las vacaciones", "pron": "le vacántse", "ej": "Le vacanze sono a luglio.", "ejes": "Las vacaciones son en julio.", "cog": false, "truco": "Siempre en plural: le vacanze." },
+        { "t": "l'albergo", "es": "el hotel", "pron": "lalbérgo", "ej": "L'albergo è vicino alla stazione.", "ejes": "El hotel está cerca de la estación.", "cog": false, "truco": "Albergo = hotel (también «hotel»)." },
+        { "t": "la prenotazione", "es": "la reserva", "pron": "la prenotatsióne", "ej": "La prenotazione è per due notti.", "ejes": "La reserva es por dos noches.", "cog": false },
+        { "t": "la camera", "es": "la habitación", "pron": "la cámera", "ej": "La camera è grande.", "ejes": "La habitación es grande.", "cog": false, "truco": "Camera = habitación; no es «cámara»." },
+        { "t": "il programma", "es": "el programa / el plan", "pron": "il prográmma", "ej": "Il programma è bello.", "ejes": "El plan es bonito.", "cog": true },
+        { "t": "il turista", "es": "el turista", "pron": "il turísta", "ej": "Il turista ha una valigia.", "ejes": "El turista tiene una maleta.", "cog": true },
+        { "t": "prenotare", "es": "reservar", "pron": "prenotáre", "ej": "Vorrei prenotare una camera.", "ejes": "Quisiera reservar una habitación.", "cog": false },
+        { "t": "buon viaggio", "es": "buen viaje", "pron": "buón viádyo", "ej": "Ciao, buon viaggio!", "ejes": "¡Chao, buen viaje!", "cog": false }
+      ],
+      "frases": [
+        { "t": "Le vacanze sono a luglio.", "es": "Las vacaciones son en julio.", "pron": "le vacántse sóno a lúlio" },
+        { "t": "Ho già prenotato l'albergo.", "es": "Ya reservé el hotel.", "pron": "o yá prenotáto lalbérgo" },
+        { "t": "Domani prenderò l'aereo per Roma.", "es": "Mañana tomaré el avión a Roma.", "pron": "dománi prenderó laéreo per róma" },
+        { "t": "Il volo parte alle dieci.", "es": "El vuelo sale a las diez.", "pron": "il vólo párte ále diéchi" },
+        { "t": "Buon viaggio, Ana!", "es": "¡Buen viaje, Ana!", "pron": "buón viádyo, ána" }
+      ],
+      "dialogo": {
+        "titulo": "Despedida en el aeropuerto",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Ana! Quando parti?", "es": "¡Hola, Ana! ¿Cuándo sales?" },
+          { "q": "B", "t": "Parto domani. Il volo parte alle dieci.", "es": "Salgo mañana. El vuelo sale a las diez." },
+          { "q": "A", "t": "Hai già prenotato l'albergo?", "es": "¿Ya reservaste el hotel?" },
+          { "q": "B", "t": "Sì, e la camera è vicino al mare.", "es": "Sí, y la habitación está cerca del mar." },
+          { "q": "A", "t": "Che bello! Buon viaggio!", "es": "¡Qué bien! ¡Buen viaje!" },
+          { "q": "B", "t": "Grazie! A presto!", "es": "¡Gracias! ¡Hasta pronto!" }
+        ]
+      },
+      "nota": "«Albergo» y «hotel» se usan los dos en Italia; «albergo» es más tradicional. Falso amigo: «camera» es habitación, no cámara fotográfica (que se dice «macchina fotografica»). Repasa el esquema de planes: tiempo + presente (domani parto), inminente (sto per partire) y futuro (partirò)."
+    }
+  ]
+}

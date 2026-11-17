@@ -1,0 +1,224 @@
+{
+  "id": "en-a2-u3",
+  "idioma": "en",
+  "nivel": "A2",
+  "n": 3,
+  "titulo": "Preguntar sobre el pasado",
+  "resumen": "Aprenderás a hacer preguntas y a negar en pasado con did y didn't, a dar respuestas cortas y a opinar sobre lo que pasó.",
+  "puedo": [
+    "Hacer preguntas en pasado con Did you...?",
+    "Responder con Yes, I did. / No, I didn't.",
+    "Negar en pasado con didn't + verbo base.",
+    "Usar what, where, when, why, who y how en preguntas del pasado.",
+    "Dar mi opinión sobre eventos con adjetivos como amazing o boring.",
+    "Mantener una conversación corta sobre lo que hice."
+  ],
+  "gramatica": {
+    "titulo": "Did y didn't: preguntas y negativos en pasado",
+    "texto": "Para preguntar en pasado usamos did + sujeto + verbo en forma base: Did you go to the party? (¿Fuiste a la fiesta?). Para negar usamos didn't + verbo base: I didn't go (no fui).\nClave: did ya lleva el pasado, así que el verbo principal vuelve a su forma base: did you go (no «did you went»), I didn't eat (no «I didn't ate»).\nLas respuestas cortas repiten did: Yes, I did. / No, I didn't.\nCon preguntas con palabra interrogativa: What did you eat? Where did she go? Con to be sigue siendo was/were: Was it good? (sin did).",
+    "tabla": [
+      ["Did you go?", "¿Fuiste?", "did iu góu"],
+      ["Yes, I did.", "Sí (fui).", "ies, ai did"],
+      ["No, I didn't.", "No (no fui).", "nóu, ai dídent"],
+      ["I didn't eat.", "No comí.", "ai dídent it"],
+      ["What did you buy?", "¿Qué compraste?", "juat did iu bai"]
+    ],
+    "errores": [
+      "No pongas el verbo en pasado después de did: es Did you go?, no «Did you went?».",
+      "No uses didn't con was/were: es I wasn't at home, no «I didn't was at home».",
+      "No olvides did en la pregunta: es Did you like it?, no «You liked it?» con orden de pregunta."
+    ]
+  },
+  "practica": [
+    "Escribe 6 preguntas con Did you...? sobre el día de ayer de un amigo y respóndelas tú (6 minutos).",
+    "Di en voz alta 5 cosas que NO hiciste ayer con didn't, por ejemplo I didn't watch TV (4 minutos).",
+    "Pregúntale a un familiar 3 preguntas en pasado (en inglés, aunque él responda en español) y anota sus respuestas en inglés (6 minutos).",
+    "Mira una reseña de una película en inglés y anota 3 adjetivos de opinión (amazing, boring...) (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-a2-u3-l1",
+      "n": 1,
+      "titulo": "Did you...? Preguntas con did",
+      "objetivo": "Hacer preguntas en pasado y entender las palabras interrogativas.",
+      "intro": "Para preguntar en pasado, empieza con did. Truco: did es como una señal de pasado; después de ella el verbo se queda en su forma base (go, eat, see).",
+      "palabras": [
+        { "t": "did", "es": "(auxiliar del pasado)", "pron": "did", "ej": "Did you eat lunch?", "ejes": "¿Almorzaste?", "cog": false, "truco": "No se traduce: solo marca la pregunta en pasado." },
+        { "t": "didn't", "es": "no (en pasado)", "pron": "dídent", "ej": "I didn't see him.", "ejes": "No lo vi.", "cog": false, "truco": "didn't = did not." },
+        { "t": "why", "es": "por qué", "pron": "juai", "ej": "Why did you leave early?", "ejes": "¿Por qué te fuiste temprano?", "cog": false },
+        { "t": "because", "es": "porque", "pron": "bicós", "ej": "I left early because I was tired.", "ejes": "Me fui temprano porque estaba cansado.", "cog": false },
+        { "t": "who", "es": "quién", "pron": "ju", "ej": "Who did you meet?", "ejes": "¿A quién conociste?", "cog": false },
+        { "t": "which", "es": "cuál", "pron": "juich", "ej": "Which bus did you take?", "ejes": "¿Cuál bus tomaste?", "cog": false },
+        { "t": "how many", "es": "cuántos", "pron": "jau méni", "ej": "How many eggs did you eat?", "ejes": "¿Cuántos huevos comiste?", "cog": false }
+      ],
+      "frases": [
+        { "t": "Did you eat lunch?", "es": "¿Almorzaste?", "pron": "did iu it lanch" },
+        { "t": "Where did you go?", "es": "¿Adónde fuiste?", "pron": "juér did iu góu" },
+        { "t": "Why did you leave early?", "es": "¿Por qué te fuiste temprano?", "pron": "juai did iu liv érli" },
+        { "t": "I left because I was tired.", "es": "Me fui porque estaba cansado.", "pron": "ai left bicós ai uos táierd" },
+        { "t": "Who did you meet?", "es": "¿A quién conociste?", "pron": "ju did iu mit" }
+      ],
+      "dialogo": {
+        "titulo": "Preguntas sobre ayer",
+        "lineas": [
+          { "q": "A", "t": "Hi, Lucia! Did you go out last night?", "es": "¡Hola, Lucía! ¿Saliste anoche?" },
+          { "q": "B", "t": "Yes, I did. I went to a restaurant.", "es": "Sí. Fui a un restaurante." },
+          { "q": "A", "t": "Who did you meet there?", "es": "¿A quién viste allí?" },
+          { "q": "B", "t": "I met my cousin. Why?", "es": "Vi a mi primo. ¿Por qué?" },
+          { "q": "A", "t": "Because I didn't see you at home.", "es": "Porque no te vi en casa." }
+        ]
+      },
+      "nota": "Con who y what en el sujeto no hace falta did: Who called? (¿Quién llamó?). Pero con otras preguntas sí: Who did you call? (¿A quién llamaste?)."
+    },
+    {
+      "id": "en-a2-u3-l2",
+      "n": 2,
+      "titulo": "Didn't: lo que no hice",
+      "objetivo": "Decir lo que no hiciste con didn't + verbo base.",
+      "intro": "Para negar en pasado, usa didn't + el verbo en forma base. Truco: didn't ya trae el pasado, por eso el verbo no cambia: I didn't go, no «I didn't went».",
+      "palabras": [
+        { "t": "go out", "es": "salir", "pron": "góu aut", "ej": "I didn't go out last night.", "ejes": "No salí anoche.", "cog": false },
+        { "t": "stay home", "es": "quedarse en casa", "pron": "stei jóum", "ej": "We didn't stay home.", "ejes": "No nos quedamos en casa.", "cog": false },
+        { "t": "wake up", "es": "despertarse", "pron": "ueik ap", "ej": "I didn't wake up early.", "ejes": "No me desperté temprano.", "cog": false },
+        { "t": "get up", "es": "levantarse", "pron": "get ap", "ej": "He didn't get up at six.", "ejes": "Él no se levantó a las seis.", "cog": false },
+        { "t": "have breakfast", "es": "desayunar", "pron": "jav brékfast", "ej": "I didn't have breakfast.", "ejes": "No desayuné.", "cog": false },
+        { "t": "forget", "es": "olvidar", "pron": "forgét", "ej": "I didn't forget your birthday.", "ejes": "No olvidé tu cumpleaños.", "cog": false },
+        { "t": "find", "es": "encontrar", "pron": "faind", "ej": "She didn't find her keys.", "ejes": "Ella no encontró sus llaves.", "cog": false },
+        { "t": "lose", "es": "perder", "pron": "lus", "ej": "We didn't lose the game.", "ejes": "No perdimos el partido.", "cog": false },
+        { "t": "win", "es": "ganar", "pron": "uin", "ej": "They didn't win.", "ejes": "No ganaron.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I didn't go out last night.", "es": "No salí anoche.", "pron": "ai dídent góu aut last nait" },
+        { "t": "He didn't get up at six.", "es": "Él no se levantó a las seis.", "pron": "ji dídent get ap at siks" },
+        { "t": "I didn't have breakfast.", "es": "No desayuné.", "pron": "ai dídent jav brékfast" },
+        { "t": "She didn't find her keys.", "es": "Ella no encontró sus llaves.", "pron": "shi dídent faind jer kis" },
+        { "t": "We didn't lose the game.", "es": "No perdimos el partido.", "pron": "ui dídent lus da geim" },
+        { "t": "I didn't forget your birthday.", "es": "No olvidé tu cumpleaños.", "pron": "ai dídent forgét ior bérzdei" }
+      ],
+      "dialogo": {
+        "titulo": "Una mañana tarde",
+        "lineas": [
+          { "q": "A", "t": "Hi, Sam! You look tired.", "es": "¡Hola, Sam! Te ves cansado." },
+          { "q": "B", "t": "I didn't sleep well, and I didn't wake up early.", "es": "No dormí bien y no me desperté temprano." },
+          { "q": "A", "t": "Did you have breakfast?", "es": "¿Desayunaste?" },
+          { "q": "B", "t": "No, I didn't have breakfast.", "es": "No, no desayuné." },
+          { "q": "A", "t": "Here, have some bread.", "es": "Toma, come algo de pan." }
+        ]
+      },
+      "nota": "En conversación casi siempre se usa la forma corta didn't. La forma larga did not se usa más al escribir con mucha formalidad o para dar énfasis."
+    },
+    {
+      "id": "en-a2-u3-l3",
+      "n": 3,
+      "titulo": "Eventos y respuestas cortas",
+      "objetivo": "Preguntar por eventos y dar respuestas cortas con did.",
+      "intro": "Las respuestas cortas repiten el auxiliar: Did you go? → Yes, I did. / No, I didn't. Truco: no repitas el verbo; solo did o didn't.",
+      "palabras": [
+        { "t": "concert", "es": "concierto", "pron": "cánsert", "ej": "Did you go to the concert?", "ejes": "¿Fuiste al concierto?", "cog": true },
+        { "t": "wedding", "es": "boda", "pron": "uédin", "ej": "I went to a wedding.", "ejes": "Fui a una boda.", "cog": false },
+        { "t": "party", "es": "fiesta", "pron": "párti", "ej": "Did you like the party?", "ejes": "¿Te gustó la fiesta?", "cog": false },
+        { "t": "festival", "es": "festival", "pron": "féstival", "ej": "We went to a music festival.", "ejes": "Fuimos a un festival de música.", "cog": true },
+        { "t": "museum", "es": "museo", "pron": "miusíam", "ej": "I visited a museum.", "ejes": "Visité un museo.", "cog": true },
+        { "t": "beach", "es": "playa", "pron": "bich", "ej": "Did you go to the beach?", "ejes": "¿Fuiste a la playa?", "cog": false },
+        { "t": "picnic", "es": "picnic", "pron": "píknik", "ej": "We had a picnic.", "ejes": "Hicimos un picnic.", "cog": true },
+        { "t": "trip", "es": "viaje", "pron": "trip", "ej": "How was your trip?", "ejes": "¿Cómo estuvo tu viaje?", "cog": false },
+        { "t": "present", "es": "regalo", "pron": "présent", "ej": "I bought a present for Mom.", "ejes": "Compré un regalo para mamá.", "cog": false, "truco": "present = regalo; no es «presente»." }
+      ],
+      "frases": [
+        { "t": "Did you go to the concert?", "es": "¿Fuiste al concierto?", "pron": "did iu góu tu da cánsert" },
+        { "t": "Yes, I did.", "es": "Sí, fui.", "pron": "ies, ai did" },
+        { "t": "No, I didn't.", "es": "No, no fui.", "pron": "nóu, ai dídent" },
+        { "t": "Did she like the wedding?", "es": "¿Le gustó la boda?", "pron": "did shi laik da uédin" },
+        { "t": "Did they have a picnic?", "es": "¿Hicieron un picnic?", "pron": "did dei jav a píknik" },
+        { "t": "We went to the museum.", "es": "Fuimos al museo.", "pron": "ui uent tu da miusíam" }
+      ],
+      "dialogo": {
+        "titulo": "Planes del fin de semana",
+        "lineas": [
+          { "q": "A", "t": "Did you go to the concert on Saturday?", "es": "¿Fuiste al concierto el sábado?" },
+          { "q": "B", "t": "No, I didn't. I went to a wedding.", "es": "No. Fui a una boda." },
+          { "q": "A", "t": "Did you like the wedding?", "es": "¿Te gustó la boda?" },
+          { "q": "B", "t": "Yes, I did. We danced all night.", "es": "Sí. Bailamos toda la noche." },
+          { "q": "A", "t": "Did you buy a present?", "es": "¿Compraste un regalo?" },
+          { "q": "B", "t": "Yes, I did. A small gift for the couple.", "es": "Sí. Un regalito para la pareja." }
+        ]
+      },
+      "nota": "Responder solo Yes. o No. es poco natural. Es mejor Yes, I did. / No, I didn't., y después añadir un detalle."
+    },
+    {
+      "id": "en-a2-u3-l4",
+      "n": 4,
+      "titulo": "¿Qué tal estuvo?",
+      "objetivo": "Dar y pedir opiniones sobre eventos pasados.",
+      "intro": "Después de contar lo que hiciste, la siguiente pregunta es How was it? Truco: las respuestas son was + adjetivo: It was amazing. They were boring. ¡Sin did!",
+      "palabras": [
+        { "t": "amazing", "es": "increíble", "pron": "améisin", "ej": "The concert was amazing.", "ejes": "El concierto fue increíble.", "cog": false },
+        { "t": "boring", "es": "aburrido", "pron": "bórin", "ej": "The movie was boring.", "ejes": "La película fue aburrida.", "cog": false, "truco": "boring describe la cosa; bored describe cómo te sientes." },
+        { "t": "delicious", "es": "delicioso", "pron": "delíshas", "ej": "The cake was delicious.", "ejes": "El pastel estaba delicioso.", "cog": false },
+        { "t": "terrible", "es": "terrible", "pron": "térribol", "ej": "The weather was terrible.", "ejes": "El clima fue terrible.", "cog": true },
+        { "t": "exciting", "es": "emocionante", "pron": "ikságitin", "ej": "The game was exciting.", "ejes": "El partido fue emocionante.", "cog": false },
+        { "t": "interesting", "es": "interesante", "pron": "íntrestin", "ej": "The museum was interesting.", "ejes": "El museo fue interesante.", "cog": true },
+        { "t": "awful", "es": "pésimo", "pron": "óful", "ej": "The food was awful.", "ejes": "La comida estuvo pésima.", "cog": false },
+        { "t": "fun", "es": "divertido", "pron": "fan", "ej": "The picnic was fun.", "ejes": "El picnic fue divertido.", "cog": false },
+        { "t": "wonderful", "es": "maravilloso", "pron": "uánderful", "ej": "The trip was wonderful.", "ejes": "El viaje fue maravilloso.", "cog": false }
+      ],
+      "frases": [
+        { "t": "How was the concert?", "es": "¿Cómo estuvo el concierto?", "pron": "jau uos da cánsert" },
+        { "t": "It was amazing!", "es": "¡Estuvo increíble!", "pron": "it uos améisin" },
+        { "t": "The food was delicious.", "es": "La comida estuvo deliciosa.", "pron": "da fud uos delíshas" },
+        { "t": "The movie was boring.", "es": "La película fue aburrida.", "pron": "da múvi uos bórin" },
+        { "t": "Did you like the museum?", "es": "¿Te gustó el museo?", "pron": "did iu laik da miusíam" },
+        { "t": "Yes, it was very interesting.", "es": "Sí, fue muy interesante.", "pron": "ies, it uos véri íntrestin" }
+      ],
+      "dialogo": {
+        "titulo": "¿Cómo estuvo el viaje?",
+        "lineas": [
+          { "q": "A", "t": "Hi, Ana! How was your trip?", "es": "¡Hola, Ana! ¿Cómo estuvo tu viaje?" },
+          { "q": "B", "t": "It was wonderful! The beach was amazing.", "es": "¡Estuvo maravilloso! La playa era increíble." },
+          { "q": "A", "t": "Did you eat out?", "es": "¿Comieron fuera?" },
+          { "q": "B", "t": "Yes, we did. The food was delicious.", "es": "Sí. La comida estaba deliciosa." },
+          { "q": "A", "t": "And the hotel? Was it good?", "es": "¿Y el hotel? ¿Estaba bien?" },
+          { "q": "B", "t": "It was awful, but we didn't stay there much.", "es": "Estaba pésimo, pero no nos quedamos mucho allí." }
+        ]
+      },
+      "nota": "Cuidado con las parejas: boring/bored, exciting/excited, interesting/interested. La -ing describe la cosa (The movie was boring); la -ed describe cómo te sientes (I was bored)."
+    },
+    {
+      "id": "en-a2-u3-l5",
+      "n": 5,
+      "titulo": "Repaso: una conversación completa",
+      "objetivo": "Mantener una conversación corta sobre el pasado con reacciones naturales.",
+      "intro": "En una conversación real reaccionamos con frases cortas: Really? Of course! Me too! Truco: estas reacciones hacen que suenes mucho más natural, aunque tu inglés sea sencillo.",
+      "palabras": [
+        { "t": "really", "es": "¿en serio? / realmente", "pron": "ríli", "ej": "Really? I didn't know.", "ejes": "¿En serio? No lo sabía.", "cog": false },
+        { "t": "of course", "es": "claro / por supuesto", "pron": "of kors", "ej": "Of course I did!", "ejes": "¡Claro que sí!", "cog": false },
+        { "t": "no way", "es": "no puede ser", "pron": "nóu uei", "ej": "No way! You won?", "ejes": "¡No puede ser! ¿Ganaste?", "cog": false },
+        { "t": "me too", "es": "yo también", "pron": "mi tu", "ej": "I was tired. Me too.", "ejes": "Estaba cansado. Yo también.", "cog": false },
+        { "t": "sounds fun", "es": "suena divertido", "pron": "saunds fan", "ej": "That sounds fun!", "ejes": "¡Eso suena divertido!", "cog": false },
+        { "t": "I guess", "es": "supongo", "pron": "ai ges", "ej": "I guess it was OK.", "ejes": "Supongo que estuvo bien.", "cog": false },
+        { "t": "by the way", "es": "por cierto", "pron": "bai da uei", "ej": "By the way, did you call Ana?", "ejes": "Por cierto, ¿llamaste a Ana?", "cog": false },
+        { "t": "actually", "es": "en realidad", "pron": "ákchuali", "ej": "Actually, I didn't go.", "ejes": "En realidad, no fui.", "cog": false, "truco": "actually NO es «actualmente»; significa «en realidad»." },
+        { "t": "anyway", "es": "de todos modos", "pron": "énigüei", "ej": "Anyway, it was fun.", "ejes": "De todos modos, fue divertido.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Really? I didn't know.", "es": "¿En serio? No lo sabía.", "pron": "ríli? ai dídent nóu" },
+        { "t": "Did you win? No way!", "es": "¿Ganaste? ¡No puede ser!", "pron": "did iu uin? nóu uei" },
+        { "t": "By the way, did you call Ana?", "es": "Por cierto, ¿llamaste a Ana?", "pron": "bai da uei, did iu col ána" },
+        { "t": "Actually, I didn't go.", "es": "En realidad, no fui.", "pron": "ákchuali, ai dídent góu" },
+        { "t": "That sounds fun!", "es": "¡Eso suena divertido!", "pron": "dat saunds fan" }
+      ],
+      "dialogo": {
+        "titulo": "Una charla en el café",
+        "lineas": [
+          { "q": "A", "t": "Hi, Tom! Did you go to the festival?", "es": "¡Hola, Tom! ¿Fuiste al festival?" },
+          { "q": "B", "t": "Yes, I did. It was amazing!", "es": "Sí. ¡Estuvo increíble!" },
+          { "q": "A", "t": "Really? Who did you go with?", "es": "¿En serio? ¿Con quién fuiste?" },
+          { "q": "B", "t": "With my sister. We danced all night.", "es": "Con mi hermana. Bailamos toda la noche." },
+          { "q": "A", "t": "That sounds fun! I didn't go.", "es": "¡Eso suena divertido! Yo no fui." },
+          { "q": "B", "t": "Anyway, next time we go together.", "es": "De todos modos, la próxima vez vamos juntos." }
+        ]
+      },
+      "nota": "Repaso: pregunta con Did + sujeto + verbo base; niega con didn't + verbo base; responde con Yes, I did. / No, I didn't. Con to be: Was it good? Yes, it was."
+    }
+  ]
+}

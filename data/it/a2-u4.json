@@ -1,0 +1,222 @@
+{
+  "id": "it-a2-u4",
+  "idioma": "it",
+  "nivel": "A2",
+  "n": 4,
+  "titulo": "Comparar personas y cosas",
+  "resumen": "Aprenderás a comparar personas, lugares y cosas con più...di, meno...di, come, meglio y peggio.",
+  "puedo": [
+    "Describir personas y cosas con adjetivos básicos como alto, caro o veloce.",
+    "Comparar dos cosas con più...di y meno...di.",
+    "Decir que dos cosas son iguales con come y tanto...quanto.",
+    "Comparar dos cualidades o cantidades con più...che.",
+    "Usar bene/meglio, male/peggio y migliore/peggiore."
+  ],
+  "gramatica": {
+    "titulo": "Comparativos: più...di, meno...di y come",
+    "texto": "Para comparar se usa «più» (más) o «meno» (menos) + adjetivo + «di» + la persona o cosa con quien comparas: Marco è più alto di Luca (Marco es más alto que Luca). El «que» español aquí es «di», no «che».\nPara decir que son iguales: adjetivo + «come»: Ana è alta come Giulia (tan alta como Giulia).\nSe usa «che» cuando comparas dos cualidades o dos cosas de la misma persona: Mi piace più il tè che il caffè.\nIrregulares: buono - migliore (mejor), bene - meglio (mejor), cattivo - peggiore (peor), male - peggio (peor).\nOjo: di + il = del, di + la = della: più grande del paese.",
+    "tabla": [
+      ["più alto di Luca", "más alto que Luca", "piú álto di lúca"],
+      ["meno alto di Luca", "menos alto que Luca", "méno álto di lúca"],
+      ["alto come Luca", "tan alto como Luca", "álto cóme lúca"],
+      ["buono - migliore", "bueno - mejor", "buóno - milióre"],
+      ["bene - meglio", "bien - mejor", "béne - mélio"],
+      ["male - peggio", "mal - peor", "máleh - pédyo"]
+    ],
+    "errores": [
+      "No traduzcas el «que» de la comparación como «che»: «Marco è più alto che Luca» es incorrecto. Entre dos personas o cosas se dice «di»: più alto di Luca.",
+      "No existe «più meglio» ni «più migliore»: meglio y migliore ya significan «mejor». Tampoco «più peggio».",
+      "«Bene» y «buono» no son iguales: «buono» describe cosas (un buon caffè), «bene» acompaña al verbo (sto bene). Lo mismo con migliore (adjetivo) y meglio (adverbio)."
+    ]
+  },
+  "practica": [
+    "Compara en voz alta 5 pares de cosas de tu casa con «più...di» y «meno...di»: el celular y la tele, tu casa y la de un amigo (5 minutos).",
+    "Escribe 6 frases comparando a tres personas de tu familia, usando «più...di» y «come» (5 minutos).",
+    "Di en voz alta cinco veces cada par: bene-meglio, male-peggio, buono-migliore, cattivo-peggiore hasta que salgan sin pensar (3 minutos).",
+    "Compara dos ciudades o dos platos que conoces (ej. Lima y Roma, ceviche y pasta) en 4 frases y grábate (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-a2-u4-l1",
+      "n": 1,
+      "titulo": "Adjetivos para comparar",
+      "objetivo": "Describir personas y cosas con adjetivos básicos.",
+      "intro": "Antes de comparar necesitas adjetivos. Ya conoces algunos; hoy sumas los más útiles. Truco: los adjetivos terminados en -o cambian a -a, -i, -e (alto, alta, alti, alte); los terminados en -e solo cambian a -i (veloce, veloci).",
+      "palabras": [
+        { "t": "alto", "es": "alto", "pron": "álto", "ej": "Marco è alto.", "ejes": "Marco es alto.", "cog": true, "truco": "Femenino: alta." },
+        { "t": "basso", "es": "bajo (de estatura)", "pron": "básso", "ej": "Luca è basso.", "ejes": "Luca es bajo.", "cog": false, "truco": "Falso amigo con «basso»: no es de «basura»; es bajo." },
+        { "t": "grande", "es": "grande", "pron": "gránde", "ej": "La casa è grande.", "ejes": "La casa es grande.", "cog": true },
+        { "t": "piccolo", "es": "pequeño", "pron": "píccolo", "ej": "Il paese è piccolo.", "ejes": "El pueblo es pequeño.", "cog": false, "truco": "Doble c: píc-co-lo." },
+        { "t": "veloce", "es": "rápido", "pron": "velóche", "ej": "Il treno è veloce.", "ejes": "El tren es rápido.", "cog": true, "truco": "«ce» suena «che»: velóche." },
+        { "t": "lento", "es": "lento", "pron": "lénto", "ej": "L'autobus è lento.", "ejes": "El bus es lento.", "cog": true },
+        { "t": "caro", "es": "caro", "pron": "cáro", "ej": "Il vino è caro.", "ejes": "El vino es caro.", "cog": true, "truco": "Falso amigo suave: «caro» es caro en precio, no «querido»." },
+        { "t": "economico", "es": "económico / barato", "pron": "economíco", "ej": "Il tè è economico.", "ejes": "El té es barato.", "cog": true },
+        { "t": "vecchio", "es": "viejo", "pron": "vécchio", "ej": "Il telefono è vecchio.", "ejes": "El teléfono es viejo.", "cog": false, "truco": "«cchio» suena «quio»: véquio." },
+        { "t": "nuovo", "es": "nuevo", "pron": "nuóvo", "ej": "Il telefono è nuovo.", "ejes": "El teléfono es nuevo.", "cog": false, "truco": "Nuovo/nuova: «uo» se pronuncia «uó»." }
+      ],
+      "frases": [
+        { "t": "Marco è alto e Luca è basso.", "es": "Marco es alto y Luca es bajo.", "pron": "márco è álto e lúca è básso" },
+        { "t": "La casa è grande.", "es": "La casa es grande.", "pron": "la cása è gránde" },
+        { "t": "Il treno è veloce.", "es": "El tren es rápido.", "pron": "il tren è velóche" },
+        { "t": "Il vino è caro.", "es": "El vino es caro.", "pron": "il víno è cáro" },
+        { "t": "Il telefono è vecchio.", "es": "El teléfono es viejo.", "pron": "il teléfono è véquio" }
+      ],
+      "dialogo": {
+        "titulo": "Mi familia",
+        "lineas": [
+          { "q": "A", "t": "Come è Marco?", "es": "¿Cómo es Marco?" },
+          { "q": "B", "t": "Marco è alto e simpatico.", "es": "Marco es alto y simpático." },
+          { "q": "A", "t": "E Luca?", "es": "¿Y Luca?" },
+          { "q": "B", "t": "Luca è basso, ma è veloce!", "es": "Luca es bajo, ¡pero es rápido!" }
+        ]
+      },
+      "nota": "Con adjetivos que terminan en -e (grande, veloce) el femenino es igual: la casa grande, il treno veloce. En plural: grandi, veloci. Para describir un objeto en italiano, el adjetivo concuerda: una macchina nuova, un telefono nuovo. «Piccolo» (pequeño) no es «pícolo»: lleva doble c."
+    },
+    {
+      "id": "it-a2-u4-l2",
+      "n": 2,
+      "titulo": "Más y menos que",
+      "objetivo": "Comparar dos cosas o personas con «più...di» y «meno...di».",
+      "intro": "Más que = «più... di». Menos que = «meno... di». Truco: el «que» español se convierte en «di»: «Marco è più alto di Luca» = Marco es más alto que Luca.",
+      "palabras": [
+        { "t": "più alto di", "es": "más alto que", "pron": "piú álto di", "ej": "Marco è più alto di Luca.", "ejes": "Marco es más alto que Luca.", "cog": false },
+        { "t": "meno alto di", "es": "menos alto que", "pron": "méno álto di", "ej": "Luca è meno alto di Marco.", "ejes": "Luca es menos alto que Marco.", "cog": false },
+        { "t": "più grande di", "es": "más grande que", "pron": "piú gránde di", "ej": "Roma è più grande di Firenze.", "ejes": "Roma es más grande que Florencia.", "cog": false },
+        { "t": "più piccolo di", "es": "más pequeño que", "pron": "piú píccolo di", "ej": "Il paese è più piccolo di una città.", "ejes": "El pueblo es más pequeño que una ciudad.", "cog": false, "truco": "Concuerda: Firenze (f.) -> piccola." },
+        { "t": "più caro di", "es": "más caro que", "pron": "piú cáro di", "ej": "Il vino è più caro di una birra.", "ejes": "El vino es más caro que una cerveza.", "cog": false },
+        { "t": "meno caro di", "es": "menos caro que", "pron": "méno cáro di", "ej": "Il tè è meno caro di un caffè.", "ejes": "El té es menos caro que un café.", "cog": false },
+        { "t": "più veloce di", "es": "más rápido que", "pron": "piú velóche di", "ej": "Il treno è più veloce di un autobus.", "ejes": "El tren es más rápido que un bus.", "cog": false },
+        { "t": "più giovane di", "es": "más joven que", "pron": "piú yóvane di", "ej": "Ana è più giovane di me.", "ejes": "Ana es más joven que yo.", "cog": true, "truco": "«gio» suena «yo»: yóvane." },
+        { "t": "più vecchio di", "es": "mayor que (de edad)", "pron": "piú véquio di", "ej": "Marco è più vecchio di te.", "ejes": "Marco es mayor que tú.", "cog": false },
+        { "t": "più bello di", "es": "más bonito que", "pron": "piú béllo di", "ej": "Il mare è più bello di un lago.", "ejes": "El mar es más bonito que un lago.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Marco è più alto di Luca.", "es": "Marco es más alto que Luca.", "pron": "márco è piú álto di lúca" },
+        { "t": "Roma è più grande di Firenze.", "es": "Roma es más grande que Florencia.", "pron": "róma è piú gránde di firéntse" },
+        { "t": "Il tè è meno caro di un caffè.", "es": "El té es menos caro que un café.", "pron": "il tè è méno cáro di un cafè" },
+        { "t": "Ana è più giovane di me.", "es": "Ana es más joven que yo.", "pron": "ána è piú yóvane di me" },
+        { "t": "Il treno è più veloce di un autobus.", "es": "El tren es más rápido que un bus.", "pron": "il tren è piú velóche di un áutobus" }
+      ],
+      "dialogo": {
+        "titulo": "Dos hermanos",
+        "lineas": [
+          { "q": "A", "t": "Marco è più alto di Luca?", "es": "¿Marco es más alto que Luca?" },
+          { "q": "B", "t": "Sì, Marco è più alto di Luca.", "es": "Sí, Marco es más alto que Luca." },
+          { "q": "A", "t": "E chi è più giovane di Ana?", "es": "¿Y quién es más joven que Ana?" },
+          { "q": "B", "t": "Luca è più giovane di Ana.", "es": "Luca es más joven que Ana." },
+          { "q": "A", "t": "Allora Ana è più vecchia di Luca!", "es": "¡Entonces Ana es mayor que Luca!" }
+        ]
+      },
+      "nota": "Con pronombres se usa la forma «me / te» detrás de di: più alto di me, più giovane di te. Con artículo, «di» se une: di + il = del, di + la = della (más grande de la casa = più grande della casa). «Più vecchio» para personas suena un poco duro; suele decirse «più grande» (de edad): Marco è più grande di me. Concuerda siempre el adjetivo: Ana è più alta."
+    },
+    {
+      "id": "it-a2-u4-l3",
+      "n": 3,
+      "titulo": "Igual, parecido y distinto",
+      "objetivo": "Decir que dos cosas son iguales con «come» y comparar con «più...che».",
+      "intro": "Para decir que dos cosas son iguales usa «come» (como). Truco: «alto come Luca» = tan alto como Luca; no hace falta decir «tan». También aprenderás «più...che» para comparar dos cosas o cualidades.",
+      "palabras": [
+        { "t": "come", "es": "como", "pron": "cóme", "ej": "Ana è alta come Giulia.", "ejes": "Ana es tan alta como Giulia.", "cog": false, "truco": "Come = como, pero con adjetivos significa «tan... como»." },
+        { "t": "così", "es": "así / tan", "pron": "cosí", "ej": "Il tè non è così caro come il vino.", "ejes": "El té no es tan caro como el vino.", "cog": false, "truco": "Non è così... come = no es tan... como." },
+        { "t": "tanto", "es": "tanto / tan", "pron": "tánto", "ej": "Marco è tanto simpatico quanto Luca.", "ejes": "Marco es tan simpático como Luca.", "cog": true },
+        { "t": "quanto", "es": "como (con tanto)", "pron": "cuánto", "ej": "Ana è tanto alta quanto Giulia.", "ejes": "Ana es tan alta como Giulia.", "cog": true, "truco": "Tanto... quanto = tan... como (más formal)." },
+        { "t": "uguale", "es": "igual", "pron": "uguále", "ej": "Il prezzo è uguale.", "ejes": "El precio es igual.", "cog": false },
+        { "t": "diverso", "es": "diferente", "pron": "divérso", "ej": "Il vino è diverso dalla birra.", "ejes": "El vino es diferente de la cerveza.", "cog": true, "truco": "Diverso significa «diferente», no «diverso» en el sentido de varios." },
+        { "t": "simile", "es": "parecido / similar", "pron": "símile", "ej": "Il mio telefono è simile al tuo.", "ejes": "Mi teléfono es parecido al tuyo.", "cog": true },
+        { "t": "simpatico", "es": "simpático / agradable", "pron": "simpático", "ej": "Luca è simpatico.", "ejes": "Luca es simpático.", "cog": true },
+        { "t": "più che", "es": "más que (comparando dos cosas)", "pron": "piú que", "ej": "", "ejes": "", "cog": false, "truco": "Se usa «che» cuando comparas dos cosas o dos cualidades: più pane che pasta." }
+      ],
+      "frases": [
+        { "t": "Ana è alta come Giulia.", "es": "Ana es tan alta como Giulia.", "pron": "ána è álta cóme yúlia" },
+        { "t": "Il tè non è così caro come il vino.", "es": "El té no es tan caro como el vino.", "pron": "il tè non è cosí cáro cóme il víno" },
+        { "t": "Marco è tanto simpatico quanto Luca.", "es": "Marco es tan simpático como Luca.", "pron": "márco è tánto simpático cuánto lúca" },
+        { "t": "Mangio più pane che pasta.", "es": "Como más pan que pasta.", "pron": "mányo piú páne que pásta" },
+        { "t": "Il mio telefono è simile al tuo.", "es": "Mi teléfono es parecido al tuyo.", "pron": "il mío teléfono è símile al túo" }
+      ],
+      "dialogo": {
+        "titulo": "Dos celulares",
+        "lineas": [
+          { "q": "A", "t": "Il tuo telefono è nuovo?", "es": "¿Tu teléfono es nuevo?" },
+          { "q": "B", "t": "Sì, è simile al tuo, ma più grande.", "es": "Sí, es parecido al tuyo, pero más grande." },
+          { "q": "A", "t": "È caro come il mio?", "es": "¿Es tan caro como el mío?" },
+          { "q": "B", "t": "No, è meno caro del tuo.", "es": "No, es menos caro que el tuyo." },
+          { "q": "A", "t": "Che bello! Siamo uguali!", "es": "¡Qué bien! ¡Somos iguales!" }
+        ]
+      },
+      "nota": "«Più... che» se usa en dos casos: dos cualidades de lo mismo (È più simpatico che bello) o dos cosas, verbos o cantidades (Mangio più pane che pasta). Entre dos nombres de persona o de cosa se usa «di». «Diverso» va con «da»: diverso da Lima; con artículo se junta: dalla. «Così... come» y «tanto... quanto» son lo mismo."
+    },
+    {
+      "id": "it-a2-u4-l4",
+      "n": 4,
+      "titulo": "Meglio y peggio",
+      "objetivo": "Usar bene/meglio, male/peggio y migliore/peggiore sin equivocarme.",
+      "intro": "Estas palabras son irregulares y se aprenden como pares: buono - migliore, bene - meglio, cattivo - peggiore, male - peggio. Truco: «meglio» y «peggio» van con verbos; «migliore» y «peggiore» acompañan un sustantivo.",
+      "palabras": [
+        { "t": "bene", "es": "bien", "pron": "béne", "ej": "Sto bene, grazie.", "ejes": "Estoy bien, gracias.", "cog": true },
+        { "t": "meglio", "es": "mejor (con verbos)", "pron": "mélio", "ej": "Oggi sto meglio di ieri.", "ejes": "Hoy estoy mejor que ayer.", "cog": false, "truco": "«gli» suena como «li» largo: mélio." },
+        { "t": "male", "es": "mal", "pron": "máleh", "ej": "Sto male oggi.", "ejes": "Hoy estoy mal.", "cog": true, "truco": "La -e final se pronuncia: máleh." },
+        { "t": "peggio", "es": "peor (con verbos)", "pron": "pédyo", "ej": "Ieri sono stato male, oggi peggio.", "ejes": "Ayer estuve mal, hoy peor.", "cog": false },
+        { "t": "migliore", "es": "mejor (con sustantivo)", "pron": "milióre", "ej": "Il tuo italiano è migliore del mio.", "ejes": "Tu italiano es mejor que el mío.", "cog": false, "truco": "Migliore = mejor; plural: migliori." },
+        { "t": "peggiore", "es": "peor (con sustantivo)", "pron": "pediyóre", "ej": "Il meteo è peggiore di ieri.", "ejes": "El clima es peor que ayer.", "cog": false },
+        { "t": "è meglio", "es": "es mejor", "pron": "è mélio", "ej": "È meglio il tè del caffè.", "ejes": "Es mejor el té que el café.", "cog": false },
+        { "t": "sto meglio", "es": "estoy mejor", "pron": "sto mélio", "ej": "Grazie, sto meglio!", "ejes": "¡Gracias, estoy mejor!", "cog": false },
+        { "t": "bravo", "es": "bueno (en algo) / hábil", "pron": "brávo", "ej": "Luca è bravo in italiano.", "ejes": "Luca es bueno en italiano.", "cog": false, "truco": "Bravo no es «enojado»: es hábil; femenino brava." },
+        { "t": "più bravo di", "es": "mejor que (en una habilidad)", "pron": "piú brávo di", "ej": "Luca è più bravo di me.", "ejes": "Luca es mejor que yo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Oggi sto meglio di ieri.", "es": "Hoy estoy mejor que ayer.", "pron": "ódyi sto mélio di iéri" },
+        { "t": "Sto male oggi.", "es": "Hoy estoy mal.", "pron": "sto máleh ódyi" },
+        { "t": "Il tuo italiano è migliore del mio.", "es": "Tu italiano es mejor que el mío.", "pron": "il túo italiáno è milióre del mío" },
+        { "t": "Luca è bravo in italiano.", "es": "Luca es bueno en italiano.", "pron": "lúca è brávo in italiáno" },
+        { "t": "Ana è più brava di me.", "es": "Ana es mejor que yo.", "pron": "ána è piú bráva di me" }
+      ],
+      "dialogo": {
+        "titulo": "¿Cómo estás hoy?",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Ana! Come stai oggi?", "es": "¡Hola, Ana! ¿Cómo estás hoy?" },
+          { "q": "B", "t": "Sto meglio di ieri, grazie.", "es": "Estoy mejor que ayer, gracias." },
+          { "q": "A", "t": "Ieri sei stata male?", "es": "¿Ayer estuviste mal?" },
+          { "q": "B", "t": "Sì, ma oggi è meglio!", "es": "Sí, ¡pero hoy está mejor!" },
+          { "q": "A", "t": "Che bello! Sei più brava di me a cucinare!", "es": "¡Qué bien! ¡Cocinas mejor que yo!" }
+        ]
+      },
+      "nota": "Dos detalles de uso: «Sto meglio» = «me siento mejor» (de salud). «Bravo» no es «enojado»: es «hábil». «Sei stata male» usa «stare/essere» con el participio «stata», como en la unidad 2. Y recuerda: la «-e» de «male» y «bene» se pronuncia siempre."
+    },
+    {
+      "id": "it-a2-u4-l5",
+      "n": 5,
+      "titulo": "Ciudades y cosas (repaso)",
+      "objetivo": "Repasar los comparativos comparando ciudades y objetos cotidianos.",
+      "intro": "Hoy combinas todo: adjetivos, più/meno di, come, meglio y peggio. Truco: primero elige el adjetivo, luego decide si es «più...di», «meno...di» o «come».",
+      "palabras": [
+        { "t": "la città", "es": "la ciudad", "pron": "la chittá", "ej": "La città è più grande del paese.", "ejes": "La ciudad es más grande que el pueblo.", "cog": true, "truco": "Termina en -à: la sílaba fuerte es la última." },
+        { "t": "il paese", "es": "el pueblo / el país", "pron": "il paése", "ej": "Il paese è più piccolo.", "ejes": "El pueblo es más pequeño.", "cog": false, "truco": "«Paese» es tanto país como pueblo." },
+        { "t": "la macchina", "es": "el auto / el carro", "pron": "la máquina", "ej": "La macchina è nuova.", "ejes": "El carro es nuevo.", "cog": false, "truco": "«cchi» suena «qui»: máquina." },
+        { "t": "il telefono", "es": "el teléfono", "pron": "il teléfono", "ej": "Il telefono è più caro.", "ejes": "El teléfono es más caro.", "cog": true },
+        { "t": "la montagna", "es": "la montaña", "pron": "la montáña", "ej": "La montagna è più alta della collina.", "ejes": "La montaña es más alta que la colina.", "cog": true, "truco": "«gn» = ñ." },
+        { "t": "il mare", "es": "el mar", "pron": "il máre", "ej": "Il mare è bello come il lago.", "ejes": "El mar es bonito como el lago.", "cog": true },
+        { "t": "la vita", "es": "la vida", "pron": "la víta", "ej": "La vita in città è più cara.", "ejes": "La vida en la ciudad es más cara.", "cog": true },
+        { "t": "lo stesso", "es": "lo mismo / el mismo", "pron": "lo stésso", "ej": "Il prezzo è lo stesso.", "ejes": "El precio es el mismo.", "cog": false, "truco": "Lo stesso = lo mismo." }
+      ],
+      "frases": [
+        { "t": "La città è più grande del paese.", "es": "La ciudad es más grande que el pueblo.", "pron": "la chittá è piú gránde del paése" },
+        { "t": "La vita in città è più cara.", "es": "La vida en la ciudad es más cara.", "pron": "la víta in chittá è piú cára" },
+        { "t": "La montagna è più alta della collina.", "es": "La montaña es más alta que la colina.", "pron": "la montáña è piú álta déla colína" },
+        { "t": "Il mare è bello come il lago.", "es": "El mar es bonito como el lago.", "pron": "il máre è bélo cóme il lágo" },
+        { "t": "Il prezzo è lo stesso.", "es": "El precio es el mismo.", "pron": "il prétso è lo stésso" },
+        { "t": "La macchina nuova è migliore della vecchia.", "es": "El carro nuevo es mejor que el viejo.", "pron": "la máquina nuóva è milióre déla véquia" }
+      ],
+      "dialogo": {
+        "titulo": "Vivir en la ciudad o en el pueblo",
+        "lineas": [
+          { "q": "A", "t": "Marco, è meglio la città o il paese?", "es": "Marco, ¿es mejor la ciudad o el pueblo?" },
+          { "q": "B", "t": "La città è più grande, ma la vita è più cara.", "es": "La ciudad es más grande, pero la vida es más cara." },
+          { "q": "A", "t": "E il paese?", "es": "¿Y el pueblo?" },
+          { "q": "B", "t": "Il paese è meno veloce, ma è più tranquillo.", "es": "El pueblo es menos rápido, pero es más tranquilo." },
+          { "q": "A", "t": "Allora è meglio il paese!", "es": "¡Entonces es mejor el pueblo!" }
+        ]
+      },
+      "nota": "Repaso de las contracciones: di + il = del (più grande del paese), di + la = della (più alta della collina), di + lo = dello. «Tranquillo» (tranquilo) lleva doble l. Cuando uses «è meglio» con dos cosas, también puedes usar «è meglio... che»: è meglio il tè che il caffè (si comparas dos cosas del mismo tipo)."
+    }
+  ]
+}

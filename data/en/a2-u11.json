@@ -1,0 +1,213 @@
+{
+  "id": "en-a2-u11",
+  "idioma": "en",
+  "nivel": "A2",
+  "n": 11,
+  "titulo": "El futuro y las promesas",
+  "resumen": "Aprenderás a hablar de planes con going to, de promesas y decisiones con will, y a decir qué pasará si ocurre algo con if.",
+  "puedo": [
+    "Hablar de mis planes con going to.",
+    "Hacer promesas y predicciones con will y won't.",
+    "Decidir qué usar: will o going to.",
+    "Decir qué pasará si ocurre algo (if + presente, will).",
+    "Contar mis metas para el futuro."
+  ],
+  "gramatica": {
+    "titulo": "Will vs. going to y el condicional con if",
+    "texto": "Going to se usa para planes que ya decidiste: I'm going to visit my aunt tomorrow. Will se usa para decisiones en el momento, promesas y predicciones: I'll help you. It will rain.\nTruco: si ya lo habías pensado, going to; si lo decides ahora o prometes, will.\nPara decir qué pasa si algo ocurre se usa if + presente, will + verbo: If it rains, I will stay home. Después de if va el presente, no will: If you study, you will pass.",
+    "tabla": [
+      ["I'm going to travel.", "Voy a viajar. (plan)", "aim góuin tu trável"],
+      ["I'll help you.", "Te ayudaré. (decisión)", "ail jelp iu"],
+      ["I won't forget.", "No olvidaré.", "ai uóunt forgét"],
+      ["It will rain.", "Lloverá. (predicción)", "it uil rein"],
+      ["If it rains, I'll stay.", "Si llueve, me quedo.", "if it reins, ail stei"]
+    ],
+    "errores": [
+      "No pongas will después de if: es If it rains, I will stay, no «If it will rain, I will stay».",
+      "No uses will para planes ya decididos: es I'm going to visit my aunt, no «I will visit my aunt» si ya lo tienes planeado.",
+      "No pongas to después de will: es I will help, no «I will to help»."
+    ]
+  },
+  "practica": [
+    "Escribe 5 planes para este fin de semana con I'm going to... y dilos en voz alta (6 minutos).",
+    "Haz 3 promesas a un amigo o familiar con I will... y I won't... (5 minutos).",
+    "Completa en voz alta 6 frases que empiecen con If it rains..., If I'm tired..., If I have time... (8 minutos).",
+    "Escribe tus 3 metas del próximo año en inglés con I'm going to... y lee una en voz alta cada día (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-a2-u11-l1",
+      "n": 1,
+      "titulo": "Mis planes",
+      "objetivo": "Hablar de planes futuros con going to.",
+      "intro": "Para hablar de planes se usa am / is / are + going to + verbo: I'm going to study. Truco: es como el «voy a + verbo» del español, casi palabra por palabra.",
+      "palabras": [
+        { "t": "plan", "es": "plan", "pron": "plan", "ej": "I have a plan for the weekend.", "ejes": "Tengo un plan para el fin de semana.", "cog": true },
+        { "t": "tomorrow", "es": "mañana", "pron": "tumórou", "ej": "I'm going to work tomorrow.", "ejes": "Mañana voy a trabajar.", "cog": false },
+        { "t": "tonight", "es": "esta noche", "pron": "tunáit", "ej": "We're going to cook tonight.", "ejes": "Esta noche vamos a cocinar.", "cog": false },
+        { "t": "next week", "es": "la próxima semana", "pron": "nekst uik", "ej": "I'm going to travel next week.", "ejes": "Voy a viajar la próxima semana.", "cog": false },
+        { "t": "next month", "es": "el próximo mes", "pron": "nekst manz", "ej": "She is going to move next month.", "ejes": "Ella se va a mudar el próximo mes.", "cog": false },
+        { "t": "next year", "es": "el próximo año", "pron": "nekst iar", "ej": "I'm going to study English next year.", "ejes": "El próximo año voy a estudiar inglés.", "cog": false },
+        { "t": "soon", "es": "pronto", "pron": "sun", "ej": "I'm going to call you soon.", "ejes": "Te voy a llamar pronto.", "cog": false },
+        { "t": "later", "es": "más tarde", "pron": "léiter", "ej": "I'm going to eat later.", "ejes": "Voy a comer más tarde.", "cog": false },
+        { "t": "this weekend", "es": "este fin de semana", "pron": "dis uíkend", "ej": "What are you doing this weekend?", "ejes": "¿Qué haces este fin de semana?", "cog": false }
+      ],
+      "frases": [
+        { "t": "I'm going to study tonight.", "es": "Esta noche voy a estudiar.", "pron": "aim góuin tu stádi tunáit" },
+        { "t": "She is going to travel next week.", "es": "Ella va a viajar la próxima semana.", "pron": "shi is góuin tu trável nekst uik" },
+        { "t": "We're going to visit my aunt.", "es": "Vamos a visitar a mi tía.", "pron": "uir góuin tu vísit mai ant" },
+        { "t": "Are you going to work tomorrow?", "es": "¿Vas a trabajar mañana?", "pron": "ar iu góuin tu uerk tumórou" },
+        { "t": "I'm not going to eat later.", "es": "No voy a comer más tarde.", "pron": "aim not góuin tu it léiter" }
+      ],
+      "dialogo": {
+        "titulo": "Planes para el fin de semana",
+        "lineas": [
+          { "q": "A", "t": "What are you going to do this weekend?", "es": "¿Qué vas a hacer este fin de semana?" },
+          { "q": "B", "t": "I'm going to visit my aunt. And you?", "es": "Voy a visitar a mi tía. ¿Y tú?" },
+          { "q": "A", "t": "I'm going to stay home and rest.", "es": "Voy a quedarme en casa y descansar." },
+          { "q": "B", "t": "Nice! Are you going to cook?", "es": "¡Qué bien! ¿Vas a cocinar?" }
+        ]
+      },
+      "nota": "En una conversación rápida, going to suena como «gonna»: I'm gonna study. Está bien al hablar, pero al escribir usa going to."
+    },
+    {
+      "id": "en-a2-u11-l2",
+      "n": 2,
+      "titulo": "Promesas con will",
+      "objetivo": "Hacer promesas y predicciones con will y won't.",
+      "intro": "Will se usa para prometer (I will help you) y para predecir (It will be sunny). Truco: la forma corta es 'll (I'll, you'll, she'll) y la negativa es won't (will not).",
+      "palabras": [
+        { "t": "promise", "es": "prometer", "pron": "prómis", "ej": "I promise I will call you.", "ejes": "Prometo que te llamaré.", "cog": false },
+        { "t": "probably", "es": "probablemente", "pron": "próbabli", "ej": "It will probably rain.", "ejes": "Probablemente lloverá.", "cog": false },
+        { "t": "maybe", "es": "quizás", "pron": "méibi", "ej": "Maybe I will go.", "ejes": "Quizás vaya.", "cog": false },
+        { "t": "I think", "es": "creo que", "pron": "ai zink", "ej": "I think it will be fun.", "ejes": "Creo que será divertido.", "cog": false },
+        { "t": "sure", "es": "seguro", "pron": "shur", "ej": "I'm sure you will pass.", "ejes": "Estoy seguro de que aprobarás.", "cog": false },
+        { "t": "help", "es": "ayudar", "pron": "jelp", "ej": "I will help you.", "ejes": "Te ayudaré.", "cog": false },
+        { "t": "remember", "es": "recordar", "pron": "rimémber", "ej": "I will remember your birthday.", "ejes": "Recordaré tu cumpleaños.", "cog": false },
+        { "t": "forget", "es": "olvidar", "pron": "forgét", "ej": "I won't forget the keys.", "ejes": "No olvidaré las llaves.", "cog": false },
+        { "t": "won't", "es": "no (futuro)", "pron": "uóunt", "ej": "I won't be late.", "ejes": "No llegaré tarde.", "cog": false, "truco": "won't = will not. Suena «uóunt»." }
+      ],
+      "frases": [
+        { "t": "I will help you.", "es": "Te ayudaré.", "pron": "ai uil jelp iu" },
+        { "t": "I promise I won't be late.", "es": "Prometo que no llegaré tarde.", "pron": "ai prómis ai uóunt bi leit" },
+        { "t": "I think it will rain.", "es": "Creo que lloverá.", "pron": "ai zink it uil rein" },
+        { "t": "She will probably call you.", "es": "Probablemente ella te llamará.", "pron": "shi uil próbabli col iu" },
+        { "t": "I won't forget your birthday.", "es": "No olvidaré tu cumpleaños.", "pron": "ai uóunt forgét iur bérzdei" }
+      ],
+      "dialogo": {
+        "titulo": "Una promesa",
+        "lineas": [
+          { "q": "A", "t": "Please don't forget my birthday.", "es": "Por favor no olvides mi cumpleaños." },
+          { "q": "B", "t": "I promise I won't forget.", "es": "Prometo que no lo olvidaré." },
+          { "q": "A", "t": "Will you come to my party?", "es": "¿Vendrás a mi fiesta?" },
+          { "q": "B", "t": "Yes, I will. I'll bring a cake.", "es": "Sí. Llevaré un pastel." }
+        ]
+      },
+      "nota": "Will también sirve para ofrecer ayuda en el momento: I'll help you. Las respuestas cortas son Yes, I will. / No, I won't."
+    },
+    {
+      "id": "en-a2-u11-l3",
+      "n": 3,
+      "titulo": "Will o going to",
+      "objetivo": "Elegir entre will y going to según la situación.",
+      "intro": "Si es una decisión del momento o un ofrecimiento, usa will: The phone is ringing. I'll answer it. Si ya estaba planeado, usa going to. Truco: pregúntate si ya lo habías pensado antes de hablar.",
+      "palabras": [
+        { "t": "answer", "es": "contestar", "pron": "ánser", "ej": "I'll answer the phone.", "ejes": "Yo contesto el teléfono.", "cog": false, "truco": "La «w» de answer no suena: ánser." },
+        { "t": "carry", "es": "cargar / llevar", "pron": "kári", "ej": "I'll carry your bag.", "ejes": "Yo cargo tu bolso.", "cog": false },
+        { "t": "open", "es": "abrir", "pron": "óupen", "ej": "I'll open the door.", "ejes": "Yo abro la puerta.", "cog": false },
+        { "t": "window", "es": "ventana", "pron": "uíndou", "ej": "It's hot. I'll open the window.", "ejes": "Hace calor. Abriré la ventana.", "cog": false },
+        { "t": "ring", "es": "sonar (teléfono)", "pron": "rin", "ej": "The phone is going to ring.", "ejes": "El teléfono va a sonar.", "cog": false },
+        { "t": "heavy", "es": "pesado", "pron": "jévi", "ej": "This bag is heavy.", "ejes": "Esta bolsa es pesada.", "cog": false },
+        { "t": "bag", "es": "bolsa", "pron": "bag", "ej": "I'll carry the bag.", "ejes": "Yo llevo la bolsa.", "cog": false },
+        { "t": "hold", "es": "sostener", "pron": "jóuld", "ej": "I'll hold the door.", "ejes": "Yo sostengo la puerta.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The phone is ringing. I'll answer it.", "es": "El teléfono suena. Yo contesto.", "pron": "da foun is rínin. ail ánser it" },
+        { "t": "That bag is heavy. I'll carry it.", "es": "Esa bolsa es pesada. Yo la cargo.", "pron": "dat bag is jévi. ail kári it" },
+        { "t": "It's hot. I'll open the window.", "es": "Hace calor. Abriré la ventana.", "pron": "its jat. ail óupen da uíndou" },
+        { "t": "I'm going to cook tonight. I have a plan.", "es": "Voy a cocinar esta noche. Tengo un plan.", "pron": "aim góuin tu cuk tunáit. ai jav a plan" },
+        { "t": "Will you help me?", "es": "¿Me ayudarás?", "pron": "uil iu jelp mi" }
+      ],
+      "dialogo": {
+        "titulo": "Una decisión rápida",
+        "lineas": [
+          { "q": "A", "t": "This bag is very heavy.", "es": "Esta bolsa es muy pesada." },
+          { "q": "B", "t": "I'll carry it for you.", "es": "Yo te la llevo." },
+          { "q": "A", "t": "Thank you! Are you going to the party tonight?", "es": "¡Gracias! ¿Vas a ir a la fiesta esta noche?" },
+          { "q": "B", "t": "Yes, I'm going to meet my friends there.", "es": "Sí, voy a encontrarme con mis amigos allí." }
+        ]
+      },
+      "nota": "Tip: las predicciones con evidencia visible usan going to (Look at the clouds! It's going to rain). Las opiniones o suposiciones usan will (I think it will rain)."
+    },
+    {
+      "id": "en-a2-u11-l4",
+      "n": 4,
+      "titulo": "Si pasa esto, pasará aquello",
+      "objetivo": "Decir qué pasará si algo ocurre con if + presente, will.",
+      "intro": "El primer condicional habla de cosas posibles: If it rains, I'll stay home. Truco: la parte con if va en presente simple (it rains) y el resultado con will. Nunca pongas will después de if.",
+      "palabras": [
+        { "t": "if", "es": "si", "pron": "if", "ej": "If it rains, I'll stay home.", "ejes": "Si llueve, me quedaré en casa.", "cog": false },
+        { "t": "rain", "es": "llover / lluvia", "pron": "rein", "ej": "It will rain tomorrow.", "ejes": "Mañana lloverá.", "cog": false },
+        { "t": "umbrella", "es": "paraguas", "pron": "ambréla", "ej": "Take an umbrella.", "ejes": "Lleva un paraguas.", "cog": false },
+        { "t": "miss", "es": "perder (bus, tren)", "pron": "mis", "ej": "If you hurry, you won't miss the bus.", "ejes": "Si te apuras, no perderás el bus.", "cog": false },
+        { "t": "hurry", "es": "apurarse", "pron": "jéri", "ej": "Hurry up!", "ejes": "¡Apúrate!", "cog": false },
+        { "t": "catch", "es": "tomar (bus, tren)", "pron": "kach", "ej": "I'll catch the 8 o'clock bus.", "ejes": "Tomaré el bus de las 8.", "cog": false },
+        { "t": "traffic", "es": "tráfico", "pron": "tráfic", "ej": "If there is traffic, I'll be late.", "ejes": "Si hay tráfico, llegaré tarde.", "cog": true },
+        { "t": "on time", "es": "a tiempo", "pron": "on taim", "ej": "I will be on time.", "ejes": "Llegaré a tiempo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "If it rains, I'll stay home.", "es": "Si llueve, me quedaré en casa.", "pron": "if it reins, ail stei joum" },
+        { "t": "If you hurry, you won't miss the bus.", "es": "Si te apuras, no perderás el bus.", "pron": "if iu jéri, iu uóunt mis da bas" },
+        { "t": "If there is traffic, I'll be late.", "es": "Si hay tráfico, llegaré tarde.", "pron": "if dér is tráfic, ail bi leit" },
+        { "t": "I'll take an umbrella if it rains.", "es": "Llevaré un paraguas si llueve.", "pron": "ail teik an ambréla if it reins" },
+        { "t": "If you study, you will pass the exam.", "es": "Si estudias, aprobarás el examen.", "pron": "if iu stádi, iu uil pas di egsám" }
+      ],
+      "dialogo": {
+        "titulo": "Camino al trabajo",
+        "lineas": [
+          { "q": "A", "t": "If we hurry, we'll catch the bus.", "es": "Si nos apuramos, tomaremos el bus." },
+          { "q": "B", "t": "But if there is traffic, we'll be late.", "es": "Pero si hay tráfico, llegaremos tarde." },
+          { "q": "A", "t": "Don't worry. If it rains, I'll take a taxi.", "es": "No te preocupes. Si llueve, tomaré un taxi." },
+          { "q": "B", "t": "Okay. I promise I won't miss the bus.", "es": "Bien. Prometo que no perderé el bus." }
+        ]
+      },
+      "nota": "Puedes invertir el orden: I'll stay home if it rains. Si if va al inicio, pon una coma: If it rains, I'll stay home. Si va al final, no hace falta."
+    },
+    {
+      "id": "en-a2-u11-l5",
+      "n": 5,
+      "titulo": "Repaso: mis metas",
+      "objetivo": "Hablar de tus metas y promesas para el futuro.",
+      "intro": "Repasamos going to, will e if hablando de metas. Truco: tus planes ya decididos van con going to; tus promesas y esperanzas, con will; y tus condiciones, con if.",
+      "palabras": [
+        { "t": "goal", "es": "meta", "pron": "góul", "ej": "My goal is to learn English.", "ejes": "Mi meta es aprender inglés.", "cog": false },
+        { "t": "resolution", "es": "propósito", "pron": "rezolúshon", "ej": "My New Year's resolution is to exercise.", "ejes": "Mi propósito de Año Nuevo es hacer ejercicio.", "cog": true },
+        { "t": "save", "es": "ahorrar", "pron": "seiv", "ej": "I'm going to save money.", "ejes": "Voy a ahorrar dinero.", "cog": false },
+        { "t": "lose weight", "es": "bajar de peso", "pron": "lus ueit", "ej": "I want to lose weight.", "ejes": "Quiero bajar de peso.", "cog": false },
+        { "t": "hope", "es": "esperar / esperanza", "pron": "jóup", "ej": "I hope it will be great.", "ejes": "Espero que sea genial.", "cog": false },
+        { "t": "come true", "es": "hacerse realidad", "pron": "cam tru", "ej": "I hope my dream will come true.", "ejes": "Espero que mi sueño se haga realidad.", "cog": false },
+        { "t": "keep", "es": "mantener / seguir", "pron": "kip", "ej": "I'll keep my promise.", "ejes": "Cumpliré mi promesa.", "cog": false },
+        { "t": "try", "es": "intentar", "pron": "trai", "ej": "I will try my best.", "ejes": "Haré mi mejor esfuerzo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "My goal is to learn English.", "es": "Mi meta es aprender inglés.", "pron": "mai góul is tu lern ínglish" },
+        { "t": "I'm going to save money this year.", "es": "Voy a ahorrar dinero este año.", "pron": "aim góuin tu seiv máni dis iar" },
+        { "t": "If I study every day, I'll learn fast.", "es": "Si estudio todos los días, aprenderé rápido.", "pron": "if ai stádi évri dei, ail lern fast" },
+        { "t": "I hope my dream will come true.", "es": "Espero que mi sueño se haga realidad.", "pron": "ai jóup mai drim uil cam tru" },
+        { "t": "I will try my best.", "es": "Haré mi mejor esfuerzo.", "pron": "ai uil trai mai best" },
+        { "t": "I promise I'll keep my word.", "es": "Prometo que cumpliré mi palabra.", "pron": "ai prómis ail kip mai uerd" }
+      ],
+      "dialogo": {
+        "titulo": "Propósitos de Año Nuevo",
+        "lineas": [
+          { "q": "A", "t": "What's your resolution this year?", "es": "¿Cuál es tu propósito este año?" },
+          { "q": "B", "t": "I'm going to save money. And you?", "es": "Voy a ahorrar dinero. ¿Y tú?" },
+          { "q": "A", "t": "I'm going to exercise every day.", "es": "Voy a hacer ejercicio todos los días." },
+          { "q": "B", "t": "If you exercise every day, you'll feel great!", "es": "Si haces ejercicio todos los días, ¡te sentirás genial!" },
+          { "q": "A", "t": "I hope so. I will try my best.", "es": "Eso espero. Haré mi mejor esfuerzo." }
+        ]
+      },
+      "nota": "I hope so significa «eso espero» y es una respuesta muy común. Lo contrario es I hope not (espero que no)."
+    }
+  ]
+}

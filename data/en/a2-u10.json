@@ -1,0 +1,216 @@
+{
+  "id": "en-a2-u10",
+  "idioma": "en",
+  "nivel": "A2",
+  "n": 10,
+  "titulo": "Experiencias de vida",
+  "resumen": "Aprenderás a hablar de experiencias de tu vida con el presente perfecto, usando ever y never y los participios más comunes.",
+  "puedo": [
+    "Formar el presente perfecto con have / has + participio.",
+    "Reconocer los participios irregulares más comunes.",
+    "Preguntar Have you ever...? y responder.",
+    "Decir lo que nunca he hecho y cuántas veces lo he hecho.",
+    "Contar experiencias de viajes y actividades."
+  ],
+  "gramatica": {
+    "titulo": "Presente perfecto para experiencias: have + participio",
+    "texto": "Usamos el presente perfecto para hablar de experiencias de la vida, cuando no importa cuándo pasó. Se forma con have / has + participio: I have visited Cusco (he visitado Cusco). Con he, she, it se usa has.\nEn los verbos regulares el participio es igual al pasado (visited, tried). En los irregulares cambia: go - gone, see - seen, eat - eaten, be - been.\nPara preguntar: Have you ever...? (¿alguna vez has...?). Para negar: I have never... (nunca he...). La forma corta es I've, you've, she's, he's.\nTruco: si dices cuándo pasó (last year, in 2019), usa el pasado simple: I visited Cusco last year.",
+    "tabla": [
+      ["I have seen it.", "Lo he visto.", "ai jav sin it"],
+      ["She has been to Paris.", "Ella ha estado en París.", "shi jas bin tu páris"],
+      ["Have you ever eaten sushi?", "¿Has comido sushi alguna vez?", "jav iu éver íten súshi"],
+      ["Yes, I have.", "Sí, he comido.", "ies, ai jav"],
+      ["No, I haven't.", "No, no he comido.", "nou, ai jávent"],
+      ["I have never flown.", "Nunca he volado.", "ai jav néver floun"]
+    ],
+    "errores": [
+      "No uses el presente perfecto con una fecha: es I went to Cusco in 2019, no «I have gone to Cusco in 2019».",
+      "No uses el participio equivocado: es I have seen, no «I have saw».",
+      "Con he, she, it va has: She has been, no «She have been»."
+    ]
+  },
+  "practica": [
+    "Escribe 6 cosas que has hecho en tu vida con I have... y 3 que nunca has hecho con I have never... (10 minutos).",
+    "Pregunta a un amigo o a ti mismo 5 veces Have you ever...? y responde en voz alta (5 minutos).",
+    "Repasa en voz alta 10 participios irregulares: go - went - gone, see - saw - seen, etc. (5 minutos).",
+    "Mira fotos de un viaje tuyo y cuenta en inglés qué lugares has visitado y qué has comido (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-a2-u10-l1",
+      "n": 1,
+      "titulo": "Los participios",
+      "objetivo": "Formar el presente perfecto y reconocer participios comunes.",
+      "intro": "El presente perfecto lleva have o has y un participio: I have seen it. Truco: los regulares terminan en -ed (visited); los irregulares hay que aprenderlos. Aquí tienes los más útiles.",
+      "palabras": [
+        { "t": "been", "es": "estado / sido (de be)", "pron": "bin", "ej": "I have been to Lima.", "ejes": "He estado en Lima.", "cog": false, "truco": "been es el participio de be." },
+        { "t": "seen", "es": "visto (de see)", "pron": "sin", "ej": "I have seen that movie.", "ejes": "He visto esa película.", "cog": false },
+        { "t": "eaten", "es": "comido (de eat)", "pron": "íten", "ej": "I have eaten ceviche.", "ejes": "He comido ceviche.", "cog": false },
+        { "t": "gone", "es": "ido (de go)", "pron": "gon", "ej": "She has gone home.", "ejes": "Ella se ha ido a casa.", "cog": false },
+        { "t": "done", "es": "hecho (de do)", "pron": "dan", "ej": "I have done my homework.", "ejes": "He hecho mi tarea.", "cog": false },
+        { "t": "met", "es": "conocido (de meet)", "pron": "met", "ej": "I have met your sister.", "ejes": "He conocido a tu hermana.", "cog": false },
+        { "t": "read", "es": "leído (de read)", "pron": "red", "ej": "I have read this book.", "ejes": "He leído este libro.", "cog": false, "truco": "En el participio, read se escribe igual pero suena «red»." },
+        { "t": "taken", "es": "tomado (de take)", "pron": "téiken", "ej": "I have taken a lot of photos.", "ejes": "He tomado muchas fotos.", "cog": false },
+        { "t": "visited", "es": "visitado (de visit)", "pron": "vísited", "ej": "We have visited Cusco.", "ejes": "Hemos visitado Cusco.", "cog": true }
+      ],
+      "frases": [
+        { "t": "I have seen that movie.", "es": "He visto esa película.", "pron": "ai jav sin dat múvi" },
+        { "t": "She has been to Paris.", "es": "Ella ha estado en París.", "pron": "shi jas bin tu páris" },
+        { "t": "We have visited Cusco.", "es": "Hemos visitado Cusco.", "pron": "ui jav vísited cúsco" },
+        { "t": "I've eaten ceviche many times.", "es": "He comido ceviche muchas veces.", "pron": "aiv íten sevíche méni taims" },
+        { "t": "He has read this book.", "es": "Él ha leído este libro.", "pron": "ji jas red dis buk" }
+      ],
+      "dialogo": {
+        "titulo": "Una película",
+        "lineas": [
+          { "q": "A", "t": "I've seen that movie.", "es": "He visto esa película." },
+          { "q": "B", "t": "Really? I haven't seen it.", "es": "¿En serio? Yo no la he visto." },
+          { "q": "A", "t": "It's great. I've seen it twice.", "es": "Es genial. La he visto dos veces." },
+          { "q": "B", "t": "Okay, I want to see it too.", "es": "Bien, yo también quiero verla." }
+        ]
+      },
+      "nota": "Gone y been se parecen pero no son iguales: She has gone to Lima significa que está allá ahora; She has been to Lima significa que fue y ya volvió."
+    },
+    {
+      "id": "en-a2-u10-l2",
+      "n": 2,
+      "titulo": "Have you ever...?",
+      "objetivo": "Preguntar sobre experiencias con Have you ever...? y responder.",
+      "intro": "Para preguntar por experiencias usa Have you ever + participio? Truco: ever significa «alguna vez». Respondes con Yes, I have o No, I haven't.",
+      "palabras": [
+        { "t": "ever", "es": "alguna vez", "pron": "éver", "ej": "Have you ever been to Peru?", "ejes": "¿Has estado alguna vez en Perú?", "cog": false },
+        { "t": "abroad", "es": "en el extranjero", "pron": "abród", "ej": "Have you ever lived abroad?", "ejes": "¿Has vivido alguna vez en el extranjero?", "cog": false },
+        { "t": "mountain", "es": "montaña", "pron": "máunten", "ej": "I have seen a big mountain.", "ejes": "He visto una montaña grande.", "cog": false },
+        { "t": "beach", "es": "playa", "pron": "bich", "ej": "We have been to the beach.", "ejes": "Hemos ido a la playa.", "cog": false },
+        { "t": "island", "es": "isla", "pron": "áiland", "ej": "I have visited an island.", "ejes": "He visitado una isla.", "cog": false, "truco": "La «s» de island no suena: áiland." },
+        { "t": "museum", "es": "museo", "pron": "miusíum", "ej": "Have you been to a museum?", "ejes": "¿Has ido a un museo?", "cog": true },
+        { "t": "famous", "es": "famoso", "pron": "féimos", "ej": "I have met a famous singer.", "ejes": "He conocido a un cantante famoso.", "cog": true },
+        { "t": "before", "es": "antes", "pron": "bifór", "ej": "I have been there before.", "ejes": "He estado allí antes.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Have you ever been to Peru?", "es": "¿Has estado alguna vez en Perú?", "pron": "jav iu éver bin tu perú" },
+        { "t": "Yes, I have.", "es": "Sí, he estado.", "pron": "ies, ai jav" },
+        { "t": "No, I haven't.", "es": "No, no he estado.", "pron": "nou, ai jávent" },
+        { "t": "Have you ever lived abroad?", "es": "¿Has vivido alguna vez en el extranjero?", "pron": "jav iu éver livd abród" },
+        { "t": "She has been to a famous museum.", "es": "Ella ha estado en un museo famoso.", "pron": "shi jas bin tu a féimos miusíum" }
+      ],
+      "dialogo": {
+        "titulo": "Hablando de viajes",
+        "lineas": [
+          { "q": "A", "t": "Have you ever been abroad?", "es": "¿Has estado alguna vez en el extranjero?" },
+          { "q": "B", "t": "Yes, I have. I've been to Chile.", "es": "Sí. He estado en Chile." },
+          { "q": "A", "t": "Have you ever seen a big mountain?", "es": "¿Has visto alguna vez una montaña grande?" },
+          { "q": "B", "t": "Yes, I have. I've visited Machu Picchu.", "es": "Sí. He visitado Machu Picchu." }
+        ]
+      },
+      "nota": "La respuesta corta repite solo have: Yes, I have. / No, I haven't. No repitas el verbo completo. Si quieres dar más detalles, pasas al pasado: Yes, I have. I went there last year."
+    },
+    {
+      "id": "en-a2-u10-l3",
+      "n": 3,
+      "titulo": "Nunca y varias veces",
+      "objetivo": "Decir que nunca has hecho algo o cuántas veces lo has hecho.",
+      "intro": "Para decir «nunca he...» usa I have never + participio. Para contar veces: once (una vez), twice (dos veces), three times. Truco: never ya es negativo, no pongas haven't con never.",
+      "palabras": [
+        { "t": "never", "es": "nunca", "pron": "néver", "ej": "I have never been to Mexico.", "ejes": "Nunca he estado en México.", "cog": false },
+        { "t": "once", "es": "una vez", "pron": "uans", "ej": "I have been there once.", "ejes": "He estado allí una vez.", "cog": false },
+        { "t": "twice", "es": "dos veces", "pron": "tuáis", "ej": "I have seen it twice.", "ejes": "Lo he visto dos veces.", "cog": false },
+        { "t": "three times", "es": "tres veces", "pron": "zri taims", "ej": "She has called me three times.", "ejes": "Ella me ha llamado tres veces.", "cog": false },
+        { "t": "many times", "es": "muchas veces", "pron": "méni taims", "ej": "I have eaten pizza many times.", "ejes": "He comido pizza muchas veces.", "cog": false },
+        { "t": "first time", "es": "primera vez", "pron": "ferst taim", "ej": "It's my first time in Lima.", "ejes": "Es mi primera vez en Lima.", "cog": false },
+        { "t": "again", "es": "otra vez", "pron": "agén", "ej": "I want to go again.", "ejes": "Quiero ir otra vez.", "cog": false },
+        { "t": "experience", "es": "experiencia", "pron": "ekspíriens", "ej": "It was a great experience.", "ejes": "Fue una gran experiencia.", "cog": true }
+      ],
+      "frases": [
+        { "t": "I have never been to Mexico.", "es": "Nunca he estado en México.", "pron": "ai jav néver bin tu méxico" },
+        { "t": "She has never eaten sushi.", "es": "Ella nunca ha comido sushi.", "pron": "shi jas néver íten súshi" },
+        { "t": "I have seen it twice.", "es": "Lo he visto dos veces.", "pron": "ai jav sin it tuáis" },
+        { "t": "We have been there many times.", "es": "Hemos estado allí muchas veces.", "pron": "ui jav bin dér méni taims" },
+        { "t": "It's my first time here.", "es": "Es mi primera vez aquí.", "pron": "its mai ferst taim jíar" }
+      ],
+      "dialogo": {
+        "titulo": "Primera vez",
+        "lineas": [
+          { "q": "A", "t": "Have you ever eaten sushi?", "es": "¿Has comido sushi alguna vez?" },
+          { "q": "B", "t": "No, I've never eaten sushi.", "es": "No, nunca he comido sushi." },
+          { "q": "A", "t": "Let's try it today!", "es": "¡Probémoslo hoy!" },
+          { "q": "B", "t": "Okay. It's my first time.", "es": "Bueno. Es mi primera vez." }
+        ]
+      },
+      "nota": "No digas I haven't never. En inglés basta una negación: I have never o I haven't. La cuenta de veces siempre va al final: I have been there twice."
+    },
+    {
+      "id": "en-a2-u10-l4",
+      "n": 4,
+      "titulo": "Aventuras",
+      "objetivo": "Hablar de actividades y aventuras con más participios irregulares.",
+      "intro": "Ahora amplías con más participios para hablar de aventuras: climbed, ridden, flown... Truco: los regulares (climbed, tried) son fáciles; de los irregulares aprende uno por semana.",
+      "palabras": [
+        { "t": "climbed", "es": "escalado (de climb)", "pron": "claimd", "ej": "I have climbed a mountain.", "ejes": "He escalado una montaña.", "cog": false, "truco": "En climb la «b» no suena: claim." },
+        { "t": "ridden", "es": "montado (de ride)", "pron": "ríden", "ej": "I have ridden a horse.", "ejes": "He montado a caballo.", "cog": false },
+        { "t": "flown", "es": "volado (de fly)", "pron": "floun", "ej": "I have never flown in a helicopter.", "ejes": "Nunca he volado en helicóptero.", "cog": false },
+        { "t": "won", "es": "ganado (de win)", "pron": "uan", "ej": "She has won a prize.", "ejes": "Ella ha ganado un premio.", "cog": false, "truco": "won suena igual que one (uan)." },
+        { "t": "sung", "es": "cantado (de sing)", "pron": "sang", "ej": "I have sung in public.", "ejes": "He cantado en público.", "cog": false },
+        { "t": "swum", "es": "nadado (de swim)", "pron": "suam", "ej": "I have swum in the sea.", "ejes": "He nadado en el mar.", "cog": false },
+        { "t": "tried", "es": "probado (de try)", "pron": "traid", "ej": "I have tried surfing.", "ejes": "He probado el surf.", "cog": false },
+        { "t": "driven", "es": "manejado (de drive)", "pron": "dríven", "ej": "I have driven a truck.", "ejes": "He manejado un camión.", "cog": false },
+        { "t": "horse", "es": "caballo", "pron": "jors", "ej": "A horse is a big animal.", "ejes": "El caballo es un animal grande.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I have climbed a mountain.", "es": "He escalado una montaña.", "pron": "ai jav claimd a máunten" },
+        { "t": "Have you ever ridden a horse?", "es": "¿Has montado alguna vez a caballo?", "pron": "jav iu éver ríden a jors" },
+        { "t": "I have never flown in a helicopter.", "es": "Nunca he volado en helicóptero.", "pron": "ai jav néver floun in a jélicopter" },
+        { "t": "She has won a prize.", "es": "Ella ha ganado un premio.", "pron": "shi jas uan a prais" },
+        { "t": "We have swum in the sea.", "es": "Hemos nadado en el mar.", "pron": "ui jav suam in da si" },
+        { "t": "He has tried surfing.", "es": "Él ha probado el surf.", "pron": "ji jas traid sérfin" }
+      ],
+      "dialogo": {
+        "titulo": "Deportes extremos",
+        "lineas": [
+          { "q": "A", "t": "Have you ever climbed a mountain?", "es": "¿Has escalado alguna vez una montaña?" },
+          { "q": "B", "t": "Yes, I have. I've climbed two.", "es": "Sí. He escalado dos." },
+          { "q": "A", "t": "Wow! Have you ever flown in a helicopter?", "es": "¡Vaya! ¿Has volado alguna vez en helicóptero?" },
+          { "q": "B", "t": "No, I haven't. But I've ridden a horse.", "es": "No. Pero he montado a caballo." },
+          { "q": "A", "t": "I've never ridden a horse!", "es": "¡Yo nunca he montado a caballo!" }
+        ]
+      },
+      "nota": "Los participios irregulares se aprenden en tres columnas: verbo, pasado, participio. Por ejemplo: fly - flew - flown, ride - rode - ridden, win - won - won."
+    },
+    {
+      "id": "en-a2-u10-l5",
+      "n": 5,
+      "titulo": "Repaso: mi vida",
+      "objetivo": "Contar tus experiencias y opinar sobre ellas.",
+      "intro": "Repasamos el presente perfecto y añadimos adjetivos para opinar sobre tus experiencias. Truco: primero cuentas la experiencia (I have been to Cusco) y luego, en pasado, das el detalle (It was amazing).",
+      "palabras": [
+        { "t": "amazing", "es": "increíble", "pron": "améisin", "ej": "The trip was amazing.", "ejes": "El viaje fue increíble.", "cog": false },
+        { "t": "scary", "es": "que da miedo", "pron": "squéri", "ej": "The movie was scary.", "ejes": "La película daba miedo.", "cog": false },
+        { "t": "boring", "es": "aburrido", "pron": "bórin", "ej": "The class was boring.", "ejes": "La clase fue aburrida.", "cog": false },
+        { "t": "interesting", "es": "interesante", "pron": "íntresting", "ej": "It was an interesting experience.", "ejes": "Fue una experiencia interesante.", "cog": true },
+        { "t": "exciting", "es": "emocionante", "pron": "eksáitin", "ej": "The game was exciting.", "ejes": "El partido fue emocionante.", "cog": false },
+        { "t": "lucky", "es": "afortunado", "pron": "láki", "ej": "You are very lucky.", "ejes": "Tienes mucha suerte.", "cog": false },
+        { "t": "dream", "es": "sueño / soñar", "pron": "drim", "ej": "My dream is to travel.", "ejes": "Mi sueño es viajar.", "cog": false },
+        { "t": "unforgettable", "es": "inolvidable", "pron": "anforgétabol", "ej": "It was an unforgettable day.", "ejes": "Fue un día inolvidable.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I have been to Cusco. It was amazing!", "es": "He estado en Cusco. ¡Fue increíble!", "pron": "ai jav bin tu cúsco. it uas améisin" },
+        { "t": "Have you ever seen a scary movie?", "es": "¿Has visto alguna vez una película de miedo?", "pron": "jav iu éver sin a squéri múvi" },
+        { "t": "I have never been bored there.", "es": "Nunca me he aburrido allí.", "pron": "ai jav néver bin bord dér" },
+        { "t": "You are very lucky!", "es": "¡Tienes mucha suerte!", "pron": "iu ar véri láki" },
+        { "t": "It was an unforgettable day.", "es": "Fue un día inolvidable.", "pron": "it uas an anforgétabol dei" },
+        { "t": "My dream is to travel the world.", "es": "Mi sueño es viajar por el mundo.", "pron": "mai drim is tu trável da uerld" }
+      ],
+      "dialogo": {
+        "titulo": "Contando una experiencia",
+        "lineas": [
+          { "q": "A", "t": "Have you ever been to Machu Picchu?", "es": "¿Has estado alguna vez en Machu Picchu?" },
+          { "q": "B", "t": "Yes, I have. I went last year.", "es": "Sí. Fui el año pasado." },
+          { "q": "A", "t": "What was it like?", "es": "¿Cómo fue?" },
+          { "q": "B", "t": "It was amazing. It was an unforgettable day.", "es": "Fue increíble. Fue un día inolvidable." },
+          { "q": "A", "t": "You are lucky. I have never been there.", "es": "Tienes suerte. Yo nunca he estado allí." }
+        ]
+      },
+      "nota": "Cuidado con los adjetivos -ed e -ing: boring es lo que aburre (The class is boring); bored es cómo me siento (I am bored). Lo mismo con exciting y excited."
+    }
+  ]
+}

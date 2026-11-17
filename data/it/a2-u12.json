@@ -1,0 +1,217 @@
+{
+  "id": "it-a2-u12",
+  "idioma": "it",
+  "nivel": "A2",
+  "n": 12,
+  "titulo": "Reglas y consejos",
+  "resumen": "Aprenderás a decir qué se debe y qué no se puede hacer, a dar consejos con «dovresti» y a pedir con cortesía usando «vorrei».",
+  "puedo": [
+    "Decir reglas con «si deve», «non si può», «bisogna» y «è vietato».",
+    "Entender carteles y normas de lugares públicos.",
+    "Dar consejos con «dovresti», «potresti» y «ti consiglio di».",
+    "Pedir con cortesía con «vorrei» y «potrei».",
+    "Repasar lo aprendido en el nivel A2."
+  ],
+  "gramatica": {
+    "titulo": "Reglas y consejos: si deve, non si può, dovresti",
+    "texto": "Para hablar de reglas generales («se debe», «no se puede») usa «si» + verbo en 3.ª persona: Si deve pagare. Non si può fumare. Se el sustantivo es plural, el verbo también: Si pagano i biglietti.\nTambién existen «bisogna + infinitivo» (hay que...) y «è vietato + infinitivo» (está prohibido...).\nPara dar un consejo suave usa el condicional: dovresti (deberías), potresti (podrías), faresti (harías). Se forma con el mismo radical del futuro más las terminaciones -ei, -esti, -ebbe, -emmo, -este, -ebbero: dovrei, dovresti, dovrebbe...\nPara pedir con cortesía: vorrei (quisiera), potrei (podría).",
+    "tabla": [
+      ["si deve", "se debe", "si déve"],
+      ["non si può", "no se puede", "non si puó"],
+      ["bisogna", "hay que", "bisóña"],
+      ["è vietato", "está prohibido", "è vietáto"],
+      ["dovresti", "deberías", "dovrésti"],
+      ["vorrei", "quisiera", "vorréi"]
+    ],
+    "errores": [
+      "No uses «tú» para reglas generales: «Si deve pagare» (no «tu devi pagare» si hablas de todos).",
+      "«Dovresti» es un consejo, «devi» es una obligación: «Dovresti riposare» suena más amable que «Devi riposare».",
+      "No digas «voglio» para pedir: es más cortés «vorrei» (quisiera)."
+    ]
+  },
+  "practica": [
+    "Escribe tres reglas de tu trabajo o de tu casa con «si deve» y tres con «non si può» (5 minutos).",
+    "Da tres consejos a un amigo con «dovresti...» sobre salud, dinero o estudio (5 minutos).",
+    "Pide tres cosas con «vorrei» como si estuvieras en un hotel, un restaurante y una tienda (5 minutos).",
+    "Repasa en voz alta una frase de cada unidad de A2: pasado, comparar, viajes, salud, comida, trabajo, experiencias y futuro (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-a2-u12-l1",
+      "n": 1,
+      "titulo": "Reglas: se debe, no se puede",
+      "objetivo": "Decir lo que se debe y lo que no se puede hacer.",
+      "intro": "Para reglas generales usa «si» + verbo en singular: «si deve», «non si può». Truco: es como en español «se debe», «no se puede».",
+      "palabras": [
+        { "t": "si deve", "es": "se debe", "pron": "si déve", "ej": "Si deve pagare qui.", "ejes": "Se debe pagar aquí.", "cog": false },
+        { "t": "non si può", "es": "no se puede", "pron": "non si puó", "ej": "Qui non si può fumare.", "ejes": "Aquí no se puede fumar.", "cog": false },
+        { "t": "bisogna", "es": "hay que", "pron": "bisóña", "ej": "Bisogna arrivare presto.", "ejes": "Hay que llegar temprano.", "cog": false },
+        { "t": "è vietato", "es": "está prohibido", "pron": "è vietáto", "ej": "È vietato parcheggiare qui.", "ejes": "Está prohibido estacionar aquí.", "cog": false },
+        { "t": "è permesso", "es": "está permitido", "pron": "è permésso", "ej": "È permesso entrare con il cane.", "ejes": "Está permitido entrar con el perro.", "cog": false },
+        { "t": "fumare", "es": "fumar", "pron": "fumáre", "ej": "Non si può fumare.", "ejes": "No se puede fumar.", "cog": true },
+        { "t": "entrare", "es": "entrar", "pron": "entráre", "ej": "Si può entrare qui.", "ejes": "Se puede entrar aquí.", "cog": true },
+        { "t": "parcheggiare", "es": "estacionar", "pron": "parkeddyáre", "ej": "Si può parcheggiare qui?", "ejes": "¿Se puede estacionar aquí?", "cog": false },
+        { "t": "il divieto", "es": "la prohibición", "pron": "il diviéto", "ej": "Il divieto è chiaro.", "ejes": "La prohibición es clara.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Si deve pagare alla cassa.", "es": "Se debe pagar en la caja.", "pron": "si déve pagáre álla cássa" },
+        { "t": "Non si può fumare.", "es": "No se puede fumar.", "pron": "non si puó fumáre" },
+        { "t": "Bisogna fare la fila.", "es": "Hay que hacer la fila.", "pron": "bisóña fáre la fíla" },
+        { "t": "È vietato parcheggiare qui.", "es": "Está prohibido estacionar aquí.", "pron": "è vietáto parkeddyáre cuí" },
+        { "t": "Si può entrare?", "es": "¿Se puede entrar?", "pron": "si puó entráre" }
+      ],
+      "dialogo": {
+        "titulo": "Un cartel en la puerta",
+        "lineas": [
+          { "q": "A", "t": "Scusi, si può fumare qui?", "es": "Disculpe, ¿se puede fumar aquí?" },
+          { "q": "B", "t": "No, è vietato fumare.", "es": "No, está prohibido fumar." },
+          { "q": "A", "t": "E si può entrare con il cane?", "es": "¿Y se puede entrar con el perro?" },
+          { "q": "B", "t": "Sì, è permesso, ma bisogna tenerlo al guinzaglio.", "es": "Sí, está permitido, pero hay que llevarlo con correa." }
+        ]
+      },
+      "nota": "«Vietato» es el cartel más común: «Vietato fumare», «Vietato l'ingresso». Los carteles suelen omitir el verbo «è». «Può» lleva tilde; «puo» sin tilde sería otra palabra."
+    },
+    {
+      "id": "it-a2-u12-l2",
+      "n": 2,
+      "titulo": "Reglas en lugares públicos",
+      "objetivo": "Entender normas de tránsito, transporte y lugares públicos.",
+      "intro": "En la calle, en el tren o en un museo hay reglas. Truco: muchas se expresan con «bisogna» + infinitivo o «è vietato» + infinitivo.",
+      "palabras": [
+        { "t": "il biglietto", "es": "el boleto", "pron": "il billétto", "ej": "Bisogna avere il biglietto.", "ejes": "Hay que tener el boleto.", "cog": false },
+        { "t": "la fila", "es": "la fila / cola", "pron": "la fíla", "ej": "Bisogna fare la fila.", "ejes": "Hay que hacer la fila.", "cog": false },
+        { "t": "la cintura", "es": "el cinturón", "pron": "la cintúra", "ej": "Bisogna allacciare la cintura.", "ejes": "Hay que abrocharse el cinturón.", "cog": false },
+        { "t": "il casco", "es": "el casco", "pron": "il cásco", "ej": "Si deve portare il casco.", "ejes": "Se debe llevar casco.", "cog": true },
+        { "t": "il semaforo", "es": "el semáforo", "pron": "il semáforo", "ej": "Il semaforo è rosso.", "ejes": "El semáforo está en rojo.", "cog": true },
+        { "t": "rosso", "es": "rojo", "pron": "rósso", "ej": "Con il rosso non si passa.", "ejes": "Con el rojo no se pasa.", "cog": false },
+        { "t": "verde", "es": "verde", "pron": "vérde", "ej": "Con il verde si passa.", "ejes": "Con el verde se pasa.", "cog": true },
+        { "t": "il silenzio", "es": "el silencio", "pron": "il silénsio", "ej": "Il silenzio è importante.", "ejes": "El silencio es importante.", "cog": true },
+        { "t": "la biblioteca", "es": "la biblioteca", "pron": "la bibliotéca", "ej": "La biblioteca è aperta.", "ejes": "La biblioteca está abierta.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Bisogna avere il biglietto.", "es": "Hay que tener el boleto.", "pron": "bisóña avére il billétto" },
+        { "t": "In macchina si deve allacciare la cintura.", "es": "En el auto se debe abrochar el cinturón.", "pron": "in mácchina si déve allachár la cintúra" },
+        { "t": "Con il rosso non si passa.", "es": "Con el rojo no se pasa.", "pron": "con il rósso non si pássa" },
+        { "t": "In biblioteca si deve fare silenzio.", "es": "En la biblioteca se debe guardar silencio.", "pron": "in bibliotéca si déve fáre silénsio" },
+        { "t": "Non si può mangiare in museo.", "es": "No se puede comer en el museo.", "pron": "non si puó mandyáre in muséo" }
+      ],
+      "dialogo": {
+        "titulo": "En el tren",
+        "lineas": [
+          { "q": "A", "t": "Scusi, dove si compra il biglietto?", "es": "Disculpe, ¿dónde se compra el boleto?" },
+          { "q": "B", "t": "Alla macchinetta, prima di salire.", "es": "En la máquina, antes de subir." },
+          { "q": "A", "t": "Bisogna anche timbrarlo?", "es": "¿También hay que validarlo?" },
+          { "q": "B", "t": "Sì, si deve timbrare sempre il biglietto.", "es": "Sí, siempre se debe validar el boleto." }
+        ]
+      },
+      "nota": "En los trenes regionales italianos hay que «timbrare» (validar) el boleto antes de subir: sin sello, la multa es alta. «Macchinetta» es la máquina de boletos; «macchina» es el auto."
+    },
+    {
+      "id": "it-a2-u12-l3",
+      "n": 3,
+      "titulo": "Dar consejos: dovresti",
+      "objetivo": "Dar consejos amables con «dovresti», «potresti» y «ti consiglio di».",
+      "intro": "El condicional suena más suave que la orden. Truco: «dovresti» = deberías; «potresti» = podrías; «ti consiglio di + infinitivo» = te aconsejo + infinitivo.",
+      "palabras": [
+        { "t": "dovresti", "es": "deberías", "pron": "dovrésti", "ej": "Dovresti riposare di più.", "ejes": "Deberías descansar más.", "cog": false },
+        { "t": "potresti", "es": "podrías", "pron": "potrésti", "ej": "Potresti chiedere aiuto.", "ejes": "Podrías pedir ayuda.", "cog": false },
+        { "t": "ti consiglio di", "es": "te aconsejo", "pron": "ti consíllio di", "ej": "Ti consiglio di partire presto.", "ejes": "Te aconsejo salir temprano.", "cog": false },
+        { "t": "secondo me", "es": "en mi opinión", "pron": "secóndo me", "ej": "Secondo me, è una buona idea.", "ejes": "En mi opinión, es una buena idea.", "cog": false },
+        { "t": "è meglio", "es": "es mejor", "pron": "è méllio", "ej": "È meglio partire presto.", "ejes": "Es mejor salir temprano.", "cog": false },
+        { "t": "perché non", "es": "¿por qué no...?", "pron": "perké non", "ej": "Perché non provi questa pizza?", "ejes": "¿Por qué no pruebas esta pizza?", "cog": false },
+        { "t": "chiedere", "es": "pedir / preguntar", "pron": "quiédere", "ej": "Potresti chiedere al capo.", "ejes": "Podrías preguntarle al jefe.", "cog": false },
+        { "t": "l'aiuto", "es": "la ayuda", "pron": "laiúto", "ej": "Chiedo l'aiuto del capo.", "ejes": "Pido la ayuda del jefe.", "cog": false },
+        { "t": "l'idea", "es": "la idea", "pron": "lidéa", "ej": "L'idea è buona.", "ejes": "La idea es buena.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Dovresti riposare di più.", "es": "Deberías descansar más.", "pron": "dovrésti riposáre di piú" },
+        { "t": "Potresti chiedere aiuto al capo.", "es": "Podrías pedir ayuda al jefe.", "pron": "potrésti quiédere aiúto al cápo" },
+        { "t": "Ti consiglio di partire presto.", "es": "Te aconsejo salir temprano.", "pron": "ti consíllio di partíre présto" },
+        { "t": "Secondo me, è meglio studiare.", "es": "En mi opinión, es mejor estudiar.", "pron": "secóndo me, è méllio studiáre" },
+        { "t": "Perché non provi questa pizza?", "es": "¿Por qué no pruebas esta pizza?", "pron": "perké non próvi cuésta pítsa" }
+      ],
+      "dialogo": {
+        "titulo": "Pidiendo un consejo",
+        "lineas": [
+          { "q": "A", "t": "Sono sempre stanco. Che cosa dovrei fare?", "es": "Siempre estoy cansado. ¿Qué debería hacer?" },
+          { "q": "B", "t": "Dovresti dormire di più e bere meno caffè.", "es": "Deberías dormir más y tomar menos café." },
+          { "q": "A", "t": "Hai ragione. Perché non vado a letto prima?", "es": "Tienes razón. ¿Por qué no me acuesto más temprano?" },
+          { "q": "B", "t": "Ottima idea! Ti consiglio anche di fare una passeggiata.", "es": "¡Excelente idea! También te aconsejo dar un paseo." }
+        ]
+      },
+      "nota": "«Dovresti» y «potresti» se forman con la raíz del futuro (dovr-, potr-) más -esti. «Secondo me» y «ti consiglio di» ayudan a dar consejos sin sonar mandón. «Ottima idea» es un halago muy usado."
+    },
+    {
+      "id": "it-a2-u12-l4",
+      "n": 4,
+      "titulo": "Pedir con cortesía: vorrei, potrei",
+      "objetivo": "Pedir cosas y permisos con cortesía usando «vorrei» y «potrei».",
+      "intro": "Ya conoces «vorrei» desde A1. Ahora añadimos «potrei» (¿podría?) y «sarebbe possibile...?» (¿sería posible?). Truco: cuanto más cortés quieres ser, más condicional usas.",
+      "palabras": [
+        { "t": "vorrei", "es": "quisiera", "pron": "vorréi", "ej": "Vorrei una camera singola.", "ejes": "Quisiera una habitación individual.", "cog": false },
+        { "t": "potrei", "es": "podría", "pron": "potréi", "ej": "Potrei avere il conto?", "ejes": "¿Podría tener la cuenta?", "cog": false },
+        { "t": "sarebbe possibile", "es": "sería posible", "pron": "sarébbe possíbile", "ej": "Sarebbe possibile cambiare tavolo?", "ejes": "¿Sería posible cambiar de mesa?", "cog": false },
+        { "t": "le dispiace", "es": "¿le molesta? (usted)", "pron": "le dispiáche", "ej": "Le dispiace se apro la finestra?", "ejes": "¿Le molesta si abro la ventana?", "cog": false },
+        { "t": "mi scusi", "es": "disculpe (usted)", "pron": "mi scúsi", "ej": "Mi scusi, potrei passare?", "ejes": "Disculpe, ¿podría pasar?", "cog": false },
+        { "t": "la camera", "es": "la habitación", "pron": "la cámera", "ej": "La camera è pulita.", "ejes": "La habitación está limpia.", "cog": false },
+        { "t": "la finestra", "es": "la ventana", "pron": "la finéstra", "ej": "La finestra è aperta.", "ejes": "La ventana está abierta.", "cog": false },
+        { "t": "cambiare", "es": "cambiar", "pron": "cambiáre", "ej": "Vorrei cambiare camera.", "ejes": "Quisiera cambiar de habitación.", "cog": true },
+        { "t": "gentilmente", "es": "amablemente", "pron": "yentilménte", "ej": "Potrei, gentilmente, avere dell'acqua?", "ejes": "¿Podría, amablemente, tener agua?", "cog": false }
+      ],
+      "frases": [
+        { "t": "Vorrei una camera singola.", "es": "Quisiera una habitación individual.", "pron": "vorréi úna cámera síngola" },
+        { "t": "Potrei avere il conto?", "es": "¿Podría tener la cuenta?", "pron": "potréi avére il cónto" },
+        { "t": "Sarebbe possibile cambiare tavolo?", "es": "¿Sería posible cambiar de mesa?", "pron": "sarébbe possíbile cambiáre távolo" },
+        { "t": "Le dispiace se apro la finestra?", "es": "¿Le molesta si abro la ventana?", "pron": "le dispiáche se ápro la finéstra" },
+        { "t": "Mi scusi, potrei passare?", "es": "Disculpe, ¿podría pasar?", "pron": "mi scúsi, potréi passáre" }
+      ],
+      "dialogo": {
+        "titulo": "En el hotel",
+        "lineas": [
+          { "q": "A", "t": "Buonasera. Vorrei cambiare camera, per favore.", "es": "Buenas noches. Quisiera cambiar de habitación, por favor." },
+          { "q": "B", "t": "Certo. Qual è il problema?", "es": "Claro. ¿Cuál es el problema?" },
+          { "q": "A", "t": "La camera è troppo rumorosa. Sarebbe possibile avere una camera tranquilla?", "es": "La habitación es muy ruidosa. ¿Sería posible tener una habitación tranquila?" },
+          { "q": "B", "t": "Sì, ecco la chiave della camera nuova.", "es": "Sí, aquí tiene la llave de la nueva habitación." }
+        ]
+      },
+      "nota": "«Le dispiace se...?» es una forma muy cortés de pedir permiso. «Mi scusi» (usted) y «scusa» (tú) sirven para pedir paso o llamar la atención. Con extranjeros, los italianos aprecian el uso de «vorrei» y «potrei»."
+    },
+    {
+      "id": "it-a2-u12-l5",
+      "n": 5,
+      "titulo": "Repaso general del nivel A2",
+      "objetivo": "Repasar reglas, consejos y recorrer los temas principales del nivel A2.",
+      "intro": "Llegaste al final de A2: pasado, comparativos, viajes, salud, comida, trabajo, experiencias y futuro. Truco: en esta lección mezcla todo en frases cortas y habla en voz alta.",
+      "palabras": [
+        { "t": "ieri", "es": "ayer", "pron": "iéri", "ej": "Ieri ho lavorato molto.", "ejes": "Ayer trabajé mucho.", "cog": false },
+        { "t": "più", "es": "más", "pron": "piú", "ej": "Roma è più grande di Siena.", "ejes": "Roma es más grande que Siena.", "cog": false },
+        { "t": "il migliore", "es": "el mejor", "pron": "il millióre", "ej": "È il migliore ristorante.", "ejes": "Es el mejor restaurante.", "cog": false },
+        { "t": "il viaggio", "es": "el viaje", "pron": "il viáddyo", "ej": "Il viaggio è stato bello.", "ejes": "El viaje fue lindo.", "cog": true },
+        { "t": "mi fa male", "es": "me duele", "pron": "mi fa máleh", "ej": "Mi fa male la testa.", "ejes": "Me duele la cabeza.", "cog": false },
+        { "t": "sto lavorando", "es": "estoy trabajando", "pron": "sto lavorándo", "ej": "Adesso sto lavorando.", "ejes": "Ahora estoy trabajando.", "cog": false },
+        { "t": "già", "es": "ya", "pron": "yá", "ej": "Ho già mangiato.", "ejes": "Ya comí.", "cog": false },
+        { "t": "domani", "es": "mañana", "pron": "dománi", "ej": "Domani partirò.", "ejes": "Mañana saldré.", "cog": false },
+        { "t": "bisogna", "es": "hay que", "pron": "bisóña", "ej": "Bisogna studiare ogni giorno.", "ejes": "Hay que estudiar cada día.", "cog": false },
+        { "t": "dovresti", "es": "deberías", "pron": "dovrésti", "ej": "Dovresti riposare di più.", "ejes": "Deberías descansar más.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Ieri sono andato al mare.", "es": "Ayer fui a la playa.", "pron": "iéri sóno andáto al máre" },
+        { "t": "Roma è più grande di Siena.", "es": "Roma es más grande que Siena.", "pron": "róma è piú gránde di siéna" },
+        { "t": "Domani andrò dal medico.", "es": "Mañana iré al médico.", "pron": "dománi andró dal médico" },
+        { "t": "Sto studiando italiano e non ho ancora finito.", "es": "Estoy estudiando italiano y todavía no terminé.", "pron": "sto studiándo italiáno e non o ancóra finíto" },
+        { "t": "Dovresti ripassare ogni giorno.", "es": "Deberías repasar cada día.", "pron": "dovrésti ripassáre óñi yórno" }
+      ],
+      "dialogo": {
+        "titulo": "Un amigo y su plan",
+        "lineas": [
+          { "q": "A", "t": "Che cosa hai fatto ieri?", "es": "¿Qué hiciste ayer?" },
+          { "q": "B", "t": "Sono stata dal medico. Mi fa male la testa da due giorni.", "es": "Fui al médico. Me duele la cabeza desde hace dos días." },
+          { "q": "A", "t": "E adesso come stai?", "es": "¿Y ahora cómo estás?" },
+          { "q": "B", "t": "Sto meglio. Domani lavorerò, ma bisogna riposare.", "es": "Estoy mejor. Mañana trabajaré, pero hay que descansar." },
+          { "q": "A", "t": "Dovresti restare a letto. Ti chiamerò stasera.", "es": "Deberías quedarte en cama. Te llamaré esta noche." }
+        ]
+      },
+      "nota": "¡Felicitaciones, completaste A2! En B1 seguirás con más pasados y estructuras. Sigue repasando los temas de cada unidad en voz alta durante unos días."
+    }
+  ]
+}

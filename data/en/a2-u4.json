@@ -1,0 +1,222 @@
+{
+  "id": "en-a2-u4",
+  "idioma": "en",
+  "nivel": "A2",
+  "n": 4,
+  "titulo": "Comparar personas y cosas",
+  "resumen": "Aprenderás a comparar con -er than, more... than, better/worse y as... as para hablar de personas, lugares y cosas.",
+  "puedo": [
+    "Comparar adjetivos cortos con -er than.",
+    "Aplicar las reglas de escritura de los comparativos (-r, doble letra, -ier).",
+    "Comparar adjetivos largos con more... than.",
+    "Usar los comparativos irregulares better y worse.",
+    "Decir que algo es igual o parecido con as... as, the same y different.",
+    "Comparar dos ciudades, tiendas o personas."
+  ],
+  "gramatica": {
+    "titulo": "Los comparativos: -er than y more... than",
+    "texto": "Para comparar dos cosas o personas añade -er al adjetivo corto y usa than: My brother is taller than me (mi hermano es más alto que yo).\nSi el adjetivo es largo (dos o más sílabas, como expensive), usa more antes: This phone is more expensive than that one.\nReglas: adjetivo terminado en -e solo añade -r (nice → nicer); consonante + y → -ier (easy → easier); vocal + consonante corta duplica (big → bigger).\nIrregulares: good → better, bad → worse.\nIgualdad: as... as (as tall as = tan alto como).",
+    "tabla": [
+      ["tall → taller than", "alto → más alto que", "tol → tóler dan"],
+      ["big → bigger than", "grande → más grande que", "big → bíger dan"],
+      ["easy → easier than", "fácil → más fácil que", "ísi → ísier dan"],
+      ["expensive → more expensive than", "caro → más caro que", "ikspénsiv → mor ikspénsiv dan"],
+      ["good → better / bad → worse", "bueno → mejor / malo → peor", "gud → béter / bad → uers"]
+    ],
+    "errores": [
+      "No uses más y -er juntos: es taller o more expensive, no «more taller».",
+      "No olvides than: es taller than me, no «taller that me» ni «taller of me».",
+      "No digas «more good»: es better. Tampoco «more bad»: es worse."
+    ]
+  },
+  "practica": [
+    "Compara en voz alta 5 pares de cosas de tu casa (por ejemplo, la mesa y la silla) con adjetivos cortos (5 minutos).",
+    "Escribe 6 frases comparando dos ciudades o dos tiendas con more... than y -er than (7 minutos).",
+    "Abre dos sitios de compras en inglés, compara dos productos y di 4 frases con cheaper/more expensive/better (6 minutos).",
+    "Compara a dos personas de tu familia con as... as y the same (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-a2-u4-l1",
+      "n": 1,
+      "titulo": "Adjetivos cortos con -er",
+      "objetivo": "Comparar dos personas o cosas con adjetivos cortos y than.",
+      "intro": "Con adjetivos cortos (una sílaba) añade -er: tall → taller. Truco: than significa «que» al comparar: taller than = más alto que. En la pronunciación, la -er final suena «er» suave.",
+      "palabras": [
+        { "t": "taller", "es": "más alto", "pron": "tóler", "ej": "My brother is taller than me.", "ejes": "Mi hermano es más alto que yo.", "cog": false },
+        { "t": "shorter", "es": "más bajo / más corto", "pron": "shórter", "ej": "This road is shorter.", "ejes": "Este camino es más corto.", "cog": false },
+        { "t": "older", "es": "mayor / más viejo", "pron": "óulder", "ej": "My sister is older than me.", "ejes": "Mi hermana es mayor que yo.", "cog": false },
+        { "t": "younger", "es": "menor / más joven", "pron": "iánguer", "ej": "Tom is younger than Sam.", "ejes": "Tom es menor que Sam.", "cog": false },
+        { "t": "faster", "es": "más rápido", "pron": "fáster", "ej": "The train is faster than the bus.", "ejes": "El tren es más rápido que el bus.", "cog": false },
+        { "t": "slower", "es": "más lento", "pron": "slóuer", "ej": "The bus is slower.", "ejes": "El bus es más lento.", "cog": false },
+        { "t": "cheaper", "es": "más barato", "pron": "chíper", "ej": "This shirt is cheaper.", "ejes": "Esta camisa es más barata.", "cog": false },
+        { "t": "smaller", "es": "más pequeño", "pron": "smóler", "ej": "My room is smaller than yours.", "ejes": "Mi cuarto es más pequeño que el tuyo.", "cog": false },
+        { "t": "newer", "es": "más nuevo", "pron": "niúer", "ej": "Her car is newer.", "ejes": "Su carro es más nuevo.", "cog": false },
+        { "t": "than", "es": "que (al comparar)", "pron": "dan", "ej": "I am older than you.", "ejes": "Soy mayor que tú.", "cog": false, "truco": "La «th» de than es una «d» suave con la lengua entre los dientes." }
+      ],
+      "frases": [
+        { "t": "My brother is taller than me.", "es": "Mi hermano es más alto que yo.", "pron": "mai bráder is tóler dan mi" },
+        { "t": "The train is faster than the bus.", "es": "El tren es más rápido que el bus.", "pron": "da trein is fáster dan da bas" },
+        { "t": "This shirt is cheaper than that shirt.", "es": "Esta camisa es más barata que esa camisa.", "pron": "dis shert is chíper dan dat shert" },
+        { "t": "My room is smaller than yours.", "es": "Mi cuarto es más pequeño que el tuyo.", "pron": "mai rum is smóler dan iors" },
+        { "t": "Tom is younger than Sam.", "es": "Tom es menor que Sam.", "pron": "tam is iánguer dan sam" }
+      ],
+      "dialogo": {
+        "titulo": "Dos hermanos",
+        "lineas": [
+          { "q": "A", "t": "Is your brother older than you, Ana?", "es": "¿Tu hermano es mayor que tú, Ana?" },
+          { "q": "B", "t": "Yes, he is. He's two years older.", "es": "Sí. Es dos años mayor." },
+          { "q": "A", "t": "Is he taller than you?", "es": "¿Es más alto que tú?" },
+          { "q": "B", "t": "Yes, he's taller and faster than me.", "es": "Sí, es más alto y más rápido que yo." },
+          { "q": "A", "t": "And I'm younger than my sister.", "es": "Y yo soy menor que mi hermana." }
+        ]
+      },
+      "nota": "Con older puedes decir Tom is two years older than Sam (Tom es dos años mayor que Sam). Para personas, older/younger es más natural que «more old»."
+    },
+    {
+      "id": "en-a2-u4-l2",
+      "n": 2,
+      "titulo": "Reglas de escritura del comparativo",
+      "objetivo": "Escribir bien los comparativos con -r, doble letra y -ier.",
+      "intro": "Igual que con -ed, algunos adjetivos cambian al añadir -er. Truco: si termina en -e solo -r; vocal + consonante corta, duplica la consonante; consonante + y, la y se vuelve -ier.",
+      "palabras": [
+        { "t": "nicer", "es": "más amable / más agradable", "pron": "náiser", "ej": "The weather is nicer today.", "ejes": "El clima está más agradable hoy.", "cog": false, "truco": "nice + r (ya termina en -e)." },
+        { "t": "larger", "es": "más grande", "pron": "lárier", "ej": "This house is larger than ours.", "ejes": "Esta casa es más grande que la nuestra.", "cog": false },
+        { "t": "safer", "es": "más seguro", "pron": "séifer", "ej": "The bus is safer than the bike.", "ejes": "El bus es más seguro que la bicicleta.", "cog": false },
+        { "t": "bigger", "es": "más grande", "pron": "bíguer", "ej": "My dog is bigger than yours.", "ejes": "Mi perro es más grande que el tuyo.", "cog": false, "truco": "big → bigger: se duplica la g." },
+        { "t": "hotter", "es": "más caliente / más caluroso", "pron": "játer", "ej": "Lima is hotter in summer.", "ejes": "Lima es más calurosa en verano.", "cog": false },
+        { "t": "easier", "es": "más fácil", "pron": "ísier", "ej": "English is easier now.", "ejes": "El inglés es más fácil ahora.", "cog": false, "truco": "easy → easier: la y cambia a -ier." },
+        { "t": "happier", "es": "más feliz", "pron": "jápier", "ej": "I'm happier than before.", "ejes": "Soy más feliz que antes.", "cog": false },
+        { "t": "heavier", "es": "más pesado", "pron": "jévier", "ej": "This bag is heavier.", "ejes": "Esta bolsa es más pesada.", "cog": false },
+        { "t": "busier", "es": "más ocupado", "pron": "bísier", "ej": "I'm busier than last week.", "ejes": "Estoy más ocupado que la semana pasada.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The weather is nicer today.", "es": "El clima está más agradable hoy.", "pron": "da uéder is náiser tudéi" },
+        { "t": "My dog is bigger than yours.", "es": "Mi perro es más grande que el tuyo.", "pron": "mai dog is bíguer dan iors" },
+        { "t": "Lima is hotter in summer.", "es": "Lima es más calurosa en verano.", "pron": "lima is játer in sámer" },
+        { "t": "English is easier than I thought.", "es": "El inglés es más fácil de lo que pensaba.", "pron": "ínglish is ísier dan ai zot" },
+        { "t": "This bag is heavier than that one.", "es": "Esta bolsa es más pesada que esa.", "pron": "dis bag is jévier dan dat uan" }
+      ],
+      "dialogo": {
+        "titulo": "Mudándose de casa",
+        "lineas": [
+          { "q": "A", "t": "This house is bigger than our old house.", "es": "Esta casa es más grande que nuestra casa vieja." },
+          { "q": "B", "t": "Yes, and the street is safer.", "es": "Sí, y la calle es más segura." },
+          { "q": "A", "t": "But these boxes are heavier than I thought.", "es": "Pero estas cajas son más pesadas de lo que pensaba." },
+          { "q": "B", "t": "Don't worry. Tomorrow is going to be easier.", "es": "No te preocupes. Mañana va a ser más fácil." },
+          { "q": "A", "t": "I'm busier now, but I'm happier.", "es": "Estoy más ocupado ahora, pero estoy más feliz." }
+        ]
+      },
+      "nota": "Truco para la y: easy → easier, happy → happier, busy → busier. La y siempre se vuelve i, y luego -er."
+    },
+    {
+      "id": "en-a2-u4-l3",
+      "n": 3,
+      "titulo": "More... than",
+      "objetivo": "Comparar con adjetivos largos usando more... than.",
+      "intro": "Los adjetivos largos (de dos o más sílabas, salvo los terminados en -y) no llevan -er. Truco: pon more delante: more expensive than. Nunca uses -er con ellos: «expensiver» no existe.",
+      "palabras": [
+        { "t": "more expensive", "es": "más caro", "pron": "mor ikspénsiv", "ej": "The hotel is more expensive.", "ejes": "El hotel es más caro.", "cog": false },
+        { "t": "more interesting", "es": "más interesante", "pron": "mor íntrestin", "ej": "This book is more interesting.", "ejes": "Este libro es más interesante.", "cog": true },
+        { "t": "more comfortable", "es": "más cómodo", "pron": "mor cámfertabol", "ej": "The sofa is more comfortable.", "ejes": "El sofá es más cómodo.", "cog": false, "truco": "comfortable no es «confortable»: suena «cámfertabol»." },
+        { "t": "more difficult", "es": "más difícil", "pron": "mor dífikalt", "ej": "Math is more difficult than art.", "ejes": "Las matemáticas son más difíciles que el arte.", "cog": true },
+        { "t": "more beautiful", "es": "más hermoso", "pron": "mor biútiful", "ej": "Cusco is more beautiful at night.", "ejes": "Cusco es más hermoso de noche.", "cog": false },
+        { "t": "more modern", "es": "más moderno", "pron": "mor módern", "ej": "The new mall is more modern.", "ejes": "El centro comercial nuevo es más moderno.", "cog": true },
+        { "t": "more popular", "es": "más popular", "pron": "mor pápiular", "ej": "Soccer is more popular here.", "ejes": "El fútbol es más popular aquí.", "cog": true },
+        { "t": "more dangerous", "es": "más peligroso", "pron": "mor déinyeras", "ej": "The road is more dangerous at night.", "ejes": "La carretera es más peligrosa de noche.", "cog": false },
+        { "t": "more important", "es": "más importante", "pron": "mor impórtant", "ej": "Health is more important than money.", "ejes": "La salud es más importante que el dinero.", "cog": true }
+      ],
+      "frases": [
+        { "t": "The hotel is more expensive than the hostel.", "es": "El hotel es más caro que el hostal.", "pron": "da joutél is mor ikspénsiv dan da jóstel" },
+        { "t": "This book is more interesting than that one.", "es": "Este libro es más interesante que ese.", "pron": "dis buk is mor íntrestin dan dat uan" },
+        { "t": "The sofa is more comfortable than the chair.", "es": "El sofá es más cómodo que la silla.", "pron": "da sóufa is mor cámfertabol dan da cher" },
+        { "t": "Math is more difficult than art.", "es": "Las matemáticas son más difíciles que el arte.", "pron": "maz is mor dífikalt dan art" },
+        { "t": "Health is more important than money.", "es": "La salud es más importante que el dinero.", "pron": "jelz is mor impórtant dan máni" }
+      ],
+      "dialogo": {
+        "titulo": "Eligiendo un hotel",
+        "lineas": [
+          { "q": "A", "t": "This hotel is more modern than that one.", "es": "Este hotel es más moderno que ese." },
+          { "q": "B", "t": "Yes, but it's more expensive.", "es": "Sí, pero es más caro." },
+          { "q": "A", "t": "The beds are more comfortable here.", "es": "Las camas son más cómodas aquí." },
+          { "q": "B", "t": "That's more important than the price.", "es": "Eso es más importante que el precio." },
+          { "q": "A", "t": "OK, let's take this one.", "es": "Bueno, tomemos este." }
+        ]
+      },
+      "nota": "Regla rápida: una sílaba → -er (tall → taller); terminado en -y → -ier (easy → easier); dos o más sílabas → more (more expensive)."
+    },
+    {
+      "id": "en-a2-u4-l4",
+      "n": 4,
+      "titulo": "Mejor, peor, igual y diferente",
+      "objetivo": "Usar better y worse, y decir que algo es igual o diferente.",
+      "intro": "Good y bad tienen comparativos propios: better y worse. Truco: para decir «tan... como», usa as... as con el adjetivo normal en medio. Para «igual que»: the same as.",
+      "palabras": [
+        { "t": "better", "es": "mejor", "pron": "béter", "ej": "This coffee is better than that one.", "ejes": "Este café es mejor que ese.", "cog": false, "truco": "Comparativo de good. Nunca «more good»." },
+        { "t": "worse", "es": "peor", "pron": "uers", "ej": "The weather is worse today.", "ejes": "El clima está peor hoy.", "cog": false, "truco": "Comparativo de bad." },
+        { "t": "as tall as", "es": "tan alto como", "pron": "as tol as", "ej": "I'm as tall as my father.", "ejes": "Soy tan alto como mi padre.", "cog": false },
+        { "t": "the same", "es": "el mismo / igual", "pron": "da seim", "ej": "We have the same phone.", "ejes": "Tenemos el mismo teléfono.", "cog": false },
+        { "t": "different", "es": "diferente", "pron": "dífrent", "ej": "My brother is very different.", "ejes": "Mi hermano es muy diferente.", "cog": true },
+        { "t": "similar", "es": "parecido", "pron": "símilar", "ej": "Our jobs are similar.", "ejes": "Nuestros trabajos son parecidos.", "cog": true },
+        { "t": "much", "es": "mucho (más)", "pron": "mach", "ej": "This one is much better.", "ejes": "Este es mucho mejor.", "cog": false },
+        { "t": "a little", "es": "un poco", "pron": "a lítol", "ej": "It's a little cheaper.", "ejes": "Es un poco más barato.", "cog": false },
+        { "t": "less", "es": "menos", "pron": "les", "ej": "It's less expensive.", "ejes": "Es menos caro.", "cog": false }
+      ],
+      "frases": [
+        { "t": "This coffee is better than that one.", "es": "Este café es mejor que ese.", "pron": "dis cófi is béter dan dat uan" },
+        { "t": "The weather is worse today.", "es": "El clima está peor hoy.", "pron": "da uéder is uers tudéi" },
+        { "t": "I'm as tall as my father.", "es": "Soy tan alto como mi padre.", "pron": "aim as tol as mai fáder" },
+        { "t": "We have the same phone.", "es": "Tenemos el mismo teléfono.", "pron": "ui jav da seim fóun" },
+        { "t": "My brother is very different.", "es": "Mi hermano es muy diferente.", "pron": "mai bráder is véri dífrent" },
+        { "t": "It's much better, but a little more expensive.", "es": "Es mucho mejor, pero un poco más caro.", "pron": "its mach béter, bat a lítol mor ikspénsiv" }
+      ],
+      "dialogo": {
+        "titulo": "Dos celulares",
+        "lineas": [
+          { "q": "A", "t": "Which phone is better, Sam?", "es": "¿Cuál celular es mejor, Sam?" },
+          { "q": "B", "t": "This one is much better, but it's more expensive.", "es": "Este es mucho mejor, pero es más caro." },
+          { "q": "A", "t": "Are the cameras the same?", "es": "¿Las cámaras son iguales?" },
+          { "q": "B", "t": "No, they're different. This one is better.", "es": "No, son diferentes. Esta es mejor." },
+          { "q": "A", "t": "The old one is worse, but it's less expensive.", "es": "El viejo es peor, pero es menos caro." }
+        ]
+      },
+      "nota": "Con much y a little puedes graduar la comparación: much bigger (mucho más grande), a little bigger (un poco más grande). Se usan antes del comparativo."
+    },
+    {
+      "id": "en-a2-u4-l5",
+      "n": 5,
+      "titulo": "Repaso: mi ciudad y la tuya",
+      "objetivo": "Comparar dos ciudades o barrios usando todos los comparativos.",
+      "intro": "Para comparar lugares necesitas vocabulario de ciudad: tráfico, clima, precios. Truco: haz siempre dos frases: una con -er/more y otra con as... as o different.",
+      "palabras": [
+        { "t": "traffic", "es": "tráfico", "pron": "tráfik", "ej": "The traffic is worse in Lima.", "ejes": "El tráfico es peor en Lima.", "cog": true },
+        { "t": "weather", "es": "clima / tiempo", "pron": "uéder", "ej": "The weather is nicer here.", "ejes": "El clima es más agradable aquí.", "cog": false },
+        { "t": "price", "es": "precio", "pron": "prais", "ej": "The price is lower.", "ejes": "El precio es más bajo.", "cog": true },
+        { "t": "neighborhood", "es": "barrio / vecindario", "pron": "néiborjud", "ej": "My neighborhood is quiet.", "ejes": "Mi barrio es tranquilo.", "cog": false },
+        { "t": "village", "es": "pueblo", "pron": "vílich", "ej": "My grandma lives in a small village.", "ejes": "Mi abuela vive en un pueblo pequeño.", "cog": false },
+        { "t": "crowded", "es": "lleno de gente", "pron": "cráudid", "ej": "The bus is crowded.", "ejes": "El bus está lleno de gente.", "cog": false },
+        { "t": "quiet", "es": "tranquilo / silencioso", "pron": "cuáiet", "ej": "The village is quiet.", "ejes": "El pueblo es tranquilo.", "cog": false },
+        { "t": "life", "es": "vida", "pron": "laif", "ej": "Life is easier here.", "ejes": "La vida es más fácil aquí.", "cog": false },
+        { "t": "countryside", "es": "campo", "pron": "cántrisaid", "ej": "I love the countryside.", "ejes": "Me encanta el campo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The traffic is worse in Lima.", "es": "El tráfico es peor en Lima.", "pron": "da tráfik is uers in lima" },
+        { "t": "The village is quieter than the city.", "es": "El pueblo es más tranquilo que la ciudad.", "pron": "da vílich is cuáieter dan da síti" },
+        { "t": "Life is easier in the countryside.", "es": "La vida es más fácil en el campo.", "pron": "laif is ísier in da cántrisaid" },
+        { "t": "The prices are lower here.", "es": "Los precios son más bajos aquí.", "pron": "da práisis ar lóuer jíar" },
+        { "t": "My neighborhood is as quiet as yours.", "es": "Mi barrio es tan tranquilo como el tuyo.", "pron": "mai néiborjud is as cuáiet as iors" }
+      ],
+      "dialogo": {
+        "titulo": "Ciudad y pueblo",
+        "lineas": [
+          { "q": "A", "t": "Is life easier in the village, Lucia?", "es": "¿La vida es más fácil en el pueblo, Lucía?" },
+          { "q": "B", "t": "Yes. It's quieter, and the prices are lower.", "es": "Sí. Es más tranquilo y los precios son más bajos." },
+          { "q": "A", "t": "But the city is more interesting.", "es": "Pero la ciudad es más interesante." },
+          { "q": "B", "t": "True, but the traffic is worse and the buses are crowded.", "es": "Cierto, pero el tráfico es peor y los buses están llenos." },
+          { "q": "A", "t": "OK, they're different. I like both!", "es": "Bueno, son diferentes. ¡Me gustan los dos!" }
+        ]
+      },
+      "nota": "Repaso: corto → -er than (taller than); terminado en -y → -ier (busier); largo → more... than (more expensive than); irregulares: better, worse; igual: as... as, the same."
+    }
+  ]
+}

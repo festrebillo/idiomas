@@ -1,0 +1,222 @@
+{
+  "id": "pt-a2-u4",
+  "idioma": "pt",
+  "nivel": "A2",
+  "n": 4,
+  "titulo": "Comparar personas y cosas",
+  "resumen": "Aprenderás a comparar personas, lugares y precios con «mais... do que», «menos... do que», «tão... quanto» y los comparativos irregulares melhor, pior, maior y menor.",
+  "puedo": [
+    "Comparar dos personas o cosas con «mais... do que».",
+    "Decir que algo es menos o igual con «menos... do que» y «tão... quanto».",
+    "Usar melhor, pior, maior y menor sin decir «mais bom».",
+    "Comparar precios, tamaños y distancias.",
+    "Dar mi opinión comparando dos opciones."
+  ],
+  "gramatica": {
+    "titulo": "Comparativos: mais... do que, menos... do que, tão... quanto",
+    "texto": "Para comparar dos cosas pones «mais» (más) o «menos» (menos) antes del adjetivo y «do que» (que) antes del segundo elemento: «Pedro é mais alto do que João» (Pedro es más alto que Juan).\nPara decir que son iguales usas «tão... quanto» (tan... como): «Ana é tão alta quanto Bia».\nHay cuatro comparativos irregulares que no llevan «mais»: bom → melhor (mejor), mau/ruim → pior (peor), grande → maior (mayor), pequeno → menor (menor). Se dice «melhor do que», no «mais melhor».\nEn el habla cotidiana a veces se dice solo «que» en vez de «do que»: «mais alto que João». Ambas formas son correctas.",
+    "tabla": [
+      ["mais alto do que", "más alto que", "máis áltu du ke"],
+      ["menos caro do que", "menos caro que", "ménus káru du ke"],
+      ["tão alto quanto", "tan alto como", "táun áltu kuántu"],
+      ["melhor do que", "mejor que", "melyór du ke"],
+      ["pior do que", "peor que", "piór du ke"],
+      ["maior do que", "mayor / más grande que", "maiór du ke"],
+      ["menor do que", "menor / más pequeño que", "menór du ke"]
+    ],
+    "errores": [
+      "No digas «mais melhor» ni «mais pior»: ya son comparativos. Di «melhor» y «pior».",
+      "«Maior» y «menor» significan «más grande» y «más pequeño» en tamaño; no digas «mais grande».",
+      "La pronunciación de «melhor» es melyór (lh = ll), y «pior» suena piór con la «r» suave final."
+    ]
+  },
+  "practica": [
+    "Compara en voz alta 5 pares de cosas de tu casa: «A mesa é maior do que a cadeira» (5 minutos).",
+    "Escribe 6 frases comparando a miembros de tu familia: «Meu irmão é mais alto do que eu» (6 minutos).",
+    "Busca en YouTube una reseña de celulares o carros en portugués brasileño y anota las comparaciones que oigas (8 minutos).",
+    "Elige dos ciudades (por ejemplo Lima y São Paulo) y escribe 5 comparaciones con tão... quanto y mais... do que (7 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-a2-u4-l1",
+      "n": 1,
+      "titulo": "Más que...: mais... do que",
+      "objetivo": "Comparar dos personas con adjetivos y «mais... do que».",
+      "intro": "La fórmula es: persona 1 + é + mais + adjetivo + do que + persona 2. Truco: «do que» suena «du ke», y significa «que» en la comparación.",
+      "palabras": [
+        { "t": "mais", "es": "más", "pron": "máis", "ej": "Ele é mais alto.", "ejes": "Él es más alto.", "cog": false },
+        { "t": "do que", "es": "que (comparación)", "pron": "du ke", "ej": "Ele é mais alto do que eu.", "ejes": "Él es más alto que yo.", "cog": false },
+        { "t": "alto", "es": "alto", "pron": "áltu", "ej": "Meu irmão é alto.", "ejes": "Mi hermano es alto.", "cog": true },
+        { "t": "baixo", "es": "bajo", "pron": "báishu", "ej": "Eu sou baixo.", "ejes": "Yo soy bajo.", "cog": false, "truco": "«x» suena «sh»: báishu." },
+        { "t": "jovem", "es": "joven", "pron": "yóvein", "ej": "Ela é jovem.", "ejes": "Ella es joven.", "cog": true },
+        { "t": "velho", "es": "viejo", "pron": "vélyu", "ej": "Meu carro é velho.", "ejes": "Mi carro es viejo.", "cog": false, "truco": "«lh» suena «ly»." },
+        { "t": "novo", "es": "nuevo", "pron": "nóvu", "ej": "Meu celular é novo.", "ejes": "Mi celular es nuevo.", "cog": false },
+        { "t": "rápido", "es": "rápido", "pron": "rrápidu", "ej": "O carro é rápido.", "ejes": "El carro es rápido.", "cog": true },
+        { "t": "lento", "es": "lento", "pron": "léntu", "ej": "O ônibus é lento.", "ejes": "El ómnibus es lento.", "cog": true },
+        { "t": "forte", "es": "fuerte", "pron": "fórchi", "ej": "Meu pai é forte.", "ejes": "Mi papá es fuerte.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Pedro é mais alto do que João.", "es": "Pedro es más alto que Juan.", "pron": "pédru é máis áltu du yuáun" },
+        { "t": "Eu sou mais baixo do que meu irmão.", "es": "Soy más bajo que mi hermano.", "pron": "éu sóu máis báishu du ke méu irmáun" },
+        { "t": "O carro é mais rápido do que o ônibus.", "es": "El carro es más rápido que el ómnibus.", "pron": "u kárru é máis rrápidu du ke u ônibus" },
+        { "t": "Minha casa é mais nova do que a sua.", "es": "Mi casa es más nueva que la tuya.", "pron": "miña kása é máis nóva du ke a súa" },
+        { "t": "Ela é mais jovem do que eu.", "es": "Ella es más joven que yo.", "pron": "éla é máis yóvein du ke éu" }
+      ],
+      "dialogo": {
+        "titulo": "Entre hermanos",
+        "lineas": [
+          { "q": "A", "t": "Meu irmão é mais alto do que eu.", "es": "Mi hermano es más alto que yo." },
+          { "q": "B", "t": "Verdade? Ele é mais forte também?", "es": "¿En serio? ¿Es más fuerte también?" },
+          { "q": "A", "t": "Sim, ele é mais forte do que eu.", "es": "Sí, es más fuerte que yo." },
+          { "q": "B", "t": "Mas você é mais jovem do que ele.", "es": "Pero tú eres más joven que él." },
+          { "q": "A", "t": "É verdade! Eu sou dois anos mais jovem.", "es": "¡Es verdad! Soy dos años menor." }
+        ]
+      },
+      "nota": "Falso amigo suave: «velho» es viejo, pero hablando de personas mayores muchos prefieren «idoso». «Baixo» es bajo de estatura; para precios se dice «barato». Y recuerda: «do que» no se traduce como «de que»."
+    },
+    {
+      "id": "pt-a2-u4-l2",
+      "n": 2,
+      "titulo": "Menos... y tão... quanto",
+      "objetivo": "Decir que algo es menos o igual que otra cosa.",
+      "intro": "Con «menos» se baja la cualidad: menos caro do que. Y con «tão... quanto» dices que dos cosas son iguales. Truco: «tão» (tan) y «quanto» (como) trabajan en pareja.",
+      "palabras": [
+        { "t": "menos", "es": "menos", "pron": "ménus", "ej": "Este é menos caro.", "ejes": "Este es menos caro.", "cog": false },
+        { "t": "tão", "es": "tan", "pron": "táun", "ej": "Ela é tão simpática.", "ejes": "Ella es tan simpática.", "cog": false, "truco": "«ão» nasal: táun." },
+        { "t": "quanto", "es": "como (en comparación)", "pron": "kuántu", "ej": "Ele é tão alto quanto eu.", "ejes": "Él es tan alto como yo.", "cog": false },
+        { "t": "igual", "es": "igual", "pron": "iguáu", "ej": "O preço é igual.", "ejes": "El precio es igual.", "cog": true },
+        { "t": "diferente", "es": "diferente", "pron": "diferéntchi", "ej": "O meu é diferente.", "ejes": "El mío es diferente.", "cog": true },
+        { "t": "caro", "es": "caro", "pron": "káru", "ej": "O carro é caro.", "ejes": "El carro es caro.", "cog": true },
+        { "t": "barato", "es": "barato", "pron": "barátu", "ej": "O café é barato.", "ejes": "El café es barato.", "cog": true },
+        { "t": "simpático", "es": "simpático", "pron": "simpátchicu", "ej": "Ele é simpático.", "ejes": "Él es simpático.", "cog": true },
+        { "t": "difícil", "es": "difícil", "pron": "dyifísiu", "ej": "O exame é difícil.", "ejes": "El examen es difícil.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Este celular é menos caro do que aquele.", "es": "Este celular es menos caro que aquel.", "pron": "éschi selulár é ménus káru du ke akéli" },
+        { "t": "Ele é tão alto quanto eu.", "es": "Él es tan alto como yo.", "pron": "éli é táun áltu kuántu éu" },
+        { "t": "Ela é tão simpática quanto a irmã.", "es": "Ella es tan simpática como su hermana.", "pron": "éla é táun simpátchica kuántu a irmán" },
+        { "t": "O exame de hoje é menos difícil do que o de ontem.", "es": "El examen de hoy es menos difícil que el de ayer.", "pron": "u ezámi dyi óyi é ménus dyifísiu du ke u dyi ónteín" },
+        { "t": "A casa dela é tão grande quanto a minha.", "es": "La casa de ella es tan grande como la mía.", "pron": "a kása déla é táun grándchi kuántu a mína" }
+      ],
+      "dialogo": {
+        "titulo": "Comparando celulares",
+        "lineas": [
+          { "q": "A", "t": "Este celular é menos caro do que aquele.", "es": "Este celular es menos caro que aquel." },
+          { "q": "B", "t": "Verdade, mas é tão bom quanto o outro.", "es": "Verdad, pero es tan bueno como el otro." },
+          { "q": "A", "t": "O meu é mais velho, mas é igual.", "es": "El mío es más viejo, pero es igual." },
+          { "q": "B", "t": "Os dois são tão baratos quanto o meu.", "es": "Los dos son tan baratos como el mío." },
+          { "q": "A", "t": "Então eu fico com o menos caro.", "es": "Entonces me quedo con el menos caro." }
+        ]
+      },
+      "nota": "En portugués se dice «tão... quanto» o «tão... como»; ambas son correctas. «Este» y «aquele» (este y aquel) se usan para dos objetos a distinta distancia. «Simpático» NO es tan formal como en español: es amable y agradable."
+    },
+    {
+      "id": "pt-a2-u4-l3",
+      "n": 3,
+      "titulo": "Melhor, pior, maior, menor",
+      "objetivo": "Usar los cuatro comparativos irregulares correctamente.",
+      "intro": "Cuatro adjetivos no usan «mais»: bom → melhor, mau o ruim → pior, grande → maior, pequeno → menor. Truco: se usan igual que en español, pero siempre seguidos de «do que».",
+      "palabras": [
+        { "t": "melhor", "es": "mejor", "pron": "melyór", "ej": "Este café é melhor.", "ejes": "Este café es mejor.", "cog": false, "truco": "«lh» suena «ly»: melyór." },
+        { "t": "pior", "es": "peor", "pron": "piór", "ej": "Este filme é pior.", "ejes": "Esta película es peor.", "cog": false },
+        { "t": "maior", "es": "mayor / más grande", "pron": "maiór", "ej": "O parque é maior.", "ejes": "El parque es más grande.", "cog": false },
+        { "t": "menor", "es": "menor / más pequeño", "pron": "menór", "ej": "A casa é menor.", "ejes": "La casa es más pequeña.", "cog": false },
+        { "t": "bom", "es": "bueno", "pron": "bóm", "ej": "O bolo é bom.", "ejes": "El pastel es bueno.", "cog": false },
+        { "t": "ruim", "es": "malo", "pron": "rruín", "ej": "O tempo está ruim.", "ejes": "El clima está malo.", "cog": false, "truco": "«ruim» tiene dos sílabas: rruín." },
+        { "t": "grande", "es": "grande", "pron": "grándchi", "ej": "A casa é grande.", "ejes": "La casa es grande.", "cog": true },
+        { "t": "pequeno", "es": "pequeño", "pron": "pekénu", "ej": "O quarto é pequeno.", "ejes": "El cuarto es pequeño.", "cog": false },
+        { "t": "bem", "es": "bien", "pron": "béin", "ej": "Eu dormi bem.", "ejes": "Dormí bien.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Este café é melhor do que aquele.", "es": "Este café es mejor que aquel.", "pron": "éschi kafé é melyór du ke akéli" },
+        { "t": "O filme de hoje foi pior do que o de ontem.", "es": "La película de hoy fue peor que la de ayer.", "pron": "u fíumi dyi óyi fói piór du ke u dyi ónteín" },
+        { "t": "Minha casa é maior do que a sua.", "es": "Mi casa es más grande que la tuya.", "pron": "miña kása é maiór du ke a súa" },
+        { "t": "O quarto é menor do que a sala.", "es": "El cuarto es más pequeño que la sala.", "pron": "u kuártu é menór du ke a sála" },
+        { "t": "Hoje eu dormi melhor do que ontem.", "es": "Hoy dormí mejor que ayer.", "pron": "óyi éu dormí melyór du ke ónteín" }
+      ],
+      "dialogo": {
+        "titulo": "¿Qué casa prefieres?",
+        "lineas": [
+          { "q": "A", "t": "A casa nova é maior do que a velha.", "es": "La casa nueva es más grande que la vieja." },
+          { "q": "B", "t": "É melhor, mas é mais cara?", "es": "Es mejor, ¿pero es más cara?" },
+          { "q": "A", "t": "Sim, é mais cara. Mas o quarto é maior.", "es": "Sí, es más cara. Pero el cuarto es más grande." },
+          { "q": "B", "t": "E o bairro é pior do que o de antes?", "es": "¿Y el barrio es peor que el de antes?" },
+          { "q": "A", "t": "Não, é melhor e mais tranquilo.", "es": "No, es mejor y más tranquilo." }
+        ]
+      },
+      "nota": "«Pior» y «melhor» no llevan «mais». «Maior» sirve para tamaño y para edad (meu irmão é maior de idade). Al hablar de un adverbio como «dormir bem», el comparativo es «melhor»: dormi melhor."
+    },
+    {
+      "id": "pt-a2-u4-l4",
+      "n": 4,
+      "titulo": "Lugares, precios y distancias",
+      "objetivo": "Comparar lugares, precios y distancias con mais... do que.",
+      "intro": "Ahora comparamos cosas del día a día: lo cerca, lo caro, lo tranquilo. Truco: con «perto» (cerca) y «longe» (lejos) también va «mais... do que».",
+      "palabras": [
+        { "t": "perto", "es": "cerca", "pron": "pértu", "ej": "O mercado fica perto.", "ejes": "El mercado queda cerca.", "cog": false },
+        { "t": "longe", "es": "lejos", "pron": "lónyi", "ej": "A praia fica longe.", "ejes": "La playa queda lejos.", "cog": false, "truco": "«g» antes de «e» suena «y» fuerte: lónyi." },
+        { "t": "fácil", "es": "fácil", "pron": "fásiu", "ej": "O português é fácil.", "ejes": "El portugués es fácil.", "cog": true },
+        { "t": "tranquilo", "es": "tranquilo", "pron": "trankuílu", "ej": "O bairro é tranquilo.", "ejes": "El barrio es tranquilo.", "cog": true },
+        { "t": "barulhento", "es": "ruidoso", "pron": "barulyéntu", "ej": "O centro é barulhento.", "ejes": "El centro es ruidoso.", "cog": false },
+        { "t": "centro", "es": "centro", "pron": "séntru", "ej": "O centro é grande.", "ejes": "El centro es grande.", "cog": true },
+        { "t": "bairro", "es": "barrio", "pron": "báirru", "ej": "O meu bairro é bonito.", "ejes": "Mi barrio es bonito.", "cog": false },
+        { "t": "preço", "es": "precio", "pron": "présu", "ej": "O preço é bom.", "ejes": "El precio es bueno.", "cog": false, "truco": "La «ç» suena «s»." },
+        { "t": "cidade", "es": "ciudad", "pron": "sidádyi", "ej": "A cidade é grande.", "ejes": "La ciudad es grande.", "cog": true }
+      ],
+      "frases": [
+        { "t": "O mercado fica mais perto do que a praia.", "es": "El mercado queda más cerca que la playa.", "pron": "u merkádu fíka máis pértu du ke a práya" },
+        { "t": "O centro é mais barulhento do que meu bairro.", "es": "El centro es más ruidoso que mi barrio.", "pron": "u séntru é máis barulyéntu du ke méu báirru" },
+        { "t": "O preço aqui é menor do que lá.", "es": "El precio aquí es menor que allá.", "pron": "u présu akí é menór du ke lá" },
+        { "t": "O português é mais fácil do que o alemão.", "es": "El portugués es más fácil que el alemán.", "pron": "u portuguéis é máis fásiu du ke u alemáun" },
+        { "t": "Lima é tão grande quanto São Paulo?", "es": "¿Lima es tan grande como São Paulo?", "pron": "líma é táun grándchi kuántu sáun páulu" }
+      ],
+      "dialogo": {
+        "titulo": "Eligiendo dónde vivir",
+        "lineas": [
+          { "q": "A", "t": "O centro é mais barulhento do que o meu bairro.", "es": "El centro es más ruidoso que mi barrio." },
+          { "q": "B", "t": "Mas o centro é mais perto do trabalho.", "es": "Pero el centro queda más cerca del trabajo." },
+          { "q": "A", "t": "É verdade, e o preço é menor.", "es": "Es verdad, y el precio es menor." },
+          { "q": "B", "t": "Então o bairro é mais tranquilo, mas mais longe.", "es": "Entonces el barrio es más tranquilo, pero más lejos." },
+          { "q": "A", "t": "Prefiro o tranquilo. É melhor para dormir.", "es": "Prefiero el tranquilo. Es mejor para dormir." }
+        ]
+      },
+      "nota": "«Perto» y «longe» se usan con «de»: perto do trabalho, longe da praia. Para dar tu opinión puedes añadir «Eu acho que...» (Creo que...). «Bairro» es una zona o barrio de la ciudad; no es «barrio pobre»."
+    },
+    {
+      "id": "pt-a2-u4-l5",
+      "n": 5,
+      "titulo": "Repaso: mi opinión",
+      "objetivo": "Dar tu opinión comparando dos opciones con todo lo aprendido.",
+      "intro": "Para opinar puedes usar «Eu acho que...» (Creo que...) y una comparación. Truco: termina con «Concordo» (Estoy de acuerdo) o «Discordo» (No estoy de acuerdo).",
+      "palabras": [
+        { "t": "eu acho que", "es": "creo que", "pron": "éu áshu ke", "ej": "Eu acho que é melhor.", "ejes": "Creo que es mejor.", "cog": false },
+        { "t": "prefiro", "es": "prefiero", "pron": "prefíru", "ej": "Eu prefiro o café.", "ejes": "Prefiero el café.", "cog": true },
+        { "t": "concordo", "es": "estoy de acuerdo", "pron": "konkórdu", "ej": "Eu concordo com você.", "ejes": "Estoy de acuerdo contigo.", "cog": true },
+        { "t": "discordo", "es": "no estoy de acuerdo", "pron": "diskórdu", "ej": "Eu discordo de você.", "ejes": "No estoy de acuerdo contigo.", "cog": true },
+        { "t": "opinião", "es": "opinión", "pron": "opiniáun", "ej": "Na minha opinião, é melhor.", "ejes": "En mi opinión, es mejor.", "cog": true },
+        { "t": "pode ser", "es": "puede ser", "pron": "pódyi sér", "ej": "Pode ser mais caro.", "ejes": "Puede ser más caro.", "cog": false },
+        { "t": "também", "es": "también", "pron": "tambéin", "ej": "Eu também acho.", "ejes": "Yo también creo.", "cog": false },
+        { "t": "mas", "es": "pero", "pron": "máis", "ej": "É bom, mas é caro.", "ejes": "Es bueno, pero es caro.", "cog": false, "truco": "«mas» suena «máis»." },
+        { "t": "mesmo", "es": "mismo", "pron": "mésmu", "ej": "É o mesmo preço.", "ejes": "Es el mismo precio.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Eu acho que o carro é melhor do que o ônibus.", "es": "Creo que el carro es mejor que el ómnibus.", "pron": "éu áshu ke u kárru é melyór du ke u ônibus" },
+        { "t": "Eu prefiro o café, mas o chá é mais barato.", "es": "Prefiero el café, pero el té es más barato.", "pron": "éu prefíru u kafé máis u shá é máis barátu" },
+        { "t": "Na minha opinião, a casa é tão boa quanto a sua.", "es": "En mi opinión, la casa es tan buena como la tuya.", "pron": "na miña opiniáun a kása é táun bóa kuántu a súa" },
+        { "t": "Eu concordo com você.", "es": "Estoy de acuerdo contigo.", "pron": "éu konkórdu kon vosé" },
+        { "t": "Eu discordo: o centro é pior do que o bairro.", "es": "No estoy de acuerdo: el centro es peor que el barrio.", "pron": "éu diskórdu u séntru é piór du ke u báirru" }
+      ],
+      "dialogo": {
+        "titulo": "Una conversación de opiniones",
+        "lineas": [
+          { "q": "A", "t": "Eu acho que o ônibus é mais lento do que o carro.", "es": "Creo que el ómnibus es más lento que el carro." },
+          { "q": "B", "t": "Concordo, mas o ônibus é mais barato.", "es": "Estoy de acuerdo, pero el ómnibus es más barato." },
+          { "q": "A", "t": "Eu prefiro o carro, é mais rápido.", "es": "Yo prefiero el carro, es más rápido." },
+          { "q": "B", "t": "Na minha opinião, o metrô é melhor do que os dois.", "es": "En mi opinión, el metro es mejor que los dos." },
+          { "q": "A", "t": "Pode ser. Eu também gosto do metrô.", "es": "Puede ser. A mí también me gusta el metro." }
+        ]
+      },
+      "nota": "«Eu acho que» es la fórmula más natural para opinar en Brasil. «Mesmo» significa «mismo» (o mesmo preço), también «mismo» para enfatizar. «Pode ser» sirve para dudar con suavidad: «Pode ser, mas eu prefiro o carro»."
+    }
+  ]
+}

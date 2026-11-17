@@ -1,0 +1,223 @@
+{
+  "id": "en-a2-u5",
+  "idioma": "en",
+  "nivel": "A2",
+  "n": 5,
+  "titulo": "Los mejores y los peores",
+  "resumen": "Aprenderás a decir cuál es el más alto, el más caro o el mejor usando los superlativos: the -est y the most.",
+  "puedo": [
+    "Formar superlativos cortos con the + -est.",
+    "Aplicar las reglas de escritura (-st, doble letra, -iest).",
+    "Usar the most con adjetivos largos.",
+    "Usar the best, the worst y the least.",
+    "Decir en qué grupo o lugar es el mejor con in y of.",
+    "Hablar de ganadores, récords y rankings."
+  ],
+  "gramatica": {
+    "titulo": "Los superlativos: the -est y the most",
+    "texto": "El superlativo dice que algo es el más (alto, caro, bueno...) de todo un grupo. Con adjetivos cortos usa the + -est: Ana is the tallest girl in the class (la más alta de la clase). Con adjetivos largos usa the most: This is the most expensive hotel.\nLas reglas de escritura son las mismas que en el comparativo: -e → -st (nice → the nicest); vocal + consonante → se duplica (big → the biggest); consonante + y → -iest (easy → the easiest).\nIrregulares: good → the best, bad → the worst.\nSiempre lleva the y después se usa in con lugares o grupos (in the class, in Peru) y of con conjuntos (of all).",
+    "tabla": [
+      ["tall → the tallest", "alto → el más alto", "tol → da tólest"],
+      ["big → the biggest", "grande → el más grande", "big → da bíguest"],
+      ["easy → the easiest", "fácil → el más fácil", "ísi → di ísiest"],
+      ["expensive → the most expensive", "caro → el más caro", "ikspénsiv → da moust ikspénsiv"],
+      ["good → the best / bad → the worst", "bueno → el mejor / malo → el peor", "gud → da best / bad → da uerst"]
+    ],
+    "errores": [
+      "No olvides the: es She is the tallest, no «She is tallest».",
+      "No mezcles most y -est: es the most expensive o the tallest, no «the most tallest».",
+      "Después de un superlativo se usa in, no of, con lugares: the biggest city in Peru, no «of Peru»."
+    ]
+  },
+  "practica": [
+    "Mira tu familia o tu grupo de amigos y di 5 superlativos sobre ellos: the tallest, the oldest, the funniest... (5 minutos).",
+    "Escribe un ranking de tus 3 comidas favoritas con the best, the second best y the worst (5 minutos).",
+    "Busca en internet 3 récords mundiales en inglés (the tallest building, the longest river...) y anótalos (7 minutos).",
+    "Graba un audio de 30 segundos hablando del mejor lugar que conoces con the most y the best (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-a2-u5-l1",
+      "n": 1,
+      "titulo": "The -est: el más...",
+      "objetivo": "Decir quién o qué es el más alto, rápido o barato de un grupo.",
+      "intro": "Con adjetivos cortos, el superlativo lleva the + -est. Truco: piensa en un podio; el que gana es the tallest, the fastest... y siempre se necesita the.",
+      "palabras": [
+        { "t": "the tallest", "es": "el más alto", "pron": "da tólest", "ej": "Ana is the tallest girl in the class.", "ejes": "Ana es la chica más alta de la clase.", "cog": false },
+        { "t": "the shortest", "es": "el más bajo / el más corto", "pron": "da shórtest", "ej": "Tom is the shortest boy.", "ejes": "Tom es el chico más bajo.", "cog": false },
+        { "t": "the oldest", "es": "el mayor / el más viejo", "pron": "di óuldest", "ej": "My uncle is the oldest in the family.", "ejes": "Mi tío es el mayor de la familia.", "cog": false },
+        { "t": "the youngest", "es": "el menor / el más joven", "pron": "da iángest", "ej": "I'm the youngest of three.", "ejes": "Soy el menor de tres.", "cog": false },
+        { "t": "the fastest", "es": "el más rápido", "pron": "da fástest", "ej": "Carlos is the fastest runner.", "ejes": "Carlos es el corredor más rápido.", "cog": false },
+        { "t": "the cheapest", "es": "el más barato", "pron": "da chípest", "ej": "This is the cheapest hotel.", "ejes": "Este es el hotel más barato.", "cog": false },
+        { "t": "the smallest", "es": "el más pequeño", "pron": "da smólest", "ej": "This is the smallest room.", "ejes": "Este es el cuarto más pequeño.", "cog": false },
+        { "t": "the newest", "es": "el más nuevo", "pron": "da niúest", "ej": "This is the newest phone.", "ejes": "Este es el teléfono más nuevo.", "cog": false },
+        { "t": "the longest", "es": "el más largo", "pron": "da lónguest", "ej": "This is the longest bridge.", "ejes": "Este es el puente más largo.", "cog": false },
+        { "t": "in", "es": "en (de un grupo o lugar)", "pron": "in", "ej": "She is the tallest in the class.", "ejes": "Ella es la más alta de la clase.", "cog": false, "truco": "Tras un superlativo, in se traduce como «de»." }
+      ],
+      "frases": [
+        { "t": "Ana is the tallest girl in the class.", "es": "Ana es la chica más alta de la clase.", "pron": "ána is da tólest guerl in da clas" },
+        { "t": "I'm the youngest of three.", "es": "Soy el menor de tres.", "pron": "aim da iángest of zri" },
+        { "t": "Carlos is the fastest runner.", "es": "Carlos es el corredor más rápido.", "pron": "cárlos is da fástest ráner" },
+        { "t": "This is the cheapest hotel in town.", "es": "Este es el hotel más barato de la ciudad.", "pron": "dis is da chípest joutél in taun" },
+        { "t": "The Amazon is the longest river here.", "es": "El Amazonas es el río más largo de aquí.", "pron": "di ámazon is da lónguest ríver jíar" }
+      ],
+      "dialogo": {
+        "titulo": "En la familia",
+        "lineas": [
+          { "q": "A", "t": "Who is the oldest in your family, Emma?", "es": "¿Quién es el mayor de tu familia, Emma?" },
+          { "q": "B", "t": "My uncle Jack is the oldest.", "es": "Mi tío Jack es el mayor." },
+          { "q": "A", "t": "And who is the youngest?", "es": "¿Y quién es el menor?" },
+          { "q": "B", "t": "My cousin Sam. He's the smallest too!", "es": "Mi primo Sam. ¡También es el más pequeño!" },
+          { "q": "A", "t": "Is he the fastest runner?", "es": "¿Es el corredor más rápido?" }
+        ]
+      },
+      "nota": "Cuando el superlativo empieza con vocal, the suena «di»: the oldest = «di óuldest». Con consonante suena «da»: the tallest = «da tólest»."
+    },
+    {
+      "id": "en-a2-u5-l2",
+      "n": 2,
+      "titulo": "Reglas del superlativo",
+      "objetivo": "Escribir bien los superlativos con -st, doble letra y -iest.",
+      "intro": "Son las mismas reglas del comparativo: -e → solo -st; vocal + consonante corta → duplica; consonante + y → -iest. Truco: si sabes biggest, nicest e easiest, sabes todas.",
+      "palabras": [
+        { "t": "the nicest", "es": "el más agradable / amable", "pron": "da náisest", "ej": "She is the nicest person here.", "ejes": "Ella es la persona más amable de aquí.", "cog": false, "truco": "nice + st (ya termina en -e)." },
+        { "t": "the biggest", "es": "el más grande", "pron": "da bíguest", "ej": "That is the biggest dog.", "ejes": "Ese es el perro más grande.", "cog": false, "truco": "big → biggest: se duplica la g." },
+        { "t": "the hottest", "es": "el más caluroso", "pron": "da játest", "ej": "February is the hottest month.", "ejes": "Febrero es el mes más caluroso.", "cog": false },
+        { "t": "the easiest", "es": "el más fácil", "pron": "di ísiest", "ej": "This is the easiest exercise.", "ejes": "Este es el ejercicio más fácil.", "cog": false, "truco": "easy → easiest: la y cambia a -iest." },
+        { "t": "the happiest", "es": "el más feliz", "pron": "da jápiest", "ej": "I'm the happiest person today.", "ejes": "Hoy soy la persona más feliz.", "cog": false },
+        { "t": "the busiest", "es": "el más ocupado / concurrido", "pron": "da bísiest", "ej": "Friday is the busiest day.", "ejes": "El viernes es el día más concurrido.", "cog": false },
+        { "t": "the funniest", "es": "el más gracioso", "pron": "da fániest", "ej": "Sam is the funniest guy.", "ejes": "Sam es el chico más gracioso.", "cog": false },
+        { "t": "the largest", "es": "el más grande", "pron": "da lárgest", "ej": "Lima is the largest city in Peru.", "ejes": "Lima es la ciudad más grande de Perú.", "cog": false },
+        { "t": "the thinnest", "es": "el más delgado", "pron": "da zínest", "ej": "This is the thinnest book.", "ejes": "Este es el libro más delgado.", "cog": false }
+      ],
+      "frases": [
+        { "t": "She is the nicest person here.", "es": "Ella es la persona más amable de aquí.", "pron": "shi is da náisest pérson jíar" },
+        { "t": "February is the hottest month.", "es": "Febrero es el mes más caluroso.", "pron": "fébruari is da játest manz" },
+        { "t": "This is the easiest exercise.", "es": "Este es el ejercicio más fácil.", "pron": "dis is di ísiest éksersais" },
+        { "t": "Friday is the busiest day.", "es": "El viernes es el día más concurrido.", "pron": "fráidei is da bísiest dei" },
+        { "t": "Sam is the funniest guy I know.", "es": "Sam es el chico más gracioso que conozco.", "pron": "sam is da fániest gai ai nóu" },
+        { "t": "Lima is the largest city in Peru.", "es": "Lima es la ciudad más grande de Perú.", "pron": "lima is da lárgest síti in perú" }
+      ],
+      "dialogo": {
+        "titulo": "Un día en la oficina",
+        "lineas": [
+          { "q": "A", "t": "Friday is the busiest day for me.", "es": "El viernes es el día más ocupado para mí." },
+          { "q": "B", "t": "For me too. But today is the easiest day.", "es": "Para mí también. Pero hoy es el día más fácil." },
+          { "q": "A", "t": "Our boss is the nicest person in the office.", "es": "Nuestro jefe es la persona más amable de la oficina." },
+          { "q": "B", "t": "And Tom is the funniest!", "es": "¡Y Tom es el más gracioso!" },
+          { "q": "A", "t": "He's the happiest too.", "es": "También es el más feliz." }
+        ]
+      },
+      "nota": "La regla de la y funciona igual que antes: easy → easiest, happy → happiest, busy → busiest. En pronunciación, el final -est suena «ist»: «da bísiest» casi «da bísiist»."
+    },
+    {
+      "id": "en-a2-u5-l3",
+      "n": 3,
+      "titulo": "The most",
+      "objetivo": "Usar the most con adjetivos largos para decir el más...",
+      "intro": "Con adjetivos largos, el superlativo lleva the most delante. Truco: es igual que more... than, pero con the most y sin than. Nunca se usa -est con estos adjetivos.",
+      "palabras": [
+        { "t": "the most expensive", "es": "el más caro", "pron": "da moust ikspénsiv", "ej": "This is the most expensive hotel.", "ejes": "Este es el hotel más caro.", "cog": false },
+        { "t": "the most interesting", "es": "el más interesante", "pron": "da moust íntrestin", "ej": "This is the most interesting book.", "ejes": "Este es el libro más interesante.", "cog": true },
+        { "t": "the most popular", "es": "el más popular", "pron": "da moust pápiular", "ej": "Pizza is the most popular food.", "ejes": "La pizza es la comida más popular.", "cog": true },
+        { "t": "the most beautiful", "es": "el más hermoso", "pron": "da moust biútiful", "ej": "Machu Picchu is the most beautiful place.", "ejes": "Machu Picchu es el lugar más hermoso.", "cog": false },
+        { "t": "the most comfortable", "es": "el más cómodo", "pron": "da moust cámfertabol", "ej": "This is the most comfortable chair.", "ejes": "Esta es la silla más cómoda.", "cog": false },
+        { "t": "the most difficult", "es": "el más difícil", "pron": "da moust dífikalt", "ej": "This is the most difficult question.", "ejes": "Esta es la pregunta más difícil.", "cog": true },
+        { "t": "the most dangerous", "es": "el más peligroso", "pron": "da moust déinyeras", "ej": "This is the most dangerous road.", "ejes": "Esta es la carretera más peligrosa.", "cog": false },
+        { "t": "the most famous", "es": "el más famoso", "pron": "da moust féimas", "ej": "She is the most famous singer.", "ejes": "Ella es la cantante más famosa.", "cog": true },
+        { "t": "the most important", "es": "el más importante", "pron": "da moust impórtant", "ej": "Family is the most important thing.", "ejes": "La familia es lo más importante.", "cog": true }
+      ],
+      "frases": [
+        { "t": "This is the most expensive hotel.", "es": "Este es el hotel más caro.", "pron": "dis is da moust ikspénsiv joutél" },
+        { "t": "Machu Picchu is the most beautiful place.", "es": "Machu Picchu es el lugar más hermoso.", "pron": "máchu píchu is da moust biútiful pleis" },
+        { "t": "Pizza is the most popular food.", "es": "La pizza es la comida más popular.", "pron": "pítsa is da moust pápiular fud" },
+        { "t": "She is the most famous singer in Peru.", "es": "Ella es la cantante más famosa de Perú.", "pron": "shi is da moust féimas síngar in perú" },
+        { "t": "Family is the most important thing.", "es": "La familia es lo más importante.", "pron": "fámili is da moust impórtant zing" }
+      ],
+      "dialogo": {
+        "titulo": "Un viaje a Cusco",
+        "lineas": [
+          { "q": "A", "t": "Cusco is the most beautiful city in Peru.", "es": "Cusco es la ciudad más hermosa de Perú." },
+          { "q": "B", "t": "Machu Picchu is the most famous place there.", "es": "Machu Picchu es el lugar más famoso de allí." },
+          { "q": "A", "t": "Yes, and it's the most popular for tourists.", "es": "Sí, y es el más popular entre los turistas." },
+          { "q": "B", "t": "Is it expensive?", "es": "¿Es caro?" },
+          { "q": "A", "t": "It's the most expensive trip, but it's worth it.", "es": "Es el viaje más caro, pero vale la pena." }
+        ]
+      },
+      "nota": "Con adjetivos terminados en -y, de dos sílabas, se usa -iest (the easiest, the funniest). Con los demás de dos o más sílabas se usa the most."
+    },
+    {
+      "id": "en-a2-u5-l4",
+      "n": 4,
+      "titulo": "The best, the worst y más",
+      "objetivo": "Usar los superlativos irregulares y las expresiones de énfasis.",
+      "intro": "Good y bad tienen superlativos propios: the best y the worst. Truco: ever significa «alguna vez» y refuerza el superlativo: the best movie ever = la mejor película de la historia.",
+      "palabras": [
+        { "t": "the best", "es": "el mejor", "pron": "da best", "ej": "This is the best pizza in town.", "ejes": "Esta es la mejor pizza de la ciudad.", "cog": false, "truco": "Superlativo de good. Nunca «the most good»." },
+        { "t": "the worst", "es": "el peor", "pron": "da uerst", "ej": "That was the worst movie.", "ejes": "Esa fue la peor película.", "cog": false, "truco": "Superlativo de bad." },
+        { "t": "the least", "es": "el menos", "pron": "da list", "ej": "This is the least expensive hotel.", "ejes": "Este es el hotel menos caro.", "cog": false },
+        { "t": "ever", "es": "alguna vez / nunca", "pron": "éver", "ej": "It's the best day ever!", "ejes": "¡Es el mejor día de la historia!", "cog": false },
+        { "t": "in the world", "es": "del mundo", "pron": "in da uerld", "ej": "It's the tallest tower in the world.", "ejes": "Es la torre más alta del mundo.", "cog": false },
+        { "t": "of all", "es": "de todos", "pron": "of ol", "ej": "She is the fastest of all.", "ejes": "Ella es la más rápida de todos.", "cog": false },
+        { "t": "by far", "es": "por mucho", "pron": "bai far", "ej": "He is by far the best player.", "ejes": "Él es por mucho el mejor jugador.", "cog": false },
+        { "t": "one of the", "es": "uno de los", "pron": "uan of da", "ej": "It's one of the best cities.", "ejes": "Es una de las mejores ciudades.", "cog": false, "truco": "Después de one of the va el superlativo y un plural." },
+        { "t": "favorite", "es": "favorito", "pron": "féivarit", "ej": "Pizza is my favorite food.", "ejes": "La pizza es mi comida favorita.", "cog": false }
+      ],
+      "frases": [
+        { "t": "This is the best pizza in town.", "es": "Esta es la mejor pizza de la ciudad.", "pron": "dis is da best pítsa in taun" },
+        { "t": "That was the worst movie ever.", "es": "Esa fue la peor película de la historia.", "pron": "dat uos da uerst múvi éver" },
+        { "t": "It's the tallest tower in the world.", "es": "Es la torre más alta del mundo.", "pron": "its da tólest táuer in da uerld" },
+        { "t": "It's one of the best cities in Peru.", "es": "Es una de las mejores ciudades de Perú.", "pron": "its uan of da best sítis in perú" },
+        { "t": "He is by far the best player.", "es": "Él es por mucho el mejor jugador.", "pron": "ji is bai far da best pléier" },
+        { "t": "Today was the best day ever!", "es": "¡Hoy fue el mejor día de la historia!", "pron": "tudéi uos da best dei éver" }
+      ],
+      "dialogo": {
+        "titulo": "Elegir una película",
+        "lineas": [
+          { "q": "A", "t": "Was this the best movie ever, Kate?", "es": "¿Fue esta la mejor película de la historia, Kate?" },
+          { "q": "B", "t": "No! It was one of the worst.", "es": "¡No! Fue una de las peores." },
+          { "q": "A", "t": "Really? I loved it.", "es": "¿En serio? A mí me encantó." },
+          { "q": "B", "t": "My favorite movie is the one with the tallest actor.", "es": "Mi película favorita es la del actor más alto." },
+          { "q": "A", "t": "Of all movies, that one was by far the best.", "es": "De todas las películas, esa fue por mucho la mejor." }
+        ]
+      },
+      "nota": "Para la comparación entre dos usa better/worse (This is better than that); para tres o más usa the best/the worst (This is the best of all)."
+    },
+    {
+      "id": "en-a2-u5-l5",
+      "n": 5,
+      "titulo": "Repaso: ganadores y récords",
+      "objetivo": "Hablar de concursos, ganadores y récords usando todos los superlativos.",
+      "intro": "Los superlativos son perfectos para hablar de deportes, premios y récords. Truco: aprende estas palabras junto con the + superlativo, por ejemplo the best player, the fastest team.",
+      "palabras": [
+        { "t": "winner", "es": "ganador", "pron": "uíner", "ej": "Who is the winner?", "ejes": "¿Quién es el ganador?", "cog": false },
+        { "t": "prize", "es": "premio", "pron": "prais", "ej": "She won the first prize.", "ejes": "Ella ganó el primer premio.", "cog": false },
+        { "t": "record", "es": "récord", "pron": "récord", "ej": "He broke the world record.", "ejes": "Él rompió el récord mundial.", "cog": true, "truco": "Como sustantivo suena «récord»; como verbo, «rikórd»." },
+        { "t": "champion", "es": "campeón", "pron": "chámpion", "ej": "Peru is the champion.", "ejes": "Perú es el campeón.", "cog": false },
+        { "t": "race", "es": "carrera", "pron": "reis", "ej": "The race was exciting.", "ejes": "La carrera fue emocionante.", "cog": false },
+        { "t": "medal", "es": "medalla", "pron": "médal", "ej": "She won a gold medal.", "ejes": "Ella ganó una medalla de oro.", "cog": true },
+        { "t": "final", "es": "final", "pron": "fáinal", "ej": "The final starts at six.", "ejes": "La final empieza a las seis.", "cog": true },
+        { "t": "top", "es": "cima / los mejores", "pron": "tap", "ej": "We are at the top.", "ejes": "Estamos en la cima.", "cog": false },
+        { "t": "team", "es": "equipo", "pron": "tim", "ej": "Our team is the best.", "ejes": "Nuestro equipo es el mejor.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Who is the winner?", "es": "¿Quién es el ganador?", "pron": "ju is da uíner" },
+        { "t": "She won the first prize.", "es": "Ella ganó el primer premio.", "pron": "shi uan da ferst prais" },
+        { "t": "He broke the world record.", "es": "Él rompió el récord mundial.", "pron": "ji brouk da uerld récord" },
+        { "t": "The final is the most exciting race.", "es": "La final es la carrera más emocionante.", "pron": "da fáinal is da moust ikságitin reis" },
+        { "t": "Our team is the best of all.", "es": "Nuestro equipo es el mejor de todos.", "pron": "áuar tim is da best of ol" }
+      ],
+      "dialogo": {
+        "titulo": "La gran final",
+        "lineas": [
+          { "q": "A", "t": "Who is the winner of the race, Diego?", "es": "¿Quién es el ganador de la carrera, Diego?" },
+          { "q": "B", "t": "Ana! She's the fastest runner in the world!", "es": "¡Ana! ¡Es la corredora más rápida del mundo!" },
+          { "q": "A", "t": "Did she break the record?", "es": "¿Rompió el récord?" },
+          { "q": "B", "t": "Yes, and she won a gold medal.", "es": "Sí, y ganó una medalla de oro." },
+          { "q": "A", "t": "She's the best champion we have!", "es": "¡Es la mejor campeona que tenemos!" }
+        ]
+      },
+      "nota": "Repaso: corto → the tallest; largo → the most expensive; irregulares → the best, the worst. Siempre lleva the y se completa con in o of."
+    }
+  ]
+}

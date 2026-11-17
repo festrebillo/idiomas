@@ -1,0 +1,221 @@
+{
+  "id": "pt-a2-u3",
+  "idioma": "pt",
+  "nivel": "A2",
+  "n": 3,
+  "titulo": "Preguntar sobre el pasado",
+  "resumen": "Aprenderás a preguntar y negar en pasado, y el uso coloquial de «ter» (hay) y «a gente» (nosotros) tal como se habla en Brasil.",
+  "puedo": [
+    "Hacer preguntas sobre el pasado con quando, onde, quem, como y por que.",
+    "Negar con «não» + verbo en pasado.",
+    "Usar nada, ninguém y nunca con el pasado.",
+    "Usar «tem» para decir «hay» y «tem que» para «tener que».",
+    "Decir «a gente» para hablar de nosotros en la conversación diaria."
+  ],
+  "gramatica": {
+    "titulo": "Preguntas y negación en el pasado",
+    "texto": "En portugués no se cambia el orden de la frase: la pregunta usa el mismo verbo en pasado y sube la voz al final. «Você foi ao cinema?» (¿Fuiste al cine?). Si hay una palabra interrogativa, va al principio: «Onde você foi?» (¿Adónde fuiste?).\nPara negar, pon «não» justo antes del verbo: «Eu não fui» (No fui). Para responder «no», puedes decir «Não, eu não fui» o solo «Não, não fui».\nHay doble negación natural: «Eu não vi ninguém» (No vi a nadie), «Eu não fiz nada» (No hice nada). Con «nunca» también: «Eu nunca fui» (Nunca fui).\nColoquial: «tem» significa «hay» (Tem um banco aqui) y «a gente» equivale a «nosotros» pero el verbo va en tercera persona: «a gente foi» (fuimos).",
+    "tabla": [
+      ["Você foi ao cinema?", "¿Fuiste al cine?", "vosé fói au sinéma"],
+      ["Onde você foi?", "¿Adónde fuiste?", "óndyi vosé fói"],
+      ["Eu não fui ao cinema.", "No fui al cine.", "éu náun fúi au sinéma"],
+      ["Eu não vi ninguém.", "No vi a nadie.", "éu náun ví ningéin"],
+      ["Eu nunca fui.", "Nunca fui.", "éu núnka fúi"],
+      ["Tem um café aqui.", "Hay un café aquí.", "téin ún kafé akí"],
+      ["A gente foi à praia.", "Fuimos a la playa.", "a yénchi fói a práya"]
+    ],
+    "errores": [
+      "No pongas «do» ni cambies el orden: «você foi?» no «foi você?» (solo en literario).",
+      "En portugués se usa la doble negación: «Eu não fiz nada», no «Eu fiz nada».",
+      "«A gente» lleva el verbo en tercera persona: «a gente foi» (no «a gente fomos» en habla cuidada)."
+    ]
+  },
+  "practica": [
+    "Escribe 6 preguntas sobre el pasado con quando, onde, quem, como, por que y o que, y respóndelas en voz alta (8 minutos).",
+    "Haz tu «día en negativo»: 5 frases con «Eu não... ontem» y «Eu nunca...» (5 minutos).",
+    "Busca en YouTube conversas en portugués brasileño y anota 5 veces que oigas «a gente» o «tem» (8 minutos).",
+    "Pide a un amigo que te pregunte por tu fin de semana y respóndele solo en portugués (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-a2-u3-l1",
+      "n": 1,
+      "titulo": "Palabras para preguntar",
+      "objetivo": "Hacer preguntas en pasado con las palabras interrogativas clave.",
+      "intro": "Para preguntar sobre el pasado usas la misma forma del verbo y una palabra al principio. Truco: «por que» (por qué) se escribe en dos palabras al preguntar.",
+      "palabras": [
+        { "t": "quando", "es": "cuándo", "pron": "kuándu", "ej": "Quando você chegou?", "ejes": "¿Cuándo llegaste?", "cog": true },
+        { "t": "onde", "es": "dónde / adónde", "pron": "óndyi", "ej": "Onde você foi?", "ejes": "¿Adónde fuiste?", "cog": false, "truco": "«de» final suena «dyi»." },
+        { "t": "quem", "es": "quién", "pron": "kéin", "ej": "Quem foi à festa?", "ejes": "¿Quién fue a la fiesta?", "cog": false, "truco": "«em» nasal: kéin." },
+        { "t": "como", "es": "cómo", "pron": "kómu", "ej": "Como foi o filme?", "ejes": "¿Cómo fue la película?", "cog": true },
+        { "t": "por que", "es": "por qué", "pron": "pur ké", "ej": "Por que você saiu cedo?", "ejes": "¿Por qué saliste temprano?", "cog": false },
+        { "t": "com quem", "es": "con quién", "pron": "kon kéin", "ej": "Com quem você foi?", "ejes": "¿Con quién fuiste?", "cog": false },
+        { "t": "o que", "es": "qué", "pron": "u ké", "ej": "O que você fez?", "ejes": "¿Qué hiciste?", "cog": false },
+        { "t": "qual", "es": "cuál", "pron": "kuáu", "ej": "Qual filme você viu?", "ejes": "¿Qué película viste?", "cog": true },
+        { "t": "quanto tempo", "es": "cuánto tiempo", "pron": "kuántu témpu", "ej": "Quanto tempo você ficou?", "ejes": "¿Cuánto tiempo te quedaste?", "cog": false }
+      ],
+      "frases": [
+        { "t": "O que você fez ontem?", "es": "¿Qué hiciste ayer?", "pron": "u ké vosé fés ónteín" },
+        { "t": "Onde você foi no sábado?", "es": "¿Adónde fuiste el sábado?", "pron": "óndyi vosé fói nu sábadu" },
+        { "t": "Com quem você jantou?", "es": "¿Con quién cenaste?", "pron": "kon kéin vosé yantóu" },
+        { "t": "Por que você saiu cedo?", "es": "¿Por qué saliste temprano?", "pron": "pur ké vosé saíu sédu" },
+        { "t": "Quando você chegou em casa?", "es": "¿Cuándo llegaste a casa?", "pron": "kuándu vosé shegóu ein kása" }
+      ],
+      "dialogo": {
+        "titulo": "Preguntas sobre ayer",
+        "lineas": [
+          { "q": "A", "t": "Onde você foi ontem?", "es": "¿Adónde fuiste ayer?" },
+          { "q": "B", "t": "Eu fui ao shopping.", "es": "Fui al centro comercial." },
+          { "q": "A", "t": "Com quem você foi?", "es": "¿Con quién fuiste?" },
+          { "q": "B", "t": "Com minha irmã. Nós comemos e compramos roupa.", "es": "Con mi hermana. Comimos y compramos ropa." },
+          { "q": "A", "t": "Quando vocês voltaram?", "es": "¿Cuándo volvieron?" }
+        ]
+      },
+      "nota": "«Por que» (pregunta) se escribe separado; en la respuesta es «porque» junto. Falso amigo suave: «quem» (quién) no es «que». La pregunta con «você» no cambia el orden: «Você foi?»."
+    },
+    {
+      "id": "pt-a2-u3-l2",
+      "n": 2,
+      "titulo": "Decir que no: não, nada, ninguém",
+      "objetivo": "Negar acciones del pasado y usar la doble negación natural.",
+      "intro": "Para decir que no hiciste algo, pon «não» antes del verbo. Y puedes sumar «nada» o «ninguém»: en portugués se acumulan sin problema: «Eu não vi ninguém».",
+      "palabras": [
+        { "t": "não", "es": "no", "pron": "náun", "ej": "Eu não fui à festa.", "ejes": "No fui a la fiesta.", "cog": false, "truco": "«ão» es nasal: náun." },
+        { "t": "nada", "es": "nada", "pron": "náda", "ej": "Eu não fiz nada.", "ejes": "No hice nada.", "cog": true },
+        { "t": "ninguém", "es": "nadie", "pron": "ningéin", "ej": "Eu não vi ninguém.", "ejes": "No vi a nadie.", "cog": false, "truco": "La «g» suena como en «gato»: ningéin." },
+        { "t": "nunca", "es": "nunca", "pron": "núnka", "ej": "Eu nunca fui ao Brasil.", "ejes": "Nunca fui a Brasil.", "cog": true },
+        { "t": "nem", "es": "ni", "pron": "néin", "ej": "Eu nem fui à festa.", "ejes": "Ni siquiera fui a la fiesta.", "cog": false },
+        { "t": "ainda não", "es": "todavía no / aún no", "pron": "aínda náun", "ej": "Eu ainda não jantei.", "ejes": "Todavía no cené.", "cog": false },
+        { "t": "também não", "es": "tampoco", "pron": "tambéin náun", "ej": "Eu também não fui.", "ejes": "Yo tampoco fui.", "cog": false },
+        { "t": "mais nada", "es": "nada más", "pron": "máis náda", "ej": "Eu não comi mais nada.", "ejes": "No comí nada más.", "cog": false },
+        { "t": "tudo", "es": "todo", "pron": "túdu", "ej": "Eu comi tudo.", "ejes": "Comí todo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Eu não fui à festa.", "es": "No fui a la fiesta.", "pron": "éu náun fúi a fésta" },
+        { "t": "Eu não fiz nada ontem.", "es": "No hice nada ayer.", "pron": "éu náun fís náda ónteín" },
+        { "t": "Eu não vi ninguém na rua.", "es": "No vi a nadie en la calle.", "pron": "éu náun ví ningéin na rrúa" },
+        { "t": "Ele nunca foi ao cinema.", "es": "Él nunca fue al cine.", "pron": "éli núnka fói au sinéma" },
+        { "t": "Eu ainda não jantei.", "es": "Todavía no cené.", "pron": "éu aínda náun yantéi" }
+      ],
+      "dialogo": {
+        "titulo": "Un día tranquilo",
+        "lineas": [
+          { "q": "A", "t": "Você foi à festa no sábado?", "es": "¿Fuiste a la fiesta el sábado?" },
+          { "q": "B", "t": "Não, eu não fui. Eu não fiz nada.", "es": "No, no fui. No hice nada." },
+          { "q": "A", "t": "Você não viu ninguém?", "es": "¿No viste a nadie?" },
+          { "q": "B", "t": "Ninguém veio à minha casa.", "es": "Nadie vino a mi casa." },
+          { "q": "A", "t": "Eu também não fui. Eu nunca vou a festas assim.", "es": "Yo tampoco fui. Yo nunca voy a fiestas así." }
+        ]
+      },
+      "nota": "Doble negación: «Eu não vi ninguém», no «Eu vi ninguém». Falso amigo: «ninguém» no se confunde con «ningún»; es «nadie». La nasal de «nem» y «ninguém» suena «néin»."
+    },
+    {
+      "id": "pt-a2-u3-l3",
+      "n": 3,
+      "titulo": "El «ter» coloquial",
+      "objetivo": "Usar «tem» para decir «hay» y «tem que» para «tener que».",
+      "intro": "En el habla diaria de Brasil, «tem» (de ter) se usa en lugar de «hay»: «Tem café?» (¿Hay café?). También sirve «tem que» para «tiene que». Truco: «tem» suena «téin».",
+      "palabras": [
+        { "t": "tem", "es": "hay / tiene", "pron": "téin", "ej": "Tem um café aqui perto.", "ejes": "Hay un café aquí cerca.", "cog": false, "truco": "Tem = hay (coloquial) o tiene." },
+        { "t": "não tem", "es": "no hay", "pron": "náun téin", "ej": "Aqui não tem açúcar.", "ejes": "Aquí no hay azúcar.", "cog": false },
+        { "t": "teve", "es": "hubo", "pron": "tévi", "ej": "Ontem teve uma festa.", "ejes": "Ayer hubo una fiesta.", "cog": false },
+        { "t": "tem que", "es": "tiene que", "pron": "téin ke", "ej": "A gente tem que sair.", "ejes": "Tenemos que salir.", "cog": false },
+        { "t": "tenho que", "es": "tengo que", "pron": "téñu ke", "ej": "Eu tenho que trabalhar.", "ejes": "Tengo que trabajar.", "cog": false, "truco": "«nh» suena «ñ»: téñu." },
+        { "t": "tive que", "es": "tuve que", "pron": "tchívi ke", "ej": "Eu tive que trabalhar ontem.", "ejes": "Tuve que trabajar ayer.", "cog": false },
+        { "t": "alguém", "es": "alguien", "pron": "algéin", "ej": "Tem alguém em casa?", "ejes": "¿Hay alguien en casa?", "cog": false },
+        { "t": "perto", "es": "cerca", "pron": "pértu", "ej": "Tem um banco perto daqui.", "ejes": "Hay un banco cerca de aquí.", "cog": false },
+        { "t": "açúcar", "es": "azúcar", "pron": "asúkar", "ej": "Não tem açúcar.", "ejes": "No hay azúcar.", "cog": false, "truco": "La «ç» suena «s»." }
+      ],
+      "frases": [
+        { "t": "Tem um banco perto daqui.", "es": "Hay un banco cerca de aquí.", "pron": "téin ún bánku pértu dakí" },
+        { "t": "Aqui não tem açúcar.", "es": "Aquí no hay azúcar.", "pron": "akí náun téin asúkar" },
+        { "t": "Ontem teve uma festa na rua.", "es": "Ayer hubo una fiesta en la calle.", "pron": "ónteín tévi úma fésta na rrúa" },
+        { "t": "Eu tenho que trabalhar amanhã.", "es": "Tengo que trabajar mañana.", "pron": "éu téñu ke trabalyár amañán" },
+        { "t": "Eu tive que ficar em casa.", "es": "Tuve que quedarme en casa.", "pron": "éu tchívi ke fikár ein kása" }
+      ],
+      "dialogo": {
+        "titulo": "¿Hay café por aquí?",
+        "lineas": [
+          { "q": "A", "t": "Tem um café aqui perto?", "es": "¿Hay un café aquí cerca?" },
+          { "q": "B", "t": "Tem sim, na esquina. Mas hoje não tem açúcar.", "es": "Sí, en la esquina. Pero hoy no hay azúcar." },
+          { "q": "A", "t": "Eu tenho que ir à reunião.", "es": "Tengo que ir a la reunión." },
+          { "q": "B", "t": "Ontem teve uma reunião também?", "es": "¿Ayer también hubo una reunión?" },
+          { "q": "A", "t": "Sim, e eu tive que trabalhar até tarde.", "es": "Sí, y tuve que trabajar hasta tarde." }
+        ]
+      },
+      "nota": "«Tem» sin sujeto = «hay». Con sujeto = «tiene» (Ela tem dois filhos). «Há» también existe pero es más formal. Pronunciación: «tem» y «tenho» tienen nasales distintas: téin y téñu."
+    },
+    {
+      "id": "pt-a2-u3-l4",
+      "n": 4,
+      "titulo": "«A gente»: decir nosotros",
+      "objetivo": "Usar «a gente» como «nosotros» en la conversación diaria.",
+      "intro": "En Brasil casi todos dicen «a gente» en vez de «nós» al hablar. La regla: «a gente» va con el verbo en tercera persona. Truco: piensa que «a gente» es «la gente», pero significa «nosotros».",
+      "palabras": [
+        { "t": "a gente", "es": "nosotros (coloquial)", "pron": "a yénchi", "ej": "A gente foi à praia.", "ejes": "Fuimos a la playa.", "cog": false, "truco": "Verbo en 3.ª persona: a gente foi, a gente tem." },
+        { "t": "nós", "es": "nosotros", "pron": "nós", "ej": "Nós fomos juntos.", "ejes": "Fuimos juntos.", "cog": false },
+        { "t": "junto", "es": "junto", "pron": "yúntu", "ej": "Eu moro junto com minha mãe.", "ejes": "Vivo junto con mi mamá.", "cog": true },
+        { "t": "juntos", "es": "juntos", "pron": "yúntus", "ej": "A gente jantou juntos.", "ejes": "Cenamos juntos.", "cog": true },
+        { "t": "todo mundo", "es": "todo el mundo / todos", "pron": "tódu múndu", "ej": "Todo mundo foi à festa.", "ejes": "Todos fueron a la fiesta.", "cog": false },
+        { "t": "cada", "es": "cada", "pron": "káda", "ej": "Cada um comeu um bolo.", "ejes": "Cada uno comió un pastel.", "cog": true },
+        { "t": "com a gente", "es": "con nosotros", "pron": "kon a yénchi", "ej": "Vem com a gente!", "ejes": "¡Ven con nosotros!", "cog": false },
+        { "t": "vem", "es": "viene / ven", "pron": "véin", "ej": "Ela vem com a gente.", "ejes": "Ella viene con nosotros.", "cog": false },
+        { "t": "decidimos", "es": "decidimos", "pron": "desidyímus", "ej": "Nós decidimos ficar.", "ejes": "Decidimos quedarnos.", "cog": true }
+      ],
+      "frases": [
+        { "t": "A gente foi à praia no domingo.", "es": "Fuimos a la playa el domingo.", "pron": "a yénchi fói a práya nu domíngu" },
+        { "t": "A gente tem que sair cedo.", "es": "Tenemos que salir temprano.", "pron": "a yénchi téin ke saír sédu" },
+        { "t": "Vem com a gente!", "es": "¡Ven con nosotros!", "pron": "véin kon a yénchi" },
+        { "t": "Todo mundo comeu bolo.", "es": "Todos comieron pastel.", "pron": "tódu múndu koméu bólu" },
+        { "t": "A gente não viu ninguém.", "es": "No vimos a nadie.", "pron": "a yénchi náun ví ningéin" }
+      ],
+      "dialogo": {
+        "titulo": "Planes entre amigos",
+        "lineas": [
+          { "q": "A", "t": "O que a gente fez no sábado?", "es": "¿Qué hicimos el sábado?" },
+          { "q": "B", "t": "A gente foi à praia e jantou junto.", "es": "Fuimos a la playa y cenamos juntos." },
+          { "q": "A", "t": "Todo mundo foi?", "es": "¿Fueron todos?" },
+          { "q": "B", "t": "Não, o Pedro não foi. Ele teve que trabalhar.", "es": "No, Pedro no fue. Tuvo que trabajar." },
+          { "q": "A", "t": "Então, vem com a gente no domingo!", "es": "¡Entonces ven con nosotros el domingo!" }
+        ]
+      },
+      "nota": "«A gente» es informal y se oye en todo Brasil; «nós» es más formal. En la lección 1 aprendiste «tem que»; aquí el verbo concuerda con «a gente»: a gente tem. Evita en la escritura formal."
+    },
+    {
+      "id": "pt-a2-u3-l5",
+      "n": 5,
+      "titulo": "Repaso: una conversación",
+      "objetivo": "Preguntar, responder y negar en pasado en una charla natural.",
+      "intro": "Junta todo: pregunta con las palabras interrogativas, niega con «não» y usa «tem» y «a gente». Truco: responde primero «Sim» o «Não» y después da el detalle.",
+      "palabras": [
+        { "t": "sim", "es": "sí", "pron": "sín", "ej": "Sim, eu fui.", "ejes": "Sí, fui.", "cog": true },
+        { "t": "ainda", "es": "todavía / aún", "pron": "aínda", "ej": "Eu ainda estou em casa.", "ejes": "Todavía estoy en casa.", "cog": false },
+        { "t": "já", "es": "ya", "pron": "yá", "ej": "Eu já jantei.", "ejes": "Ya cené.", "cog": false },
+        { "t": "hoje", "es": "hoy", "pron": "óyi", "ej": "Hoje eu não fui trabalhar.", "ejes": "Hoy no fui a trabajar.", "cog": false },
+        { "t": "ontem à noite", "es": "ayer en la noche", "pron": "ónteín a nóiti", "ej": "Eu saí ontem à noite.", "ejes": "Salí ayer en la noche.", "cog": false },
+        { "t": "demorou", "es": "tardó", "pron": "demoróu", "ej": "A viagem demorou duas horas.", "ejes": "El viaje tardó dos horas.", "cog": false },
+        { "t": "gostou", "es": "gustó / te gustó", "pron": "gostóu", "ej": "Você gostou do filme?", "ejes": "¿Te gustó la película?", "cog": false },
+        { "t": "foi ótimo", "es": "estuvo genial", "pron": "fói ótimu", "ej": "O jantar foi ótimo.", "ejes": "La cena estuvo genial.", "cog": false },
+        { "t": "que pena", "es": "qué pena", "pron": "ke péna", "ej": "Que pena, eu não fui.", "ejes": "Qué pena, no fui.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Você gostou do filme?", "es": "¿Te gustó la película?", "pron": "vosé gostóu du fíumi" },
+        { "t": "Não, eu não gostei muito.", "es": "No, no me gustó mucho.", "pron": "náun éu náun gostéi múintu" },
+        { "t": "Quanto tempo demorou a viagem?", "es": "¿Cuánto tardó el viaje?", "pron": "kuántu témpu demoróu a viáyein" },
+        { "t": "A gente saiu ontem à noite e foi ótimo.", "es": "Salimos ayer en la noche y estuvo genial.", "pron": "a yénchi saíu ónteín a nóiti i fói ótimu" },
+        { "t": "Eu ainda não jantei hoje.", "es": "Todavía no he cenado hoy.", "pron": "éu aínda náun yantéi óyi" }
+      ],
+      "dialogo": {
+        "titulo": "¿Qué tal el viaje?",
+        "lineas": [
+          { "q": "A", "t": "Onde você foi no fim de semana?", "es": "¿Adónde fuiste el fin de semana?" },
+          { "q": "B", "t": "A gente foi para a praia. Foi ótimo!", "es": "Fuimos a la playa. ¡Estuvo genial!" },
+          { "q": "A", "t": "Quanto tempo demorou a viagem?", "es": "¿Cuánto tardó el viaje?" },
+          { "q": "B", "t": "Duas horas. Tem um ônibus bom.", "es": "Dos horas. Hay un ómnibus bueno." },
+          { "q": "A", "t": "Eu não fui. Eu tive que trabalhar. Que pena!", "es": "Yo no fui. Tuve que trabajar. ¡Qué pena!" }
+        ]
+      },
+      "nota": "«Gostou» es la forma de él/ella/você; para «yo» es «gostei». Con el pasado, «já» (ya) y «ainda não» (todavía no) dan matices importantes. Recuerda: «ontem à noite» = ayer en la noche."
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "id": "pt-a2-u12",
+  "idioma": "pt",
+  "nivel": "A2",
+  "n": 12,
+  "titulo": "Reglas y consejos",
+  "resumen": "Aprenderás a hablar de permisos, obligaciones y consejos con «pode», «tem que», «precisa» y «deve», a dar órdenes simples y a repasar todo el nivel A2.",
+  "puedo": [
+    "Decir qué se puede y qué no se puede hacer.",
+    "Hablar de obligaciones con «tem que» y «precisa».",
+    "Dar un consejo con «deve» y «é melhor».",
+    "Dar órdenes educadas con el imperativo.",
+    "Repasar todo lo que aprendí en el nivel A2."
+  ],
+  "gramatica": {
+    "titulo": "Permiso, obligación y consejo: pode, tem que, precisa, deve",
+    "texto": "Para hablar de reglas usas pocos verbos seguidos de un infinitivo. «Pode / não pode + infinitivo» = permiso o prohibición: Aqui pode fumar / Aqui não pode fumar. «Tem que / precisa + infinitivo» = obligación: Você tem que esperar (Tienes que esperar), Você precisa ir (Necesitas ir). «Deve + infinitivo» = consejo o deber: Você deve descansar (Debes descansar).\nPara dar una orden amable usa el imperativo con «você»: -ar pasa a -e (falar, fale), -er/-ir pasan a -a (beber, beba; abrir, abra). Ejemplos: Espere aqui. Entre, por favor.\nLa negación usa «não»: Não toque! No es necesario añadir otra palabra.",
+    "tabla": [
+      ["Aqui pode estacionar.", "Aquí se puede estacionar.", "akí pódi estasionár"],
+      ["Aqui não pode fumar.", "Aquí no se puede fumar.", "akí náun pódi fumár"],
+      ["Você tem que esperar.", "Tienes que esperar.", "vosé téin ki esperár"],
+      ["Você precisa ir.", "Necesitas ir.", "vosé presísa ír"],
+      ["Você deve descansar.", "Debes descansar.", "vosé dévi deskansár"],
+      ["Espere aqui, por favor.", "Espere aquí, por favor.", "espéri akí, por favór"]
+    ],
+    "errores": [
+      "No pongas «de» después de «tem que» ni «deve»: se dice «tem que esperar», no «tem que de esperar».",
+      "«Precisa» + infinitivo es «necesitas hacer»; para un objeto usa «precisa de»: «Eu preciso de um remédio».",
+      "«Não pode» es una prohibición. Si quieres preguntar si es posible, usa «Posso...?»: «Posso entrar?»."
+    ]
+  },
+  "practica": [
+    "Mira a tu alrededor y escribe 6 reglas de tu casa o trabajo con «pode / não pode / tem que» (6 minutos).",
+    "Dale 5 consejos en voz alta a un amigo imaginario con «Você deve...» y «É melhor...» (4 minutos).",
+    "Lee en voz alta 8 órdenes del imperativo: fale, beba, abra, espere, entre, olhe, siga, pegue (3 minutos).",
+    "Busca en YouTube «regras de segurança em português» y escribe 5 reglas que entiendas (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-a2-u12-l1",
+      "n": 1,
+      "titulo": "Permisos y prohibiciones",
+      "objetivo": "Decir qué se puede y qué no se puede hacer.",
+      "intro": "En letreros y avisos verás «é proibido» y «pode / não pode». Truco: «Posso...?» sirve para pedir permiso y «Pode» para darlo: Posso entrar? Pode!",
+      "palabras": [
+        { "t": "pode", "es": "se puede / puede", "pron": "pódi", "ej": "Aqui pode estacionar.", "ejes": "Aquí se puede estacionar.", "cog": false },
+        { "t": "posso", "es": "puedo", "pron": "pósu", "ej": "Posso entrar?", "ejes": "¿Puedo entrar?", "cog": false },
+        { "t": "proibido", "es": "prohibido", "pron": "proibídu", "ej": "É proibido fumar aqui.", "ejes": "Está prohibido fumar aquí.", "cog": true },
+        { "t": "permitido", "es": "permitido", "pron": "permitídu", "ej": "É permitido tirar fotos.", "ejes": "Se permite tomar fotos.", "cog": true },
+        { "t": "fumar", "es": "fumar", "pron": "fumár", "ej": "Aqui não pode fumar.", "ejes": "Aquí no se puede fumar.", "cog": true },
+        { "t": "estacionar", "es": "estacionar", "pron": "estasionár", "ej": "Pode estacionar na rua?", "ejes": "¿Se puede estacionar en la calle?", "cog": true },
+        { "t": "tirar fotos", "es": "tomar fotos", "pron": "tirár fótus", "ej": "Aqui não pode tirar fotos.", "ejes": "Aquí no se pueden tomar fotos.", "cog": false },
+        { "t": "entrar", "es": "entrar", "pron": "entrár", "ej": "Posso entrar?", "ejes": "¿Puedo entrar?", "cog": true },
+        { "t": "sair", "es": "salir", "pron": "saír", "ej": "Você pode sair agora.", "ejes": "Puedes salir ahora.", "cog": false },
+        { "t": "entrada", "es": "entrada / ingreso", "pron": "entráda", "ej": "A entrada é gratuita.", "ejes": "La entrada es gratuita.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Aqui pode estacionar.", "es": "Aquí se puede estacionar.", "pron": "akí pódi estasionár" },
+        { "t": "Aqui não pode fumar.", "es": "Aquí no se puede fumar.", "pron": "akí náun pódi fumár" },
+        { "t": "É proibido tirar fotos.", "es": "Está prohibido tomar fotos.", "pron": "é proibídu tirár fótus" },
+        { "t": "Posso entrar?", "es": "¿Puedo entrar?", "pron": "pósu entrár" },
+        { "t": "Você pode sair agora.", "es": "Puedes salir ahora.", "pron": "vosé pódi saír agóra" }
+      ],
+      "dialogo": {
+        "titulo": "No museu",
+        "lineas": [
+          { "q": "A", "t": "Com licença, posso tirar fotos aqui?", "es": "Con permiso, ¿puedo tomar fotos aquí?" },
+          { "q": "B", "t": "Não, aqui é proibido tirar fotos.", "es": "No, aquí está prohibido tomar fotos." },
+          { "q": "A", "t": "E na entrada, pode?", "es": "¿Y en la entrada, se puede?" },
+          { "q": "B", "t": "Na entrada pode, sim.", "es": "En la entrada sí se puede." },
+          { "q": "A", "t": "Obrigado! Posso entrar agora?", "es": "¡Gracias! ¿Puedo entrar ahora?" }
+        ]
+      },
+      "nota": "«Pode» sirve para «puedes», «puede» y «se puede», según el contexto. Para pedir permiso se dice «Posso...?» (¿Puedo...?). Los letreros usan «É proibido...» o «Proibido...»."
+    },
+    {
+      "id": "pt-a2-u12-l2",
+      "n": 2,
+      "titulo": "Obligaciones",
+      "objetivo": "Hablar de lo que tienes que hacer con «tem que» y «precisa».",
+      "intro": "Para decir que es necesario hacer algo usa «tem que» + infinitivo o «precisa» + infinitivo: tem que esperar, precisa ir. Truco: los dos significan casi lo mismo en la vida diaria.",
+      "palabras": [
+        { "t": "tem que", "es": "tiene que / hay que", "pron": "téin ki", "ej": "Você tem que esperar.", "ejes": "Tienes que esperar.", "cog": false },
+        { "t": "preciso", "es": "necesito", "pron": "presísu", "ej": "Eu preciso trabalhar.", "ejes": "Necesito trabajar.", "cog": false },
+        { "t": "precisa", "es": "necesita / necesitas", "pron": "presísa", "ej": "Você precisa estudar mais.", "ejes": "Necesitas estudiar más.", "cog": false },
+        { "t": "obrigatório", "es": "obligatorio", "pron": "obrigatóryu", "ej": "O cinto é obrigatório.", "ejes": "El cinturón es obligatorio.", "cog": true },
+        { "t": "cinto", "es": "cinturón (de seguridad)", "pron": "síntu", "ej": "Use o cinto de segurança.", "ejes": "Use el cinturón de seguridad.", "cog": false },
+        { "t": "fila", "es": "cola / fila", "pron": "fíla", "ej": "Você tem que ficar na fila.", "ejes": "Tienes que hacer cola.", "cog": false },
+        { "t": "documento", "es": "documento", "pron": "dokuméntu", "ej": "Tenho que mostrar o documento.", "ejes": "Tengo que mostrar el documento.", "cog": true },
+        { "t": "passaporte", "es": "pasaporte", "pron": "pasapórchi", "ej": "Preciso do passaporte.", "ejes": "Necesito el pasaporte.", "cog": true },
+        { "t": "esperar", "es": "esperar", "pron": "esperár", "ej": "Você tem que esperar aqui.", "ejes": "Tienes que esperar aquí.", "cog": true },
+        { "t": "chegar", "es": "llegar", "pron": "shegár", "ej": "Eu tenho que chegar cedo.", "ejes": "Tengo que llegar temprano.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Você tem que esperar na fila.", "es": "Tienes que hacer cola.", "pron": "vosé téin ki esperár na fíla" },
+        { "t": "Eu preciso trabalhar hoje.", "es": "Necesito trabajar hoy.", "pron": "éu presísu trabalyár óji" },
+        { "t": "O cinto de segurança é obrigatório.", "es": "El cinturón de seguridad es obligatorio.", "pron": "u síntu dyi seguránsa é obrigatóryu" },
+        { "t": "Eu tenho que mostrar o passaporte.", "es": "Tengo que mostrar el pasaporte.", "pron": "éu téñu ki mostrár u pasapórchi" },
+        { "t": "Você precisa chegar cedo.", "es": "Necesitas llegar temprano.", "pron": "vosé presísa shegár sédu" },
+        { "t": "Eu tenho que sair agora.", "es": "Tengo que salir ahora.", "pron": "éu téñu ki saír agóra" }
+      ],
+      "dialogo": {
+        "titulo": "No aeroporto",
+        "lineas": [
+          { "q": "A", "t": "Boa tarde! Eu tenho que mostrar o passaporte?", "es": "¡Buenas tardes! ¿Tengo que mostrar el pasaporte?" },
+          { "q": "B", "t": "Sim, é obrigatório. E você precisa esperar na fila.", "es": "Sí, es obligatorio. Y necesita esperar en la fila." },
+          { "q": "A", "t": "Eu preciso chegar cedo ao portão?", "es": "¿Necesito llegar temprano a la puerta?" },
+          { "q": "B", "t": "Sim, uma hora antes.", "es": "Sí, una hora antes." },
+          { "q": "A", "t": "Obrigado!", "es": "¡Gracias!" }
+        ]
+      },
+      "nota": "Con «tem que» el verbo cambia según la persona: eu tenho que, você tem que, nós temos que. Con «precisa» pasa lo mismo: eu preciso, você precisa. Y para un objeto: «preciso de um remédio», con «de»."
+    },
+    {
+      "id": "pt-a2-u12-l3",
+      "n": 3,
+      "titulo": "Consejos",
+      "objetivo": "Dar consejos con «deve», «não deve» y «é melhor».",
+      "intro": "Para aconsejar usa «deve» (debes) o «é melhor» (es mejor) seguido de un infinitivo. Truco: «deveria» (U7) es más suave que «deve»: deve = debes, deveria = deberías.",
+      "palabras": [
+        { "t": "deve", "es": "debe / debes", "pron": "dévi", "ej": "Você deve descansar.", "ejes": "Debes descansar.", "cog": true },
+        { "t": "não deve", "es": "no debe / no debes", "pron": "náun dévi", "ej": "Você não deve fumar.", "ejes": "No debes fumar.", "cog": true },
+        { "t": "é melhor", "es": "es mejor", "pron": "é melyór", "ej": "É melhor chegar cedo.", "ejes": "Es mejor llegar temprano.", "cog": true },
+        { "t": "ideal", "es": "ideal", "pron": "ideáu", "ej": "O ideal é dormir oito horas.", "ejes": "Lo ideal es dormir ocho horas.", "cog": true },
+        { "t": "saudável", "es": "saludable", "pron": "saudáveu", "ej": "Uma dieta saudável é importante.", "ejes": "Una dieta saludable es importante.", "cog": true },
+        { "t": "exercício", "es": "ejercicio", "pron": "ezersísyiu", "ej": "Faça exercício todos os dias.", "ejes": "Haga ejercicio todos los días.", "cog": true },
+        { "t": "fazer", "es": "hacer", "pron": "fazér", "ej": "Você deve fazer exercício.", "ejes": "Debes hacer ejercicio.", "cog": false },
+        { "t": "devagar", "es": "despacio", "pron": "devagár", "ej": "É melhor dirigir devagar.", "ejes": "Es mejor manejar despacio.", "cog": false },
+        { "t": "cuidado", "es": "cuidado", "pron": "kuidádu", "ej": "Tenha cuidado na rua.", "ejes": "Ten cuidado en la calle.", "cog": true },
+        { "t": "perigoso", "es": "peligroso", "pron": "perigózu", "ej": "É perigoso atravessar aqui.", "ejes": "Es peligroso cruzar aquí.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Você deve descansar mais.", "es": "Debes descansar más.", "pron": "vosé dévi deskansár máis" },
+        { "t": "Você não deve fumar.", "es": "No debes fumar.", "pron": "vosé náun dévi fumár" },
+        { "t": "É melhor dirigir devagar.", "es": "Es mejor manejar despacio.", "pron": "é melyór dyirijír devagár" },
+        { "t": "Você deve fazer exercício todos os dias.", "es": "Debes hacer ejercicio todos los días.", "pron": "vosé dévi fazér ezersísyiu tódus us días" },
+        { "t": "É perigoso atravessar aqui.", "es": "Es peligroso cruzar aquí.", "pron": "é perigózu atraversár akí" }
+      ],
+      "dialogo": {
+        "titulo": "Conselhos para um amigo",
+        "lineas": [
+          { "q": "A", "t": "Estou muito cansado ultimamente.", "es": "Estoy muy cansado últimamente." },
+          { "q": "B", "t": "Você deve dormir mais e comer melhor.", "es": "Debes dormir más y comer mejor." },
+          { "q": "A", "t": "E exercício? Eu não faço nada.", "es": "¿Y ejercicio? No hago nada." },
+          { "q": "B", "t": "É melhor fazer exercício todos os dias.", "es": "Es mejor hacer ejercicio todos los días." },
+          { "q": "A", "t": "Você tem razão. Vou começar amanhã!", "es": "Tienes razón. ¡Voy a empezar mañana!" }
+        ]
+      },
+      "nota": "«Deve» (debes) es más directo que «deveria» (deberías) de la U7. «Dirigir» es manejar y «atravessar» es cruzar una calle. «Tem razão» significa «tiene razón»."
+    },
+    {
+      "id": "pt-a2-u12-l4",
+      "n": 4,
+      "titulo": "Órdenes con el imperativo",
+      "objetivo": "Dar y entender órdenes simples con el imperativo.",
+      "intro": "El imperativo sirve para instrucciones: «Espere aqui», «Siga em frente». Truco: con «você», -ar pasa a -e (falar, fale) y -er/-ir pasan a -a (beber, beba; abrir, abra). Con «por favor» suena amable.",
+      "palabras": [
+        { "t": "espere", "es": "espere", "pron": "espéri", "ej": "Espere aqui, por favor.", "ejes": "Espere aquí, por favor.", "cog": false },
+        { "t": "entre", "es": "entre", "pron": "éntri", "ej": "Entre, por favor.", "ejes": "Entre, por favor.", "cog": false },
+        { "t": "olhe", "es": "mire", "pron": "ólyi", "ej": "Olhe para a esquerda.", "ejes": "Mire a la izquierda.", "cog": false },
+        { "t": "siga", "es": "siga", "pron": "síga", "ej": "Siga em frente.", "ejes": "Siga derecho.", "cog": false },
+        { "t": "pegue", "es": "tome / agarre", "pron": "pégi", "ej": "Pegue a segunda rua.", "ejes": "Tome la segunda calle.", "cog": false },
+        { "t": "abra", "es": "abra", "pron": "ábra", "ej": "Abra a porta, por favor.", "ejes": "Abra la puerta, por favor.", "cog": true },
+        { "t": "feche", "es": "cierre", "pron": "féshi", "ej": "Feche a janela.", "ejes": "Cierre la ventana.", "cog": false },
+        { "t": "não toque", "es": "no toque", "pron": "náun tóki", "ej": "Não toque nisso!", "ejes": "¡No toque eso!", "cog": false },
+        { "t": "preste atenção", "es": "preste atención", "pron": "présti atensáun", "ej": "Preste atenção, por favor.", "ejes": "Preste atención, por favor.", "cog": true },
+        { "t": "fale", "es": "hable", "pron": "fáli", "ej": "Fale devagar, por favor.", "ejes": "Hable despacio, por favor.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Espere aqui, por favor.", "es": "Espere aquí, por favor.", "pron": "espéri akí, por favór" },
+        { "t": "Siga em frente e vire à direita.", "es": "Siga derecho y gire a la derecha.", "pron": "síga ein frénchi i víri à dyiréita" },
+        { "t": "Abra a porta, por favor.", "es": "Abra la puerta, por favor.", "pron": "ábra a pórta, por favór" },
+        { "t": "Não toque nisso!", "es": "¡No toque eso!", "pron": "náun tóki nísu" },
+        { "t": "Fale mais devagar, por favor.", "es": "Hable más despacio, por favor.", "pron": "fáli máis devagár, por favór" },
+        { "t": "Preste atenção, por favor.", "es": "Preste atención, por favor.", "pron": "présti atensáun, por favór" }
+      ],
+      "dialogo": {
+        "titulo": "Como chegar",
+        "lineas": [
+          { "q": "A", "t": "Com licença, como chego à estação?", "es": "Con permiso, ¿cómo llego a la estación?" },
+          { "q": "B", "t": "Siga em frente e pegue a segunda rua.", "es": "Siga derecho y tome la segunda calle." },
+          { "q": "A", "t": "Fale mais devagar, por favor.", "es": "Hable más despacio, por favor." },
+          { "q": "B", "t": "Siga em frente. Pegue a segunda rua à direita.", "es": "Siga derecho. Tome la segunda calle a la derecha." },
+          { "q": "A", "t": "Entendi. Obrigado!", "es": "Entendí. ¡Gracias!" }
+        ]
+      },
+      "nota": "El imperativo con «você» es la forma educada y la más usada en Brasil. Para pedirle algo amablemente, agrega siempre «por favor». «Não toque» es una prohibición: basta con «não» antes del verbo."
+    },
+    {
+      "id": "pt-a2-u12-l5",
+      "n": 5,
+      "titulo": "Repaso general del nivel A2",
+      "objetivo": "Repasar todo el nivel A2: pasado, comparativos, salud, trabajo, futuro y reglas.",
+      "intro": "En esta lección usas todo el nivel: pasado, comparativos, ir + infinitivo, gerúndio, ya/nunca y reglas. Truco: lee cada frase en voz alta, imagina la situación y fíjate cómo se combinan.",
+      "palabras": [
+        { "t": "ontem", "es": "ayer", "pron": "ónten", "ej": "Ontem eu fui ao médico.", "ejes": "Ayer fui al médico.", "cog": false },
+        { "t": "mais que", "es": "más que", "pron": "máis ki", "ej": "Ele é mais que um amigo.", "ejes": "Él es más que un amigo.", "cog": false },
+        { "t": "estou", "es": "estoy", "pron": "estóu", "ej": "Estou estudando agora.", "ejes": "Estoy estudiando ahora.", "cog": false },
+        { "t": "já", "es": "ya", "pron": "ja", "ej": "Eu já fui ao Brasil.", "ejes": "Ya fui a Brasil.", "cog": false },
+        { "t": "nunca", "es": "nunca", "pron": "núnka", "ej": "Eu nunca comi sushi.", "ejes": "Nunca he comido sushi.", "cog": true },
+        { "t": "vou", "es": "voy", "pron": "vou", "ej": "Eu vou viajar amanhã.", "ejes": "Voy a viajar mañana.", "cog": false },
+        { "t": "deve", "es": "debes", "pron": "dévi", "ej": "Você deve descansar.", "ejes": "Debes descansar.", "cog": true },
+        { "t": "regra", "es": "regla", "pron": "rrégra", "ej": "Essa regra é importante.", "ejes": "Esa regla es importante.", "cog": true },
+        { "t": "conselho", "es": "consejo", "pron": "konsélyu", "ej": "Eu vou dar um conselho.", "ejes": "Voy a dar un consejo.", "cog": false },
+        { "t": "aprendi", "es": "aprendí", "pron": "aprendí", "ej": "Eu aprendi muito português.", "ejes": "Aprendí mucho portugués.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Ontem eu fui ao médico e ele disse que preciso descansar.", "es": "Ayer fui al médico y me dijo que necesito descansar.", "pron": "ónten éu fúi au médiku i éli dísi ki presísu deskansár" },
+        { "t": "O português é mais fácil que o inglês, eu acho.", "es": "El portugués es más fácil que el inglés, creo.", "pron": "u portuguéis é máis fásiu ki u inglés, éu áshu" },
+        { "t": "Eu já fui ao Brasil e nunca comi sushi.", "es": "Ya fui a Brasil y nunca he comido sushi.", "pron": "éu ja fúi au brasíu i núnka komí súshi" },
+        { "t": "Estou estudando e amanhã vou trabalhar.", "es": "Estoy estudiando y mañana voy a trabajar.", "pron": "estóu estudándu i amañán vou trabalyár" },
+        { "t": "Aqui não pode fumar, você tem que sair.", "es": "Aquí no se puede fumar, tienes que salir.", "pron": "akí náun pódi fumár, vosé téin ki saír" },
+        { "t": "Eu aprendi muito, e vou continuar estudando.", "es": "Aprendí mucho y voy a seguir estudiando.", "pron": "éu aprendí múintu, i vou kontinuár estudándu" }
+      ],
+      "dialogo": {
+        "titulo": "Fim do nível A2",
+        "lineas": [
+          { "q": "A", "t": "Você já terminou o nível A2?", "es": "¿Ya terminaste el nivel A2?" },
+          { "q": "B", "t": "Quase! Ontem fiz a última prova.", "es": "¡Casi! Ayer hice el último examen." },
+          { "q": "A", "t": "Você deve estar muito feliz!", "es": "¡Debes estar muy feliz!" },
+          { "q": "B", "t": "Estou. Vou viajar ao Brasil no ano que vem.", "es": "Lo estoy. Voy a viajar a Brasil el año que viene." },
+          { "q": "A", "t": "Que ótimo! Você tem que praticar todos os dias.", "es": "¡Qué genial! Tienes que practicar todos los días." },
+          { "q": "B", "t": "Eu prometo! Obrigado pelo conselho!", "es": "¡Lo prometo! ¡Gracias por el consejo!" }
+        ]
+      },
+      "nota": "¡Felicidades! Terminaste el nivel A2. Ya puedes hablar del pasado, comparar, hablar de salud, de comida y de trabajo, contar experiencias, hacer planes y dar reglas y consejos. El siguiente paso es B1: más frases largas y conversaciones más libres."
+    }
+  ]
+}

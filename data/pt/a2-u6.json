@@ -1,0 +1,224 @@
+{
+  "id": "pt-a2-u6",
+  "idioma": "pt",
+  "nivel": "A2",
+  "n": 6,
+  "titulo": "Viajes y transporte",
+  "resumen": "Aprenderás el vocabulario de transporte, aeropuerto y rodoviária (terminal de buses), y a hablar de tus planes de viaje con «ir + infinitivo».",
+  "puedo": [
+    "Nombrar medios de transporte y decir cómo me desplazo.",
+    "Moverme en un aeropuerto: pasaje, pasaporte, maleta y puerta de embarque.",
+    "Comprar un pasaje de ómnibus en la rodoviária.",
+    "Hablar de mis planes con «vou viajar», «vamos reservar».",
+    "Contar un viaje futuro con amanhã, semana que vem y nas férias."
+  ],
+  "gramatica": {
+    "titulo": "El futuro con «ir + infinitivo»",
+    "texto": "En portugués hablado se forma el futuro con el verbo ir en presente y el infinitivo del otro verbo: «Eu vou viajar» (Voy a viajar). Es igual que «voy a + infinitivo» en español.\nPresente de ir: eu vou, você/ele/ela vai, nós vamos (o a gente vai), eles vão. Después va el verbo en infinitivo (viajar, comprar, reservar).\nSe usa con expresiones de futuro: amanhã (mañana), semana que vem (la semana próxima), mês que vem (el mes próximo), nas férias (en las vacaciones).\nPara negar pon «não» antes de «vou/vai»: «Eu não vou viajar». Para preguntar basta subir la voz: «Você vai viajar?».",
+    "tabla": [
+      ["eu vou viajar", "voy a viajar", "éu vóu viayár"],
+      ["você vai comprar", "vas a comprar", "vosé vái komprár"],
+      ["ele vai reservar", "él va a reservar", "éli vái rrezervár"],
+      ["nós vamos chegar", "vamos a llegar", "nós vámus shegár"],
+      ["eles vão sair", "ellos van a salir", "élis váun saír"],
+      ["Eu não vou viajar.", "No voy a viajar.", "éu náun vóu viayár"],
+      ["Você vai viajar amanhã?", "¿Vas a viajar mañana?", "vosé vái viayár amañán"]
+    ],
+    "errores": [
+      "No uses «a» como en español: se dice «vou viajar», no «vou a viajar».",
+      "«Vai» (él va) y «vamos» (vamos) se parecen a ir en el pasado: no los confundas con «foi» (fue) y «fomos» (fuimos).",
+      "«Vão» es nasal: váun. No lo pronuncies como «van» sin la «u» final."
+    ]
+  },
+  "practica": [
+    "Escribe un plan de viaje de 6 frases con «vou + infinitivo»: «Amanhã eu vou comprar a passagem...» (7 minutos).",
+    "Mira el video de una persona que llega a un aeropuerto en Brasil y anota 8 palabras del aeropuerto (8 minutos).",
+    "Simula en voz alta una compra de pasaje en la rodoviária: «Uma passagem para São Paulo, por favor» (5 minutos).",
+    "Pregunta a alguien (o a ti mismo) tres planes con «O que você vai fazer...?» y respóndelo en portugués (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-a2-u6-l1",
+      "n": 1,
+      "titulo": "Medios de transporte",
+      "objetivo": "Nombrar los medios de transporte y decir cómo viajo.",
+      "intro": "Para decir cómo viajas usa «de» + medio de transporte: «Eu vou de ônibus». Truco: en Brasil «ônibus» es el autobús, y «trem» es el tren (cuidado con la pronunciación nasal: trein).",
+      "palabras": [
+        { "t": "ônibus", "es": "ómnibus / autobús", "pron": "ónibus", "ej": "Eu vou de ônibus.", "ejes": "Voy en ómnibus.", "cog": false, "truco": "No cambia en plural: um ônibus, dois ônibus." },
+        { "t": "trem", "es": "tren", "pron": "tréin", "ej": "Eu vou de trem.", "ejes": "Voy en tren.", "cog": false, "truco": "«em» nasal: trein." },
+        { "t": "avião", "es": "avión", "pron": "aviáun", "ej": "Eu vou de avião.", "ejes": "Voy en avión.", "cog": true },
+        { "t": "carro", "es": "carro / auto", "pron": "kárru", "ej": "Eu vou de carro.", "ejes": "Voy en carro.", "cog": true },
+        { "t": "metrô", "es": "metro", "pron": "metró", "ej": "Eu vou de metrô.", "ejes": "Voy en metro.", "cog": true },
+        { "t": "táxi", "es": "taxi", "pron": "táksi", "ej": "Eu vou de táxi.", "ejes": "Voy en taxi.", "cog": true },
+        { "t": "barco", "es": "barco", "pron": "bárku", "ej": "Eu vou de barco.", "ejes": "Voy en barco.", "cog": true },
+        { "t": "bicicleta", "es": "bicicleta", "pron": "bisikléta", "ej": "Eu vou de bicicleta.", "ejes": "Voy en bicicleta.", "cog": true },
+        { "t": "a pé", "es": "a pie", "pron": "a pé", "ej": "Eu vou a pé.", "ejes": "Voy a pie.", "cog": false, "truco": "Con «a pé» se omite «de»: vou a pé." }
+      ],
+      "frases": [
+        { "t": "Eu vou de ônibus para o trabalho.", "es": "Voy al trabajo en ómnibus.", "pron": "éu vóu dyi ónibus pára u trabályu" },
+        { "t": "Ela vai de metrô para a escola.", "es": "Ella va en metro a la escuela.", "pron": "éla vái dyi metró pára a eskóla" },
+        { "t": "Nós vamos de trem para São Paulo.", "es": "Vamos en tren a São Paulo.", "pron": "nós vámus dyi tréin pára sáun páulu" },
+        { "t": "O avião é mais rápido do que o ônibus.", "es": "El avión es más rápido que el ómnibus.", "pron": "u aviáun é máis rrápidu du ke u ónibus" },
+        { "t": "Eu vou a pé porque é perto.", "es": "Voy a pie porque queda cerca.", "pron": "éu vóu a pé purké é pértu" }
+      ],
+      "dialogo": {
+        "titulo": "¿Cómo vas al trabajo?",
+        "lineas": [
+          { "q": "A", "t": "Como você vai para o trabalho?", "es": "¿Cómo vas al trabajo?" },
+          { "q": "B", "t": "Eu vou de metrô. E você?", "es": "Voy en metro. ¿Y tú?" },
+          { "q": "A", "t": "Eu vou de ônibus. É mais barato.", "es": "Yo voy en ómnibus. Es más barato." },
+          { "q": "B", "t": "Mas é mais lento do que o metrô.", "es": "Pero es más lento que el metro." },
+          { "q": "A", "t": "É verdade, mas eu gosto de ônibus.", "es": "Es verdad, pero me gusta el ómnibus." }
+        ]
+      },
+      "nota": "Para ir en un medio de transporte usa «de» (de ônibus, de carro). Para «a pie» se dice «a pé». Pronunciación: «ônibus» tiene acento circunflejo: ô-ni-bus, con la «u» final corta."
+    },
+    {
+      "id": "pt-a2-u6-l2",
+      "n": 2,
+      "titulo": "En el aeropuerto",
+      "objetivo": "Entender y usar el vocabulario básico de un aeropuerto.",
+      "intro": "En un aeropuerto brasileño verás carteles como «Embarque» y «Portão». Truco: «mala» es la maleta, y «bagagem» es el equipaje; no confundas «mala» con «malo» (ruim).",
+      "palabras": [
+        { "t": "aeroporto", "es": "aeropuerto", "pron": "aeropórtu", "ej": "Eu estou no aeroporto.", "ejes": "Estoy en el aeropuerto.", "cog": true },
+        { "t": "passagem", "es": "pasaje", "pron": "pasáyein", "ej": "Eu comprei a passagem.", "ejes": "Compré el pasaje.", "cog": false, "truco": "«g» antes de «e» suena «y» fuerte: pasáyein." },
+        { "t": "passaporte", "es": "pasaporte", "pron": "pasapórchi", "ej": "Eu tenho o passaporte.", "ejes": "Tengo el pasaporte.", "cog": true },
+        { "t": "mala", "es": "maleta", "pron": "mála", "ej": "Minha mala é azul.", "ejes": "Mi maleta es azul.", "cog": false },
+        { "t": "bagagem", "es": "equipaje", "pron": "bagáyein", "ej": "Onde fica a bagagem?", "ejes": "¿Dónde queda el equipaje?", "cog": false },
+        { "t": "voo", "es": "vuelo", "pron": "vóu", "ej": "Meu voo sai às oito.", "ejes": "Mi vuelo sale a las ocho.", "cog": false, "truco": "Se escribe con dos «o» y suena «vóu»." },
+        { "t": "portão", "es": "puerta (de embarque)", "pron": "portáun", "ej": "O portão é o número dez.", "ejes": "La puerta es la número diez.", "cog": false },
+        { "t": "embarque", "es": "embarque", "pron": "embárki", "ej": "O embarque é às oito.", "ejes": "El embarque es a las ocho.", "cog": true },
+        { "t": "atrasado", "es": "atrasado / retrasado", "pron": "atrazádu", "ej": "O voo está atrasado.", "ejes": "El vuelo está atrasado.", "cog": false },
+        { "t": "fila", "es": "fila / cola", "pron": "fíla", "ej": "A fila é grande.", "ejes": "La fila es grande.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Eu tenho a passagem e o passaporte.", "es": "Tengo el pasaje y el pasaporte.", "pron": "éu téñu a pasáyein i u pasapórchi" },
+        { "t": "Minha mala é azul e muito grande.", "es": "Mi maleta es azul y muy grande.", "pron": "miña mála é azúu i múintu grándchi" },
+        { "t": "O voo para Lima sai às oito.", "es": "El vuelo a Lima sale a las ocho.", "pron": "u vóu pára líma sái as óitu" },
+        { "t": "O embarque é no portão dez.", "es": "El embarque es en la puerta diez.", "pron": "u embárki é nu portáun dés" },
+        { "t": "O voo está atrasado uma hora.", "es": "El vuelo está atrasado una hora.", "pron": "u vóu está atrazádu úma óra" }
+      ],
+      "dialogo": {
+        "titulo": "En el mostrador",
+        "lineas": [
+          { "q": "A", "t": "Boa tarde! O seu passaporte e a passagem, por favor.", "es": "¡Buenas tardes! Su pasaporte y el pasaje, por favor." },
+          { "q": "B", "t": "Aqui está. Eu tenho uma mala.", "es": "Aquí está. Tengo una maleta." },
+          { "q": "A", "t": "Obrigada. O embarque é no portão dez.", "es": "Gracias. El embarque es en la puerta diez." },
+          { "q": "B", "t": "A que horas sai o voo?", "es": "¿A qué hora sale el vuelo?" },
+          { "q": "A", "t": "Às oito, mas está atrasado meia hora.", "es": "A las ocho, pero está atrasado media hora." }
+        ]
+      },
+      "nota": "Falsos amigos: «mala» es maleta (no «mala» de mala calidad), «passagem» es pasaje (boleto) y «bagagem» es equipaje. Para «aeropuerto» a veces se dice «aeroporto de Guarulhos» (SP) o «Galeão» (RJ)."
+    },
+    {
+      "id": "pt-a2-u6-l3",
+      "n": 3,
+      "titulo": "En la rodoviária",
+      "objetivo": "Comprar un pasaje de ómnibus y entender horarios en la rodoviária.",
+      "intro": "En Brasil la terminal de ómnibus interurbanos se llama «rodoviária». Truco: «guichê» (ventanilla) se pronuncia «gishê», como en francés.",
+      "palabras": [
+        { "t": "rodoviária", "es": "terminal de ómnibus", "pron": "rrodoviária", "ej": "A rodoviária fica no centro.", "ejes": "La terminal queda en el centro.", "cog": false },
+        { "t": "guichê", "es": "ventanilla", "pron": "guishé", "ej": "O guichê fica ali.", "ejes": "La ventanilla queda allí.", "cog": false, "truco": "«ch» suena «sh»: guishé." },
+        { "t": "horário", "es": "horario", "pron": "orárju", "ej": "Qual é o horário do ônibus?", "ejes": "¿Cuál es el horario del ómnibus?", "cog": true },
+        { "t": "saída", "es": "salida", "pron": "saída", "ej": "A saída é às dez.", "ejes": "La salida es a las diez.", "cog": true },
+        { "t": "chegada", "es": "llegada", "pron": "shegáda", "ej": "A chegada é às duas.", "ejes": "La llegada es a las dos.", "cog": true },
+        { "t": "plataforma", "es": "andén / plataforma", "pron": "platafórma", "ej": "A plataforma é a número três.", "ejes": "La plataforma es la número tres.", "cog": true },
+        { "t": "poltrona", "es": "asiento", "pron": "poltróna", "ej": "A poltrona é a número doze.", "ejes": "El asiento es el número doce.", "cog": false, "truco": "En el ómnibus, «poltrona» es tu asiento numerado." },
+        { "t": "ida e volta", "es": "ida y vuelta", "pron": "ída i vólta", "ej": "Uma passagem de ida e volta, por favor.", "ejes": "Un pasaje de ida y vuelta, por favor.", "cog": false },
+        { "t": "só ida", "es": "solo ida", "pron": "só ída", "ej": "Eu quero só ida.", "ejes": "Quiero solo ida.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Uma passagem para Curitiba, por favor.", "es": "Un pasaje a Curitiba, por favor.", "pron": "úma pasáyein pára kuritíba por favór" },
+        { "t": "Qual é o horário da saída?", "es": "¿Cuál es el horario de salida?", "pron": "kuáu é u orárju da saída" },
+        { "t": "A chegada é às cinco da tarde.", "es": "La llegada es a las cinco de la tarde.", "pron": "a shegáda é as sínku da tárdyi" },
+        { "t": "Eu quero só ida, não ida e volta.", "es": "Quiero solo ida, no ida y vuelta.", "pron": "éu kéru só ída náun ída i vólta" },
+        { "t": "A plataforma é a número três.", "es": "La plataforma es la número tres.", "pron": "a platafórma é a númeru trés" }
+      ],
+      "dialogo": {
+        "titulo": "Comprando un pasaje",
+        "lineas": [
+          { "q": "A", "t": "Boa tarde! Eu quero uma passagem para Curitiba.", "es": "¡Buenas tardes! Quiero un pasaje a Curitiba." },
+          { "q": "B", "t": "Ida e volta ou só ida?", "es": "¿Ida y vuelta o solo ida?" },
+          { "q": "A", "t": "Ida e volta. Qual é o horário da saída?", "es": "Ida y vuelta. ¿Cuál es el horario de salida?" },
+          { "q": "B", "t": "Às dez. A plataforma é a número três.", "es": "A las diez. La plataforma es la número tres." },
+          { "q": "A", "t": "E a poltrona?", "es": "¿Y el asiento?" },
+          { "q": "B", "t": "Poltrona doze. Aqui está!", "es": "Asiento doce. ¡Aquí tiene!" }
+        ]
+      },
+      "nota": "Rodoviária = terminal de ómnibus interurbano; rodoviária no es una «ruta» (rota) ni la «carretera» (rodovia). «Poltrona» es una butaca; en un avión se dice «assento». Los pasajes de ómnibus largos en Brasil pueden ser «leito» (cama), es decir, de lujo."
+    },
+    {
+      "id": "pt-a2-u6-l4",
+      "n": 4,
+      "titulo": "Voy a viajar: ir + infinitivo",
+      "objetivo": "Decir mis planes con «ir + infinitivo» y expresiones de futuro.",
+      "intro": "Para hablar de planes usa «vou» + un verbo en infinitivo. Truco: es idéntico a español: «voy a viajar» → «vou viajar», sin «a». Añade tiempo: amanhã, semana que vem.",
+      "palabras": [
+        { "t": "vou", "es": "voy", "pron": "vóu", "ej": "Eu vou viajar amanhã.", "ejes": "Voy a viajar mañana.", "cog": false },
+        { "t": "vai", "es": "va", "pron": "vái", "ej": "Ele vai reservar o hotel.", "ejes": "Él va a reservar el hotel.", "cog": false },
+        { "t": "vamos", "es": "vamos", "pron": "vámus", "ej": "Nós vamos comprar as passagens.", "ejes": "Vamos a comprar los pasajes.", "cog": false },
+        { "t": "vão", "es": "van", "pron": "váun", "ej": "Eles vão chegar tarde.", "ejes": "Ellos van a llegar tarde.", "cog": false, "truco": "«ão» nasal: váun." },
+        { "t": "viajar", "es": "viajar", "pron": "viayár", "ej": "Eu vou viajar para o Rio.", "ejes": "Voy a viajar a Río.", "cog": true },
+        { "t": "reservar", "es": "reservar", "pron": "rrezervár", "ej": "Eu vou reservar um hotel.", "ejes": "Voy a reservar un hotel.", "cog": true },
+        { "t": "férias", "es": "vacaciones", "pron": "féryas", "ej": "Nas férias eu vou à praia.", "ejes": "En las vacaciones voy a la playa.", "cog": false, "truco": "Siempre en plural: as férias." },
+        { "t": "semana que vem", "es": "la semana próxima", "pron": "semána ke véin", "ej": "Na semana que vem eu vou viajar.", "ejes": "La semana próxima voy a viajar.", "cog": false },
+        { "t": "amanhã", "es": "mañana", "pron": "amañán", "ej": "Amanhã eu vou chegar cedo.", "ejes": "Mañana voy a llegar temprano.", "cog": false },
+        { "t": "hotel", "es": "hotel", "pron": "otéu", "ej": "Eu vou reservar o hotel.", "ejes": "Voy a reservar el hotel.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu vou viajar para o Rio amanhã.", "es": "Voy a viajar a Río mañana.", "pron": "éu vóu viayár pára u rríu amañán" },
+        { "t": "Ele vai reservar o hotel hoje.", "es": "Él va a reservar el hotel hoy.", "pron": "éli vái rrezervár u otéu óyi" },
+        { "t": "Nós vamos comprar as passagens na rodoviária.", "es": "Vamos a comprar los pasajes en la rodoviária.", "pron": "nós vámus komprár as pasáyeins na rrodoviária" },
+        { "t": "Eles vão chegar na semana que vem.", "es": "Ellos van a llegar la semana próxima.", "pron": "élis váun shegár na semána ke véin" },
+        { "t": "Nas férias eu não vou trabalhar.", "es": "En las vacaciones no voy a trabajar.", "pron": "nas féryas éu náun vóu trabalyár" }
+      ],
+      "dialogo": {
+        "titulo": "Planes para las vacaciones",
+        "lineas": [
+          { "q": "A", "t": "O que você vai fazer nas férias?", "es": "¿Qué vas a hacer en las vacaciones?" },
+          { "q": "B", "t": "Eu vou viajar para o Rio.", "es": "Voy a viajar a Río." },
+          { "q": "A", "t": "Vocês vão de avião?", "es": "¿Van en avión?" },
+          { "q": "B", "t": "Sim, nós vamos de avião. Eu vou reservar o hotel amanhã.", "es": "Sí, vamos en avión. Voy a reservar el hotel mañana." },
+          { "q": "A", "t": "Que legal! Eu vou ficar em casa.", "es": "¡Qué bueno! Yo voy a quedarme en casa." }
+        ]
+      },
+      "nota": "«Vou viajar», sin «a». En conversación a menudo se omite el pronombre: «Vou viajar amanhã». «Férias» siempre va en plural: as férias, nas férias. Con «amanhã» y «semana que vem» la estructura queda natural."
+    },
+    {
+      "id": "pt-a2-u6-l5",
+      "n": 5,
+      "titulo": "Repaso: preparando el viaje",
+      "objetivo": "Planear un viaje completo mezclando transporte, aeropuerto, rodoviária e ir + infinitivo.",
+      "intro": "Ahora arma tu viaje: cómo vas, qué reservas y qué haces al llegar. Truco: pregunta «Você vai de quê?» (¿En qué vas?) y termina con «Boa viagem!» (¡Buen viaje!).",
+      "palabras": [
+        { "t": "viagem", "es": "viaje", "pron": "viáyein", "ej": "A viagem vai ser longa.", "ejes": "El viaje va a ser largo.", "cog": false },
+        { "t": "boa viagem", "es": "buen viaje", "pron": "bóa viáyein", "ej": "Boa viagem, Ana!", "ejes": "¡Buen viaje, Ana!", "cog": false },
+        { "t": "reserva", "es": "reserva", "pron": "rrezérva", "ej": "Eu tenho a reserva do hotel.", "ejes": "Tengo la reserva del hotel.", "cog": true },
+        { "t": "chegar", "es": "llegar", "pron": "shegár", "ej": "Nós vamos chegar às dez.", "ejes": "Vamos a llegar a las diez.", "cog": false },
+        { "t": "sair", "es": "salir", "pron": "saír", "ej": "O ônibus vai sair às nove.", "ejes": "El ómnibus va a salir a las nueve.", "cog": false },
+        { "t": "pegar", "es": "tomar / coger (transporte)", "pron": "pegár", "ej": "Eu vou pegar o ônibus.", "ejes": "Voy a tomar el ómnibus.", "cog": false, "truco": "Pegar el ônibus = tomar el bus (en Brasil «coger» no se usa)." },
+        { "t": "turista", "es": "turista", "pron": "turísta", "ej": "Eu vou como turista.", "ejes": "Voy como turista.", "cog": true },
+        { "t": "ficar", "es": "quedarse / alojarse", "pron": "fikár", "ej": "Eu vou ficar no hotel.", "ejes": "Voy a quedarme en el hotel.", "cog": false },
+        { "t": "ainda", "es": "todavía", "pron": "aínda", "ej": "Eu ainda não reservei o hotel.", "ejes": "Todavía no reservé el hotel.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Eu vou pegar o ônibus na rodoviária.", "es": "Voy a tomar el ómnibus en la rodoviária.", "pron": "éu vóu pegár u ónibus na rrodoviária" },
+        { "t": "Nós vamos chegar ao aeroporto às seis.", "es": "Vamos a llegar al aeropuerto a las seis.", "pron": "nós vámus shegár au aeropórtu as séis" },
+        { "t": "Eu ainda não reservei o hotel.", "es": "Todavía no reservé el hotel.", "pron": "éu aínda náun rrezervéi u otéu" },
+        { "t": "A viagem vai ser longa, mas vai ser ótima.", "es": "El viaje va a ser largo, pero va a ser genial.", "pron": "a viáyein vái sér lónga máis vái sér ótima" },
+        { "t": "Boa viagem! Eu vou sentir sua falta.", "es": "¡Buen viaje! Voy a extrañarte.", "pron": "bóa viáyein éu vóu sentchír súa fálta" }
+      ],
+      "dialogo": {
+        "titulo": "Antes de viajar",
+        "lineas": [
+          { "q": "A", "t": "Você vai de ônibus ou de avião?", "es": "¿Vas en ómnibus o en avión?" },
+          { "q": "B", "t": "Eu vou pegar o ônibus na rodoviária, é mais barato.", "es": "Voy a tomar el ómnibus en la rodoviária, es más barato." },
+          { "q": "A", "t": "Você já tem a passagem?", "es": "¿Ya tienes el pasaje?" },
+          { "q": "B", "t": "Ainda não. Eu vou comprar amanhã. E a reserva do hotel?", "es": "Todavía no. Voy a comprarlo mañana. ¿Y la reserva del hotel?" },
+          { "q": "A", "t": "Eu vou reservar hoje. Boa viagem!", "es": "Voy a reservar hoy. ¡Buen viaje!" }
+        ]
+      },
+      "nota": "Con transporte se dice «pegar o ônibus» (tomar el ómnibus); muy usado en Brasil. «Já» (ya) y «ainda não» (todavía no) cierran la conversación. «Sentir sua falta» es «extrañarte»; es una expresión fija."
+    }
+  ]
+}

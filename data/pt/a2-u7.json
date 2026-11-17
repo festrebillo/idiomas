@@ -1,0 +1,228 @@
+{
+  "id": "pt-a2-u7",
+  "idioma": "pt",
+  "nivel": "A2",
+  "n": 7,
+  "titulo": "Salud y cuerpo",
+  "resumen": "Aprenderás las partes del cuerpo, a decir qué te duele, a explicar tus síntomas y a dar consejos con «deveria».",
+  "puedo": [
+    "Nombrar las partes principales del cuerpo.",
+    "Decir qué me duele con «dói» y «doem» y con «tenho dor de...».",
+    "Describir síntomas simples en el médico o la farmacia.",
+    "Dar un consejo con «deveria» + verbo.",
+    "Entender y usar órdenes cortas como «tome» y «descanse»."
+  ],
+  "gramatica": {
+    "titulo": "Dolor y consejos: dói / doem, tenho dor de y deveria",
+    "texto": "Para decir qué te duele, el verbo «doer» concuerda con la cosa que duele: si es una sola, «dói»; si son varias, «doem». Minha cabeça dói. Meus pés doem. Es como el «me duele / me duelen» del español, pero el portugués no usa «me»: la parte del cuerpo es el sujeto.\nOtra forma es «Eu tenho dor de + parte/causa»: Eu tenho dor de cabeça (dolor de cabeza), dor de dente, dor de barriga. Para la espalda se dice «dor nas costas».\nPara aconsejar usa «deveria» (o «devia», más coloquial) + verbo en infinitivo: Você deveria descansar (Deberías descansar). Para negar: «Você não deveria sair».",
+    "tabla": [
+      ["Minha cabeça dói.", "Me duele la cabeza.", "míña kabésa dói"],
+      ["Meus pés doem.", "Me duelen los pies.", "méus pés dóem"],
+      ["Eu tenho dor de dente.", "Tengo dolor de muela.", "éu téñu dor dyi dénchi"],
+      ["Onde dói?", "¿Dónde le duele?", "ónde dói"],
+      ["Você deveria descansar.", "Deberías descansar.", "vosé devería deskansár"],
+      ["Você não devia sair.", "No deberías salir.", "vosé náun devía saír"]
+    ],
+    "errores": [
+      "No digas «Eu dói a cabeça»: la parte del cuerpo es el sujeto. Se dice «Minha cabeça dói».",
+      "Si duele más de una cosa, el verbo cambia: «Meus pés doem», no «Meus pés dói».",
+      "Tras «deveria» va el infinitivo sin «de»: «Você deveria dormir», no «deveria de dormir»."
+    ]
+  },
+  "practica": [
+    "Toca cada parte de tu cuerpo y di su nombre en voz alta: «a cabeça, o braço, a perna...» (4 minutos).",
+    "Escribe 6 frases sobre dolores imaginarios: «Minha barriga dói», «Meus dentes doem»... y léelas en voz alta (5 minutos).",
+    "Imagina que un amigo está enfermo y dile en voz alta 5 consejos con «Você deveria...» (4 minutos).",
+    "Busca en YouTube «consulta médica em português» y escucha cómo el doctor pregunta «Onde dói?» (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-a2-u7-l1",
+      "n": 1,
+      "titulo": "Partes del cuerpo",
+      "objetivo": "Nombrar las partes principales del cuerpo en portugués.",
+      "intro": "Para hablar de salud primero necesitas saber dónde está cada cosa. Truco: «braço» y «perna» suenan casi como en español; ojo con «olho» (ojo), que suena «ólyu».",
+      "palabras": [
+        { "t": "cabeça", "es": "cabeza", "pron": "kabésa", "ej": "Minha cabeça é grande.", "ejes": "Mi cabeza es grande.", "cog": true, "truco": "La «ç» suena «s»: kabésa." },
+        { "t": "braço", "es": "brazo", "pron": "brásu", "ej": "Eu levanto o braço.", "ejes": "Levanto el brazo.", "cog": true },
+        { "t": "perna", "es": "pierna", "pron": "pérna", "ej": "Minha perna é comprida.", "ejes": "Mi pierna es larga.", "cog": true },
+        { "t": "mão", "es": "mano", "pron": "máun", "ej": "Eu lavo a mão.", "ejes": "Me lavo la mano.", "cog": true, "truco": "Nasal: máun. Plural: mãos." },
+        { "t": "pé", "es": "pie", "pron": "pé", "ej": "Meu pé é pequeno.", "ejes": "Mi pie es pequeño.", "cog": true },
+        { "t": "barriga", "es": "barriga / estómago (zona)", "pron": "barríga", "ej": "Minha barriga é grande.", "ejes": "Mi barriga es grande.", "cog": true },
+        { "t": "costas", "es": "espalda", "pron": "kóstas", "ej": "Minhas costas são fortes.", "ejes": "Mi espalda es fuerte.", "cog": false, "truco": "Siempre en plural: as costas." },
+        { "t": "garganta", "es": "garganta", "pron": "gargánta", "ej": "A garganta é pequena.", "ejes": "La garganta es pequeña.", "cog": true },
+        { "t": "dente", "es": "diente / muela", "pron": "dénchi", "ej": "Eu escovo cada dente.", "ejes": "Me cepillo cada diente.", "cog": true, "truco": "«te» final suena «chi»: dénchi." },
+        { "t": "olho", "es": "ojo", "pron": "ólyu", "ej": "Meu olho é verde.", "ejes": "Mi ojo es verde.", "cog": false, "truco": "«lh» suena como «ll» de calle: ólyu." }
+      ],
+      "frases": [
+        { "t": "Eu lavo as mãos.", "es": "Me lavo las manos.", "pron": "éu lávu as máus" },
+        { "t": "Ela tem olhos verdes.", "es": "Ella tiene ojos verdes.", "pron": "éla téin ólyus vérdis" },
+        { "t": "Eu escovo os dentes todos os dias.", "es": "Me cepillo los dientes todos los días.", "pron": "éu eskóvu us déntis tódus us días" },
+        { "t": "Meu pé é maior que o seu.", "es": "Mi pie es más grande que el tuyo.", "pron": "méu pé é maiór ki u séu" },
+        { "t": "O médico olha a minha garganta.", "es": "El médico mira mi garganta.", "pron": "u médiku ólya a míña gargánta" }
+      ],
+      "dialogo": {
+        "titulo": "Jogo das partes do corpo",
+        "lineas": [
+          { "q": "A", "t": "Olha, Pedro! Esta é a minha mão.", "es": "¡Mira, Pedro! Esta es mi mano." },
+          { "q": "B", "t": "E esta é a minha perna.", "es": "Y esta es mi pierna." },
+          { "q": "A", "t": "Meu pé é maior que o seu!", "es": "¡Mi pie es más grande que el tuyo!" },
+          { "q": "B", "t": "Não! Meu braço é mais forte!", "es": "¡No! ¡Mi brazo es más fuerte!" },
+          { "q": "A", "t": "Tudo bem, você ganhou.", "es": "Está bien, ganaste." }
+        ]
+      },
+      "nota": "Falso amigo suave: «barriga» es la barriga, el vientre; el estómago como órgano se dice «estômago». En Brasil muchas veces se dice «dor de barriga» para cualquier dolor de estómago."
+    },
+    {
+      "id": "pt-a2-u7-l2",
+      "n": 2,
+      "titulo": "¿Dónde te duele?",
+      "objetivo": "Decir qué te duele con «dói», «doem» y «tenho dor de».",
+      "intro": "El médico siempre pregunta «Onde dói?». Truco: «dói» es para una sola cosa y «doem» para varias, igual que «duele» y «duelen».",
+      "palabras": [
+        { "t": "dói", "es": "duele", "pron": "dói", "ej": "Minha cabeça dói muito.", "ejes": "Me duele mucho la cabeza.", "cog": false, "truco": "Una sola cosa: dói." },
+        { "t": "doem", "es": "duelen", "pron": "dóem", "ej": "Meus pés doem hoje.", "ejes": "Me duelen los pies hoy.", "cog": false, "truco": "Varias cosas: doem." },
+        { "t": "dor", "es": "dolor", "pron": "dor", "ej": "Eu tenho muita dor.", "ejes": "Tengo mucho dolor.", "cog": true, "truco": "Es femenina: a dor." },
+        { "t": "dor de cabeça", "es": "dolor de cabeza", "pron": "dor dyi kabésa", "ej": "Eu tenho dor de cabeça.", "ejes": "Tengo dolor de cabeza.", "cog": false },
+        { "t": "dor de dente", "es": "dolor de muela", "pron": "dor dyi dénchi", "ej": "Ele tem dor de dente.", "ejes": "Él tiene dolor de muela.", "cog": false },
+        { "t": "dor de barriga", "es": "dolor de barriga", "pron": "dor dyi barríga", "ej": "A criança tem dor de barriga.", "ejes": "El niño tiene dolor de barriga.", "cog": false },
+        { "t": "dor nas costas", "es": "dolor de espalda", "pron": "dor nas kóstas", "ej": "Meu avô tem dor nas costas.", "ejes": "Mi abuelo tiene dolor de espalda.", "cog": false, "truco": "Con «costas» se usa «nas»: dor nas costas." },
+        { "t": "forte", "es": "fuerte", "pron": "fórchi", "ej": "A dor é muito forte.", "ejes": "El dolor es muy fuerte.", "cog": true },
+        { "t": "onde", "es": "dónde", "pron": "ónde", "ej": "Onde você sente dor?", "ejes": "¿Dónde sientes dolor?", "cog": false },
+        { "t": "um pouco", "es": "un poco", "pron": "ún póko", "ej": "Dói um pouco aqui.", "ejes": "Duele un poco aquí.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Onde dói?", "es": "¿Dónde le duele?", "pron": "ónde dói" },
+        { "t": "Dói aqui.", "es": "Me duele aquí.", "pron": "dói akí" },
+        { "t": "Minha cabeça dói muito.", "es": "Me duele mucho la cabeza.", "pron": "míña kabésa dói múintu" },
+        { "t": "Meus pés doem.", "es": "Me duelen los pies.", "pron": "méus pés dóem" },
+        { "t": "Eu tenho dor de dente.", "es": "Tengo dolor de muela.", "pron": "éu téñu dor dyi dénchi" },
+        { "t": "A dor é forte?", "es": "¿El dolor es fuerte?", "pron": "a dor é fórchi" }
+      ],
+      "dialogo": {
+        "titulo": "No consultório",
+        "lineas": [
+          { "q": "A", "t": "Bom dia! Onde dói?", "es": "¡Buenos días! ¿Dónde le duele?" },
+          { "q": "B", "t": "Dói aqui, nas costas.", "es": "Me duele aquí, en la espalda." },
+          { "q": "A", "t": "A dor é forte?", "es": "¿El dolor es fuerte?" },
+          { "q": "B", "t": "Sim, e meus pés também doem.", "es": "Sí, y también me duelen los pies." },
+          { "q": "A", "t": "Eu vou olhar com calma.", "es": "Voy a revisar con calma." }
+        ]
+      },
+      "nota": "Se dice «dor de cabeça», pero «dor nas costas» (con «nas»). Y en Brasil «Onde dói?» es la pregunta clásica del médico: la respuesta más simple es «Dói aqui» señalando la parte."
+    },
+    {
+      "id": "pt-a2-u7-l3",
+      "n": 3,
+      "titulo": "Síntomas",
+      "objetivo": "Describir cómo te sientes y síntomas simples.",
+      "intro": "Para decir cómo te sientes usa «estou» + estado: Estou cansado, estou doente. Truco: «estou com febre» = «tengo fiebre» (literalmente «estoy con fiebre»).",
+      "palabras": [
+        { "t": "febre", "es": "fiebre", "pron": "fébri", "ej": "Estou com febre.", "ejes": "Tengo fiebre.", "cog": true, "truco": "«e» final suena «i»: fébri." },
+        { "t": "tosse", "es": "tos", "pron": "tósi", "ej": "Eu estou com tosse.", "ejes": "Tengo tos.", "cog": false },
+        { "t": "gripe", "es": "gripe", "pron": "grípi", "ej": "Meu irmão está com gripe.", "ejes": "Mi hermano tiene gripe.", "cog": true },
+        { "t": "resfriado", "es": "resfriado", "pron": "rresfriádu", "ej": "Eu estou resfriado.", "ejes": "Estoy resfriado.", "cog": true },
+        { "t": "cansado", "es": "cansado", "pron": "kansádu", "ej": "Hoje estou muito cansado.", "ejes": "Hoy estoy muy cansado.", "cog": true },
+        { "t": "doente", "es": "enfermo", "pron": "doénchi", "ej": "Minha mãe está doente.", "ejes": "Mi madre está enferma.", "cog": false },
+        { "t": "tonto", "es": "mareado", "pron": "tóntu", "ej": "Eu estou tonto.", "ejes": "Estoy mareado.", "cog": false, "truco": "Ojo: «tonto» aquí es mareado, no tonto de inteligencia." },
+        { "t": "nariz", "es": "nariz", "pron": "narís", "ej": "Meu nariz está entupido.", "ejes": "Mi nariz está tapada.", "cog": true },
+        { "t": "sinto", "es": "siento", "pron": "síntu", "ej": "Eu sinto dor no braço.", "ejes": "Siento dolor en el brazo.", "cog": true },
+        { "t": "mal", "es": "mal", "pron": "máu", "ej": "Eu me sinto mal hoje.", "ejes": "Me siento mal hoy.", "cog": true, "truco": "La «l» final suena «u»: máu." }
+      ],
+      "frases": [
+        { "t": "Estou com febre.", "es": "Tengo fiebre.", "pron": "estóu kon fébri" },
+        { "t": "Estou com tosse e com gripe.", "es": "Tengo tos y gripe.", "pron": "estóu kon tósi i kon grípi" },
+        { "t": "Eu me sinto mal.", "es": "Me siento mal.", "pron": "éu mi síntu máu" },
+        { "t": "Meu irmão está doente.", "es": "Mi hermano está enfermo.", "pron": "méu irmáun está doénchi" },
+        { "t": "Hoje estou muito cansado.", "es": "Hoy estoy muy cansado.", "pron": "óji estóu múintu kansádu" },
+        { "t": "Estou tonto desde ontem.", "es": "Estoy mareado desde ayer.", "pron": "estóu tóntu désdi ónten" }
+      ],
+      "dialogo": {
+        "titulo": "Não me sinto bem",
+        "lineas": [
+          { "q": "A", "t": "Oi, Rafael! Você está pálido.", "es": "¡Hola, Rafael! Estás pálido." },
+          { "q": "B", "t": "Eu me sinto mal. Estou com febre.", "es": "Me siento mal. Tengo fiebre." },
+          { "q": "A", "t": "Você também está com tosse?", "es": "¿También tienes tos?" },
+          { "q": "B", "t": "Sim, estou com gripe.", "es": "Sí, tengo gripe." },
+          { "q": "A", "t": "Que pena! Fique em casa hoje.", "es": "¡Qué pena! Quédate en casa hoy." }
+        ]
+      },
+      "nota": "En portugués se usa «estar com» + síntoma: estar com febre, com tosse, com fome. No uses «ter» para la fiebre en el habla diaria: «Estou com febre» es lo natural, aunque «Tenho febre» también se entiende."
+    },
+    {
+      "id": "pt-a2-u7-l4",
+      "n": 4,
+      "titulo": "Médico y farmacia",
+      "objetivo": "Dar consejos con «deveria» y entender qué hacer en la farmacia.",
+      "intro": "Para aconsejar usa «deveria» o «devia» + infinitivo, como «deberías» en español. Truco: «devia» es más corto y se oye mucho en la conversación de todos los días.",
+      "palabras": [
+        { "t": "médico", "es": "médico", "pron": "médiku", "ej": "Você deveria ver um médico.", "ejes": "Deberías ver a un médico.", "cog": true },
+        { "t": "farmácia", "es": "farmacia", "pron": "farmásia", "ej": "A farmácia fica aqui perto.", "ejes": "La farmacia queda aquí cerca.", "cog": true },
+        { "t": "remédio", "es": "medicina / medicamento", "pron": "rremédyiu", "ej": "Eu preciso de um remédio.", "ejes": "Necesito un medicamento.", "cog": false, "truco": "No es «remedio» de solución: es el medicamento." },
+        { "t": "descansar", "es": "descansar", "pron": "deskansár", "ej": "Você deveria descansar hoje.", "ejes": "Deberías descansar hoy.", "cog": true },
+        { "t": "dormir", "es": "dormir", "pron": "dormír", "ej": "Você devia dormir mais.", "ejes": "Deberías dormir más.", "cog": true },
+        { "t": "beber", "es": "beber / tomar (líquidos)", "pron": "bebér", "ej": "Você deveria beber água.", "ejes": "Deberías tomar agua.", "cog": true },
+        { "t": "deveria", "es": "debería", "pron": "devería", "ej": "Você deveria ir ao médico.", "ejes": "Deberías ir al médico.", "cog": true },
+        { "t": "devia", "es": "deberías / debías (coloquial)", "pron": "devía", "ej": "Você devia ficar em casa.", "ejes": "Deberías quedarte en casa.", "cog": true },
+        { "t": "melhor", "es": "mejor", "pron": "melyór", "ej": "É melhor descansar.", "ejes": "Es mejor descansar.", "cog": true, "truco": "Ya lo viste en los comparativos: melhor." }
+      ],
+      "frases": [
+        { "t": "Você deveria ver um médico.", "es": "Deberías ver a un médico.", "pron": "vosé devería vér ún médiku" },
+        { "t": "Você devia dormir mais.", "es": "Deberías dormir más.", "pron": "vosé devía dormír máis" },
+        { "t": "Você deveria beber muita água.", "es": "Deberías tomar mucha agua.", "pron": "vosé devería bebér múita água" },
+        { "t": "Você não deveria sair hoje.", "es": "No deberías salir hoy.", "pron": "vosé náun devería saír óji" },
+        { "t": "Preciso de um remédio para a tosse.", "es": "Necesito un remedio para la tos.", "pron": "presízu dyi ún rremédyiu pára a tósi" },
+        { "t": "É melhor descansar um pouco.", "es": "Es mejor descansar un poco.", "pron": "é melyór deskansár ún póko" }
+      ],
+      "dialogo": {
+        "titulo": "Na farmácia",
+        "lineas": [
+          { "q": "A", "t": "Boa tarde! Eu preciso de um remédio para a tosse.", "es": "¡Buenas tardes! Necesito un remedio para la tos." },
+          { "q": "B", "t": "Você está com febre também?", "es": "¿También tiene fiebre?" },
+          { "q": "A", "t": "Sim, um pouco, e minha garganta dói.", "es": "Sí, un poco, y me duele la garganta." },
+          { "q": "B", "t": "Você deveria descansar e beber água.", "es": "Debería descansar y beber agua." },
+          { "q": "A", "t": "Obrigado! Vou ver um médico amanhã.", "es": "¡Gracias! Voy a ver a un médico mañana." }
+        ]
+      },
+      "nota": "Con «deveria» el verbo siguiente va siempre en infinitivo y sin «de»: deveria descansar. Para pedir un remedio en la farmacia, «Eu preciso de um remédio para...» es lo más natural."
+    },
+    {
+      "id": "pt-a2-u7-l5",
+      "n": 5,
+      "titulo": "Repaso: cuídate",
+      "objetivo": "Repasar el tema y entender órdenes cortas como «tome» y «descanse».",
+      "intro": "El médico y la farmacia también dan órdenes cortas: «Tome este remédio», «Descanse». Truco: para ordenar con «você» muchos verbos cambian la terminación final: -ar pasa a -e (descansar, descanse) y -er/-ir pasan a -a (beber, beba).",
+      "palabras": [
+        { "t": "tome", "es": "tome / toma (orden)", "pron": "tómi", "ej": "Tome este remédio.", "ejes": "Tome este medicamento.", "cog": false },
+        { "t": "descanse", "es": "descanse (orden)", "pron": "deskánsi", "ej": "Descanse bastante.", "ejes": "Descanse bastante.", "cog": false },
+        { "t": "beba", "es": "beba (orden)", "pron": "béba", "ej": "Beba bastante água.", "ejes": "Beba bastante agua.", "cog": false },
+        { "t": "durma", "es": "duerma (orden)", "pron": "dúrma", "ej": "Durma bem esta noite.", "ejes": "Duerma bien esta noche.", "cog": false },
+        { "t": "fique", "es": "quédese (orden)", "pron": "fíki", "ej": "Fique em casa hoje.", "ejes": "Quédese en casa hoy.", "cog": false },
+        { "t": "volte", "es": "vuelva (orden)", "pron": "vóltchi", "ej": "Volte amanhã, por favor.", "ejes": "Vuelva mañana, por favor.", "cog": false },
+        { "t": "cuide-se", "es": "cuídese", "pron": "kuídi-si", "ej": "Cuide-se bem!", "ejes": "¡Cuídese bien!", "cog": false },
+        { "t": "melhoras", "es": "que te mejores", "pron": "melyóras", "ej": "Desejo melhoras!", "ejes": "¡Te deseo que te mejores!", "cog": false, "truco": "Se dice siempre en plural: melhoras." },
+        { "t": "amanhã", "es": "mañana", "pron": "amañán", "ej": "Volte amanhã.", "ejes": "Vuelva mañana.", "cog": false },
+        { "t": "bastante", "es": "bastante", "pron": "bastánchi", "ej": "Durma bastante.", "ejes": "Duerma bastante.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Tome este remédio duas vezes ao dia.", "es": "Tome este remedio dos veces al día.", "pron": "tómi ésti rremédyiu dúas vézis au día" },
+        { "t": "Descanse e beba bastante água.", "es": "Descanse y beba bastante agua.", "pron": "deskánsi i béba bastánchi água" },
+        { "t": "Fique em casa e durma bem.", "es": "Quédese en casa y duerma bien.", "pron": "fíki ein kása i dúrma béin" },
+        { "t": "Volte amanhã se continuar com febre.", "es": "Vuelva mañana si sigue con fiebre.", "pron": "vóltchi amañán si kontinuár kon fébri" },
+        { "t": "Melhoras! Cuide-se!", "es": "¡Que te mejores! ¡Cuídate!", "pron": "melyóras kuídi-si" }
+      ],
+      "dialogo": {
+        "titulo": "Depois da consulta",
+        "lineas": [
+          { "q": "A", "t": "Doutora, minha cabeça dói e estou com febre.", "es": "Doctora, me duele la cabeza y tengo fiebre." },
+          { "q": "B", "t": "Você está com gripe. Tome este remédio.", "es": "Usted tiene gripe. Tome este remedio." },
+          { "q": "A", "t": "Eu deveria ficar em casa?", "es": "¿Debería quedarme en casa?" },
+          { "q": "B", "t": "Sim, descanse e beba bastante água.", "es": "Sí, descanse y beba bastante agua." },
+          { "q": "A", "t": "Obrigado, doutora!", "es": "¡Gracias, doctora!" },
+          { "q": "B", "t": "Melhoras! Volte amanhã.", "es": "¡Que se mejore! Vuelva mañana." }
+        ]
+      },
+      "nota": "Estas órdenes son formas educadas con «você». «Melhoras!» se usa cuando alguien está enfermo, igual que «que te mejores». Y no confundas «doutor/doutora»: en Brasil se llama así a los médicos aunque no tengan doctorado."
+    }
+  ]
+}

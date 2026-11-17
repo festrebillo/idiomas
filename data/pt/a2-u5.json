@@ -1,0 +1,223 @@
+{
+  "id": "pt-a2-u5",
+  "idioma": "pt",
+  "nivel": "A2",
+  "n": 5,
+  "titulo": "Los mejores y los peores",
+  "resumen": "Aprenderás a decir cuál es el más, el mejor o el peor con «o mais...», «o melhor», «o pior» y a exagerar con el sufijo «-íssimo».",
+  "puedo": [
+    "Decir quién o qué es «o mais...» de un grupo.",
+    "Usar o melhor, o pior, o maior y o menor.",
+    "Enfatizar con adjetivos en -íssimo como lindíssimo y caríssimo.",
+    "Hablar de los mejores lugares, platos y personas.",
+    "Dar mi opinión sobre lo más y lo menos de una lista."
+  ],
+  "gramatica": {
+    "titulo": "El superlativo: o mais... y -íssimo",
+    "texto": "El superlativo dice que algo es «el más...» de todos. Pon el artículo (o, a, os, as) delante de «mais» y el adjetivo, y después «de» o «da/do»: «Ele é o mais alto da turma» (Es el más alto de la clase).\nLos irregulares son los mismos que ya conoces, con artículo: o melhor, o pior, o maior, o menor.\nOtra forma, más intensa, es el sufijo -íssimo (muy muy): lindo → lindíssimo, caro → caríssimo. Se quita la vocal final y se añade -íssimo/-íssima. «O bolo é gostosíssimo» = el pastel está riquísimo.\nCon «mais» antes del sustantivo (la cidade mais bonita) el artículo va delante del sustantivo: «Rio é a cidade mais bonita do Brasil».",
+    "tabla": [
+      ["o mais alto da turma", "el más alto de la clase", "u máis áltu da túrma"],
+      ["a mais bonita do país", "la más bonita del país", "a máis bonita du país"],
+      ["o melhor do mundo", "el mejor del mundo", "u melyór du múndu"],
+      ["o pior de todos", "el peor de todos", "u piór dyi tódus"],
+      ["lindíssimo / lindíssima", "lindísimo / lindísima", "lindyíssimu / lindyíssima"],
+      ["caríssimo", "carísimo", "karíssimu"],
+      ["ótimo / péssimo", "excelente / pésimo", "ótimu / pésimu"]
+    ],
+    "errores": [
+      "No pongas «de lo» ni «en»: se dice «o mais alto da turma» (de + a), no «el más alto en la turma».",
+      "En el superlativo hace falta el artículo: «Ele é o mais alto», no «Ele é mais alto» (eso es comparativo).",
+      "El sufijo -íssimo lleva acento en la «i» y la «s» doble: lindíssimo, no «lindisimo»."
+    ]
+  },
+  "practica": [
+    "Escribe 6 frases sobre lo mejor de tu vida: «O melhor filme do mundo é...», «A mais bonita cidade...» (6 minutos).",
+    "Elige 5 adjetivos y escribe su forma en -íssimo (caro, lindo, rico, importante, bom) y léelos en voz alta (5 minutos).",
+    "Mira un video de «os melhores lugares do Brasil» y anota 5 superlativos que oigas (8 minutos).",
+    "Haz tu «ranking» de 5 comidas con o mais, o melhor y o pior, y explícaselo a alguien en portugués (7 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-a2-u5-l1",
+      "n": 1,
+      "titulo": "El más... de todos",
+      "objetivo": "Formar «o mais + adjetivo» y decir de qué grupo se habla.",
+      "intro": "La estructura es: artículo + mais + adjetivo + de + grupo. Truco: «da turma» es «de la clase», porque «de + a» se junta en «da».",
+      "palabras": [
+        { "t": "turma", "es": "clase / grupo", "pron": "túrma", "ej": "Ele é o mais alto da turma.", "ejes": "Es el más alto de la clase.", "cog": false },
+        { "t": "mundo", "es": "mundo", "pron": "múndu", "ej": "É o melhor do mundo.", "ejes": "Es el mejor del mundo.", "cog": true },
+        { "t": "país", "es": "país", "pron": "país", "ej": "É a mais bonita do país.", "ejes": "Es la más bonita del país.", "cog": true },
+        { "t": "família", "es": "familia", "pron": "família", "ej": "Ele é o mais velho da família.", "ejes": "Es el mayor de la familia.", "cog": true },
+        { "t": "o mais alto", "es": "el más alto", "pron": "u máis áltu", "ej": "Pedro é o mais alto da turma.", "ejes": "Pedro es el más alto de la clase.", "cog": false },
+        { "t": "a mais bonita", "es": "la más bonita", "pron": "a máis bonita", "ej": "Ana é a mais bonita da festa.", "ejes": "Ana es la más bonita de la fiesta.", "cog": false },
+        { "t": "o mais rápido", "es": "el más rápido", "pron": "u máis rrápidu", "ej": "Este carro é o mais rápido.", "ejes": "Este carro es el más rápido.", "cog": false },
+        { "t": "o mais velho", "es": "el mayor / el más viejo", "pron": "u máis vélyu", "ej": "Meu pai é o mais velho da família.", "ejes": "Mi papá es el mayor de la familia.", "cog": false },
+        { "t": "o mais jovem", "es": "el más joven", "pron": "u máis yóvein", "ej": "Ele é o mais jovem da turma.", "ejes": "Es el más joven de la clase.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Pedro é o mais alto da turma.", "es": "Pedro es el más alto de la clase.", "pron": "pédru é u máis áltu da túrma" },
+        { "t": "Ana é a mais bonita da festa.", "es": "Ana es la más bonita de la fiesta.", "pron": "ána é a máis bonita da fésta" },
+        { "t": "Este carro é o mais rápido do mundo.", "es": "Este carro es el más rápido del mundo.", "pron": "éschi kárru é u máis rrápidu du múndu" },
+        { "t": "Meu pai é o mais velho da família.", "es": "Mi papá es el mayor de la familia.", "pron": "méu pái é u máis vélyu da família" },
+        { "t": "Ele é o mais jovem da turma.", "es": "Él es el más joven de la clase.", "pron": "éli é u máis yóvein da túrma" }
+      ],
+      "dialogo": {
+        "titulo": "Quién es quién",
+        "lineas": [
+          { "q": "A", "t": "Quem é o mais alto da turma?", "es": "¿Quién es el más alto de la clase?" },
+          { "q": "B", "t": "O Pedro é o mais alto.", "es": "Pedro es el más alto." },
+          { "q": "A", "t": "E quem é o mais jovem?", "es": "¿Y quién es el más joven?" },
+          { "q": "B", "t": "A Ana é a mais jovem da turma.", "es": "Ana es la más joven de la clase." },
+          { "q": "A", "t": "E o mais velho da família?", "es": "¿Y el mayor de la familia?" },
+          { "q": "B", "t": "Meu pai! Ele é o mais velho.", "es": "¡Mi papá! Él es el mayor." }
+        ]
+      },
+      "nota": "«De + o = do», «de + a = da»: do mundo, da turma. «O mais velho» es «el más viejo»; en familia se entiende como «el mayor». Recuerda: «país» se pronuncia país con acento en la i."
+    },
+    {
+      "id": "pt-a2-u5-l2",
+      "n": 2,
+      "titulo": "O melhor y o pior",
+      "objetivo": "Decir lo mejor, lo peor, lo mayor y lo menor de una lista.",
+      "intro": "Los irregulares conservan su forma y solo les pones el artículo: o melhor, a pior. Truco: se puede decir «o melhor de todos» para dar énfasis a «el mejor de todos».",
+      "palabras": [
+        { "t": "o melhor", "es": "el mejor", "pron": "u melyór", "ej": "Este é o melhor café da cidade.", "ejes": "Este es el mejor café de la ciudad.", "cog": false },
+        { "t": "a melhor", "es": "la mejor", "pron": "a melyór", "ej": "Esta é a melhor casa do bairro.", "ejes": "Esta es la mejor casa del barrio.", "cog": false },
+        { "t": "o pior", "es": "el peor", "pron": "u piór", "ej": "Este é o pior hotel da cidade.", "ejes": "Este es el peor hotel de la ciudad.", "cog": false },
+        { "t": "a pior", "es": "la peor", "pron": "a piór", "ej": "Esta é a pior nota.", "ejes": "Esta es la peor nota.", "cog": false },
+        { "t": "o maior", "es": "el más grande", "pron": "u maiór", "ej": "O Brasil é o maior país da América do Sul.", "ejes": "Brasil es el país más grande de Sudamérica.", "cog": false },
+        { "t": "o menor", "es": "el más pequeño", "pron": "u menór", "ej": "Este é o menor quarto.", "ejes": "Este es el cuarto más pequeño.", "cog": false },
+        { "t": "de todos", "es": "de todos", "pron": "dyi tódus", "ej": "Ele é o melhor de todos.", "ejes": "Él es el mejor de todos.", "cog": false },
+        { "t": "da vida", "es": "de la vida", "pron": "da vída", "ej": "Foi o melhor dia da vida.", "ejes": "Fue el mejor día de la vida.", "cog": false },
+        { "t": "nota", "es": "nota / calificación", "pron": "nóta", "ej": "Eu tirei a pior nota da turma.", "ejes": "Saqué la peor nota de la clase.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Este é o melhor café da cidade.", "es": "Este es el mejor café de la ciudad.", "pron": "éschi é u melyór kafé da sidádyi" },
+        { "t": "Foi o pior dia da minha vida.", "es": "Fue el peor día de mi vida.", "pron": "fói u piór día da miña vída" },
+        { "t": "O Brasil é o maior país da América do Sul.", "es": "Brasil es el país más grande de Sudamérica.", "pron": "u brasíu é u maiór país da américa du súu" },
+        { "t": "Este é o menor quarto da casa.", "es": "Este es el cuarto más pequeño de la casa.", "pron": "éschi é u menór kuártu da kása" },
+        { "t": "Ela é a melhor aluna de todos.", "es": "Ella es la mejor alumna de todos.", "pron": "éla é a melyór alúna dyi tódus" }
+      ],
+      "dialogo": {
+        "titulo": "El mejor y el peor",
+        "lineas": [
+          { "q": "A", "t": "Qual é o melhor café da cidade?", "es": "¿Cuál es el mejor café de la ciudad?" },
+          { "q": "B", "t": "Para mim, é o café do centro.", "es": "Para mí, es el café del centro." },
+          { "q": "A", "t": "E qual é o pior?", "es": "¿Y cuál es el peor?" },
+          { "q": "B", "t": "O pior é o da rodoviária. É caro e ruim.", "es": "El peor es el de la rodoviária. Es caro y malo." },
+          { "q": "A", "t": "Então vou ao do centro. Obrigado!", "es": "Entonces voy al del centro. ¡Gracias!" }
+        ]
+      },
+      "nota": "«O melhor dia da minha vida» se traduce como «el mejor día de mi vida»; aquí «da» es «de + a». Falso amigo: «nota» en la escuela es calificación, y también es una nota musical. «Aluno» es el estudiante."
+    },
+    {
+      "id": "pt-a2-u5-l3",
+      "n": 3,
+      "titulo": "Exagerar con -íssimo",
+      "objetivo": "Intensificar adjetivos con el sufijo -íssimo y con ótimo y péssimo.",
+      "intro": "Para decir «muy muy», se agrega -íssimo al adjetivo: caro → caríssimo. Truco: se quita la vocal final: lindo → lindíssimo; barato → baratíssimo.",
+      "palabras": [
+        { "t": "lindíssimo", "es": "lindísimo", "pron": "lindyíssimu", "ej": "O parque é lindíssimo.", "ejes": "El parque es lindísimo.", "cog": false },
+        { "t": "caríssimo", "es": "carísimo", "pron": "karíssimu", "ej": "O hotel é caríssimo.", "ejes": "El hotel es carísimo.", "cog": true },
+        { "t": "gostosíssimo", "es": "riquísimo", "pron": "gostosíssimu", "ej": "O bolo é gostosíssimo.", "ejes": "El pastel es riquísimo.", "cog": false, "truco": "«gostoso» es sabroso, y se usa mucho para comida." },
+        { "t": "baratíssimo", "es": "baratísimo", "pron": "baratíssimu", "ej": "O ingresso é baratíssimo.", "ejes": "La entrada es baratísima.", "cog": true },
+        { "t": "ótimo", "es": "excelente", "pron": "ótimu", "ej": "O filme foi ótimo.", "ejes": "La película fue excelente.", "cog": false },
+        { "t": "péssimo", "es": "pésimo", "pron": "pésimu", "ej": "O serviço foi péssimo.", "ejes": "El servicio fue pésimo.", "cog": true },
+        { "t": "muitíssimo", "es": "muchísimo", "pron": "muintíssimu", "ej": "Obrigado muitíssimo!", "ejes": "¡Muchísimas gracias!", "cog": true },
+        { "t": "simpatiquíssimo", "es": "simpatiquísimo", "pron": "simpatchikíssimu", "ej": "O garçom foi simpatiquíssimo.", "ejes": "El mozo fue simpatiquísimo.", "cog": false },
+        { "t": "serviço", "es": "servicio", "pron": "servísu", "ej": "O serviço foi bom.", "ejes": "El servicio fue bueno.", "cog": true }
+      ],
+      "frases": [
+        { "t": "O parque é lindíssimo.", "es": "El parque es lindísimo.", "pron": "u párki é lindyíssimu" },
+        { "t": "O bolo é gostosíssimo.", "es": "El pastel está riquísimo.", "pron": "u bólu é gostosíssimu" },
+        { "t": "O hotel é caríssimo, mas o serviço é ótimo.", "es": "El hotel es carísimo, pero el servicio es excelente.", "pron": "u otéu é karíssimu máis u servísu é ótimu" },
+        { "t": "Eu gosto muitíssimo desse restaurante.", "es": "Me gusta muchísimo ese restaurante.", "pron": "éu góstu muintíssimu désyi rrestaurántchi" },
+        { "t": "O serviço foi péssimo.", "es": "El servicio fue pésimo.", "pron": "u servísu fói pésimu" }
+      ],
+      "dialogo": {
+        "titulo": "En el restaurante",
+        "lineas": [
+          { "q": "A", "t": "Gostou do restaurante?", "es": "¿Te gustó el restaurante?" },
+          { "q": "B", "t": "Sim! A comida foi gostosíssima.", "es": "¡Sí! La comida estuvo riquísima." },
+          { "q": "A", "t": "E o serviço foi bom?", "es": "¿Y el servicio fue bueno?" },
+          { "q": "B", "t": "Foi ótimo! O garçom foi simpatiquíssimo.", "es": "¡Fue excelente! El mozo fue simpatiquísimo." },
+          { "q": "A", "t": "Mas o preço é caríssimo.", "es": "Pero el precio es carísimo." }
+        ]
+      },
+      "nota": "«Garçom» es el mozo o mesero (aprendido en A1). «Ótimo» y «péssimo» son formas absolutas irregulares y funcionan igual que -íssimo. «-íssimo» concuerda: gostosíssima para femenino (a comida gostosíssima)."
+    },
+    {
+      "id": "pt-a2-u5-l4",
+      "n": 4,
+      "titulo": "Lugares más famosos",
+      "objetivo": "Hablar de los lugares, platos y atracciones más conocidos con superlativos.",
+      "intro": "Los superlativos son perfectos para hablar de turismo y de comida. Truco: coloca el sustantivo antes: «a praia mais bonita», «o prato mais famoso».",
+      "palabras": [
+        { "t": "lugar", "es": "lugar", "pron": "lugár", "ej": "Este é o melhor lugar.", "ejes": "Este es el mejor lugar.", "cog": true },
+        { "t": "famoso", "es": "famoso", "pron": "famósu", "ej": "É o prato mais famoso.", "ejes": "Es el plato más famoso.", "cog": true },
+        { "t": "popular", "es": "popular", "pron": "populár", "ej": "É a praia mais popular.", "ejes": "Es la playa más popular.", "cog": true },
+        { "t": "bonito", "es": "bonito / lindo", "pron": "bonítu", "ej": "O lugar é bonito.", "ejes": "El lugar es bonito.", "cog": false },
+        { "t": "perigoso", "es": "peligroso", "pron": "perigósu", "ej": "O lugar é perigoso.", "ejes": "El lugar es peligroso.", "cog": true },
+        { "t": "turista", "es": "turista", "pron": "turísta", "ej": "O turista visitou o museu.", "ejes": "El turista visitó el museo.", "cog": true },
+        { "t": "prato", "es": "plato", "pron": "prátu", "ej": "Este prato é famoso.", "ejes": "Este plato es famoso.", "cog": true },
+        { "t": "museu", "es": "museo", "pron": "muséu", "ej": "O museu é grande.", "ejes": "El museo es grande.", "cog": true },
+        { "t": "o mais visitado", "es": "el más visitado", "pron": "u máis visitádu", "ej": "O Cristo é o mais visitado.", "ejes": "El Cristo es el más visitado.", "cog": false }
+      ],
+      "frases": [
+        { "t": "A praia de Copacabana é a mais famosa do Rio.", "es": "La playa de Copacabana es la más famosa de Río.", "pron": "a práya dyi kopakabána é a máis famósa du rríu" },
+        { "t": "O Cristo é o lugar mais visitado da cidade.", "es": "El Cristo es el lugar más visitado de la ciudad.", "pron": "u krístu é u lugár máis visitádu da sidádyi" },
+        { "t": "A feijoada é o prato mais famoso do Brasil.", "es": "La feijoada es el plato más famoso de Brasil.", "pron": "a feiyuáda é u prátu máis famósu du brasíu" },
+        { "t": "Este museu é o maior da cidade.", "es": "Este museo es el más grande de la ciudad.", "pron": "éschi muséu é u maiór da sidádyi" },
+        { "t": "Esta é a praia mais perigosa para os turistas.", "es": "Esta es la playa más peligrosa para los turistas.", "pron": "ésta é a práya máis perigósa pára us turístas" }
+      ],
+      "dialogo": {
+        "titulo": "Planes de turista",
+        "lineas": [
+          { "q": "A", "t": "Qual é o lugar mais visitado do Rio?", "es": "¿Cuál es el lugar más visitado de Río?" },
+          { "q": "B", "t": "O Cristo é o mais visitado.", "es": "El Cristo es el más visitado." },
+          { "q": "A", "t": "E qual é o prato mais famoso?", "es": "¿Y cuál es el plato más famoso?" },
+          { "q": "B", "t": "A feijoada! É gostosíssima.", "es": "¡La feijoada! Es riquísima." },
+          { "q": "A", "t": "E a praia mais bonita?", "es": "¿Y la playa más bonita?" },
+          { "q": "B", "t": "Para mim, é Copacabana.", "es": "Para mí, es Copacabana." }
+        ]
+      },
+      "nota": "«Bonito» es lo más común para «lindo» al hablar de lugares; «lindo» también se usa mucho. «Feijoada» es un guiso de frijoles negros con carne. Ojo: en portugués «turista» no tiene acento, y «lugar» es masculino (o lugar)."
+    },
+    {
+      "id": "pt-a2-u5-l5",
+      "n": 5,
+      "titulo": "Repaso: rankings",
+      "objetivo": "Dar tu opinión sobre un ranking usando todos los superlativos y expresiones de énfasis.",
+      "intro": "Ahora arma tus propias listas: «Na minha opinião, o melhor... é...». Truco: usa «sem dúvida» (sin duda) y «de longe» (de lejos) para dar fuerza.",
+      "palabras": [
+        { "t": "um dos mais", "es": "uno de los más", "pron": "ún dus máis", "ej": "É um dos mais bonitos.", "ejes": "Es uno de los más bonitos.", "cog": false },
+        { "t": "cada vez mais", "es": "cada vez más", "pron": "káda vés máis", "ej": "Ele fica cada vez mais famoso.", "ejes": "Él se vuelve cada vez más famoso.", "cog": false },
+        { "t": "de longe", "es": "de lejos / por mucho", "pron": "dyi lónyi", "ej": "É de longe o melhor.", "ejes": "Es de lejos el mejor.", "cog": false },
+        { "t": "sem dúvida", "es": "sin duda", "pron": "séin dúvida", "ej": "Sem dúvida, é o melhor.", "ejes": "Sin duda, es el mejor.", "cog": false },
+        { "t": "na minha opinião", "es": "en mi opinión", "pron": "na miña opiniáun", "ej": "Na minha opinião, é o melhor.", "ejes": "En mi opinión, es el mejor.", "cog": false },
+        { "t": "melhor ainda", "es": "mejor todavía", "pron": "melyór aínda", "ej": "Isso é melhor ainda.", "ejes": "Eso es mejor todavía.", "cog": false },
+        { "t": "concordo", "es": "estoy de acuerdo", "pron": "konkórdu", "ej": "Eu concordo.", "ejes": "Estoy de acuerdo.", "cog": true },
+        { "t": "discordo", "es": "no estoy de acuerdo", "pron": "diskórdu", "ej": "Eu discordo.", "ejes": "No estoy de acuerdo.", "cog": true },
+        { "t": "ranking", "es": "ranking / lista", "pron": "rránkin", "ej": "Este é meu ranking.", "ejes": "Este es mi ranking.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Na minha opinião, é de longe o melhor café da cidade.", "es": "En mi opinión, es de lejos el mejor café de la ciudad.", "pron": "na miña opiniáun é dyi lónyi u melyór kafé da sidádyi" },
+        { "t": "Sem dúvida, este é um dos mais bonitos do mundo.", "es": "Sin duda, este es uno de los más bonitos del mundo.", "pron": "séin dúvida éschi é ún dus máis bonítus du múndu" },
+        { "t": "A cidade fica cada vez mais cara.", "es": "La ciudad se pone cada vez más cara.", "pron": "a sidádyi fíka káda vés máis kára" },
+        { "t": "Eu concordo, mas o preço é caríssimo.", "es": "Estoy de acuerdo, pero el precio es carísimo.", "pron": "éu konkórdu máis u présu é karíssimu" },
+        { "t": "Esse é o pior ranking que eu vi.", "es": "Ese es el peor ranking que vi.", "pron": "ésyi é u piór rránkin ki éu ví" }
+      ],
+      "dialogo": {
+        "titulo": "Nuestro ranking",
+        "lineas": [
+          { "q": "A", "t": "Na minha opinião, o melhor prato do Brasil é a feijoada.", "es": "En mi opinión, el mejor plato de Brasil es la feijoada." },
+          { "q": "B", "t": "Eu concordo, é um dos mais gostosos.", "es": "Estoy de acuerdo, es uno de los más ricos." },
+          { "q": "A", "t": "E qual é o pior?", "es": "¿Y cuál es el peor?" },
+          { "q": "B", "t": "Eu discordo, não existe prato ruim aqui.", "es": "No estoy de acuerdo, no hay plato malo aquí." },
+          { "q": "A", "t": "Sem dúvida, a comida aqui fica cada vez mais famosa.", "es": "Sin duda, la comida aquí se vuelve cada vez más famosa." }
+        ]
+      },
+      "nota": "«Um dos mais» va siempre con plural: um dos mais bonitos. «Cada vez mais» es una expresión fija. «Sem dúvida» y «de longe» son muy comunes al opinar. «Isso» significa «eso» y «esse» significa «ese»."
+    }
+  ]
+}

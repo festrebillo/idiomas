@@ -1,0 +1,218 @@
+{
+  "id": "en-a2-u9",
+  "idioma": "en",
+  "nivel": "A2",
+  "n": 9,
+  "titulo": "Trabajo y estudios",
+  "resumen": "Aprenderás a hablar de tu trabajo y tus estudios, y a distinguir entre lo que haces siempre (presente simple) y lo que haces ahora (presente continuo).",
+  "puedo": [
+    "Decir cuál es mi profesión y preguntar a qué se dedica otra persona.",
+    "Hablar de mi rutina con always, usually, often, sometimes y never.",
+    "Decir lo que estoy haciendo ahora con el presente continuo.",
+    "Distinguir el presente simple del continuo.",
+    "Hablar de estudios y de una entrevista de trabajo."
+  ],
+  "gramatica": {
+    "titulo": "Presente simple vs. presente continuo",
+    "texto": "El presente simple (I work) habla de lo que haces siempre, de rutinas y hechos: I work in an office. Suele ir con always, usually, often, sometimes, never y every day.\nEl presente continuo (I am working) habla de lo que pasa ahora o en este momento: I am working right now. Se forma con am / is / are + verbo con -ing. Suele ir con now, right now, at the moment y today.\nTruco: si es «normalmente», presente simple; si es «ahora mismo», presente continuo. Los adverbios de frecuencia van antes del verbo principal: She always arrives early. Con to be van después: He is never late.",
+    "tabla": [
+      ["I work every day.", "Trabajo todos los días.", "ai uerk évri dei"],
+      ["I am working now.", "Estoy trabajando ahora.", "ai am uérkin nau"],
+      ["She usually walks.", "Ella suele caminar.", "shi iúshuali uoks"],
+      ["She is walking now.", "Ella está caminando ahora.", "shi is uókin nau"],
+      ["He is never late.", "Él nunca llega tarde.", "ji is néver leit"]
+    ],
+    "errores": [
+      "No uses el presente simple para lo que pasa ahora: es I'm working now, no «I work now».",
+      "No olvides el verbo to be en el continuo: She is working, no «She working».",
+      "El adverbio va antes del verbo: I usually eat lunch at one, no «I eat usually lunch»."
+    ]
+  },
+  "practica": [
+    "Di en voz alta 5 cosas que haces siempre en tu trabajo o estudios con always, usually, often (5 minutos).",
+    "Mira por la ventana y di 5 frases sobre lo que está pasando ahora: A man is walking... (5 minutos).",
+    "Preséntate en inglés para una entrevista: I'm a... I work in... Grábate y escúchate (8 minutos).",
+    "Escribe un párrafo corto: qué haces normalmente y qué estás haciendo esta semana de distinto (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-a2-u9-l1",
+      "n": 1,
+      "titulo": "Profesiones",
+      "objetivo": "Decir tu profesión y preguntar a qué se dedica otra persona.",
+      "intro": "Para preguntar la profesión se dice What do you do? (¿A qué te dedicas?). Respondes con I'm a... o I'm an... Truco: a profesión siempre lleva a/an delante: I'm a nurse, no «I'm nurse».",
+      "palabras": [
+        { "t": "engineer", "es": "ingeniero", "pron": "enyiníar", "ej": "My brother is an engineer.", "ejes": "Mi hermano es ingeniero.", "cog": true },
+        { "t": "nurse", "es": "enfermero", "pron": "ners", "ej": "She is a nurse.", "ejes": "Ella es enfermera.", "cog": false },
+        { "t": "lawyer", "es": "abogado", "pron": "lóier", "ej": "My aunt is a lawyer.", "ejes": "Mi tía es abogada.", "cog": false },
+        { "t": "accountant", "es": "contador", "pron": "acáuntant", "ej": "He is an accountant.", "ejes": "Él es contador.", "cog": false },
+        { "t": "driver", "es": "conductor", "pron": "dráiver", "ej": "My dad is a bus driver.", "ejes": "Mi papá es conductor de bus.", "cog": false },
+        { "t": "mechanic", "es": "mecánico", "pron": "mekánik", "ej": "I'm a mechanic.", "ejes": "Soy mecánico.", "cog": true },
+        { "t": "chef", "es": "cocinero / chef", "pron": "shef", "ej": "She is a chef.", "ejes": "Ella es chef.", "cog": true, "truco": "La «ch» de chef suena «sh»." },
+        { "t": "manager", "es": "gerente", "pron": "mánayer", "ej": "My boss is a manager.", "ejes": "Mi jefa es gerente.", "cog": false },
+        { "t": "student", "es": "estudiante", "pron": "stiúdent", "ej": "I'm a student.", "ejes": "Soy estudiante.", "cog": true }
+      ],
+      "frases": [
+        { "t": "What do you do?", "es": "¿A qué te dedicas?", "pron": "juat du iu du" },
+        { "t": "I'm a nurse.", "es": "Soy enfermera.", "pron": "aim a ners" },
+        { "t": "He is an engineer.", "es": "Él es ingeniero.", "pron": "ji is an enyiníar" },
+        { "t": "Where do you work?", "es": "¿Dónde trabajas?", "pron": "juér du iu uerk" },
+        { "t": "I work in a hospital.", "es": "Trabajo en un hospital.", "pron": "ai uerk in a jóspital" }
+      ],
+      "dialogo": {
+        "titulo": "Conociendo a alguien",
+        "lineas": [
+          { "q": "A", "t": "What do you do, Carla?", "es": "¿A qué te dedicas, Carla?" },
+          { "q": "B", "t": "I'm a lawyer. And you?", "es": "Soy abogada. ¿Y tú?" },
+          { "q": "A", "t": "I'm an engineer.", "es": "Soy ingeniero." },
+          { "q": "B", "t": "Where do you work?", "es": "¿Dónde trabajas?" },
+          { "q": "A", "t": "I work in a big company.", "es": "Trabajo en una empresa grande." }
+        ]
+      },
+      "nota": "What do you do? no pregunta qué estás haciendo ahora, sino cuál es tu trabajo. Si quieres saber qué haces ahora, se dice What are you doing?"
+    },
+    {
+      "id": "en-a2-u9-l2",
+      "n": 2,
+      "titulo": "Mi rutina de trabajo",
+      "objetivo": "Hablar de tu rutina con adverbios de frecuencia.",
+      "intro": "Los adverbios de frecuencia dicen cuántas veces haces algo, del 100 % al 0 %: always, usually, often, sometimes, never. Truco: van antes del verbo (I always drink coffee) y después de to be (I'm always tired).",
+      "palabras": [
+        { "t": "always", "es": "siempre", "pron": "ólueis", "ej": "I always drink coffee.", "ejes": "Siempre tomo café.", "cog": false },
+        { "t": "usually", "es": "normalmente", "pron": "iúshuali", "ej": "I usually start at eight.", "ejes": "Normalmente empiezo a las ocho.", "cog": false },
+        { "t": "often", "es": "a menudo", "pron": "ófen", "ej": "We often have meetings.", "ejes": "A menudo tenemos reuniones.", "cog": false, "truco": "La «t» de often casi no se oye: ófen." },
+        { "t": "sometimes", "es": "a veces", "pron": "samtáims", "ej": "Sometimes I work late.", "ejes": "A veces trabajo hasta tarde.", "cog": false },
+        { "t": "never", "es": "nunca", "pron": "néver", "ej": "I never work on Sunday.", "ejes": "Nunca trabajo el domingo.", "cog": false, "truco": "never ya es negativo: no pongas don't." },
+        { "t": "every day", "es": "todos los días", "pron": "évri dei", "ej": "I go to the office every day.", "ejes": "Voy a la oficina todos los días.", "cog": false },
+        { "t": "office", "es": "oficina", "pron": "ófis", "ej": "My office is near the park.", "ejes": "Mi oficina está cerca del parque.", "cog": false },
+        { "t": "boss", "es": "jefe", "pron": "bos", "ej": "My boss is very nice.", "ejes": "Mi jefe es muy amable.", "cog": false },
+        { "t": "colleague", "es": "colega", "pron": "cólig", "ej": "My colleague is from Lima.", "ejes": "Mi colega es de Lima.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I always drink coffee at work.", "es": "Siempre tomo café en el trabajo.", "pron": "ai ólueis drink cófi at uerk" },
+        { "t": "She usually starts at eight.", "es": "Ella normalmente empieza a las ocho.", "pron": "shi iúshuali starts at eit" },
+        { "t": "We often have meetings.", "es": "A menudo tenemos reuniones.", "pron": "ui ófen jav mítins" },
+        { "t": "Sometimes I work late.", "es": "A veces trabajo hasta tarde.", "pron": "samtáims ai uerk leit" },
+        { "t": "He is never late.", "es": "Él nunca llega tarde.", "pron": "ji is néver leit" },
+        { "t": "I never work on Sunday.", "es": "Nunca trabajo el domingo.", "pron": "ai néver uerk on sándei" }
+      ],
+      "dialogo": {
+        "titulo": "Una semana normal",
+        "lineas": [
+          { "q": "A", "t": "Do you work every day?", "es": "¿Trabajas todos los días?" },
+          { "q": "B", "t": "Yes, but I never work on Sunday.", "es": "Sí, pero nunca trabajo el domingo." },
+          { "q": "A", "t": "Do you often work late?", "es": "¿Trabajas tarde a menudo?" },
+          { "q": "B", "t": "Sometimes. My boss is always busy.", "es": "A veces. Mi jefe siempre está ocupado." }
+        ]
+      },
+      "nota": "Con never no se usa un segundo no: I never eat meat (nunca como carne). Sometimes también puede ir al inicio de la frase: Sometimes I work late."
+    },
+    {
+      "id": "en-a2-u9-l3",
+      "n": 3,
+      "titulo": "¿Qué estás haciendo?",
+      "objetivo": "Decir lo que estás haciendo ahora con el presente continuo.",
+      "intro": "El presente continuo se forma con am / is / are + verbo con -ing: I am working. Truco: en inglés este tiempo es tu «estoy haciendo» en español. Si el verbo acaba en -e, la pierdes: write - writing.",
+      "palabras": [
+        { "t": "now", "es": "ahora", "pron": "nau", "ej": "I'm working now.", "ejes": "Estoy trabajando ahora.", "cog": false },
+        { "t": "right now", "es": "ahora mismo", "pron": "rait nau", "ej": "I'm busy right now.", "ejes": "Estoy ocupado ahora mismo.", "cog": false },
+        { "t": "at the moment", "es": "en este momento", "pron": "at da móument", "ej": "She is in a meeting at the moment.", "ejes": "Ella está en una reunión en este momento.", "cog": false },
+        { "t": "meeting", "es": "reunión", "pron": "mítin", "ej": "I'm in a meeting.", "ejes": "Estoy en una reunión.", "cog": false },
+        { "t": "email", "es": "correo electrónico", "pron": "ímeil", "ej": "I'm writing an email.", "ejes": "Estoy escribiendo un correo.", "cog": true },
+        { "t": "call", "es": "llamar / llamada", "pron": "col", "ej": "He is making a call.", "ejes": "Él está haciendo una llamada.", "cog": false },
+        { "t": "busy", "es": "ocupado", "pron": "bísi", "ej": "I'm busy today.", "ejes": "Estoy ocupado hoy.", "cog": false, "truco": "busy suena «bísi»: la «u» es una «i»." },
+        { "t": "wait", "es": "esperar", "pron": "ueit", "ej": "I wait for my boss every morning.", "ejes": "Espero a mi jefe todas las mañanas.", "cog": false },
+        { "t": "write", "es": "escribir", "pron": "rait", "ej": "I write a report every week.", "ejes": "Escribo un informe cada semana.", "cog": false, "truco": "La «w» de write no suena: rait. El -ing es writing." }
+      ],
+      "frases": [
+        { "t": "I'm working now.", "es": "Estoy trabajando ahora.", "pron": "aim uérkin nau" },
+        { "t": "She is writing an email.", "es": "Ella está escribiendo un correo.", "pron": "shi is ráitin an ímeil" },
+        { "t": "They are waiting for the boss.", "es": "Ellos están esperando al jefe.", "pron": "dei ar uéitin for da bos" },
+        { "t": "He isn't working at the moment.", "es": "Él no está trabajando en este momento.", "pron": "ji ísnt uérkin at da móument" },
+        { "t": "What are you doing right now?", "es": "¿Qué estás haciendo ahora mismo?", "pron": "juat ar iu dúin rait nau" }
+      ],
+      "dialogo": {
+        "titulo": "Una llamada en horario de oficina",
+        "lineas": [
+          { "q": "A", "t": "Hi, Pedro. What are you doing?", "es": "Hola, Pedro. ¿Qué estás haciendo?" },
+          { "q": "B", "t": "I'm writing an email. I'm busy right now.", "es": "Estoy escribiendo un correo. Estoy ocupado ahora mismo." },
+          { "q": "A", "t": "Is your boss in the office?", "es": "¿Tu jefe está en la oficina?" },
+          { "q": "B", "t": "No, he's in a meeting at the moment.", "es": "No, está en una reunión en este momento." }
+        ]
+      },
+      "nota": "Para el negativo del continuo se pone not después de am / is / are: I'm not working, she isn't working. Para la pregunta, se invierte el orden: Are you working?"
+    },
+    {
+      "id": "en-a2-u9-l4",
+      "n": 4,
+      "titulo": "Estudios: simple o continuo",
+      "objetivo": "Contrastar lo que haces siempre con lo que haces ahora.",
+      "intro": "Aquí juntas las dos ideas: I usually study at night, but today I'm studying in the morning. Truco: busca las palabras señal. Every day, usually, always = simple. Now, today, this week = continuo.",
+      "palabras": [
+        { "t": "university", "es": "universidad", "pron": "iunivérsiti", "ej": "I study at the university.", "ejes": "Estudio en la universidad.", "cog": true },
+        { "t": "class", "es": "clase", "pron": "clas", "ej": "I have a class at ten.", "ejes": "Tengo una clase a las diez.", "cog": true },
+        { "t": "homework", "es": "tarea", "pron": "jóumuerk", "ej": "I do my homework at night.", "ejes": "Hago mi tarea por la noche.", "cog": false, "truco": "homework es incontable: no tiene plural." },
+        { "t": "exam", "es": "examen", "pron": "egsám", "ej": "I have an exam on Friday.", "ejes": "Tengo un examen el viernes.", "cog": true },
+        { "t": "course", "es": "curso", "pron": "cors", "ej": "I'm taking an English course.", "ejes": "Estoy llevando un curso de inglés.", "cog": true },
+        { "t": "subject", "es": "materia", "pron": "sábyect", "ej": "Math is my favorite subject.", "ejes": "Matemática es mi materia favorita.", "cog": false },
+        { "t": "learn", "es": "aprender", "pron": "lern", "ej": "I want to learn English.", "ejes": "Quiero aprender inglés.", "cog": false },
+        { "t": "pass", "es": "aprobar", "pron": "pas", "ej": "I want to pass the exam.", "ejes": "Quiero aprobar el examen.", "cog": false },
+        { "t": "this week", "es": "esta semana", "pron": "dis uik", "ej": "I'm studying a lot this week.", "ejes": "Esta semana estudio mucho.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I usually study at night.", "es": "Normalmente estudio de noche.", "pron": "ai iúshuali stádi at nait" },
+        { "t": "Today I'm studying in the morning.", "es": "Hoy estoy estudiando en la mañana.", "pron": "tudéi aim stádiin in da mórnin" },
+        { "t": "I have an exam on Friday.", "es": "Tengo un examen el viernes.", "pron": "ai jav an egsám on fráidei" },
+        { "t": "She is learning English this week.", "es": "Ella está aprendiendo inglés esta semana.", "pron": "shi is lérnin ínglish dis uik" },
+        { "t": "I want to pass the exam.", "es": "Quiero aprobar el examen.", "pron": "ai uant tu pas di egsám" }
+      ],
+      "dialogo": {
+        "titulo": "En la universidad",
+        "lineas": [
+          { "q": "A", "t": "Do you usually study in the library?", "es": "¿Normalmente estudias en la biblioteca?" },
+          { "q": "B", "t": "Yes, but today I'm studying at home.", "es": "Sí, pero hoy estoy estudiando en casa." },
+          { "q": "A", "t": "Why?", "es": "¿Por qué?" },
+          { "q": "B", "t": "I have an exam on Friday, and I'm very busy this week.", "es": "Tengo un examen el viernes y estoy muy ocupado esta semana." }
+        ]
+      },
+      "nota": "Take se usa con cursos y exámenes: take a course, take an exam (rendir un examen). No significa aprobarlo: para aprobar se dice pass."
+    },
+    {
+      "id": "en-a2-u9-l5",
+      "n": 5,
+      "titulo": "Repaso: una entrevista",
+      "objetivo": "Repasar vocabulario de trabajo y contar tu situación en una entrevista.",
+      "intro": "En una entrevista usas las dos formas: presente simple para lo que haces normalmente (I usually work with clients) y presente continuo para tu situación actual (I'm looking for a new job). Truco: Tell me about yourself es la primera pregunta típica.",
+      "palabras": [
+        { "t": "interview", "es": "entrevista", "pron": "ínterviu", "ej": "I have an interview today.", "ejes": "Tengo una entrevista hoy.", "cog": true },
+        { "t": "salary", "es": "sueldo", "pron": "sálari", "ej": "The salary is good.", "ejes": "El sueldo es bueno.", "cog": true },
+        { "t": "schedule", "es": "horario", "pron": "squéyul", "ej": "My schedule is very busy.", "ejes": "Mi horario es muy ocupado.", "cog": false, "truco": "En EE. UU. suena «squéyul»." },
+        { "t": "full-time", "es": "tiempo completo", "pron": "ful taim", "ej": "I work full-time.", "ejes": "Trabajo a tiempo completo.", "cog": false },
+        { "t": "part-time", "es": "medio tiempo", "pron": "part taim", "ej": "I have a part-time job.", "ejes": "Tengo un trabajo de medio tiempo.", "cog": false },
+        { "t": "company", "es": "empresa", "pron": "cámpani", "ej": "I work for a big company.", "ejes": "Trabajo para una empresa grande.", "cog": false },
+        { "t": "apply", "es": "postular", "pron": "aplái", "ej": "I want to apply for this job.", "ejes": "Quiero postular a este trabajo.", "cog": false },
+        { "t": "look for", "es": "buscar", "pron": "luk for", "ej": "I look for jobs online every day.", "ejes": "Busco trabajos en internet todos los días.", "cog": false },
+        { "t": "job", "es": "trabajo / empleo", "pron": "yab", "ej": "I like my job.", "ejes": "Me gusta mi trabajo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I have an interview today.", "es": "Tengo una entrevista hoy.", "pron": "ai jav an ínterviu tudéi" },
+        { "t": "I'm looking for a new job.", "es": "Estoy buscando un trabajo nuevo.", "pron": "aim lúkin for a niu yab" },
+        { "t": "I usually work with clients.", "es": "Normalmente trabajo con clientes.", "pron": "ai iúshuali uerk uiz cláients" },
+        { "t": "I want to apply for this job.", "es": "Quiero postular a este trabajo.", "pron": "ai uant tu aplái for dis yab" },
+        { "t": "I work full-time, from nine to five.", "es": "Trabajo a tiempo completo, de nueve a cinco.", "pron": "ai uerk ful taim, from nain tu faiv" },
+        { "t": "Tell me about yourself.", "es": "Cuénteme sobre usted.", "pron": "tel mi abáut iursélf" }
+      ],
+      "dialogo": {
+        "titulo": "En la entrevista",
+        "lineas": [
+          { "q": "A", "t": "Tell me about yourself.", "es": "Cuénteme sobre usted." },
+          { "q": "B", "t": "I'm an accountant. I work for a small company.", "es": "Soy contador. Trabajo para una empresa pequeña." },
+          { "q": "A", "t": "Why are you looking for a new job?", "es": "¿Por qué busca un nuevo trabajo?" },
+          { "q": "B", "t": "I want a better schedule and a better salary.", "es": "Quiero un mejor horario y un mejor sueldo." },
+          { "q": "A", "t": "I see. Do you usually work late?", "es": "Entiendo. ¿Normalmente trabaja hasta tarde?" }
+        ]
+      },
+      "nota": "En inglés, job es un puesto concreto (I have a good job) y work es el trabajo en general, que es incontable: I have a lot of work. No se dice «a work»."
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "id": "en-a2-u1",
+  "idioma": "en",
+  "nivel": "A2",
+  "n": 1,
+  "titulo": "El fin de semana pasado",
+  "resumen": "Aprenderás a contar lo que pasó ayer y el fin de semana pasado usando was/were y los verbos regulares terminados en -ed.",
+  "puedo": [
+    "Decir dónde estuve y cómo me sentí con was y were.",
+    "Usar yesterday, last night y last weekend.",
+    "Formar el pasado de verbos regulares con -ed.",
+    "Aplicar las reglas de escritura de -ed (-d, -ied, doble letra).",
+    "Contar lo que hice el fin de semana.",
+    "Narrar una secuencia con first, then y finally."
+  ],
+  "gramatica": {
+    "titulo": "El pasado de to be (was/were) y los verbos regulares con -ed",
+    "texto": "Para hablar de algo que ya terminó usamos el pasado. El verbo to be tiene dos formas: was (I, he, she, it) y were (you, we, they). Ejemplo: I was tired (estuve cansado), They were at home (estaban en casa).\nPara los demás verbos regulares, añade -ed a la forma base y no cambia con la persona: I watched, she watched, they watched. Si el verbo ya termina en -e, solo añade -d (dance, danced). Si termina en consonante + y, la y cambia a -ied (study, studied). Si es corto y termina en vocal + consonante, se duplica la consonante (stop, stopped).\nNegativo de to be: wasn't y weren't.",
+    "tabla": [
+      ["I / he / she / it was", "yo / él / ella / eso fue, estuvo", "ai / ji / shi / it uos"],
+      ["you / we / they were", "tú / nosotros / ellos fueron, estuvieron", "iu / ui / dei uer"],
+      ["I wasn't / we weren't", "yo no estuve / nosotros no estuvimos", "ai uásent / ui uérnt"],
+      ["watch → watched", "mirar → miré", "uach → uacht"],
+      ["dance → danced / study → studied / stop → stopped", "bailar / estudiar / parar", "dans → danst / stádi → stádid / stap → stapt"]
+    ],
+    "errores": [
+      "No uses am/is/are para el pasado: es I was tired, no «I am tired yesterday».",
+      "No cambies el verbo con -s ni con la persona en pasado: she watched (no «she watcheds»).",
+      "Recuerda que -ed no se pronuncia siempre «ed»: walked suena «uokt» y played suena «pleid»."
+    ]
+  },
+  "practica": [
+    "Escribe 5 frases con was/were sobre dónde estuviste ayer y cómo te sentiste, y léelas en voz alta (5 minutos).",
+    "Cuenta en voz alta qué hiciste el fin de semana pasado usando 5 verbos con -ed (5 minutos).",
+    "Pon el celular en inglés y mira un video corto; luego di 3 frases en pasado sobre lo que viste, por ejemplo I watched a video (5 minutos).",
+    "Escribe un minidiario de 4 líneas sobre ayer con first, then y finally (7 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-a2-u1-l1",
+      "n": 1,
+      "titulo": "Ayer y anoche: was y were",
+      "objetivo": "Decir dónde estuviste y cómo te sentiste en el pasado.",
+      "intro": "Para el pasado de to be hay solo dos formas. Truco: was va con I, he, she, it (formas singulares) y were con you, we, they. Si sabes am/is/are, ya casi lo tienes.",
+      "palabras": [
+        { "t": "was", "es": "fue / estuvo / era", "pron": "uos", "ej": "I was at home.", "ejes": "Yo estaba en casa.", "cog": false, "truco": "Pasado de am e is." },
+        { "t": "were", "es": "fueron / estaban / eras", "pron": "uer", "ej": "We were at the beach.", "ejes": "Estábamos en la playa.", "cog": false, "truco": "Pasado de are. Suena casi «uer»." },
+        { "t": "wasn't", "es": "no fue / no estuvo", "pron": "uásent", "ej": "She wasn't at work.", "ejes": "Ella no estaba en el trabajo.", "cog": false },
+        { "t": "weren't", "es": "no fueron / no estaban", "pron": "uérnt", "ej": "They weren't at school.", "ejes": "No estaban en la escuela.", "cog": false },
+        { "t": "yesterday", "es": "ayer", "pron": "iésterdei", "ej": "I was busy yesterday.", "ejes": "Ayer estuve ocupado.", "cog": false },
+        { "t": "last night", "es": "anoche", "pron": "last nait", "ej": "We were tired last night.", "ejes": "Anoche estábamos cansados.", "cog": false },
+        { "t": "last weekend", "es": "el fin de semana pasado", "pron": "last uíkend", "ej": "Last weekend was fun.", "ejes": "El fin de semana pasado fue divertido.", "cog": false },
+        { "t": "busy", "es": "ocupado", "pron": "bísi", "ej": "Tom was very busy.", "ejes": "Tom estuvo muy ocupado.", "cog": false, "truco": "La «u» de busy suena «i»: «bísi»." },
+        { "t": "tired", "es": "cansado", "pron": "táierd", "ej": "I was so tired.", "ejes": "Estaba muy cansado.", "cog": false },
+        { "t": "at work", "es": "en el trabajo", "pron": "at uerk", "ej": "I was at work yesterday.", "ejes": "Ayer estuve en el trabajo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I was at home last night.", "es": "Anoche estuve en casa.", "pron": "ai uos at jóum last nait" },
+        { "t": "Where were you yesterday?", "es": "¿Dónde estuviste ayer?", "pron": "juér uer iu iésterdei" },
+        { "t": "She wasn't at work.", "es": "Ella no estaba en el trabajo.", "pron": "shi uásent at uerk" },
+        { "t": "We were tired last weekend.", "es": "Estuvimos cansados el fin de semana pasado.", "pron": "ui uer táierd last uíkend" },
+        { "t": "Were you busy yesterday?", "es": "¿Estuviste ocupado ayer?", "pron": "uer iu bísi iésterdei" }
+      ],
+      "dialogo": {
+        "titulo": "Un mensaje a una amiga",
+        "lineas": [
+          { "q": "A", "t": "Hi, Ana! Where were you yesterday?", "es": "¡Hola, Ana! ¿Dónde estuviste ayer?" },
+          { "q": "B", "t": "I was at work. I was very busy.", "es": "Estuve en el trabajo. Estuve muy ocupada." },
+          { "q": "A", "t": "Were you tired last night?", "es": "¿Estabas cansada anoche?" },
+          { "q": "B", "t": "Yes, I was. And you?", "es": "Sí. ¿Y tú?" },
+          { "q": "A", "t": "I wasn't tired. I was at home.", "es": "Yo no estaba cansado. Estaba en casa." }
+        ]
+      },
+      "nota": "Para preguntar se invierte el orden, igual que con is/are: You were busy → Were you busy? Y las respuestas cortas son Yes, I was. / No, I wasn't."
+    },
+    {
+      "id": "en-a2-u1-l2",
+      "n": 2,
+      "titulo": "Verbos regulares con -ed",
+      "objetivo": "Contar lo que hiciste usando verbos regulares en pasado.",
+      "intro": "Los verbos regulares son fáciles: añade -ed y listo, para todas las personas. Truco: la -ed casi nunca suena «ed»; suele sonar «t» (walked) o «d» (played).",
+      "palabras": [
+        { "t": "visited", "es": "visité", "pron": "vísitid", "ej": "We visited my aunt.", "ejes": "Visitamos a mi tía.", "cog": true },
+        { "t": "watched", "es": "miré / vi", "pron": "uacht", "ej": "I watched a movie.", "ejes": "Vi una película.", "cog": false, "truco": "Suena «uacht»: la -ed es una «t»." },
+        { "t": "cleaned", "es": "limpié", "pron": "clind", "ej": "I cleaned my room.", "ejes": "Limpié mi cuarto.", "cog": false },
+        { "t": "cooked", "es": "cociné", "pron": "cukt", "ej": "She cooked dinner.", "ejes": "Ella cocinó la cena.", "cog": false },
+        { "t": "walked", "es": "caminé", "pron": "uokt", "ej": "We walked in the park.", "ejes": "Caminamos en el parque.", "cog": false },
+        { "t": "played", "es": "jugué / toqué", "pron": "pleid", "ej": "They played soccer.", "ejes": "Ellos jugaron fútbol.", "cog": false },
+        { "t": "listened", "es": "escuché", "pron": "lísend", "ej": "He listened to music.", "ejes": "Él escuchó música.", "cog": false, "truco": "La «t» de listen no suena." },
+        { "t": "stayed", "es": "me quedé", "pron": "steid", "ej": "I stayed at home.", "ejes": "Me quedé en casa.", "cog": false },
+        { "t": "washed", "es": "lavé", "pron": "uasht", "ej": "Dad washed the car.", "ejes": "Papá lavó el carro.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I watched a movie last night.", "es": "Anoche vi una película.", "pron": "ai uacht a múvi last nait" },
+        { "t": "She cooked dinner for us.", "es": "Ella nos cocinó la cena.", "pron": "shi cukt dínner for as" },
+        { "t": "We walked in the park.", "es": "Caminamos por el parque.", "pron": "ui uokt in da park" },
+        { "t": "They played soccer on Saturday.", "es": "Jugaron fútbol el sábado.", "pron": "dei pleid sáker on sáterdei" },
+        { "t": "I cleaned my room yesterday.", "es": "Ayer limpié mi cuarto.", "pron": "ai clind mai rum iésterdei" },
+        { "t": "He listened to music.", "es": "Él escuchó música.", "pron": "ji lísend tu miúsik" }
+      ],
+      "dialogo": {
+        "titulo": "El sábado de Carlos",
+        "lineas": [
+          { "q": "A", "t": "Hi, Carlos! What did you do?", "es": "¡Hola, Carlos! ¿Qué hiciste?" },
+          { "q": "B", "t": "I stayed at home on Saturday.", "es": "Me quedé en casa el sábado." },
+          { "q": "A", "t": "Really? Were you busy?", "es": "¿En serio? ¿Estabas ocupado?" },
+          { "q": "B", "t": "Yes. I cleaned and I cooked.", "es": "Sí. Limpié y cociné." },
+          { "q": "A", "t": "And then I watched a movie.", "es": "Y luego vi una película." }
+        ]
+      },
+      "nota": "En el diálogo aparece What did you do? (¿Qué hiciste?). Por ahora aprende esa pregunta como una frase hecha; en la unidad 3 verás cómo funciona did."
+    },
+    {
+      "id": "en-a2-u1-l3",
+      "n": 3,
+      "titulo": "Reglas de escritura con -ed",
+      "objetivo": "Escribir y decir bien los verbos que cambian al añadir -ed.",
+      "intro": "No todos los verbos añaden solo -ed. Truco: si ya termina en -e, solo pones -d; si termina en consonante + y, la y se vuelve -ied; si es corto con vocal + consonante, se duplica la consonante (stop, stopped).",
+      "palabras": [
+        { "t": "danced", "es": "bailé", "pron": "danst", "ej": "We danced all night.", "ejes": "Bailamos toda la noche.", "cog": false, "truco": "dance + d (ya termina en -e)." },
+        { "t": "arrived", "es": "llegué / llegó", "pron": "aráivd", "ej": "She arrived at six.", "ejes": "Ella llegó a las seis.", "cog": false },
+        { "t": "studied", "es": "estudié", "pron": "stádid", "ej": "I studied English.", "ejes": "Estudié inglés.", "cog": false, "truco": "study → studied: la y cambia a -ied." },
+        { "t": "tried", "es": "intenté / probé", "pron": "traid", "ej": "I tried the soup.", "ejes": "Probé la sopa.", "cog": false },
+        { "t": "stopped", "es": "me detuve / paró", "pron": "stapt", "ej": "The bus stopped.", "ejes": "El bus se detuvo.", "cog": false, "truco": "stop → stopped: se duplica la p." },
+        { "t": "planned", "es": "planeé", "pron": "pland", "ej": "We planned a party.", "ejes": "Planeamos una fiesta.", "cog": true },
+        { "t": "decided", "es": "decidí", "pron": "disáidid", "ej": "I decided to stay.", "ejes": "Decidí quedarme.", "cog": true, "truco": "Tras «d» o «t», la -ed suena «id»." },
+        { "t": "needed", "es": "necesité", "pron": "nídid", "ej": "I needed some help.", "ejes": "Necesité ayuda.", "cog": false },
+        { "t": "liked", "es": "me gustó", "pron": "laikt", "ej": "He liked the music.", "ejes": "A él le gustó la música.", "cog": false }
+      ],
+      "frases": [
+        { "t": "We danced all night.", "es": "Bailamos toda la noche.", "pron": "ui danst ol nait" },
+        { "t": "She arrived at six.", "es": "Ella llegó a las seis.", "pron": "shi aráivd at siks" },
+        { "t": "I studied English yesterday.", "es": "Ayer estudié inglés.", "pron": "ai stádid ínglish iésterdei" },
+        { "t": "The bus stopped at the corner.", "es": "El bus se detuvo en la esquina.", "pron": "da bas stapt at da córner" },
+        { "t": "We planned a party for Sunday.", "es": "Planeamos una fiesta para el domingo.", "pron": "ui pland a párti for sándei" },
+        { "t": "I liked the music.", "es": "Me gustó la música.", "pron": "ai laikt da miúsik" }
+      ],
+      "dialogo": {
+        "titulo": "Después de la fiesta",
+        "lineas": [
+          { "q": "A", "t": "Hi, Lucia! The party was great.", "es": "¡Hola, Lucía! La fiesta estuvo genial." },
+          { "q": "B", "t": "Yes! We danced all night.", "es": "¡Sí! Bailamos toda la noche." },
+          { "q": "A", "t": "I arrived late, but I liked the music.", "es": "Llegué tarde, pero me gustó la música." },
+          { "q": "B", "t": "I decided to stay until twelve.", "es": "Decidí quedarme hasta las doce." },
+          { "q": "A", "t": "I needed some sleep, so I stopped at eleven.", "es": "Necesitaba dormir, así que paré a las once." }
+        ]
+      },
+      "nota": "Cómo suena la -ed: después de t o d suena «id» (needed, decided); después de sonidos suaves como p, k, s, ch, sh suena «t» (stopped, danced); en los demás casos suena «d» (played, arrived)."
+    },
+    {
+      "id": "en-a2-u1-l4",
+      "n": 4,
+      "titulo": "Un fin de semana ocupado",
+      "objetivo": "Contar actividades del fin de semana con más verbos regulares.",
+      "intro": "Ahora ampliamos tu lista de verbos regulares para hablar de compras, fiestas y planes. Truco: para recordarlos, di cada verbo con una frase sobre tu último fin de semana.",
+      "palabras": [
+        { "t": "shopped", "es": "fui de compras", "pron": "shapt", "ej": "We shopped at the mall.", "ejes": "Fuimos de compras al centro comercial.", "cog": false, "truco": "shop → shopped: doble p." },
+        { "t": "painted", "es": "pinté", "pron": "péintid", "ej": "I painted the door.", "ejes": "Pinté la puerta.", "cog": false },
+        { "t": "called", "es": "llamé", "pron": "cold", "ej": "I called my mom.", "ejes": "Llamé a mi mamá.", "cog": false },
+        { "t": "helped", "es": "ayudé", "pron": "jelpt", "ej": "He helped his friend.", "ejes": "Él ayudó a su amigo.", "cog": false },
+        { "t": "invited", "es": "invité", "pron": "inváitid", "ej": "We invited Sam.", "ejes": "Invitamos a Sam.", "cog": true },
+        { "t": "started", "es": "empecé / empezó", "pron": "stártid", "ej": "The movie started late.", "ejes": "La película empezó tarde.", "cog": false },
+        { "t": "finished", "es": "terminé", "pron": "fínisht", "ej": "I finished my homework.", "ejes": "Terminé mi tarea.", "cog": false },
+        { "t": "rained", "es": "llovió", "pron": "reind", "ej": "It rained all day.", "ejes": "Llovió todo el día.", "cog": false },
+        { "t": "laughed", "es": "me reí", "pron": "laft", "ej": "We laughed a lot.", "ejes": "Nos reímos mucho.", "cog": false, "truco": "gh suena «f»: «laft»." }
+      ],
+      "frases": [
+        { "t": "We shopped at the mall.", "es": "Fuimos de compras al centro comercial.", "pron": "ui shapt at da mol" },
+        { "t": "I painted my room last weekend.", "es": "Pinté mi cuarto el fin de semana pasado.", "pron": "ai péintid mai rum last uíkend" },
+        { "t": "He called his mom on Sunday.", "es": "Él llamó a su mamá el domingo.", "pron": "ji cold jis mam an sándei" },
+        { "t": "It rained all day.", "es": "Llovió todo el día.", "pron": "it reind ol dei" },
+        { "t": "We laughed a lot.", "es": "Nos reímos mucho.", "pron": "ui laft a lat" },
+        { "t": "I finished my homework.", "es": "Terminé mi tarea.", "pron": "ai fínisht mai jóumuerk" }
+      ],
+      "dialogo": {
+        "titulo": "El lunes en la oficina",
+        "lineas": [
+          { "q": "A", "t": "Good morning, Emma! How was your weekend?", "es": "¡Buenos días, Emma! ¿Cómo estuvo tu fin de semana?" },
+          { "q": "B", "t": "It was good. It rained on Saturday.", "es": "Estuvo bien. El sábado llovió." },
+          { "q": "A", "t": "Oh no! Were you at home?", "es": "¡Ay, no! ¿Estabas en casa?" },
+          { "q": "B", "t": "Yes. I painted my room and called my mom.", "es": "Sí. Pinté mi cuarto y llamé a mi mamá." },
+          { "q": "A", "t": "That sounds nice.", "es": "Suena bien." }
+        ]
+      },
+      "nota": "How was your weekend? es la pregunta típica del lunes en el trabajo. Una respuesta corta y natural es It was good, thanks. / It was great!"
+    },
+    {
+      "id": "en-a2-u1-l5",
+      "n": 5,
+      "titulo": "Repaso: contar mi fin de semana",
+      "objetivo": "Contar una secuencia de hechos del pasado con conectores.",
+      "intro": "Para contar una historia en orden usa first, then, after that y finally. Truco: con estos conectores y los verbos en pasado puedes contar cualquier día.",
+      "palabras": [
+        { "t": "first", "es": "primero", "pron": "ferst", "ej": "First, I cleaned the house.", "ejes": "Primero, limpié la casa.", "cog": false },
+        { "t": "then", "es": "luego / después", "pron": "den", "ej": "Then I cooked lunch.", "ejes": "Luego cociné el almuerzo.", "cog": false },
+        { "t": "after that", "es": "después de eso", "pron": "áfter dat", "ej": "After that, I called Ana.", "ejes": "Después de eso, llamé a Ana.", "cog": false },
+        { "t": "finally", "es": "por fin / al final", "pron": "fáinali", "ej": "Finally, we watched a movie.", "ejes": "Al final, vimos una película.", "cog": false },
+        { "t": "on Saturday", "es": "el sábado", "pron": "on sáterdei", "ej": "We played soccer on Saturday.", "ejes": "Jugamos fútbol el sábado.", "cog": false },
+        { "t": "on Sunday", "es": "el domingo", "pron": "on sándei", "ej": "I stayed home on Sunday.", "ejes": "Me quedé en casa el domingo.", "cog": false },
+        { "t": "all day", "es": "todo el día", "pron": "ol dei", "ej": "It rained all day.", "ejes": "Llovió todo el día.", "cog": false },
+        { "t": "together", "es": "juntos", "pron": "tuguéder", "ej": "We cooked together.", "ejes": "Cocinamos juntos.", "cog": false },
+        { "t": "great", "es": "genial", "pron": "greit", "ej": "The weekend was great.", "ejes": "El fin de semana fue genial.", "cog": false, "truco": "great suena «greit», no «grit»." }
+      ],
+      "frases": [
+        { "t": "First, I cleaned the house.", "es": "Primero, limpié la casa.", "pron": "ferst, ai clind da jaus" },
+        { "t": "Then we cooked lunch together.", "es": "Luego cocinamos el almuerzo juntos.", "pron": "den ui cukt lanch tuguéder" },
+        { "t": "After that, I called Ana.", "es": "Después de eso, llamé a Ana.", "pron": "áfter dat, ai cold ána" },
+        { "t": "Finally, we watched a movie.", "es": "Al final, vimos una película.", "pron": "fáinali, ui uacht a múvi" },
+        { "t": "It rained all day on Sunday.", "es": "El domingo llovió todo el día.", "pron": "it reind ol dei on sándei" },
+        { "t": "My weekend was great!", "es": "¡Mi fin de semana fue genial!", "pron": "mai uíkend uos greit" }
+      ],
+      "dialogo": {
+        "titulo": "Contando el sábado",
+        "lineas": [
+          { "q": "A", "t": "What did you do on Saturday, Diego?", "es": "¿Qué hiciste el sábado, Diego?" },
+          { "q": "B", "t": "First, I cleaned the house. Then I cooked lunch.", "es": "Primero, limpié la casa. Luego cociné el almuerzo." },
+          { "q": "A", "t": "And after that?", "es": "¿Y después de eso?" },
+          { "q": "B", "t": "I called my sister. Finally, we watched a movie together.", "es": "Llamé a mi hermana. Al final, vimos una película juntos." },
+          { "q": "A", "t": "Your weekend was great!", "es": "¡Tu fin de semana fue genial!" }
+        ]
+      },
+      "nota": "Repaso de la unidad: was/were para estados (I was tired), -ed para acciones (I watched a movie). Recuerda las reglas: dance → danced, study → studied, stop → stopped."
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "id": "pt-a2-u11",
+  "idioma": "pt",
+  "nivel": "A2",
+  "n": 11,
+  "titulo": "El futuro y las promesas",
+  "resumen": "Aprenderás a hablar de planes y promesas con «vou + infinitivo», a predecir el tiempo y a reconocer el futuro simple como «farei» o «será».",
+  "puedo": [
+    "Decir cuándo va a pasar algo con amanhã, semana que vem, ano que vem.",
+    "Hablar de mis planes con «vou», «vai», «vamos» y «vão».",
+    "Hacer una promesa simple y pedir una.",
+    "Hacer predicciones sobre el tiempo y la vida.",
+    "Reconocer el futuro simple: farei, será, terá."
+  ],
+  "gramatica": {
+    "titulo": "El futuro: vou + infinitivo y el futuro simple (reconocimiento)",
+    "texto": "La forma más usada para hablar del futuro es «ir» + infinitivo, como en español: Eu vou viajar amanhã (Voy a viajar mañana). Se usa «vou, vai, vamos, vão» + el verbo en infinitivo.\nEl futuro simple (farei, será, terá) existe, pero casi solo lo verás en textos, noticias o promesas formales: Farei o possível (Haré lo posible). Basta con que lo reconozcas: -ei para «yo», -á para «él/ella/usted».\nPara hablar de algo cierto en el futuro usa también el presente: Amanhã eu trabalho (Mañana trabajo).",
+    "tabla": [
+      ["Eu vou viajar.", "Voy a viajar.", "éu vou viayár"],
+      ["Você vai estudar.", "Vas a estudiar.", "vosé vái estudár"],
+      ["Nós vamos comer.", "Vamos a comer.", "nós vámus komér"],
+      ["Eles vão chegar.", "Ellos van a llegar.", "élis váun shegár"],
+      ["Farei o possível.", "Haré lo posible.", "fareí u posível"],
+      ["Amanhã será bom.", "Mañana será bueno.", "amañán será bóin"]
+    ],
+    "errores": [
+      "No uses «vou a viajar»: en portugués no se pone «a» después de «vou», se dice «vou viajar».",
+      "El futuro simple (farei, será) casi no se usa al hablar: di «vou fazer», «vai ser».",
+      "«Vai» significa «vas» o «va»: «você vai» y «ele vai»; no existe «vas» como tal."
+    ]
+  },
+  "practica": [
+    "Escribe tus planes de mañana y de la próxima semana con «Eu vou...» (6 frases, 5 minutos).",
+    "Haz 3 promesas en voz alta a un amigo imaginario con «Eu vou...» y «Eu prometo...» (4 minutos).",
+    "Mira el pronóstico del tiempo de tu ciudad y dilo en portugués con «Vai chover / vai fazer calor» (4 minutos).",
+    "Busca en YouTube «previsão do tempo em português» y anota 5 frases con futuro (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-a2-u11-l1",
+      "n": 1,
+      "titulo": "Cuándo pasa",
+      "objetivo": "Usar expresiones de tiempo para hablar del futuro.",
+      "intro": "Para ubicar un plan en el futuro usa marcadores: amanhã, semana que vem, ano que vem. Truco: «que vem» significa «que viene»: semana que vem = la semana que viene.",
+      "palabras": [
+        { "t": "amanhã", "es": "mañana", "pron": "amañán", "ej": "Eu vou trabalhar amanhã.", "ejes": "Voy a trabajar mañana.", "cog": false },
+        { "t": "depois de amanhã", "es": "pasado mañana", "pron": "depóis dyi amañán", "ej": "Eu vou viajar depois de amanhã.", "ejes": "Voy a viajar pasado mañana.", "cog": false },
+        { "t": "semana que vem", "es": "la semana que viene", "pron": "semána ki véin", "ej": "Vou ao médico na semana que vem.", "ejes": "Voy al médico la semana que viene.", "cog": false },
+        { "t": "mês que vem", "es": "el mes que viene", "pron": "més ki véin", "ej": "Eu vou mudar no mês que vem.", "ejes": "Me voy a mudar el mes que viene.", "cog": false },
+        { "t": "ano que vem", "es": "el año que viene", "pron": "ánu ki véin", "ej": "No ano que vem vou estudar.", "ejes": "El año que viene voy a estudiar.", "cog": false },
+        { "t": "próximo", "es": "próximo", "pron": "prósimu", "ej": "No próximo mês tenho aula.", "ejes": "El próximo mes tengo clase.", "cog": true, "truco": "Femenino: próxima (próxima semana)." },
+        { "t": "em breve", "es": "pronto", "pron": "ein brévi", "ej": "Eu vou viajar em breve.", "ejes": "Voy a viajar pronto.", "cog": false },
+        { "t": "hoje à noite", "es": "esta noche", "pron": "óji a nóiti", "ej": "Hoje à noite vou sair.", "ejes": "Esta noche voy a salir.", "cog": false },
+        { "t": "fim de semana", "es": "fin de semana", "pron": "fín dyi semána", "ej": "No fim de semana vou à praia.", "ejes": "El fin de semana voy a la playa.", "cog": false },
+        { "t": "um dia", "es": "algún día", "pron": "ún día", "ej": "Um dia vou ao Japão.", "ejes": "Algún día voy a Japón.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Amanhã eu vou trabalhar.", "es": "Mañana voy a trabajar.", "pron": "amañán éu vou trabalyár" },
+        { "t": "Na semana que vem vou viajar.", "es": "La semana que viene voy a viajar.", "pron": "na semána ki véin vou viayár" },
+        { "t": "No ano que vem vou estudar português.", "es": "El año que viene voy a estudiar portugués.", "pron": "nu ánu ki véin vou estudár portuguéis" },
+        { "t": "Hoje à noite eu vou sair com amigos.", "es": "Esta noche voy a salir con amigos.", "pron": "óji a nóiti éu vou saír kon amígus" },
+        { "t": "Em breve vou ao Brasil.", "es": "Pronto voy a Brasil.", "pron": "ein brévi vou au brasíu" }
+      ],
+      "dialogo": {
+        "titulo": "Quando você vai?",
+        "lineas": [
+          { "q": "A", "t": "Quando você vai viajar?", "es": "¿Cuándo vas a viajar?" },
+          { "q": "B", "t": "Na semana que vem. E você?", "es": "La semana que viene. ¿Y tú?" },
+          { "q": "A", "t": "Eu vou ao Brasil no mês que vem.", "es": "Yo voy a Brasil el mes que viene." },
+          { "q": "B", "t": "Que legal! Boa viagem!", "es": "¡Qué bueno! ¡Buen viaje!" },
+          { "q": "A", "t": "Obrigado! Tchau, até amanhã!", "es": "¡Gracias! ¡Chau, hasta mañana!" }
+        ]
+      },
+      "nota": "«Que vem» (que viene) se usa con semana, mês y ano. «Próximo/a» va antes del sustantivo: «próxima semana», «próximo ano». Ambas formas son correctas."
+    },
+    {
+      "id": "pt-a2-u11-l2",
+      "n": 2,
+      "titulo": "Mis planes",
+      "objetivo": "Hablar de planes con vou, vai, vamos y vão.",
+      "intro": "Ya conoces «ir» + infinitivo. Aquí lo practicas con todos los sujetos: eu vou, você vai, nós vamos, eles vão. Truco: «vou ver» = voy a ver; el verbo siguiente nunca cambia.",
+      "palabras": [
+        { "t": "vou", "es": "voy", "pron": "vou", "ej": "Eu vou estudar hoje.", "ejes": "Voy a estudiar hoy.", "cog": false },
+        { "t": "vai", "es": "va / vas", "pron": "vái", "ej": "Você vai comer aqui?", "ejes": "¿Vas a comer aquí?", "cog": false, "truco": "Sirve para «você», «ele» y «ela»." },
+        { "t": "vamos", "es": "vamos", "pron": "vámus", "ej": "Nós vamos ao cinema.", "ejes": "Vamos al cine.", "cog": true },
+        { "t": "vão", "es": "van", "pron": "váun", "ej": "Eles vão viajar amanhã.", "ejes": "Ellos van a viajar mañana.", "cog": false },
+        { "t": "pretendo", "es": "pienso / pretendo", "pron": "preténdu", "ej": "Eu pretendo estudar mais.", "ejes": "Pienso estudiar más.", "cog": true },
+        { "t": "plano", "es": "plan", "pron": "plánu", "ej": "Eu tenho um plano.", "ejes": "Tengo un plan.", "cog": true },
+        { "t": "ficar", "es": "quedarse", "pron": "fikár", "ej": "Eu vou ficar em casa.", "ejes": "Me voy a quedar en casa.", "cog": false },
+        { "t": "visitar", "es": "visitar", "pron": "visitár", "ej": "Nós vamos visitar meus avós.", "ejes": "Vamos a visitar a mis abuelos.", "cog": true },
+        { "t": "comprar", "es": "comprar", "pron": "komprár", "ej": "Eu vou comprar um presente.", "ejes": "Voy a comprar un regalo.", "cog": true },
+        { "t": "cinema", "es": "cine", "pron": "sinéma", "ej": "Vamos ao cinema hoje.", "ejes": "Vamos al cine hoy.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu vou estudar hoje.", "es": "Voy a estudiar hoy.", "pron": "éu vou estudár óji" },
+        { "t": "Você vai ficar em casa?", "es": "¿Te vas a quedar en casa?", "pron": "vosé vái fikár ein kása" },
+        { "t": "Nós vamos ao cinema no sábado.", "es": "Vamos al cine el sábado.", "pron": "nós vámus au sinéma nu sábadu" },
+        { "t": "Eles vão visitar os avós.", "es": "Ellos van a visitar a los abuelos.", "pron": "élis váun visitár us avós" },
+        { "t": "Eu vou comprar um presente.", "es": "Voy a comprar un regalo.", "pron": "éu vou komprár ún prezéntchi" },
+        { "t": "Eu tenho um plano para o verão.", "es": "Tengo un plan para el verano.", "pron": "éu téñu ún plánu pára u verán" }
+      ],
+      "dialogo": {
+        "titulo": "Planos para o fim de semana",
+        "lineas": [
+          { "q": "A", "t": "O que você vai fazer no fim de semana?", "es": "¿Qué vas a hacer el fin de semana?" },
+          { "q": "B", "t": "Eu vou visitar meus avós. E você?", "es": "Voy a visitar a mis abuelos. ¿Y tú?" },
+          { "q": "A", "t": "Nós vamos ao cinema, eu e a Ana.", "es": "Vamos al cine, Ana y yo." },
+          { "q": "B", "t": "Que legal! O que vocês vão ver?", "es": "¡Qué bueno! ¿Qué van a ver?" },
+          { "q": "A", "t": "Ainda não sei. Vamos decidir lá.", "es": "Todavía no sé. Vamos a decidir allá." }
+        ]
+      },
+      "nota": "«Vai» sirve para «você», «ele» y «ela», así que el contexto te dice quién va. Y no hay «a» después de «vou»: «vou fazer», no «vou a fazer»."
+    },
+    {
+      "id": "pt-a2-u11-l3",
+      "n": 3,
+      "titulo": "Promesas",
+      "objetivo": "Hacer y pedir promesas con «prometo» y «vou».",
+      "intro": "Para prometer usa «Eu prometo» o «Eu juro» seguido de «que vou...» o de un infinitivo. Truco: «pode confiar» significa «puedes confiar» y calma a quien duda.",
+      "palabras": [
+        { "t": "prometo", "es": "prometo", "pron": "prométu", "ej": "Eu prometo ligar amanhã.", "ejes": "Prometo llamar mañana.", "cog": true },
+        { "t": "prometer", "es": "prometer", "pron": "prometér", "ej": "Você pode prometer isso?", "ejes": "¿Puedes prometer eso?", "cog": true },
+        { "t": "juro", "es": "juro", "pron": "yúru", "ej": "Eu juro que vou chegar cedo.", "ejes": "Juro que voy a llegar temprano.", "cog": true },
+        { "t": "confiar", "es": "confiar", "pron": "konfiár", "ej": "Você pode confiar em mim.", "ejes": "Puedes confiar en mí.", "cog": true },
+        { "t": "certeza", "es": "seguridad / certeza", "pron": "sertéza", "ej": "Com certeza eu vou.", "ejes": "Con seguridad voy.", "cog": true },
+        { "t": "esquecer", "es": "olvidar", "pron": "eskesér", "ej": "Eu não vou esquecer.", "ejes": "No me voy a olvidar.", "cog": false },
+        { "t": "cumprir", "es": "cumplir", "pron": "kumprír", "ej": "Eu vou cumprir a promessa.", "ejes": "Voy a cumplir la promesa.", "cog": true },
+        { "t": "promessa", "es": "promesa", "pron": "promésa", "ej": "Uma promessa é uma promessa.", "ejes": "Una promesa es una promesa.", "cog": true },
+        { "t": "palavra", "es": "palabra", "pron": "palávra", "ej": "Eu dou a minha palavra.", "ejes": "Doy mi palabra.", "cog": true },
+        { "t": "cedo", "es": "temprano", "pron": "sédu", "ej": "Eu vou chegar cedo.", "ejes": "Voy a llegar temprano.", "cog": false, "truco": "Antónimo: tarde." }
+      ],
+      "frases": [
+        { "t": "Eu prometo ligar amanhã.", "es": "Prometo llamar mañana.", "pron": "éu prométu ligár amañán" },
+        { "t": "Eu juro que vou chegar cedo.", "es": "Juro que voy a llegar temprano.", "pron": "éu yúru ki vou shegár sédu" },
+        { "t": "Pode confiar em mim, eu vou ajudar.", "es": "Puedes confiar en mí, voy a ayudar.", "pron": "pódi konfiár ein mín, éu vou ayudár" },
+        { "t": "Eu não vou esquecer a sua festa.", "es": "No me voy a olvidar de tu fiesta.", "pron": "éu náun vou eskesér a súa fésta" },
+        { "t": "Com certeza eu vou cumprir.", "es": "Con seguridad voy a cumplir.", "pron": "kon sertéza éu vou kumprír" }
+      ],
+      "dialogo": {
+        "titulo": "Eu prometo",
+        "lineas": [
+          { "q": "A", "t": "Você vai me ligar amanhã?", "es": "¿Me vas a llamar mañana?" },
+          { "q": "B", "t": "Eu prometo! Eu vou ligar cedo.", "es": "¡Lo prometo! Voy a llamar temprano." },
+          { "q": "A", "t": "Você não vai esquecer?", "es": "¿No te vas a olvidar?" },
+          { "q": "B", "t": "Não! Pode confiar em mim.", "es": "¡No! Puedes confiar en mí." },
+          { "q": "A", "t": "Tudo bem. Eu confio em você.", "es": "Está bien. Confío en ti." }
+        ]
+      },
+      "nota": "«Prometo» también se escribe con el verbo en infinitivo directamente: «prometo ligar» = prometo llamar. «Eu juro» es una promesa más fuerte; en un contexto informal se usa sobre todo con amigos."
+    },
+    {
+      "id": "pt-a2-u11-l4",
+      "n": 4,
+      "titulo": "Predicciones y el futuro simple",
+      "objetivo": "Hacer predicciones y reconocer farei, será y terá.",
+      "intro": "Para predecir usa «vai + infinitivo»: vai chover. En textos formales verás el futuro simple: «choverá», «será», «farei». Truco: solo reconócelos, no necesitas hablarlos.",
+      "palabras": [
+        { "t": "chover", "es": "llover", "pron": "shovér", "ej": "Amanhã vai chover.", "ejes": "Mañana va a llover.", "cog": false },
+        { "t": "calor", "es": "calor", "pron": "kalór", "ej": "Vai fazer muito calor.", "ejes": "Va a hacer mucho calor.", "cog": true },
+        { "t": "frio", "es": "frío", "pron": "fríu", "ej": "Vai fazer frio hoje à noite.", "ejes": "Va a hacer frío esta noche.", "cog": true },
+        { "t": "talvez", "es": "quizás", "pron": "taúvés", "ej": "Talvez eu vá à praia.", "ejes": "Quizás vaya a la playa.", "cog": false },
+        { "t": "provavelmente", "es": "probablemente", "pron": "provavelménchi", "ej": "Provavelmente vai chover.", "ejes": "Probablemente va a llover.", "cog": true },
+        { "t": "acho", "es": "creo / pienso", "pron": "áshu", "ej": "Eu acho que vai chover.", "ejes": "Creo que va a llover.", "cog": false },
+        { "t": "farei", "es": "haré (futuro simple)", "pron": "fareí", "ej": "Farei o possível.", "ejes": "Haré lo posible.", "cog": false, "truco": "Solo reconócelo: en habla se dice «vou fazer»." },
+        { "t": "será", "es": "será (futuro simple)", "pron": "será", "ej": "Amanhã será um bom dia.", "ejes": "Mañana será un buen día.", "cog": false },
+        { "t": "terá", "es": "tendrá (futuro simple)", "pron": "terá", "ej": "Ele terá muito trabalho.", "ejes": "Él tendrá mucho trabajo.", "cog": false },
+        { "t": "tempo", "es": "tiempo (clima)", "pron": "témpu", "ej": "O tempo vai mudar.", "ejes": "El tiempo va a cambiar.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Amanhã vai chover.", "es": "Mañana va a llover.", "pron": "amañán vái shovér" },
+        { "t": "Eu acho que vai fazer calor.", "es": "Creo que va a hacer calor.", "pron": "éu áshu ki vái fazér kalór" },
+        { "t": "Talvez eu vá à praia.", "es": "Quizás vaya a la playa.", "pron": "taúvés éu vá à práia" },
+        { "t": "Farei o possível para chegar cedo.", "es": "Haré lo posible para llegar temprano.", "pron": "fareí u posível pára shegár sédu" },
+        { "t": "Amanhã será um bom dia.", "es": "Mañana será un buen día.", "pron": "amañán será ún bóin día" },
+        { "t": "Ele terá muito trabalho na semana que vem.", "es": "Él tendrá mucho trabajo la semana que viene.", "pron": "éli terá múintu trabályu na semána ki véin" }
+      ],
+      "dialogo": {
+        "titulo": "Previsão do tempo",
+        "lineas": [
+          { "q": "A", "t": "Você viu a previsão do tempo?", "es": "¿Viste el pronóstico del tiempo?" },
+          { "q": "B", "t": "Vi. Amanhã vai chover o dia todo.", "es": "Sí. Mañana va a llover todo el día." },
+          { "q": "A", "t": "Então eu acho que vou ficar em casa.", "es": "Entonces creo que me voy a quedar en casa." },
+          { "q": "B", "t": "Boa ideia. No fim de semana vai fazer calor.", "es": "Buena idea. El fin de semana va a hacer calor." },
+          { "q": "A", "t": "Ótimo! Talvez a gente vá à praia.", "es": "¡Genial! Quizás vayamos a la playa." }
+        ]
+      },
+      "nota": "«Talvez» va seguido de una forma especial del verbo (talvez eu vá), pero basta con que lo reconozcas. En el habla diaria las predicciones se hacen con «vai + infinitivo»; «farei», «será» y «terá» los verás sobre todo en noticias y textos formales."
+    },
+    {
+      "id": "pt-a2-u11-l5",
+      "n": 5,
+      "titulo": "Repaso: metas y propósitos",
+      "objetivo": "Hablar de metas y propósitos para el año nuevo.",
+      "intro": "Para el año nuevo se hacen propósitos: «Vou aprender português», «Vou parar de...». Truco: «parar de» + infinitivo significa dejar de hacer algo.",
+      "palabras": [
+        { "t": "meta", "es": "meta", "pron": "méta", "ej": "Minha meta é aprender português.", "ejes": "Mi meta es aprender portugués.", "cog": true },
+        { "t": "objetivo", "es": "objetivo", "pron": "obyetívu", "ej": "Meu objetivo é viajar.", "ejes": "Mi objetivo es viajar.", "cog": true },
+        { "t": "começar", "es": "empezar", "pron": "komesár", "ej": "Eu vou começar amanhã.", "ejes": "Voy a empezar mañana.", "cog": false },
+        { "t": "parar de", "es": "dejar de", "pron": "parár dyi", "ej": "Eu vou parar de fumar.", "ejes": "Voy a dejar de fumar.", "cog": false },
+        { "t": "aprender", "es": "aprender", "pron": "aprendér", "ej": "Eu vou aprender a cozinhar.", "ejes": "Voy a aprender a cocinar.", "cog": true },
+        { "t": "academia", "es": "gimnasio", "pron": "akademía", "ej": "Eu vou à academia hoje.", "ejes": "Voy al gimnasio hoy.", "cog": false, "truco": "En Brasil «academia» es el gimnasio." },
+        { "t": "economizar", "es": "ahorrar", "pron": "ekonomizár", "ej": "Eu vou economizar mais.", "ejes": "Voy a ahorrar más.", "cog": false },
+        { "t": "dieta", "es": "dieta", "pron": "dyiéta", "ej": "Eu vou fazer dieta.", "ejes": "Voy a hacer dieta.", "cog": true },
+        { "t": "ler", "es": "leer", "pron": "lér", "ej": "Eu vou ler mais livros.", "ejes": "Voy a leer más libros.", "cog": true },
+        { "t": "todos os dias", "es": "todos los días", "pron": "tódus us días", "ej": "Eu vou estudar todos os dias.", "ejes": "Voy a estudiar todos los días.", "cog": false }
+      ],
+      "frases": [
+        { "t": "No ano que vem eu vou aprender português.", "es": "El año que viene voy a aprender portugués.", "pron": "nu ánu ki véin éu vou aprendér portuguéis" },
+        { "t": "Eu vou à academia todos os dias.", "es": "Voy al gimnasio todos los días.", "pron": "éu vou à akademía tódus us días" },
+        { "t": "Eu prometo ler mais livros.", "es": "Prometo leer más libros.", "pron": "éu prométu lér máis lívrus" },
+        { "t": "Eu vou parar de comer doce.", "es": "Voy a dejar de comer dulce.", "pron": "éu vou parár dyi komér dósi" },
+        { "t": "Minha meta é economizar mais.", "es": "Mi meta es ahorrar más.", "pron": "míña méta é ekonomizár máis" }
+      ],
+      "dialogo": {
+        "titulo": "Propósitos de ano novo",
+        "lineas": [
+          { "q": "A", "t": "Quais são seus planos para o ano que vem?", "es": "¿Cuáles son tus planes para el año que viene?" },
+          { "q": "B", "t": "Eu vou aprender português e ir à academia.", "es": "Voy a aprender portugués e ir al gimnasio." },
+          { "q": "A", "t": "Boa meta! Eu vou economizar mais dinheiro.", "es": "¡Buena meta! Yo voy a ahorrar más dinero." },
+          { "q": "B", "t": "Você vai parar de comprar roupa?", "es": "¿Vas a dejar de comprar ropa?" },
+          { "q": "A", "t": "Eu prometo tentar! Com certeza.", "es": "¡Prometo intentarlo! Con seguridad." }
+        ]
+      },
+      "nota": "Para metas siempre usarás «vou + infinitivo». Y «parar de» (dejar de) lleva «de» y después un infinitivo: «parar de fumar». Si ves «farei» en un texto, ya sabes que es el futuro formal de «fazer»."
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "id": "it-a2-u9",
+  "idioma": "it",
+  "nivel": "A2",
+  "n": 9,
+  "titulo": "Trabajo y estudios",
+  "resumen": "Aprenderás a hablar de profesiones, del trabajo y de los estudios, y a decir lo que estás haciendo ahora con «stare + gerundio».",
+  "puedo": [
+    "Decir mi profesión y preguntar la de otros.",
+    "Hablar de mi lugar de trabajo y de mis compañeros.",
+    "Hablar de mis estudios y de mis clases.",
+    "Decir qué estoy haciendo en este momento.",
+    "Usar «con me», «per te», «da lui» para hablar con y de otras personas."
+  ],
+  "gramatica": {
+    "titulo": "Lo que estoy haciendo: stare + gerundio",
+    "texto": "Para decir lo que haces justo ahora, usa el verbo «stare» (estar) + el gerundio, como en español «estoy trabajando».\nStare en presente: sto, stai, sta, stiamo, state, stanno.\nGerundio: verbos en -are cambian a -ando (lavorare, lavorando); verbos en -ere y -ire cambian a -endo (leggere, leggendo; finire, finendo).\nEjemplos: Sto lavorando. Stai studiando? Marco sta mangiando.\nIrregulares comunes: fare, facendo; bere, bevendo; dire, dicendo.\nPara costumbres o hechos generales se usa el presente simple: Lavoro in un ufficio.",
+    "tabla": [
+      ["sto lavorando", "estoy trabajando", "sto lavorándo"],
+      ["stai studiando", "estás estudiando", "stái studiándo"],
+      ["sta leggendo", "está leyendo", "sta lleyéndo"],
+      ["stiamo finendo", "estamos terminando", "stiámo finéndo"],
+      ["state facendo", "están haciendo (ustedes)", "státe fachéndo"],
+      ["stanno bevendo", "están bebiendo", "stánno bevéndo"]
+    ],
+    "errores": [
+      "No uses «essere» como en español «estar»: es «sto lavorando», no «sono lavorando».",
+      "Con -ere / -ire el gerundio termina en -endo, no en -iendo: «leggendo», no «leggiendo».",
+      "No uses el gerundio para el futuro cercano como en español: «domani lavoro» (no «domani sto lavorando»)."
+    ]
+  },
+  "practica": [
+    "Mira a tu alrededor y di en voz alta lo que haces o ves hacer a otros: «Sto leggendo», «Mia madre sta cucinando» (5 minutos).",
+    "Escribe 5 frases sobre tu trabajo o estudios con «Faccio..., lavoro in..., studio...» (5 minutos).",
+    "Lee en voz alta los diálogos de la unidad y reemplaza tu profesión en cada uno (5 minutos).",
+    "Preséntate a un compañero o a un espejo: nombre, profesión, dónde trabajas o estudias y qué estás haciendo ahora (3 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-a2-u9-l1",
+      "n": 1,
+      "titulo": "Profesiones",
+      "objetivo": "Decir mi profesión y preguntar la de otra persona.",
+      "intro": "Para decir tu profesión usa «Faccio + artículo + profesión» o «Sono + profesión». Truco: en italiano se dice «Sono insegnante» sin artículo, o «Faccio l'insegnante» con artículo.",
+      "palabras": [
+        { "t": "l'insegnante", "es": "el / la profesor(a)", "pron": "linseñánte", "ej": "L'insegnante è molto bravo.", "ejes": "El profesor es muy bueno.", "cog": false, "truco": "Es igual para hombre y mujer." },
+        { "t": "l'ingegnere", "es": "el ingeniero", "pron": "lindyeñére", "ej": "L'ingegnere lavora in un ufficio.", "ejes": "El ingeniero trabaja en una oficina.", "cog": true, "truco": "«gn» suena «ñ»." },
+        { "t": "il dottore", "es": "el doctor", "pron": "il dottóre", "ej": "Il dottore è simpatico.", "ejes": "El doctor es simpático.", "cog": true },
+        { "t": "l'avvocato", "es": "el abogado", "pron": "lavvocáto", "ej": "L'avvocato lavora molto.", "ejes": "El abogado trabaja mucho.", "cog": false, "truco": "Femenino: l'avvocata." },
+        { "t": "il cuoco", "es": "el cocinero", "pron": "il cuóco", "ej": "Il cuoco prepara la pasta.", "ejes": "El cocinero prepara la pasta.", "cog": false, "truco": "Femenino: la cuoca." },
+        { "t": "l'infermiere", "es": "el enfermero", "pron": "linfermiére", "ej": "L'infermiere è molto gentile.", "ejes": "El enfermero es muy amable.", "cog": false, "truco": "Femenino: l'infermiera." },
+        { "t": "il commesso", "es": "el vendedor / dependiente", "pron": "il commésso", "ej": "Il commesso è in negozio.", "ejes": "El vendedor está en la tienda.", "cog": false, "truco": "Femenino: la commessa." },
+        { "t": "lo studente", "es": "el estudiante", "pron": "lo studénte", "ej": "Lo studente legge un libro.", "ejes": "El estudiante lee un libro.", "cog": true, "truco": "Femenino: la studentessa." },
+        { "t": "il tecnico", "es": "el técnico", "pron": "il técnico", "ej": "Il tecnico arriva domani.", "ejes": "El técnico llega mañana.", "cog": true },
+        { "t": "l'impiegato", "es": "el empleado de oficina", "pron": "limpiegáto", "ej": "L'impiegato lavora in banca.", "ejes": "El empleado trabaja en un banco.", "cog": false, "truco": "Femenino: l'impiegata." }
+      ],
+      "frases": [
+        { "t": "Che lavoro fai?", "es": "¿A qué te dedicas?", "pron": "ke lavóro fái" },
+        { "t": "Sono ingegnere.", "es": "Soy ingeniero.", "pron": "sóno indyeñére" },
+        { "t": "Faccio l'insegnante.", "es": "Soy profesor (trabajo de profesor).", "pron": "fátcho linseñánte" },
+        { "t": "Mia sorella è infermiera.", "es": "Mi hermana es enfermera.", "pron": "mía sorélla è infermiéra" },
+        { "t": "Mio padre fa il cuoco.", "es": "Mi padre es cocinero.", "pron": "mío pádre fa il cuóco" }
+      ],
+      "dialogo": {
+        "titulo": "Una fiesta",
+        "lineas": [
+          { "q": "A", "t": "Ciao! Che lavoro fai?", "es": "¡Hola! ¿A qué te dedicas?" },
+          { "q": "B", "t": "Sono ingegnere. E tu?", "es": "Soy ingeniero. ¿Y tú?" },
+          { "q": "A", "t": "Io faccio l'insegnante.", "es": "Yo soy profesora." },
+          { "q": "B", "t": "Che bello! Dove lavori?", "es": "¡Qué bien! ¿Dónde trabajas?" },
+          { "q": "A", "t": "In una scuola a Roma.", "es": "En una escuela en Roma." }
+        ]
+      },
+      "nota": "Muchas profesiones cambian a femenino: il cuoco, la cuoca; l'infermiere, l'infermiera; l'avvocato, l'avvocata. Otras terminan en -e y no cambian (l'insegnante, il dottore, la dottoressa para mujer)."
+    },
+    {
+      "id": "it-a2-u9-l2",
+      "n": 2,
+      "titulo": "En el trabajo",
+      "objetivo": "Hablar de mi lugar de trabajo y de mis compañeros.",
+      "intro": "En esta lección vas a hablar de tu oficina, tu jefe y tus colegas. Truco: «ufficio» es oficina, pero «officina» (taller) también existe.",
+      "palabras": [
+        { "t": "l'ufficio", "es": "la oficina", "pron": "luffíccio", "ej": "L'ufficio è vicino a casa.", "ejes": "La oficina está cerca de casa.", "cog": false, "truco": "«ff» y «cc» dobles se dicen con más fuerza." },
+        { "t": "il lavoro", "es": "el trabajo", "pron": "il lavóro", "ej": "Il lavoro è interessante.", "ejes": "El trabajo es interesante.", "cog": false },
+        { "t": "il collega", "es": "el colega", "pron": "il colléga", "ej": "Il collega è molto simpatico.", "ejes": "El colega es muy simpático.", "cog": true, "truco": "Plural: i colleghi." },
+        { "t": "il capo", "es": "el jefe", "pron": "il cápo", "ej": "Il capo arriva alle nove.", "ejes": "El jefe llega a las nueve.", "cog": false },
+        { "t": "la riunione", "es": "la reunión", "pron": "la riunióne", "ej": "La riunione è alle tre.", "ejes": "La reunión es a las tres.", "cog": true },
+        { "t": "lo stipendio", "es": "el sueldo", "pron": "lo stipéndio", "ej": "Lo stipendio arriva a fine mese.", "ejes": "El sueldo llega a fin de mes.", "cog": false },
+        { "t": "il computer", "es": "la computadora", "pron": "il compiúter", "ej": "Il computer è nuovo.", "ejes": "La computadora es nueva.", "cog": true },
+        { "t": "lavorare", "es": "trabajar", "pron": "lavoráre", "ej": "Mi piace lavorare qui.", "ejes": "Me gusta trabajar aquí.", "cog": false },
+        { "t": "la mail", "es": "el correo electrónico", "pron": "la méil", "ej": "Scrivo la mail al capo.", "ejes": "Escribo el correo al jefe.", "cog": false, "truco": "Se dice «la mail» y es femenino." }
+      ],
+      "frases": [
+        { "t": "Lavoro in un ufficio.", "es": "Trabajo en una oficina.", "pron": "lavóro in un uffíccio" },
+        { "t": "Il mio capo è molto gentile.", "es": "Mi jefe es muy amable.", "pron": "il mío cápo è mólto yentíle" },
+        { "t": "Ho una riunione alle tre.", "es": "Tengo una reunión a las tres.", "pron": "o úna riunióne álle tré" },
+        { "t": "I miei colleghi sono simpatici.", "es": "Mis colegas son simpáticos.", "pron": "i miéi colléghi sóno simpátichi" },
+        { "t": "Finisco di lavorare alle sei.", "es": "Termino de trabajar a las seis.", "pron": "finísco di lavoráre álle séi" }
+      ],
+      "dialogo": {
+        "titulo": "El lunes en la oficina",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Anna! Com'è il tuo lavoro?", "es": "¡Hola, Ana! ¿Cómo es tu trabajo?" },
+          { "q": "B", "t": "È interessante, ma lavoro molto.", "es": "Es interesante, pero trabajo mucho." },
+          { "q": "A", "t": "E il tuo capo?", "es": "¿Y tu jefe?" },
+          { "q": "B", "t": "È gentile. Oggi ho una riunione alle tre.", "es": "Es amable. Hoy tengo una reunión a las tres." }
+        ]
+      },
+      "nota": "«Capo» es jefe en general; también se oye «il direttore» (director). Los italianos suelen empezar a trabajar tarde y almorzar largo, entre la una y las dos."
+    },
+    {
+      "id": "it-a2-u9-l3",
+      "n": 3,
+      "titulo": "Los estudios",
+      "objetivo": "Hablar de lo que estudio y de mis clases.",
+      "intro": "Ahora, estudiar: la universidad, las clases, los exámenes. Truco: «professore» se usa para profesores de secundaria y universidad; «maestro/a» para primaria.",
+      "palabras": [
+        { "t": "l'università", "es": "la universidad", "pron": "luniversitá", "ej": "L'università è grande.", "ejes": "La universidad es grande.", "cog": true, "truco": "La tilde final marca la sílaba fuerte." },
+        { "t": "la lezione", "es": "la clase / lección", "pron": "la letsióne", "ej": "La lezione comincia alle nove.", "ejes": "La clase empieza a las nueve.", "cog": true },
+        { "t": "l'esame", "es": "el examen", "pron": "lesáme", "ej": "L'esame è domani.", "ejes": "El examen es mañana.", "cog": true },
+        { "t": "il professore", "es": "el profesor", "pron": "il professóre", "ej": "Il professore è molto bravo.", "ejes": "El profesor es muy bueno.", "cog": true, "truco": "Femenino: la professoressa." },
+        { "t": "studiare", "es": "estudiar", "pron": "studiáre", "ej": "Mi piace studiare di sera.", "ejes": "Me gusta estudiar de noche.", "cog": true },
+        { "t": "imparare", "es": "aprender", "pron": "imparáre", "ej": "Voglio imparare l'italiano.", "ejes": "Quiero aprender italiano.", "cog": false },
+        { "t": "il corso", "es": "el curso", "pron": "il córso", "ej": "Il corso di inglese è bello.", "ejes": "El curso de inglés es bonito.", "cog": true },
+        { "t": "il voto", "es": "la nota", "pron": "il vóto", "ej": "Il voto è molto buono.", "ejes": "La nota es muy buena.", "cog": false },
+        { "t": "la laurea", "es": "el título universitario", "pron": "la láurea", "ej": "La laurea è importante.", "ejes": "El título es importante.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Studio ingegneria all'università.", "es": "Estudio ingeniería en la universidad.", "pron": "stúdio indyeñería alluniversitá" },
+        { "t": "Ho un esame domani.", "es": "Tengo un examen mañana.", "pron": "o un esáme dománi" },
+        { "t": "Faccio un corso di italiano.", "es": "Hago un curso de italiano.", "pron": "fátcho un córso di italiáno" },
+        { "t": "Il professore è molto bravo.", "es": "El profesor es muy bueno.", "pron": "il professóre è mólto brávo" },
+        { "t": "Voglio imparare molte cose.", "es": "Quiero aprender muchas cosas.", "pron": "vóllio imparáre mólte cóse" }
+      ],
+      "dialogo": {
+        "titulo": "Entre estudiantes",
+        "lineas": [
+          { "q": "A", "t": "Che cosa studi, Carlo?", "es": "¿Qué estudias, Carlos?" },
+          { "q": "B", "t": "Studio medicina. E tu, Sara?", "es": "Estudio medicina. ¿Y tú, Sara?" },
+          { "q": "A", "t": "Io studio lingue. Domani ho un esame.", "es": "Yo estudio idiomas. Mañana tengo un examen." },
+          { "q": "B", "t": "Buona fortuna!", "es": "¡Buena suerte!" }
+        ]
+      },
+      "nota": "En las universidades italianas las notas van de 18 (aprobado) a 30 (máximo), y 30 con lode es la mejor. «Laurea» es el título universitario y «laureato» el graduado."
+    },
+    {
+      "id": "it-a2-u9-l4",
+      "n": 4,
+      "titulo": "Lo que estás haciendo ahora",
+      "objetivo": "Decir qué haces en este momento con stare + gerundio y usar pronombres con preposición.",
+      "intro": "Aquí aparece la idea central: «sto lavorando» = estoy trabajando. Truco: -are → -ando; -ere / -ire → -endo. Y recuerda: con preposición se usa «me, te» (con me, per te), no «io, tu».",
+      "palabras": [
+        { "t": "sto lavorando", "es": "estoy trabajando", "pron": "sto lavorándo", "ej": "Ora sto lavorando.", "ejes": "Ahora estoy trabajando.", "cog": false },
+        { "t": "sto studiando", "es": "estoy estudiando", "pron": "sto studiándo", "ej": "Sto studiando per l'esame.", "ejes": "Estoy estudiando para el examen.", "cog": false },
+        { "t": "sta mangiando", "es": "está comiendo", "pron": "sta mandyándo", "ej": "Paolo sta mangiando.", "ejes": "Paolo está comiendo.", "cog": false },
+        { "t": "stai leggendo", "es": "estás leyendo", "pron": "stái lleyéndo", "ej": "Che cosa stai leggendo?", "ejes": "¿Qué estás leyendo?", "cog": false, "truco": "Leggere: leggendo." },
+        { "t": "stiamo aspettando", "es": "estamos esperando", "pron": "stiámo aspettándo", "ej": "Stiamo aspettando il capo.", "ejes": "Estamos esperando al jefe.", "cog": false },
+        { "t": "con me", "es": "conmigo", "pron": "con me", "ej": "Vieni con me?", "ejes": "¿Vienes conmigo?", "cog": false, "truco": "Con preposición: me, te, lui, lei, noi, voi, loro." },
+        { "t": "con te", "es": "contigo", "pron": "con te", "ej": "Lavoro con te.", "ejes": "Trabajo contigo.", "cog": false },
+        { "t": "per lui", "es": "para él", "pron": "per lúi", "ej": "Questo è per lui.", "ejes": "Esto es para él.", "cog": false },
+        { "t": "da lei", "es": "a casa de ella / de parte de ella", "pron": "da léi", "ej": "Vado da lei oggi.", "ejes": "Voy a su casa hoy.", "cog": false, "truco": "«da» + persona = a casa de o con esa persona." }
+      ],
+      "frases": [
+        { "t": "Che cosa stai facendo?", "es": "¿Qué estás haciendo?", "pron": "ke cósa stái fachéndo" },
+        { "t": "Sto lavorando al computer.", "es": "Estoy trabajando en la computadora.", "pron": "sto lavorándo al compiúter" },
+        { "t": "Mia madre sta cucinando.", "es": "Mi mamá está cocinando.", "pron": "mía mádre sta cuchinándo" },
+        { "t": "Stiamo aspettando il capo.", "es": "Estamos esperando al jefe.", "pron": "stiámo aspettándo il cápo" },
+        { "t": "Vieni con me alla riunione?", "es": "¿Vienes conmigo a la reunión?", "pron": "viéni con me álla riunióne" }
+      ],
+      "dialogo": {
+        "titulo": "Una llamada",
+        "lineas": [
+          { "q": "A", "t": "Pronto, Luca! Che cosa stai facendo?", "es": "¡Aló, Luca! ¿Qué estás haciendo?" },
+          { "q": "B", "t": "Sto lavorando. E tu?", "es": "Estoy trabajando. ¿Y tú?" },
+          { "q": "A", "t": "Sto studiando per l'esame. Vieni da me stasera?", "es": "Estoy estudiando para el examen. ¿Vienes a mi casa esta noche?" },
+          { "q": "B", "t": "Sì! Studio con te.", "es": "¡Sí! Estudio contigo." }
+        ]
+      },
+      "nota": "Pronombres con preposición: con me, con te, con lui, con lei, con noi, con voi, con loro; per me, per te... Tras «come» y «tra/fra» también: come me (como yo). «Da me» significa «a mi casa»."
+    },
+    {
+      "id": "it-a2-u9-l5",
+      "n": 5,
+      "titulo": "Repaso: un día de trabajo y estudios",
+      "objetivo": "Combinar profesiones, trabajo, estudios y «stare + gerundio» en una conversación.",
+      "intro": "Repasa todo lo de la unidad. Truco: usa presente para lo habitual («lavoro in un ufficio») y «stare + gerundio» para lo que pasa ahora.",
+      "palabras": [
+        { "t": "ora", "es": "ahora", "pron": "óra", "ej": "Ora sto studiando.", "ejes": "Ahora estoy estudiando.", "cog": false },
+        { "t": "adesso", "es": "ahora (en este momento)", "pron": "adésso", "ej": "Adesso sono in ufficio.", "ejes": "Ahora estoy en la oficina.", "cog": false },
+        { "t": "di solito", "es": "normalmente", "pron": "di sólito", "ej": "Di solito lavoro fino alle sei.", "ejes": "Normalmente trabajo hasta las seis.", "cog": false },
+        { "t": "in questo momento", "es": "en este momento", "pron": "in cuésto moménto", "ej": "In questo momento sto lavorando.", "ejes": "En este momento estoy trabajando.", "cog": true },
+        { "t": "occupato", "es": "ocupado", "pron": "occupáto", "ej": "Sono molto occupato oggi.", "ejes": "Estoy muy ocupado hoy.", "cog": true },
+        { "t": "libero", "es": "libre", "pron": "líbero", "ej": "Sono libero domani.", "ejes": "Estoy libre mañana.", "cog": true },
+        { "t": "il turno", "es": "el turno", "pron": "il túrno", "ej": "Il turno finisce alle otto.", "ejes": "El turno termina a las ocho.", "cog": true },
+        { "t": "la pausa", "es": "el descanso", "pron": "la páusa", "ej": "La pausa è alle dodici.", "ejes": "El descanso es a las doce.", "cog": true },
+        { "t": "il pranzo", "es": "el almuerzo", "pron": "il prándso", "ej": "Il pranzo è alle una.", "ejes": "El almuerzo es a la una.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Di solito lavoro in ufficio.", "es": "Normalmente trabajo en la oficina.", "pron": "di sólito lavóro in uffíccio" },
+        { "t": "Ora sto studiando per l'esame.", "es": "Ahora estoy estudiando para el examen.", "pron": "óra sto studiándo per lesáme" },
+        { "t": "In questo momento sono occupato.", "es": "En este momento estoy ocupado.", "pron": "in cuésto moménto sóno occupáto" },
+        { "t": "La pausa pranzo è all'una.", "es": "La pausa del almuerzo es a la una.", "pron": "la páusa prándso è allúna" },
+        { "t": "Che cosa stai facendo adesso?", "es": "¿Qué estás haciendo ahora?", "pron": "ke cósa stái fachéndo adésso" }
+      ],
+      "dialogo": {
+        "titulo": "Entre colegas",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Marta! Sei libera?", "es": "¡Hola, Marta! ¿Estás libre?" },
+          { "q": "B", "t": "No, in questo momento sono occupata. Sto scrivendo una mail.", "es": "No, en este momento estoy ocupada. Estoy escribiendo un correo." },
+          { "q": "A", "t": "Va bene. Pranziamo insieme?", "es": "Bien. ¿Almorzamos juntos?" },
+          { "q": "B", "t": "Sì, di solito faccio la pausa all'una.", "es": "Sí, normalmente hago el descanso a la una." }
+        ]
+      },
+      "nota": "«Scrivendo» (de scrivere), «leggendo» y «facendo» son gerundios que se usan mucho. «Pranziamo» es «almorzamos», forma en nosotros de pranzare. Con «sei libera?» se pregunta si alguien tiene tiempo."
+    }
+  ]
+}

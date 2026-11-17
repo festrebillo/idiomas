@@ -1,0 +1,222 @@
+{
+  "id": "pt-a2-u2",
+  "idioma": "pt",
+  "nivel": "A2",
+  "n": 2,
+  "titulo": "Cosas que hice",
+  "resumen": "Aprenderás los pasados irregulares más usados (fazer, ter, dizer, ver, vir, poder, querer) para contar lo que hiciste, tuviste, viste y pudiste hacer.",
+  "puedo": [
+    "Decir lo que hice con fiz y fez.",
+    "Contar lo que tuve o me pasó con tive y teve.",
+    "Usar disse, vi, viu, vim y veio para contar historias.",
+    "Decir lo que pude y lo que quise con pude y quis.",
+    "Ordenar un día con primeiro, depois y por fim."
+  ],
+  "gramatica": {
+    "titulo": "Pretérito de verbos irregulares: fazer, ter, dizer, ver, vir, poder, querer",
+    "texto": "Algunos verbos muy comunes no siguen la regla del pasado. Cambian la raíz, así que hay que aprenderlos como palabras nuevas. La buena noticia: son pocos y se usan mucho.\nfazer: fiz / fez. ter: tive / teve. dizer: disse / disse. ver: vi / viu. vir: vim / veio. poder: pude / pôde. querer: quis / quis.\nEn «nós» las formas son fizemos, tivemos, dissemos, vimos, viemos, pudemos y quisemos. Para «eles» terminan en -eram o -iram (fizeram, tiveram).\nLas formas de «eu» y «ele» son distintas: «eu fiz» (hice), «ele fez» (hizo).",
+    "tabla": [
+      ["fazer: fiz / fez", "hice / hizo", "fís / fés"],
+      ["ter: tive / teve", "tuve / tuvo", "tchívi / tévi"],
+      ["dizer: disse / disse", "dije / dijo", "dísi / dísi"],
+      ["ver: vi / viu", "vi / vio", "ví / víu"],
+      ["vir: vim / veio", "vine / vino", "vín / véiu"],
+      ["poder: pude / pôde", "pude / pudo", "púdyi / pódyi"],
+      ["querer: quis / quis", "quise / quiso", "kís / kís"]
+    ],
+    "errores": [
+      "No digas «eu fazi» ni «eu tivi»: son «eu fiz» y «eu tive».",
+      "«Vi» (de ver) y «vim» (de vir) se parecen: «vi» = yo vi; «vim» = yo vine.",
+      "«Disse» solo tiene una forma para eu y ele: «eu disse» (dije) y «ele disse» (dijo)."
+    ]
+  },
+  "practica": [
+    "Escribe 7 frases sobre tu ayer, una con cada verbo: fiz, tive, disse, vi, vim, pude, quis (8 minutos).",
+    "Mira un video corto en portugués brasileño y anota 5 pasados irregulares que oigas (8 minutos).",
+    "Cuenta en voz alta qué hiciste esta mañana usando primeiro, depois y por fim (4 minutos).",
+    "Grábate leyendo la tabla de la gramática y escúchate para comprobar la pronunciación (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-a2-u2-l1",
+      "n": 1,
+      "titulo": "Fazer y ter en pasado",
+      "objetivo": "Decir lo que hice y lo que tuve con fiz, fez, tive y teve.",
+      "intro": "Fazer (hacer) y ter (tener) son dos de los verbos más usados. En pasado cambian por completo: fazer → fiz / fez; ter → tive / teve. Truco: «fiz» rima con «lápiz» sin la «l».",
+      "palabras": [
+        { "t": "fiz", "es": "hice", "pron": "fís", "ej": "Eu fiz um bolo.", "ejes": "Hice un pastel.", "cog": false, "truco": "Eu fiz, sin «-ei»: no es «fazei»." },
+        { "t": "fez", "es": "hizo", "pron": "fés", "ej": "Ele fez o jantar.", "ejes": "Él hizo la cena.", "cog": false },
+        { "t": "tive", "es": "tuve", "pron": "tchívi", "ej": "Eu tive um dia difícil.", "ejes": "Tuve un día difícil.", "cog": false, "truco": "«ti» suena «chi»: tchívi." },
+        { "t": "teve", "es": "tuvo / hubo", "pron": "tévi", "ej": "Ontem teve uma festa.", "ejes": "Ayer hubo una fiesta.", "cog": false },
+        { "t": "lição de casa", "es": "tarea", "pron": "lisáun dyi kása", "ej": "Eu fiz a lição de casa.", "ejes": "Hice la tarea.", "cog": false },
+        { "t": "bolo", "es": "pastel / torta", "pron": "bólu", "ej": "Ela fez um bolo.", "ejes": "Ella hizo un pastel.", "cog": false },
+        { "t": "reunião", "es": "reunión", "pron": "rreuniáun", "ej": "Eu tive uma reunião.", "ejes": "Tuve una reunión.", "cog": true },
+        { "t": "aula", "es": "clase", "pron": "áula", "ej": "Eu tive aula de português.", "ejes": "Tuve clase de portugués.", "cog": false },
+        { "t": "problema", "es": "problema", "pron": "probléma", "ej": "Ele teve um problema.", "ejes": "Él tuvo un problema.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu fiz a lição de casa.", "es": "Hice la tarea.", "pron": "éu fís a lisáun dyi kása" },
+        { "t": "Ela fez um bolo para a festa.", "es": "Ella hizo un pastel para la fiesta.", "pron": "éla fés ún bólu pára a fésta" },
+        { "t": "Eu tive uma reunião cedo.", "es": "Tuve una reunión temprano.", "pron": "éu tchívi úma rreuniáun sédu" },
+        { "t": "Ontem teve uma festa no bairro.", "es": "Ayer hubo una fiesta en el barrio.", "pron": "ónteín tévi úma fésta nu báirru" },
+        { "t": "Nós fizemos o jantar juntos.", "es": "Hicimos la cena juntos.", "pron": "nós fizémus u yantár yúntus" }
+      ],
+      "dialogo": {
+        "titulo": "Un día ocupado",
+        "lineas": [
+          { "q": "A", "t": "O que você fez ontem?", "es": "¿Qué hiciste ayer?" },
+          { "q": "B", "t": "Eu tive aula de manhã e fiz a lição de casa.", "es": "Tuve clase en la mañana e hice la tarea." },
+          { "q": "A", "t": "E à tarde?", "es": "¿Y en la tarde?" },
+          { "q": "B", "t": "Eu tive uma reunião. E você?", "es": "Tuve una reunión. ¿Y tú?" },
+          { "q": "A", "t": "Eu fiz um bolo para a festa de hoje.", "es": "Yo hice un pastel para la fiesta de hoy." }
+        ]
+      },
+      "nota": "«Fez» y «teve» suenan casi igual a «fés» y «tévi»; no los confundas. Con «ter», «teve» también significa «hubo» (teve uma festa = hubo una fiesta). Falso amigo suave: «lição de casa» es tarea; no es «lección»."
+    },
+    {
+      "id": "pt-a2-u2-l2",
+      "n": 2,
+      "titulo": "Dizer, ver y vir",
+      "objetivo": "Contar lo que dije, lo que vi y quién vino.",
+      "intro": "Tres verbos útiles para contar historias: disse (dijo), vi/viu (vi/vio) y vim/veio (vine/vino). Truco: «veio» suena casi como «vei-u» y significa «vino».",
+      "palabras": [
+        { "t": "disse", "es": "dije / dijo", "pron": "dísi", "ej": "Ele disse oi.", "ejes": "Él dijo hola.", "cog": false, "truco": "Eu disse y ele disse son iguales." },
+        { "t": "vi", "es": "vi", "pron": "ví", "ej": "Eu vi um amigo na rua.", "ejes": "Vi a un amigo en la calle.", "cog": false },
+        { "t": "viu", "es": "vio", "pron": "víu", "ej": "Ela viu um filme.", "ejes": "Ella vio una película.", "cog": false },
+        { "t": "vim", "es": "vine", "pron": "vín", "ej": "Eu vim de ônibus.", "ejes": "Vine en ómnibus.", "cog": false, "truco": "«im» es nasal: vín, sin sonar la «m»." },
+        { "t": "veio", "es": "vino", "pron": "véiu", "ej": "Ele veio de carro.", "ejes": "Él vino en carro.", "cog": false },
+        { "t": "notícia", "es": "noticia", "pron": "notísia", "ej": "Eu vi uma notícia.", "ejes": "Vi una noticia.", "cog": true },
+        { "t": "rua", "es": "calle", "pron": "rrúa", "ej": "Eu vi um carro na rua.", "ejes": "Vi un carro en la calle.", "cog": false },
+        { "t": "amigo", "es": "amigo", "pron": "amígu", "ej": "Meu amigo veio de ônibus.", "ejes": "Mi amigo vino en ómnibus.", "cog": true },
+        { "t": "sozinho", "es": "solo", "pron": "sosíñu", "ej": "Eu vim sozinho.", "ejes": "Vine solo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Eu vi um amigo na rua.", "es": "Vi a un amigo en la calle.", "pron": "éu ví ún amígu na rrúa" },
+        { "t": "Ele disse que veio de ônibus.", "es": "Él dijo que vino en ómnibus.", "pron": "éli dísi ki véiu dyi ônibus" },
+        { "t": "Ela viu uma notícia na internet.", "es": "Ella vio una noticia en internet.", "pron": "éla víu úma notísia na internét" },
+        { "t": "Eu vim sozinho para a festa.", "es": "Vine solo a la fiesta.", "pron": "éu vín sosíñu pára a fésta" },
+        { "t": "Eu disse a verdade.", "es": "Dije la verdad.", "pron": "éu dísi a verdádyi" }
+      ],
+      "dialogo": {
+        "titulo": "Una sorpresa en la calle",
+        "lineas": [
+          { "q": "A", "t": "Eu vi o Pedro na rua!", "es": "¡Vi a Pedro en la calle!" },
+          { "q": "B", "t": "Que legal! O que ele disse?", "es": "¡Qué bueno! ¿Qué dijo?" },
+          { "q": "A", "t": "Ele disse oi e veio comigo para casa.", "es": "Dijo hola y vino conmigo a casa." },
+          { "q": "B", "t": "Ele veio de ônibus?", "es": "¿Vino en ómnibus?" },
+          { "q": "A", "t": "Sim! E eu vim sozinho do trabalho.", "es": "¡Sí! Y yo vine solo del trabajo." }
+        ]
+      },
+      "nota": "«Vi» (ver) y «vim» (vir) son las dos formas «yo» más confundidas. Truco: vi = vi con los ojos; vim = vine con los pies. En Brasil «ônibus» es el autobús o bus."
+    },
+    {
+      "id": "pt-a2-u2-l3",
+      "n": 3,
+      "titulo": "Poder y querer en pasado",
+      "objetivo": "Decir lo que pude hacer y lo que quise hacer.",
+      "intro": "Poder (poder) y querer (querer) tienen un pasado que cambia de raíz: pude / pôde, quis. Truco: «quis» suena «kís» y vale para eu y ele.",
+      "palabras": [
+        { "t": "pude", "es": "pude", "pron": "púdyi", "ej": "Eu pude ir à festa.", "ejes": "Pude ir a la fiesta.", "cog": false },
+        { "t": "pôde", "es": "pudo", "pron": "pódyi", "ej": "Ela pôde ir comigo.", "ejes": "Ella pudo ir conmigo.", "cog": false, "truco": "Con acento circunflejo para diferenciarlo del presente «pode»." },
+        { "t": "quis", "es": "quise / quiso", "pron": "kís", "ej": "Eu quis ir ao cinema.", "ejes": "Quise ir al cine.", "cog": false },
+        { "t": "pudemos", "es": "pudimos", "pron": "pudémus", "ej": "Nós pudemos viajar.", "ejes": "Pudimos viajar.", "cog": false },
+        { "t": "consegui", "es": "logré / pude (con esfuerzo)", "pron": "konsegí", "ej": "Eu consegui o ingresso.", "ejes": "Conseguí la entrada.", "cog": false, "truco": "Conseguir → consegui." },
+        { "t": "esqueci", "es": "olvidé", "pron": "eskesí", "ej": "Eu esqueci meu celular.", "ejes": "Olvidé mi celular.", "cog": false },
+        { "t": "precisei", "es": "necesité", "pron": "presiséi", "ej": "Eu precisei de ajuda.", "ejes": "Necesité ayuda.", "cog": false },
+        { "t": "ajudei", "es": "ayudé", "pron": "ayudéi", "ej": "Eu ajudei minha mãe.", "ejes": "Ayudé a mi mamá.", "cog": false },
+        { "t": "ingresso", "es": "entrada (para un evento)", "pron": "ingrésu", "ej": "Eu comprei o ingresso.", "ejes": "Compré la entrada.", "cog": false, "truco": "No es «ingreso»: en Brasil es la entrada al cine, teatro o concierto." }
+      ],
+      "frases": [
+        { "t": "Eu pude ir à festa de Ana.", "es": "Pude ir a la fiesta de Ana.", "pron": "éu púdyi ir a fésta dyi ána" },
+        { "t": "Eu quis ir ao cinema, mas não pude.", "es": "Quise ir al cine, pero no pude.", "pron": "éu kís ir au sinéma, máis náun púdyi" },
+        { "t": "Ela esqueceu o celular em casa.", "es": "Ella olvidó el celular en casa.", "pron": "éla eskeséu u selulár ein kása" },
+        { "t": "Nós pudemos viajar no fim de semana.", "es": "Pudimos viajar el fin de semana.", "pron": "nós pudémus viayár nu fín dyi semána" },
+        { "t": "Eu consegui o ingresso.", "es": "Conseguí la entrada.", "pron": "éu konsegí u ingrésu" }
+      ],
+      "dialogo": {
+        "titulo": "Un concierto especial",
+        "lineas": [
+          { "q": "A", "t": "Você foi ao show ontem?", "es": "¿Fuiste al concierto ayer?" },
+          { "q": "B", "t": "Eu quis ir, mas não consegui o ingresso.", "es": "Quise ir, pero no conseguí la entrada." },
+          { "q": "A", "t": "Que pena! Eu consegui e foi ótimo.", "es": "¡Qué pena! Yo la conseguí y estuvo genial." },
+          { "q": "B", "t": "E o Lucas pôde ir também?", "es": "¿Y Lucas pudo ir también?" },
+          { "q": "A", "t": "Sim, ele esqueceu o celular, mas foi.", "es": "Sí, olvidó el celular, pero fue." }
+        ]
+      },
+      "nota": "«Pôde» (pasado) se diferencia de «pode» (presente) por el acento. Cuidado: «ingresso» NO significa «ingreso». Y «esqueci» (olvidé) tiene -ci porque esquecer cambia la c por qu: esquecer → esqueci."
+    },
+    {
+      "id": "pt-a2-u2-l4",
+      "n": 4,
+      "titulo": "Un día completo",
+      "objetivo": "Ordenar los hechos de un día con conectores y los verbos aprendidos.",
+      "intro": "Para contar un día, une las acciones con palabras como «primeiro» (primero), «depois» (después) y «por fim» (al final). Truco: «então» suena «enstáun» y significa «entonces».",
+      "palabras": [
+        { "t": "primeiro", "es": "primero", "pron": "priméiru", "ej": "Primeiro eu acordei cedo.", "ejes": "Primero me desperté temprano.", "cog": true },
+        { "t": "depois", "es": "después", "pron": "depóis", "ej": "Depois eu fiz o café.", "ejes": "Después hice el café.", "cog": false, "truco": "«ois» suena «óis»: depóis." },
+        { "t": "então", "es": "entonces", "pron": "entáun", "ej": "Então eu saí de casa.", "ejes": "Entonces salí de casa.", "cog": false },
+        { "t": "por fim", "es": "al final", "pron": "por fín", "ej": "Por fim eu dormi.", "ejes": "Al final dormí.", "cog": false },
+        { "t": "de manhã", "es": "en la mañana", "pron": "dyi mañán", "ej": "Eu tive aula de manhã.", "ejes": "Tuve clase en la mañana.", "cog": false },
+        { "t": "à tarde", "es": "en la tarde", "pron": "a tárdyi", "ej": "Eu fiz a lição de casa à tarde.", "ejes": "Hice la tarea en la tarde.", "cog": false },
+        { "t": "à noite", "es": "en la noche", "pron": "a nóiti", "ej": "Eu jantei com minha família à noite.", "ejes": "Cené con mi familia en la noche.", "cog": false },
+        { "t": "acordei", "es": "me desperté", "pron": "akordéi", "ej": "Eu acordei às seis.", "ejes": "Me desperté a las seis.", "cog": false },
+        { "t": "almocei", "es": "almorcé", "pron": "almoséi", "ej": "Eu almocei no trabalho.", "ejes": "Almorcé en el trabajo.", "cog": false },
+        { "t": "dei", "es": "di", "pron": "déi", "ej": "Eu dei um presente.", "ejes": "Di un regalo.", "cog": false, "truco": "Dar → dei: forma que verás mucho con presentes." }
+      ],
+      "frases": [
+        { "t": "Primeiro eu acordei às seis.", "es": "Primero me desperté a las seis.", "pron": "priméiru éu akordéi as séis" },
+        { "t": "Depois eu fiz o café e saí de casa.", "es": "Después hice el café y salí de casa.", "pron": "depóis éu fís u kafé i saí dyi kása" },
+        { "t": "De manhã eu tive aula e à tarde eu trabalhei.", "es": "En la mañana tuve clase y en la tarde trabajé.", "pron": "dyi mañán éu tchívi áula i a tárdyi éu trabalyéi" },
+        { "t": "À noite eu vi um filme.", "es": "En la noche vi una película.", "pron": "a nóiti éu ví ún fíumi" },
+        { "t": "Por fim eu dormi.", "es": "Al final dormí.", "pron": "por fín éu dormí" }
+      ],
+      "dialogo": {
+        "titulo": "Mi día de ayer",
+        "lineas": [
+          { "q": "A", "t": "Como foi seu dia ontem?", "es": "¿Cómo fue tu día ayer?" },
+          { "q": "B", "t": "Primeiro eu acordei cedo e fiz o café.", "es": "Primero me desperté temprano e hice el café." },
+          { "q": "A", "t": "E depois?", "es": "¿Y después?" },
+          { "q": "B", "t": "De manhã eu tive aula. À tarde almocei com um amigo.", "es": "En la mañana tuve clase. En la tarde almorcé con un amigo." },
+          { "q": "A", "t": "E à noite?", "es": "¿Y en la noche?" },
+          { "q": "B", "t": "À noite eu vi um filme e por fim dormi.", "es": "En la noche vi una película y al final dormí." }
+        ]
+      },
+      "nota": "«De manhã» = en la mañana; «à tarde» = en la tarde; «à noite» = en la noche. «Dar» tiene un pasado irregular: eu dei, ele deu. «Acordar» aquí es despertarse (en español «acordar» es otra cosa)."
+    },
+    {
+      "id": "pt-a2-u2-l5",
+      "n": 5,
+      "titulo": "Repaso: una historia",
+      "objetivo": "Contar una pequeña historia mezclando los irregulares y las expresiones de tiempo.",
+      "intro": "Ahora todo junto: fez, tive, disse, vi, vim, pude, quis. Truco: añade «anteontem» y «ano passado» para decir cuándo pasó cada cosa.",
+      "palabras": [
+        { "t": "anteontem", "es": "anteayer", "pron": "anteóntein", "ej": "Anteontem eu tive uma reunião.", "ejes": "Anteayer tuve una reunión.", "cog": false },
+        { "t": "ano passado", "es": "año pasado", "pron": "ánu pasádu", "ej": "No ano passado eu viajei.", "ejes": "El año pasado viajé.", "cog": false },
+        { "t": "de repente", "es": "de repente", "pron": "dyi rrepénchi", "ej": "De repente eu vi um amigo.", "ejes": "De repente vi a un amigo.", "cog": true },
+        { "t": "fiquei", "es": "me quedé / quedé", "pron": "fikéi", "ej": "Eu fiquei em casa.", "ejes": "Me quedé en casa.", "cog": false, "truco": "Ficar → fiquei: la «u» mantiene el sonido «k»." },
+        { "t": "encontrei", "es": "encontré", "pron": "enkontréi", "ej": "Eu encontrei uma amiga.", "ejes": "Encontré a una amiga.", "cog": true },
+        { "t": "levei", "es": "llevé", "pron": "levéi", "ej": "Eu levei meu filho à escola.", "ejes": "Llevé a mi hijo a la escuela.", "cog": false },
+        { "t": "fez calor", "es": "hizo calor", "pron": "fés kalór", "ej": "Ontem fez calor.", "ejes": "Ayer hizo calor.", "cog": false },
+        { "t": "tive sorte", "es": "tuve suerte", "pron": "tchívi sórchi", "ej": "Hoje eu tive sorte.", "ejes": "Hoy tuve suerte.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Anteontem eu fiquei em casa.", "es": "Anteayer me quedé en casa.", "pron": "anteóntein éu fikéi ein kása" },
+        { "t": "Ontem fez calor e eu bebi muita água.", "es": "Ayer hizo calor y bebí mucha agua.", "pron": "ónteín fés kalór i éu bebí múinta água" },
+        { "t": "De repente eu vi minha amiga na rua.", "es": "De repente vi a mi amiga en la calle.", "pron": "dyi rrepénchi éu ví miña amíga na rrúa" },
+        { "t": "Ela disse oi e nós fomos juntos para casa.", "es": "Ella dijo hola y fuimos juntos a casa.", "pron": "éla dísi ói i nós fómus yúntus pára kása" },
+        { "t": "Eu quis viajar, mas não pude.", "es": "Quise viajar, pero no pude.", "pron": "éu kís viayár, máis náun púdyi" }
+      ],
+      "dialogo": {
+        "titulo": "Anteayer",
+        "lineas": [
+          { "q": "A", "t": "O que você fez anteontem?", "es": "¿Qué hiciste anteayer?" },
+          { "q": "B", "t": "Eu fiquei em casa porque fez calor.", "es": "Me quedé en casa porque hizo calor." },
+          { "q": "A", "t": "Eu saí e encontrei uma amiga na rua.", "es": "Yo salí y encontré a una amiga en la calle." },
+          { "q": "B", "t": "O que ela disse?", "es": "¿Qué dijo ella?" },
+          { "q": "A", "t": "Ela disse que quis ir ao cinema, mas não pôde.", "es": "Dijo que quiso ir al cine, pero no pudo." }
+        ]
+      },
+      "nota": "«Hizo calor» se dice «fez calor» (de fazer): el clima usa fazer, no ser. «Fiquei» y «cheguei» cambian la ortografía para mantener el sonido. «Hoje» (hoy) se usa con el pasado cuando es el mismo día."
+    }
+  ]
+}

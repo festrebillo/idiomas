@@ -1,0 +1,217 @@
+{
+  "id": "en-a2-u7",
+  "idioma": "en",
+  "nivel": "A2",
+  "n": 7,
+  "titulo": "Salud y cuerpo",
+  "resumen": "Aprenderás a nombrar partes del cuerpo, decir qué te duele, hablar con un médico o en la farmacia y dar consejos con should y shouldn't.",
+  "puedo": [
+    "Nombrar las partes principales del cuerpo.",
+    "Decir qué me duele y cómo me siento.",
+    "Entender y dar instrucciones simples (Take..., Drink..., Rest).",
+    "Dar consejos con should y shouldn't.",
+    "Hablar con un médico o en una farmacia."
+  ],
+  "gramatica": {
+    "titulo": "Should y shouldn't para dar consejos",
+    "texto": "Should significa «debería» y sirve para dar un consejo. Shouldn't significa «no debería». Truco: should es un consejo amable, no una orden.\nSe usa igual con todas las personas (I, you, he, she, we, they) y siempre va seguido del verbo sin to y sin -s: You should rest. She should drink water.\nPara preguntar un consejo se pone should al inicio: Should I see a doctor? (¿Debería ir al médico?).",
+    "tabla": [
+      ["You should rest.", "Deberías descansar.", "iu shud rest"],
+      ["He should drink water.", "Él debería tomar agua.", "ji shud drink uóter"],
+      ["You shouldn't work today.", "No deberías trabajar hoy.", "iu shúdnt uérk tudéi"],
+      ["Should I see a doctor?", "¿Debería ir al médico?", "shud ai si a dóctor"],
+      ["Yes, you should.", "Sí, deberías.", "ies, iu shud"]
+    ],
+    "errores": [
+      "No pongas to después de should: es You should rest, no «You should to rest».",
+      "No añadas -s con he o she: He should sleep, no «He shoulds sleep».",
+      "La «l» de should no se pronuncia: suena «shud»."
+    ]
+  },
+  "practica": [
+    "Señala 8 partes de tu cuerpo y di su nombre en inglés en voz alta: This is my hand (5 minutos).",
+    "Escribe 5 consejos para un amigo con gripe usando You should... y You shouldn't... (8 minutos).",
+    "Representa en voz alta una visita al médico: tú eres el paciente y dices qué te duele (5 minutos).",
+    "Busca en internet la caja de una medicina en inglés y lee en voz alta las instrucciones (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-a2-u7-l1",
+      "n": 1,
+      "titulo": "Partes del cuerpo",
+      "objetivo": "Nombrar partes del cuerpo y decir cuál te duele.",
+      "intro": "Empezamos por el cuerpo. Para decir qué te duele usa My + parte del cuerpo + hurts: My head hurts. Truco: hurts suena «jerts» y es como decir «me duele».",
+      "palabras": [
+        { "t": "head", "es": "cabeza", "pron": "jed", "ej": "My head hurts.", "ejes": "Me duele la cabeza.", "cog": false },
+        { "t": "back", "es": "espalda", "pron": "bak", "ej": "My back hurts.", "ejes": "Me duele la espalda.", "cog": false, "truco": "back también significa «de vuelta», pero aquí es la espalda." },
+        { "t": "stomach", "es": "estómago", "pron": "stómak", "ej": "My stomach hurts.", "ejes": "Me duele el estómago.", "cog": true, "truco": "La «ch» de stomach suena «k»: stómak." },
+        { "t": "throat", "es": "garganta", "pron": "zróut", "ej": "My throat hurts.", "ejes": "Me duele la garganta.", "cog": false },
+        { "t": "arm", "es": "brazo", "pron": "arm", "ej": "My arm hurts.", "ejes": "Me duele el brazo.", "cog": false },
+        { "t": "leg", "es": "pierna", "pron": "leg", "ej": "My leg hurts.", "ejes": "Me duele la pierna.", "cog": false },
+        { "t": "hand", "es": "mano", "pron": "jand", "ej": "My hand hurts.", "ejes": "Me duele la mano.", "cog": false },
+        { "t": "foot", "es": "pie", "pron": "fut", "ej": "My foot hurts.", "ejes": "Me duele el pie.", "cog": false, "truco": "El plural es irregular: one foot, two feet." },
+        { "t": "hurts", "es": "duele", "pron": "jerts", "ej": "My back hurts.", "ejes": "Me duele la espalda.", "cog": false }
+      ],
+      "frases": [
+        { "t": "My head hurts.", "es": "Me duele la cabeza.", "pron": "mai jed jerts" },
+        { "t": "My back hurts.", "es": "Me duele la espalda.", "pron": "mai bak jerts" },
+        { "t": "My throat hurts.", "es": "Me duele la garganta.", "pron": "mai zróut jerts" },
+        { "t": "My feet hurt.", "es": "Me duelen los pies.", "pron": "mai fit jert" },
+        { "t": "Where does it hurt?", "es": "¿Dónde te duele?", "pron": "juér das it jert" }
+      ],
+      "dialogo": {
+        "titulo": "Después de correr",
+        "lineas": [
+          { "q": "A", "t": "Are you okay, Luis?", "es": "¿Estás bien, Luis?" },
+          { "q": "B", "t": "No, my leg hurts.", "es": "No, me duele la pierna." },
+          { "q": "A", "t": "And your foot?", "es": "¿Y tu pie?" },
+          { "q": "B", "t": "My foot hurts too.", "es": "El pie también me duele." }
+        ]
+      },
+      "nota": "Con partes del cuerpo en plural se dice hurt sin -s: My feet hurt, my hands hurt. Con una sola parte, hurts."
+    },
+    {
+      "id": "en-a2-u7-l2",
+      "n": 2,
+      "titulo": "Me siento mal",
+      "objetivo": "Decir qué síntomas tienes y cómo te sientes.",
+      "intro": "Para los síntomas se usa have: I have a headache (tengo dolor de cabeza). Para decir cómo estás, usa I feel + adjetivo: I feel tired. Truco: en inglés se «tiene» un dolor, no se «está con» él.",
+      "palabras": [
+        { "t": "headache", "es": "dolor de cabeza", "pron": "jédeik", "ej": "I have a headache.", "ejes": "Tengo dolor de cabeza.", "cog": false, "truco": "head + ache (dolor): jédeik." },
+        { "t": "stomachache", "es": "dolor de estómago", "pron": "stómakeik", "ej": "I have a stomachache.", "ejes": "Tengo dolor de estómago.", "cog": false },
+        { "t": "cold", "es": "resfriado", "pron": "cóuld", "ej": "I have a cold.", "ejes": "Tengo un resfriado.", "cog": false, "truco": "cold también significa «frío»." },
+        { "t": "cough", "es": "tos", "pron": "cof", "ej": "I have a bad cough.", "ejes": "Tengo mucha tos.", "cog": false },
+        { "t": "fever", "es": "fiebre", "pron": "fíver", "ej": "She has a fever.", "ejes": "Ella tiene fiebre.", "cog": true },
+        { "t": "sore throat", "es": "dolor de garganta", "pron": "sor zróut", "ej": "I have a sore throat.", "ejes": "Tengo dolor de garganta.", "cog": false },
+        { "t": "tired", "es": "cansado", "pron": "táierd", "ej": "I feel tired today.", "ejes": "Hoy me siento cansado.", "cog": false },
+        { "t": "sick", "es": "enfermo", "pron": "sik", "ej": "My son is sick.", "ejes": "Mi hijo está enfermo.", "cog": false },
+        { "t": "feel", "es": "sentir(se)", "pron": "fil", "ej": "I don't feel well.", "ejes": "No me siento bien.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I have a headache.", "es": "Tengo dolor de cabeza.", "pron": "ai jav a jédeik" },
+        { "t": "I have a cold.", "es": "Tengo un resfriado.", "pron": "ai jav a cóuld" },
+        { "t": "She has a fever.", "es": "Ella tiene fiebre.", "pron": "shi jas a fíver" },
+        { "t": "I feel sick.", "es": "Me siento mal.", "pron": "ai fil sik" },
+        { "t": "I don't feel well.", "es": "No me siento bien.", "pron": "ai dount fil uel" },
+        { "t": "He is tired and sick.", "es": "Él está cansado y enfermo.", "pron": "ji is táierd an sik" }
+      ],
+      "dialogo": {
+        "titulo": "En la oficina",
+        "lineas": [
+          { "q": "A", "t": "You look tired, Rosa.", "es": "Te ves cansada, Rosa." },
+          { "q": "B", "t": "Yes, I don't feel well.", "es": "Sí, no me siento bien." },
+          { "q": "A", "t": "Do you have a fever?", "es": "¿Tienes fiebre?" },
+          { "q": "B", "t": "No, I have a sore throat and a cough.", "es": "No, tengo dolor de garganta y tos." }
+        ]
+      },
+      "nota": "Con la tercera persona, have cambia a has: she has a fever, he has a cold. Para el estado general se dice I feel sick o I'm sick; para la gripe se usa I have the flu."
+    },
+    {
+      "id": "en-a2-u7-l3",
+      "n": 3,
+      "titulo": "Con el médico",
+      "objetivo": "Entender instrucciones simples del médico o del farmacéutico.",
+      "intro": "Los médicos dan órdenes cortas: Take..., Drink..., Rest. Truco: son verbos sin sujeto, tal como en español «Toma esto». Para decir «no», se pone Don't delante.",
+      "palabras": [
+        { "t": "doctor", "es": "médico / doctor", "pron": "dóctor", "ej": "I'm at the doctor.", "ejes": "Estoy donde el médico.", "cog": true },
+        { "t": "pharmacy", "es": "farmacia", "pron": "fármasi", "ej": "The pharmacy is open.", "ejes": "La farmacia está abierta.", "cog": false, "truco": "Parece pharmacy = «farmacia», con ph = f." },
+        { "t": "medicine", "es": "medicina", "pron": "médisin", "ej": "Take this medicine.", "ejes": "Toma esta medicina.", "cog": true },
+        { "t": "appointment", "es": "cita", "pron": "apóintment", "ej": "I have an appointment today.", "ejes": "Tengo una cita hoy.", "cog": false },
+        { "t": "take", "es": "tomar", "pron": "teik", "ej": "Take two pills.", "ejes": "Toma dos pastillas.", "cog": false, "truco": "Para medicinas se usa take, no drink." },
+        { "t": "pill", "es": "pastilla", "pron": "pil", "ej": "Take one pill.", "ejes": "Toma una pastilla.", "cog": false },
+        { "t": "rest", "es": "descansar", "pron": "rest", "ej": "Rest at home.", "ejes": "Descansa en casa.", "cog": false },
+        { "t": "drink", "es": "beber", "pron": "drink", "ej": "Drink water.", "ejes": "Toma agua.", "cog": false },
+        { "t": "stay", "es": "quedarse", "pron": "stei", "ej": "Stay in bed.", "ejes": "Quédate en cama.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I have an appointment.", "es": "Tengo una cita.", "pron": "ai jav an apóintment" },
+        { "t": "Take this medicine.", "es": "Toma esta medicina.", "pron": "teik dis médisin" },
+        { "t": "Take one pill, two times a day.", "es": "Toma una pastilla, dos veces al día.", "pron": "teik uan pil, tu taims a dei" },
+        { "t": "Drink water and rest.", "es": "Toma agua y descansa.", "pron": "drink uóter an rest" },
+        { "t": "Don't worry.", "es": "No te preocupes.", "pron": "dount uóri" }
+      ],
+      "dialogo": {
+        "titulo": "En el consultorio",
+        "lineas": [
+          { "q": "A", "t": "What's the problem?", "es": "¿Cuál es el problema?" },
+          { "q": "B", "t": "I have a cough and a fever.", "es": "Tengo tos y fiebre." },
+          { "q": "A", "t": "Take this medicine and rest.", "es": "Tome esta medicina y descanse." },
+          { "q": "B", "t": "Thank you, doctor.", "es": "Gracias, doctor." }
+        ]
+      },
+      "nota": "Para pedir algo en la farmacia di: Can I have something for a cough, please? (¿Me da algo para la tos, por favor?). En EE. UU. muchas medicinas simples se compran sin receta."
+    },
+    {
+      "id": "en-a2-u7-l4",
+      "n": 4,
+      "titulo": "Consejos con should",
+      "objetivo": "Dar y pedir consejos de salud con should y shouldn't.",
+      "intro": "Ahora aplicas la gramática de la unidad: You should rest (deberías descansar), You shouldn't work (no deberías trabajar). Truco: después de should va el verbo tal cual, sin to.",
+      "palabras": [
+        { "t": "should", "es": "debería", "pron": "shud", "ej": "You should rest.", "ejes": "Deberías descansar.", "cog": false },
+        { "t": "shouldn't", "es": "no debería", "pron": "shúdnt", "ej": "You shouldn't work today.", "ejes": "No deberías trabajar hoy.", "cog": false },
+        { "t": "advice", "es": "consejo", "pron": "adváis", "ej": "That is good advice.", "ejes": "Es un buen consejo.", "cog": false, "truco": "advice no se usa en plural ni con a: some advice." },
+        { "t": "sleep", "es": "dormir", "pron": "slip", "ej": "You should sleep more.", "ejes": "Deberías dormir más.", "cog": false },
+        { "t": "healthy", "es": "saludable", "pron": "jélzi", "ej": "Fruit is healthy.", "ejes": "La fruta es saludable.", "cog": false },
+        { "t": "exercise", "es": "hacer ejercicio", "pron": "éxersais", "ej": "You should exercise.", "ejes": "Deberías hacer ejercicio.", "cog": true },
+        { "t": "early", "es": "temprano", "pron": "érli", "ej": "Go to bed early.", "ejes": "Acuéstate temprano.", "cog": false },
+        { "t": "late", "es": "tarde", "pron": "leit", "ej": "You shouldn't sleep late.", "ejes": "No deberías dormir tarde.", "cog": false },
+        { "t": "see", "es": "ver / consultar", "pron": "si", "ej": "You should see a doctor.", "ejes": "Deberías ver a un médico.", "cog": false }
+      ],
+      "frases": [
+        { "t": "You should rest.", "es": "Deberías descansar.", "pron": "iu shud rest" },
+        { "t": "You shouldn't work today.", "es": "No deberías trabajar hoy.", "pron": "iu shúdnt uérk tudéi" },
+        { "t": "You should see a doctor.", "es": "Deberías ir al médico.", "pron": "iu shud si a dóctor" },
+        { "t": "Should I take a pill?", "es": "¿Debería tomar una pastilla?", "pron": "shud ai teik a pil" },
+        { "t": "You should sleep early.", "es": "Deberías dormir temprano.", "pron": "iu shud slip érli" },
+        { "t": "He shouldn't drink soda.", "es": "Él no debería tomar gaseosa.", "pron": "ji shúdnt drink sóuda" }
+      ],
+      "dialogo": {
+        "titulo": "Un buen consejo",
+        "lineas": [
+          { "q": "A", "t": "I have a bad cough.", "es": "Tengo mucha tos." },
+          { "q": "B", "t": "You should see a doctor.", "es": "Deberías ir al médico." },
+          { "q": "A", "t": "Should I go to work?", "es": "¿Debería ir a trabajar?" },
+          { "q": "B", "t": "No, you shouldn't. You should rest at home.", "es": "No, no deberías. Deberías descansar en casa." }
+        ]
+      },
+      "nota": "Should es más suave que must: es una recomendación. Para pedir consejo también se dice What should I do? (¿Qué debería hacer?)."
+    },
+    {
+      "id": "en-a2-u7-l5",
+      "n": 5,
+      "titulo": "Repaso de salud",
+      "objetivo": "Repasar el vocabulario de salud y dar consejos con seguridad.",
+      "intro": "Repasamos todo: partes del cuerpo, síntomas, instrucciones y consejos. Truco: para preguntar qué pasa, usa What's wrong? o What's the matter? Las dos significan «¿qué te pasa?».",
+      "palabras": [
+        { "t": "wrong", "es": "mal / equivocado", "pron": "rong", "ej": "What's wrong?", "ejes": "¿Qué pasa?", "cog": false },
+        { "t": "matter", "es": "asunto / problema", "pron": "máter", "ej": "What's the matter?", "ejes": "¿Qué te pasa?", "cog": false },
+        { "t": "better", "es": "mejor", "pron": "béter", "ej": "I feel better today.", "ejes": "Hoy me siento mejor.", "cog": false },
+        { "t": "worse", "es": "peor", "pron": "uers", "ej": "My cough is worse.", "ejes": "Mi tos está peor.", "cog": false },
+        { "t": "worried", "es": "preocupado", "pron": "uórid", "ej": "I'm worried about my mom.", "ejes": "Estoy preocupado por mi mamá.", "cog": false },
+        { "t": "dentist", "es": "dentista", "pron": "déntist", "ej": "I have an appointment with the dentist.", "ejes": "Tengo cita con el dentista.", "cog": true },
+        { "t": "toothache", "es": "dolor de muela", "pron": "tuzéik", "ej": "I have a toothache.", "ejes": "Tengo dolor de muela.", "cog": false },
+        { "t": "get well soon", "es": "que te mejores", "pron": "get uel sun", "ej": "Get well soon, Ana!", "ejes": "¡Que te mejores, Ana!", "cog": false, "truco": "Se dice a alguien enfermo, como en una tarjeta." }
+      ],
+      "frases": [
+        { "t": "What's wrong?", "es": "¿Qué pasa?", "pron": "juats rong" },
+        { "t": "I have a toothache.", "es": "Tengo dolor de muela.", "pron": "ai jav a tuzéik" },
+        { "t": "You should see the dentist.", "es": "Deberías ir al dentista.", "pron": "iu shud si da déntist" },
+        { "t": "I feel better today.", "es": "Hoy me siento mejor.", "pron": "ai fil béter tudéi" },
+        { "t": "My cough is worse.", "es": "Mi tos está peor.", "pron": "mai cof is uers" },
+        { "t": "Get well soon!", "es": "¡Que te mejores pronto!", "pron": "get uel sun" }
+      ],
+      "dialogo": {
+        "titulo": "Una llamada a un amigo",
+        "lineas": [
+          { "q": "A", "t": "Hi, Tom. What's the matter?", "es": "Hola, Tom. ¿Qué te pasa?" },
+          { "q": "B", "t": "I have a toothache. It's worse today.", "es": "Tengo dolor de muela. Hoy está peor." },
+          { "q": "A", "t": "You should see the dentist.", "es": "Deberías ir al dentista." },
+          { "q": "B", "t": "I have an appointment at four.", "es": "Tengo una cita a las cuatro." },
+          { "q": "A", "t": "Good. Get well soon!", "es": "Bien. ¡Que te mejores pronto!" }
+        ]
+      },
+      "nota": "Better y worse son comparativos (mejor y peor) y son irregulares: good - better, bad - worse. Ya sabes usarlos para comparar."
+    }
+  ]
+}

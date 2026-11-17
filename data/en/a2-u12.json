@@ -1,0 +1,216 @@
+{
+  "id": "en-a2-u12",
+  "idioma": "en",
+  "nivel": "A2",
+  "n": 12,
+  "titulo": "Reglas y consejos",
+  "resumen": "Aprenderás a hablar de obligaciones y prohibiciones con must, mustn't, have to y don't have to, y a repasar todo el nivel A2.",
+  "puedo": [
+    "Decir lo que es obligatorio con must y have to.",
+    "Decir lo que está prohibido con mustn't.",
+    "Decir lo que no es necesario con don't have to.",
+    "Entender reglas y letreros de lugares públicos y aeropuertos.",
+    "Repasar y usar lo aprendido en el nivel A2."
+  ],
+  "gramatica": {
+    "titulo": "Must, mustn't, have to y don't have to",
+    "texto": "Must y have to dicen que algo es obligatorio: You must wear a helmet. I have to work tomorrow. Mustn't dice que algo está prohibido: You mustn't smoke here.\nDon't have to dice que algo NO es necesario, pero se puede hacer: You don't have to come (no hace falta que vengas). Truco: mustn't = prohibido; don't have to = no es obligatorio. Son muy distintos.\nMust va seguido del verbo sin to y no cambia con he/she. Have to sí cambia: she has to work, he doesn't have to work. Should (de la unidad 7) es más suave: un consejo, no una obligación.",
+    "tabla": [
+      ["You must wear a helmet.", "Debes usar casco.", "iu mast uer a jélmet"],
+      ["You mustn't smoke here.", "No debes fumar aquí. (prohibido)", "iu másnt smouk jíar"],
+      ["I have to work tomorrow.", "Tengo que trabajar mañana.", "ai jav tu uerk tumórou"],
+      ["She has to wear a uniform.", "Ella tiene que usar uniforme.", "shi jas tu uer a iúniform"],
+      ["You don't have to pay.", "No tienes que pagar. (es gratis)", "iu dount jav tu pei"],
+      ["You should rest.", "Deberías descansar. (consejo)", "iu shud rest"]
+    ],
+    "errores": [
+      "No confundas mustn't con don't have to: You mustn't park here = prohibido; You don't have to park here = no es necesario.",
+      "No pongas to después de must: es You must go, no «You must to go».",
+      "Con he, she, it, have to cambia a has to: He has to work, no «He have to work»."
+    ]
+  },
+  "practica": [
+    "Mira 5 letreros o avisos de tu ciudad y di en inglés qué indican con You must... o You mustn't... (6 minutos).",
+    "Escribe las 5 reglas de tu casa o trabajo con must, mustn't y have to (8 minutos).",
+    "Di en voz alta 5 cosas que tienes que hacer mañana y 3 que no tienes que hacer (5 minutos).",
+    "Escribe un mensaje de 6 líneas a un amigo que viajará a tu ciudad: qué debe y qué no debe hacer (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-a2-u12-l1",
+      "n": 1,
+      "titulo": "Reglas y letreros",
+      "objetivo": "Entender y decir reglas con must y mustn't.",
+      "intro": "Los letreros usan must y mustn't. Truco: must = «debes» (obligatorio) y mustn't = «no debes» (prohibido). Después van siempre el verbo sin to.",
+      "palabras": [
+        { "t": "rule", "es": "regla", "pron": "rul", "ej": "That is the first rule.", "ejes": "Esa es la primera regla.", "cog": false },
+        { "t": "sign", "es": "letrero / señal", "pron": "sain", "ej": "Look at the sign.", "ejes": "Mira el letrero.", "cog": false, "truco": "La «g» de sign no suena: sain." },
+        { "t": "smoke", "es": "fumar", "pron": "smouk", "ej": "You mustn't smoke here.", "ejes": "No debes fumar aquí.", "cog": false },
+        { "t": "park", "es": "estacionar", "pron": "park", "ej": "You mustn't park here.", "ejes": "No debes estacionar aquí.", "cog": false },
+        { "t": "enter", "es": "entrar", "pron": "énter", "ej": "You mustn't enter without a ticket.", "ejes": "No debes entrar sin boleto.", "cog": true },
+        { "t": "wear", "es": "usar (ropa)", "pron": "uer", "ej": "You must wear a helmet.", "ejes": "Debes usar casco.", "cog": false },
+        { "t": "seat belt", "es": "cinturón de seguridad", "pron": "sit belt", "ej": "You must wear a seat belt.", "ejes": "Debes usar el cinturón de seguridad.", "cog": false },
+        { "t": "helmet", "es": "casco", "pron": "jélmet", "ej": "A helmet is safe.", "ejes": "Un casco es seguro.", "cog": false },
+        { "t": "safe", "es": "seguro", "pron": "seif", "ej": "This street is safe.", "ejes": "Esta calle es segura.", "cog": false }
+      ],
+      "frases": [
+        { "t": "You must wear a helmet.", "es": "Debes usar casco.", "pron": "iu mast uer a jélmet" },
+        { "t": "You mustn't smoke here.", "es": "No debes fumar aquí.", "pron": "iu másnt smouk jíar" },
+        { "t": "You must wear a seat belt.", "es": "Debes usar el cinturón de seguridad.", "pron": "iu mast uer a sit belt" },
+        { "t": "You mustn't park here.", "es": "No debes estacionar aquí.", "pron": "iu másnt park jíar" },
+        { "t": "Look at the sign.", "es": "Mira el letrero.", "pron": "luk at da sain" }
+      ],
+      "dialogo": {
+        "titulo": "En el estacionamiento",
+        "lineas": [
+          { "q": "A", "t": "Excuse me, you mustn't park here.", "es": "Disculpe, no debe estacionar aquí." },
+          { "q": "B", "t": "Really? I don't see a sign.", "es": "¿En serio? No veo ningún letrero." },
+          { "q": "A", "t": "Look, it's there. You must park in the parking lot.", "es": "Mire, está allí. Debe estacionar en el estacionamiento." },
+          { "q": "B", "t": "Oh, sorry. Thank you.", "es": "Ay, perdón. Gracias." }
+        ]
+      },
+      "nota": "Must no cambia para ninguna persona ni lleva -s: she must go. En preguntas se usa poco; es más común Do I have to...? (¿Tengo que...?)."
+    },
+    {
+      "id": "en-a2-u12-l2",
+      "n": 2,
+      "titulo": "Tener que",
+      "objetivo": "Decir lo que tienes que hacer con have to y has to.",
+      "intro": "Have to significa «tener que»: I have to work tomorrow. Con he, she, it se usa has to. Truco: casi siempre puedes cambiar must por have to; en conversación have to es más natural.",
+      "palabras": [
+        { "t": "uniform", "es": "uniforme", "pron": "iúniform", "ej": "I have to wear a uniform.", "ejes": "Tengo que usar uniforme.", "cog": true },
+        { "t": "deadline", "es": "fecha límite", "pron": "dédlain", "ej": "The deadline is Friday.", "ejes": "La fecha límite es el viernes.", "cog": false },
+        { "t": "passport", "es": "pasaporte", "pron": "pásport", "ej": "You have to show your passport.", "ejes": "Tienes que mostrar tu pasaporte.", "cog": true },
+        { "t": "wake up", "es": "despertarse", "pron": "ueik ap", "ej": "I have to wake up at six.", "ejes": "Tengo que despertarme a las seis.", "cog": false },
+        { "t": "pay", "es": "pagar", "pron": "pei", "ej": "You have to pay at the door.", "ejes": "Tienes que pagar en la puerta.", "cog": false },
+        { "t": "form", "es": "formulario", "pron": "form", "ej": "I have to fill out a form.", "ejes": "Tengo que llenar un formulario.", "cog": true },
+        { "t": "line", "es": "fila", "pron": "lain", "ej": "We have to wait in line.", "ejes": "Tenemos que esperar en la fila.", "cog": false },
+        { "t": "free", "es": "gratis / libre", "pron": "fri", "ej": "The museum is free on Sunday.", "ejes": "El museo es gratis el domingo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I have to work tomorrow.", "es": "Tengo que trabajar mañana.", "pron": "ai jav tu uerk tumórou" },
+        { "t": "She has to wear a uniform.", "es": "Ella tiene que usar uniforme.", "pron": "shi jas tu uer a iúniform" },
+        { "t": "Do you have to wake up early?", "es": "¿Tienes que despertarte temprano?", "pron": "du iu jav tu ueik ap érli" },
+        { "t": "We have to wait in line.", "es": "Tenemos que esperar en la fila.", "pron": "ui jav tu ueit in lain" },
+        { "t": "You don't have to pay. It's free.", "es": "No tienes que pagar. Es gratis.", "pron": "iu dount jav tu pei. its fri" }
+      ],
+      "dialogo": {
+        "titulo": "Un día de trabajo",
+        "lineas": [
+          { "q": "A", "t": "Do you have to wear a uniform?", "es": "¿Tienes que usar uniforme?" },
+          { "q": "B", "t": "Yes, I do. And I have to wake up at six.", "es": "Sí. Y tengo que despertarme a las seis." },
+          { "q": "A", "t": "Do you have to work on Saturday?", "es": "¿Tienes que trabajar el sábado?" },
+          { "q": "B", "t": "No, I don't. I don't have to work on weekends.", "es": "No. No tengo que trabajar los fines de semana." }
+        ]
+      },
+      "nota": "Para preguntar y negar se usa do / does: Do you have to work? She doesn't have to work. Fíjate: con does el verbo have se queda sin -s."
+    },
+    {
+      "id": "en-a2-u12-l3",
+      "n": 3,
+      "titulo": "Prohibido o no hace falta",
+      "objetivo": "Distinguir mustn't de don't have to en lugares públicos.",
+      "intro": "Atención: mustn't y don't have to significan cosas distintas. You mustn't run = está prohibido. You don't have to run = no hace falta, pero puedes. Truco: mustn't es un «no» fuerte; don't have to es un «no es necesario».",
+      "palabras": [
+        { "t": "library", "es": "biblioteca", "pron": "láibreri", "ej": "You must be quiet in the library.", "ejes": "Debes estar en silencio en la biblioteca.", "cog": false, "truco": "No es «librería»: library es biblioteca; la librería es bookstore." },
+        { "t": "quiet", "es": "silencioso", "pron": "cuáiet", "ej": "Please be quiet.", "ejes": "Por favor, guarda silencio.", "cog": false },
+        { "t": "loud", "es": "fuerte (sonido)", "pron": "láud", "ej": "You mustn't talk loud.", "ejes": "No debes hablar fuerte.", "cog": false },
+        { "t": "touch", "es": "tocar", "pron": "tach", "ej": "You mustn't touch the paintings.", "ejes": "No debes tocar las pinturas.", "cog": false },
+        { "t": "run", "es": "correr", "pron": "ran", "ej": "You mustn't run near the pool.", "ejes": "No debes correr cerca de la piscina.", "cog": false },
+        { "t": "photo", "es": "foto", "pron": "fóuto", "ej": "Take a photo of the museum.", "ejes": "Toma una foto del museo.", "cog": true },
+        { "t": "allowed", "es": "permitido", "pron": "aláud", "ej": "Photos are not allowed.", "ejes": "No se permiten fotos.", "cog": false },
+        { "t": "dangerous", "es": "peligroso", "pron": "déinyeros", "ej": "It is dangerous to swim here.", "ejes": "Es peligroso nadar aquí.", "cog": true }
+      ],
+      "frases": [
+        { "t": "You mustn't touch the paintings.", "es": "No debes tocar las pinturas.", "pron": "iu másnt tach da péintins" },
+        { "t": "You must be quiet in the library.", "es": "Debes estar en silencio en la biblioteca.", "pron": "iu mast bi cuáiet in da láibreri" },
+        { "t": "You don't have to take photos.", "es": "No tienes que tomar fotos.", "pron": "iu dount jav tu teik fóutos" },
+        { "t": "Photos are not allowed.", "es": "No se permiten fotos.", "pron": "fóutos ar not aláud" },
+        { "t": "You mustn't run, but you don't have to walk slowly.", "es": "No debes correr, pero no tienes que caminar despacio.", "pron": "iu másnt ran, bat iu dount jav tu uok slóuli" }
+      ],
+      "dialogo": {
+        "titulo": "En el museo",
+        "lineas": [
+          { "q": "A", "t": "Can I take a photo?", "es": "¿Puedo tomar una foto?" },
+          { "q": "B", "t": "Yes, you can, but you mustn't use a flash.", "es": "Sí, pero no debe usar flash." },
+          { "q": "A", "t": "And can I touch the painting?", "es": "¿Y puedo tocar la pintura?" },
+          { "q": "B", "t": "No, you mustn't. You must look only.", "es": "No, no debe. Solo debe mirar." },
+          { "q": "A", "t": "Do I have to pay?", "es": "¿Tengo que pagar?" },
+          { "q": "B", "t": "No, you don't have to. It's free today.", "es": "No, no tiene que hacerlo. Hoy es gratis." }
+        ]
+      },
+      "nota": "Para preguntar si algo está permitido se usa Can I...? (¿Puedo...?). Para decir que no se puede: You can't..., que es igual a You mustn't... en la práctica."
+    },
+    {
+      "id": "en-a2-u12-l4",
+      "n": 4,
+      "titulo": "En el aeropuerto",
+      "objetivo": "Entender las reglas de un aeropuerto y dar consejos de viaje.",
+      "intro": "En el aeropuerto verás todo: must, have to, mustn't y should juntos. Truco: must y have to = obligación; should = consejo; mustn't = prohibido. Elige según qué tan fuerte es la idea.",
+      "palabras": [
+        { "t": "airport", "es": "aeropuerto", "pron": "érport", "ej": "The airport is far from here.", "ejes": "El aeropuerto está lejos de aquí.", "cog": false },
+        { "t": "luggage", "es": "equipaje", "pron": "lágich", "ej": "You have to check your luggage.", "ejes": "Tienes que despachar tu equipaje.", "cog": false, "truco": "luggage es incontable: no tiene plural." },
+        { "t": "boarding pass", "es": "tarjeta de embarque", "pron": "bórdin pas", "ej": "You must show your boarding pass.", "ejes": "Debes mostrar tu tarjeta de embarque.", "cog": false },
+        { "t": "security", "es": "seguridad", "pron": "sikiúriti", "ej": "You have to go through security.", "ejes": "Tienes que pasar por seguridad.", "cog": true },
+        { "t": "check in", "es": "registrarse", "pron": "chek in", "ej": "You have to check in two hours early.", "ejes": "Tienes que registrarte con dos horas de anticipación.", "cog": false },
+        { "t": "flight", "es": "vuelo", "pron": "flait", "ej": "My flight is at nine.", "ejes": "Mi vuelo es a las nueve.", "cog": false },
+        { "t": "gate", "es": "puerta de embarque", "pron": "geit", "ej": "Go to gate twelve.", "ejes": "Ve a la puerta doce.", "cog": false },
+        { "t": "arrive", "es": "llegar", "pron": "aráiv", "ej": "You should arrive early.", "ejes": "Deberías llegar temprano.", "cog": false }
+      ],
+      "frases": [
+        { "t": "You must show your passport.", "es": "Debes mostrar tu pasaporte.", "pron": "iu mast shou iur pásport" },
+        { "t": "You have to check in two hours early.", "es": "Tienes que registrarte con dos horas de anticipación.", "pron": "iu jav tu chek in tu auers érli" },
+        { "t": "You mustn't carry liquids.", "es": "No debes llevar líquidos.", "pron": "iu másnt kári líkuids" },
+        { "t": "You should arrive early.", "es": "Deberías llegar temprano.", "pron": "iu shud aráiv érli" },
+        { "t": "You don't have to buy a ticket at the airport.", "es": "No tienes que comprar el boleto en el aeropuerto.", "pron": "iu dount jav tu bai a tíket at di érport" }
+      ],
+      "dialogo": {
+        "titulo": "Antes de volar",
+        "lineas": [
+          { "q": "A", "t": "Do I have to check in at the airport?", "es": "¿Tengo que registrarme en el aeropuerto?" },
+          { "q": "B", "t": "No, you don't have to. You can check in online.", "es": "No, no tienes que. Puedes registrarte en línea." },
+          { "q": "A", "t": "And what do I have to show at security?", "es": "¿Y qué tengo que mostrar en seguridad?" },
+          { "q": "B", "t": "You must show your passport and your boarding pass.", "es": "Debes mostrar tu pasaporte y tu tarjeta de embarque." },
+          { "q": "A", "t": "Thanks. I should arrive early, right?", "es": "Gracias. Debería llegar temprano, ¿verdad?" }
+        ]
+      },
+      "nota": "En los aeropuertos de EE. UU. no se puede llevar más de un cierto volumen de líquidos en el equipaje de mano. Revisa siempre las reglas de tu aerolínea antes de viajar."
+    },
+    {
+      "id": "en-a2-u12-l5",
+      "n": 5,
+      "titulo": "Repaso del nivel A2",
+      "objetivo": "Repasar lo más importante del nivel A2 y hablar de tu progreso.",
+      "intro": "Has llegado al final del nivel A2. Repasa lo aprendido: pasado, comparativos, futuro, presente perfecto y obligaciones. Truco: cada día elige un tema y dilo en voz alta, no solo lo leas.",
+      "palabras": [
+        { "t": "improve", "es": "mejorar", "pron": "imprúv", "ej": "I want to improve my English.", "ejes": "Quiero mejorar mi inglés.", "cog": false },
+        { "t": "practice", "es": "practicar", "pron": "práctis", "ej": "You should practice every day.", "ejes": "Deberías practicar todos los días.", "cog": true },
+        { "t": "confident", "es": "seguro de sí", "pron": "cónfident", "ej": "I feel more confident now.", "ejes": "Ahora me siento más seguro.", "cog": true },
+        { "t": "fluent", "es": "fluido", "pron": "flúent", "ej": "I want to be fluent in English.", "ejes": "Quiero hablar inglés con fluidez.", "cog": true },
+        { "t": "mistake", "es": "error", "pron": "mistéik", "ej": "I made a mistake.", "ejes": "Cometí un error.", "cog": false },
+        { "t": "progress", "es": "progreso", "pron": "prógres", "ej": "I'm making progress.", "ejes": "Estoy progresando.", "cog": true },
+        { "t": "level", "es": "nivel", "pron": "lével", "ej": "I'm at level A2.", "ejes": "Estoy en el nivel A2.", "cog": true },
+        { "t": "well done", "es": "bien hecho", "pron": "uel dan", "ej": "Well done, Sofia!", "ejes": "¡Bien hecho, Sofía!", "cog": false }
+      ],
+      "frases": [
+        { "t": "I have to practice every day.", "es": "Tengo que practicar todos los días.", "pron": "ai jav tu práctis évri dei" },
+        { "t": "You mustn't be afraid of mistakes.", "es": "No debes tener miedo a los errores.", "pron": "iu másnt bi afréid of mistéiks" },
+        { "t": "I've learned a lot this year.", "es": "He aprendido mucho este año.", "pron": "aiv lernd a lat dis iar" },
+        { "t": "If I practice, I'll be fluent.", "es": "Si practico, hablaré con fluidez.", "pron": "if ai práctis, ail bi flúent" },
+        { "t": "I'm going to study for the B1 level.", "es": "Voy a estudiar para el nivel B1.", "pron": "aim góuin tu stádi for da bi uan lével" },
+        { "t": "Well done!", "es": "¡Bien hecho!", "pron": "uel dan" }
+      ],
+      "dialogo": {
+        "titulo": "Mi progreso en inglés",
+        "lineas": [
+          { "q": "A", "t": "How is your English?", "es": "¿Cómo va tu inglés?" },
+          { "q": "B", "t": "I'm making progress. I feel more confident.", "es": "Estoy progresando. Me siento más seguro." },
+          { "q": "A", "t": "Great! What do you have to do now?", "es": "¡Genial! ¿Qué tienes que hacer ahora?" },
+          { "q": "B", "t": "I have to practice every day. If I practice, I'll be fluent.", "es": "Tengo que practicar todos los días. Si practico, hablaré con fluidez." },
+          { "q": "A", "t": "Well done! You should be proud.", "es": "¡Bien hecho! Deberías estar orgulloso." }
+        ]
+      },
+      "nota": "Para pasar de A2 a B1 conviene escuchar y hablar mucho. Una buena regla: practica 15 minutos al día y no tengas miedo de equivocarte. Los errores son parte de aprender."
+    }
+  ]
+}

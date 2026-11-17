@@ -1,0 +1,219 @@
+{
+  "id": "it-a2-u7",
+  "idioma": "it",
+  "nivel": "A2",
+  "n": 7,
+  "titulo": "Salud y cuerpo",
+  "resumen": "Aprenderás a nombrar el cuerpo, decir qué te duele, hablar con un médico o en la farmacia y entender consejos.",
+  "puedo": [
+    "Nombrar las partes principales del cuerpo.",
+    "Decir qué me duele con «mi fa male» y «mi fanno male».",
+    "Describir síntomas simples: fiebre, tos, resfriado.",
+    "Pedir ayuda en la farmacia o con el médico.",
+    "Entender y dar consejos con «devi», «puoi» y órdenes sencillas."
+  ],
+  "gramatica": {
+    "titulo": "Decir qué te duele: mi fa male / mi fanno male",
+    "texto": "Para decir que algo te duele, en italiano no se usa «yo me duele», sino «a mí me hace mal» (mi fa male) más la parte del cuerpo.\nSi la parte es una sola, se usa «fa»: Mi fa male la testa. Si son varias, se usa «fanno»: Mi fanno male i piedi.\nLa parte del cuerpo va con artículo (la testa, il piede), no con «mi» o «tu» delante. Para otras personas: ti fa male (te duele), gli fa male (le duele a él), le fa male (le duele a ella).\nTambién existe «ho mal di...» (tengo dolor de): ho mal di testa, ho mal di denti.",
+    "tabla": [
+      ["mi fa male la testa", "me duele la cabeza", "mi fa máleh la tésta"],
+      ["mi fanno male i piedi", "me duelen los pies", "mi fánno máleh i piédi"],
+      ["ti fa male la schiena?", "¿te duele la espalda?", "ti fa máleh la skiéna"],
+      ["gli fa male lo stomaco", "a él le duele el estómago", "li fa máleh lo stómaco"],
+      ["le fanno male le gambe", "a ella le duelen las piernas", "le fánno máleh le gámbe"]
+    ],
+    "errores": [
+      "No traduzcas «me duele» como «mi duole» o «io faccio male»: el dolor es la cosa que «hace mal» a ti.",
+      "No pongas «mia testa»: se dice «la testa» con artículo, porque «mi» ya indica que es tuya.",
+      "Concuerda con el número: una parte, «fa»; varias partes, «fanno»."
+    ]
+  },
+  "practica": [
+    "Señala 10 partes de tu cuerpo y di su nombre con el artículo: «la mano, il piede, la gamba...» (5 minutos).",
+    "Imagina que te duele algo y escribe 5 frases: «Mi fa male...» o «Mi fanno male...» (5 minutos).",
+    "Ensaya en voz alta el diálogo de la farmacia, cambiando el síntoma cada vez (5 minutos).",
+    "Dale tres consejos a un amigo enfermo con «Devi...» y «Puoi...» (3 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-a2-u7-l1",
+      "n": 1,
+      "titulo": "El cuerpo",
+      "objetivo": "Nombrar las partes principales del cuerpo con su artículo.",
+      "intro": "Para hablar de salud primero hay que saber nombrar el cuerpo. Aprende cada parte con su artículo, como en A1. Truco: «gamba» no es gamba de mariscos: es la pierna.",
+      "palabras": [
+        { "t": "la testa", "es": "la cabeza", "pron": "la tésta", "ej": "Mi fa male la testa.", "ejes": "Me duele la cabeza.", "cog": false },
+        { "t": "la gola", "es": "la garganta", "pron": "la góla", "ej": "Mi fa male la gola.", "ejes": "Me duele la garganta.", "cog": false },
+        { "t": "lo stomaco", "es": "el estómago", "pron": "lo stómaco", "ej": "Mi fa male lo stomaco.", "ejes": "Me duele el estómago.", "cog": true, "truco": "Delante de «s + consonante» se usa «lo»." },
+        { "t": "la schiena", "es": "la espalda", "pron": "la skiéna", "ej": "Mi fa male la schiena.", "ejes": "Me duele la espalda.", "cog": false, "truco": "«sch» + i/e suena «sk»." },
+        { "t": "il braccio", "es": "el brazo", "pron": "il brátcho", "ej": "Mi fa male il braccio.", "ejes": "Me duele el brazo.", "cog": true, "truco": "Plural irregular: le braccia." },
+        { "t": "la mano", "es": "la mano", "pron": "la máno", "ej": "Mi fa male la mano.", "ejes": "Me duele la mano.", "cog": true, "truco": "Ojo: termina en -o pero es femenina. Plural: le mani." },
+        { "t": "la gamba", "es": "la pierna", "pron": "la gámba", "ej": "Mi fa male la gamba.", "ejes": "Me duele la pierna.", "cog": false },
+        { "t": "il piede", "es": "el pie", "pron": "il piéde", "ej": "Mi fa male il piede.", "ejes": "Me duele el pie.", "cog": true },
+        { "t": "il dente", "es": "el diente / la muela", "pron": "il dénte", "ej": "Mi fa male il dente.", "ejes": "Me duele el diente.", "cog": true, "truco": "Plural: i denti." },
+        { "t": "l'occhio", "es": "el ojo", "pron": "lókkio", "ej": "Mi fa male l'occhio.", "ejes": "Me duele el ojo.", "cog": false, "truco": "Plural: gli occhi." }
+      ],
+      "frases": [
+        { "t": "Mi fa male la testa.", "es": "Me duele la cabeza.", "pron": "mi fa máleh la tésta" },
+        { "t": "Mi fa male la schiena.", "es": "Me duele la espalda.", "pron": "mi fa máleh la skiéna" },
+        { "t": "Mi fanno male i piedi.", "es": "Me duelen los pies.", "pron": "mi fánno máleh i piédi" },
+        { "t": "Mi fanno male gli occhi.", "es": "Me duelen los ojos.", "pron": "mi fánno máleh li ókki" }
+      ],
+      "dialogo": {
+        "titulo": "Después de caminar mucho",
+        "lineas": [
+          { "q": "A", "t": "Come stai, Marco?", "es": "¿Cómo estás, Marco?" },
+          { "q": "B", "t": "Non molto bene. Mi fanno male i piedi.", "es": "No muy bien. Me duelen los pies." },
+          { "q": "A", "t": "E la gamba?", "es": "¿Y la pierna?" },
+          { "q": "B", "t": "Anche la gamba mi fa male.", "es": "También me duele la pierna." }
+        ]
+      },
+      "nota": "Algunas partes cambian de género en plural: il braccio, le braccia. La combinación «gli» suena como la «ll» andina; si no la distingues, di «li» y te entenderán."
+    },
+    {
+      "id": "it-a2-u7-l2",
+      "n": 2,
+      "titulo": "Dolores y síntomas",
+      "objetivo": "Decir qué te duele y cómo te sientes.",
+      "intro": "Ahora combina lo aprendido: «mi fa male» con una parte, o «ho» con un síntoma. Truco: la fiebre «se tiene» en italiano: «ho la febbre», no «estoy fiebre».",
+      "palabras": [
+        { "t": "mi fa male", "es": "me duele", "pron": "mi fa máleh", "ej": "Oggi mi fa male la testa.", "ejes": "Hoy me duele la cabeza.", "cog": false },
+        { "t": "mi fanno male", "es": "me duelen", "pron": "mi fánno máleh", "ej": "Mi fanno male le gambe.", "ejes": "Me duelen las piernas.", "cog": false },
+        { "t": "il mal di testa", "es": "el dolor de cabeza", "pron": "il mal di tésta", "ej": "Ho il mal di testa.", "ejes": "Tengo dolor de cabeza.", "cog": false },
+        { "t": "il mal di denti", "es": "el dolor de muelas", "pron": "il mal di dénti", "ej": "Ho il mal di denti.", "ejes": "Tengo dolor de muelas.", "cog": false },
+        { "t": "la febbre", "es": "la fiebre", "pron": "la fébbre", "ej": "Ho la febbre.", "ejes": "Tengo fiebre.", "cog": true, "truco": "«bb» doble: se pronuncia con más fuerza." },
+        { "t": "la tosse", "es": "la tos", "pron": "la tósse", "ej": "Ho la tosse.", "ejes": "Tengo tos.", "cog": false },
+        { "t": "il raffreddore", "es": "el resfriado", "pron": "il raffreddóre", "ej": "Ho il raffreddore.", "ejes": "Tengo un resfriado.", "cog": false },
+        { "t": "stanco", "es": "cansado", "pron": "stánco", "ej": "Sono molto stanco.", "ejes": "Estoy muy cansado.", "cog": false, "truco": "Femenino: stanca." },
+        { "t": "sto male", "es": "me siento mal", "pron": "sto máleh", "ej": "Oggi sto male.", "ejes": "Hoy me siento mal.", "cog": false },
+        { "t": "sto meglio", "es": "me siento mejor", "pron": "sto méllio", "ej": "Oggi sto meglio.", "ejes": "Hoy me siento mejor.", "cog": false, "truco": "«gl» suena como la «ll» andina." }
+      ],
+      "frases": [
+        { "t": "Mi fa male la gola.", "es": "Me duele la garganta.", "pron": "mi fa máleh la góla" },
+        { "t": "Ho la febbre e la tosse.", "es": "Tengo fiebre y tos.", "pron": "o la fébbre e la tósse" },
+        { "t": "Ieri stavo male.", "es": "Ayer me sentía mal.", "pron": "iéri stávo máleh" },
+        { "t": "Oggi sto meglio, grazie.", "es": "Hoy me siento mejor, gracias.", "pron": "ódyi sto méllio, grátsie" },
+        { "t": "Sono stanca e ho il mal di testa.", "es": "Estoy cansada y tengo dolor de cabeza.", "pron": "sóno stánca e o il mal di tésta" }
+      ],
+      "dialogo": {
+        "titulo": "Una llamada al trabajo",
+        "lineas": [
+          { "q": "A", "t": "Pronto, Lucia? Come stai?", "es": "¿Aló, Lucía? ¿Cómo estás?" },
+          { "q": "B", "t": "Non bene. Ho la febbre e il mal di testa.", "es": "No bien. Tengo fiebre y dolor de cabeza." },
+          { "q": "A", "t": "Ti fa male anche la gola?", "es": "¿También te duele la garganta?" },
+          { "q": "B", "t": "Sì, e ho molta tosse.", "es": "Sí, y tengo mucha tos." },
+          { "q": "A", "t": "Allora riposa, Lucia!", "es": "¡Entonces descansa, Lucía!" }
+        ]
+      },
+      "nota": "«Ieri stavo male» usa «stavo», un pasado que aún no has estudiado; úsalo como frase hecha. En italiano «Pronto?» es como se contesta al teléfono."
+    },
+    {
+      "id": "it-a2-u7-l3",
+      "n": 3,
+      "titulo": "En la farmacia y con el médico",
+      "objetivo": "Pedir ayuda médica y decir desde cuándo te sientes mal.",
+      "intro": "Cuando estás enfermo en otro país necesitas pedir una medicina o una cita. Truco: «da» + tiempo significa «desde hace»: «da due giorni» = hace dos días que...",
+      "palabras": [
+        { "t": "il medico", "es": "el médico", "pron": "il médico", "ej": "Vorrei vedere il medico.", "ejes": "Quisiera ver al médico.", "cog": true },
+        { "t": "la farmacia", "es": "la farmacia", "pron": "la farmatchía", "ej": "La farmacia è qui vicino.", "ejes": "La farmacia está aquí cerca.", "cog": true },
+        { "t": "la medicina", "es": "la medicina", "pron": "la meditchína", "ej": "Prendo la medicina.", "ejes": "Tomo la medicina.", "cog": true },
+        { "t": "la pastiglia", "es": "la pastilla", "pron": "la pastíllia", "ej": "Prendo la pastiglia.", "ejes": "Tomo la pastilla.", "cog": true },
+        { "t": "lo sciroppo", "es": "el jarabe", "pron": "lo shiróppo", "ej": "Vorrei lo sciroppo per la tosse.", "ejes": "Quisiera el jarabe para la tos.", "cog": false, "truco": "«sc» + i/e suena «sh»." },
+        { "t": "l'appuntamento", "es": "la cita", "pron": "lapuntaménto", "ej": "Ho l'appuntamento alle tre.", "ejes": "Tengo la cita a las tres.", "cog": false },
+        { "t": "l'ospedale", "es": "el hospital", "pron": "lospedále", "ej": "L'ospedale è aperto.", "ejes": "El hospital está abierto.", "cog": true, "truco": "«osp-»: igual que «hospital» sin h." },
+        { "t": "ho bisogno di", "es": "necesito", "pron": "o bisóñño di", "ej": "Ho bisogno di una medicina.", "ejes": "Necesito una medicina.", "cog": false },
+        { "t": "da due giorni", "es": "desde hace dos días", "pron": "da dúe yórni", "ej": "Sto male da due giorni.", "ejes": "Me siento mal desde hace dos días.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Ho bisogno di un medico.", "es": "Necesito un médico.", "pron": "o bisóñño di un médico" },
+        { "t": "Ho la tosse da due giorni.", "es": "Tengo tos desde hace dos días.", "pron": "o la tósse da dúe yórni" },
+        { "t": "Vorrei una medicina per la febbre.", "es": "Quisiera una medicina para la fiebre.", "pron": "vorréi úna meditchína per la fébbre" },
+        { "t": "Quante pastiglie al giorno?", "es": "¿Cuántas pastillas al día?", "pron": "cuánte pastíllie al yórno" },
+        { "t": "Dov'è l'ospedale?", "es": "¿Dónde está el hospital?", "pron": "dovè lospedále" }
+      ],
+      "dialogo": {
+        "titulo": "En la farmacia",
+        "lineas": [
+          { "q": "A", "t": "Buongiorno! Che cosa desidera?", "es": "¡Buenos días! ¿Qué desea?" },
+          { "q": "B", "t": "Ho la tosse da due giorni. Ho bisogno di una medicina.", "es": "Tengo tos desde hace dos días. Necesito una medicina." },
+          { "q": "A", "t": "Ecco lo sciroppo. Due volte al giorno.", "es": "Aquí tiene el jarabe. Dos veces al día." },
+          { "q": "B", "t": "Quanto costa?", "es": "¿Cuánto cuesta?" },
+          { "q": "A", "t": "Costa otto euro.", "es": "Cuesta ocho euros." }
+        ]
+      },
+      "nota": "En Italia puedes comprar muchas medicinas sencillas en la farmacia sin receta, y el farmacista te aconseja. Para una emergencia, el número es el 112."
+    },
+    {
+      "id": "it-a2-u7-l4",
+      "n": 4,
+      "titulo": "Debes y puedes: consejos",
+      "objetivo": "Dar y entender consejos con «devi», «puoi» y órdenes sencillas.",
+      "intro": "Cuando alguien está mal, le damos consejos: «debes descansar», «puedes tomar té». Truco: después de «devo / devi / posso / puoi» siempre va el verbo en infinitivo.",
+      "palabras": [
+        { "t": "devo", "es": "debo / tengo que", "pron": "dévo", "ej": "Devo riposare.", "ejes": "Debo descansar.", "cog": true },
+        { "t": "devi", "es": "debes / tienes que", "pron": "dévi", "ej": "Devi bere molta acqua.", "ejes": "Debes beber mucha agua.", "cog": true },
+        { "t": "posso", "es": "puedo", "pron": "pósso", "ej": "Posso uscire oggi?", "ejes": "¿Puedo salir hoy?", "cog": true },
+        { "t": "puoi", "es": "puedes", "pron": "puói", "ej": "Puoi prendere un tè caldo.", "ejes": "Puedes tomar un té caliente.", "cog": true },
+        { "t": "riposare", "es": "descansar", "pron": "riposáre", "ej": "Devi riposare un giorno.", "ejes": "Debes descansar un día.", "cog": true },
+        { "t": "bere", "es": "beber", "pron": "bére", "ej": "Devi bere molta acqua.", "ejes": "Debes beber mucha agua.", "cog": false },
+        { "t": "restare a letto", "es": "quedarse en cama", "pron": "restáre a létto", "ej": "Devo restare a letto.", "ejes": "Tengo que quedarme en cama.", "cog": false },
+        { "t": "prendere", "es": "tomar", "pron": "préndere", "ej": "Puoi prendere la pastiglia.", "ejes": "Puedes tomar la pastilla.", "cog": false },
+        { "t": "caldo", "es": "caliente", "pron": "cáldo", "ej": "Un tè caldo ti fa bene.", "ejes": "Un té caliente te hace bien.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Devi riposare.", "es": "Debes descansar.", "pron": "dévi riposáre" },
+        { "t": "Bevi molta acqua!", "es": "¡Bebe mucha agua!", "pron": "bévi mólta ákua" },
+        { "t": "Non puoi uscire oggi.", "es": "No puedes salir hoy.", "pron": "non puói uscíre ódyi" },
+        { "t": "Posso prendere una pastiglia?", "es": "¿Puedo tomar una pastilla?", "pron": "pósso préndere úna pastíllia" },
+        { "t": "Resta a letto e riposa!", "es": "¡Quédate en cama y descansa!", "pron": "résta a létto e rípoza" }
+      ],
+      "dialogo": {
+        "titulo": "Consejos de un amigo",
+        "lineas": [
+          { "q": "A", "t": "Sto male, Paolo. Ho la febbre.", "es": "Me siento mal, Paolo. Tengo fiebre." },
+          { "q": "B", "t": "Devi restare a letto e riposare.", "es": "Tienes que quedarte en cama y descansar." },
+          { "q": "A", "t": "Posso bere un caffè?", "es": "¿Puedo tomar un café?" },
+          { "q": "B", "t": "No, bevi un tè caldo e molta acqua.", "es": "No, bebe un té caliente y mucha agua." }
+        ]
+      },
+      "nota": "Para dar una orden amistosa («tú») con verbos en -ere, la forma es igual que «tú»: bevi, prendi. Con -are cambia: riposare, riposa. Con «lei» (usted) se usa otra forma, que verás más adelante."
+    },
+    {
+      "id": "it-a2-u7-l5",
+      "n": 5,
+      "titulo": "Repaso: me siento mal",
+      "objetivo": "Combinar dolores, síntomas y consejos en una conversación completa.",
+      "intro": "Repasa todo: nombra el cuerpo, di qué te duele, pide una medicina y entiende los consejos. Truco: practica en voz alta, como si hablaras con el médico.",
+      "palabras": [
+        { "t": "il medico", "es": "el médico", "pron": "il médico", "ej": "Il medico è gentile.", "ejes": "El médico es amable.", "cog": true },
+        { "t": "il dolore", "es": "el dolor", "pron": "il dolóre", "ej": "Il dolore è forte.", "ejes": "El dolor es fuerte.", "cog": true },
+        { "t": "forte", "es": "fuerte", "pron": "fórte", "ej": "La tosse è forte.", "ejes": "La tos es fuerte.", "cog": true },
+        { "t": "subito", "es": "enseguida / ahora mismo", "pron": "súbito", "ej": "Devi andare subito dal medico.", "ejes": "Debes ir enseguida al médico.", "cog": false },
+        { "t": "guarire", "es": "sanar / curarse", "pron": "guaríre", "ej": "Devi guarire presto.", "ejes": "Tienes que sanar pronto.", "cog": false },
+        { "t": "presto", "es": "pronto / temprano", "pron": "présto", "ej": "Guarisci presto!", "ejes": "¡Que te mejores pronto!", "cog": false },
+        { "t": "il corpo", "es": "el cuerpo", "pron": "il córpo", "ej": "Mi fa male tutto il corpo.", "ejes": "Me duele todo el cuerpo.", "cog": true },
+        { "t": "anche", "es": "también", "pron": "ánke", "ej": "Mi fa male anche la schiena.", "ejes": "También me duele la espalda.", "cog": false },
+        { "t": "un po'", "es": "un poco", "pron": "un po", "ej": "Sto un po' meglio.", "ejes": "Estoy un poco mejor.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Mi fa male tutto il corpo.", "es": "Me duele todo el cuerpo.", "pron": "mi fa máleh túto il córpo" },
+        { "t": "Devi andare subito dal medico.", "es": "Debes ir enseguida al médico.", "pron": "dévi andáre súbito dal médico" },
+        { "t": "Sto un po' meglio.", "es": "Estoy un poco mejor.", "pron": "sto un po méllio" },
+        { "t": "Guarisci presto!", "es": "¡Que te mejores pronto!", "pron": "guaríshi présto" },
+        { "t": "Mi fanno male anche le mani.", "es": "También me duelen las manos.", "pron": "mi fánno máleh ánke le máni" }
+      ],
+      "dialogo": {
+        "titulo": "En el consultorio",
+        "lineas": [
+          { "q": "A", "t": "Buongiorno. Che cosa ha?", "es": "Buenos días. ¿Qué tiene?" },
+          { "q": "B", "t": "Ho la febbre e mi fa male la gola.", "es": "Tengo fiebre y me duele la garganta." },
+          { "q": "A", "t": "Da quanto tempo sta male?", "es": "¿Desde cuándo se siente mal?" },
+          { "q": "B", "t": "Da tre giorni.", "es": "Desde hace tres días." },
+          { "q": "A", "t": "Deve riposare e bere molta acqua.", "es": "Debe descansar y beber mucha agua." },
+          { "q": "B", "t": "Grazie, dottore!", "es": "¡Gracias, doctor!" }
+        ]
+      },
+      "nota": "Con el médico se usa «lei» (usted): «Che cosa ha?», «Deve riposare». Entre amigos se usa «tu»: «Che cosa hai?», «Devi riposare». Para desear mejoría se dice «Guarisci presto!» o «Buona guarigione!»."
+    }
+  ]
+}

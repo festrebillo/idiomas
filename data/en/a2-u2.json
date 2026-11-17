@@ -1,0 +1,224 @@
+{
+  "id": "en-a2-u2",
+  "idioma": "en",
+  "nivel": "A2",
+  "n": 2,
+  "titulo": "Cosas que hice",
+  "resumen": "Aprenderás los verbos irregulares más comunes del pasado (went, ate, saw, bought...) para contar lo que hiciste y expresar cuándo.",
+  "puedo": [
+    "Usar el pasado de verbos de movimiento como went, came y took.",
+    "Hablar de comida y compras con ate, drank, bought y paid.",
+    "Contar lo que vi, oí y dije con saw, heard y said.",
+    "Usar verbos como slept, wore y swam en pasado.",
+    "Decir cuándo pasó algo con ago, last year y last month.",
+    "Contar una historia corta con verbos irregulares."
+  ],
+  "gramatica": {
+    "titulo": "El pasado simple de los verbos irregulares",
+    "texto": "Muchos verbos muy comunes no añaden -ed: tienen una forma propia en pasado que hay que aprender. Por ejemplo: go → went, eat → ate, see → saw, buy → bought. La buena noticia es que esa forma es la misma para todas las personas: I went, she went, they went.\nAlgunos verbos no cambian: read (se escribe igual, pero suena «red») y put. Otros cambian la vocal: drink → drank, sing → sang, swim → swam.\nTruco: no intentes memorizar la lista entera. Aprende 4 o 5 verbos por día dentro de una frase completa, no sueltos.",
+    "tabla": [
+      ["go → went", "ir → fui, fue, fuimos", "góu → uent"],
+      ["eat → ate", "comer → comí", "it → eit"],
+      ["see → saw", "ver → vi", "si → so"],
+      ["buy → bought", "comprar → compré", "bai → bot"],
+      ["have → had", "tener / tomar → tuve", "jav → jad"]
+    ],
+    "errores": [
+      "No añadas -ed a un verbo irregular: es I went, no «I goed». Tampoco «I eated» ni «I buyed».",
+      "No mezcles was con un verbo de acción: es I went to the park, no «I was went to the park».",
+      "Cuidado con read: en pasado se escribe igual, pero suena «red» (como el color)."
+    ]
+  },
+  "practica": [
+    "Aprende 5 verbos irregulares al día: escribe cada uno en una frase sobre tu vida de ayer (6 minutos).",
+    "Cuenta en voz alta tu día de ayer con al menos 5 verbos irregulares, por ejemplo I got up, I went to work, I ate lunch (5 minutos).",
+    "Mira una foto de un viaje o de un evento y escribe 5 frases en pasado sobre lo que pasó (6 minutos).",
+    "Graba un audio de 30 segundos diciendo lo que hiciste el fin de semana pasado y escúchalo (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-a2-u2-l1",
+      "n": 1,
+      "titulo": "Ir, venir y moverse",
+      "objetivo": "Contar adónde fuiste y cómo te desplazaste usando verbos irregulares.",
+      "intro": "El rey de los irregulares es go → went. Truco: went no tiene nada que ver con go; es una palabra propia, así que apréndela como un verbo nuevo.",
+      "palabras": [
+        { "t": "went", "es": "fui / fue / fueron", "pron": "uent", "ej": "We went to the beach.", "ejes": "Fuimos a la playa.", "cog": false, "truco": "Pasado de go." },
+        { "t": "came", "es": "vine / vino", "pron": "keim", "ej": "My cousin came to dinner.", "ejes": "Mi primo vino a cenar.", "cog": false, "truco": "Pasado de come." },
+        { "t": "got up", "es": "me levanté", "pron": "got ap", "ej": "I got up at six.", "ejes": "Me levanté a las seis.", "cog": false, "truco": "Pasado de get up." },
+        { "t": "left", "es": "salí / me fui", "pron": "left", "ej": "She left at noon.", "ejes": "Ella se fue al mediodía.", "cog": false, "truco": "Pasado de leave." },
+        { "t": "took", "es": "tomé / llevé", "pron": "tuk", "ej": "I took a taxi.", "ejes": "Tomé un taxi.", "cog": false, "truco": "Pasado de take." },
+        { "t": "drove", "es": "manejé", "pron": "dróuv", "ej": "Dad drove to work.", "ejes": "Papá manejó al trabajo.", "cog": false, "truco": "Pasado de drive." },
+        { "t": "ran", "es": "corrí", "pron": "ran", "ej": "I ran in the park.", "ejes": "Corrí en el parque.", "cog": false, "truco": "Pasado de run." },
+        { "t": "flew", "es": "volé", "pron": "flu", "ej": "We flew to Cusco.", "ejes": "Volamos a Cusco.", "cog": false, "truco": "Pasado de fly." },
+        { "t": "rode", "es": "monté", "pron": "róud", "ej": "He rode his bike.", "ejes": "Él montó su bicicleta.", "cog": false, "truco": "Pasado de ride." }
+      ],
+      "frases": [
+        { "t": "We went to the beach.", "es": "Fuimos a la playa.", "pron": "ui uent tu da bich" },
+        { "t": "I got up at six.", "es": "Me levanté a las seis.", "pron": "ai got ap at siks" },
+        { "t": "She took a taxi to work.", "es": "Ella tomó un taxi al trabajo.", "pron": "shi tuk a táksi tu uerk" },
+        { "t": "My cousin came to dinner.", "es": "Mi primo vino a cenar.", "pron": "mai cásin keim tu díner" },
+        { "t": "We flew to Cusco last year.", "es": "Volamos a Cusco el año pasado.", "pron": "ui flu tu cusco last iar" }
+      ],
+      "dialogo": {
+        "titulo": "El domingo en la playa",
+        "lineas": [
+          { "q": "A", "t": "Hi, Sam! Where did you go on Sunday?", "es": "¡Hola, Sam! ¿Adónde fuiste el domingo?" },
+          { "q": "B", "t": "I went to the beach with my cousin.", "es": "Fui a la playa con mi primo." },
+          { "q": "A", "t": "How did you get there?", "es": "¿Cómo llegaron allá?" },
+          { "q": "B", "t": "We took a bus. Then we ran on the sand.", "es": "Tomamos un bus. Luego corrimos en la arena." },
+          { "q": "A", "t": "Sounds fun!", "es": "¡Suena divertido!" }
+        ]
+      },
+      "nota": "Las preguntas Where did you go? y How did you get there? se explican en la unidad 3. Por ahora, apréndelas como frases hechas."
+    },
+    {
+      "id": "en-a2-u2-l2",
+      "n": 2,
+      "titulo": "Comer, comprar y pagar",
+      "objetivo": "Hablar de comida y compras en pasado.",
+      "intro": "Aquí van verbos irregulares de la mesa y las tiendas. Truco: bought, thought y caught tienen ese sonido «ot» (bot); si sabes uno, sabes los demás.",
+      "palabras": [
+        { "t": "ate", "es": "comí", "pron": "eit", "ej": "I ate rice for lunch.", "ejes": "Comí arroz en el almuerzo.", "cog": false, "truco": "Pasado de eat. Suena como la letra «A» más «t»." },
+        { "t": "drank", "es": "bebí", "pron": "dranc", "ej": "She drank some water.", "ejes": "Ella bebió agua.", "cog": false, "truco": "Pasado de drink." },
+        { "t": "had", "es": "tuve / tomé", "pron": "jad", "ej": "We had breakfast at eight.", "ejes": "Desayunamos a las ocho.", "cog": false, "truco": "Pasado de have." },
+        { "t": "made", "es": "hice / preparé", "pron": "meid", "ej": "Mom made a cake.", "ejes": "Mamá hizo un pastel.", "cog": false, "truco": "Pasado de make." },
+        { "t": "bought", "es": "compré", "pron": "bot", "ej": "I bought a new phone.", "ejes": "Compré un teléfono nuevo.", "cog": false, "truco": "Pasado de buy. La «gh» no suena." },
+        { "t": "paid", "es": "pagué", "pron": "peid", "ej": "He paid with cash.", "ejes": "Él pagó en efectivo.", "cog": false, "truco": "Pasado de pay." },
+        { "t": "gave", "es": "di / regalé", "pron": "geiv", "ej": "I gave her a gift.", "ejes": "Le di un regalo.", "cog": false, "truco": "Pasado de give." },
+        { "t": "sold", "es": "vendí", "pron": "sóuld", "ej": "They sold their car.", "ejes": "Vendieron su carro.", "cog": false, "truco": "Pasado de sell." },
+        { "t": "found", "es": "encontré", "pron": "faund", "ej": "I found my keys.", "ejes": "Encontré mis llaves.", "cog": false, "truco": "Pasado de find." }
+      ],
+      "frases": [
+        { "t": "I ate rice for lunch.", "es": "Comí arroz en el almuerzo.", "pron": "ai eit rais for lanch" },
+        { "t": "We had breakfast at eight.", "es": "Desayunamos a las ocho.", "pron": "ui jad brékfast at eit" },
+        { "t": "Mom made a chocolate cake.", "es": "Mamá hizo un pastel de chocolate.", "pron": "mam meid a cháklit keik" },
+        { "t": "I bought a new phone yesterday.", "es": "Ayer compré un teléfono nuevo.", "pron": "ai bot a nu fóun iésterdei" },
+        { "t": "He paid with his card.", "es": "Él pagó con su tarjeta.", "pron": "ji peid uiz jis card" },
+        { "t": "I found my keys in the car.", "es": "Encontré mis llaves en el carro.", "pron": "ai faund mai kis in da car" }
+      ],
+      "dialogo": {
+        "titulo": "Un día de compras",
+        "lineas": [
+          { "q": "A", "t": "Look, Maria! I bought new shoes.", "es": "¡Mira, María! Compré zapatos nuevos." },
+          { "q": "B", "t": "They're nice! How much did you pay?", "es": "¡Están lindos! ¿Cuánto pagaste?" },
+          { "q": "A", "t": "I paid forty dollars.", "es": "Pagué cuarenta dólares." },
+          { "q": "B", "t": "Then we had lunch and I ate a salad.", "es": "Luego almorzamos y yo comí una ensalada." },
+          { "q": "A", "t": "I drank orange juice. It was delicious!", "es": "Yo bebí jugo de naranja. ¡Estaba delicioso!" }
+        ]
+      },
+      "nota": "En inglés se dice have breakfast/lunch/dinner (tomar el desayuno/almuerzo/cena). En pasado: I had lunch at one."
+    },
+    {
+      "id": "en-a2-u2-l3",
+      "n": 3,
+      "titulo": "Ver, oír y decir",
+      "objetivo": "Contar lo que viste, oíste, dijiste y escribiste.",
+      "intro": "Estos verbos sirven para contar noticias y anécdotas. Truco: read se escribe igual en pasado, pero suena «red». El contexto te dice cuál es.",
+      "palabras": [
+        { "t": "saw", "es": "vi", "pron": "so", "ej": "I saw a bird.", "ejes": "Vi un pájaro.", "cog": false, "truco": "Pasado de see." },
+        { "t": "heard", "es": "oí", "pron": "jerd", "ej": "I heard a loud noise.", "ejes": "Oí un ruido fuerte.", "cog": false, "truco": "Pasado de hear." },
+        { "t": "met", "es": "conocí / me encontré con", "pron": "met", "ej": "I met her at school.", "ejes": "La conocí en la escuela.", "cog": false, "truco": "Pasado de meet." },
+        { "t": "said", "es": "dije / dijo", "pron": "sed", "ej": "She said hello.", "ejes": "Ella dijo hola.", "cog": false, "truco": "Pasado de say. Suena «sed»." },
+        { "t": "told", "es": "conté / dije a alguien", "pron": "tóuld", "ej": "He told me a story.", "ejes": "Él me contó una historia.", "cog": false, "truco": "Pasado de tell." },
+        { "t": "wrote", "es": "escribí", "pron": "róut", "ej": "I wrote a letter.", "ejes": "Escribí una carta.", "cog": false, "truco": "Pasado de write. La «w» no suena." },
+        { "t": "read", "es": "leí", "pron": "red", "ej": "I read a book yesterday.", "ejes": "Ayer leí un libro.", "cog": false, "truco": "Se escribe igual que el presente, pero suena «red»." },
+        { "t": "spoke", "es": "hablé", "pron": "spóuk", "ej": "We spoke English.", "ejes": "Hablamos inglés.", "cog": false, "truco": "Pasado de speak." },
+        { "t": "felt", "es": "me sentí", "pron": "felt", "ej": "I felt happy.", "ejes": "Me sentí feliz.", "cog": false, "truco": "Pasado de feel." }
+      ],
+      "frases": [
+        { "t": "I saw a bird in the garden.", "es": "Vi un pájaro en el jardín.", "pron": "ai so a berd in da gárden" },
+        { "t": "I met her at school.", "es": "La conocí en la escuela.", "pron": "ai met jer at scul" },
+        { "t": "He told me a funny story.", "es": "Él me contó una historia graciosa.", "pron": "ji tould mi a fáni stóri" },
+        { "t": "I wrote a letter to my aunt.", "es": "Le escribí una carta a mi tía.", "pron": "ai rout a léter tu mai ant" },
+        { "t": "We spoke English all day.", "es": "Hablamos inglés todo el día.", "pron": "ui spouk ínglish ol dei" },
+        { "t": "I felt happy yesterday.", "es": "Ayer me sentí feliz.", "pron": "ai felt jápi iésterdei" }
+      ],
+      "dialogo": {
+        "titulo": "Una buena noticia",
+        "lineas": [
+          { "q": "A", "t": "Guess what, Kate? I met a famous singer!", "es": "¿Adivina qué, Kate? ¡Conocí a un cantante famoso!" },
+          { "q": "B", "t": "Wow! What did he say?", "es": "¡Guau! ¿Qué dijo?" },
+          { "q": "A", "t": "He said hello and I spoke English with him.", "es": "Dijo hola y yo hablé inglés con él." },
+          { "q": "B", "t": "I read about him last week. He was in Lima.", "es": "Leí sobre él la semana pasada. Estuvo en Lima." },
+          { "q": "A", "t": "I felt so happy!", "es": "¡Me sentí tan feliz!" }
+        ]
+      },
+      "nota": "Say y tell se usan distinto: She said hello (dijo hola) pero She told me a story (me contó una historia). Tell lleva casi siempre a la persona: told me, told him."
+    },
+    {
+      "id": "en-a2-u2-l4",
+      "n": 4,
+      "titulo": "Más verbos irregulares",
+      "objetivo": "Usar verbos irregulares de la vida diaria: dormir, usar ropa, nadar.",
+      "intro": "Cerramos la lista con verbos que cambian la vocal (sing → sang, swim → swam). Truco: muchos riman: sang, rang, swam, began. Aprenderlos por rimas ayuda.",
+      "palabras": [
+        { "t": "slept", "es": "dormí", "pron": "slept", "ej": "I slept for eight hours.", "ejes": "Dormí ocho horas.", "cog": false, "truco": "Pasado de sleep." },
+        { "t": "sat", "es": "me senté", "pron": "sat", "ej": "We sat on the sofa.", "ejes": "Nos sentamos en el sofá.", "cog": false, "truco": "Pasado de sit." },
+        { "t": "wore", "es": "usé / llevé puesto", "pron": "uor", "ej": "She wore a blue dress.", "ejes": "Ella usó un vestido azul.", "cog": false, "truco": "Pasado de wear." },
+        { "t": "sang", "es": "canté", "pron": "sang", "ej": "We sang happy birthday.", "ejes": "Cantamos el cumpleaños feliz.", "cog": false, "truco": "Pasado de sing." },
+        { "t": "swam", "es": "nadé", "pron": "suam", "ej": "I swam in the sea.", "ejes": "Nadé en el mar.", "cog": false, "truco": "Pasado de swim." },
+        { "t": "forgot", "es": "olvidé", "pron": "forgát", "ej": "I forgot my umbrella.", "ejes": "Olvidé mi paraguas.", "cog": false, "truco": "Pasado de forget." },
+        { "t": "lost", "es": "perdí", "pron": "lost", "ej": "He lost his wallet.", "ejes": "Él perdió su billetera.", "cog": false, "truco": "Pasado de lose." },
+        { "t": "won", "es": "gané", "pron": "uan", "ej": "Our team won the game.", "ejes": "Nuestro equipo ganó el partido.", "cog": false, "truco": "Pasado de win. Suena «uan», no «uon»." },
+        { "t": "began", "es": "empecé / empezó", "pron": "bigán", "ej": "The class began at nine.", "ejes": "La clase empezó a las nueve.", "cog": false, "truco": "Pasado de begin." }
+      ],
+      "frases": [
+        { "t": "I slept for eight hours.", "es": "Dormí ocho horas.", "pron": "ai slept for eit áuars" },
+        { "t": "She wore a blue dress.", "es": "Ella usó un vestido azul.", "pron": "shi uor a blu dres" },
+        { "t": "We sang happy birthday.", "es": "Cantamos el cumpleaños feliz.", "pron": "ui sang jápi bérzdei" },
+        { "t": "I swam in the sea on Saturday.", "es": "El sábado nadé en el mar.", "pron": "ai suam in da si on sáterdei" },
+        { "t": "He lost his wallet.", "es": "Él perdió su billetera.", "pron": "ji lost jis uálet" },
+        { "t": "Our team won the game.", "es": "Nuestro equipo ganó el partido.", "pron": "áuar tim uan da geim" }
+      ],
+      "dialogo": {
+        "titulo": "Después del partido",
+        "lineas": [
+          { "q": "A", "t": "Our team won the game, Tom!", "es": "¡Nuestro equipo ganó el partido, Tom!" },
+          { "q": "B", "t": "I know! I forgot my jacket, but I was happy.", "es": "¡Lo sé! Olvidé mi chaqueta, pero estaba feliz." },
+          { "q": "A", "t": "We sang in the bus. It was fun.", "es": "Cantamos en el bus. Fue divertido." },
+          { "q": "B", "t": "And then I slept for ten hours!", "es": "¡Y luego dormí diez horas!" },
+          { "q": "A", "t": "The game began at four, so we were tired.", "es": "El partido empezó a las cuatro, así que estábamos cansados." }
+        ]
+      },
+      "nota": "No intentes aprender los irregulares todos de golpe. Los más frecuentes (went, had, saw, made, took, got) se te quedarán rápido por el uso diario."
+    },
+    {
+      "id": "en-a2-u2-l5",
+      "n": 5,
+      "titulo": "Repaso: ¿cuándo pasó?",
+      "objetivo": "Decir cuándo ocurrió algo y repasar los verbos irregulares.",
+      "intro": "Para decir cuándo pasó algo, usa expresiones de tiempo. Truco: ago va después del tiempo: two days ago (hace dos días). Last va antes: last year (el año pasado).",
+      "palabras": [
+        { "t": "ago", "es": "hace (tiempo)", "pron": "agóu", "ej": "I came here two years ago.", "ejes": "Vine aquí hace dos años.", "cog": false, "truco": "Va después: a week ago, no «ago a week»." },
+        { "t": "last month", "es": "el mes pasado", "pron": "last manz", "ej": "I bought a bike last month.", "ejes": "Compré una bicicleta el mes pasado.", "cog": false },
+        { "t": "last year", "es": "el año pasado", "pron": "last iar", "ej": "We went to Chile last year.", "ejes": "Fuimos a Chile el año pasado.", "cog": false },
+        { "t": "last Friday", "es": "el viernes pasado", "pron": "last fráidei", "ej": "I saw her last Friday.", "ejes": "La vi el viernes pasado.", "cog": false },
+        { "t": "yesterday morning", "es": "ayer por la mañana", "pron": "iésterdei mórnin", "ej": "I woke up late yesterday morning.", "ejes": "Ayer por la mañana me desperté tarde.", "cog": false },
+        { "t": "before", "es": "antes", "pron": "bifór", "ej": "I never saw it before.", "ejes": "Nunca lo vi antes.", "cog": false },
+        { "t": "after", "es": "después de", "pron": "áfter", "ej": "We ate after the game.", "ejes": "Comimos después del partido.", "cog": false },
+        { "t": "when", "es": "cuando", "pron": "juen", "ej": "I was tired when I got home.", "ejes": "Estaba cansado cuando llegué a casa.", "cog": false },
+        { "t": "a long time ago", "es": "hace mucho tiempo", "pron": "a long taim agóu", "ej": "We met a long time ago.", "ejes": "Nos conocimos hace mucho tiempo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I came here two years ago.", "es": "Vine aquí hace dos años.", "pron": "ai keim jíar tu iars agóu" },
+        { "t": "We went to Chile last year.", "es": "Fuimos a Chile el año pasado.", "pron": "ui uent tu chíli last iar" },
+        { "t": "I saw her last Friday.", "es": "La vi el viernes pasado.", "pron": "ai so jer last fráidei" },
+        { "t": "I was tired when I got home.", "es": "Estaba cansada cuando llegué a casa.", "pron": "ai uos táierd juen ai got jóum" },
+        { "t": "We met a long time ago.", "es": "Nos conocimos hace mucho tiempo.", "pron": "ui met a long taim agóu" },
+        { "t": "I read that book a month ago.", "es": "Leí ese libro hace un mes.", "pron": "ai red dat buk a manz agóu" }
+      ],
+      "dialogo": {
+        "titulo": "Un viejo amigo",
+        "lineas": [
+          { "q": "A", "t": "Hi, Carlos! I saw you last Friday at the mall.", "es": "¡Hola, Carlos! Te vi el viernes pasado en el centro comercial." },
+          { "q": "B", "t": "Oh, yes! I bought a new phone.", "es": "¡Ah, sí! Compré un teléfono nuevo." },
+          { "q": "A", "t": "We met a long time ago, right?", "es": "Nos conocimos hace mucho tiempo, ¿verdad?" },
+          { "q": "B", "t": "Yes, five years ago, at school.", "es": "Sí, hace cinco años, en la escuela." },
+          { "q": "A", "t": "I wrote you a letter last year.", "es": "Te escribí una carta el año pasado." }
+        ]
+      },
+      "nota": "Repaso: went, came, took, ate, drank, had, made, bought, saw, wrote, slept, won... Escríbelos en tarjetas con una frase corta y repásalos con ago y last."
+    }
+  ]
+}

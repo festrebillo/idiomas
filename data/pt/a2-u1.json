@@ -1,0 +1,222 @@
+{
+  "id": "pt-a2-u1",
+  "idioma": "pt",
+  "nivel": "A2",
+  "n": 1,
+  "titulo": "El fin de semana pasado",
+  "resumen": "Aprenderás a contar lo que hiciste ayer o el fin de semana pasado usando el pretérito perfeito simples de los verbos regulares y de ir/ser/estar.",
+  "puedo": [
+    "Contar lo que hice el fin de semana pasado.",
+    "Usar el pretérito de los verbos regulares en -ar, -er e -ir.",
+    "Decir adónde fui y dónde estuve con fui, foi, fomos y estive.",
+    "Situar las acciones con ontem, sábado, domingo y fim de semana.",
+    "Entender a alguien que cuenta su fin de semana."
+  ],
+  "gramatica": {
+    "titulo": "El pretérito perfeito simples (regulares) y fui / foi",
+    "texto": "Se usa para acciones terminadas en el pasado: «ontem eu falei com Ana» (ayer hablé con Ana). Se quita -ar/-er/-ir del infinitivo y se añade la terminación.\nVerbos en -ar: falei, falou, falamos, falaram. En -er: comi, comeu, comemos, comeram. En -ir: parti, partiu, partimos, partiram.\n«Você», «ele» y «ela» usan la misma forma (falou, comeu, partiu). Ojo: en «nós» los verbos en -ar se escriben igual que en el presente (falamos); la palabra «ontem» te dice que es pasado.\nEl verbo ir en pasado es irregular y comparte forma con ser: fui, foi, fomos, foram. «Eu fui ao cinema» = fui al cine; «Eu fui professor» = fui profesor. El contexto aclara. Para estar: estive, esteve, estivemos.",
+    "tabla": [
+      ["falar: falei / falou", "hablé / habló", "faléi / falóu"],
+      ["comer: comi / comeu", "comí / comió", "komí / koméu"],
+      ["partir: parti / partiu", "salí / salió", "partchí / partchíu"],
+      ["nós falamos / comemos / partimos", "hablamos / comimos / salimos", "nós falámus / komémus / partchímus"],
+      ["ir o ser: fui / foi / fomos", "fui / fue / fuimos", "fúi / fói / fómus"],
+      ["estar: estive / esteve", "estuve / estuvo", "estchívi / estévi"]
+    ],
+    "errores": [
+      "No uses el presente para el pasado: «ontem eu falo» está mal; di «ontem eu falei».",
+      "«Falou», «comeu» y «partiu» se acentúan al final: faláu, komeú, partchiú. No los pronuncies como «falo», «come», «parte».",
+      "«Fui» sirve para ir y para ser. No digas «eu estive ao cinema»: para ir se usa «eu fui ao cinema»."
+    ]
+  },
+  "practica": [
+    "Escribe 6 frases sobre tu fin de semana pasado con verbos en -ar: «No sábado eu caminhei...» y léelas en voz alta (6 minutos).",
+    "Cuenta tu semana en voz alta, 2 minutos, usando ontem, no sábado y no domingo. Grábate y escúchate (5 minutos).",
+    "Busca en YouTube «o que fiz no fim de semana» en portugués brasileño y anota 5 verbos en pasado que oigas (8 minutos).",
+    "Haz una tabla con falar, comer y partir y conjúgalas de memoria en eu / você / nós (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-a2-u1-l1",
+      "n": 1,
+      "titulo": "Verbos en -ar: lo que hice",
+      "objetivo": "Contar acciones pasadas con verbos regulares en -ar.",
+      "intro": "En el pasado, los verbos en -ar terminan en -ei cuando hablas de ti: falar pasa a «falei». Truco: la terminación «-ei» suena «éi» y lleva la fuerza al final.",
+      "palabras": [
+        { "t": "ontem", "es": "ayer", "pron": "ónteín", "ej": "Eu trabalhei ontem.", "ejes": "Trabajé ayer.", "cog": false },
+        { "t": "fim de semana", "es": "fin de semana", "pron": "fín dyi semána", "ej": "Eu gosto do fim de semana.", "ejes": "Me gusta el fin de semana.", "cog": false },
+        { "t": "sábado", "es": "sábado", "pron": "sábadu", "ej": "No sábado eu caminhei.", "ejes": "El sábado caminé.", "cog": true },
+        { "t": "domingo", "es": "domingo", "pron": "domíngu", "ej": "No domingo eu descansei.", "ejes": "El domingo descansé.", "cog": true },
+        { "t": "falei", "es": "hablé", "pron": "faléi", "ej": "Eu falei com minha mãe.", "ejes": "Hablé con mi mamá.", "cog": false, "truco": "Falar → falei: quitas -ar y pones -ei." },
+        { "t": "trabalhei", "es": "trabajé", "pron": "trabalyéi", "ej": "Ontem eu trabalhei muito.", "ejes": "Ayer trabajé mucho.", "cog": false, "truco": "«lh» suena como «ll» fuerte: trabalyéi." },
+        { "t": "comprei", "es": "compré", "pron": "kompréi", "ej": "Eu comprei pão.", "ejes": "Compré pan.", "cog": true },
+        { "t": "caminhei", "es": "caminé", "pron": "kamiñéi", "ej": "No sábado eu caminhei no parque.", "ejes": "El sábado caminé en el parque.", "cog": true, "truco": "«nh» suena «ñ»: kamiñéi." },
+        { "t": "jantei", "es": "cené", "pron": "yantéi", "ej": "Eu jantei em casa.", "ejes": "Cené en casa.", "cog": false },
+        { "t": "descansei", "es": "descansé", "pron": "deskanséi", "ej": "No domingo eu descansei.", "ejes": "El domingo descansé.", "cog": true }
+      ],
+      "frases": [
+        { "t": "No sábado eu caminhei no parque.", "es": "El sábado caminé en el parque.", "pron": "nu sábadu éu kamiñéi nu párki" },
+        { "t": "Ontem eu trabalhei muito.", "es": "Ayer trabajé mucho.", "pron": "ónteín éu trabalyéi múintu" },
+        { "t": "Eu comprei pão e queijo.", "es": "Compré pan y queso.", "pron": "éu kompréi páun i kéiyu" },
+        { "t": "Ela falou com a Ana.", "es": "Ella habló con Ana.", "pron": "éla falóu kon a ána" },
+        { "t": "No domingo eu descansei em casa.", "es": "El domingo descansé en casa.", "pron": "nu domíngu éu deskanséi ein kása" }
+      ],
+      "dialogo": {
+        "titulo": "Contando el fin de semana",
+        "lineas": [
+          { "q": "A", "t": "Oi, Carlos! O que você fez no fim de semana?", "es": "¡Hola, Carlos! ¿Qué hiciste el fin de semana?" },
+          { "q": "B", "t": "No sábado eu caminhei no parque e jantei com minha irmã.", "es": "El sábado caminé en el parque y cené con mi hermana." },
+          { "q": "A", "t": "Que legal! E no domingo?", "es": "¡Qué bueno! ¿Y el domingo?" },
+          { "q": "B", "t": "No domingo eu descansei. E você?", "es": "El domingo descansé. ¿Y tú?" },
+          { "q": "A", "t": "Eu trabalhei no sábado e comprei pão no domingo.", "es": "Yo trabajé el sábado y compré pan el domingo." }
+        ]
+      },
+      "nota": "«Fim de semana» no lleva guion en portugués y se usa con «no»: no fim de semana. «Jantar» es cenar; el nombre es «o jantar». «Ela falou» lleva acento final: faláu."
+    },
+    {
+      "id": "pt-a2-u1-l2",
+      "n": 2,
+      "titulo": "Verbos en -er: comí, bebí",
+      "objetivo": "Usar el pasado de verbos regulares en -er con eu y ele/ela.",
+      "intro": "Los verbos en -er hacen «eu» en -i y «ele» en -eu: comer → comi / comeu. Truco: la «i» final es muy corta y el acento cae al final: komí.",
+      "palabras": [
+        { "t": "comi", "es": "comí", "pron": "komí", "ej": "Eu comi arroz com feijão.", "ejes": "Comí arroz con frijoles.", "cog": false, "truco": "Comer → comi." },
+        { "t": "bebi", "es": "bebí", "pron": "bebí", "ej": "Eu bebi água.", "ejes": "Bebí agua.", "cog": true },
+        { "t": "corri", "es": "corrí", "pron": "korrí", "ej": "Eu corri no parque.", "ejes": "Corrí en el parque.", "cog": true, "truco": "«rr» fuerte, como en «perro»." },
+        { "t": "aprendi", "es": "aprendí", "pron": "aprendyí", "ej": "Eu aprendi muito.", "ejes": "Aprendí mucho.", "cog": true },
+        { "t": "vendi", "es": "vendí", "pron": "vendyí", "ej": "Eu vendi minha bicicleta.", "ejes": "Vendí mi bicicleta.", "cog": true, "truco": "«di» suena «dyi»: vendyí." },
+        { "t": "escrevi", "es": "escribí", "pron": "eskrevi", "ej": "Eu escrevi uma carta.", "ejes": "Escribí una carta.", "cog": true },
+        { "t": "perdi", "es": "perdí", "pron": "perdyí", "ej": "Eu perdi meu celular.", "ejes": "Perdí mi celular.", "cog": true },
+        { "t": "comeu", "es": "comió", "pron": "koméu", "ej": "Ele comeu um bolo.", "ejes": "Él comió un pastel.", "cog": false, "truco": "«ele / ela / você» → -eu." },
+        { "t": "bebeu", "es": "bebió", "pron": "bebéu", "ej": "Ela bebeu suco.", "ejes": "Ella bebió jugo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Eu comi arroz com feijão.", "es": "Comí arroz con frijoles.", "pron": "éu komí arrós kon feiyáun" },
+        { "t": "Ele bebeu um suco de laranja.", "es": "Él bebió un jugo de naranja.", "pron": "éli bebéu ún súku dyi laránya" },
+        { "t": "Eu corri no parque ontem.", "es": "Ayer corrí en el parque.", "pron": "éu korrí nu párki ónteín" },
+        { "t": "Eu perdi meu celular.", "es": "Perdí mi celular.", "pron": "éu perdyí méu selulár" },
+        { "t": "Ela escreveu uma carta.", "es": "Ella escribió una carta.", "pron": "éla eskreveú úma kárta" }
+      ],
+      "dialogo": {
+        "titulo": "Un sábado en casa",
+        "lineas": [
+          { "q": "A", "t": "O que você comeu ontem?", "es": "¿Qué comiste ayer?" },
+          { "q": "B", "t": "Eu comi arroz com feijão e bebi suco.", "es": "Comí arroz con frijoles y bebí jugo." },
+          { "q": "A", "t": "Eu corri no parque e depois comi um bolo.", "es": "Yo corrí en el parque y después comí un pastel." },
+          { "q": "B", "t": "Que delícia! Eu perdi meu celular no parque.", "es": "¡Qué rico! Yo perdí mi celular en el parque." },
+          { "q": "A", "t": "Que pena! Eu vendi minha bicicleta.", "es": "¡Qué pena! Yo vendí mi bicicleta." }
+        ]
+      },
+      "nota": "«Beber» y «comer» son iguales que en español. Cuidado: «corri» (corrí) y «corre» (corre) no se confunden por el acento. Fíjate que «escreveu» (escribió) sí tiene una «e» extra antes de «u»."
+    },
+    {
+      "id": "pt-a2-u1-l3",
+      "n": 3,
+      "titulo": "Verbos en -ir: salí, dormí",
+      "objetivo": "Usar el pasado de verbos regulares en -ir y hablar de planes cumplidos.",
+      "intro": "Los verbos en -ir son como los de -er: eu en -i, ele en -iu. Truco: «partiu» suena «partchíu» porque «ti» se pronuncia «chi» en Brasil.",
+      "palabras": [
+        { "t": "abri", "es": "abrí", "pron": "abrí", "ej": "Eu abri a janela.", "ejes": "Abrí la ventana.", "cog": true },
+        { "t": "decidi", "es": "decidí", "pron": "desidyí", "ej": "Eu decidi ficar em casa.", "ejes": "Decidí quedarme en casa.", "cog": true },
+        { "t": "dormi", "es": "dormí", "pron": "dormí", "ej": "Eu dormi até tarde.", "ejes": "Dormí hasta tarde.", "cog": true },
+        { "t": "assisti", "es": "vi (una película o serie)", "pron": "asistchí", "ej": "Eu assisti a um filme.", "ejes": "Vi una película.", "cog": false, "truco": "Para películas y series se dice «assistir»; «ver» es otro verbo." },
+        { "t": "saí", "es": "salí", "pron": "saí", "ej": "Eu saí de casa cedo.", "ejes": "Salí de casa temprano.", "cog": false, "truco": "Lleva acento en la i: sa-í, dos sílabas." },
+        { "t": "parti", "es": "partí / salí de viaje", "pron": "partchí", "ej": "Eu parti às oito.", "ejes": "Salí a las ocho.", "cog": true },
+        { "t": "filme", "es": "película", "pron": "fíumi", "ej": "O filme é bom.", "ejes": "La película es buena.", "cog": true },
+        { "t": "série", "es": "serie", "pron": "séri", "ej": "Eu assisti a uma série.", "ejes": "Vi una serie.", "cog": true },
+        { "t": "cedo", "es": "temprano", "pron": "sédu", "ej": "Eu saí cedo.", "ejes": "Salí temprano.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Eu dormi até tarde no sábado.", "es": "El sábado dormí hasta tarde.", "pron": "éu dormí até tárdyi nu sábadu" },
+        { "t": "Eu assisti a um filme em casa.", "es": "Vi una película en casa.", "pron": "éu asistchí a ún fíumi ein kása" },
+        { "t": "Ela saiu cedo.", "es": "Ella salió temprano.", "pron": "éla saíu sédu" },
+        { "t": "Nós assistimos a uma série.", "es": "Vimos una serie.", "pron": "nós asistchímus a úma séri" },
+        { "t": "Eu abri a janela e saí.", "es": "Abrí la ventana y salí.", "pron": "éu abrí a yanéla i saí" }
+      ],
+      "dialogo": {
+        "titulo": "Una película en casa",
+        "lineas": [
+          { "q": "A", "t": "Você saiu no sábado?", "es": "¿Saliste el sábado?" },
+          { "q": "B", "t": "Não, eu decidi ficar em casa.", "es": "No, decidí quedarme en casa." },
+          { "q": "A", "t": "E o que você fez?", "es": "¿Y qué hiciste?" },
+          { "q": "B", "t": "Eu dormi até tarde e assisti a um filme.", "es": "Dormí hasta tarde y vi una película." },
+          { "q": "A", "t": "Eu saí cedo e abri uma loja nova.", "es": "Yo salí temprano y abrí una tienda nueva." }
+        ]
+      },
+      "nota": "«Assistir a um filme» lleva «a» (assistir a); en el habla diaria muchos lo omiten. «Ela saiu» (salió) tiene tres vocales seguidas: sa-í-u. «Tarde» en «dormir até tarde» significa «hasta tarde», no «tarde» de la tarde."
+    },
+    {
+      "id": "pt-a2-u1-l4",
+      "n": 4,
+      "titulo": "Fui, foi y estive",
+      "objetivo": "Decir adónde fui y dónde estuve el fin de semana pasado.",
+      "intro": "El verbo ir en pasado es irregular, pero es una forma muy usada: fui, foi, fomos. Ojo: son idénticas al pasado de ser. Truco: «fui» suena «fúi», con las dos vocales.",
+      "palabras": [
+        { "t": "fui", "es": "fui (de ir o ser)", "pron": "fúi", "ej": "Eu fui ao cinema.", "ejes": "Fui al cine.", "cog": false, "truco": "Es de «ir» y de «ser»: el contexto te dice cuál." },
+        { "t": "foi", "es": "fue (de ir o ser)", "pron": "fói", "ej": "Ele foi ao mercado.", "ejes": "Él fue al mercado.", "cog": false },
+        { "t": "fomos", "es": "fuimos", "pron": "fómus", "ej": "Nós fomos à praia.", "ejes": "Fuimos a la playa.", "cog": false },
+        { "t": "estive", "es": "estuve", "pron": "estchívi", "ej": "Eu estive em casa.", "ejes": "Estuve en casa.", "cog": false, "truco": "Para dónde estuve; estar → estive." },
+        { "t": "esteve", "es": "estuvo", "pron": "estévi", "ej": "Ela esteve no hospital.", "ejes": "Ella estuvo en el hospital.", "cog": false },
+        { "t": "praia", "es": "playa", "pron": "práya", "ej": "Nós fomos à praia no domingo.", "ejes": "El domingo fuimos a la playa.", "cog": false },
+        { "t": "cinema", "es": "cine", "pron": "sinéma", "ej": "Eu fui ao cinema ontem.", "ejes": "Ayer fui al cine.", "cog": true },
+        { "t": "festa", "es": "fiesta", "pron": "fésta", "ej": "A festa foi boa.", "ejes": "La fiesta fue buena.", "cog": true },
+        { "t": "mercado", "es": "mercado", "pron": "merkádu", "ej": "Eu fui ao mercado.", "ejes": "Fui al mercado.", "cog": true },
+        { "t": "shopping", "es": "centro comercial", "pron": "shópin", "ej": "Nós fomos ao shopping.", "ejes": "Fuimos al centro comercial.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Eu fui ao cinema no sábado.", "es": "El sábado fui al cine.", "pron": "éu fúi au sinéma nu sábadu" },
+        { "t": "Nós fomos à praia no domingo.", "es": "El domingo fuimos a la playa.", "pron": "nós fómus a práya nu domíngu" },
+        { "t": "A festa foi muito boa.", "es": "La fiesta fue muy buena.", "pron": "a fésta fói múintu bóa" },
+        { "t": "Ela foi ao shopping.", "es": "Ella fue al centro comercial.", "pron": "éla fói au shópin" },
+        { "t": "Eu estive em casa o dia todo.", "es": "Estuve en casa todo el día.", "pron": "éu estchívi ein kása u día tódu" }
+      ],
+      "dialogo": {
+        "titulo": "¿Adónde fuiste?",
+        "lineas": [
+          { "q": "A", "t": "Onde você foi no sábado?", "es": "¿Adónde fuiste el sábado?" },
+          { "q": "B", "t": "Eu fui ao cinema com minha prima.", "es": "Fui al cine con mi prima." },
+          { "q": "A", "t": "Gostou do filme?", "es": "¿Te gustó la película?" },
+          { "q": "B", "t": "Sim, foi muito bom! E você?", "es": "¡Sí, fue muy buena! ¿Y tú?" },
+          { "q": "A", "t": "Nós fomos à praia no domingo.", "es": "Nosotros fuimos a la playa el domingo." }
+        ]
+      },
+      "nota": "«Ao» = a + o (ao cinema, ao mercado); «à» = a + a (à praia, à festa). «Foi» sirve para ir y ser: «a festa foi boa» (ser) y «ele foi à festa» (ir). En la lección 5 vas a repasar todo."
+    },
+    {
+      "id": "pt-a2-u1-l5",
+      "n": 5,
+      "titulo": "Repaso: mi semana",
+      "objetivo": "Mezclar verbos en -ar, -er, -ir e ir/estar para contar la semana pasada.",
+      "intro": "Con lo que ya sabes puedes contar toda una semana. Truco: usa expresiones de tiempo como «semana passada» o «mês passado» para ordenar la historia.",
+      "palabras": [
+        { "t": "semana passada", "es": "semana pasada", "pron": "semána pasáda", "ej": "Na semana passada eu viajei.", "ejes": "La semana pasada viajé.", "cog": false, "truco": "Semana es femenino: semana passada." },
+        { "t": "mês passado", "es": "mes pasado", "pron": "méis pasádu", "ej": "No mês passado eu comprei um carro.", "ejes": "El mes pasado compré un carro.", "cog": false },
+        { "t": "viajei", "es": "viajé", "pron": "viayéi", "ej": "Eu viajei para o Rio.", "ejes": "Viajé a Río.", "cog": true },
+        { "t": "visitei", "es": "visité", "pron": "visitéi", "ej": "Eu visitei minha avó.", "ejes": "Visité a mi abuela.", "cog": true },
+        { "t": "conheci", "es": "conocí", "pron": "koñesí", "ej": "Eu conheci a Paula.", "ejes": "Conocí a Paula.", "cog": false, "truco": "Conhecer → conheci; «nh» suena «ñ»." },
+        { "t": "voltei", "es": "volví", "pron": "voltéi", "ej": "Eu voltei para casa.", "ejes": "Volví a casa.", "cog": true },
+        { "t": "cheguei", "es": "llegué", "pron": "shegéi", "ej": "Eu cheguei cedo.", "ejes": "Llegué temprano.", "cog": false, "truco": "Chegar → cheguei: la «u» solo mantiene el sonido «g»." },
+        { "t": "recebi", "es": "recibí", "pron": "resebí", "ej": "Eu recebi uma mensagem.", "ejes": "Recibí un mensaje.", "cog": true },
+        { "t": "já", "es": "ya", "pron": "yá", "ej": "Eu já jantei.", "ejes": "Ya cené.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Na semana passada eu viajei para o Rio.", "es": "La semana pasada viajé a Río.", "pron": "na semána pasáda éu viayéi pára u rríu" },
+        { "t": "Eu visitei minha avó e conheci um amigo dela.", "es": "Visité a mi abuela y conocí a un amigo de ella.", "pron": "éu visitéi miña avó i koñesí ún amígu déla" },
+        { "t": "Nós chegamos cedo e jantamos juntos.", "es": "Llegamos temprano y cenamos juntos.", "pron": "nós shegámus sédu i yantámus yúntus" },
+        { "t": "Ela já voltou para casa.", "es": "Ella ya volvió a casa.", "pron": "éla yá voltóu pára kása" },
+        { "t": "No domingo eu recebi uma mensagem.", "es": "El domingo recibí un mensaje.", "pron": "nu domíngu éu resebí úma mensáyein" }
+      ],
+      "dialogo": {
+        "titulo": "Cuéntame tu semana",
+        "lineas": [
+          { "q": "A", "t": "Oi, Bia! O que você fez na semana passada?", "es": "¡Hola, Bia! ¿Qué hiciste la semana pasada?" },
+          { "q": "B", "t": "Eu viajei para o Rio e visitei minha avó.", "es": "Viajé a Río y visité a mi abuela." },
+          { "q": "A", "t": "Que legal! Quando você voltou?", "es": "¡Qué bueno! ¿Cuándo volviste?" },
+          { "q": "B", "t": "Eu voltei no domingo. Cheguei cedo e dormi.", "es": "Volví el domingo. Llegué temprano y dormí." },
+          { "q": "A", "t": "Eu fui à praia e conheci uma pessoa nova.", "es": "Yo fui a la playa y conocí a una persona nueva." }
+        ]
+      },
+      "nota": "«Cheguei» y «viajei» tienen un cambio de ortografía: chegar → cheguei (con u) y viajar → viajei (con j) para mantener el sonido. «Já» con el pasado significa «ya» (algo que ya ocurrió)."
+    }
+  ]
+}

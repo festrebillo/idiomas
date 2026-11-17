@@ -1,0 +1,216 @@
+{
+  "id": "it-a2-u11",
+  "idioma": "it",
+  "nivel": "A2",
+  "n": 11,
+  "titulo": "El futuro y las promesas",
+  "resumen": "Aprenderás a hablar del futuro con el futuro simple, a hacer promesas y a usar los pronombres lo, la, li, le.",
+  "puedo": [
+    "Formar el futuro simple de verbos regulares.",
+    "Usar los futuros irregulares más comunes: sarò, avrò, andrò, farò.",
+    "Hablar de planes con expresiones de tiempo futuro.",
+    "Hacer promesas y responder con «lo / la / li / le».",
+    "Contar mis planes para el próximo año."
+  ],
+  "gramatica": {
+    "titulo": "El futuro simple",
+    "texto": "El futuro simple se forma quitando la -e final del infinitivo y añadiendo las terminaciones: -ò, -ai, -à, -emo, -ete, -anno.\nLos verbos en -are cambian la -a- por -e-: parlare, parlerò. Los verbos en -ere e -ire mantienen su vocal: leggere, leggerò; finire, finirò.\nTerminaciones: parlerò, parlerai, parlerà, parleremo, parlerete, parleranno.\nIrregulares muy comunes: essere (sarò), avere (avrò), andare (andrò), fare (farò), venire (verrò), potere (potrò), dovere (dovrò), vedere (vedrò).\nEl acento final es obligatorio en la 1.ª y 3.ª persona singular: parlerò, parlerà.",
+    "tabla": [
+      ["parlerò", "hablaré", "parleró"],
+      ["mangerai", "comerás", "mandyerái"],
+      ["partirà", "saldrá / partirá", "partirá"],
+      ["faremo", "haremos", "farémo"],
+      ["sarete", "serán (ustedes)", "sarété"],
+      ["andranno", "irán", "andránno"]
+    ],
+    "errores": [
+      "En -are no se conserva la -a-: es «parlerò» (no «parlarò»), «mangerò» (no «mangiarò»).",
+      "No olvides el acento final: «parlerò» y «parlerà» llevan tilde obligatoria.",
+      "Los irregulares no siguen el modelo: «sarò» (de essere), «avrò» (de avere), «andrò» (de andare); apréndelos tal cual."
+    ]
+  },
+  "practica": [
+    "Escribe cinco frases sobre tu próximo año con «L'anno prossimo...» y el futuro (5 minutos).",
+    "Haz una lista de tres promesas con «Ti prometto che...» y dilas en voz alta (3 minutos).",
+    "Conjuga en voz alta los verbos parlare, partire y finire en todas las personas del futuro (5 minutos).",
+    "Cuenta a un amigo tu plan para el próximo fin de semana en cuatro frases (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-a2-u11-l1",
+      "n": 1,
+      "titulo": "El futuro regular",
+      "objetivo": "Formar el futuro de verbos regulares en -are, -ere e -ire.",
+      "intro": "Para el futuro tomas el infinitivo, quitas la -e y añades -ò, -ai, -à, -emo, -ete, -anno. Truco: con -are, la -a- se vuelve -e-: parl-are → parl-erò.",
+      "palabras": [
+        { "t": "parlerò", "es": "hablaré", "pron": "parleró", "ej": "Domani parlerò con il capo.", "ejes": "Mañana hablaré con el jefe.", "cog": false },
+        { "t": "mangerò", "es": "comeré", "pron": "mandyeró", "ej": "Stasera mangerò la pizza.", "ejes": "Esta noche comeré pizza.", "cog": false },
+        { "t": "lavorerò", "es": "trabajaré", "pron": "lavoreró", "ej": "Lavorerò fino alle sei.", "ejes": "Trabajaré hasta las seis.", "cog": false },
+        { "t": "studierò", "es": "estudiaré", "pron": "studieró", "ej": "Studierò per l'esame.", "ejes": "Estudiaré para el examen.", "cog": false },
+        { "t": "partirò", "es": "partiré / saldré", "pron": "partiró", "ej": "Partirò domani mattina.", "ejes": "Saldré mañana en la mañana.", "cog": false },
+        { "t": "finirò", "es": "terminaré", "pron": "finiró", "ej": "Finirò il lavoro presto.", "ejes": "Terminaré el trabajo pronto.", "cog": false },
+        { "t": "leggerò", "es": "leeré", "pron": "lleyeró", "ej": "Leggerò un libro.", "ejes": "Leeré un libro.", "cog": false },
+        { "t": "scriverò", "es": "escribiré", "pron": "scriveró", "ej": "Ti scriverò una mail.", "ejes": "Te escribiré un correo.", "cog": false },
+        { "t": "domani", "es": "mañana", "pron": "dománi", "ej": "Domani è sabato.", "ejes": "Mañana es sábado.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Domani parlerò con il capo.", "es": "Mañana hablaré con el jefe.", "pron": "dománi parleró con il cápo" },
+        { "t": "Stasera mangerò la pizza.", "es": "Esta noche comeré pizza.", "pron": "stasséra mandyeró la pítsa" },
+        { "t": "Partirai domani?", "es": "¿Saldrás mañana?", "pron": "partirái dománi" },
+        { "t": "Finiremo il lavoro presto.", "es": "Terminaremo el trabajo pronto.", "pron": "finirémo il lavóro présto" },
+        { "t": "Leggeranno questo libro.", "es": "Leerán este libro.", "pron": "lleyeránno cuésto líbro" }
+      ],
+      "dialogo": {
+        "titulo": "Planes para mañana",
+        "lineas": [
+          { "q": "A", "t": "Che cosa farai domani?", "es": "¿Qué harás mañana?" },
+          { "q": "B", "t": "Lavorerò fino alle sei. E tu?", "es": "Trabajaré hasta las seis. ¿Y tú?" },
+          { "q": "A", "t": "Io studierò per l'esame.", "es": "Yo estudiaré para el examen." },
+          { "q": "B", "t": "Poi mangeremo insieme?", "es": "¿Luego comeremos juntos?" }
+        ]
+      },
+      "nota": "En italiano hablado el presente también se usa para el futuro cercano («domani parto»), pero el futuro simple es muy común para promesas y planes. Con «-ire» y «-ere» la vocal del infinitivo se mantiene: finire → finirò, leggere → leggerò."
+    },
+    {
+      "id": "it-a2-u11-l2",
+      "n": 2,
+      "titulo": "Futuros irregulares",
+      "objetivo": "Usar los futuros irregulares más frecuentes: sarò, avrò, andrò, farò, verrò, potrò, dovrò, vedrò.",
+      "intro": "Algunos verbos muy comunes tienen raíz irregular, pero las terminaciones son las mismas. Truco: aprende estos 8 como frases hechas; son los que más usarás.",
+      "palabras": [
+        { "t": "sarò", "es": "seré / estaré", "pron": "saró", "ej": "Domani sarò a casa.", "ejes": "Mañana estaré en casa.", "cog": false },
+        { "t": "avrò", "es": "tendré", "pron": "avró", "ej": "Avrò più tempo.", "ejes": "Tendré más tiempo.", "cog": false },
+        { "t": "andrò", "es": "iré", "pron": "andró", "ej": "Andrò in Italia.", "ejes": "Iré a Italia.", "cog": false },
+        { "t": "farò", "es": "haré", "pron": "faró", "ej": "Farò una torta.", "ejes": "Haré un pastel.", "cog": false },
+        { "t": "verrò", "es": "vendré", "pron": "verró", "ej": "Verrò alla festa.", "ejes": "Vendré a la fiesta.", "cog": false },
+        { "t": "potrò", "es": "podré", "pron": "potró", "ej": "Domani potrò venire.", "ejes": "Mañana podré venir.", "cog": false },
+        { "t": "dovrò", "es": "tendré que", "pron": "dovró", "ej": "Dovrò studiare molto.", "ejes": "Tendré que estudiar mucho.", "cog": false },
+        { "t": "vedrò", "es": "veré", "pron": "vedró", "ej": "Vedrò mia madre domani.", "ejes": "Veré a mi mamá mañana.", "cog": false },
+        { "t": "saprò", "es": "sabré", "pron": "sapró", "ej": "Saprò la risposta domani.", "ejes": "Sabré la respuesta mañana.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Domani sarò a casa.", "es": "Mañana estaré en casa.", "pron": "dománi saró a cása" },
+        { "t": "L'anno prossimo andrò in Italia.", "es": "El próximo año iré a Italia.", "pron": "lánno próssimo andró in itália" },
+        { "t": "Che cosa farai?", "es": "¿Qué harás?", "pron": "ke cósa farái" },
+        { "t": "Verrai alla mia festa?", "es": "¿Vendrás a mi fiesta?", "pron": "verrái álla mía fésta" },
+        { "t": "Domani dovrò lavorare.", "es": "Mañana tendré que trabajar.", "pron": "dománi dovró lavoráre" }
+      ],
+      "dialogo": {
+        "titulo": "Invitación",
+        "lineas": [
+          { "q": "A", "t": "Sabato farò una festa. Verrai?", "es": "El sábado haré una fiesta. ¿Vendrás?" },
+          { "q": "B", "t": "Sabato dovrò lavorare, ma verrò dopo le otto.", "es": "El sábado tendré que trabajar, pero vendré después de las ocho." },
+          { "q": "A", "t": "Perfetto! Ci sarà anche Marco.", "es": "¡Perfecto! También estará Marco." },
+          { "q": "B", "t": "Che bello! Porterò una torta.", "es": "¡Qué bien! Llevaré un pastel." }
+        ]
+      },
+      "nota": "«Ci sarà» = «habrá / estará». «Porterò» es regular (portare → porterò). Raíces irregulares: sar-, avr-, andr-, far-, verr-, potr-, dovr-, vedr-, sapr-. Después, las terminaciones son las mismas: -ò, -ai, -à, -emo, -ete, -anno."
+    },
+    {
+      "id": "it-a2-u11-l3",
+      "n": 3,
+      "titulo": "¿Cuándo? Tiempo futuro",
+      "objetivo": "Usar expresiones de tiempo futuro para ordenar mis planes.",
+      "intro": "Con el futuro suelen venir palabras como «domani», «l'anno prossimo», «tra due giorni». Truco: «tra / fra» + tiempo significa «dentro de»: tra due giorni = dentro de dos días.",
+      "palabras": [
+        { "t": "domani", "es": "mañana", "pron": "dománi", "ej": "Domani lavorerò molto.", "ejes": "Mañana trabajaré mucho.", "cog": false },
+        { "t": "dopodomani", "es": "pasado mañana", "pron": "dopodománi", "ej": "Dopodomani partirò.", "ejes": "Pasado mañana saldré.", "cog": false },
+        { "t": "la settimana prossima", "es": "la semana próxima", "pron": "la settimána próssima", "ej": "La settimana prossima andrò al mare.", "ejes": "La semana próxima iré a la playa.", "cog": false },
+        { "t": "il mese prossimo", "es": "el mes próximo", "pron": "il mése próssimo", "ej": "Il mese prossimo andrò a Roma.", "ejes": "El mes próximo iré a Roma.", "cog": false },
+        { "t": "l'anno prossimo", "es": "el año próximo", "pron": "lánno próssimo", "ej": "L'anno prossimo studierò inglese.", "ejes": "El año próximo estudiaré inglés.", "cog": false },
+        { "t": "tra", "es": "dentro de", "pron": "tra", "ej": "Arriverò tra due ore.", "ejes": "Llegaré dentro de dos horas.", "cog": false, "truco": "También se dice «fra»." },
+        { "t": "più tardi", "es": "más tarde", "pron": "piú tárdi", "ej": "Ti chiamerò più tardi.", "ejes": "Te llamaré más tarde.", "cog": false },
+        { "t": "presto", "es": "pronto", "pron": "présto", "ej": "Ci vedremo presto.", "ejes": "Nos veremos pronto.", "cog": false },
+        { "t": "un giorno", "es": "algún día", "pron": "un yórno", "ej": "Un giorno sarò ricco.", "ejes": "Algún día seré rico.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Domani andrò al lavoro.", "es": "Mañana iré al trabajo.", "pron": "dománi andró al lavóro" },
+        { "t": "L'anno prossimo studierò italiano.", "es": "El año próximo estudiaré italiano.", "pron": "lánno próssimo studieró italiáno" },
+        { "t": "Arriverò tra due ore.", "es": "Llegaré dentro de dos horas.", "pron": "arriveró tra dúe óre" },
+        { "t": "Ci vedremo presto.", "es": "Nos veremos pronto.", "pron": "chi vedrémo présto" },
+        { "t": "Un giorno viaggerò in Italia.", "es": "Algún día viajaré a Italia.", "pron": "un yórno viaddyeró in itália" }
+      ],
+      "dialogo": {
+        "titulo": "Planes del año",
+        "lineas": [
+          { "q": "A", "t": "Che cosa farai l'anno prossimo?", "es": "¿Qué harás el año próximo?" },
+          { "q": "B", "t": "Studierò italiano e andrò in Italia.", "es": "Estudiaré italiano e iré a Italia." },
+          { "q": "A", "t": "Quando partirai?", "es": "¿Cuándo saldrás?" },
+          { "q": "B", "t": "Partirò tra sei mesi.", "es": "Saldré dentro de seis meses." }
+        ]
+      },
+      "nota": "«Tra» y «fra» son lo mismo: «tra due giorni», «fra due giorni». Para decir «hace dos días» (pasado) se usa «due giorni fa». No los confundas."
+    },
+    {
+      "id": "it-a2-u11-l4",
+      "n": 4,
+      "titulo": "Promesas y «lo, la, li, le»",
+      "objetivo": "Hacer promesas y usar los pronombres lo, la, li, le.",
+      "intro": "Para no repetir la cosa que ya mencionaste usas lo (masc. singular), la (fem. singular), li (masc. plural), le (fem. plural). Truco: van antes del verbo: «Lo farò» = lo haré.",
+      "palabras": [
+        { "t": "ti prometto", "es": "te prometo", "pron": "ti prométto", "ej": "Ti prometto che verrò.", "ejes": "Te prometo que vendré.", "cog": false },
+        { "t": "lo", "es": "lo (masculino singular)", "pron": "lo", "ej": "Lo farò domani.", "ejes": "Lo haré mañana.", "cog": false },
+        { "t": "la", "es": "la (femenino singular)", "pron": "la", "ej": "La chiamerò più tardi.", "ejes": "La llamaré más tarde.", "cog": false },
+        { "t": "li", "es": "los (masculino plural)", "pron": "li", "ej": "Li compreremo domani.", "ejes": "Los compraremos mañana.", "cog": false },
+        { "t": "le", "es": "las (femenino plural)", "pron": "le", "ej": "Le porterò a casa.", "ejes": "Las llevaré a casa.", "cog": false },
+        { "t": "chiamerò", "es": "llamaré", "pron": "quiameró", "ej": "Ti chiamerò stasera.", "ejes": "Te llamaré esta noche.", "cog": false },
+        { "t": "porterò", "es": "llevaré / traeré", "pron": "porteró", "ej": "Porterò il pane.", "ejes": "Llevaré el pan.", "cog": false },
+        { "t": "comprerò", "es": "compraré", "pron": "compreró", "ej": "Comprerò il biglietto.", "ejes": "Compraré el boleto.", "cog": false },
+        { "t": "te lo prometto", "es": "te lo prometo", "pron": "te lo prométto", "ej": "Te lo prometto, davvero.", "ejes": "Te lo prometo, de verdad.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Ti prometto che verrò.", "es": "Te prometo que vendré.", "pron": "ti prométto ke verró" },
+        { "t": "Lo farò domani.", "es": "Lo haré mañana.", "pron": "lo faró dománi" },
+        { "t": "La chiamerò stasera.", "es": "La llamaré esta noche.", "pron": "la quiameró stasséra" },
+        { "t": "Li compreremo domani.", "es": "Los compraremos mañana.", "pron": "li comprerémo dománi" },
+        { "t": "Le porterò a casa.", "es": "Las llevaré a casa.", "pron": "le porteró a cása" }
+      ],
+      "dialogo": {
+        "titulo": "Una promesa",
+        "lineas": [
+          { "q": "A", "t": "Mi chiamerai stasera?", "es": "¿Me llamarás esta noche?" },
+          { "q": "B", "t": "Sì, ti chiamerò. Te lo prometto.", "es": "Sí, te llamaré. Te lo prometo." },
+          { "q": "A", "t": "E i biglietti? Li comprerai tu?", "es": "¿Y los boletos? ¿Los comprarás tú?" },
+          { "q": "B", "t": "Sì, li comprerò domani.", "es": "Sí, los compraré mañana." }
+        ]
+      },
+      "nota": "«Mi» (me) y «ti» (te) también son pronombres directos: «Mi chiamerai?», «Ti chiamerò». Para dar una respuesta corta: «Sì, lo farò» (sí, lo haré), «Sì, la chiamerò», «Sì, li compro». Los pronombres van pegados al verbo, antes de él."
+    },
+    {
+      "id": "it-a2-u11-l5",
+      "n": 5,
+      "titulo": "Repaso: mi futuro",
+      "objetivo": "Combinar futuro, expresiones de tiempo y pronombres para hablar de mis planes.",
+      "intro": "Repasa lo aprendido: futuro regular e irregular, expresiones de tiempo y promesas con lo, la, li, le. Truco: piensa en tus planes del próximo año y dilos en voz alta.",
+      "palabras": [
+        { "t": "il futuro", "es": "el futuro", "pron": "il futúro", "ej": "Il futuro è bello.", "ejes": "El futuro es hermoso.", "cog": true },
+        { "t": "il progetto", "es": "el proyecto", "pron": "il proyéto", "ej": "Il progetto è importante.", "ejes": "El proyecto es importante.", "cog": true },
+        { "t": "il piano", "es": "el plan", "pron": "il piáno", "ej": "Il piano è semplice.", "ejes": "El plan es simple.", "cog": true },
+        { "t": "spero", "es": "espero", "pron": "spéro", "ej": "Spero di vederti presto.", "ejes": "Espero verte pronto.", "cog": false },
+        { "t": "forse", "es": "quizás", "pron": "fórse", "ej": "Forse verrò domani.", "ejes": "Quizás venga mañana.", "cog": false },
+        { "t": "certo", "es": "seguro / claro", "pron": "chérto", "ej": "Certo che verrò!", "ejes": "¡Claro que vendré!", "cog": true },
+        { "t": "il viaggio", "es": "el viaje", "pron": "il viáddyo", "ej": "Il viaggio sarà lungo.", "ejes": "El viaje será largo.", "cog": true },
+        { "t": "la vacanza", "es": "las vacaciones (una)", "pron": "la vacántsa", "ej": "La vacanza sarà bella.", "ejes": "Las vacaciones serán lindas.", "cog": true, "truco": "En plural: le vacanze." },
+        { "t": "presto", "es": "pronto", "pron": "présto", "ej": "Sarò presto a casa.", "ejes": "Llegaré pronto a casa.", "cog": false }
+      ],
+      "frases": [
+        { "t": "L'anno prossimo farò un viaggio.", "es": "El año próximo haré un viaje.", "pron": "lánno próssimo faró un viáddyo" },
+        { "t": "Spero di vederti presto.", "es": "Espero verte pronto.", "pron": "spéro di vedérti présto" },
+        { "t": "Forse andrò al mare.", "es": "Quizás vaya a la playa.", "pron": "fórse andró al máre" },
+        { "t": "Ti scriverò una mail.", "es": "Te escribiré un correo.", "pron": "ti scriveró úna méil" },
+        { "t": "Lo farò, te lo prometto.", "es": "Lo haré, te lo prometo.", "pron": "lo faró, te lo prométto" }
+      ],
+      "dialogo": {
+        "titulo": "Nuestras vacaciones",
+        "lineas": [
+          { "q": "A", "t": "Dove andrai in vacanza?", "es": "¿Adónde irás de vacaciones?" },
+          { "q": "B", "t": "Forse andrò al mare. E tu?", "es": "Quizás vaya a la playa. ¿Y tú?" },
+          { "q": "A", "t": "Io andrò in montagna con la famiglia.", "es": "Yo iré a la montaña con la familia." },
+          { "q": "B", "t": "Che bello! Mi scriverai una cartolina?", "es": "¡Qué bien! ¿Me escribirás una postal?" },
+          { "q": "A", "t": "Sì, la scriverò, te lo prometto!", "es": "¡Sí, la escribiré, te lo prometo!" }
+        ]
+      },
+      "nota": "«Forse» + futuro expresa duda: «Forse verrò» = quizás vaya / tal vez venga. «Spero di + infinitivo» = «espero + infinitivo». «Vacanza» va en plural en el sentido de «vacaciones»: «le vacanze»."
+    }
+  ]
+}

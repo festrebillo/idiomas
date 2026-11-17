@@ -1,0 +1,224 @@
+{
+  "id": "en-a2-u6",
+  "idioma": "en",
+  "nivel": "A2",
+  "n": 6,
+  "titulo": "Viajes y transporte",
+  "resumen": "Aprenderás el vocabulario de transporte, aeropuerto y hotel, y a hablar de planes y decisiones con going to y will.",
+  "puedo": [
+    "Nombrar medios de transporte y decir cómo viajo.",
+    "Entender el vocabulario básico del aeropuerto.",
+    "Reservar una habitación y hacer check-in.",
+    "Usar going to para planes y will para decisiones del momento.",
+    "Hablar de planes con next week, next summer y soon.",
+    "Describir un viaje usando verbos como book, pack y catch."
+  ],
+  "gramatica": {
+    "titulo": "Going to y will para hablar del futuro",
+    "texto": "Usa be going to cuando ya tienes un plan decidido: I'm going to fly to Cusco next month (ya lo decidí).\nUsa will cuando decides en el momento o haces una promesa o predicción: The phone is ringing. I'll answer it! (decido ahora). También para predecir: It will be sunny tomorrow.\nTruco: pregúntate ¿ya lo tenía decidido antes de hablar? Si sí, going to; si lo decido justo ahora, will.\nWill no cambia con la persona y va seguido del verbo base: she will go (no «she wills go»). La forma corta es 'll (I'll) y el negativo es won't (will not).",
+    "tabla": [
+      ["I'm going to book a flight.", "Voy a reservar un vuelo. (plan)", "aim góuin tu buk a flait"],
+      ["I'll help you.", "Te ayudo. (decisión ahora)", "ail jelp iu"],
+      ["She will be late.", "Ella llegará tarde. (predicción)", "shi uil bi leit"],
+      ["I won't forget.", "No me olvidaré.", "ai uount forguét"],
+      ["Are you going to travel?", "¿Vas a viajar?", "ar iu góuin tu trável"]
+    ],
+    "errores": [
+      "No uses will para planes que ya decidiste: es I'm going to visit my aunt, no «I will visit my aunt» (suena a decisión repentina).",
+      "No pongas to después de will: es I'll call you, no «I'll to call you».",
+      "No añadas -s a will: es she will go, no «she wills go»."
+    ]
+  },
+  "practica": [
+    "Di en voz alta 5 planes tuyos para el próximo mes con I'm going to... (5 minutos).",
+    "Escribe 5 decisiones espontáneas con I'll... por ejemplo I'll open the window (5 minutos).",
+    "Mira un video corto sobre un aeropuerto en inglés y anota 5 palabras que reconozcas (passport, gate, flight...) (7 minutos).",
+    "Planea un viaje imaginario: escribe 6 frases con book, pack, rent y going to (7 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-a2-u6-l1",
+      "n": 1,
+      "titulo": "Medios de transporte",
+      "objetivo": "Nombrar medios de transporte y decir cómo te mueves.",
+      "intro": "Para decir cómo viajas, usa by + medio de transporte: by bus, by car. Truco: con «a pie» se dice on foot. Los medios se dicen sin artículo: by train, no «by the train».",
+      "palabras": [
+        { "t": "plane", "es": "avión", "pron": "plein", "ej": "We travel by plane.", "ejes": "Viajamos en avión.", "cog": false },
+        { "t": "train", "es": "tren", "pron": "trein", "ej": "The train is fast.", "ejes": "El tren es rápido.", "cog": false },
+        { "t": "ferry", "es": "ferri / balsa", "pron": "féri", "ej": "We took the ferry to the island.", "ejes": "Tomamos el ferri a la isla.", "cog": true },
+        { "t": "subway", "es": "metro", "pron": "sábuei", "ej": "I take the subway to work.", "ejes": "Tomo el metro al trabajo.", "cog": false, "truco": "En EE. UU. metro = subway; en Londres se dice underground." },
+        { "t": "taxi", "es": "taxi", "pron": "táksi", "ej": "I took a taxi to the airport.", "ejes": "Tomé un taxi al aeropuerto.", "cog": true },
+        { "t": "by bus", "es": "en bus", "pron": "bai bas", "ej": "I go to school by bus.", "ejes": "Voy a la escuela en bus.", "cog": false },
+        { "t": "by car", "es": "en carro", "pron": "bai car", "ej": "We travel by car.", "ejes": "Viajamos en carro.", "cog": false },
+        { "t": "on foot", "es": "a pie", "pron": "on fut", "ej": "I go to the park on foot.", "ejes": "Voy al parque a pie.", "cog": false },
+        { "t": "ticket", "es": "boleto / pasaje", "pron": "tíket", "ej": "I bought a ticket.", "ejes": "Compré un boleto.", "cog": false }
+      ],
+      "frases": [
+        { "t": "We travel by plane.", "es": "Viajamos en avión.", "pron": "ui trável bai plein" },
+        { "t": "I go to work by subway.", "es": "Voy al trabajo en metro.", "pron": "ai góu tu uerk bai sábuei" },
+        { "t": "I took a taxi to the airport.", "es": "Tomé un taxi al aeropuerto.", "pron": "ai tuk a táksi tu di érport" },
+        { "t": "We went to the island by ferry.", "es": "Fuimos a la isla en ferri.", "pron": "ui uent tu di áilend bai féri" },
+        { "t": "I go to the park on foot.", "es": "Voy al parque a pie.", "pron": "ai góu tu da park on fut" },
+        { "t": "How much is the ticket?", "es": "¿Cuánto cuesta el boleto?", "pron": "jau mach is da tíket" }
+      ],
+      "dialogo": {
+        "titulo": "¿Cómo vas al trabajo?",
+        "lineas": [
+          { "q": "A", "t": "How do you go to work, Ana?", "es": "¿Cómo vas al trabajo, Ana?" },
+          { "q": "B", "t": "I go by subway. And you?", "es": "Voy en metro. ¿Y tú?" },
+          { "q": "A", "t": "I go by bus, but sometimes I go on foot.", "es": "Voy en bus, pero a veces voy a pie." },
+          { "q": "B", "t": "Last week I took a taxi to the airport.", "es": "La semana pasada tomé un taxi al aeropuerto." },
+          { "q": "A", "t": "Wow! How much was the ticket?", "es": "¡Guau! ¿Cuánto fue el pasaje?" }
+        ]
+      },
+      "nota": "Sin by se usa el verbo: take the bus (tomar el bus), take a taxi, take the train. En EE. UU. se dice subway; en el Reino Unido, underground o tube."
+    },
+    {
+      "id": "en-a2-u6-l2",
+      "n": 2,
+      "titulo": "En el aeropuerto",
+      "objetivo": "Entender y usar el vocabulario básico del aeropuerto.",
+      "intro": "El aeropuerto tiene muchas palabras casi iguales al español, pero otras son nuevas. Truco: en inglés se dice gate para la puerta de embarque (no «door») y luggage o baggage para el equipaje.",
+      "palabras": [
+        { "t": "passport", "es": "pasaporte", "pron": "pásport", "ej": "Show your passport, please.", "ejes": "Muestre su pasaporte, por favor.", "cog": true },
+        { "t": "suitcase", "es": "maleta", "pron": "sútkeis", "ej": "My suitcase is heavy.", "ejes": "Mi maleta es pesada.", "cog": false },
+        { "t": "boarding pass", "es": "tarjeta de embarque", "pron": "bórdin pas", "ej": "Here is my boarding pass.", "ejes": "Aquí está mi tarjeta de embarque.", "cog": false },
+        { "t": "gate", "es": "puerta de embarque", "pron": "gueit", "ej": "Go to gate twelve.", "ejes": "Vaya a la puerta doce.", "cog": false },
+        { "t": "flight", "es": "vuelo", "pron": "flait", "ej": "My flight is at six.", "ejes": "Mi vuelo es a las seis.", "cog": false },
+        { "t": "luggage", "es": "equipaje", "pron": "lágich", "ej": "Where is my luggage?", "ejes": "¿Dónde está mi equipaje?", "cog": false },
+        { "t": "security", "es": "seguridad / control", "pron": "sikiúriti", "ej": "We waited at security.", "ejes": "Esperamos en el control de seguridad.", "cog": true },
+        { "t": "customs", "es": "aduana", "pron": "cástoms", "ej": "We went through customs.", "ejes": "Pasamos por la aduana.", "cog": false },
+        { "t": "delay", "es": "retraso", "pron": "dileí", "ej": "There is a delay.", "ejes": "Hay un retraso.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Show your passport, please.", "es": "Muestre su pasaporte, por favor.", "pron": "shóu ior pásport, plis" },
+        { "t": "Here is my boarding pass.", "es": "Aquí está mi tarjeta de embarque.", "pron": "jíar is mai bórdin pas" },
+        { "t": "My flight is at six.", "es": "Mi vuelo es a las seis.", "pron": "mai flait is at siks" },
+        { "t": "Go to gate twelve.", "es": "Vaya a la puerta doce.", "pron": "góu tu gueit tuélv" },
+        { "t": "Where is my luggage?", "es": "¿Dónde está mi equipaje?", "pron": "juér is mai lágich" },
+        { "t": "There is a delay.", "es": "Hay un retraso.", "pron": "der is a dileí" }
+      ],
+      "dialogo": {
+        "titulo": "En el mostrador",
+        "lineas": [
+          { "q": "A", "t": "Good morning! Your passport, please.", "es": "¡Buenos días! Su pasaporte, por favor." },
+          { "q": "B", "t": "Here you are. And this is my suitcase.", "es": "Aquí tiene. Y esta es mi maleta." },
+          { "q": "A", "t": "Thank you. Here is your boarding pass.", "es": "Gracias. Aquí tiene su tarjeta de embarque." },
+          { "q": "B", "t": "Which gate is my flight?", "es": "¿En qué puerta es mi vuelo?" },
+          { "q": "A", "t": "Gate twelve. There is a small delay.", "es": "Puerta doce. Hay un pequeño retraso." }
+        ]
+      },
+      "nota": "Luggage no se usa en plural: se dice my luggage, some luggage. Para contarlo se usa a suitcase o a piece of luggage."
+    },
+    {
+      "id": "en-a2-u6-l3",
+      "n": 3,
+      "titulo": "En el hotel y de turismo",
+      "objetivo": "Reservar y hacer check-in en un hotel, y hablar de turismo.",
+      "intro": "En un hotel usarás reservation, check in y key. Truco: check in es entrar al hotel y check out es salir. Fíjate en que cada verbo va con su preposición.",
+      "palabras": [
+        { "t": "reservation", "es": "reserva", "pron": "rezervéishon", "ej": "I have a reservation.", "ejes": "Tengo una reserva.", "cog": true },
+        { "t": "double room", "es": "habitación doble", "pron": "dábol rum", "ej": "I'd like a double room.", "ejes": "Quisiera una habitación doble.", "cog": false },
+        { "t": "check in", "es": "registrarse (llegada)", "pron": "chek in", "ej": "We check in at three.", "ejes": "Hacemos el check-in a las tres.", "cog": false },
+        { "t": "check out", "es": "dejar el hotel (salida)", "pron": "chek aut", "ej": "We check out at noon.", "ejes": "Dejamos el hotel al mediodía.", "cog": false },
+        { "t": "key", "es": "llave", "pron": "ki", "ej": "Here is your key.", "ejes": "Aquí tiene su llave.", "cog": false },
+        { "t": "tourist", "es": "turista", "pron": "túrist", "ej": "Every tourist visits Cusco.", "ejes": "Todo turista visita Cusco.", "cog": true },
+        { "t": "map", "es": "mapa", "pron": "map", "ej": "I need a map of the city.", "ejes": "Necesito un mapa de la ciudad.", "cog": true },
+        { "t": "guide", "es": "guía", "pron": "gaid", "ej": "Our guide is very nice.", "ejes": "Nuestro guía es muy amable.", "cog": false },
+        { "t": "sightseeing", "es": "turismo / paseo turístico", "pron": "sáitsiin", "ej": "We went sightseeing in Lima.", "ejes": "Hicimos turismo en Lima.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I have a reservation.", "es": "Tengo una reserva.", "pron": "ai jav a rezervéishon" },
+        { "t": "I'd like a double room, please.", "es": "Quisiera una habitación doble, por favor.", "pron": "aid laik a dábol rum, plis" },
+        { "t": "What time do we check out?", "es": "¿A qué hora dejamos el hotel?", "pron": "juat taim du ui chek aut" },
+        { "t": "Here is your key.", "es": "Aquí tiene su llave.", "pron": "jíar is ior ki" },
+        { "t": "We went sightseeing in Lima.", "es": "Hicimos turismo en Lima.", "pron": "ui uent sáitsiin in lima" }
+      ],
+      "dialogo": {
+        "titulo": "Llegando al hotel",
+        "lineas": [
+          { "q": "A", "t": "Good evening! Do you have a reservation?", "es": "¡Buenas noches! ¿Tiene una reserva?" },
+          { "q": "B", "t": "Yes, a double room for three nights.", "es": "Sí, una habitación doble por tres noches." },
+          { "q": "A", "t": "Great. Here is your key. Check out is at noon.", "es": "Perfecto. Aquí tiene su llave. La salida es al mediodía." },
+          { "q": "B", "t": "Thank you. Do you have a map for tourists?", "es": "Gracias. ¿Tiene un mapa para turistas?" },
+          { "q": "A", "t": "Of course. A guide is here every morning.", "es": "Claro. Hay un guía aquí todas las mañanas." }
+        ]
+      },
+      "nota": "Cuidado: como verbo se escribe separado (check in, check out); como sustantivo se escribe con guion (check-in, check-out): The check-in is at three."
+    },
+    {
+      "id": "en-a2-u6-l4",
+      "n": 4,
+      "titulo": "Will: decisiones y promesas",
+      "objetivo": "Usar will para decidir algo en el momento, prometer o predecir.",
+      "intro": "Will se usa para decisiones del momento, promesas y predicciones. Truco: I'll es la forma corta de I will y suena «ail». Para negar, won't (will not) suena «uount».",
+      "palabras": [
+        { "t": "will", "es": "(auxiliar de futuro)", "pron": "uil", "ej": "It will be sunny tomorrow.", "ejes": "Mañana estará soleado.", "cog": false, "truco": "No cambia con la persona y va con el verbo base." },
+        { "t": "I'll", "es": "yo voy a / yo haré", "pron": "ail", "ej": "I'll carry your suitcase.", "ejes": "Yo llevo tu maleta.", "cog": false, "truco": "I'll = I will. Para decisiones del momento." },
+        { "t": "won't", "es": "no (futuro)", "pron": "uount", "ej": "I won't forget my passport.", "ejes": "No olvidaré mi pasaporte.", "cog": false, "truco": "won't = will not." },
+        { "t": "maybe", "es": "quizás", "pron": "méibi", "ej": "Maybe we'll go to Cusco.", "ejes": "Quizás vayamos a Cusco.", "cog": false },
+        { "t": "probably", "es": "probablemente", "pron": "próbabli", "ej": "It will probably rain.", "ejes": "Probablemente lloverá.", "cog": false },
+        { "t": "I think", "es": "creo que", "pron": "ai zink", "ej": "I think it will be fun.", "ejes": "Creo que será divertido.", "cog": false },
+        { "t": "soon", "es": "pronto", "pron": "sun", "ej": "I'll see you soon.", "ejes": "Te veré pronto.", "cog": false },
+        { "t": "next week", "es": "la próxima semana", "pron": "nekst uik", "ej": "I'll call you next week.", "ejes": "Te llamaré la próxima semana.", "cog": false },
+        { "t": "next summer", "es": "el próximo verano", "pron": "nekst sámer", "ej": "We'll travel next summer.", "ejes": "Viajaremos el próximo verano.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I'll carry your suitcase.", "es": "Yo llevo tu maleta.", "pron": "ail cári ior sútkeis" },
+        { "t": "It will be sunny tomorrow.", "es": "Mañana estará soleado.", "pron": "it uil bi sáni tumórou" },
+        { "t": "I won't forget my passport.", "es": "No olvidaré mi pasaporte.", "pron": "ai uount forguét mai pásport" },
+        { "t": "I think it will be fun.", "es": "Creo que será divertido.", "pron": "ai zink it uil bi fan" },
+        { "t": "Maybe we'll go to Cusco next summer.", "es": "Quizás vayamos a Cusco el próximo verano.", "pron": "méibi uil góu tu cusco nekst sámer" },
+        { "t": "I'll see you soon.", "es": "Te veré pronto.", "pron": "ail si iu sun" }
+      ],
+      "dialogo": {
+        "titulo": "Decisiones en el aeropuerto",
+        "lineas": [
+          { "q": "A", "t": "Oh no! I forgot my phone charger.", "es": "¡Ay, no! Olvidé mi cargador." },
+          { "q": "B", "t": "Don't worry. I'll buy one at the airport.", "es": "No te preocupes. Yo compro uno en el aeropuerto." },
+          { "q": "A", "t": "Thank you! I think the flight will be long.", "es": "¡Gracias! Creo que el vuelo será largo." },
+          { "q": "B", "t": "Probably. I'll carry your suitcase.", "es": "Probablemente. Yo llevo tu maleta." },
+          { "q": "A", "t": "Great. I won't forget this trip!", "es": "Genial. ¡No olvidaré este viaje!" }
+        ]
+      },
+      "nota": "I think + will es muy común para opinar sobre el futuro: I think it will rain. Para decir que no crees algo, se dice I don't think it will rain."
+    },
+    {
+      "id": "en-a2-u6-l5",
+      "n": 5,
+      "titulo": "Repaso: planear un viaje",
+      "objetivo": "Planear un viaje combinando going to, will y el vocabulario de viaje.",
+      "intro": "Para planear un viaje usamos going to para lo decidido y will para lo que decidimos al momento. Truco: book, pack y rent son los verbos clave de cualquier viaje.",
+      "palabras": [
+        { "t": "book", "es": "reservar", "pron": "buk", "ej": "I'm going to book a flight.", "ejes": "Voy a reservar un vuelo.", "cog": false, "truco": "book también significa «libro»." },
+        { "t": "pack", "es": "hacer las maletas", "pron": "pak", "ej": "I'm going to pack tonight.", "ejes": "Voy a hacer las maletas esta noche.", "cog": false },
+        { "t": "rent", "es": "alquilar", "pron": "rent", "ej": "We'll rent a car.", "ejes": "Alquilaremos un carro.", "cog": false },
+        { "t": "catch", "es": "tomar / alcanzar (un transporte)", "pron": "cach", "ej": "I'll catch the bus at seven.", "ejes": "Tomaré el bus a las siete.", "cog": false },
+        { "t": "miss", "es": "perder (un transporte)", "pron": "mis", "ej": "Don't miss the train!", "ejes": "¡No pierdas el tren!", "cog": false },
+        { "t": "take off", "es": "despegar", "pron": "teik of", "ej": "The plane will take off soon.", "ejes": "El avión despegará pronto.", "cog": false },
+        { "t": "land", "es": "aterrizar", "pron": "land", "ej": "We'll land at nine.", "ejes": "Aterrizaremos a las nueve.", "cog": false },
+        { "t": "get on", "es": "subir (a un bus, tren)", "pron": "get on", "ej": "We get on the bus here.", "ejes": "Subimos al bus aquí.", "cog": false },
+        { "t": "get off", "es": "bajar (de un bus, tren)", "pron": "get of", "ej": "We get off at the next stop.", "ejes": "Bajamos en la próxima parada.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I'm going to book a flight to Lima.", "es": "Voy a reservar un vuelo a Lima.", "pron": "aim góuin tu buk a flait tu lima" },
+        { "t": "We're going to pack tonight.", "es": "Vamos a hacer las maletas esta noche.", "pron": "uir góuin tu pak tunáit" },
+        { "t": "We'll rent a car.", "es": "Alquilaremos un carro.", "pron": "uil rent a car" },
+        { "t": "Don't miss the train!", "es": "¡No pierdas el tren!", "pron": "dount mis da trein" },
+        { "t": "The plane will take off soon.", "es": "El avión despegará pronto.", "pron": "da plein uil teik of sun" },
+        { "t": "We get off at the next stop.", "es": "Bajamos en la próxima parada.", "pron": "ui get of at da nekst stap" }
+      ],
+      "dialogo": {
+        "titulo": "Planeando las vacaciones",
+        "lineas": [
+          { "q": "A", "t": "Are you going to travel next summer, Maria?", "es": "¿Vas a viajar el próximo verano, María?" },
+          { "q": "B", "t": "Yes! I'm going to book a flight to Cusco.", "es": "¡Sí! Voy a reservar un vuelo a Cusco." },
+          { "q": "A", "t": "Great. Are you going to rent a car?", "es": "Genial. ¿Vas a alquilar un carro?" },
+          { "q": "B", "t": "No, I think I'll take the train.", "es": "No, creo que tomaré el tren." },
+          { "q": "A", "t": "Don't miss it! I'll help you pack.", "es": "¡No lo pierdas! Yo te ayudo a hacer las maletas." }
+        ]
+      },
+      "nota": "Repaso: going to = plan que ya tienes (I'm going to book a flight); will = decisión del momento, promesa o predicción (I'll help you; It will be fun). Combínalos al planear un viaje."
+    }
+  ]
+}

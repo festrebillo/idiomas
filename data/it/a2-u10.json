@@ -1,0 +1,216 @@
+{
+  "id": "it-a2-u10",
+  "idioma": "it",
+  "nivel": "A2",
+  "n": 10,
+  "titulo": "Experiencias de vida",
+  "resumen": "Aprenderás a contar qué has hecho en tu vida con «mai», «già» y «non ancora», y a decir adónde has estado.",
+  "puedo": [
+    "Decir adónde he estado con «sono stato a / in».",
+    "Preguntar «¿Has estado alguna vez...?» con «mai».",
+    "Decir qué cosas ya hice con «già».",
+    "Decir qué cosas aún no hice con «non ancora».",
+    "Contar experiencias de viaje, comida y vida."
+  ],
+  "gramatica": {
+    "titulo": "Experiencias: mai, già, non ancora + passato prossimo",
+    "texto": "Para hablar de experiencias de vida se usa el passato prossimo (lo que ya conoces: ho mangiato, sono andato) con tres palabras muy útiles.\nGià = ya: Ho già mangiato il sushi.\nNon... ancora = todavía no: Non ho ancora visto Roma.\nMai = alguna vez (en preguntas) o nunca (con non): Hai mai visitato Venezia? Non sono mai stato a Parigi.\nLa palabra va entre el auxiliar y el participio: ho già visto, non ho ancora fatto, hai mai provato.\nPara decir «he estado en...» se usa «sono stato / stata» (de essere) con a (ciudad) o in (país): Sono stato a Lima. Sono stata in Italia.",
+    "tabla": [
+      ["ho già mangiato", "ya comí", "o yá mandyáto"],
+      ["non ho ancora visto", "todavía no vi", "non o ancóra vísto"],
+      ["hai mai provato...?", "¿alguna vez probaste...?", "ái mái prováto"],
+      ["non sono mai stato a...", "nunca he estado en...", "non sóno mái státo a"],
+      ["sono stato a Roma", "he estado en Roma", "sóno státo a róma"],
+      ["sono stata in Italia", "he estado en Italia (mujer)", "sóno státa in itália"]
+    ],
+    "errores": [
+      "No pongas «già» ni «mai» después del participio en frases normales: «ho già mangiato», no «ho mangiato già».",
+      "Con «mai» en frases negativas hay que decir «non»: «non sono mai stato», no «sono mai stato».",
+      "«Sono stato/stata» concuerda con quien habla: hombre «stato», mujer «stata», plural «stati»."
+    ]
+  },
+  "practica": [
+    "Haz una lista de cinco lugares donde has estado y di «Sono stato a... / in...» (5 minutos).",
+    "Escribe cinco cosas que ya hiciste con «Ho già...» y cinco que no con «Non ho ancora...» (5 minutos).",
+    "Pregunta a un amigo tres veces «Hai mai...?» y anota sus respuestas en italiano (5 minutos).",
+    "Cuenta en voz alta tu mejor viaje en cuatro frases (3 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-a2-u10-l1",
+      "n": 1,
+      "titulo": "Sono stato a...",
+      "objetivo": "Decir adónde he estado y preguntar a otros.",
+      "intro": "«Essere stato» (haber estado) usa el verbo essere: sono stato / stata. Truco: «a» va con ciudades (a Roma) e «in» con países (in Perù).",
+      "palabras": [
+        { "t": "sono stato", "es": "he estado (hombre)", "pron": "sóno státo", "ej": "Sono stato a Cusco.", "ejes": "He estado en Cusco.", "cog": false },
+        { "t": "sono stata", "es": "he estado (mujer)", "pron": "sóno státa", "ej": "Sono stata a Milano.", "ejes": "He estado en Milán.", "cog": false },
+        { "t": "sei stato", "es": "has estado (hombre)", "pron": "séi státo", "ej": "Sei stato in Italia?", "ejes": "¿Has estado en Italia?", "cog": false },
+        { "t": "il viaggio", "es": "el viaje", "pron": "il viáddyo", "ej": "Il viaggio è stato lungo.", "ejes": "El viaje fue largo.", "cog": true },
+        { "t": "il paese", "es": "el país", "pron": "il paése", "ej": "Il paese è bellissimo.", "ejes": "El país es hermosísimo.", "cog": false },
+        { "t": "la città", "es": "la ciudad", "pron": "la cittá", "ej": "La città è grande.", "ejes": "La ciudad es grande.", "cog": false },
+        { "t": "il mare", "es": "el mar / la playa", "pron": "il máre", "ej": "Il mare è bello.", "ejes": "El mar es hermoso.", "cog": false },
+        { "t": "la montagna", "es": "la montaña", "pron": "la montáña", "ej": "La montagna è alta.", "ejes": "La montaña es alta.", "cog": true },
+        { "t": "una volta", "es": "una vez", "pron": "úna vólta", "ej": "Sono stato qui una volta.", "ejes": "He estado aquí una vez.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Sono stato a Roma.", "es": "He estado en Roma.", "pron": "sóno státo a róma" },
+        { "t": "Sono stata in Italia.", "es": "He estado en Italia.", "pron": "sóno státa in itália" },
+        { "t": "Sei mai stato a Venezia?", "es": "¿Has estado alguna vez en Venecia?", "pron": "séi mái státo a venétsia" },
+        { "t": "Non sono mai stata a Parigi.", "es": "Nunca he estado en París.", "pron": "non sóno mái státa a parídyi" },
+        { "t": "Siamo stati al mare.", "es": "Hemos estado en la playa.", "pron": "siámo státi al máre" }
+      ],
+      "dialogo": {
+        "titulo": "Hablando de viajes",
+        "lineas": [
+          { "q": "A", "t": "Sei mai stato in Italia?", "es": "¿Has estado alguna vez en Italia?" },
+          { "q": "B", "t": "Sì, sono stato a Roma una volta.", "es": "Sí, he estado en Roma una vez." },
+          { "q": "A", "t": "Ti è piaciuta?", "es": "¿Te gustó?" },
+          { "q": "B", "t": "Moltissimo! Non sono ancora stato a Venezia.", "es": "¡Muchísimo! Todavía no he estado en Venecia." }
+        ]
+      },
+      "nota": "Con «essere», el participio concuerda: «sono stato / stata / stati / state». Con países se usa «in» (in Perù, in Spagna) y con ciudades «a» (a Lima, a Madrid). Si la ciudad lleva artículo, se une: «al mare» (a + il)."
+    },
+    {
+      "id": "it-a2-u10-l2",
+      "n": 2,
+      "titulo": "¿Has hecho...? Cosas que he probado",
+      "objetivo": "Preguntar y contar qué has hecho, probado o visto en tu vida.",
+      "intro": "Con «ho» + participio hablas de experiencias. Truco: muchos participios terminan en -ato (de -are): mangiare → mangiato. Otros son irregulares: vedere → visto, fare → fatto.",
+      "palabras": [
+        { "t": "ho mangiato", "es": "comí / he comido", "pron": "o mandyáto", "ej": "Ho mangiato il sushi.", "ejes": "He comido sushi.", "cog": false },
+        { "t": "ho provato", "es": "probé / he probado", "pron": "o prováto", "ej": "Ho provato la pizza napoletana.", "ejes": "He probado la pizza napolitana.", "cog": false },
+        { "t": "ho visto", "es": "vi / he visto", "pron": "o vísto", "ej": "Ho visto il Colosseo.", "ejes": "He visto el Coliseo.", "cog": false, "truco": "Vedere es irregular: visto." },
+        { "t": "ho fatto", "es": "hice / he hecho", "pron": "o fátto", "ej": "Ho fatto un corso di cucina.", "ejes": "He hecho un curso de cocina.", "cog": false, "truco": "Fare es irregular: fatto." },
+        { "t": "ho conosciuto", "es": "conocí / he conocido", "pron": "o conoshúto", "ej": "Ho conosciuto un amico italiano.", "ejes": "He conocido a un amigo italiano.", "cog": false },
+        { "t": "ho letto", "es": "leí / he leído", "pron": "o létto", "ej": "Ho letto un libro in italiano.", "ejes": "He leído un libro en italiano.", "cog": false, "truco": "Leggere es irregular: letto." },
+        { "t": "ho imparato", "es": "aprendí / he aprendido", "pron": "o imparáto", "ej": "Ho imparato molto.", "ejes": "He aprendido mucho.", "cog": false },
+        { "t": "ho preso", "es": "tomé / he tomado", "pron": "o présso", "ej": "Ho preso il treno.", "ejes": "He tomado el tren.", "cog": false, "truco": "Prendere es irregular: preso." },
+        { "t": "ho visitato", "es": "visité / he visitado", "pron": "o visitáto", "ej": "Ho visitato un museo.", "ejes": "He visitado un museo.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Ho mangiato il sushi.", "es": "He comido sushi.", "pron": "o mandyáto il súshi" },
+        { "t": "Ho visto un film italiano.", "es": "He visto una película italiana.", "pron": "o vísto un film italiáno" },
+        { "t": "Ho conosciuto molte persone.", "es": "He conocido a mucha gente.", "pron": "o conoshúto mólte persóne" },
+        { "t": "Hai mai provato il tiramisù?", "es": "¿Has probado alguna vez el tiramisú?", "pron": "ái mái prováto il tiramisú" },
+        { "t": "Ho letto un libro in italiano.", "es": "He leído un libro en italiano.", "pron": "o létto un líbro in italiáno" }
+      ],
+      "dialogo": {
+        "titulo": "Primeras veces",
+        "lineas": [
+          { "q": "A", "t": "Hai mai mangiato il tiramisù?", "es": "¿Has comido alguna vez tiramisú?" },
+          { "q": "B", "t": "Sì, l'ho mangiato a Roma.", "es": "Sí, lo comí en Roma." },
+          { "q": "A", "t": "Che cosa hai visto a Roma?", "es": "¿Qué viste en Roma?" },
+          { "q": "B", "t": "Ho visto il Colosseo e ho fatto molte foto.", "es": "Vi el Coliseo y tomé muchas fotos." }
+        ]
+      },
+      "nota": "Las fotos se «hacen»: «ho fatto una foto». Cuando uses el pasado de un lugar al que fuiste, usa «sono stato a», no «ho stato»."
+    },
+    {
+      "id": "it-a2-u10-l3",
+      "n": 3,
+      "titulo": "Ya lo hice: «già»",
+      "objetivo": "Decir qué cosas ya hice usando «già».",
+      "intro": "«Già» significa «ya» y se pone entre «ho» y el participio: «Ho già visto». Truco: se usa para decir «eso ya lo hice» y no repetirlo.",
+      "palabras": [
+        { "t": "già", "es": "ya", "pron": "yá", "ej": "Ho già mangiato.", "ejes": "Ya comí.", "cog": false, "truco": "Va entre el auxiliar y el participio." },
+        { "t": "ho già visto", "es": "ya vi", "pron": "o yá vísto", "ej": "Ho già visto questo film.", "ejes": "Ya vi esta película.", "cog": false },
+        { "t": "ho già fatto", "es": "ya hice", "pron": "o yá fátto", "ej": "Ho già fatto i compiti.", "ejes": "Ya hice la tarea.", "cog": false },
+        { "t": "sono già stato", "es": "ya he estado", "pron": "sóno yá státo", "ej": "Sono già stato a Roma.", "ejes": "Ya he estado en Roma.", "cog": false },
+        { "t": "ho già mangiato", "es": "ya comí", "pron": "o yá mandyáto", "ej": "Ho già mangiato, grazie.", "ejes": "Ya comí, gracias.", "cog": false },
+        { "t": "ho già finito", "es": "ya terminé", "pron": "o yá finíto", "ej": "Ho già finito il lavoro.", "ejes": "Ya terminé el trabajo.", "cog": false },
+        { "t": "ho già comprato", "es": "ya compré", "pron": "o yá compráto", "ej": "Ho già comprato il biglietto.", "ejes": "Ya compré el boleto.", "cog": false },
+        { "t": "il compito", "es": "la tarea", "pron": "il cómpito", "ej": "Il compito è facile.", "ejes": "La tarea es fácil.", "cog": false },
+        { "t": "il biglietto", "es": "el boleto", "pron": "il billétto", "ej": "Il biglietto costa dieci euro.", "ejes": "El boleto cuesta diez euros.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Ho già mangiato, grazie.", "es": "Ya comí, gracias.", "pron": "o yá mandyáto, grátsie" },
+        { "t": "Ho già visto questo film.", "es": "Ya vi esta película.", "pron": "o yá vísto cuésto film" },
+        { "t": "Sono già stato a Firenze.", "es": "Ya he estado en Florencia.", "pron": "sóno yá státo a firéntse" },
+        { "t": "Hai già fatto i compiti?", "es": "¿Ya hiciste la tarea?", "pron": "ái yá fátto i cómpiti" },
+        { "t": "Abbiamo già comprato i biglietti.", "es": "Ya compramos los boletos.", "pron": "abbiámo yá compráto i billétti" }
+      ],
+      "dialogo": {
+        "titulo": "Planes para la noche",
+        "lineas": [
+          { "q": "A", "t": "Andiamo al cinema stasera?", "es": "¿Vamos al cine esta noche?" },
+          { "q": "B", "t": "Quale film?", "es": "¿Qué película?" },
+          { "q": "A", "t": "Il nuovo film italiano. Hai già comprato i biglietti?", "es": "La nueva película italiana. ¿Ya compraste los boletos?" },
+          { "q": "B", "t": "Sì, li ho già comprati. Ho già mangiato, andiamo!", "es": "Sí, ya los compré. Ya comí, ¡vamos!" }
+        ]
+      },
+      "nota": "«Li ho comprati» usa un pronombre que verás con más calma en la unidad 11; por ahora apréndelo como frase hecha: «Li ho già comprati» = ya los compré. «Già» también se puede decir sola: «Già!» = ¡Exacto!"
+    },
+    {
+      "id": "it-a2-u10-l4",
+      "n": 4,
+      "titulo": "Todavía no: «non ancora»",
+      "objetivo": "Decir qué cosas aún no he hecho.",
+      "intro": "«Non... ancora» = todavía no. Truco: «non» va antes del auxiliar y «ancora» después: «Non ho ancora visto». Es lo contrario de «già».",
+      "palabras": [
+        { "t": "non ancora", "es": "todavía no", "pron": "non ancóra", "ej": "Non ancora, grazie.", "ejes": "Todavía no, gracias.", "cog": false },
+        { "t": "non ho ancora visto", "es": "todavía no vi", "pron": "non o ancóra vísto", "ej": "Non ho ancora visto il Papa.", "ejes": "Todavía no he visto al Papa.", "cog": false },
+        { "t": "non ho ancora fatto", "es": "todavía no hice", "pron": "non o ancóra fátto", "ej": "Non ho ancora fatto la valigia.", "ejes": "Todavía no hice la maleta.", "cog": false },
+        { "t": "non ho ancora mangiato", "es": "todavía no comí", "pron": "non o ancóra mandyáto", "ej": "Non ho ancora mangiato oggi.", "ejes": "Todavía no he comido hoy.", "cog": false },
+        { "t": "non sono ancora stato", "es": "todavía no he estado", "pron": "non sóno ancóra státo", "ej": "Non sono ancora stato in Spagna.", "ejes": "Todavía no he estado en España.", "cog": false },
+        { "t": "la valigia", "es": "la maleta", "pron": "la valídya", "ej": "La valigia è pesante.", "ejes": "La maleta está pesada.", "cog": false },
+        { "t": "il passaporto", "es": "el pasaporte", "pron": "il passapórto", "ej": "Ho il passaporto.", "ejes": "Tengo el pasaporte.", "cog": true },
+        { "t": "ancora", "es": "todavía / aún", "pron": "ancóra", "ej": "Non ho ancora fame.", "ejes": "Todavía no tengo hambre.", "cog": false },
+        { "t": "mai", "es": "nunca / alguna vez", "pron": "mái", "ej": "Non ho mai visto la neve.", "ejes": "Nunca he visto la nieve.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Non ho ancora fatto la valigia.", "es": "Todavía no hice la maleta.", "pron": "non o ancóra fátto la valídya" },
+        { "t": "Non sono ancora stato in Spagna.", "es": "Todavía no he estado en España.", "pron": "non sóno ancóra státo in spáña" },
+        { "t": "Non ho ancora mangiato.", "es": "Todavía no he comido.", "pron": "non o ancóra mandyáto" },
+        { "t": "Non ho mai visto la neve.", "es": "Nunca he visto la nieve.", "pron": "non o mái vísto la néve" },
+        { "t": "Non ho ancora il passaporto.", "es": "Todavía no tengo el pasaporte.", "pron": "non o ancóra il passapórto" }
+      ],
+      "dialogo": {
+        "titulo": "Antes del viaje",
+        "lineas": [
+          { "q": "A", "t": "Hai già fatto la valigia?", "es": "¿Ya hiciste la maleta?" },
+          { "q": "B", "t": "No, non l'ho ancora fatta. Domani.", "es": "No, todavía no la hice. Mañana." },
+          { "q": "A", "t": "E il passaporto?", "es": "¿Y el pasaporte?" },
+          { "q": "B", "t": "Ce l'ho! Non ho mai viaggiato senza passaporto.", "es": "¡Lo tengo! Nunca he viajado sin pasaporte." }
+        ]
+      },
+      "nota": "«L'ho fatta» y «Ce l'ho» son formas con pronombre que verás en la próxima unidad; aquí aprende solo el significado. «Non... mai» = nunca; «non... ancora» = todavía no."
+    },
+    {
+      "id": "it-a2-u10-l5",
+      "n": 5,
+      "titulo": "Repaso: mi vida hasta hoy",
+      "objetivo": "Combinar «sono stato», «già», «non ancora» y «mai» para contar mi vida.",
+      "intro": "Repasa todo: lugares donde has estado, cosas que ya hiciste y cosas pendientes. Truco: «già» va con lo hecho, «non ancora» con lo pendiente, «mai» con lo que nunca ha pasado.",
+      "palabras": [
+        { "t": "una volta", "es": "una vez", "pron": "úna vólta", "ej": "Ho visto il mare una volta.", "ejes": "He visto el mar una vez.", "cog": false },
+        { "t": "molte volte", "es": "muchas veces", "pron": "mólte vólte", "ej": "Sono stato a Lima molte volte.", "ejes": "He estado en Lima muchas veces.", "cog": false },
+        { "t": "mai", "es": "nunca / alguna vez", "pron": "mái", "ej": "Non sono mai stato in Giappone.", "ejes": "Nunca he estado en Japón.", "cog": false },
+        { "t": "già", "es": "ya", "pron": "yá", "ej": "Ho già letto questo libro.", "ejes": "Ya leí este libro.", "cog": false },
+        { "t": "ancora", "es": "todavía", "pron": "ancóra", "ej": "Non ho ancora finito.", "ejes": "Todavía no terminé.", "cog": false },
+        { "t": "il sogno", "es": "el sueño", "pron": "il sóño", "ej": "Il sogno è andare a Roma.", "ejes": "El sueño es ir a Roma.", "cog": false },
+        { "t": "la foto", "es": "la foto", "pron": "la fóto", "ej": "La foto è bella.", "ejes": "La foto es linda.", "cog": true },
+        { "t": "il ricordo", "es": "el recuerdo", "pron": "il ricórdo", "ej": "Il ricordo è bellissimo.", "ejes": "El recuerdo es hermosísimo.", "cog": true },
+        { "t": "indimenticabile", "es": "inolvidable", "pron": "indimenticábile", "ej": "Il viaggio è stato indimenticabile.", "ejes": "El viaje fue inolvidable.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Sono stato a Roma molte volte.", "es": "He estado en Roma muchas veces.", "pron": "sóno státo a róma mólte vólte" },
+        { "t": "Non ho mai visto Parigi.", "es": "Nunca he visto París.", "pron": "non o mái vísto parídyi" },
+        { "t": "Il viaggio è stato indimenticabile.", "es": "El viaje fue inolvidable.", "pron": "il viáddyo è státo indimenticábile" },
+        { "t": "Ho già mangiato la pizza, ma non ho ancora provato il gelato.", "es": "Ya comí pizza, pero todavía no probé el helado.", "pron": "o yá mandyáto la pítsa, ma non o ancóra prováto il yeláto" },
+        { "t": "Il mio sogno è visitare l'Italia.", "es": "Mi sueño es visitar Italia.", "pron": "il mío sóño è visitáre litália" }
+      ],
+      "dialogo": {
+        "titulo": "Conociendo a alguien",
+        "lineas": [
+          { "q": "A", "t": "Sei mai stata in Italia?", "es": "¿Has estado alguna vez en Italia?" },
+          { "q": "B", "t": "Sì, sono stata a Roma e a Firenze.", "es": "Sí, he estado en Roma y en Florencia." },
+          { "q": "A", "t": "Hai già visto il Colosseo?", "es": "¿Ya viste el Coliseo?" },
+          { "q": "B", "t": "Sì, ma non ho ancora visto Venezia. È il mio sogno!", "es": "Sí, pero todavía no he visto Venecia. ¡Es mi sueño!" },
+          { "q": "A", "t": "Un giorno ci vai!", "es": "¡Un día irás!" }
+        ]
+      },
+      "nota": "«Il mio sogno è...» + infinitivo es muy útil para hablar de metas. Con «a» + ciudad y «in» + país: «sono stata in Italia, a Roma»."
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "id": "en-a2-u8",
+  "idioma": "en",
+  "nivel": "A2",
+  "n": 8,
+  "titulo": "Comida y restaurante",
+  "resumen": "Aprenderás a distinguir lo que se cuenta de lo que no, a usar some, any, much, many y a lot of, y a pedir en un restaurante.",
+  "puedo": [
+    "Nombrar alimentos comunes y saber si se cuentan o no.",
+    "Usar some y any en frases y preguntas.",
+    "Usar much, many y a lot of con cantidades.",
+    "Reservar una mesa y pedir en un restaurante.",
+    "Describir la comida y pedir la cuenta."
+  ],
+  "gramatica": {
+    "titulo": "Contables e incontables: some, any, much, many, a lot of",
+    "texto": "Las cosas que se cuentan (contables) tienen plural: one apple, two apples. Las que no se cuentan (incontables) no tienen plural: rice, water, meat.\nSome se usa en frases afirmativas: I have some rice. Any se usa en preguntas y negativas: Do you have any eggs? I don't have any milk.\nMany va con contables (How many eggs?); much va con incontables (How much rice?). A lot of sirve para los dos en frases afirmativas: I eat a lot of fruit. Much se usa casi solo en preguntas y negativas.",
+    "tabla": [
+      ["some rice", "algo de arroz", "sam rais"],
+      ["any eggs?", "¿algunos huevos?", "éni egs"],
+      ["How many apples?", "¿Cuántas manzanas?", "jau méni ápols"],
+      ["How much water?", "¿Cuánta agua?", "jau mach uóter"],
+      ["a lot of fish", "mucho pescado", "a lat of fish"]
+    ],
+    "errores": [
+      "No uses plural con incontables: es some bread, no «some breads»; y a lot of water, no «a lot of waters».",
+      "No digas «I have much friends»: con contables se usa many o a lot of (I have a lot of friends).",
+      "En frases afirmativas evita much: di I eat a lot of rice, no «I eat much rice»."
+    ]
+  },
+  "practica": [
+    "Abre tu refrigerador y di en voz alta 8 cosas que ves, con some o a lot of: There is some milk (5 minutos).",
+    "Escribe una lista de compras de 8 cosas y marca cuáles son contables y cuáles no (7 minutos).",
+    "Lee en voz alta un menú de restaurante en inglés de internet y elige tu pedido: I'll have... (5 minutos).",
+    "Pregúntate en voz alta 5 veces How much...? o How many...? sobre tu cocina (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-a2-u8-l1",
+      "n": 1,
+      "titulo": "Se cuentan o no",
+      "objetivo": "Reconocer alimentos contables e incontables.",
+      "intro": "Truco: si puedes poner un número delante (two apples), es contable. Si no (two rices no suena bien), es incontable: se usa tal cual o con some.",
+      "palabras": [
+        { "t": "rice", "es": "arroz", "pron": "rais", "ej": "I eat rice every day.", "ejes": "Como arroz todos los días.", "cog": false, "truco": "Incontable: nunca lleva -s." },
+        { "t": "chicken", "es": "pollo", "pron": "chíkin", "ej": "I like chicken.", "ejes": "Me gusta el pollo.", "cog": false },
+        { "t": "fish", "es": "pescado", "pron": "fish", "ej": "We eat fish on Friday.", "ejes": "Comemos pescado el viernes.", "cog": false },
+        { "t": "meat", "es": "carne", "pron": "mit", "ej": "My dad doesn't eat meat.", "ejes": "Mi papá no come carne.", "cog": false },
+        { "t": "vegetables", "es": "verduras", "pron": "vécheteibols", "ej": "I like vegetables.", "ejes": "Me gustan las verduras.", "cog": false },
+        { "t": "potato", "es": "papa / patata", "pron": "potéito", "ej": "I want a potato.", "ejes": "Quiero una papa.", "cog": false, "truco": "Plural con -es: potatoes." },
+        { "t": "tomato", "es": "tomate", "pron": "tuméito", "ej": "A tomato is a fruit.", "ejes": "El tomate es una fruta.", "cog": true, "truco": "Plural con -es: tomatoes." },
+        { "t": "onion", "es": "cebolla", "pron": "ánion", "ej": "An onion, please.", "ejes": "Una cebolla, por favor.", "cog": false },
+        { "t": "salt", "es": "sal", "pron": "solt", "ej": "Can I have some salt?", "ejes": "¿Me da un poco de sal?", "cog": false }
+      ],
+      "frases": [
+        { "t": "I like chicken and rice.", "es": "Me gusta el pollo con arroz.", "pron": "ai laik chíkin an rais" },
+        { "t": "We eat fish on Friday.", "es": "Comemos pescado el viernes.", "pron": "ui it fish on fráidei" },
+        { "t": "I don't eat meat.", "es": "No como carne.", "pron": "ai dount it mit" },
+        { "t": "Two potatoes and an onion.", "es": "Dos papas y una cebolla.", "pron": "tu potéitos an an ánion" },
+        { "t": "Vegetables are healthy.", "es": "Las verduras son saludables.", "pron": "vécheteibols ar jélzi" }
+      ],
+      "dialogo": {
+        "titulo": "En el mercado",
+        "lineas": [
+          { "q": "A", "t": "Good morning! What would you like?", "es": "¡Buenos días! ¿Qué quisiera?" },
+          { "q": "B", "t": "Two tomatoes and an onion, please.", "es": "Dos tomates y una cebolla, por favor." },
+          { "q": "A", "t": "Anything else?", "es": "¿Algo más?" },
+          { "q": "B", "t": "Yes, some chicken and rice.", "es": "Sí, algo de pollo y arroz." }
+        ]
+      },
+      "nota": "Chicken es incontable cuando hablas de la carne (I like chicken). Con vegetables se usa el plural porque hablas de varias verduras distintas."
+    },
+    {
+      "id": "en-a2-u8-l2",
+      "n": 2,
+      "titulo": "Some y any",
+      "objetivo": "Usar some en afirmaciones y any en preguntas y negaciones.",
+      "intro": "Some va en frases afirmativas: There is some milk. Any va en preguntas y negaciones: Is there any milk? There isn't any milk. Truco: some = «algo de», any = «algún / nada de» en pregunta o negación.",
+      "palabras": [
+        { "t": "some", "es": "algo de / unos", "pron": "sam", "ej": "I have some bread.", "ejes": "Tengo algo de pan.", "cog": false },
+        { "t": "any", "es": "algún / ningún", "pron": "éni", "ej": "Do you have any eggs?", "ejes": "¿Tienes huevos?", "cog": false },
+        { "t": "fridge", "es": "refrigerador", "pron": "frich", "ej": "There is milk in the fridge.", "ejes": "Hay leche en el refrigerador.", "cog": false, "truco": "fridge suena «frich»." },
+        { "t": "butter", "es": "mantequilla", "pron": "báter", "ej": "I need some butter.", "ejes": "Necesito algo de mantequilla.", "cog": false },
+        { "t": "sugar", "es": "azúcar", "pron": "shúgar", "ej": "Do you want sugar?", "ejes": "¿Quieres azúcar?", "cog": false, "truco": "La «s» de sugar suena «sh»." },
+        { "t": "oil", "es": "aceite", "pron": "óil", "ej": "We need oil.", "ejes": "Necesitamos aceite.", "cog": false },
+        { "t": "lemon", "es": "limón", "pron": "lémon", "ej": "A lemon, please.", "ejes": "Un limón, por favor.", "cog": false },
+        { "t": "bottle", "es": "botella", "pron": "bátol", "ej": "I have a bottle of water.", "ejes": "Tengo una botella de agua.", "cog": false },
+        { "t": "need", "es": "necesitar", "pron": "nid", "ej": "I need some sugar.", "ejes": "Necesito algo de azúcar.", "cog": false }
+      ],
+      "frases": [
+        { "t": "There is some milk in the fridge.", "es": "Hay algo de leche en el refrigerador.", "pron": "dér is sam milk in da frich" },
+        { "t": "Do you have any eggs?", "es": "¿Tienes huevos?", "pron": "du iu jav éni egs" },
+        { "t": "I don't have any sugar.", "es": "No tengo azúcar.", "pron": "ai dount jav éni shúgar" },
+        { "t": "I need some butter.", "es": "Necesito algo de mantequilla.", "pron": "ai nid sam báter" },
+        { "t": "Is there any oil?", "es": "¿Hay aceite?", "pron": "is dér éni óil" }
+      ],
+      "dialogo": {
+        "titulo": "Cocinando en casa",
+        "lineas": [
+          { "q": "A", "t": "Do we have any eggs?", "es": "¿Tenemos huevos?" },
+          { "q": "B", "t": "Yes, there are some in the fridge.", "es": "Sí, hay algunos en el refrigerador." },
+          { "q": "A", "t": "And do we have any butter?", "es": "¿Y tenemos mantequilla?" },
+          { "q": "B", "t": "No, we don't have any. I need to buy some.", "es": "No, no tenemos. Tengo que comprar." }
+        ]
+      },
+      "nota": "En ofrecimientos y pedidos amables también se usa some en pregunta: Would you like some tea? Can I have some water? Ahí se espera un sí."
+    },
+    {
+      "id": "en-a2-u8-l3",
+      "n": 3,
+      "titulo": "Cantidades",
+      "objetivo": "Preguntar y decir cantidades con much, many y a lot of.",
+      "intro": "Para preguntar cantidad: How many + contable (How many eggs?) y How much + incontable (How much milk?). Truco: a lot of es el comodín en frases afirmativas, sirve para todo.",
+      "palabras": [
+        { "t": "much", "es": "mucho (incontable)", "pron": "mach", "ej": "How much milk do you want?", "ejes": "¿Cuánta leche quieres?", "cog": false },
+        { "t": "many", "es": "muchos (contable)", "pron": "méni", "ej": "How many eggs do you want?", "ejes": "¿Cuántos huevos quieres?", "cog": false },
+        { "t": "a lot of", "es": "mucho / muchos", "pron": "a lat of", "ej": "I eat a lot of fruit.", "ejes": "Como mucha fruta.", "cog": false },
+        { "t": "a few", "es": "unos pocos", "pron": "a fiu", "ej": "I want a few grapes.", "ejes": "Quiero unas pocas uvas.", "cog": false, "truco": "a few se usa con contables." },
+        { "t": "a little", "es": "un poco", "pron": "a lítol", "ej": "I want a little sugar.", "ejes": "Quiero un poco de azúcar.", "cog": false, "truco": "a little se usa con incontables." },
+        { "t": "enough", "es": "suficiente", "pron": "inaf", "ej": "We have enough rice.", "ejes": "Tenemos suficiente arroz.", "cog": false },
+        { "t": "too much", "es": "demasiado", "pron": "tu mach", "ej": "That is too much sugar.", "ejes": "Eso es demasiada azúcar.", "cog": false },
+        { "t": "how many", "es": "cuántos", "pron": "jau méni", "ej": "How many people are there?", "ejes": "¿Cuántas personas hay?", "cog": false }
+      ],
+      "frases": [
+        { "t": "How many eggs do you want?", "es": "¿Cuántos huevos quieres?", "pron": "jau méni egs du iu uant" },
+        { "t": "How much rice do we have?", "es": "¿Cuánto arroz tenemos?", "pron": "jau mach rais du ui jav" },
+        { "t": "I eat a lot of fruit.", "es": "Como mucha fruta.", "pron": "ai it a lat of frut" },
+        { "t": "I don't eat many vegetables.", "es": "No como muchas verduras.", "pron": "ai dount it méni vécheteibols" },
+        { "t": "That is too much sugar.", "es": "Eso es demasiada azúcar.", "pron": "dat is tu mach shúgar" },
+        { "t": "We have enough rice.", "es": "Tenemos suficiente arroz.", "pron": "ui jav inaf rais" }
+      ],
+      "dialogo": {
+        "titulo": "Preparando una cena",
+        "lineas": [
+          { "q": "A", "t": "How many people are coming?", "es": "¿Cuántas personas vienen?" },
+          { "q": "B", "t": "Eight people.", "es": "Ocho personas." },
+          { "q": "A", "t": "Do we have enough rice?", "es": "¿Tenemos suficiente arroz?" },
+          { "q": "B", "t": "Yes, we have a lot of rice.", "es": "Sí, tenemos mucho arroz." },
+          { "q": "A", "t": "And how much chicken?", "es": "¿Y cuánto pollo?" }
+        ]
+      },
+      "nota": "Much casi no se usa en frases afirmativas: es raro decir I have much money. Se dice I have a lot of money. Sí es normal en preguntas y negaciones: I don't have much time."
+    },
+    {
+      "id": "en-a2-u8-l4",
+      "n": 4,
+      "titulo": "En el restaurante",
+      "objetivo": "Reservar, pedir y entender al mesero en un restaurante.",
+      "intro": "En un restaurante, el mesero pregunta What can I get you? y tú respondes I'll have... (voy a tomar...). Truco: I'll es la forma corta de I will, muy común al pedir comida.",
+      "palabras": [
+        { "t": "waiter", "es": "mesero", "pron": "uéiter", "ej": "The waiter is nice.", "ejes": "El mesero es amable.", "cog": false },
+        { "t": "table", "es": "mesa", "pron": "téibol", "ej": "A table for two, please.", "ejes": "Una mesa para dos, por favor.", "cog": true },
+        { "t": "reservation", "es": "reserva", "pron": "rezervéishon", "ej": "I have a reservation.", "ejes": "Tengo una reserva.", "cog": true },
+        { "t": "starter", "es": "entrada", "pron": "stárter", "ej": "I'll have soup as a starter.", "ejes": "De entrada tomaré sopa.", "cog": false },
+        { "t": "main course", "es": "plato principal", "pron": "mein cors", "ej": "The main course is chicken.", "ejes": "El plato principal es pollo.", "cog": false },
+        { "t": "dessert", "es": "postre", "pron": "dizért", "ej": "Do you want a dessert?", "ejes": "¿Quieres un postre?", "cog": false, "truco": "dessert (postre) lleva doble s; desert es desierto." },
+        { "t": "order", "es": "pedir / pedido", "pron": "órder", "ej": "Are you ready to order?", "ejes": "¿Está listo para pedir?", "cog": false },
+        { "t": "ready", "es": "listo", "pron": "rédi", "ej": "I'm ready.", "ejes": "Estoy listo.", "cog": false },
+        { "t": "I'll have", "es": "voy a tomar", "pron": "ail jav", "ej": "I'll have the fish, please.", "ejes": "Voy a pedir el pescado, por favor.", "cog": false }
+      ],
+      "frases": [
+        { "t": "A table for two, please.", "es": "Una mesa para dos, por favor.", "pron": "a téibol for tu, plis" },
+        { "t": "I have a reservation.", "es": "Tengo una reserva.", "pron": "ai jav a rezervéishon" },
+        { "t": "Are you ready to order?", "es": "¿Está listo para pedir?", "pron": "ar iu rédi tu órder" },
+        { "t": "I'll have the chicken, please.", "es": "Voy a pedir el pollo, por favor.", "pron": "ail jav da chíkin, plis" },
+        { "t": "What would you like for dessert?", "es": "¿Qué quisiera de postre?", "pron": "juat uud iu laik for dizért" }
+      ],
+      "dialogo": {
+        "titulo": "Una cena en el restaurante",
+        "lineas": [
+          { "q": "A", "t": "Good evening. Do you have a reservation?", "es": "Buenas noches. ¿Tienen una reserva?" },
+          { "q": "B", "t": "Yes, a table for two.", "es": "Sí, una mesa para dos." },
+          { "q": "A", "t": "Are you ready to order?", "es": "¿Están listos para pedir?" },
+          { "q": "B", "t": "I'll have the fish and some vegetables.", "es": "Voy a pedir el pescado y algunas verduras." },
+          { "q": "A", "t": "And to drink?", "es": "¿Y para beber?" },
+          { "q": "B", "t": "Water, please.", "es": "Agua, por favor." }
+        ]
+      },
+      "nota": "En EE. UU. appetizer es más común que starter para la entrada, y entree significa el plato principal. Si ves entree en la carta, es el plato fuerte, no la entrada."
+    },
+    {
+      "id": "en-a2-u8-l5",
+      "n": 5,
+      "titulo": "Repaso: ¡buen provecho!",
+      "objetivo": "Describir comida, hablar del hambre y pedir la cuenta.",
+      "intro": "Repasamos con adjetivos de comida, hambre y sed, y el final de la comida. Truco: en inglés se «tiene hambre» con to be: I'm hungry (soy/estoy hambriento), no «I have hunger».",
+      "palabras": [
+        { "t": "delicious", "es": "delicioso", "pron": "delíshos", "ej": "The soup is delicious.", "ejes": "La sopa está deliciosa.", "cog": false },
+        { "t": "spicy", "es": "picante", "pron": "spáisi", "ej": "This chicken is spicy.", "ejes": "Este pollo es picante.", "cog": false },
+        { "t": "fresh", "es": "fresco", "pron": "fresh", "ej": "The fish is fresh.", "ejes": "El pescado está fresco.", "cog": false },
+        { "t": "hungry", "es": "con hambre", "pron": "jángri", "ej": "I'm very hungry.", "ejes": "Tengo mucha hambre.", "cog": false },
+        { "t": "thirsty", "es": "con sed", "pron": "zérsti", "ej": "I'm thirsty.", "ejes": "Tengo sed.", "cog": false },
+        { "t": "full", "es": "lleno", "pron": "ful", "ej": "I'm full, thank you.", "ejes": "Estoy lleno, gracias.", "cog": false },
+        { "t": "tip", "es": "propina", "pron": "tip", "ej": "Leave a tip for the waiter.", "ejes": "Deja propina al mesero.", "cog": false },
+        { "t": "check", "es": "la cuenta (EE. UU.)", "pron": "chek", "ej": "The check, please.", "ejes": "La cuenta, por favor.", "cog": false },
+        { "t": "enjoy", "es": "disfrutar", "pron": "enyói", "ej": "Enjoy your meal!", "ejes": "¡Buen provecho!", "cog": false }
+      ],
+      "frases": [
+        { "t": "The soup is delicious.", "es": "La sopa está deliciosa.", "pron": "da sup is delíshos" },
+        { "t": "I'm hungry and thirsty.", "es": "Tengo hambre y sed.", "pron": "aim jángri an zérsti" },
+        { "t": "Is it spicy?", "es": "¿Es picante?", "pron": "is it spáisi" },
+        { "t": "I'm full, thank you.", "es": "Estoy lleno, gracias.", "pron": "aim ful, zank iu" },
+        { "t": "The check, please.", "es": "La cuenta, por favor.", "pron": "da chek, plis" },
+        { "t": "Enjoy your meal!", "es": "¡Buen provecho!", "pron": "enyói iur mil" }
+      ],
+      "dialogo": {
+        "titulo": "Al final de la cena",
+        "lineas": [
+          { "q": "A", "t": "How is the fish?", "es": "¿Cómo está el pescado?" },
+          { "q": "B", "t": "It's delicious and very fresh.", "es": "Está delicioso y muy fresco." },
+          { "q": "A", "t": "Do you want any dessert?", "es": "¿Quieres postre?" },
+          { "q": "B", "t": "No, thanks. I'm full. The check, please.", "es": "No, gracias. Estoy lleno. La cuenta, por favor." },
+          { "q": "A", "t": "Let's leave a tip for the waiter.", "es": "Dejemos propina al mesero." }
+        ]
+      },
+      "nota": "En EE. UU. la propina (tip) es casi obligatoria: entre el 15 % y el 20 % de la cuenta. En muchos países de Latinoamérica ya viene incluida, así que no te sorprendas."
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "id": "pt-a2-u8",
+  "idioma": "pt",
+  "nivel": "A2",
+  "n": 8,
+  "titulo": "Comida y restaurante",
+  "resumen": "Aprenderás a reservar y pedir en un restaurante, a hablar de cantidades con «muito», «pouco», «algum» y «nenhum», y a pedir la cuenta.",
+  "puedo": [
+    "Reservar una mesa y entender la carta.",
+    "Pedir platos típicos y preguntar qué lleva un plato.",
+    "Hablar de cantidades con muito, pouco, mais y menos.",
+    "Usar algum y nenhum en preguntas y respuestas.",
+    "Pedir la cuenta, dividirla y dejar propina."
+  ],
+  "gramatica": {
+    "titulo": "Cantidades: muito, pouco, algum y nenhum",
+    "texto": "Para hablar de cantidad ante un sustantivo, estas palabras concuerdan en género y número: muito/muita/muitos/muitas (mucho), pouco/pouca/poucos/poucas (poco). Ejemplo: muito arroz, muita carne, poucos legumes.\n«Algum/alguma» significa «algún/alguna» y se usa en preguntas: Tem algum prato vegetariano? «Nenhum/nenhuma» significa «ningún/ninguna»: Não tem nenhum problema.\nOjo: en portugués se dice «Não tem nenhum prato» (con «não» delante), igual que «no hay ningún plato».",
+    "tabla": [
+      ["muito arroz / muita carne", "mucho arroz / mucha carne", "múintu arrós / múita kárni"],
+      ["pouco sal / pouca água", "poca sal / poca agua", "póuku sáu / pouka água"],
+      ["muitos legumes / muitas frutas", "muchas verduras / muchas frutas", "múintus legúmis / múitas frútas"],
+      ["Tem algum prato vegetariano?", "¿Hay algún plato vegetariano?", "téin algún prátu vejetarianu"],
+      ["Não tem nenhuma mesa.", "No hay ninguna mesa.", "náun téin neñúma mésa"],
+      ["Eu como um pouco de arroz.", "Como un poco de arroz.", "éu kómu ún póuku dyi arrós"]
+    ],
+    "errores": [
+      "«Muito» antes de un sustantivo cambia con él: «muita carne» y «muitos legumes», no «muito carne».",
+      "Con «nenhum» se necesita «não»: «Não tem nenhum prato», no «Tem nenhum prato».",
+      "«Un poco de» se dice «um pouco de», no «um pouco» solo ante un sustantivo: «um pouco de arroz», no «um pouco arroz»."
+    ]
+  },
+  "practica": [
+    "Escribe una carta de restaurante imaginaria con 8 platos y di en voz alta cada uno con «Eu quero...» (6 minutos).",
+    "Mira una receta brasileña y di cuánto lleva de cada cosa: «muito arroz, pouco sal» (5 minutos).",
+    "Simula un restaurante: pide una mesa para dos, pide un plato y la cuenta, todo en voz alta (5 minutos).",
+    "Busca en YouTube «pedindo comida em restaurante em português» y repite las frases del mozo (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-a2-u8-l1",
+      "n": 1,
+      "titulo": "En el restaurante",
+      "objetivo": "Reservar una mesa y entender las partes de una comida.",
+      "intro": "En Brasil la comida tiene tres momentos: entrada, prato principal y sobremesa (postre). Truco: «cardápio» es la carta o menú, y «garçom» el mozo que ya viste.",
+      "palabras": [
+        { "t": "restaurante", "es": "restaurante", "pron": "rrestauránchi", "ej": "O restaurante é bonito.", "ejes": "El restaurante es bonito.", "cog": true },
+        { "t": "cardápio", "es": "carta / menú", "pron": "kardápyiu", "ej": "Posso ver o cardápio?", "ejes": "¿Puedo ver el menú?", "cog": false },
+        { "t": "mesa", "es": "mesa", "pron": "méza", "ej": "Uma mesa para dois.", "ejes": "Una mesa para dos.", "cog": true },
+        { "t": "reserva", "es": "reserva", "pron": "rrezérva", "ej": "Eu tenho uma reserva.", "ejes": "Tengo una reserva.", "cog": true },
+        { "t": "entrada", "es": "entrada (primer plato)", "pron": "entráda", "ej": "De entrada, uma sopa.", "ejes": "De entrada, una sopa.", "cog": true },
+        { "t": "prato principal", "es": "plato principal", "pron": "prátu prinsipáu", "ej": "O prato principal é frango.", "ejes": "El plato principal es pollo.", "cog": false },
+        { "t": "sobremesa", "es": "postre", "pron": "sobremésa", "ej": "A sobremesa é pudim.", "ejes": "El postre es pudín.", "cog": false, "truco": "No es «sobremesa» de charla: aquí es el postre." },
+        { "t": "bebida", "es": "bebida", "pron": "bebída", "ej": "Qual bebida você quer?", "ejes": "¿Qué bebida quieres?", "cog": false },
+        { "t": "reservar", "es": "reservar", "pron": "rrezervár", "ej": "Eu quero reservar uma mesa.", "ejes": "Quiero reservar una mesa.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu queria reservar uma mesa.", "es": "Quisiera reservar una mesa.", "pron": "éu kería rrezervár úma méza" },
+        { "t": "Uma mesa para dois, por favor.", "es": "Una mesa para dos, por favor.", "pron": "úma méza pára dois, por favór" },
+        { "t": "Posso ver o cardápio?", "es": "¿Puedo ver el menú?", "pron": "pósu vér u kardápyiu" },
+        { "t": "Eu tenho uma reserva no nome de Carlos.", "es": "Tengo una reserva a nombre de Carlos.", "pron": "éu téñu úma rrezérva nu nómi dyi kárlus" },
+        { "t": "O que vocês têm de sobremesa?", "es": "¿Qué tienen de postre?", "pron": "u ke vosés téin dyi sobremésa" }
+      ],
+      "dialogo": {
+        "titulo": "Na entrada do restaurante",
+        "lineas": [
+          { "q": "A", "t": "Boa noite! Vocês têm uma reserva?", "es": "¡Buenas noches! ¿Tienen una reserva?" },
+          { "q": "B", "t": "Sim, uma mesa para dois, no nome de Ana.", "es": "Sí, una mesa para dos, a nombre de Ana." },
+          { "q": "A", "t": "Por aqui, por favor. Aqui está o cardápio.", "es": "Por aquí, por favor. Aquí está el menú." },
+          { "q": "B", "t": "Obrigada! O prato principal é bom?", "es": "¡Gracias! ¿El plato principal es bueno?" },
+          { "q": "A", "t": "Sim, e a sobremesa também!", "es": "¡Sí, y el postre también!" }
+        ]
+      },
+      "nota": "En Brasil el cardápio llega con el mozo. Muchos restaurantes cobran el «couvert» (entradita de pan o queso) aparte: si no lo quieres, dilo al inicio. «Vocês» es el plural de «você»."
+    },
+    {
+      "id": "pt-a2-u8-l2",
+      "n": 2,
+      "titulo": "Platos típicos",
+      "objetivo": "Nombrar platos y ingredientes comunes y pedirlos.",
+      "intro": "La comida diaria brasileña es arroz con feijão (frejoles), una carne y una guarnición. Truco: «feijão» es nasal, suena «feiyáun»; el plural es «feijões».",
+      "palabras": [
+        { "t": "arroz", "es": "arroz", "pron": "arrós", "ej": "Eu quero arroz e feijão.", "ejes": "Quiero arroz y frijoles.", "cog": true },
+        { "t": "feijão", "es": "frijoles", "pron": "feiyáun", "ej": "O feijão é preto.", "ejes": "Los frijoles son negros.", "cog": false, "truco": "Plural: feijões (feiyóins)." },
+        { "t": "carne", "es": "carne", "pron": "kárni", "ej": "Eu gosto de carne.", "ejes": "Me gusta la carne.", "cog": true },
+        { "t": "frango", "es": "pollo", "pron": "fránggu", "ej": "O frango está delicioso.", "ejes": "El pollo está delicioso.", "cog": false },
+        { "t": "peixe", "es": "pescado", "pron": "péishi", "ej": "Eu como peixe às sextas.", "ejes": "Como pescado los viernes.", "cog": false, "truco": "«x» suena «sh»: péishi." },
+        { "t": "batata", "es": "papa", "pron": "batáta", "ej": "Eu quero batata frita.", "ejes": "Quiero papas fritas.", "cog": false, "truco": "La papa es «batata»; la palabra «papa» es otra cosa." },
+        { "t": "legumes", "es": "verduras", "pron": "legúmis", "ej": "Eu como muitos legumes.", "ejes": "Como muchas verduras.", "cog": true },
+        { "t": "molho", "es": "salsa", "pron": "mólyu", "ej": "O molho é de tomate.", "ejes": "La salsa es de tomate.", "cog": false },
+        { "t": "churrasco", "es": "parrillada / asado", "pron": "churrásko", "ej": "Hoje tem churrasco.", "ejes": "Hoy hay parrillada.", "cog": false },
+        { "t": "feijoada", "es": "feijoada (guiso de frijoles y carnes)", "pron": "feiyoáda", "ej": "A feijoada é um prato típico.", "ejes": "La feijoada es un plato típico.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Eu quero arroz, feijão e frango.", "es": "Quiero arroz, frijoles y pollo.", "pron": "éu kéru arrós, feiyáun i fránggu" },
+        { "t": "O que tem no prato do dia?", "es": "¿Qué hay en el plato del día?", "pron": "u ke téin nu prátu du día" },
+        { "t": "Eu queria o peixe com legumes.", "es": "Quisiera el pescado con verduras.", "pron": "éu kería u péishi kon legúmis" },
+        { "t": "A feijoada é muito famosa no Brasil.", "es": "La feijoada es muy famosa en Brasil.", "pron": "a feiyoáda é múintu famóza nu brasíu" },
+        { "t": "Eu gosto de batata frita com molho.", "es": "Me gustan las papas fritas con salsa.", "pron": "éu góstu dyi batáta frita kon mólyu" }
+      ],
+      "dialogo": {
+        "titulo": "Pedimos o prato do dia",
+        "lineas": [
+          { "q": "A", "t": "O que você vai pedir?", "es": "¿Qué vas a pedir?" },
+          { "q": "B", "t": "Eu quero o frango com arroz e feijão.", "es": "Quiero el pollo con arroz y frijoles." },
+          { "q": "A", "t": "Eu prefiro o peixe com legumes.", "es": "Yo prefiero el pescado con verduras." },
+          { "q": "B", "t": "E de sobremesa? A feijoada não, né?", "es": "¿Y de postre? La feijoada no, ¿verdad?" },
+          { "q": "A", "t": "Não, eu quero um doce!", "es": "¡No, yo quiero un dulce!" }
+        ]
+      },
+      "nota": "Falso amigo: «papa» no es la papa (se dice batata) sino una papilla. «Prato do dia» es el menú del día, muy común en el almuerzo. La feijoada se come sobre todo los sábados."
+    },
+    {
+      "id": "pt-a2-u8-l3",
+      "n": 3,
+      "titulo": "Cantidades",
+      "objetivo": "Hablar de cantidades con muito, pouco, mais, menos, algum y nenhum.",
+      "intro": "Con «muito» y «pouco» describes cantidades. Truco: delante de un sustantivo concuerdan con él: «muita água», «poucos legumes». Para preguntar, «algum/alguma», y para negar, «nenhum/nenhuma».",
+      "palabras": [
+        { "t": "muito", "es": "mucho / muy", "pron": "múintu", "ej": "Tem muito arroz no prato.", "ejes": "Hay mucho arroz en el plato.", "cog": false },
+        { "t": "pouco", "es": "poco", "pron": "póuku", "ej": "Eu bebo pouco café.", "ejes": "Tomo poco café.", "cog": false },
+        { "t": "mais", "es": "más", "pron": "máis", "ej": "Eu quero mais água.", "ejes": "Quiero más agua.", "cog": true },
+        { "t": "menos", "es": "menos", "pron": "ménus", "ej": "Eu como menos sal agora.", "ejes": "Como menos sal ahora.", "cog": true },
+        { "t": "bastante", "es": "bastante", "pron": "bastánchi", "ej": "Tem bastante comida.", "ejes": "Hay bastante comida.", "cog": true },
+        { "t": "algum", "es": "algún", "pron": "algún", "ej": "Tem algum doce hoje?", "ejes": "¿Hay algún dulce hoy?", "cog": true, "truco": "Femenino: alguma. Plural: alguns, algumas." },
+        { "t": "nenhum", "es": "ningún", "pron": "neñún", "ej": "Não tem nenhum problema.", "ejes": "No hay ningún problema.", "cog": false, "truco": "Femenino: nenhuma. «nh» suena «ñ»." },
+        { "t": "nenhuma", "es": "ninguna", "pron": "neñúma", "ej": "Não tem nenhuma mesa livre.", "ejes": "No hay ninguna mesa libre.", "cog": false },
+        { "t": "demais", "es": "demasiado", "pron": "demáis", "ej": "É sal demais.", "ejes": "Es demasiada sal.", "cog": false, "truco": "Va después: «caro demais», «sal demais»." },
+        { "t": "um pouco de", "es": "un poco de", "pron": "ún póuku dyi", "ej": "Eu quero um pouco de arroz.", "ejes": "Quiero un poco de arroz.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Tem algum prato vegetariano?", "es": "¿Hay algún plato vegetariano?", "pron": "téin algún prátu vejetarianu" },
+        { "t": "Não tem nenhuma mesa livre.", "es": "No hay ninguna mesa libre.", "pron": "náun téin neñúma méza lívri" },
+        { "t": "Eu quero um pouco de arroz.", "es": "Quiero un poco de arroz.", "pron": "éu kéru ún póuku dyi arrós" },
+        { "t": "A carne tem muito sal.", "es": "La carne tiene mucha sal.", "pron": "a kárni téin múintu sáu" },
+        { "t": "Eu bebo pouco café e muita água.", "es": "Tomo poco café y mucha agua.", "pron": "éu bébu póuku kafé i múita água" },
+        { "t": "Pode trazer mais pão, por favor?", "es": "¿Puede traer más pan, por favor?", "pron": "pódi trazér máis páun, por favór" }
+      ],
+      "dialogo": {
+        "titulo": "Quanto você come?",
+        "lineas": [
+          { "q": "A", "t": "Você quer mais arroz?", "es": "¿Quieres más arroz?" },
+          { "q": "B", "t": "Não, obrigado. Eu quero um pouco de salada.", "es": "No, gracias. Quiero un poco de ensalada." },
+          { "q": "A", "t": "Tem algum doce na casa?", "es": "¿Hay algún dulce en la casa?" },
+          { "q": "B", "t": "Não, não tem nenhum doce.", "es": "No, no hay ningún dulce." },
+          { "q": "A", "t": "Então eu como pouco hoje!", "es": "¡Entonces hoy como poco!" }
+        ]
+      },
+      "nota": "«Demais» va detrás: «caro demais» = demasiado caro. Y atención: «pouco» es una cantidad pequeña pero no «nada»; para decir «nada» se usa «nada». «Muito» como adverbio (muito bom) no cambia, pero como cantidad concuerda."
+    },
+    {
+      "id": "pt-a2-u8-l4",
+      "n": 4,
+      "titulo": "Gustos y pedidos especiales",
+      "objetivo": "Pedir un plato con cambios y describir su sabor.",
+      "intro": "A veces quieres un plato sin algo o con algo extra. Truco: «sem» = sin y «com» = con. Para el sabor: doce (dulce), salgado (salado), picante.",
+      "palabras": [
+        { "t": "sem", "es": "sin", "pron": "séin", "ej": "Eu quero o prato sem carne.", "ejes": "Quiero el plato sin carne.", "cog": false },
+        { "t": "com", "es": "con", "pron": "kon", "ej": "Eu quero arroz com feijão.", "ejes": "Quiero arroz con frijoles.", "cog": false },
+        { "t": "salgado", "es": "salado", "pron": "salgádu", "ej": "O molho está salgado.", "ejes": "La salsa está salada.", "cog": false },
+        { "t": "picante", "es": "picante", "pron": "pikánchi", "ej": "O molho é muito picante.", "ejes": "La salsa es muy picante.", "cog": true },
+        { "t": "doce", "es": "dulce", "pron": "dósi", "ej": "A sobremesa é bem doce.", "ejes": "El postre es bien dulce.", "cog": true },
+        { "t": "gostoso", "es": "sabroso / rico", "pron": "gostózu", "ej": "O frango está gostoso.", "ejes": "El pollo está rico.", "cog": false, "truco": "No es «gustoso»: es «sabroso». Se usa mucho." },
+        { "t": "vegetariano", "es": "vegetariano", "pron": "vejetarianu", "ej": "Eu sou vegetariano.", "ejes": "Soy vegetariano.", "cog": true },
+        { "t": "alergia", "es": "alergia", "pron": "alerjía", "ej": "Eu tenho alergia a camarão.", "ejes": "Tengo alergia al camarón.", "cog": true },
+        { "t": "ponto", "es": "término de cocción", "pron": "póntu", "ej": "A carne ao ponto, por favor.", "ejes": "La carne a punto, por favor.", "cog": false },
+        { "t": "camarão", "es": "camarón / langostino", "pron": "kamaráun", "ej": "Eu não como camarão.", "ejes": "No como camarón.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Eu quero o prato sem carne.", "es": "Quiero el plato sin carne.", "pron": "éu kéru u prátu séin kárni" },
+        { "t": "O molho é muito picante?", "es": "¿La salsa es muy picante?", "pron": "u mólyu é múintu pikánchi" },
+        { "t": "Eu tenho alergia a camarão.", "es": "Tengo alergia al camarón.", "pron": "éu téñu alerjía a kamaráun" },
+        { "t": "Eu sou vegetariano, não como carne.", "es": "Soy vegetariano, no como carne.", "pron": "éu sou vejetarianu, náun kómu kárni" },
+        { "t": "A carne ao ponto, por favor.", "es": "La carne a punto, por favor.", "pron": "a kárni au póntu, por favór" },
+        { "t": "Esse prato está muito gostoso!", "es": "¡Este plato está muy rico!", "pron": "ési prátu está múintu gostózu" }
+      ],
+      "dialogo": {
+        "titulo": "Um pedido especial",
+        "lineas": [
+          { "q": "A", "t": "Eu sou vegetariana. Tem algum prato sem carne?", "es": "Soy vegetariana. ¿Hay algún plato sin carne?" },
+          { "q": "B", "t": "Sim, a salada com legumes é muito gostosa.", "es": "Sí, la ensalada con verduras es muy rica." },
+          { "q": "A", "t": "O molho é picante?", "es": "¿La salsa es picante?" },
+          { "q": "B", "t": "Um pouco. Eu posso pedir sem molho.", "es": "Un poco. Puedo pedirla sin salsa." },
+          { "q": "A", "t": "Sem molho, por favor. Eu tenho alergia a camarão também.", "es": "Sin salsa, por favor. También tengo alergia al camarón." }
+        ]
+      },
+      "nota": "Para decir que no puedes comer algo por alergia, usa «Tenho alergia a...». «Picante» en Brasil casi siempre habla de pimienta: la comida brasileña suele ser poco picante. «Pimenta» es el ají o chile."
+    },
+    {
+      "id": "pt-a2-u8-l5",
+      "n": 5,
+      "titulo": "La cuenta y repaso",
+      "objetivo": "Pedir la cuenta, dividirla, dejar propina y repasar el tema.",
+      "intro": "Al final pides «A conta, por favor». En Brasil se suele añadir el 10% de servicio, que ya viene en la cuenta. Truco: «gorjeta» es la propina.",
+      "palabras": [
+        { "t": "conta", "es": "cuenta", "pron": "kónta", "ej": "A conta, por favor.", "ejes": "La cuenta, por favor.", "cog": true },
+        { "t": "gorjeta", "es": "propina", "pron": "gorjéta", "ej": "A gorjeta já está incluída.", "ejes": "La propina ya está incluida.", "cog": false },
+        { "t": "serviço", "es": "servicio (10%)", "pron": "servísu", "ej": "O serviço é dez por cento.", "ejes": "El servicio es diez por ciento.", "cog": true },
+        { "t": "dividir", "es": "dividir / repartir", "pron": "dyividyír", "ej": "Vamos dividir a conta.", "ejes": "Vamos a dividir la cuenta.", "cog": true },
+        { "t": "troco", "es": "vuelto / cambio", "pron": "tróko", "ej": "Pode ficar com o troco.", "ejes": "Puede quedarse con el vuelto.", "cog": false },
+        { "t": "incluído", "es": "incluido", "pron": "inkluídu", "ej": "O serviço está incluído.", "ejes": "El servicio está incluido.", "cog": true },
+        { "t": "separado", "es": "por separado", "pron": "separádu", "ej": "Pode ser separado?", "ejes": "¿Puede ser por separado?", "cog": true },
+        { "t": "nota fiscal", "es": "boleta / comprobante", "pron": "nóta fiscáu", "ej": "Eu quero a nota fiscal.", "ejes": "Quiero la boleta.", "cog": false },
+        { "t": "caro", "es": "caro", "pron": "káru", "ej": "Esse restaurante é caro.", "ejes": "Este restaurante es caro.", "cog": true },
+        { "t": "delicioso", "es": "delicioso", "pron": "delisiózu", "ej": "O jantar foi delicioso.", "ejes": "La cena estuvo deliciosa.", "cog": true }
+      ],
+      "frases": [
+        { "t": "A conta, por favor.", "es": "La cuenta, por favor.", "pron": "a kónta, por favór" },
+        { "t": "O serviço já está incluído?", "es": "¿El servicio ya está incluido?", "pron": "u servísu ja está inkluídu" },
+        { "t": "Vamos dividir a conta?", "es": "¿Dividimos la cuenta?", "pron": "vámus dyividyír a kónta" },
+        { "t": "Pode ser separado?", "es": "¿Puede ser por separado?", "pron": "pódi sér separádu" },
+        { "t": "Pode ficar com o troco.", "es": "Puede quedarse con el vuelto.", "pron": "pódi fikár kon u tróko" },
+        { "t": "O jantar foi delicioso, obrigado!", "es": "¡La cena estuvo deliciosa, gracias!", "pron": "u janchár fói delisiózu, obrigádu" }
+      ],
+      "dialogo": {
+        "titulo": "Pedimos a conta",
+        "lineas": [
+          { "q": "A", "t": "Garçom, a conta, por favor.", "es": "Mozo, la cuenta, por favor." },
+          { "q": "B", "t": "Aqui está. O serviço já está incluído.", "es": "Aquí tiene. El servicio ya está incluido." },
+          { "q": "A", "t": "Vamos dividir a conta, Lucas?", "es": "¿Dividimos la cuenta, Lucas?" },
+          { "q": "B", "t": "Pode ser. Eu pago com cartão.", "es": "Puede ser. Yo pago con tarjeta." },
+          { "q": "A", "t": "O jantar foi delicioso!", "es": "¡La cena estuvo deliciosa!" },
+          { "q": "B", "t": "Sim, mas foi um pouco caro.", "es": "Sí, pero fue un poco caro." }
+        ]
+      },
+      "nota": "En Brasil la propina es del 10% y suele ir ya en la cuenta como «serviço». Si no te la cobran, puedes dejar esa cantidad. En la cuenta basta con entender «serviço incluído»."
+    }
+  ]
+}

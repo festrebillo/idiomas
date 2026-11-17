@@ -1,0 +1,221 @@
+{
+  "id": "it-a2-u5",
+  "idioma": "it",
+  "nivel": "A2",
+  "n": 5,
+  "titulo": "Los mejores y los peores",
+  "resumen": "Aprenderás a decir el más, la más y lo mejor con il più...di y a intensificar con -issimo, ottimo y pessimo.",
+  "puedo": [
+    "Decir el más alto, el más caro o el más bonito con il più + adjetivo.",
+    "Concordar con el género y el número: la più bella, i più grandi.",
+    "Usar el superlativo absoluto en -issimo: bellissimo, buonissimo.",
+    "Usar ottimo, pessimo, il migliore y il peggiore.",
+    "Dar mi opinión y mi favorito con secondo me y il mio preferito."
+  ],
+  "gramatica": {
+    "titulo": "Los superlativos: il più...di y -issimo",
+    "texto": "Para decir «el más...» pon el artículo antes de «più»: Marco è il più alto della classe (el más alto de la clase). El artículo concuerda: il più alto, la più alta, i più alti, le più alte. Después se usa «di» (di + il = del, di + la = della).\nSi nombras la cosa, el artículo va delante del nombre y no se repite: È la città più grande del Perù.\nPara «muy, muy...» se añade -issimo al adjetivo (sin su vocal final): bello - bellissimo (muy bonito), buono - buonissimo, caro - carissimo. Se acentúa en la «i»: bellíssimo. Concuerda: bellissima, bellissimi, bellissime.\nNo se usa «molto» con -issimo.",
+    "tabla": [
+      ["il più alto di", "el más alto de", "il piú álto di"],
+      ["la più alta di", "la más alta de", "la piú álta di"],
+      ["i più alti / le più alte", "los más altos / las más altas", "i piú álti / le piú álte"],
+      ["bello - bellissimo", "bonito - bonitísimo", "bélo - belíssimo"],
+      ["buono - buonissimo", "bueno - buenísimo", "buóno - buoníssimo"],
+      ["buono - ottimo", "bueno - excelente", "buóno - óttimo"]
+    ],
+    "errores": [
+      "No pongas «più» sin artículo cuando quieres el superlativo: «Marco è più alto della classe» es comparativo; «Marco è il più alto della classe» es el más alto. El artículo marca la diferencia.",
+      "No digas «molto bellissimo» ni «più bellissimo»: -issimo ya significa «muy». Y no olvides la concordancia: «la più alta», no «la più alto».",
+      "Los adjetivos en -co o -go mantienen el sonido duro con «h»: stanco - stanchissimo, lungo - lunghissimo (no «stancissimo»)."
+    ]
+  },
+  "practica": [
+    "Escribe 6 frases con «il più / la più / i più / le più» sobre tu familia, tu barrio y tu ciudad (5 minutos).",
+    "Di en voz alta cinco cosas «bellissimo / buonissimo / carissimo» sobre lo que viste o probaste esta semana (4 minutos).",
+    "Haz una lista de tus favoritos (plato, película, lugar) con «Il mio preferito è... / secondo me è il migliore» y léela en voz alta (5 minutos).",
+    "Graba un mensaje de 30 segundos dando tu opinión sobre el mejor y el peor lugar donde comiste, con ottimo y pessimo (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-a2-u5-l1",
+      "n": 1,
+      "titulo": "El más alto, el más caro",
+      "objetivo": "Decir «el más...» con il più + adjetivo en masculino.",
+      "intro": "Para decir «el más alto» agrega el artículo antes de più: il più alto. Es casi como en español: el + más + adjetivo. Truco: el artículo marca la diferencia con el comparativo (più alto = más alto; il più alto = el más alto).",
+      "palabras": [
+        { "t": "il più alto", "es": "el más alto", "pron": "il piú álto", "ej": "Luca è il più alto della famiglia.", "ejes": "Luca es el más alto de la familia.", "cog": false },
+        { "t": "il più grande", "es": "el más grande", "pron": "il piú gránde", "ej": "Questo panino è il più grande.", "ejes": "Este sándwich es el más grande.", "cog": false },
+        { "t": "il più piccolo", "es": "el más pequeño", "pron": "il piú píccolo", "ej": "Marco è il più piccolo dei fratelli.", "ejes": "Marco es el más pequeño de los hermanos.", "cog": false },
+        { "t": "il più veloce", "es": "el más rápido", "pron": "il piú velóche", "ej": "Il treno è il più veloce.", "ejes": "El tren es el más rápido.", "cog": false },
+        { "t": "il più caro", "es": "el más caro", "pron": "il piú cáro", "ej": "Il vino è il più caro del menù.", "ejes": "El vino es el más caro del menú.", "cog": false },
+        { "t": "il più economico", "es": "el más barato", "pron": "il piú economíco", "ej": "Il tè è il più economico.", "ejes": "El té es el más barato.", "cog": false },
+        { "t": "il più bello", "es": "el más bonito", "pron": "il piú bélo", "ej": "Il mare è il più bello.", "ejes": "El mar es el más bonito.", "cog": false },
+        { "t": "il più vecchio", "es": "el más viejo / el mayor", "pron": "il piú véquio", "ej": "Luca è il più vecchio della classe.", "ejes": "Luca es el mayor de la clase.", "cog": false },
+        { "t": "il più giovane", "es": "el más joven", "pron": "il piú yóvane", "ej": "Marco è il più giovane del gruppo.", "ejes": "Marco es el más joven del grupo.", "cog": false, "truco": "Con -e: giovane no cambia; el artículo sí (il / la)." },
+        { "t": "il più famoso", "es": "el más famoso", "pron": "il piú famóso", "ej": "Il Colosseo è il più famoso di Roma.", "ejes": "El Coliseo es el más famoso de Roma.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Luca è il più alto della famiglia.", "es": "Luca es el más alto de la familia.", "pron": "lúca è il piú álto déla famíglia" },
+        { "t": "Il treno è il più veloce.", "es": "El tren es el más rápido.", "pron": "il tren è il piú velóche" },
+        { "t": "Il vino è il più caro del menù.", "es": "El vino es el más caro del menú.", "pron": "il víno è il piú cáro del menú" },
+        { "t": "Il Colosseo è il più famoso di Roma.", "es": "El Coliseo es el más famoso de Roma.", "pron": "il coloséo è il piú famóso di róma" },
+        { "t": "Marco è il più piccolo dei fratelli.", "es": "Marco es el más pequeño de los hermanos.", "pron": "márco è il piú píccolo dei fratélli" }
+      ],
+      "dialogo": {
+        "titulo": "En la familia",
+        "lineas": [
+          { "q": "A", "t": "Chi è il più alto della famiglia?", "es": "¿Quién es el más alto de la familia?" },
+          { "q": "B", "t": "Luca è il più alto.", "es": "Luca es el más alto." },
+          { "q": "A", "t": "E chi è il più giovane?", "es": "¿Y quién es el más joven?" },
+          { "q": "B", "t": "Marco è il più giovane.", "es": "Marco es el más joven." },
+          { "q": "A", "t": "Allora Marco è anche il più piccolo!", "es": "¡Entonces Marco es también el más pequeño!" }
+        ]
+      },
+      "nota": "Para el superlativo relativo se usa «di» + artículo: il più alto della classe (di + la = della), il più alto del gruppo. Si hablas de un lugar, también se puede usar «in»: il più grande in Italia. El artículo il se vuelve lo ante z o s + consonante (lo studente più alto), pero con «più» casi siempre queda «il più»."
+    },
+    {
+      "id": "it-a2-u5-l2",
+      "n": 2,
+      "titulo": "La más bonita, los más grandes",
+      "objetivo": "Hacer concordar il più en femenino y plural y ponerlo junto a un sustantivo.",
+      "intro": "El artículo concuerda con lo que describes: il più alto, la più alta, i più alti, le più alte. Y cuando nombras la cosa, el artículo va delante del nombre. Truco: la città più grande = la ciudad más grande (el artículo no se repite).",
+      "palabras": [
+        { "t": "la più bella", "es": "la más bonita", "pron": "la piú béla", "ej": "Ana è la più bella della festa.", "ejes": "Ana es la más bonita de la fiesta.", "cog": false },
+        { "t": "la più grande", "es": "la más grande", "pron": "la piú gránde", "ej": "Lima è la più grande del Perù.", "ejes": "Lima es la más grande del Perú.", "cog": false },
+        { "t": "la più cara", "es": "la más cara", "pron": "la piú cára", "ej": "La pizza è la più cara.", "ejes": "La pizza es la más cara.", "cog": false },
+        { "t": "la più simpatica", "es": "la más simpática", "pron": "la piú simpática", "ej": "Giulia è la più simpatica della classe.", "ejes": "Giulia es la más simpática de la clase.", "cog": false },
+        { "t": "i più giovani", "es": "los más jóvenes", "pron": "i piú yóvani", "ej": "I miei cugini sono i più giovani.", "ejes": "Mis primos son los más jóvenes.", "cog": false },
+        { "t": "le più belle", "es": "las más bonitas", "pron": "le piú bélle", "ej": "Le spiagge sono le più belle.", "ejes": "Las playas son las más bonitas.", "cog": false },
+        { "t": "la città più grande", "es": "la ciudad más grande", "pron": "la chittá piú gránde", "ej": "Lima è la città più grande del Perù.", "ejes": "Lima es la ciudad más grande del Perú.", "cog": false },
+        { "t": "il giorno più bello", "es": "el día más bonito", "pron": "il yórno piú bélo", "ej": "Oggi è il giorno più bello.", "ejes": "Hoy es el día más bonito.", "cog": false },
+        { "t": "il ristorante più caro", "es": "el restaurante más caro", "pron": "il ristoránte piú cáro", "ej": "Questo è il ristorante più caro della città.", "ejes": "Este es el restaurante más caro de la ciudad.", "cog": false },
+        { "t": "la strada più lunga", "es": "la calle más larga", "pron": "la stráda piú lúnga", "ej": "Questa è la strada più lunga.", "ejes": "Esta es la calle más larga.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Giulia è la più simpatica della classe.", "es": "Giulia es la más simpática de la clase.", "pron": "yúlia è la piú simpática déla clásse" },
+        { "t": "Le spiagge sono le più belle.", "es": "Las playas son las más bonitas.", "pron": "le spiádyie sóno le piú bélle" },
+        { "t": "Lima è la città più grande del Perù.", "es": "Lima es la ciudad más grande del Perú.", "pron": "líma è la chittá piú gránde del perú" },
+        { "t": "Oggi è il giorno più bello.", "es": "Hoy es el día más bonito.", "pron": "ódyi è il yórno piú bélo" },
+        { "t": "Questo è il ristorante più caro della città.", "es": "Este es el restaurante más caro de la ciudad.", "pron": "cuésto è il ristoránte piú cáro déla chittá" }
+      ],
+      "dialogo": {
+        "titulo": "Elegir un lugar",
+        "lineas": [
+          { "q": "A", "t": "Qual è la spiaggia più bella?", "es": "¿Cuál es la playa más bonita?" },
+          { "q": "B", "t": "Per me è la più bella del Perù.", "es": "Para mí es la más bonita del Perú." },
+          { "q": "A", "t": "E il ristorante più economico?", "es": "¿Y el restaurante más barato?" },
+          { "q": "B", "t": "Questo è il ristorante più economico della città.", "es": "Este es el restaurante más barato de la ciudad." },
+          { "q": "A", "t": "Perfetto, andiamo!", "es": "¡Perfecto, vamos!" }
+        ]
+      },
+      "nota": "«Spiaggia» (playa) se pronuncia spiádyia en italiano; la doble g es un sonido suave. «Qual è» (cuál es) se escribe sin apóstrofo. Con -e (grande, veloce) el artículo es lo que muestra el género: il più grande (m.), la più grande (f.). En plural: i più grandi, le più grandi."
+    },
+    {
+      "id": "it-a2-u5-l3",
+      "n": 3,
+      "titulo": "Muy, muy: -issimo",
+      "objetivo": "Intensificar un adjetivo con la terminación -issimo.",
+      "intro": "Otra forma de decir «muy» es añadir -issimo al adjetivo, como en español -ísimo: bello - bellissimo (bonitísimo). Truco: quita la vocal final y pon -issimo: bello -> bell- + issimo.",
+      "palabras": [
+        { "t": "bellissimo", "es": "muy bonito, bellísimo", "pron": "belíssimo", "ej": "Il film è bellissimo.", "ejes": "La película es bellísima.", "cog": true, "truco": "El acento cae en la «i»: bel-LÍS-si-mo." },
+        { "t": "buonissimo", "es": "buenísimo / riquísimo", "pron": "buoníssimo", "ej": "Il tiramisù è buonissimo.", "ejes": "El tiramisú es riquísimo.", "cog": false },
+        { "t": "carissimo", "es": "carísimo", "pron": "caríssimo", "ej": "Il vino è carissimo.", "ejes": "El vino es carísimo.", "cog": true },
+        { "t": "grandissimo", "es": "grandísimo", "pron": "grandíssimo", "ej": "Il parco è grandissimo.", "ejes": "El parque es grandísimo.", "cog": true },
+        { "t": "velocissimo", "es": "rapidísimo", "pron": "velochíssimo", "ej": "Il treno è velocissimo.", "ejes": "El tren es rapidísimo.", "cog": false, "truco": "veloce -> velocissimo; «ci» suena «chi»." },
+        { "t": "stanchissimo", "es": "cansadísimo", "pron": "stanquíssimo", "ej": "Sono stanchissimo.", "ejes": "Estoy cansadísimo.", "cog": false, "truco": "stanco -> stanchissimo: la «h» mantiene el sonido «k»." },
+        { "t": "simpaticissimo", "es": "simpatiquísimo", "pron": "simpatichíssimo", "ej": "Luca è simpaticissimo.", "ejes": "Luca es simpatiquísimo.", "cog": true },
+        { "t": "facilissimo", "es": "facilísimo", "pron": "fachilíssimo", "ej": "L'esame è facilissimo.", "ejes": "El examen es facilísimo.", "cog": true },
+        { "t": "difficilissimo", "es": "dificilísimo", "pron": "difichilíssimo", "ej": "Il test è difficilissimo.", "ejes": "El test es dificilísimo.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Il film è bellissimo!", "es": "¡La película es bellísima!", "pron": "il film è belíssimo" },
+        { "t": "Il tiramisù è buonissimo.", "es": "El tiramisú es riquísimo.", "pron": "il tiramisú è buoníssimo" },
+        { "t": "Questa borsa è carissima.", "es": "Esta cartera es carísima.", "pron": "cuésta bórsa è caríssima" },
+        { "t": "Sono stanchissimo oggi.", "es": "Hoy estoy cansadísimo.", "pron": "sóno stanquíssimo ódyi" },
+        { "t": "L'esame è difficilissimo.", "es": "El examen es dificilísimo.", "pron": "lesáme è difichilíssimo" }
+      ],
+      "dialogo": {
+        "titulo": "Después del cine",
+        "lineas": [
+          { "q": "A", "t": "Che ne pensi del film?", "es": "¿Qué piensas de la película?" },
+          { "q": "B", "t": "È bellissimo! E la musica è bellissima.", "es": "¡Es bellísima! Y la música es hermosísima." },
+          { "q": "A", "t": "Sì, ma il biglietto è carissimo.", "es": "Sí, pero la entrada es carísima." },
+          { "q": "B", "t": "Sì, ma sono contentissimo!", "es": "Sí, ¡pero estoy contentísimo!" },
+          { "q": "A", "t": "Anch'io!", "es": "¡Yo también!" }
+        ]
+      },
+      "nota": "Cuidado con la concordancia: bellissimo (m.), bellissima (f.), bellissimi (m. pl.), bellissime (f. pl.). Cuando el adjetivo termina en -co o -go, se añade h para mantener el sonido: stanco - stanchissimo, lungo - lunghissimo. Con -ico, como simpatico, no se añade h: simpaticissimo (con sonido ch). Frase hecha: «Che ne pensi?» = ¿Qué piensas de esto?"
+    },
+    {
+      "id": "it-a2-u5-l4",
+      "n": 4,
+      "titulo": "Ottimo, pessimo y el migliore",
+      "objetivo": "Calificar algo como excelente o terrible y decir el mejor / el peor.",
+      "intro": "«Ottimo» (excelente) y «pessimo» (pésimo) son superlativos con forma propia. Y el mejor es «il migliore», el peor «il peggiore». Truco: ottimo = muy bueno, pessimo = muy malo; no hace falta añadir «molto».",
+      "palabras": [
+        { "t": "ottimo", "es": "excelente", "pron": "óttimo", "ej": "Il tiramisù è ottimo.", "ejes": "El tiramisú es excelente.", "cog": false, "truco": "Doble t: ót-ti-mo." },
+        { "t": "pessimo", "es": "pésimo", "pron": "péssimo", "ej": "Il servizio è pessimo.", "ejes": "El servicio es pésimo.", "cog": true },
+        { "t": "il migliore", "es": "el mejor", "pron": "il milióre", "ej": "Marco è il migliore.", "ejes": "Marco es el mejor.", "cog": false },
+        { "t": "la migliore", "es": "la mejor", "pron": "la milióre", "ej": "La torta è la migliore del bar.", "ejes": "La torta es la mejor del bar.", "cog": false, "truco": "Migliore es igual en masculino y femenino." },
+        { "t": "il peggiore", "es": "el peor", "pron": "il pediyóre", "ej": "Il film è il peggiore dell'anno.", "ejes": "La película es la peor del año.", "cog": false },
+        { "t": "la peggiore", "es": "la peor", "pron": "la pediyóre", "ej": "Questa è la peggiore pizza.", "ejes": "Esta es la peor pizza.", "cog": false },
+        { "t": "il mio migliore amico", "es": "mi mejor amigo", "pron": "il mío milióre amíco", "ej": "Luca è il mio migliore amico.", "ejes": "Luca es mi mejor amigo.", "cog": false },
+        { "t": "la mia migliore amica", "es": "mi mejor amiga", "pron": "la mía milióre amíca", "ej": "Ana è la mia migliore amica.", "ejes": "Ana es mi mejor amiga.", "cog": false },
+        { "t": "il meglio", "es": "lo mejor", "pron": "il mélio", "ej": "Questo è il meglio!", "ejes": "¡Esto es lo mejor!", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il tiramisù è ottimo!", "es": "¡El tiramisú es excelente!", "pron": "il tiramisú è óttimo" },
+        { "t": "Il servizio è pessimo.", "es": "El servicio es pésimo.", "pron": "il servítsio è péssimo" },
+        { "t": "Luca è il mio migliore amico.", "es": "Luca es mi mejor amigo.", "pron": "lúca è il mío milióre amíco" },
+        { "t": "Questa è la peggiore pizza.", "es": "Esta es la peor pizza.", "pron": "cuésta è la pediyóre pítsa" },
+        { "t": "La torta è la migliore del bar.", "es": "La torta es la mejor del bar.", "pron": "la tórta è la milióre del bar" }
+      ],
+      "dialogo": {
+        "titulo": "En un restaurante",
+        "lineas": [
+          { "q": "A", "t": "Allora, com'è la pizza?", "es": "Entonces, ¿cómo está la pizza?" },
+          { "q": "B", "t": "È ottima! E il dolce è il migliore!", "es": "¡Está excelente! ¡Y el postre es el mejor!" },
+          { "q": "A", "t": "Il servizio, però, è pessimo.", "es": "El servicio, sin embargo, es pésimo." },
+          { "q": "B", "t": "Sì, è il peggiore della città.", "es": "Sí, es el peor de la ciudad." },
+          { "q": "A", "t": "Peccato!", "es": "¡Qué lástima!" }
+        ]
+      },
+      "nota": "«Ottimo / ottima» (excelente) concuerda: la pizza è ottima. «Migliore» es igual en m. y f.: il migliore, la migliore. «Peggio» y «peggiore» se confunden, igual que «meglio» y «migliore»: el primero acompaña verbos, el segundo sustantivos (Sto meglio / il tempo migliore). «Servizio» se pronuncia servítsio: «zi» suena «tsi»."
+    },
+    {
+      "id": "it-a2-u5-l5",
+      "n": 5,
+      "titulo": "Mi opinión y mis favoritos (repaso)",
+      "objetivo": "Dar mi opinión sobre lo mejor, lo peor y mis favoritos usando todos los superlativos.",
+      "intro": "Hoy repasas todo con opiniones personales. Truco: empieza con «Secondo me» (en mi opinión) y completa con il più, -issimo, ottimo o il migliore.",
+      "palabras": [
+        { "t": "del mondo", "es": "del mundo", "pron": "del móndo", "ej": "L'Everest è la montagna più alta del mondo.", "ejes": "El Everest es la montaña más alta del mundo.", "cog": false },
+        { "t": "di tutti", "es": "de todos", "pron": "di túti", "ej": "Ana è la più simpatica di tutti.", "ejes": "Ana es la más simpática de todos.", "cog": false },
+        { "t": "di sempre", "es": "de siempre / de la historia", "pron": "di sémpre", "ej": "È il film migliore di sempre.", "ejes": "Es la mejor película de siempre.", "cog": false },
+        { "t": "secondo me", "es": "en mi opinión / según yo", "pron": "secóndo me", "ej": "Secondo me, il tiramisù è ottimo.", "ejes": "En mi opinión, el tiramisú es excelente.", "cog": false },
+        { "t": "preferito", "es": "favorito", "pron": "preferíto", "ej": "Il gelato è il mio dolce preferito.", "ejes": "El helado es mi postre favorito.", "cog": true, "truco": "Preferito concuerda: preferita, preferiti." },
+        { "t": "il mio preferito", "es": "mi favorito", "pron": "il mío preferíto", "ej": "Il caffè è il mio preferito.", "ejes": "El café es mi favorito.", "cog": false },
+        { "t": "la mia preferita", "es": "mi favorita", "pron": "la mía preferíta", "ej": "La pizza è la mia preferita.", "ejes": "La pizza es mi favorita.", "cog": false },
+        { "t": "tra", "es": "entre", "pron": "tra", "ej": "Roma è tra le città più belle.", "ejes": "Roma está entre las ciudades más bonitas.", "cog": false, "truco": "Tra / fra significan lo mismo (entre)." }
+      ],
+      "frases": [
+        { "t": "Secondo me, il tiramisù è ottimo.", "es": "En mi opinión, el tiramisú es excelente.", "pron": "secóndo me, il tiramisú è óttimo" },
+        { "t": "L'Everest è la montagna più alta del mondo.", "es": "El Everest es la montaña más alta del mundo.", "pron": "léverest è la montáña piú álta del móndo" },
+        { "t": "La pizza è la mia preferita.", "es": "La pizza es mi favorita.", "pron": "la pítsa è la mía preferíta" },
+        { "t": "Ana è la più simpatica di tutti.", "es": "Ana es la más simpática de todos.", "pron": "ána è la piú simpática di túti" },
+        { "t": "Roma è tra le città più belle.", "es": "Roma está entre las ciudades más bonitas.", "pron": "róma è tra le chittá piú bélle" }
+      ],
+      "dialogo": {
+        "titulo": "Los favoritos",
+        "lineas": [
+          { "q": "A", "t": "Qual è il tuo dolce preferito?", "es": "¿Cuál es tu postre favorito?" },
+          { "q": "B", "t": "Il tiramisù, secondo me è il migliore.", "es": "El tiramisú, en mi opinión es el mejor." },
+          { "q": "A", "t": "Io preferisco il gelato: è buonissimo!", "es": "Yo prefiero el helado: ¡es riquísimo!" },
+          { "q": "B", "t": "E qual è la città più bella per te?", "es": "¿Y cuál es la ciudad más bonita para ti?" },
+          { "q": "A", "t": "Roma è tra le più belle del mondo.", "es": "Roma está entre las más bonitas del mundo." }
+        ]
+      },
+      "nota": "Repasa los tres niveles: bello (bonito), più bello (más bonito, comparativo), il più bello (el más bonito, superlativo relativo), bellissimo (muy bonito, superlativo absoluto). «Il mio preferito» y «la mia preferita» concuerdan con lo que describen. «Tra» y «fra» significan lo mismo (entre) y se eligen por oído: tra le più belle."
+    }
+  ]
+}

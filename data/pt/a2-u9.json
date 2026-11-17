@@ -1,0 +1,227 @@
+{
+  "id": "pt-a2-u9",
+  "idioma": "pt",
+  "nivel": "A2",
+  "n": 9,
+  "titulo": "Trabajo y estudios",
+  "resumen": "Aprenderás a hablar de profesiones, del trabajo y de los estudios, y a decir qué estás haciendo ahora con «estar + -ndo».",
+  "puedo": [
+    "Decir mi profesión y preguntar la de otra persona.",
+    "Hablar de mi lugar de trabajo y de mis colegas.",
+    "Hablar de mis estudios y de mis clases.",
+    "Decir qué estoy haciendo ahora con el gerúndio.",
+    "Atender una llamada de trabajo simple."
+  ],
+  "gramatica": {
+    "titulo": "Lo que estoy haciendo ahora: estar + -ndo",
+    "texto": "Para decir qué haces en este momento, usa «estar» + verbo con -ndo (se llama gerúndio). Se forma así: -ar pasa a -ando (trabalhar, trabalhando), -er pasa a -endo (comer, comendo), -ir pasa a -indo (abrir, abrindo).\nEjemplo: Eu estou trabalhando (Estoy trabajando). Ela está estudando (Ella está estudiando).\nEn Brasil no se usa «a + infinitivo» (estou a trabalhar) como en Portugal: aquí se dice «estou trabalhando».\nPara costumbres usa el presente simple: Eu trabalho num banco (trabajo en un banco, en general).",
+    "tabla": [
+      ["Eu estou trabalhando.", "Estoy trabajando.", "éu estóu trabalyándu"],
+      ["Você está estudando.", "Estás estudiando.", "vosé está estudándu"],
+      ["Ela está comendo.", "Ella está comiendo.", "éla está koméndu"],
+      ["Nós estamos abrindo.", "Estamos abriendo.", "nós estámus abríndu"],
+      ["Eles estão esperando.", "Ellos están esperando.", "élis estáun esperándu"],
+      ["Eu trabalho num banco.", "Trabajo en un banco.", "éu trabályu num bánku"]
+    ],
+    "errores": [
+      "No digas «estou a trabalhar» (portugués de Portugal): en Brasil se dice «estou trabalhando».",
+      "Con -er e -ir el gerúndio termina en «-endo» o «-indo», no «-ando»: «comendo», «abrindo».",
+      "«Eu trabalho» (hábito) no es lo mismo que «Eu estou trabalhando» (ahora): no los mezcles."
+    ]
+  },
+  "practica": [
+    "Mira a tu alrededor y di en voz alta 8 cosas que ocurren ahora con «estar + -ndo» (5 minutos).",
+    "Escribe una presentación de 5 líneas: tu profesión, dónde trabajas o estudias y qué haces hoy (6 minutos).",
+    "Pregúntale a un amigo, en voz alta, «O que você faz?» y responde con tu profesión (3 minutos).",
+    "Busca en YouTube «apresentação profissional em português» y copia las frases de profesión (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-a2-u9-l1",
+      "n": 1,
+      "titulo": "Profesiones",
+      "objetivo": "Decir tu profesión y preguntar por la de los demás.",
+      "intro": "Para preguntar a qué te dedicas: «O que você faz?». Para responder: «Eu sou + profesión», sin artículo: Eu sou professor. Truco: muchas profesiones cambian la última letra por -a si es mujer (professor, professora).",
+      "palabras": [
+        { "t": "professor", "es": "profesor", "pron": "profesór", "ej": "Eu sou professor.", "ejes": "Soy profesor.", "cog": true, "truco": "Mujer: professora." },
+        { "t": "engenheiro", "es": "ingeniero", "pron": "enyeñéiru", "ej": "Meu pai é engenheiro.", "ejes": "Mi padre es ingeniero.", "cog": false, "truco": "Mujer: engenheira." },
+        { "t": "advogado", "es": "abogado", "pron": "advogádu", "ej": "Meu primo é advogado.", "ejes": "Mi primo es abogado.", "cog": true },
+        { "t": "enfermeira", "es": "enfermera", "pron": "enfermêira", "ej": "Ela é enfermeira.", "ejes": "Ella es enfermera.", "cog": true },
+        { "t": "motorista", "es": "conductor / chofer", "pron": "motorísta", "ej": "Ele é motorista de ônibus.", "ejes": "Él es chofer de bus.", "cog": true },
+        { "t": "vendedor", "es": "vendedor", "pron": "vendedór", "ej": "Eu sou vendedor numa loja.", "ejes": "Soy vendedor en una tienda.", "cog": true },
+        { "t": "cozinheiro", "es": "cocinero", "pron": "kosiñéiru", "ej": "O cozinheiro está na cozinha.", "ejes": "El cocinero está en la cocina.", "cog": false },
+        { "t": "estudante", "es": "estudiante", "pron": "estudánchi", "ej": "Eu sou estudante.", "ejes": "Soy estudiante.", "cog": true, "truco": "Igual para hombre y mujer: o/a estudante." },
+        { "t": "o que você faz", "es": "a qué te dedicas", "pron": "u ke vosé fás", "ej": "Oi! O que você faz?", "ejes": "¡Hola! ¿A qué te dedicas?", "cog": false },
+        { "t": "trabalho", "es": "trabajo / trabajo (yo)", "pron": "trabályu", "ej": "Eu trabalho num banco.", "ejes": "Trabajo en un banco.", "cog": true, "truco": "«lh» suena «ly»: trabályu." }
+      ],
+      "frases": [
+        { "t": "O que você faz?", "es": "¿A qué te dedicas?", "pron": "u ke vosé fás" },
+        { "t": "Eu sou professora.", "es": "Soy profesora.", "pron": "éu sou profesóra" },
+        { "t": "Meu pai é engenheiro e minha mãe é advogada.", "es": "Mi padre es ingeniero y mi madre es abogada.", "pron": "méu pái é enyeñéiru i míña máin é advogáda" },
+        { "t": "Eu trabalho num hospital.", "es": "Trabajo en un hospital.", "pron": "éu trabályu num ospitáu" },
+        { "t": "Ele é motorista de ônibus.", "es": "Él es chofer de bus.", "pron": "éli é motorísta dyi ônibus" }
+      ],
+      "dialogo": {
+        "titulo": "Conhecendo um colega",
+        "lineas": [
+          { "q": "A", "t": "Oi! Eu sou o Bruno. O que você faz?", "es": "¡Hola! Soy Bruno. ¿A qué te dedicas?" },
+          { "q": "B", "t": "Eu sou enfermeira. E você?", "es": "Soy enfermera. ¿Y tú?" },
+          { "q": "A", "t": "Eu sou engenheiro. Eu trabalho numa empresa.", "es": "Soy ingeniero. Trabajo en una empresa." },
+          { "q": "B", "t": "Que legal! Meu irmão também é engenheiro.", "es": "¡Qué bueno! Mi hermano también es ingeniero." },
+          { "q": "A", "t": "O mundo é pequeno!", "es": "¡El mundo es chico!" }
+        ]
+      },
+      "nota": "Después de «ser» no se usa «un/una» con la profesión: «Eu sou professor», no «Eu sou um professor». «Em» + «um» se une: «num banco» = en un banco, «numa empresa» = en una empresa."
+    },
+    {
+      "id": "pt-a2-u9-l2",
+      "n": 2,
+      "titulo": "En el trabajo",
+      "objetivo": "Hablar de tu lugar de trabajo, tu jefe y tus colegas.",
+      "intro": "Con estas palabras podrás hablar de tu día en la oficina. Truco: «empresa» es compañía y «reunião» es reunión; en Brasil «escritório» es oficina.",
+      "palabras": [
+        { "t": "escritório", "es": "oficina", "pron": "eskritóryiu", "ej": "Eu trabalho no escritório.", "ejes": "Trabajo en la oficina.", "cog": false, "truco": "No es «escritorio» (mueble): es el lugar de trabajo." },
+        { "t": "empresa", "es": "empresa", "pron": "empréza", "ej": "A empresa é grande.", "ejes": "La empresa es grande.", "cog": true },
+        { "t": "reunião", "es": "reunión", "pron": "rreuniáun", "ej": "Tenho uma reunião às três.", "ejes": "Tengo una reunión a las tres.", "cog": true },
+        { "t": "chefe", "es": "jefe / jefa", "pron": "shéfi", "ej": "Meu chefe é simpático.", "ejes": "Mi jefe es simpático.", "cog": true, "truco": "«ch» suena «sh»: shéfi." },
+        { "t": "colega", "es": "colega", "pron": "koléga", "ej": "Minha colega é muito legal.", "ejes": "Mi colega es muy buena onda.", "cog": true },
+        { "t": "emprego", "es": "empleo", "pron": "emprégu", "ej": "Eu tenho um bom emprego.", "ejes": "Tengo un buen empleo.", "cog": true },
+        { "t": "salário", "es": "sueldo", "pron": "saláryiu", "ej": "O salário é bom.", "ejes": "El sueldo es bueno.", "cog": true },
+        { "t": "horário", "es": "horario", "pron": "oráryiu", "ej": "Meu horário é das nove às seis.", "ejes": "Mi horario es de nueve a seis.", "cog": true },
+        { "t": "ocupado", "es": "ocupado", "pron": "okupádu", "ej": "Hoje estou muito ocupado.", "ejes": "Hoy estoy muy ocupado.", "cog": true },
+        { "t": "trabalhar", "es": "trabajar", "pron": "trabalyár", "ej": "Eu gosto de trabalhar aqui.", "ejes": "Me gusta trabajar aquí.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu trabalho num escritório no centro.", "es": "Trabajo en una oficina en el centro.", "pron": "éu trabályu num eskritóryiu nu séntru" },
+        { "t": "Meu chefe é simpático.", "es": "Mi jefe es simpático.", "pron": "méu shéfi é simpátiku" },
+        { "t": "Tenho uma reunião às três horas.", "es": "Tengo una reunión a las tres.", "pron": "téñu úma rreuniáun às trés óras" },
+        { "t": "Meu horário é das nove às seis.", "es": "Mi horario es de nueve a seis.", "pron": "méu orário é das nóvi às séis" },
+        { "t": "Eu gosto de trabalhar com meus colegas.", "es": "Me gusta trabajar con mis colegas.", "pron": "éu góstu dyi trabalyár kon méus kolégas" }
+      ],
+      "dialogo": {
+        "titulo": "No escritório",
+        "lineas": [
+          { "q": "A", "t": "Oi, Marta! Você está ocupada?", "es": "¡Hola, Marta! ¿Estás ocupada?" },
+          { "q": "B", "t": "Sim, tenho uma reunião com o chefe às três.", "es": "Sí, tengo una reunión con el jefe a las tres." },
+          { "q": "A", "t": "Qual é o seu horário hoje?", "es": "¿Cuál es tu horario hoy?" },
+          { "q": "B", "t": "Das nove às seis. E o seu?", "es": "De nueve a seis. ¿Y el tuyo?" },
+          { "q": "A", "t": "O mesmo. Boa reunião!", "es": "El mismo. ¡Buena reunión!" }
+        ]
+      },
+      "nota": "Falso amigo: «escritório» es la oficina, no el escritorio (que se dice «mesa»). «Colega» sirve para hombre y mujer: o colega, a colega."
+    },
+    {
+      "id": "pt-a2-u9-l3",
+      "n": 3,
+      "titulo": "Estudios",
+      "objetivo": "Hablar de tus estudios, de la universidad y de tus clases.",
+      "intro": "Si estudias, necesitas estas palabras. Truco: «faculdade» y «universidade» se usan casi igual, y «aula» es una clase.",
+      "palabras": [
+        { "t": "escola", "es": "escuela / colegio", "pron": "eskóla", "ej": "Meu filho vai à escola.", "ejes": "Mi hijo va a la escuela.", "cog": true },
+        { "t": "universidade", "es": "universidad", "pron": "univercidádi", "ej": "Eu estudo na universidade.", "ejes": "Estudio en la universidad.", "cog": true },
+        { "t": "faculdade", "es": "facultad / universidad", "pron": "fakuldádi", "ej": "Minha irmã está na faculdade.", "ejes": "Mi hermana está en la universidad.", "cog": true },
+        { "t": "curso", "es": "carrera / curso", "pron": "kúrsu", "ej": "Eu faço um curso de inglês.", "ejes": "Hago un curso de inglés.", "cog": true },
+        { "t": "aula", "es": "clase", "pron": "áula", "ej": "A aula é às oito.", "ejes": "La clase es a las ocho.", "cog": false, "truco": "Es femenina: a aula." },
+        { "t": "prova", "es": "examen", "pron": "próva", "ej": "Amanhã tenho uma prova.", "ejes": "Mañana tengo un examen.", "cog": false, "truco": "«prova» es examen, no prueba." },
+        { "t": "estudar", "es": "estudiar", "pron": "estudár", "ej": "Eu gosto de estudar de manhã.", "ejes": "Me gusta estudiar en la mañana.", "cog": true },
+        { "t": "aprender", "es": "aprender", "pron": "aprendér", "ej": "Eu quero aprender português.", "ejes": "Quiero aprender portugués.", "cog": true },
+        { "t": "nota", "es": "nota / calificación", "pron": "nóta", "ej": "Minha nota foi boa.", "ejes": "Mi nota fue buena.", "cog": true },
+        { "t": "professora", "es": "profesora", "pron": "profesóra", "ej": "Minha professora é muito boa.", "ejes": "Mi profesora es muy buena.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu estudo na universidade.", "es": "Estudio en la universidad.", "pron": "éu estúdu na univercidádi" },
+        { "t": "Minha aula começa às oito.", "es": "Mi clase empieza a las ocho.", "pron": "míña áula komésa às óitu" },
+        { "t": "Amanhã eu tenho uma prova.", "es": "Mañana tengo un examen.", "pron": "amañán éu téñu úma próva" },
+        { "t": "Eu quero aprender português.", "es": "Quiero aprender portugués.", "pron": "éu kéru aprendér portuguéis" },
+        { "t": "Minha nota foi muito boa.", "es": "Mi nota fue muy buena.", "pron": "míña nóta fói múintu bóa" },
+        { "t": "A professora é muito simpática.", "es": "La profesora es muy simpática.", "pron": "a profesóra é múintu simpátika" }
+      ],
+      "dialogo": {
+        "titulo": "Na faculdade",
+        "lineas": [
+          { "q": "A", "t": "Oi, Júlia! Você estuda aqui?", "es": "¡Hola, Júlia! ¿Estudias aquí?" },
+          { "q": "B", "t": "Sim, eu estudo engenharia. E você?", "es": "Sí, estudio ingeniería. ¿Y tú?" },
+          { "q": "A", "t": "Eu estudo medicina. Amanhã tenho uma prova.", "es": "Estudio medicina. Mañana tengo un examen." },
+          { "q": "B", "t": "Boa sorte! Minha aula começa às oito.", "es": "¡Buena suerte! Mi clase empieza a las ocho." },
+          { "q": "A", "t": "Obrigada! Até logo!", "es": "¡Gracias! ¡Hasta luego!" }
+        ]
+      },
+      "nota": "«Faculdade» en Brasil es la universidad o la institución en general, no solo una facultad. «Estudar» (estudiar) y «aprender» (aprender) no son lo mismo, igual que en español."
+    },
+    {
+      "id": "pt-a2-u9-l4",
+      "n": 4,
+      "titulo": "Estoy haciendo...",
+      "objetivo": "Decir qué haces ahora con estar + -ndo.",
+      "intro": "Para decir lo que haces en este momento, usa «estar» + verbo en -ndo. Truco: -ar pasa a -ando (falar, falando), -er pasa a -endo (comer, comendo), -ir pasa a -indo (abrir, abrindo).",
+      "palabras": [
+        { "t": "trabalhando", "es": "trabajando", "pron": "trabalyándu", "ej": "Eu estou trabalhando agora.", "ejes": "Estoy trabajando ahora.", "cog": false },
+        { "t": "estudando", "es": "estudiando", "pron": "estudándu", "ej": "Ela está estudando na biblioteca.", "ejes": "Ella está estudiando en la biblioteca.", "cog": false },
+        { "t": "falando", "es": "hablando", "pron": "falándu", "ej": "Ele está falando com o chefe.", "ejes": "Él está hablando con el jefe.", "cog": false },
+        { "t": "escrevendo", "es": "escribiendo", "pron": "eskrevéndu", "ej": "Estou escrevendo um e-mail.", "ejes": "Estoy escribiendo un correo.", "cog": false },
+        { "t": "lendo", "es": "leyendo", "pron": "léndu", "ej": "Estou lendo um livro.", "ejes": "Estoy leyendo un libro.", "cog": false },
+        { "t": "comendo", "es": "comiendo", "pron": "koméndu", "ej": "Nós estamos comendo agora.", "ejes": "Estamos comiendo ahora.", "cog": false },
+        { "t": "esperando", "es": "esperando", "pron": "esperándu", "ej": "Eu estou esperando o ônibus.", "ejes": "Estoy esperando el bus.", "cog": false },
+        { "t": "agora", "es": "ahora", "pron": "agóra", "ej": "O que você faz agora?", "ejes": "¿Qué haces ahora?", "cog": false },
+        { "t": "neste momento", "es": "en este momento", "pron": "néstchi moméntu", "ej": "Neste momento estou ocupado.", "ejes": "En este momento estoy ocupado.", "cog": false },
+        { "t": "aguardando", "es": "aguardando", "pron": "aguardándu", "ej": "Eu estou aguardando a resposta.", "ejes": "Estoy aguardando la respuesta.", "cog": false }
+      ],
+      "frases": [
+        { "t": "O que você está fazendo?", "es": "¿Qué estás haciendo?", "pron": "u ke vosé está fazéndu" },
+        { "t": "Estou trabalhando agora.", "es": "Estoy trabajando ahora.", "pron": "estóu trabalyándu agóra" },
+        { "t": "Ela está estudando na biblioteca.", "es": "Ella está estudiando en la biblioteca.", "pron": "éla está estudándu na bibliotéka" },
+        { "t": "Nós estamos esperando o ônibus.", "es": "Estamos esperando el bus.", "pron": "nós estámus esperándu u ônibus" },
+        { "t": "Eles estão comendo no refeitório.", "es": "Ellos están comiendo en el comedor.", "pron": "élis estáun koméndu nu rrefeitóryu" }
+      ],
+      "dialogo": {
+        "titulo": "Uma chamada rápida",
+        "lineas": [
+          { "q": "A", "t": "Oi, Pedro! O que você está fazendo?", "es": "¡Hola, Pedro! ¿Qué estás haciendo?" },
+          { "q": "B", "t": "Estou trabalhando. E você?", "es": "Estoy trabajando. ¿Y tú?" },
+          { "q": "A", "t": "Estou esperando o ônibus.", "es": "Estoy esperando el bus." },
+          { "q": "B", "t": "Neste momento estou escrevendo um e-mail.", "es": "En este momento estoy escribiendo un correo." },
+          { "q": "A", "t": "Tudo bem, falo com você depois.", "es": "Está bien, hablo contigo después." }
+        ]
+      },
+      "nota": "El gerúndio no cambia con género ni número: «estou falando», «ela está falando», «eles estão falando». Fazer es irregular: fazendo (haciendo)."
+    },
+    {
+      "id": "pt-a2-u9-l5",
+      "n": 5,
+      "titulo": "Repaso: una llamada de trabajo",
+      "objetivo": "Mezclar profesiones, trabajo y el gerúndio al atender una llamada.",
+      "intro": "Al teléfono se usan frases hechas: «Alô?», «Um momento», «Ele não está». Truco: «ele está numa reunião» = está en una reunión; puedes dejar «um recado» (un mensaje).",
+      "palabras": [
+        { "t": "alô", "es": "aló", "pron": "alô", "ej": "Atenda e diga alô.", "ejes": "Conteste y diga aló.", "cog": false },
+        { "t": "quem", "es": "quién", "pron": "kéin", "ej": "Quem está falando?", "ejes": "¿Quién está hablando?", "cog": false },
+        { "t": "ligar", "es": "llamar (por teléfono)", "pron": "ligár", "ej": "Eu vou ligar mais tarde.", "ejes": "Voy a llamar más tarde.", "cog": false },
+        { "t": "recado", "es": "mensaje (dejado)", "pron": "rrekádu", "ej": "Posso deixar um recado?", "ejes": "¿Puedo dejar un mensaje?", "cog": false, "truco": "«recado» es un mensaje verbal para alguien." },
+        { "t": "momento", "es": "momento", "pron": "moméntu", "ej": "Um momento, por favor.", "ejes": "Un momento, por favor.", "cog": true },
+        { "t": "livre", "es": "libre", "pron": "lívri", "ej": "Você está livre agora?", "ejes": "¿Estás libre ahora?", "cog": true },
+        { "t": "depois", "es": "después", "pron": "depóis", "ej": "Eu ligo depois.", "ejes": "Llamo después.", "cog": false },
+        { "t": "mais tarde", "es": "más tarde", "pron": "máis tárdyi", "ej": "Ele chega mais tarde.", "ejes": "Él llega más tarde.", "cog": false },
+        { "t": "numa reunião", "es": "en una reunión", "pron": "núma rreuniáun", "ej": "Ele está numa reunião.", "ejes": "Él está en una reunión.", "cog": false },
+        { "t": "desculpe", "es": "disculpe", "pron": "deskúlpi", "ej": "Desculpe, ele não está.", "ejes": "Disculpe, él no está.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Alô? Quem está falando?", "es": "¿Aló? ¿Quién habla?", "pron": "alô kéin está falándu" },
+        { "t": "Um momento, por favor.", "es": "Un momento, por favor.", "pron": "ún moméntu, por favór" },
+        { "t": "Ele está numa reunião agora.", "es": "Él está en una reunión ahora.", "pron": "éli está núma rreuniáun agóra" },
+        { "t": "Posso deixar um recado?", "es": "¿Puedo dejar un mensaje?", "pron": "pósu deishár ún rrekádu" },
+        { "t": "Eu ligo mais tarde, obrigado.", "es": "Llamo más tarde, gracias.", "pron": "éu lígu máis tárdyi, obrigádu" }
+      ],
+      "dialogo": {
+        "titulo": "Ligação para o escritório",
+        "lineas": [
+          { "q": "A", "t": "Alô? Quem está falando?", "es": "¿Aló? ¿Quién habla?" },
+          { "q": "B", "t": "Aqui é a Carla. O senhor Lima está?", "es": "Habla Carla. ¿Está el señor Lima?" },
+          { "q": "A", "t": "Desculpe, ele está numa reunião agora.", "es": "Disculpe, él está en una reunión ahora." },
+          { "q": "B", "t": "Posso deixar um recado?", "es": "¿Puedo dejar un mensaje?" },
+          { "q": "A", "t": "Claro. Ele está ocupado, mas liga mais tarde.", "es": "Claro. Está ocupado, pero llama más tarde." },
+          { "q": "B", "t": "Obrigada! Tchau!", "es": "¡Gracias! ¡Chau!" }
+        ]
+      },
+      "nota": "Al teléfono, «Alô?» se usa para contestar. «Aqui é...» sirve para presentarte: «Aqui é a Carla». En Brasil es común decir «ele não está» en vez de «ele não está disponível»."
+    }
+  ]
+}

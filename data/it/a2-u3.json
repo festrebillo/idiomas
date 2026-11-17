@@ -1,0 +1,220 @@
+{
+  "id": "it-a2-u3",
+  "idioma": "it",
+  "nivel": "A2",
+  "n": 3,
+  "titulo": "Preguntar sobre el pasado",
+  "resumen": "Aprenderás a preguntar y negar en pasado y a usar già, ancora y mai para hablar de lo que ya hiciste, aún no hiciste o nunca hiciste.",
+  "puedo": [
+    "Preguntar sobre el pasado con che cosa, dove, quando, con chi y perché.",
+    "Negar con «non» antes del auxiliar: non ho capito, non sono andato.",
+    "Decir lo que ya hice (già) y lo que todavía no hice (non ancora).",
+    "Preguntar y responder con mai: ¿alguna vez...? / nunca.",
+    "Hablar de cuántas veces hice algo con una volta, due volte y molte volte."
+  ],
+  "gramatica": {
+    "titulo": "Preguntas y negación en pasado; già, ancora y mai",
+    "texto": "Preguntar en pasado es fácil: la frase afirmativa con entonación de pregunta (Hai mangiato?) o con una palabra interrogativa delante (Dove sei andato?). No se invierte el orden.\nPara negar, pon «non» ANTES del auxiliar: non ho mangiato, non sono andato.\nLos adverbios cortos van entre el auxiliar y el participio: ho già mangiato (ya comí), non ho ancora mangiato (todavía no comí), non ho mai mangiato (nunca comí). En pregunta, «mai» sin non significa «alguna vez»: hai mai mangiato il tiramisù?\n«Ancora» con non = todavía no; sin non puede significar «de nuevo / más».",
+    "tabla": [
+      ["Hai mangiato?", "¿Comiste?", "ái manyáto"],
+      ["Non ho mangiato.", "No comí.", "non o manyáto"],
+      ["Ho già mangiato.", "Ya comí.", "o yá manyáto"],
+      ["Non ho ancora mangiato.", "Todavía no comí.", "non o ancóra manyáto"],
+      ["Non ho mai mangiato.", "Nunca comí.", "non o mái manyáto"],
+      ["Hai mai mangiato...?", "¿Alguna vez comiste...?", "ái mái manyáto"]
+    ],
+    "errores": [
+      "«Non» va antes del auxiliar, no entre auxiliar y participio: «non ho mangiato», nunca «ho non mangiato».",
+      "«Non ho ancora» = todavía no. No lo traduzcas como «ancora» solo: sin «non» cambia el sentido (ancora un caffè = otro café más).",
+      "Con «mai» en una frase negativa se necesita «non»: «non ho mai visto» (nunca vi). En pregunta, sin non: «hai mai visto...?» (¿alguna vez has visto?)."
+    ]
+  },
+  "practica": [
+    "Escribe 5 preguntas para un amigo sobre su fin de semana pasado usando che cosa, dove, quando, con chi y perché (5 minutos).",
+    "Haz una lista de 5 cosas que ya hiciste esta semana y 5 que todavía no: «Ho già... / Non ho ancora...» (5 minutos).",
+    "Dile a alguien 3 cosas que nunca hiciste con «Non ho mai...» y pregúntale si él las hizo con «Hai mai...?» (4 minutos).",
+    "Grábate respondiendo a cinco preguntas en pasado, primero con «sì, ho già» y luego con «no, non ancora» (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-a2-u3-l1",
+      "n": 1,
+      "titulo": "Preguntas en pasado",
+      "objetivo": "Hacer preguntas sobre el pasado con las palabras interrogativas básicas.",
+      "intro": "Una pregunta en pasado es la frase afirmativa con la palabra interrogativa delante: Dove sei andato? Truco: no cambies el orden; solo sube la voz al final.",
+      "palabras": [
+        { "t": "che cosa", "es": "qué", "pron": "que cósa", "ej": "Che cosa hai mangiato ieri?", "ejes": "¿Qué comiste ayer?", "cog": false, "truco": "«che» = que, con «ch» = k." },
+        { "t": "dove", "es": "dónde / adónde", "pron": "dóve", "ej": "Dove sei andato sabato?", "ejes": "¿Adónde fuiste el sábado?", "cog": false },
+        { "t": "quando", "es": "cuándo", "pron": "cuándo", "ej": "Quando sei arrivata?", "ejes": "¿Cuándo llegaste?", "cog": true },
+        { "t": "con chi", "es": "con quién", "pron": "con quí", "ej": "Con chi sei uscito ieri sera?", "ejes": "¿Con quién saliste anoche?", "cog": false, "truco": "«chi» suena «qui» (con «ch» = k)." },
+        { "t": "perché", "es": "por qué / porque", "pron": "perqué", "ej": "Perché sei tornato presto?", "ejes": "¿Por qué volviste temprano?", "cog": false, "truco": "Perché significa «por qué» y también «porque»." },
+        { "t": "come", "es": "cómo", "pron": "cóme", "ej": "Come hai viaggiato?", "ejes": "¿Cómo viajaste?", "cog": false },
+        { "t": "a che ora", "es": "a qué hora", "pron": "a que óra", "ej": "A che ora sei arrivato?", "ejes": "¿A qué hora llegaste?", "cog": false },
+        { "t": "chi", "es": "quién", "pron": "quí", "ej": "Chi ha cucinato ieri?", "ejes": "¿Quién cocinó ayer?", "cog": false, "truco": "Chi = quién; cuidado: «ch» + i suena «qui»." }
+      ],
+      "frases": [
+        { "t": "Che cosa hai fatto ieri?", "es": "¿Qué hiciste ayer?", "pron": "que cósa ái fátto iéri" },
+        { "t": "Dove sei andato sabato?", "es": "¿Adónde fuiste el sábado?", "pron": "dóve séi andáto sábato" },
+        { "t": "Quando sei arrivata?", "es": "¿Cuándo llegaste?", "pron": "cuándo séi arriváta" },
+        { "t": "Con chi sei uscito ieri sera?", "es": "¿Con quién saliste anoche?", "pron": "con quí séi ushíto iéri séra" },
+        { "t": "Hai mangiato?", "es": "¿Comiste?", "pron": "ái manyáto" }
+      ],
+      "dialogo": {
+        "titulo": "Un amigo curioso",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Ana! Dove sei andata ieri?", "es": "¡Hola, Ana! ¿Adónde fuiste ayer?" },
+          { "q": "B", "t": "Sono andata al museo.", "es": "Fui al museo." },
+          { "q": "A", "t": "Con chi sei andata?", "es": "¿Con quién fuiste?" },
+          { "q": "B", "t": "Con Giulia. Abbiamo visto una mostra.", "es": "Con Giulia. Vimos una exposición." },
+          { "q": "A", "t": "A che ora sei tornata?", "es": "¿A qué hora volviste?" },
+          { "q": "B", "t": "Sono tornata alle sei.", "es": "Volví a las seis." }
+        ]
+      },
+      "nota": "«Dove» se usa tanto para «dónde» como para «adónde» (dove sei andato = adónde fuiste). Cuando la pregunta es de sí o no (Hai mangiato?) solo cambias la entonación. «Perché» lleva acento agudo: perqué, y también sirve para responder «porque»."
+    },
+    {
+      "id": "it-a2-u3-l2",
+      "n": 2,
+      "titulo": "Lo que no hice",
+      "objetivo": "Negar acciones en pasado con «non» antes del auxiliar.",
+      "intro": "Para decir que no hiciste algo, pon «non» delante del auxiliar: non ho mangiato. Truco: «non» siempre va PRIMERO, pegado al verbo auxiliar, y nunca entre ho y el participio.",
+      "palabras": [
+        { "t": "non ho capito", "es": "no entendí", "pron": "non o capíto", "ej": "Scusi, non ho capito.", "ejes": "Disculpe, no entendí.", "cog": false, "truco": "Frase muy útil para pedir que repitan." },
+        { "t": "non ho dormito", "es": "no dormí", "pron": "non o dormíto", "ej": "Ieri non ho dormito bene.", "ejes": "Ayer no dormí bien.", "cog": false },
+        { "t": "non ho visto", "es": "no vi", "pron": "non o vísto", "ej": "Non ho visto Marco.", "ejes": "No vi a Marco.", "cog": false },
+        { "t": "non ho fatto", "es": "no hice", "pron": "non o fátto", "ej": "Ieri non ho fatto la spesa.", "ejes": "Ayer no hice las compras.", "cog": false },
+        { "t": "non sono andato", "es": "no fui (hombre)", "pron": "non sóno andáto", "ej": "Sabato non sono andato al cinema.", "ejes": "El sábado no fui al cine.", "cog": false },
+        { "t": "non sono uscita", "es": "no salí (mujer)", "pron": "non sóno ushíta", "ej": "Ieri non sono uscita di casa.", "ejes": "Ayer no salí de casa.", "cog": false },
+        { "t": "non sono venuto", "es": "no vine (hombre)", "pron": "non sóno venúto", "ej": "Mi dispiace, non sono venuto alla festa.", "ejes": "Lo siento, no vine a la fiesta.", "cog": false, "truco": "Mi dispiace = lo siento." },
+        { "t": "non ho avuto tempo", "es": "no tuve tiempo", "pron": "non o avúto témpo", "ej": "Scusa, non ho avuto tempo.", "ejes": "Perdona, no tuve tiempo.", "cog": false, "truco": "Avere -> avuto (participio irregular)." },
+        { "t": "non ho mangiato", "es": "no comí", "pron": "non o manyáto", "ej": "Ieri non ho mangiato la pasta.", "ejes": "Ayer no comí la pasta.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Scusi, non ho capito.", "es": "Disculpe, no entendí.", "pron": "scúsi, non o capíto" },
+        { "t": "Ieri non ho dormito bene.", "es": "Ayer no dormí bien.", "pron": "iéri non o dormíto béne" },
+        { "t": "Sabato non sono andato al cinema.", "es": "El sábado no fui al cine.", "pron": "sábato non sóno andáto al chínema" },
+        { "t": "Perché non sei venuto alla festa?", "es": "¿Por qué no viniste a la fiesta?", "pron": "perqué non séi venúto ála fésta" },
+        { "t": "Mi dispiace, non ho avuto tempo.", "es": "Lo siento, no tuve tiempo.", "pron": "mi dispiáche, non o avúto témpo" }
+      ],
+      "dialogo": {
+        "titulo": "Una excusa",
+        "lineas": [
+          { "q": "A", "t": "Marco, perché non sei venuto alla festa?", "es": "Marco, ¿por qué no viniste a la fiesta?" },
+          { "q": "B", "t": "Mi dispiace, non ho avuto tempo.", "es": "Lo siento, no tuve tiempo." },
+          { "q": "A", "t": "Hai lavorato tutto il giorno?", "es": "¿Trabajaste todo el día?" },
+          { "q": "B", "t": "Sì, e non ho dormito bene.", "es": "Sí, y no dormí bien." },
+          { "q": "A", "t": "Non importa! Sabato, allora?", "es": "¡No importa! ¿El sábado, entonces?" }
+        ]
+      },
+      "nota": "«Non» no necesita otro «no»: «non ho capito» ya es la negación completa. En la respuesta corta basta «No» o «No, non ho...»: Hai mangiato? - No, non ho mangiato. «Mi dispiace» (lo siento) es más suave que «scusa», que se usa para pedir perdón por un descuido."
+    },
+    {
+      "id": "it-a2-u3-l3",
+      "n": 3,
+      "titulo": "Ya y todavía no",
+      "objetivo": "Decir lo que ya hice y lo que todavía no hice con già y non ancora.",
+      "intro": "«Già» es «ya» y «ancora» con non es «todavía no». Ambos van entre el auxiliar y el participio: ho già finito, non ho ancora finito. Truco: già = ya, ancora = aún.",
+      "palabras": [
+        { "t": "già", "es": "ya", "pron": "yá", "ej": "Ho già finito il lavoro.", "ejes": "Ya terminé el trabajo.", "cog": false, "truco": "«gi» suena como «y» + acento: yá." },
+        { "t": "non ancora", "es": "todavía no / aún no", "pron": "non ancóra", "ej": "No, non ancora.", "ejes": "No, todavía no.", "cog": false, "truco": "Respuesta corta a Hai già...?" },
+        { "t": "non ho ancora", "es": "todavía no he", "pron": "non o ancóra", "ej": "Non ho ancora mangiato.", "ejes": "Todavía no he comido.", "cog": false },
+        { "t": "è già", "es": "ya (ella / él)", "pron": "è yá", "ej": "Ana è già arrivata.", "ejes": "Ana ya llegó.", "cog": false },
+        { "t": "non è ancora", "es": "todavía no (él / ella)", "pron": "non è ancóra", "ej": "Luca non è ancora arrivato.", "ejes": "Luca todavía no ha llegado.", "cog": false },
+        { "t": "ancora", "es": "otra vez / más", "pron": "ancóra", "ej": "Ancora un caffè, per favore.", "ejes": "Otro café más, por favor.", "cog": false, "truco": "Sin «non» significa «más / otra vez»." },
+        { "t": "appena", "es": "recién / apenas", "pron": "appéna", "ej": "Sono appena arrivato.", "ejes": "Acabo de llegar.", "cog": false, "truco": "Appena + participio = acabar de." },
+        { "t": "finalmente", "es": "por fin / finalmente", "pron": "finalménte", "ej": "Finalmente ho finito!", "ejes": "¡Por fin terminé!", "cog": true },
+        { "t": "ho già", "es": "ya he", "pron": "o yá", "ej": "Ho già mangiato, grazie.", "ejes": "Ya comí, gracias.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Hai già mangiato?", "es": "¿Ya comiste?", "pron": "ái yá manyáto" },
+        { "t": "Sì, ho già mangiato.", "es": "Sí, ya comí.", "pron": "sí, o yá manyáto" },
+        { "t": "No, non ho ancora mangiato.", "es": "No, todavía no comí.", "pron": "no, non o ancóra manyáto" },
+        { "t": "Luca non è ancora arrivato.", "es": "Luca todavía no llegó.", "pron": "lúca non è ancóra arriváto" },
+        { "t": "Sono appena tornata a casa.", "es": "Acabo de volver a casa.", "pron": "sóno appéna tornáta a cása" }
+      ],
+      "dialogo": {
+        "titulo": "¿Ya llegó?",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Giulia! Marco è già arrivato?", "es": "¡Hola, Giulia! ¿Marco ya llegó?" },
+          { "q": "B", "t": "No, non è ancora arrivato.", "es": "No, todavía no llegó." },
+          { "q": "A", "t": "E Ana?", "es": "¿Y Ana?" },
+          { "q": "B", "t": "Ana è già arrivata, ma non ha ancora mangiato.", "es": "Ana ya llegó, pero todavía no ha comido." },
+          { "q": "A", "t": "Allora aspettiamo Marco!", "es": "¡Entonces esperemos a Marco!" }
+        ]
+      },
+      "nota": "Con «già» en pregunta suele esperarse sí: Hai già mangiato? Responde: «Sì, ho già mangiato» o «No, non ancora». Ojo con «ancora»: «ancora» con non es «todavía no»; «ancora» sin non es «más / otra vez» (ancora un caffè). Con essere el participio también concuerda: è già arrivata."
+    },
+    {
+      "id": "it-a2-u3-l4",
+      "n": 4,
+      "titulo": "¿Alguna vez...?",
+      "objetivo": "Preguntar y decir si alguna vez hice algo con «mai» y contar cuántas veces.",
+      "intro": "«Mai» se traduce de dos formas: «nunca» (con non) y «alguna vez» (en pregunta, sin non). Truco: si ves «non» + «mai», es «nunca»; si ves «hai mai...?», es «¿alguna vez?».",
+      "palabras": [
+        { "t": "mai", "es": "nunca / alguna vez", "pron": "mái", "ej": "Hai mai visto il mare?", "ejes": "¿Alguna vez has visto el mar?", "cog": false, "truco": "Una sílaba: mái." },
+        { "t": "non ho mai", "es": "nunca he", "pron": "non o mái", "ej": "Non ho mai mangiato il tiramisù.", "ejes": "Nunca he comido tiramisú.", "cog": false },
+        { "t": "hai mai", "es": "¿alguna vez has?", "pron": "ái mái", "ej": "Hai mai viaggiato in Italia?", "ejes": "¿Alguna vez viajaste a Italia?", "cog": false },
+        { "t": "non sono mai stato", "es": "nunca he estado (hombre)", "pron": "non sóno mái státo", "ej": "Non sono mai stato a Firenze.", "ejes": "Nunca he estado en Florencia.", "cog": false },
+        { "t": "una volta", "es": "una vez", "pron": "úna vólta", "ej": "Ho visto Roma una volta.", "ejes": "Vi Roma una vez.", "cog": false, "truco": "Volta = vez." },
+        { "t": "due volte", "es": "dos veces", "pron": "dúe vólte", "ej": "Sono stato a Lima due volte.", "ejes": "Estuve en Lima dos veces.", "cog": false },
+        { "t": "molte volte", "es": "muchas veces", "pron": "mólte vólte", "ej": "Ho mangiato la pizza molte volte.", "ejes": "Comí pizza muchas veces.", "cog": false },
+        { "t": "sempre", "es": "siempre", "pron": "sémpre", "ej": "Ho sempre studiato italiano.", "ejes": "Siempre estudié italiano.", "cog": false },
+        { "t": "spesso", "es": "a menudo / seguido", "pron": "spésso", "ej": "Sono stata spesso al parco.", "ejes": "Estuve seguido en el parque.", "cog": false, "truco": "Doble s: spés-so." },
+        { "t": "qualche volta", "es": "algunas veces", "pron": "cuálque vólta", "ej": "Ho letto qualche volta un giornale.", "ejes": "Leí algunas veces un periódico.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Hai mai visto il mare?", "es": "¿Alguna vez has visto el mar?", "pron": "ái mái vísto il máre" },
+        { "t": "Non ho mai mangiato il tiramisù.", "es": "Nunca he comido tiramisú.", "pron": "non o mái manyáto il tiramisú" },
+        { "t": "Non sono mai stato a Firenze.", "es": "Nunca he estado en Florencia.", "pron": "non sóno mái státo a firéntse" },
+        { "t": "Sono stato a Lima due volte.", "es": "Estuve en Lima dos veces.", "pron": "sóno státo a líma dúe vólte" },
+        { "t": "Ho sempre studiato italiano.", "es": "Siempre estudié italiano.", "pron": "o sémpre studiáto italiáno" }
+      ],
+      "dialogo": {
+        "titulo": "Primera vez",
+        "lineas": [
+          { "q": "A", "t": "Marco, hai mai mangiato il tiramisù?", "es": "Marco, ¿alguna vez comiste tiramisú?" },
+          { "q": "B", "t": "No, non ho mai mangiato il tiramisù.", "es": "No, nunca comí tiramisú." },
+          { "q": "A", "t": "Davvero? Io ho mangiato il tiramisù molte volte.", "es": "¿De verdad? Yo comí tiramisú muchas veces." },
+          { "q": "B", "t": "Allora oggi mangio il tiramisù con te!", "es": "¡Entonces hoy como tiramisú contigo!" },
+          { "q": "A", "t": "Perfetto!", "es": "¡Perfecto!" }
+        ]
+      },
+      "nota": "«Mai» solo, sin verbo, también significa «nunca»: Hai visto Roma? Mai! En frases negativas se pone «non» al principio: non ho mai visto. Para «alguna vez» en pregunta no se usa «non»: hai mai visto...? «Volta» = vez: una volta, due volte (el plural cambia a -e)."
+    },
+    {
+      "id": "it-a2-u3-l5",
+      "n": 5,
+      "titulo": "Ya probé y todavía no (repaso)",
+      "objetivo": "Repasar preguntas, negación, già, ancora y mai en una conversación.",
+      "intro": "Hoy practicas todo junto: preguntar, responder que sí, que no, o que ya lo hiciste. Truco: elige primero la palabra clave (già / ancora / mai) y luego construye la frase con el auxiliar y el participio.",
+      "palabras": [
+        { "t": "ho assaggiato", "es": "probé (comida)", "pron": "o assaggiáto", "ej": "Ieri ho assaggiato il gelato.", "ejes": "Ayer probé el helado.", "cog": false, "truco": "Assaggiare = probar un sabor, no «probar» ropa." },
+        { "t": "il gelato", "es": "el helado", "pron": "il yeláto", "ej": "Mi piace il gelato.", "ejes": "Me gusta el helado.", "cog": false, "truco": "«ge» suena como «ye»: yeláto." },
+        { "t": "il tiramisù", "es": "el tiramisú", "pron": "il tiramisú", "ej": "Ho mangiato il tiramisù.", "ejes": "Comí tiramisú.", "cog": true, "truco": "Tira-mi-su: «tírame arriba»." },
+        { "t": "davvero", "es": "de verdad", "pron": "davvéro", "ej": "Davvero? Non l'ho mai visto.", "ejes": "¿De verdad? Nunca lo vi.", "cog": false, "truco": "Doble v: dav-vé-ro." },
+        { "t": "purtroppo", "es": "lamentablemente", "pron": "purtróppo", "ej": "Purtroppo non ho avuto tempo.", "ejes": "Lamentablemente no tuve tiempo.", "cog": false },
+        { "t": "che peccato", "es": "qué lástima", "pron": "que peccáto", "ej": "Che peccato, non sei venuto!", "ejes": "¡Qué lástima, no viniste!", "cog": false, "truco": "Peccato = pecado, pero aquí es «lástima»." },
+        { "t": "certo", "es": "claro / por supuesto", "pron": "chérto", "ej": "Certo, ho già finito.", "ejes": "Claro, ya terminé.", "cog": true },
+        { "t": "forse", "es": "quizás", "pron": "fórse", "ej": "Forse Luca è già arrivato.", "ejes": "Quizás Luca ya llegó.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Hai già assaggiato il gelato?", "es": "¿Ya probaste el helado?", "pron": "ái yá assaggiáto il yeláto" },
+        { "t": "No, non l'ho ancora assaggiato.", "es": "No, todavía no lo probé.", "pron": "no, non lo ancóra assaggiáto" },
+        { "t": "Purtroppo non ho avuto tempo.", "es": "Lamentablemente no tuve tiempo.", "pron": "purtróppo non o avúto témpo" },
+        { "t": "Davvero? Non l'ho mai visto.", "es": "¿De verdad? Nunca lo vi.", "pron": "davvéro? non lo mái vísto" },
+        { "t": "Certo, ho già finito.", "es": "Claro, ya terminé.", "pron": "chérto, o yá finíto" }
+      ],
+      "dialogo": {
+        "titulo": "Una cita con helado",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Ana! Hai già assaggiato il gelato italiano?", "es": "¡Hola, Ana! ¿Ya probaste el helado italiano?" },
+          { "q": "B", "t": "No, non ancora. Purtroppo non sono mai stata in Italia.", "es": "No, todavía no. Lamentablemente nunca he estado en Italia." },
+          { "q": "A", "t": "Che peccato! Io ci sono stata due volte.", "es": "¡Qué lástima! Yo estuve allí dos veces." },
+          { "q": "B", "t": "Davvero? E hai già mangiato il tiramisù?", "es": "¿De verdad? ¿Y ya comiste tiramisú?" },
+          { "q": "A", "t": "Certo, ho mangiato il gelato e il tiramisù!", "es": "¡Claro, comí helado y tiramisú!" }
+        ]
+      },
+      "nota": "Lo, la, li, le (pronombres de objeto) se verán más adelante: aquí «non l'ho ancora assaggiato» se cita como frase hecha; significa «no lo he probado todavía». «Ci sono stata» = «estuve allí»: «ci» sustituye al lugar; por ahora cópialo tal cual. En italiano cuenta mucho el tono: davvero? con voz de sorpresa muestra interés."
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "id": "it-a2-u2",
+  "idioma": "it",
+  "nivel": "A2",
+  "n": 2,
+  "titulo": "Cosas que hice",
+  "resumen": "Aprenderás el passato prossimo con essere (sono andato, sono stata...) y los participios irregulares más usados: fatto, detto, visto, preso, letto, scritto.",
+  "puedo": [
+    "Contar adónde fui, con quién salí y cuándo llegué usando essere.",
+    "Hacer concordar el participio con el sujeto: andato / andata / andati / andate.",
+    "Decir sono stato a... y è stato bello.",
+    "Usar los participios irregulares fatto, detto, visto, preso, letto y scritto.",
+    "Contar mi día de ayer en orden con prima, poi, dopo y alla fine."
+  ],
+  "gramatica": {
+    "titulo": "Passato prossimo con essere y participios irregulares",
+    "texto": "Los verbos de movimiento y de estado (andare, venire, uscire, arrivare, partire, tornare, essere...) usan «essere» como auxiliar, no «avere»: sono andato, sono stata. Con essere el participio CONCUERDA con el sujeto: -o (él), -a (ella), -i (ellos), -e (ellas): Marco è andato, Ana è andata, Marco e Luca sono andati, Ana e Giulia sono andate.\nAlgunos verbos tienen participio irregular y se aprenden de memoria: fare - fatto, dire - detto, vedere - visto, prendere - preso, leggere - letto, scrivere - scritto, essere - stato. Estos (menos essere) usan avere: ho fatto, ho visto.\nOjo: «sono stato» sirve para «estuve» y para «fui».",
+    "tabla": [
+      ["io sono andato / andata", "yo fui", "ío sóno andáto / andáta"],
+      ["lui è andato / lei è andata", "él fue / ella fue", "lui è andáto / léi è andáta"],
+      ["noi siamo andati / andate", "nosotros fuimos", "nói siámo andáti / andáte"],
+      ["ho fatto (fare)", "hice", "o fátto"],
+      ["ho detto (dire)", "dije", "o détto"],
+      ["ho visto (vedere)", "vi", "o vísto"],
+      ["ho preso (prendere)", "tomé / agarré", "o préso"],
+      ["sono stato / stata (essere)", "fui / estuve", "sóno státo / státa"]
+    ],
+    "errores": [
+      "No uses avere con los verbos de movimiento: se dice «sono andato», no «ho andato». Pregúntate: ¿me muevo o cambio de lugar? Entonces essere.",
+      "Con essere el participio cambia: «Ana è andato» es un error; es «Ana è andata». Con avere nunca cambia (Ana ha mangiato).",
+      "No inventes participios: es «fatto» (no «fato» ni «fado») y «visto» (no «vedito»). Las dobles tt se pronuncian con más fuerza."
+    ]
+  },
+  "practica": [
+    "Escribe 5 frases sobre adónde fuiste esta semana, con «Sono andato/a...» y concuerda el final con tu género (5 minutos).",
+    "Repite en voz alta, rápido: ho fatto, ho detto, ho visto, ho preso, ho letto, ho scritto, sono stato (3 minutos).",
+    "Cuéntale a alguien, en italiano, tu día de ayer en orden con «Prima... poi... dopo... alla fine...» (5 minutos).",
+    "Escribe un mensaje corto a un amigo contándole un lugar donde fuiste y qué hiciste allí, con al menos 4 frases (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-a2-u2-l1",
+      "n": 1,
+      "titulo": "Ir, venir y llegar",
+      "objetivo": "Decir adónde fui, con quién salí y cuándo llegué usando «sono» + participio.",
+      "intro": "Los verbos que indican movimiento forman el pasado con «sono», «sei», «è». El participio cambia según el género: un hombre dice «sono andato», una mujer «sono andata». Truco: piensa en el final de tu nombre: -o o -a.",
+      "palabras": [
+        { "t": "sono andato", "es": "fui (hombre)", "pron": "sóno andáto", "ej": "Ieri sono andato al cinema.", "ejes": "Ayer fui al cine.", "cog": false, "truco": "Andare es el verbo «ir»; participio andato." },
+        { "t": "sono andata", "es": "fui (mujer)", "pron": "sóno andáta", "ej": "Sabato sono andata al mercato.", "ejes": "El sábado fui al mercado.", "cog": false },
+        { "t": "sono venuto", "es": "vine (hombre)", "pron": "sóno venúto", "ej": "Domenica sono venuto a casa tua.", "ejes": "El domingo vine a tu casa.", "cog": false, "truco": "Venire = venir; participio venuto." },
+        { "t": "sei uscito", "es": "saliste (hombre)", "pron": "séi ushíto", "ej": "Ieri sera sei uscito con Marco?", "ejes": "¿Anoche saliste con Marco?", "cog": false, "truco": "«sc» + i suena «sh»: ushíto." },
+        { "t": "è arrivata", "es": "llegó (ella)", "pron": "è arriváta", "ej": "Ana è arrivata alle otto.", "ejes": "Ana llegó a las ocho.", "cog": false, "truco": "Doble r: ar-ri-vá-ta." },
+        { "t": "sono partito", "es": "partí / me fui (hombre)", "pron": "sóno partíto", "ej": "Domenica sono partito per Roma.", "ejes": "El domingo partí a Roma.", "cog": true },
+        { "t": "sono tornato", "es": "volví (hombre)", "pron": "sóno tornáto", "ej": "Stamattina sono tornato a casa.", "ejes": "Esta mañana volví a casa.", "cog": false, "truco": "Tornare = volver; no es «tornar»." },
+        { "t": "è entrato", "es": "entró (hombre)", "pron": "è entráto", "ej": "Luca è entrato in un bar.", "ejes": "Luca entró en un bar.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Ieri sono andato al cinema.", "es": "Ayer fui al cine.", "pron": "iéri sóno andáto al chínema" },
+        { "t": "Sabato sono andata al mercato.", "es": "El sábado fui al mercado.", "pron": "sábato sóno andáta al mercáto" },
+        { "t": "Ana è arrivata alle otto.", "es": "Ana llegó a las ocho.", "pron": "ána è arriváta ále ótto" },
+        { "t": "Luca è uscito con gli amici.", "es": "Luca salió con los amigos.", "pron": "lúca è ushíto con li amíchi" },
+        { "t": "Sono tornato a casa tardi.", "es": "Volví a casa tarde.", "pron": "sóno tornáto a cása tárdi" }
+      ],
+      "dialogo": {
+        "titulo": "Una salida con amigos",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Ana! Sei uscita ieri sera?", "es": "¡Hola, Ana! ¿Saliste anoche?" },
+          { "q": "B", "t": "Sì, sono uscita con Giulia.", "es": "Sí, salí con Giulia." },
+          { "q": "A", "t": "Siete andate al cinema?", "es": "¿Fueron al cine?" },
+          { "q": "B", "t": "Sì, e sono tornata tardi.", "es": "Sí, y volví tarde." },
+          { "q": "A", "t": "Che bello!", "es": "¡Qué bien!" }
+        ]
+      },
+      "nota": "«Sei uscita» (tú, mujer) y «sei uscito» (tú, hombre): la pregunta cambia según quién escucha. Para el plural: «siete andate» (todas mujeres) o «siete andati» (hombres o mixto). Si hay un solo hombre en un grupo de mujeres, se usa el masculino plural."
+    },
+    {
+      "id": "it-a2-u2-l2",
+      "n": 2,
+      "titulo": "Estuve en...",
+      "objetivo": "Decir dónde estuve y cómo fue algo con «sono stato» y «è stato».",
+      "intro": "«Stato» es el participio de «essere» (ser/estar) y también de «stare». Sirve para «estuve» y «fui». Truco: Sono stato a Roma = Estuve en Roma. Y «è stato bello» = fue bonito.",
+      "palabras": [
+        { "t": "sono stato", "es": "estuve / fui (hombre)", "pron": "sóno státo", "ej": "Ieri sono stato al parco.", "ejes": "Ayer estuve en el parque.", "cog": false, "truco": "Stato = estado, igual que en español." },
+        { "t": "sono stata", "es": "estuve / fui (mujer)", "pron": "sóno státa", "ej": "Sabato sono stata al mare.", "ejes": "El sábado estuve en la playa.", "cog": false },
+        { "t": "sei stato", "es": "estuviste / fuiste", "pron": "séi státo", "ej": "Sei stato a Roma?", "ejes": "¿Estuviste en Roma?", "cog": false },
+        { "t": "è stato", "es": "fue / estuvo (cosa o él)", "pron": "è státo", "ej": "Il concerto è stato molto bello.", "ejes": "El concierto fue muy bonito.", "cog": false, "truco": "Con cosas y eventos: è stato bello, è stato difficile." },
+        { "t": "siamo stati", "es": "estuvimos / fuimos", "pron": "siámo státi", "ej": "L'anno scorso siamo stati in Italia.", "ejes": "El año pasado estuvimos en Italia.", "cog": false },
+        { "t": "siamo andati", "es": "fuimos (hombres o mixto)", "pron": "siámo andáti", "ej": "Domenica siamo andati al parco.", "ejes": "El domingo fuimos al parque.", "cog": false },
+        { "t": "siete usciti", "es": "salieron (ustedes)", "pron": "siéte ushíti", "ej": "Ieri sera siete usciti presto?", "ejes": "¿Anoche salieron temprano?", "cog": false },
+        { "t": "sono arrivate", "es": "llegaron (ellas)", "pron": "sóno arriváte", "ej": "Le mie amiche sono arrivate alle nove.", "ejes": "Mis amigas llegaron a las nueve.", "cog": false, "truco": "Sujeto femenino plural: -e." },
+        { "t": "sono rimasto", "es": "me quedé (hombre)", "pron": "sóno rimásto", "ej": "Domenica sono rimasto a casa.", "ejes": "El domingo me quedé en casa.", "cog": false, "truco": "Rimanere = quedarse; participio rimasto." },
+        { "t": "sono nato", "es": "nací (hombre)", "pron": "sóno náto", "ej": "Sono nato a Lima.", "ejes": "Nací en Lima.", "cog": false, "truco": "Mujer: sono nata." }
+      ],
+      "frases": [
+        { "t": "Sono stato a Roma.", "es": "Estuve en Roma.", "pron": "sóno státo a róma" },
+        { "t": "Sabato sono stata al mare.", "es": "El sábado estuve en la playa.", "pron": "sábato sóno státa al máre" },
+        { "t": "Il concerto è stato molto bello.", "es": "El concierto fue muy bonito.", "pron": "il conchérto è státo mólto bélo" },
+        { "t": "Siamo stati in Italia.", "es": "Estuvimos en Italia.", "pron": "siámo státi in itália" },
+        { "t": "Domenica sono rimasto a casa.", "es": "El domingo me quedé en casa.", "pron": "doménica sóno rimásto a cása" }
+      ],
+      "dialogo": {
+        "titulo": "Un viaje a Italia",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Luca! Sei stato in Italia?", "es": "¡Hola, Luca! ¿Estuviste en Italia?" },
+          { "q": "B", "t": "Sì, sono stato a Roma e a Firenze.", "es": "Sí, estuve en Roma y en Florencia." },
+          { "q": "A", "t": "Com'è stato il viaggio?", "es": "¿Cómo fue el viaje?" },
+          { "q": "B", "t": "È stato molto bello!", "es": "¡Fue muy bonito!" },
+          { "q": "A", "t": "Che bello! Sono contenta.", "es": "¡Qué bien! Me alegro." }
+        ]
+      },
+      "nota": "«Sono stato» y «sono andato» no son lo mismo: sono stato a Roma = estuve en Roma (ya no estoy); sono andato a Roma = fui a Roma (el movimiento). Ojo con «Firenze» (no «Florencia»): los nombres de ciudades cambian. «Sono contenta» concuerda con quien habla: mujer -a, hombre -o."
+    },
+    {
+      "id": "it-a2-u2-l3",
+      "n": 3,
+      "titulo": "Participios irregulares",
+      "objetivo": "Usar los participios irregulares más comunes con avere.",
+      "intro": "Algunos verbos no siguen la regla -ato/-uto/-ito. Se aprenden de memoria y son los más usados. Truco: casi todos terminan en doble consonante (-tto, -sto, -so), como fatto, detto, visto, preso.",
+      "palabras": [
+        { "t": "ho fatto", "es": "hice / he hecho", "pron": "o fátto", "ej": "Ieri ho fatto la spesa.", "ejes": "Ayer hice las compras.", "cog": false, "truco": "Fare -> fatto. Doble t fuerte." },
+        { "t": "ho detto", "es": "dije / he dicho", "pron": "o détto", "ej": "Ho detto la verità.", "ejes": "Dije la verdad.", "cog": false, "truco": "Dire -> detto (como «dicho»)." },
+        { "t": "ho visto", "es": "vi / he visto", "pron": "o vísto", "ej": "Ieri ho visto un film.", "ejes": "Ayer vi una película.", "cog": false, "truco": "Vedere -> visto." },
+        { "t": "ho preso", "es": "tomé / agarré", "pron": "o préso", "ej": "Stamattina ho preso il treno.", "ejes": "Esta mañana tomé el tren.", "cog": false, "truco": "Prendere sirve para tomar un tren, un café, un taxi." },
+        { "t": "ho letto", "es": "leí / he leído", "pron": "o léto", "ej": "Sabato ho letto un libro.", "ejes": "El sábado leí un libro.", "cog": false },
+        { "t": "ho scritto", "es": "escribí / he escrito", "pron": "o scrítto", "ej": "Ieri ho scritto una email a Luca.", "ejes": "Ayer escribí un correo a Luca.", "cog": false, "truco": "Scrivere -> scritto; «sc» + r suena sk." },
+        { "t": "ho bevuto", "es": "bebí / he bebido", "pron": "o bevúto", "ej": "Ieri sera ho bevuto un tè.", "ejes": "Anoche bebí un té.", "cog": false, "truco": "Bere -> bevuto (con v)." },
+        { "t": "ho aperto", "es": "abrí / he abierto", "pron": "o apérto", "ej": "Ho aperto la finestra.", "ejes": "Abrí la ventana.", "cog": false },
+        { "t": "ho chiesto", "es": "pedí / pregunté", "pron": "o quiésto", "ej": "Ho chiesto il conto.", "ejes": "Pedí la cuenta.", "cog": false, "truco": "«ch» + i suena «qu»: quiésto. Chiedere sirve para pedir y preguntar." },
+        { "t": "ho messo", "es": "puse / he puesto", "pron": "o mésso", "ej": "Ho messo lo zucchero nel caffè.", "ejes": "Puse el azúcar en el café.", "cog": false, "truco": "Mettere = poner; participio messo." }
+      ],
+      "frases": [
+        { "t": "Ieri ho fatto la spesa.", "es": "Ayer hice las compras.", "pron": "iéri o fátto la spésa" },
+        { "t": "Ho visto un film bellissimo.", "es": "Vi una película muy bonita.", "pron": "o vísto un film bellíssimo" },
+        { "t": "Stamattina ho preso il treno.", "es": "Esta mañana tomé el tren.", "pron": "stamatína o préso il tren" },
+        { "t": "Ho scritto una email a Luca.", "es": "Escribí un correo a Luca.", "pron": "o scritto úna ímeil a lúca" },
+        { "t": "Ho chiesto il conto.", "es": "Pedí la cuenta.", "pron": "o quiésto il cónto" },
+        { "t": "Ho letto un libro.", "es": "Leí un libro.", "pron": "o léto un líbro" }
+      ],
+      "dialogo": {
+        "titulo": "Cuéntame tu ayer",
+        "lineas": [
+          { "q": "A", "t": "Che cosa hai fatto ieri?", "es": "¿Qué hiciste ayer?" },
+          { "q": "B", "t": "Ho fatto la spesa e ho letto un libro.", "es": "Hice las compras y leí un libro." },
+          { "q": "A", "t": "E ieri sera?", "es": "¿Y anoche?" },
+          { "q": "B", "t": "Ho visto un film con Giulia.", "es": "Vi una película con Giulia." },
+          { "q": "A", "t": "Che bello! Io ho scritto a Luca.", "es": "¡Qué bien! Yo le escribí a Luca." }
+        ]
+      },
+      "nota": "Estos participios irregulares siempre se forman con avere en esta lección. Una buena forma de memorizarlos es por parejas: fare-fatto, dire-detto, vedere-visto, prendere-preso, leggere-letto, scrivere-scritto. «Bellissimo» (muy bonito) lo estudiarás en la unidad 5; por ahora aprende la frase tal cual."
+    },
+    {
+      "id": "it-a2-u2-l4",
+      "n": 4,
+      "titulo": "Mi día de ayer",
+      "objetivo": "Contar una secuencia de acciones con prima, poi, dopo y alla fine.",
+      "intro": "Para contar una historia en orden usa conectores: primero, luego, después, al final. Truco: «prima... poi... alla fine» es la receta básica de cualquier relato corto.",
+      "palabras": [
+        { "t": "prima", "es": "primero / antes", "pron": "príma", "ej": "Prima ho fatto la spesa.", "ejes": "Primero hice las compras.", "cog": false, "truco": "Prima = primero." },
+        { "t": "poi", "es": "luego / después", "pron": "pói", "ej": "Poi sono andato al parco.", "ejes": "Luego fui al parque.", "cog": false, "truco": "Una sílaba: pói (como «poi» en español)." },
+        { "t": "dopo", "es": "después", "pron": "dópo", "ej": "Dopo ho cenato con Ana.", "ejes": "Después cené con Ana.", "cog": false },
+        { "t": "alla fine", "es": "al final", "pron": "ála fíne", "ej": "Alla fine sono tornato a casa.", "ejes": "Al final volví a casa.", "cog": false },
+        { "t": "di mattina", "es": "por la mañana", "pron": "di mattína", "ej": "Di mattina ho preso un caffè.", "ejes": "Por la mañana tomé un café.", "cog": false },
+        { "t": "di pomeriggio", "es": "por la tarde", "pron": "di pomerídyo", "ej": "Di pomeriggio sono andato al mercato.", "ejes": "Por la tarde fui al mercado.", "cog": false, "truco": "«gg» + io suena «dy»: pomerídyo." },
+        { "t": "di sera", "es": "por la noche", "pron": "di séra", "ej": "Di sera ho guardato un film.", "ejes": "Por la noche miré una película.", "cog": false },
+        { "t": "tutto il giorno", "es": "todo el día", "pron": "túto il yórno", "ej": "Ho lavorato tutto il giorno.", "ejes": "Trabajé todo el día.", "cog": false },
+        { "t": "presto", "es": "temprano / pronto", "pron": "présto", "ej": "Sono uscito presto.", "ejes": "Salí temprano.", "cog": false },
+        { "t": "tardi", "es": "tarde", "pron": "tárdi", "ej": "Sono tornata tardi.", "ejes": "Volví tarde.", "cog": false, "truco": "No confundas con «tarde» (hora del día): eso es pomeriggio." }
+      ],
+      "frases": [
+        { "t": "Prima ho fatto la spesa.", "es": "Primero hice las compras.", "pron": "príma o fátto la spésa" },
+        { "t": "Poi sono andato al parco.", "es": "Luego fui al parque.", "pron": "pói sóno andáto al párco" },
+        { "t": "Dopo ho cenato con Ana.", "es": "Después cené con Ana.", "pron": "dópo o chenáto con ána" },
+        { "t": "Alla fine sono tornato a casa.", "es": "Al final volví a casa.", "pron": "ála fíne sóno tornáto a cása" },
+        { "t": "Ho lavorato tutto il giorno.", "es": "Trabajé todo el día.", "pron": "o lavoráto túto il yórno" },
+        { "t": "Sono uscita presto e sono tornata tardi.", "es": "Salí temprano y volví tarde.", "pron": "sóno ushíta présto e sóno tornáta tárdi" }
+      ],
+      "dialogo": {
+        "titulo": "Contar la jornada",
+        "lineas": [
+          { "q": "A", "t": "Come è stata la tua giornata, Marco?", "es": "¿Cómo fue tu día, Marco?" },
+          { "q": "B", "t": "Di mattina ho lavorato. Di pomeriggio sono andato al mercato.", "es": "Por la mañana trabajé. Por la tarde fui al mercado." },
+          { "q": "A", "t": "E di sera?", "es": "¿Y por la noche?" },
+          { "q": "B", "t": "Prima ho cenato, poi ho guardato un film.", "es": "Primero cené, luego miré una película." },
+          { "q": "A", "t": "Alla fine sei andato a letto presto?", "es": "¿Al final te acostaste temprano?" }
+        ]
+      },
+      "nota": "«Dopo» y «poi» se parecen, pero «poi» une acciones en una historia y «dopo» también puede significar «después de»: dopo cena. «Di mattina» y «di sera» (por la mañana, por la noche) indican el período del día. «Andare a letto» = acostarse; ya lo puedes usar con essere: sono andato a letto."
+    },
+    {
+      "id": "it-a2-u2-l5",
+      "n": 5,
+      "titulo": "Lugares y planes (repaso)",
+      "objetivo": "Repasar essere y avere en pasado hablando de lugares y salidas.",
+      "intro": "Hoy mezclas todo: verbos con essere, participios irregulares y conectores. Antes de hablar, decide: ¿me moví (essere) o hice algo (avere)? Truco: lugar + movimiento = essere; acción sobre algo = avere.",
+      "palabras": [
+        { "t": "la spesa", "es": "las compras (del mercado)", "pron": "la spésa", "ej": "Ho fatto la spesa.", "ejes": "Hice las compras.", "cog": false, "truco": "Fare la spesa = hacer las compras de comida." },
+        { "t": "al mercato", "es": "al mercado", "pron": "al mercáto", "ej": "Sono andato al mercato.", "ejes": "Fui al mercado.", "cog": true },
+        { "t": "al cinema", "es": "al cine", "pron": "al chínema", "ej": "Siamo andati al cinema.", "ejes": "Fuimos al cine.", "cog": true, "truco": "«ci» suena «chi»: chínema." },
+        { "t": "al concerto", "es": "al concierto", "pron": "al conchérto", "ej": "Sabato siamo andati al concerto.", "ejes": "El sábado fuimos al concierto.", "cog": true },
+        { "t": "una gita", "es": "una excursión", "pron": "úna yíta", "ej": "Domenica abbiamo fatto una gita.", "ejes": "El domingo hicimos una excursión.", "cog": false, "truco": "Fare una gita = salir de excursión; «al» = a + il." },
+        { "t": "al museo", "es": "al museo", "pron": "al muzéo", "ej": "Ieri sono stato al museo.", "ejes": "Ayer estuve en el museo.", "cog": true },
+        { "t": "il viaggio", "es": "el viaje", "pron": "il viádyo", "ej": "Il viaggio è stato bello.", "ejes": "El viaje fue bonito.", "cog": true, "truco": "«gg» + io suena «dy»: viádyo." },
+        { "t": "alla festa", "es": "a la fiesta", "pron": "ála fésta", "ej": "Sono andata alla festa.", "ejes": "Fui a la fiesta.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Ieri ho fatto la spesa al mercato.", "es": "Ayer hice las compras en el mercado.", "pron": "iéri o fátto la spésa al mercáto" },
+        { "t": "Sabato siamo andati al concerto.", "es": "El sábado fuimos al concierto.", "pron": "sábato siámo andáti al conchérto" },
+        { "t": "Domenica sono stata al museo con Ana.", "es": "El domingo estuve en el museo con Ana.", "pron": "doménica sóno státa al musêo con ána" },
+        { "t": "Il viaggio è stato molto bello.", "es": "El viaje fue muy bonito.", "pron": "il viádyo è státo mólto bélo" },
+        { "t": "Abbiamo fatto una gita al parco.", "es": "Hicimos una excursión al parque.", "pron": "abbiámo fátto úna yíta al párco" }
+      ],
+      "dialogo": {
+        "titulo": "Un domingo diferente",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Giulia! Che cosa avete fatto domenica?", "es": "¡Hola, Giulia! ¿Qué hicieron el domingo?" },
+          { "q": "B", "t": "Siamo andati al museo e abbiamo visto una mostra.", "es": "Fuimos al museo y vimos una exposición." },
+          { "q": "A", "t": "E poi?", "es": "¿Y luego?" },
+          { "q": "B", "t": "Poi abbiamo preso un caffè e siamo tornati a casa.", "es": "Luego tomamos un café y volvimos a casa." },
+          { "q": "A", "t": "Che bella giornata!", "es": "¡Qué lindo día!" }
+        ]
+      },
+      "nota": "«La mostra» (exposición) aparece en el diálogo como palabra extra: no la confundas con «mostra» de «mostrar». Para recordar qué auxiliar usar: si el verbo te lleva a un lugar o describe cómo estás (andare, venire, essere, stare), usa essere; si haces algo con un objeto (fare la spesa, prendere un caffè), usa avere."
+    }
+  ]
+}
