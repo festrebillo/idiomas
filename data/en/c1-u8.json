@@ -88,7 +88,7 @@
         { "t": "flexible", "es": "flexible", "pron": "fléxibol", "ej": "We can be flexible on the delivery date.", "ejes": "Podemos ser flexibles con la fecha de entrega.", "cog": true }
       ],
       "frases": [
-        { "t": "We will agree provided that payment is made in advance.", "es": "Aceptaremos siempre que el pago se haga por adelantado.", "pron": "ui uil agrí prováidid dat péiment is meid in advans" },
+        { "t": "We will agree provided that payment is made in advance.", "es": "Aceptaremos siempre que el pago se haga por adelantado.", "pron": "ui uil agrí prováidid dat péiment is meid in adváns" },
         { "t": "That works for us as long as delivery is on time.", "es": "Eso nos sirve siempre que la entrega sea puntual.", "pron": "dat uerks for as as long as delíveri is on taim" },
         { "t": "We are willing to meet you halfway on the price.", "es": "Estamos dispuestos a encontrarnos a medio camino en el precio.", "pron": "ui ar uílin tu mit iu jáfuei on da prais" },
         { "t": "We offer a discount in exchange for a longer contract.", "es": "Ofrecemos un descuento a cambio de un contrato más largo.", "pron": "ui ófer a dískaunt in ikschéinch for a lónguer cóntract" },
@@ -150,7 +150,7 @@
       "palabras": [
         { "t": "seal the deal", "es": "cerrar el trato", "pron": "sil da dil", "ej": "A handshake helped us seal the deal.", "ejes": "Un apretón de manos nos ayudó a cerrar el trato.", "cog": false },
         { "t": "finalize", "es": "finalizar, ultimar", "pron": "fáinalaiz", "ej": "We hope to finalize the contract by Friday.", "ejes": "Esperamos ultimar el contrato para el viernes.", "cog": true },
-        { "t": "decline", "es": "rechazar cortésmente", "pron": "diclain", "ej": "We regret that we must decline your kind offer.", "ejes": "Lamentamos tener que rechazar su amable oferta.", "cog": true },
+        { "t": "decline", "es": "rechazar cortésmente", "pron": "dicláin", "ej": "We regret that we must decline your kind offer.", "ejes": "Lamentamos tener que rechazar su amable oferta.", "cog": true },
         { "t": "regret to inform", "es": "lamentar informar", "pron": "rigrét tu infórm", "ej": "We regret to inform you that the position is filled.", "ejes": "Lamentamos informarle que el puesto ya fue cubierto.", "cog": false },
         { "t": "stalemate", "es": "punto muerto", "pron": "stéilmeit", "ej": "The talks ended in a stalemate.", "ejes": "Las conversaciones terminaron en un punto muerto.", "cog": false },
         { "t": "back out", "es": "echarse atrás", "pron": "bac aut", "ej": "The investors threatened to back out of the deal.", "ejes": "Los inversionistas amenazaron con echarse atrás del trato.", "cog": false },
@@ -160,7 +160,7 @@
       "frases": [
         { "t": "A handshake helped us seal the deal.", "es": "Un apretón de manos nos ayudó a cerrar el trato.", "pron": "a jándsheic jelpt as sil da dil" },
         { "t": "We hope to finalize the contract by Friday.", "es": "Esperamos ultimar el contrato para el viernes.", "pron": "ui joup tu fáinalaiz da cóntract bai fráidei" },
-        { "t": "We regret to inform you that we must decline your offer.", "es": "Lamentamos informarle que debemos rechazar su oferta.", "pron": "ui rigrét tu infórm iu dat ui mast diclain ior ófer" },
+        { "t": "We regret to inform you that we must decline your offer.", "es": "Lamentamos informarle que debemos rechazar su oferta.", "pron": "ui rigrét tu infórm iu dat ui mast dicláin ior ófer" },
         { "t": "The talks ended in a stalemate.", "es": "Las conversaciones terminaron en un punto muerto.", "pron": "da tocs éndid in a stéilmeit" },
         { "t": "We want an agreement that is mutually beneficial.", "es": "Queremos un acuerdo beneficioso para ambas partes.", "pron": "ui uont an agrímen dat is miúchuali benefíshial" }
       ],

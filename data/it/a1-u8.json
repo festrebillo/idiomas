@@ -51,7 +51,7 @@
         { "t": "la giacca", "es": "la chaqueta", "pron": "la yáca", "ej": "La giacca è qui.", "ejes": "La chaqueta está aquí.", "cog": true, "truco": "«gia» suena «ya»; la «cc» es una «k» fuerte." },
         { "t": "il cappello", "es": "el sombrero / la gorra", "pron": "il capélo", "ej": "Il cappello è qui.", "ejes": "El sombrero está aquí.", "cog": false, "truco": "Ojo: «capello» con una sola «p» es el cabello." },
         { "t": "i calzini", "es": "las medias / los calcetines", "pron": "i caltsíni", "ej": "Ho i calzini.", "ejes": "Tengo las medias.", "cog": false, "truco": "«z» suena «ts»: caltsíni." },
-        { "t": "la maglietta", "es": "la polera / la camiseta", "pron": "la maliéta", "ej": "Mi piace la maglietta.", "ejes": "Me gusta la polera.", "cog": false, "truco": "«gli» suena como la «ll» andina de «llave»." },
+        { "t": "la maglietta", "es": "la polera / la camiseta", "pron": "la malyéta", "ej": "Mi piace la maglietta.", "ejes": "Me gusta la polera.", "cog": false, "truco": "«gli» suena como la «ll» andina de «llave»." },
         { "t": "la gonna", "es": "la falda", "pron": "la góna", "ej": "Ecco la gonna.", "ejes": "Aquí está la falda.", "cog": false },
         { "t": "il cappotto", "es": "el abrigo", "pron": "il capóto", "ej": "Mi piace il cappotto.", "ejes": "Me gusta el abrigo.", "cog": false }
       ],
@@ -88,7 +88,7 @@
         { "t": "nero", "es": "negro", "pron": "néro", "ej": "Il cappotto è nero.", "ejes": "El abrigo es negro.", "cog": false, "truco": "Femenino: nera." },
         { "t": "bianco", "es": "blanco", "pron": "biánco", "ej": "Il cappello è bianco.", "ejes": "El sombrero es blanco.", "cog": false, "truco": "Femenino: bianca; plural: bianchi (suena «biánqui»)." },
         { "t": "il colore", "es": "el color", "pron": "il colóre", "ej": "Il colore è rosso.", "ejes": "El color es rojo.", "cog": true },
-        { "t": "la taglia", "es": "la talla", "pron": "la tália", "ej": "Vorrei la taglia media.", "ejes": "Quisiera la talla mediana.", "cog": true, "truco": "«gli» suena como la «ll» andina: tália." },
+        { "t": "la taglia", "es": "la talla", "pron": "la tálya", "ej": "Vorrei la taglia media.", "ejes": "Quisiera la talla mediana.", "cog": true, "truco": "«gli» suena como la «ll» andina: tálya." },
         { "t": "piccola", "es": "pequeña (talla S)", "pron": "píkola", "ej": "Una taglia piccola, per favore.", "ejes": "Una talla pequeña, por favor.", "cog": false, "truco": "Masculino: piccolo. Un cappello piccolo." },
         { "t": "media", "es": "mediana (talla M)", "pron": "média", "ej": "Una taglia media, per favore.", "ejes": "Una talla mediana, por favor.", "cog": true },
         { "t": "grande", "es": "grande (talla L)", "pron": "gránde", "ej": "Una taglia grande, per favore.", "ejes": "Una talla grande, por favor.", "cog": true, "truco": "Sirve para masculino y femenino: il cappello grande, la giacca grande." }
@@ -98,8 +98,8 @@
         { "t": "La giacca è blu e la gonna è verde.", "es": "La chaqueta es azul y la falda es verde.", "pron": "la yáca è blu e la góna è vérde" },
         { "t": "Il cappotto è nero.", "es": "El abrigo es negro.", "pron": "il capóto è néro" },
         { "t": "I calzini sono bianchi.", "es": "Las medias son blancas.", "pron": "i caltsíni sóno biánqui" },
-        { "t": "Vorrei la taglia media.", "es": "Quisiera la talla mediana.", "pron": "vorréi la tália média" },
-        { "t": "Una taglia grande, per favore.", "es": "Una talla grande, por favor.", "pron": "úna tália gránde, per favóre" }
+        { "t": "Vorrei la taglia media.", "es": "Quisiera la talla mediana.", "pron": "vorréi la tálya média" },
+        { "t": "Una taglia grande, per favore.", "es": "Una talla grande, por favor.", "pron": "úna tálya gránde, per favóre" }
       ],
       "dialogo": {
         "titulo": "Elegir una camisa",
@@ -134,7 +134,7 @@
       ],
       "frases": [
         { "t": "Cerco una giacca.", "es": "Busco una chaqueta.", "pron": "chérco úna yáca" },
-        { "t": "Avete una taglia media?", "es": "¿Tienen una talla mediana?", "pron": "avéte úna tália média" },
+        { "t": "Avete una taglia media?", "es": "¿Tienen una talla mediana?", "pron": "avéte úna tálya média" },
         { "t": "Posso provarlo?", "es": "¿Puedo probármelo?", "pron": "pósso provárlo" },
         { "t": "È troppo grande.", "es": "Es demasiado grande.", "pron": "è trópo gránde" },
         { "t": "È troppo piccola.", "es": "Es demasiado pequeña.", "pron": "è trópo píkola" },
@@ -169,7 +169,7 @@
         { "t": "economico", "es": "barato / económico", "pron": "económico", "ej": "Il cappello è economico.", "ejes": "El sombrero es barato.", "cog": true, "truco": "Femenino: economica." },
         { "t": "gratis", "es": "gratis", "pron": "grátis", "ej": "Il biglietto è gratis.", "ejes": "El boleto es gratis.", "cog": true },
         { "t": "in offerta", "es": "en oferta", "pron": "in oférta", "ej": "Il cappello è in offerta.", "ejes": "El sombrero está en oferta.", "cog": true },
-        { "t": "il portafoglio", "es": "la billetera / la cartera", "pron": "il portafólio", "ej": "Ecco il portafoglio.", "ejes": "Aquí está la billetera.", "cog": false, "truco": "Portare + foglio: «llevar hojas» (billetes)." }
+        { "t": "il portafoglio", "es": "la billetera / la cartera", "pron": "il portafólyo", "ej": "Ecco il portafoglio.", "ejes": "Aquí está la billetera.", "cog": false, "truco": "Portare + foglio: «llevar hojas» (billetes)." }
       ],
       "frases": [
         { "t": "Quanto costa questo vestito?", "es": "¿Cuánto cuesta este vestido?", "pron": "cuánto cósta cuésto vestíto" },

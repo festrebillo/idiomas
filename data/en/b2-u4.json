@@ -116,7 +116,7 @@
       "intro": "Con verbos como say, believe, think, report puedes decir «se dice que». Hay dos moldes: It is said that she is rich / She is said to be rich. Truco: es muy común en noticias y textos formales.",
       "palabras": [
         { "t": "is said to", "es": "se dice que", "pron": "is sed tu", "ej": "The old house is said to be haunted.", "ejes": "Se dice que la casa vieja está embrujada.", "cog": false },
-        { "t": "is believed to", "es": "se cree que", "pron": "is bilivd tu", "ej": "He is believed to be abroad.", "ejes": "Se cree que está en el extranjero.", "cog": false },
+        { "t": "is believed to", "es": "se cree que", "pron": "is bilívd tu", "ej": "He is believed to be abroad.", "ejes": "Se cree que está en el extranjero.", "cog": false },
         { "t": "is reported to", "es": "se informa que", "pron": "is ripórtid tu", "ej": "The fire is reported to have started at night.", "ejes": "Se informa que el incendio empezó de noche.", "cog": false },
         { "t": "is known to", "es": "se sabe que", "pron": "is noun tu", "ej": "The author is known to be very private.", "ejes": "Se sabe que el autor es muy reservado.", "cog": false },
         { "t": "is thought to", "es": "se piensa que", "pron": "is zot tu", "ej": "The painting is thought to be a fake.", "ejes": "Se piensa que el cuadro es falso.", "cog": false },
@@ -126,7 +126,7 @@
       ],
       "frases": [
         { "t": "It is said that the old house is haunted.", "es": "Se dice que la casa vieja está embrujada.", "pron": "it is sed dat di ould jaus is jóntid" },
-        { "t": "He is believed to be living abroad.", "es": "Se cree que vive en el extranjero.", "pron": "ji is bilivd tu bi lívin abrod" },
+        { "t": "He is believed to be living abroad.", "es": "Se cree que vive en el extranjero.", "pron": "ji is bilívd tu bi lívin abród" },
         { "t": "The company is thought to have lost millions.", "es": "Se piensa que la empresa perdió millones.", "pron": "da cámpani is zot tu jav lost mílions" },
         { "t": "The fire is reported to have started at night.", "es": "Se informa que el incendio empezó de noche.", "pron": "da faier is ripórtid tu jav stártid at nait" },
         { "t": "It is known that she speaks five languages.", "es": "Se sabe que ella habla cinco idiomas.", "pron": "it is noun dat shi spiks faiv lánguiyis" }

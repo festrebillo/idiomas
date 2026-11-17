@@ -47,7 +47,7 @@
         { "t": "deadpan", "es": "inexpresivo (humor serio)", "pron": "dédpan", "ej": "She delivered the joke with a deadpan expression.", "ejes": "Contó el chiste con una expresión inexpresiva.", "cog": false },
         { "t": "wry", "es": "irónico, con humor seco", "pron": "rai", "ej": "He gave a wry smile and shook his head.", "ejes": "Esbozó una sonrisa irónica y negó con la cabeza.", "cog": false },
         { "t": "sardonic", "es": "sardónico, burlón", "pron": "sardónic", "ej": "His sardonic tone made everyone uncomfortable.", "ejes": "Su tono sardónico incomodó a todos.", "cog": true },
-        { "t": "tongue-in-cheek", "es": "en tono de broma, irónico", "pron": "tong-in-chiic", "ej": "It was a tongue-in-cheek remark, not a serious one.", "ejes": "Fue un comentario en broma, no uno serio.", "cog": false },
+        { "t": "tongue-in-cheek", "es": "en tono de broma, irónico", "pron": "tóng-in-chíic", "ej": "It was a tongue-in-cheek remark, not a serious one.", "ejes": "Fue un comentario en broma, no uno serio.", "cog": false },
         { "t": "facetious", "es": "burlón, que bromea a destiempo", "pron": "fasíshos", "ej": "Stop being facetious; this is serious.", "ejes": "Deja de bromear; esto es serio.", "cog": false },
         { "t": "irony", "es": "ironía", "pron": "áironi", "ej": "The irony is that the fire station burned down.", "ejes": "La ironía es que la estación de bomberos se incendió.", "cog": true },
         { "t": "mock", "es": "burlarse de", "pron": "moc", "ej": "Don't mock people for making an honest mistake.", "ejes": "No te burles de la gente por cometer un error honesto.", "cog": false }
@@ -118,7 +118,7 @@
         { "t": "a perfect storm", "es": "una tormenta perfecta", "pron": "a pérfect storm", "ej": "Inflation and unemployment created a perfect storm.", "ejes": "La inflación y el desempleo crearon una tormenta perfecta.", "cog": false },
         { "t": "an uphill battle", "es": "una lucha cuesta arriba", "pron": "an ap-jil bátol", "ej": "Reforming the system will be an uphill battle.", "ejes": "Reformar el sistema será una lucha cuesta arriba.", "cog": false },
         { "t": "a blessing in disguise", "es": "una bendición disfrazada", "pron": "a blésing in disgáis", "ej": "Losing that job was a blessing in disguise.", "ejes": "Perder ese empleo fue una bendición disfrazada.", "cog": false },
-        { "t": "a wake-up call", "es": "una llamada de atención", "pron": "a ueic-ap col", "ej": "The audit was a wake-up call for the whole team.", "ejes": "La auditoría fue una llamada de atención para todo el equipo.", "cog": false },
+        { "t": "a wake-up call", "es": "una llamada de atención", "pron": "a uéic-ap cól", "ej": "The audit was a wake-up call for the whole team.", "ejes": "La auditoría fue una llamada de atención para todo el equipo.", "cog": false },
         { "t": "a glimmer of hope", "es": "un rayo de esperanza", "pron": "a glímer ov joup", "ej": "The latest data offers a glimmer of hope.", "ejes": "Los últimos datos ofrecen un rayo de esperanza.", "cog": false },
         { "t": "a drop in the ocean", "es": "una gota en el océano", "pron": "a drop in di óushan", "ej": "The donation was a drop in the ocean.", "ejes": "La donación fue una gota en el océano.", "cog": false }
       ],

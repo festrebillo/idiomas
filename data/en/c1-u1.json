@@ -55,7 +55,7 @@
       "frases": [
         { "t": "Never have I seen such dedication.", "es": "Nunca he visto tanta dedicación.", "pron": "néver jav ai siin sach dedikéishon" },
         { "t": "Rarely does he ask for help, even when he needs it.", "es": "Rara vez pide ayuda, incluso cuando la necesita.", "pron": "rérli das ji ask for jelp, ívn juen ji niids it" },
-        { "t": "Seldom have the markets reacted so sharply.", "es": "Rara vez los mercados han reaccionado de forma tan brusca.", "pron": "séldom jav da márquets riáctid sou sharpli" },
+        { "t": "Seldom have the markets reacted so sharply.", "es": "Rara vez los mercados han reaccionado de forma tan brusca.", "pron": "séldom jav da márquets riáctid sou shárpli" },
         { "t": "Never before had the company faced such scrutiny.", "es": "Nunca antes la empresa había enfrentado tanto escrutinio.", "pron": "néver bifór jad da cámpani feist sach scrútini" },
         { "t": "Scarcely anyone read the full report.", "es": "Apenas alguien leyó el informe completo.", "pron": "skérsli éniuan red da ful ripórt" }
       ],
@@ -123,9 +123,9 @@
         { "t": "aftermath", "es": "secuelas, consecuencias", "pron": "áfterzmaz", "ej": "In the aftermath of the scandal, the CEO resigned.", "ejes": "Tras el escándalo, el director ejecutivo renunció.", "cog": false }
       ],
       "frases": [
-        { "t": "No sooner had we arrived than it started to rain.", "es": "Apenas llegamos, empezó a llover.", "pron": "nou súner jad ui aráivd dan it started tu rein" },
+        { "t": "No sooner had we arrived than it started to rain.", "es": "Apenas llegamos, empezó a llover.", "pron": "nou súner jad ui aráivd dan it stárted tu rein" },
         { "t": "Hardly had she finished speaking when the audience applauded.", "es": "Apenas terminó de hablar, el público aplaudió.", "pron": "járdli jad shi fínisht spíkin juen di ódiens aplódid" },
-        { "t": "Scarcely had the news broken when shares plunged.", "es": "Apenas se dio la noticia, las acciones se desplomaron.", "pron": "skérsli jad da nius brouken juen shers plangd" },
+        { "t": "Scarcely had the news broken when shares plunged.", "es": "Apenas se dio la noticia, las acciones se desplomaron.", "pron": "skérsli jad da nius bróuken juen shers plangd" },
         { "t": "No sooner was the policy announced than critics attacked it.", "es": "Apenas se anunció la política, los críticos la atacaron.", "pron": "nou súner uas da pólisi anáunst dan crítics atákt it" },
         { "t": "Hardly had the dust settled when a new problem emerged.", "es": "Apenas se asentó el polvo, surgió un nuevo problema.", "pron": "járdli jad da dast sétld juen a niu próblem imérrd" }
       ],
@@ -162,7 +162,7 @@
         { "t": "At no point was the client informed of the risk.", "es": "En ningún momento se informó al cliente del riesgo.", "pron": "at nou point uas da cláient infórmd ov da risk" },
         { "t": "On no account may visitors enter the laboratory.", "es": "De ningún modo pueden entrar visitantes al laboratorio.", "pron": "on nou acáunt mei vísitors énter da lábratori" },
         { "t": "Little did she realize how serious the situation was.", "es": "Poco se imaginaba lo grave que era la situación.", "pron": "lítol did shi ríalaiz jau síirios da sitiuéishon uas" },
-        { "t": "In no way does this decision reflect on your performance.", "es": "De ninguna manera esta decisión refleja tu desempeño.", "pron": "in nou uei das dis disíshon riflect on ior performans" }
+        { "t": "In no way does this decision reflect on your performance.", "es": "De ninguna manera esta decisión refleja tu desempeño.", "pron": "in nou uei das dis disíshon rifléct on ior perfórmans" }
       ],
       "dialogo": {
         "titulo": "Normas de seguridad",

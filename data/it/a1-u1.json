@@ -135,7 +135,7 @@
         { "t": "Sono del Perù.", "es": "Soy del Perú.", "pron": "sóno del perú" },
         { "t": "Sono peruviana.", "es": "Soy peruana.", "pron": "sóno peruviána" },
         { "t": "Sono della Colombia.", "es": "Soy de Colombia.", "pron": "sóno déla colómbia" },
-        { "t": "Sono degli Stati Uniti.", "es": "Soy de Estados Unidos.", "pron": "sóno déli státi uníti" }
+        { "t": "Sono degli Stati Uniti.", "es": "Soy de Estados Unidos.", "pron": "sóno délyi státi uníti" }
       ],
       "dialogo": {
         "titulo": "En una fiesta",
@@ -196,7 +196,7 @@
       "palabras": [
         { "t": "sei", "es": "eres / estás", "pron": "séi", "ej": "Sei di Lima?", "ejes": "¿Eres de Lima?", "cog": false },
         { "t": "non", "es": "no (delante del verbo)", "pron": "non", "ej": "Non sono italiano.", "ejes": "No soy italiano.", "cog": true, "truco": "«Non» va justo antes del verbo." },
-        { "t": "anche", "es": "también", "pron": "ánque", "ej": "Anche io sono di Lima.", "ejes": "Yo también soy de Lima.", "cog": false, "truco": "«ch» + e = «k»: án-ke." },
+        { "t": "anche", "es": "también", "pron": "ánke", "ej": "Anche io sono di Lima.", "ejes": "Yo también soy de Lima.", "cog": false, "truco": "«ch» + e = «k»: án-ke." },
         { "t": "dove", "es": "dónde", "pron": "dóve", "ej": "Dove sei?", "ejes": "¿Dónde estás?", "cog": false },
         { "t": "italiano", "es": "italiano", "pron": "italiáno", "ej": "Marco è italiano.", "ejes": "Marco es italiano.", "cog": true },
         { "t": "italiana", "es": "italiana", "pron": "italiána", "ej": "Giulia è italiana.", "ejes": "Giulia es italiana.", "cog": true },
@@ -210,7 +210,7 @@
         { "t": "No, non sono messicana.", "es": "No, no soy mexicana.", "pron": "no, non sóno messicána" },
         { "t": "Di dove siete?", "es": "¿De dónde son ustedes?", "pron": "di dóve siéte" },
         { "t": "Non siamo di Roma.", "es": "No somos de Roma.", "pron": "non siámo di róma" },
-        { "t": "Anche io sono peruviano.", "es": "Yo también soy peruano.", "pron": "ánque ío sóno peruviáno" }
+        { "t": "Anche io sono peruviano.", "es": "Yo también soy peruano.", "pron": "ánke ío sóno peruviáno" }
       ],
       "dialogo": {
         "titulo": "¿Eres mexicana?",

@@ -95,7 +95,7 @@
         { "t": "I'm studying English.", "es": "Estoy estudiando inglés.", "pron": "aim stádiin ínglish" },
         { "t": "She's cooking dinner.", "es": "Ella está preparando la cena.", "pron": "shis cúkin díner" },
         { "t": "They're waiting for the bus.", "es": "Están esperando el bus.", "pron": "deir uéitin for da bas" },
-        { "t": "He's calling his mother now.", "es": "Ahora él está llamando a su mamá.", "pron": "jis cólin jis móder nau" },
+        { "t": "He's calling his mother now.", "es": "Ahora él está llamando a su mamá.", "pron": "jis cólin jis máder nau" },
         { "t": "I'm eating right now. Call me later.", "es": "Estoy comiendo ahora mismo. Llámame después.", "pron": "aim ítin rait nau. col mi léiter" }
       ],
       "dialogo": {
@@ -201,7 +201,7 @@
         { "t": "see you", "es": "nos vemos", "pron": "si iú", "ej": "See you tomorrow!", "ejes": "¡Nos vemos mañana!", "cog": false }
       ],
       "frases": [
-        { "t": "Hi! My name is Carlos. I'm from Peru.", "es": "¡Hola! Me llamo Carlos. Soy de Perú.", "pron": "jai! mai neim is cárlos. aim from perú" },
+        { "t": "Hi! My name is Carlos. I'm from Peru.", "es": "¡Hola! Me llamo Carlos. Soy de Perú.", "pron": "jai! mai neim is cárlos. aim fram perú" },
         { "t": "I'd like a coffee, please. How much is it?", "es": "Quisiera un café, por favor. ¿Cuánto cuesta?", "pron": "aid laik a cófi, plis. jau mach is it" },
         { "t": "Excuse me, how do I get to the station?", "es": "Disculpe, ¿cómo llego a la estación?", "pron": "ikskiús mi, jau du ai guet tu da stéishon" },
         { "t": "I love dancing, but I can't sing.", "es": "Me encanta bailar, pero no sé cantar.", "pron": "ai lov dánsin, bat ai kant sing" },

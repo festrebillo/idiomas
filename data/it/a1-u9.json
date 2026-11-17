@@ -16,7 +16,7 @@
     "titulo": "Piacere, potere y sapere",
     "texto": "«Piacere» (gustar) funciona como en español: lo que te gusta es el sujeto. Mi piace + singular o infinitivo (mi piace leggere), mi piacciono + plural (mi piacciono i film). Para negar: non mi piace. Con «tú»: ti piace / ti piacciono.\nPotere y sapere son dos tipos de «poder»: posso = puedo (tengo permiso, tiempo o posibilidad) y so = sé hacer (lo aprendí). Conjugación: posso, puoi, può, possiamo, potete, possono; so, sai, sa, sappiamo, sapete, sanno.\nTruco: «So nuotare» = sé nadar (tengo la habilidad). «Posso nuotare» = puedo nadar hoy (no estoy enfermo, hay una piscina). Los dos se usan con el infinitivo: so cantare, posso uscire.",
     "tabla": [
-      ["mi piace leggere", "me gusta leer", "mi piáche léyere"],
+      ["mi piace leggere", "me gusta leer", "mi piáche lédyere"],
       ["mi piacciono i film", "me gustan las películas", "mi piáchono i film"],
       ["non mi piace ballare", "no me gusta bailar", "non mi piáche baláre"],
       ["ti piace il calcio?", "¿te gusta el fútbol?", "ti piáche il cálcho"],
@@ -44,23 +44,23 @@
       "intro": "Los verbos italianos terminan en -are, -ere o -ire; así los encuentras en un diccionario (ballare = bailar). Truco: «mi piace» + verbo en infinitivo = me gusta + verbo: «mi piace leggere». Para preguntar: «ti piace...?».",
       "palabras": [
         { "t": "il passatempo", "es": "el pasatiempo", "pron": "il pasatémpo", "ej": "Il passatempo di Luca è cucinare.", "ejes": "El pasatiempo de Luca es cocinar.", "cog": true, "truco": "Pasa + tempo: lo que haces en tu tiempo libre." },
-        { "t": "leggere", "es": "leer", "pron": "léyere", "ej": "Mi piace leggere.", "ejes": "Me gusta leer.", "cog": true, "truco": "«gg» + e suena «y» suave: léyere." },
+        { "t": "leggere", "es": "leer", "pron": "lédyere", "ej": "Mi piace leggere.", "ejes": "Me gusta leer.", "cog": true, "truco": "«gg» + e suena «dy»: lédyere." },
         { "t": "cucinare", "es": "cocinar", "pron": "cuchináre", "ej": "Mi piace cucinare.", "ejes": "Me gusta cocinar.", "cog": true, "truco": "«ci» suena «chi»: cuchi-ná-re." },
         { "t": "ballare", "es": "bailar", "pron": "baláre", "ej": "Mi piace ballare.", "ejes": "Me gusta bailar.", "cog": true },
-        { "t": "disegnare", "es": "dibujar", "pron": "disenyáre", "ej": "Mi piace disegnare.", "ejes": "Me gusta dibujar.", "cog": true, "truco": "«gn» suena «ñ»: diseñáre." },
-        { "t": "viaggiare", "es": "viajar", "pron": "viayáre", "ej": "Mi piace viaggiare.", "ejes": "Me gusta viajar.", "cog": true, "truco": "«gg» + i suena «y»: viayáre." },
+        { "t": "disegnare", "es": "dibujar", "pron": "diseñáre", "ej": "Mi piace disegnare.", "ejes": "Me gusta dibujar.", "cog": true, "truco": "«gn» suena «ñ»: diseñáre." },
+        { "t": "viaggiare", "es": "viajar", "pron": "viadyáre", "ej": "Mi piace viaggiare.", "ejes": "Me gusta viajar.", "cog": true, "truco": "«gg» + i suena «dy»: viadyáre." },
         { "t": "guardare", "es": "mirar / ver", "pron": "guardáre", "ej": "Mi piace guardare un film.", "ejes": "Me gusta ver una película.", "cog": true },
         { "t": "il film", "es": "la película", "pron": "il film", "ej": "Il film è bello.", "ejes": "La película es bonita.", "cog": true, "truco": "No cambia en plural: i film." },
         { "t": "il libro", "es": "el libro", "pron": "il líbro", "ej": "Mi piace il libro.", "ejes": "Me gusta el libro.", "cog": true },
         { "t": "ascoltare", "es": "escuchar", "pron": "ascoltáre", "ej": "Mi piace ascoltare la radio.", "ejes": "Me gusta escuchar la radio.", "cog": false, "truco": "Parece «auscultar»; en italiano es escuchar." }
       ],
       "frases": [
-        { "t": "Mi piace leggere.", "es": "Me gusta leer.", "pron": "mi piáche léyere" },
+        { "t": "Mi piace leggere.", "es": "Me gusta leer.", "pron": "mi piáche lédyere" },
         { "t": "Mi piace cucinare.", "es": "Me gusta cocinar.", "pron": "mi piáche cuchináre" },
         { "t": "Non mi piace ballare.", "es": "No me gusta bailar.", "pron": "non mi piáche baláre" },
         { "t": "Mi piace guardare un film.", "es": "Me gusta ver una película.", "pron": "mi piáche guardáre un film" },
-        { "t": "Mi piace viaggiare.", "es": "Me gusta viajar.", "pron": "mi piáche viayáre" },
-        { "t": "Ti piace disegnare?", "es": "¿Te gusta dibujar?", "pron": "ti piáche disenyáre" }
+        { "t": "Mi piace viaggiare.", "es": "Me gusta viajar.", "pron": "mi piáche viadyáre" },
+        { "t": "Ti piace disegnare?", "es": "¿Te gusta dibujar?", "pron": "ti piáche diseñáre" }
       ],
       "dialogo": {
         "titulo": "Hablando de pasatiempos",
@@ -133,7 +133,7 @@
       "frases": [
         { "t": "Ti piace il calcio?", "es": "¿Te gusta el fútbol?", "pron": "ti piáche il cálcho" },
         { "t": "Mi piacciono i film.", "es": "Me gustan las películas.", "pron": "mi piáchono i film" },
-        { "t": "Adoro viaggiare.", "es": "Me encanta viajar.", "pron": "adóro viayáre" },
+        { "t": "Adoro viaggiare.", "es": "Me encanta viajar.", "pron": "adóro viadyáre" },
         { "t": "Odio correre.", "es": "Odio correr.", "pron": "ódio córere" },
         { "t": "Anche a me!", "es": "¡A mí también!", "pron": "ánke a me" },
         { "t": "Neanche a me.", "es": "A mí tampoco.", "pron": "neánke a me" }
@@ -211,7 +211,7 @@
         { "t": "Andiamo al cinema!", "es": "¡Vamos al cine!", "pron": "andiámo al chínema" },
         { "t": "Bella idea! Andiamo insieme.", "es": "¡Buena idea! Vamos juntos.", "pron": "béla idéa! andiámo insiéme" },
         { "t": "D'accordo, perché no?", "es": "De acuerdo, ¿por qué no?", "pron": "dacórdo, perqué no" },
-        { "t": "Forse sì, forse no.", "es": "Quizá sí, quizá no.", "pron": "fórse sì, fórse no" },
+        { "t": "Forse sì, forse no.", "es": "Quizá sí, quizá no.", "pron": "fórse sí, fórse no" },
         { "t": "Il concerto è alle otto.", "es": "El concierto es a las ocho.", "pron": "il conchérto è álle ótto" }
       ],
       "dialogo": {

@@ -50,7 +50,7 @@
         { "t": "ajudar a", "es": "ayudar a", "pron": "ayudár a", "ej": "Posso ajudar a organizar o evento.", "ejes": "Puedo ayudar a organizar el evento.", "cog": false },
         { "t": "passar a", "es": "pasar a, comenzar a", "pron": "pasár a", "ej": "Depois do curso, vou passar a entender melhor.", "ejes": "Después del curso voy a pasar a entender mejor.", "cog": false },
         { "t": "chegar a", "es": "llegar a", "pron": "shegár a", "ej": "Ela pode chegar a chorar de emoção.", "ejes": "Ella puede llegar a llorar de emoción.", "cog": false },
-        { "t": "decidir", "es": "decidir", "pron": "desidír", "ej": "Vou decidir mudar de emprego.", "ejes": "Voy a decidir cambiar de empleo.", "cog": true },
+        { "t": "decidir", "es": "decidir", "pron": "desidír", "ej": "Preciso decidir hoje se vou mudar de emprego.", "ejes": "Necesito decidir hoy si me cambio de empleo.", "cog": true },
         { "t": "tentar", "es": "intentar", "pron": "tentár", "ej": "Vou tentar chegar cedo.", "ejes": "Voy a intentar llegar temprano.", "cog": false }
       ],
       "frases": [
@@ -81,13 +81,13 @@
       "palabras": [
         { "t": "deixar de", "es": "dejar de", "pron": "deishár dyi", "ej": "Quero deixar de fumar este ano.", "ejes": "Quiero dejar de fumar este año.", "cog": false },
         { "t": "parar de", "es": "parar de", "pron": "parár dyi", "ej": "A chuva vai parar de cair logo.", "ejes": "La lluvia va a dejar de caer pronto.", "cog": false },
-        { "t": "acabar de", "es": "acabar de", "pron": "akabár dyi", "ej": "Prefiro acabar de ler antes de sair.", "ejes": "Prefiero terminar de leer antes de salir.", "cog": false },
+        { "t": "acabar de", "es": "acabar de", "pron": "akabár dyi", "ej": "", "ejes": "", "cog": false },
         { "t": "terminar de", "es": "terminar de", "pron": "terminár dyi", "ej": "Vou terminar de ler o livro hoje.", "ejes": "Voy a terminar de leer el libro hoy.", "cog": false },
         { "t": "precisar de", "es": "necesitar", "pron": "presisár dyi", "ej": "Vou precisar de ajuda com o relatório.", "ejes": "Voy a necesitar ayuda con el informe.", "cog": false },
-        { "t": "gostar de", "es": "gustar, querer", "pron": "gostár dyi", "ej": "Eu vou gostar de viajar com amigos.", "ejes": "Me va a gustar viajar con amigos.", "cog": false },
+        { "t": "gostar de", "es": "gustar, querer", "pron": "gostár dyi", "ej": "Sei que você vai gostar de viajar com a gente.", "ejes": "Sé que te va a gustar viajar con nosotros.", "cog": false },
         { "t": "esquecer de", "es": "olvidarse de", "pron": "eskesér dyi", "ej": "Não vou esquecer de fechar a porta.", "ejes": "No me voy a olvidar de cerrar la puerta.", "cog": false },
         { "t": "lembrar de", "es": "acordarse de", "pron": "lembrár dyi", "ej": "Preciso lembrar de comprar o pão.", "ejes": "Tengo que acordarme de comprar el pan.", "cog": false },
-        { "t": "cansar de", "es": "cansarse de", "pron": "kansár dyi", "ej": "Vou cansar de esperar o ônibus.", "ejes": "Me voy a cansar de esperar el bus.", "cog": false }
+        { "t": "cansar de", "es": "cansarse de", "pron": "kansár dyi", "ej": "Se o ônibus continuar atrasando, vou cansar de esperar.", "ejes": "Si el bus sigue atrasándose, me voy a cansar de esperar.", "cog": false }
       ],
       "frases": [
         { "t": "Quero deixar de comer açúcar.", "es": "Quiero dejar de comer azúcar.", "pron": "kéru deishár dyi komér asúkar" },
@@ -121,7 +121,7 @@
         { "t": "ir melhorando", "es": "ir mejorando", "pron": "ír melyorándu", "ej": "É normal ir melhorando aos poucos.", "ejes": "Es normal ir mejorando poco a poco.", "cog": false },
         { "t": "viver reclamando", "es": "vivir quejándose", "pron": "vivér reklamándu", "ej": "Meu vizinho gosta de viver reclamando do barulho.", "ejes": "A mi vecino le gusta vivir quejándose del ruido.", "cog": false },
         { "t": "passar o dia estudando", "es": "pasar el día estudiando", "pron": "pasár u día estudándu", "ej": "Gosto de passar o dia estudando na biblioteca.", "ejes": "Me gusta pasar el día estudiando en la biblioteca.", "cog": false },
-        { "t": "estar fazendo", "es": "estar haciendo", "pron": "estár fazéndu", "ej": "Não quero estar fazendo isso à noite.", "ejes": "No quiero estar haciendo esto de noche.", "cog": false },
+        { "t": "estar fazendo", "es": "estar haciendo", "pron": "estár fazéndu", "ej": "Amanhã a essa hora eu vou estar fazendo a prova.", "ejes": "Mañana a esta hora voy a estar dando el examen.", "cog": false },
         { "t": "sair correndo", "es": "salir corriendo", "pron": "saír korréndu", "ej": "Ele ouviu o alarme e quis sair correndo.", "ejes": "Oyó la alarma y quiso salir corriendo.", "cog": false },
         { "t": "gerúndio", "es": "gerundio", "pron": "yerúndyiu", "ej": "O gerúndio termina sempre em -ndo.", "ejes": "El gerundio siempre termina en -ndo.", "cog": true }
       ],
@@ -189,7 +189,7 @@
       "palabras": [
         { "t": "voltar a", "es": "volver a", "pron": "vowtár a", "ej": "Quero voltar a estudar à noite.", "ejes": "Quiero volver a estudiar de noche.", "cog": false },
         { "t": "deixar de", "es": "dejar de", "pron": "deishár dyi", "ej": "Ela quer deixar de trabalhar às sextas.", "ejes": "Ella quiere dejar de trabajar los viernes.", "cog": false },
-        { "t": "acabar de", "es": "acabar de", "pron": "akabár dyi", "ej": "Vou acabar de arrumar a casa antes de os convidados chegarem.", "ejes": "Voy a terminar de ordenar la casa antes de que lleguen los invitados.", "cog": false },
+        { "t": "acabar de", "es": "acabar de", "pron": "akabár dyi", "ej": "", "ejes": "", "cog": false },
         { "t": "continuar", "es": "seguir, continuar", "pron": "kontinuár", "ej": "Podemos continuar amanhã.", "ejes": "Podemos continuar mañana.", "cog": true },
         { "t": "pensar em", "es": "pensar en", "pron": "pensár ein", "ej": "Vou pensar em viajar no verão.", "ejes": "Voy a pensar en viajar en el verano.", "cog": false },
         { "t": "sonhar com", "es": "soñar con", "pron": "soñár kon", "ej": "Ela gosta de sonhar com um futuro melhor.", "ejes": "A ella le gusta soñar con un futuro mejor.", "cog": false },

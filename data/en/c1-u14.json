@@ -55,7 +55,7 @@
       "frases": [
         { "t": "The data was unreliable, so we discarded it.", "es": "Los datos eran poco confiables, así que los descartamos.", "pron": "da déita uas anriláiabol, sou ui diskárded it" },
         { "t": "It is illegal to copy the software without a license.", "es": "Es ilegal copiar el software sin licencia.", "pron": "it is ilígal tu cópi da sóftuer uidáut a láisens" },
-        { "t": "It was irresponsible to publish the story without checking.", "es": "Fue irresponsable publicar la historia sin verificarla.", "pron": "it uas irrispónsibol tu pábliish da stori uidáut chékin" },
+        { "t": "It was irresponsible to publish the story without checking.", "es": "Fue irresponsable publicar la historia sin verificarla.", "pron": "it uas irrispónsibol tu pábliish da stóri uidáut chékin" },
         { "t": "Don't misinterpret my silence as agreement.", "es": "No malinterpretes mi silencio como acuerdo.", "pron": "dont misintérpret mai sáilens as agrímint" },
         { "t": "The idea is attractive but impractical.", "es": "La idea es atractiva pero poco práctica.", "pron": "di aidía is atráctiv bat impráctical" }
       ],
@@ -89,9 +89,9 @@
         { "t": "antisocial", "es": "antisocial, poco sociable", "pron": "antisóushal", "ej": "Antisocial behavior is not tolerated here.", "ejes": "Aquí no se tolera el comportamiento antisocial.", "cog": true }
       ],
       "frases": [
-        { "t": "Don't underestimate how long the project will take.", "es": "No subestimes cuánto tomará el proyecto.", "pron": "dont anderestimeit jau long da próyect uil teik" },
-        { "t": "They overestimated demand and ended up with huge stock.", "es": "Sobrestimaron la demanda y terminaron con un gran inventario.", "pron": "dei ouverestimeited dimánd and énded ap uid yiuch stoc" },
-        { "t": "We should rethink our approach to hiring.", "es": "Deberíamos replantear nuestro enfoque de contratación.", "pron": "ui shud rizínk áuer aprouch tu jáirin" },
+        { "t": "Don't underestimate how long the project will take.", "es": "No subestimes cuánto tomará el proyecto.", "pron": "dont anderéstimeit jau long da próyect uil teik" },
+        { "t": "They overestimated demand and ended up with huge stock.", "es": "Sobrestimaron la demanda y terminaron con un gran inventario.", "pron": "dei ouveréstimeited dimánd and énded ap uid yiuch stoc" },
+        { "t": "We should rethink our approach to hiring.", "es": "Deberíamos replantear nuestro enfoque de contratación.", "pron": "ui shud rizínk áuer apróuch tu jáirin" },
         { "t": "He is doing a postgraduate degree in law.", "es": "Está haciendo un posgrado en derecho.", "pron": "ji is dúin a postgrádiuet digrí in lo" },
         { "t": "She felt underpaid and overworked.", "es": "Se sentía mal pagada y sobrecargada.", "pron": "shi felt anderpéid and ouveruérct" }
       ],

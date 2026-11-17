@@ -115,8 +115,8 @@
       "objetivo": "Distinguir affect/effect, economic/economical, historic/historical y principal/principle.",
       "intro": "Algunos pares se escriben o suenan casi igual pero significan cosas distintas, incluso para nativos. Truco: affect es un verbo (afectar); effect suele ser sustantivo (efecto). Si puedes poner the delante, es effect.",
       "palabras": [
-        { "t": "affect", "es": "afectar (verbo)", "pron": "afect", "ej": "Stress can affect your health.", "ejes": "El estrés puede afectar tu salud.", "cog": true },
-        { "t": "effect", "es": "efecto (sustantivo)", "pron": "ifect", "ej": "The new law had a positive effect.", "ejes": "La nueva ley tuvo un efecto positivo.", "cog": true },
+        { "t": "affect", "es": "afectar (verbo)", "pron": "aféct", "ej": "Stress can affect your health.", "ejes": "El estrés puede afectar tu salud.", "cog": true },
+        { "t": "effect", "es": "efecto (sustantivo)", "pron": "iféct", "ej": "The new law had a positive effect.", "ejes": "La nueva ley tuvo un efecto positivo.", "cog": true },
         { "t": "economic", "es": "económico (relativo a la economía)", "pron": "ikonómic", "ej": "The country faces an economic crisis.", "ejes": "El país enfrenta una crisis económica.", "cog": true },
         { "t": "economical", "es": "económico (barato, que ahorra)", "pron": "ikonómical", "ej": "This car is very economical to run.", "ejes": "Este auto es muy económico de mantener.", "cog": true },
         { "t": "historic", "es": "histórico (de gran importancia)", "pron": "jistóric", "ej": "It was a historic victory for the team.", "ejes": "Fue una victoria histórica para el equipo.", "cog": true },
@@ -125,8 +125,8 @@
         { "t": "principle", "es": "principio (regla moral)", "pron": "prínsipol", "ej": "He refused on principle to take the bribe.", "ejes": "Se negó por principios a aceptar el soborno.", "cog": true }
       ],
       "frases": [
-        { "t": "The weather can affect our flight schedule.", "es": "El clima puede afectar nuestro horario de vuelo.", "pron": "da uéder can afect áuer flait skédiul" },
-        { "t": "The medicine had an immediate effect.", "es": "La medicina tuvo un efecto inmediato.", "pron": "da médisin jad an imídiet ifect" },
+        { "t": "The weather can affect our flight schedule.", "es": "El clima puede afectar nuestro horario de vuelo.", "pron": "da uéder can aféct áuer flait skédiul" },
+        { "t": "The medicine had an immediate effect.", "es": "La medicina tuvo un efecto inmediato.", "pron": "da médisin jad an imídiet iféct" },
         { "t": "The economic outlook is uncertain.", "es": "Las perspectivas económicas son inciertas.", "pron": "di ikonómic áutluc is ansértn" },
         { "t": "It was a historic moment for the whole nation.", "es": "Fue un momento histórico para toda la nación.", "pron": "it uas a jistóric móumen for da joul néishon" },
         { "t": "I admire her for sticking to her principle.", "es": "La admiro por mantenerse fiel a su principio.", "pron": "ai admáier jer for stícin tu jer prínsipol" }
@@ -198,7 +198,7 @@
       ],
       "frases": [
         { "t": "It is essential that learners consolidate vocabulary regularly.", "es": "Es esencial que los estudiantes consoliden su vocabulario con regularidad.", "pron": "it is esénshal dat lérners consólideit vocábiuleri régiulerli" },
-        { "t": "Broadly speaking, my fluency has improved considerably.", "es": "En términos generales, mi fluidez ha mejorado considerablemente.", "pron": "bródli spíkin, mai flúensi jas improuvd consíderabli" },
+        { "t": "Broadly speaking, my fluency has improved considerably.", "es": "En términos generales, mi fluidez ha mejorado considerablemente.", "pron": "bródli spíkin, mai flúensi jas imprúvd consíderabli" },
         { "t": "Should you need further practice, try the review exercises.", "es": "Si necesitaras más práctica, prueba los ejercicios de repaso.", "pron": "shud iu nid férder práctis, trai da rivíu éxersaises" },
         { "t": "To some extent, proficiency depends on daily exposure.", "es": "Hasta cierto punto, el dominio depende de la exposición diaria.", "pron": "tu sam ikstént, proféshensi dipénds on déili ikspóuyer" },
         { "t": "Reaching C1 is a milestone that took commitment.", "es": "Llegar a C1 es un hito que exigió compromiso.", "pron": "ríchin si uan is a máilstoun dat tuc comítment" },

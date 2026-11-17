@@ -54,7 +54,7 @@
       ],
       "frases": [
         { "t": "Your thesis statement should be clear and arguable.", "es": "Tu tesis debe ser clara y discutible.", "pron": "ior zísis stéitment shud bi clir and árguiabol" },
-        { "t": "Each paragraph begins with a topic sentence.", "es": "Cada párrafo empieza con una oración temática.", "pron": "ich páragraf biginz uid a tópic séntens" },
+        { "t": "Each paragraph begins with a topic sentence.", "es": "Cada párrafo empieza con una oración temática.", "pron": "ich páragraf bigínz uid a tópic séntens" },
         { "t": "Write an outline before you start drafting.", "es": "Escribe un esquema antes de empezar el borrador.", "pron": "rait an áutlain bifór iu start dráftin" },
         { "t": "In conclusion, the evidence is inconclusive.", "es": "En conclusión, la evidencia no es concluyente.", "pron": "in conclúshon, di évidens is inconclúsiv" },
         { "t": "Could you elaborate on your second point?", "es": "¿Podrías desarrollar tu segundo punto?", "pron": "cud iu eláboreit on ior sécond point" }
@@ -92,7 +92,7 @@
         { "t": "The results appear to support the hypothesis.", "es": "Los resultados parecen respaldar la hipótesis.", "pron": "da risálts apír tu sapórt da jaipóthesis" },
         { "t": "Younger users tend to prefer mobile apps.", "es": "Los usuarios jóvenes tienden a preferir las aplicaciones móviles.", "pron": "iánguer iúsers tend tu prifér móubail aps" },
         { "t": "It could be argued that the reform came too late.", "es": "Podría argumentarse que la reforma llegó demasiado tarde.", "pron": "it cud bi árguid dat da rifórm queim tu leit" },
-        { "t": "The decline is largely due to rising costs.", "es": "La disminución se debe en gran parte al aumento de costos.", "pron": "da diclain is lárdyli diú tu ráisin costs" }
+        { "t": "The decline is largely due to rising costs.", "es": "La disminución se debe en gran parte al aumento de costos.", "pron": "da dicláin is lárdyli diú tu ráisin costs" }
       ],
       "dialogo": {
         "titulo": "Revisión de un borrador",
@@ -115,7 +115,7 @@
       "palabras": [
         { "t": "implementation", "es": "implementación", "pron": "implementéishon", "ej": "The implementation of the plan took two years.", "ejes": "La implementación del plan tomó dos años.", "cog": true },
         { "t": "a rise in", "es": "un aumento en", "pron": "a raiz in", "ej": "There has been a rise in unemployment.", "ejes": "Ha habido un aumento del desempleo.", "cog": false },
-        { "t": "a decline in", "es": "una disminución de", "pron": "a diclain in", "ej": "A decline in sales worried the board.", "ejes": "Una disminución en las ventas preocupó a la junta.", "cog": false },
+        { "t": "a decline in", "es": "una disminución de", "pron": "a dicláin in", "ej": "A decline in sales worried the board.", "ejes": "Una disminución en las ventas preocupó a la junta.", "cog": false },
         { "t": "the emergence of", "es": "el surgimiento de", "pron": "di imérdyens ov", "ej": "The emergence of AI has changed the job market.", "ejes": "El surgimiento de la IA ha cambiado el mercado laboral.", "cog": false },
         { "t": "the development of", "es": "el desarrollo de", "pron": "da divélopment ov", "ej": "The development of vaccines saved millions.", "ejes": "El desarrollo de vacunas salvó a millones.", "cog": false },
         { "t": "the absence of", "es": "la ausencia de", "pron": "di ábsens ov", "ej": "The absence of evidence was striking.", "ejes": "La ausencia de pruebas fue llamativa.", "cog": false },
@@ -152,7 +152,7 @@
         { "t": "claim", "es": "afirmar, alegar", "pron": "cleim", "ej": "Critics claim that the study ignores key variables.", "ejes": "Los críticos alegan que el estudio ignora variables clave.", "cog": true },
         { "t": "demonstrate", "es": "demostrar", "pron": "démonstreit", "ej": "Experiments demonstrate how stress affects memory.", "ejes": "Los experimentos demuestran cómo el estrés afecta la memoria.", "cog": true },
         { "t": "highlight", "es": "destacar, resaltar", "pron": "jáilait", "ej": "The authors highlight the need for further research.", "ejes": "Los autores destacan la necesidad de más investigación.", "cog": false },
-        { "t": "moreover", "es": "además", "pron": "morouver", "ej": "The method is cheap; moreover, it is reliable.", "ejes": "El método es barato; además, es confiable.", "cog": false },
+        { "t": "moreover", "es": "además", "pron": "moróuver", "ej": "The method is cheap; moreover, it is reliable.", "ejes": "El método es barato; además, es confiable.", "cog": false },
         { "t": "consequently", "es": "en consecuencia", "pron": "cónsecuentli", "ej": "Demand rose; consequently, prices increased.", "ejes": "La demanda subió; en consecuencia, los precios aumentaron.", "cog": false },
         { "t": "furthermore", "es": "asimismo, es más", "pron": "férdermor", "ej": "Furthermore, the data confirm earlier findings.", "ejes": "Asimismo, los datos confirman hallazgos anteriores.", "cog": false },
         { "t": "whereas", "es": "mientras que", "pron": "juereás", "ej": "Smith favors reform, whereas Jones opposes it.", "ejes": "Smith favorece la reforma, mientras que Jones se opone.", "cog": false }

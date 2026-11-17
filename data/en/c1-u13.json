@@ -54,7 +54,7 @@
       ],
       "frases": [
         { "t": "We can infer that the author disagrees with the policy.", "es": "Podemos inferir que el autor no está de acuerdo con la política.", "pron": "ui can infér dat di ótor disagrís uid da pólisi" },
-        { "t": "The report implies that costs were hidden.", "es": "El informe da a entender que los costos se ocultaron.", "pron": "da ripórt implais dat costs uer jíden" },
+        { "t": "The report implies that costs were hidden.", "es": "El informe da a entender que los costos se ocultaron.", "pron": "da ripórt impláis dat costs uer jíden" },
         { "t": "There is an implicit warning in that sentence.", "es": "Hay una advertencia implícita en esa oración.", "pron": "der is an implísit uórnin in dat séntens" },
         { "t": "The underlying problem is a lack of trust.", "es": "El problema subyacente es la falta de confianza.", "pron": "di anderláiin próblem is a lac ov trast" },
         { "t": "Reading between the lines, he was not happy.", "es": "Leyendo entre líneas, no estaba contento.", "pron": "rídin bituín da láins, ji uas not jápi" }
@@ -93,7 +93,7 @@
         { "t": "Her tone is scathing, almost contemptuous.", "es": "Su tono es mordaz, casi despectivo.", "pron": "jer toun is squéidin, ólmost contémchuos" },
         { "t": "The writer's detached style gives the report credibility.", "es": "El estilo distante del autor da credibilidad al informe.", "pron": "da ráiters ditácht stail guivs da ripórt credibílity" },
         { "t": "It was a tongue-in-cheek comment, not a serious one.", "es": "Fue un comentario en broma, no uno serio.", "pron": "it uas a tang-in-chic cóment, not a sírios uan" },
-        { "t": "The coverage seems biased, so I remain skeptical.", "es": "La cobertura parece sesgada, así que sigo siendo escéptico.", "pron": "da cóverich sims báiast, sou ai rimein squéptical" }
+        { "t": "The coverage seems biased, so I remain skeptical.", "es": "La cobertura parece sesgada, así que sigo siendo escéptico.", "pron": "da cóverich sims báiast, sou ai riméin squéptical" }
       ],
       "dialogo": {
         "titulo": "Analizar una reseña",
@@ -156,7 +156,7 @@
         { "t": "assert", "es": "afirmar con firmeza", "pron": "asért", "ej": "Ministers assert that the plan will work.", "ejes": "Los ministros afirman con firmeza que el plan funcionará.", "cog": true },
         { "t": "reportedly", "es": "según se informa", "pron": "ripórtedli", "ej": "The company is reportedly planning layoffs.", "ejes": "Según se informa, la empresa planea despidos.", "cog": false },
         { "t": "supposedly", "es": "supuestamente", "pron": "sapóusedli", "ej": "He supposedly left the country last week.", "ejes": "Supuestamente salió del país la semana pasada.", "cog": false },
-        { "t": "so-called", "es": "supuesto, llamado así (con ironía)", "pron": "sou-cold", "ej": "These so-called experts never predicted the crisis.", "ejes": "Estos supuestos expertos nunca predijeron la crisis.", "cog": false },
+        { "t": "so-called", "es": "supuesto, llamado así (con ironía)", "pron": "sóu-cold", "ej": "These so-called experts never predicted the crisis.", "ejes": "Estos supuestos expertos nunca predijeron la crisis.", "cog": false },
         { "t": "speculate", "es": "especular", "pron": "spéquiuleit", "ej": "Analysts speculate that rates will rise.", "ejes": "Los analistas especulan que las tasas subirán.", "cog": true },
         { "t": "dispute", "es": "disputar, rebatir", "pron": "dispiút", "ej": "Scientists dispute the findings of that paper.", "ejes": "Los científicos rebaten las conclusiones de ese artículo.", "cog": false }
       ],
@@ -193,7 +193,7 @@
         { "t": "cherry-pick", "es": "elegir solo datos convenientes", "pron": "chéri-pic", "ej": "Don't cherry-pick data to support your claim.", "ejes": "No elijas solo los datos que apoyan tu afirmación.", "cog": false },
         { "t": "hype", "es": "bombo publicitario", "pron": "jaip", "ej": "The product lived up to the hype.", "ejes": "El producto estuvo a la altura del bombo publicitario.", "cog": false },
         { "t": "reliable", "es": "confiable", "pron": "riláiabol", "ej": "Peer-reviewed journals are generally reliable.", "ejes": "Las revistas arbitradas suelen ser confiables.", "cog": false },
-        { "t": "cross-check", "es": "contrastar, verificar con otras fuentes", "pron": "cros-chec", "ej": "Always cross-check statistics before you share them.", "ejes": "Siempre contrasta las estadísticas antes de compartirlas.", "cog": false },
+        { "t": "cross-check", "es": "contrastar, verificar con otras fuentes", "pron": "crós-chec", "ej": "Always cross-check statistics before you share them.", "ejes": "Siempre contrasta las estadísticas antes de compartirlas.", "cog": false },
         { "t": "take with a pinch of salt", "es": "tomar con cautela", "pron": "teik uid a pinch ov solt", "ej": "Just take with a pinch of salt whatever he promises.", "ejes": "Toma con cautela todo lo que él prometa.", "cog": false }
       ],
       "frases": [

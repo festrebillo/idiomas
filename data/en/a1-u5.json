@@ -4,9 +4,9 @@
   "nivel": "A1",
   "n": 5,
   "titulo": "La hora, los días y mi rutina",
-  "resumen": "Aprenderás los días, los meses y la hora, y a contar tu rutina diaria con el presente simple: I work, she works.",
+  "resumen": "Aprenderás los días, los meses (y a decir tu cumpleaños) y la hora, y a contar tu rutina diaria con el presente simple: I work, she works.",
   "puedo": [
-    "Decir y entender los días de la semana.",
+    "Decir los días de la semana, los meses y mi fecha de cumpleaños.",
     "Preguntar y decir la hora.",
     "Describir mi rutina de la mañana.",
     "Describir lo que hago durante el día y la noche.",
@@ -73,7 +73,7 @@
           { "q": "A", "t": "Great! See you on Monday.", "es": "¡Genial! Nos vemos el lunes." }
         ]
       },
-      "nota": "Los meses en inglés (también con mayúscula): January (yánuari), February (fébruari), March (march), April (éiprol), May (mei), June (yun), July (yulái), August (ógost), September (septémber), October (octóuber), November (nouvémber), December (disémber). Para un día se usa on (on Monday) y para un mes, in (in May)."
+      "nota": "Los 12 meses en inglés (también con mayúscula) los practicarás con ejercicios en las lecciones 3, 4 y 5: January, February, March, April, May, June, July, August, September, October, November, December. Para un día se usa on (on Monday) y para un mes, in (in May). Así dices tu cumpleaños: My birthday is in May."
     },
     {
       "id": "en-a1-u5-l2",
@@ -122,22 +122,23 @@
       "intro": "Aquí usamos el presente simple. Con I el verbo no cambia: I wake up. Con she o he se añade -s: she wakes up. Truco: con go, brush y take hay una pequeña regla: goes, brushes, takes. Y have es irregular: she has.",
       "palabras": [
         { "t": "wake up", "es": "despertarse", "pron": "ueik ap", "ej": "I wake up at six.", "ejes": "Me despierto a las seis.", "cog": false, "truco": "Con he/she: wakes up." },
-        { "t": "get up", "es": "levantarse", "pron": "get ap", "ej": "I get up at six thirty.", "ejes": "Me levanto a las seis y treinta.", "cog": false, "truco": "Con he/she: gets up." },
+        { "t": "get up", "es": "levantarse", "pron": "guet ap", "ej": "I get up at six thirty.", "ejes": "Me levanto a las seis y treinta.", "cog": false, "truco": "Con he/she: gets up." },
         { "t": "take a shower", "es": "ducharse", "pron": "teik a sháuer", "ej": "I take a shower at seven.", "ejes": "Me ducho a las siete.", "cog": false, "truco": "Con he/she: takes a shower." },
         { "t": "brush my teeth", "es": "lavarme los dientes", "pron": "brash mai tiz", "ej": "I brush my teeth.", "ejes": "Me lavo los dientes.", "cog": false, "truco": "Con he/she: brushes his/her teeth." },
-        { "t": "get dressed", "es": "vestirse", "pron": "get drest", "ej": "I get dressed at seven.", "ejes": "Me visto a las siete.", "cog": false },
         { "t": "have breakfast", "es": "desayunar", "pron": "jav brékfast", "ej": "We have breakfast at seven.", "ejes": "Desayunamos a las siete.", "cog": false, "truco": "Con he/she: has breakfast." },
         { "t": "go to work", "es": "ir al trabajo", "pron": "góu tu uérk", "ej": "I go to work at eight.", "ejes": "Voy al trabajo a las ocho.", "cog": false, "truco": "Con he/she: goes to work." },
-        { "t": "go to school", "es": "ir a la escuela", "pron": "góu tu scul", "ej": "I go to school at eight.", "ejes": "Voy a la escuela a las ocho.", "cog": false },
-        { "t": "every day", "es": "todos los días", "pron": "évri dei", "ej": "I wake up at six every day.", "ejes": "Me despierto a las seis todos los días.", "cog": false }
+        { "t": "January", "es": "enero", "pron": "yánuari", "ej": "My birthday is in January.", "ejes": "Mi cumpleaños es en enero.", "cog": true, "truco": "Los meses van con mayúscula: January." },
+        { "t": "February", "es": "febrero", "pron": "fébruari", "ej": "February is a short month.", "ejes": "Febrero es un mes corto.", "cog": true, "truco": "Se escribe con r antes de la u: Feb-ru-ary." },
+        { "t": "March", "es": "marzo", "pron": "márch", "ej": "We go to the beach in March.", "ejes": "Vamos a la playa en marzo.", "cog": true },
+        { "t": "April", "es": "abril", "pron": "éiprol", "ej": "It rains a lot in April.", "ejes": "Llueve mucho en abril.", "cog": true }
       ],
       "frases": [
-        { "t": "I wake up at six every day.", "es": "Me despierto a las seis todos los días.", "pron": "ai ueik ap at six évri dei" },
-        { "t": "She gets up at seven.", "es": "Ella se levanta a las siete.", "pron": "shi gets ap at séven" },
+        { "t": "I wake up at six.", "es": "Me despierto a las seis.", "pron": "ai ueik ap at six" },
+        { "t": "She gets up at seven.", "es": "Ella se levanta a las siete.", "pron": "shi guets ap at séven" },
         { "t": "He takes a shower.", "es": "Él se ducha.", "pron": "ji teiks a sháuer" },
         { "t": "I brush my teeth.", "es": "Me lavo los dientes.", "pron": "ai brash mai tiz" },
         { "t": "We have breakfast at seven.", "es": "Desayunamos a las siete.", "pron": "uí jav brékfast at séven" },
-        { "t": "My son goes to school at eight.", "es": "Mi hijo va a la escuela a las ocho.", "pron": "mai san góus tu scul at eit" }
+        { "t": "My son goes to work at eight.", "es": "Mi hijo va al trabajo a las ocho.", "pron": "mai san góus tu uérk at eit" }
       ],
       "dialogo": {
         "titulo": "Una mañana normal",
@@ -162,18 +163,19 @@
         { "t": "work", "es": "trabajar", "pron": "uérk", "ej": "I work at nine.", "ejes": "Trabajo a las nueve.", "cog": false, "truco": "Con he/she: works." },
         { "t": "study", "es": "estudiar", "pron": "stádi", "ej": "I study at night.", "ejes": "Estudio por la noche.", "cog": false, "truco": "Con he/she: studies (la y cambia a ies)." },
         { "t": "have lunch", "es": "almorzar", "pron": "jav lanch", "ej": "We have lunch at one o'clock.", "ejes": "Almorzamos a la una en punto.", "cog": false, "truco": "Con he/she: has lunch." },
-        { "t": "come home", "es": "llegar a casa", "pron": "cam joum", "ej": "I come home at six.", "ejes": "Llego a casa a las seis.", "cog": false, "truco": "Con he/she: comes home." },
         { "t": "cook", "es": "cocinar", "pron": "cuk", "ej": "I cook dinner at seven.", "ejes": "Cocino la cena a las siete.", "cog": false, "truco": "cook suena «cuk»." },
         { "t": "have dinner", "es": "cenar", "pron": "jav díner", "ej": "They have dinner at eight.", "ejes": "Ellos cenan a las ocho.", "cog": false, "truco": "Con he/she: has dinner." },
-        { "t": "read", "es": "leer", "pron": "rid", "ej": "I read at night.", "ejes": "Leo por la noche.", "cog": false, "truco": "read se escribe igual en presente, pero suena «rid»." },
         { "t": "go to bed", "es": "irse a la cama", "pron": "góu tu bed", "ej": "I go to bed at ten.", "ejes": "Me voy a la cama a las diez.", "cog": false, "truco": "Con he/she: goes to bed." },
-        { "t": "sleep", "es": "dormir", "pron": "slip", "ej": "I sleep eight hours.", "ejes": "Duermo ocho horas.", "cog": false }
+        { "t": "May", "es": "mayo", "pron": "méi", "ej": "Mother's Day is in May.", "ejes": "El Día de la Madre es en mayo.", "cog": true },
+        { "t": "June", "es": "junio", "pron": "yún", "ej": "School ends in June.", "ejes": "Las clases terminan en junio.", "cog": true },
+        { "t": "July", "es": "julio", "pron": "yulái", "ej": "It is hot in July.", "ejes": "Hace calor en julio.", "cog": true, "truco": "El acento va al final: yu-LÁI." },
+        { "t": "August", "es": "agosto", "pron": "ógost", "ej": "We travel in August.", "ejes": "Viajamos en agosto.", "cog": true }
       ],
       "frases": [
         { "t": "I work at nine.", "es": "Trabajo a las nueve.", "pron": "ai uérk at nain" },
         { "t": "He studies at night.", "es": "Él estudia por la noche.", "pron": "ji stádis at nait" },
         { "t": "We have lunch at one o'clock.", "es": "Almorzamos a la una en punto.", "pron": "uí jav lanch at uan oklák" },
-        { "t": "I come home at six.", "es": "Llego a casa a las seis.", "pron": "ai cam joum at six" },
+        { "t": "I cook dinner at six.", "es": "Cocino la cena a las seis.", "pron": "ai cuk díner at six" },
         { "t": "Do you have dinner at seven?", "es": "¿Cenas a las siete?", "pron": "du iú jav díner at séven" },
         { "t": "She goes to bed at ten.", "es": "Ella se va a la cama a las diez.", "pron": "shi góus tu bed at ten" }
       ],
@@ -199,20 +201,20 @@
       "palabras": [
         { "t": "always", "es": "siempre", "pron": "ólueis", "ej": "I always have breakfast.", "ejes": "Siempre desayuno.", "cog": false },
         { "t": "usually", "es": "normalmente", "pron": "iúyuali", "ej": "She usually goes to work at eight.", "ejes": "Ella normalmente va al trabajo a las ocho.", "cog": false },
-        { "t": "often", "es": "a menudo", "pron": "ófen", "ej": "I often read at night.", "ejes": "A menudo leo por la noche.", "cog": false },
         { "t": "sometimes", "es": "a veces", "pron": "sámtaims", "ej": "We sometimes have dinner at nine.", "ejes": "A veces cenamos a las nueve.", "cog": false },
-        { "t": "never", "es": "nunca", "pron": "néver", "ej": "He never gets up early.", "ejes": "Él nunca se levanta temprano.", "cog": false, "truco": "never ya es negativo: no pongas don't." },
+        { "t": "never", "es": "nunca", "pron": "néver", "ej": "He never has breakfast.", "ejes": "Él nunca desayuna.", "cog": false, "truco": "never ya es negativo: no pongas don't." },
         { "t": "how often", "es": "¿con qué frecuencia?", "pron": "jau ófen", "ej": "How often do you study?", "ejes": "¿Con qué frecuencia estudias?", "cog": false },
-        { "t": "early", "es": "temprano", "pron": "érli", "ej": "I get up early.", "ejes": "Me levanto temprano.", "cog": false },
-        { "t": "late", "es": "tarde (no a tiempo)", "pron": "leit", "ej": "I am never late.", "ejes": "Nunca llego tarde.", "cog": false, "truco": "late es «tarde» como «llegar tarde»; afternoon es «tarde» como parte del día." },
-        { "t": "on weekends", "es": "los fines de semana", "pron": "on uíkends", "ej": "I relax on weekends.", "ejes": "Descanso los fines de semana.", "cog": false },
-        { "t": "once a week", "es": "una vez por semana", "pron": "uans a uik", "ej": "I cook once a week.", "ejes": "Cocino una vez por semana.", "cog": false }
+        { "t": "once a week", "es": "una vez por semana", "pron": "uans a uik", "ej": "I cook once a week.", "ejes": "Cocino una vez por semana.", "cog": false },
+        { "t": "September", "es": "septiembre", "pron": "septémber", "ej": "Classes start in September.", "ejes": "Las clases empiezan en septiembre.", "cog": true },
+        { "t": "October", "es": "octubre", "pron": "octóuber", "ej": "Halloween is in October.", "ejes": "Halloween es en octubre.", "cog": true },
+        { "t": "November", "es": "noviembre", "pron": "nouvémber", "ej": "Thanksgiving is in November.", "ejes": "Acción de Gracias es en noviembre.", "cog": true },
+        { "t": "December", "es": "diciembre", "pron": "disémber", "ej": "Christmas is in December.", "ejes": "La Navidad es en diciembre.", "cog": true }
       ],
       "frases": [
         { "t": "I always have breakfast at seven.", "es": "Siempre desayuno a las siete.", "pron": "ai ólueis jav brékfast at séven" },
         { "t": "She usually goes to work at eight.", "es": "Ella normalmente va al trabajo a las ocho.", "pron": "shi iúyuali góus tu uérk at eit" },
         { "t": "We sometimes have dinner at nine.", "es": "A veces cenamos a las nueve.", "pron": "uí sámtaims jav díner at nain" },
-        { "t": "He never gets up early.", "es": "Él nunca se levanta temprano.", "pron": "ji néver gets ap érli" },
+        { "t": "He never has breakfast.", "es": "Él nunca desayuna.", "pron": "ji néver jas brékfast" },
         { "t": "How often do you study?", "es": "¿Con qué frecuencia estudias?", "pron": "jau ófen du iú stádi" },
         { "t": "I study once a week.", "es": "Estudio una vez por semana.", "pron": "ai stádi uans a uik" }
       ],
@@ -220,10 +222,10 @@
         "titulo": "¿Con qué frecuencia?",
         "lineas": [
           { "q": "A", "t": "How often do you cook?", "es": "¿Con qué frecuencia cocinas?" },
-          { "q": "B", "t": "I cook on weekends. And you?", "es": "Cocino los fines de semana. ¿Y tú?" },
-          { "q": "A", "t": "I often cook dinner at night.", "es": "A menudo cocino la cena por la noche." },
+          { "q": "B", "t": "I cook once a week. And you?", "es": "Cocino una vez por semana. ¿Y tú?" },
+          { "q": "A", "t": "I usually cook dinner at night.", "es": "Normalmente cocino la cena por la noche." },
           { "q": "B", "t": "Do you always have breakfast?", "es": "¿Siempre desayunas?" },
-          { "q": "A", "t": "No, I never have breakfast. I get up late!", "es": "No, nunca desayuno. ¡Me levanto tarde!" }
+          { "q": "A", "t": "No, I never have breakfast!", "es": "¡No, nunca desayuno!" }
         ]
       },
       "nota": "Posición de la palabra: antes del verbo de acción (I always work) y después de am/is/are (I am always late). Never y always no necesitan don't: nunca digas «I don't never». Sometimes también puede ir al inicio: Sometimes I read at night."

@@ -14,7 +14,7 @@
   ],
   "gramatica": {
     "titulo": "Colocaciones: las palabras que se buscan entre sí",
-    "texto": "Una colocación es una pareja (o grupo) de palabras que se usan juntas de forma natural. No hay una regla lógica: hay que aprenderlas en bloque.\nEn español decimos «pagar atención», pero en portugués es prestar atenção. En español «tomar en cuenta»; en portugués levar em conta. «Sacar conclusiones» = tirar conclusões.\nSi traduces palabra por palabra, lo que sale se entiende, pero suena raro o incorrecto.\nHay tres tipos útiles: verbo + sustantivo (cometer um erro), adjetivo + sustantivo (erro grosseiro) y adverbio + adjetivo (plenamente consciente).\nTruco: cuando aprendas un sustantivo nuevo, apunta siempre el verbo o el adjetivo que lo acompaña. Un sustantivo suelto sirve de poco; el bloque completo, mucho más.",
+    "texto": "Una colocación es una pareja (o grupo) de palabras que se usan juntas de forma natural. No hay una regla lógica: hay que aprenderlas en bloque.\nEn español decimos «tomar en cuenta», pero en portugués es levar em conta. En español «tomar una decisión» y en portugués también tomar uma decisão, pero «prestar atención» es prestar atenção. «Sacar conclusiones» = tirar conclusões.\nSi traduces palabra por palabra, lo que sale se entiende, pero suena raro o incorrecto.\nHay tres tipos útiles: verbo + sustantivo (cometer um erro), adjetivo + sustantivo (erro grosseiro) y adverbio + adjetivo (plenamente consciente).\nTruco: cuando aprendas un sustantivo nuevo, apunta siempre el verbo o el adjetivo que lo acompaña. Un sustantivo suelto sirve de poco; el bloque completo, mucho más.",
     "tabla": [
       [
         "prestar atenção",
@@ -48,7 +48,7 @@
       ]
     ],
     "errores": [
-      "No digas «pagar atenção»: la colocación correcta es «prestar atenção».",
+      "No traduzcas del inglés «pay attention» como «pagar atenção»: la colocación correcta es «prestar atenção».",
       "No digas «tomar em conta»: en portugués es «levar em conta».",
       "No uses «fazer uma decisão»: se dice «tomar uma decisão». Y no «sacar conclusões», sino «tirar conclusões»."
     ]

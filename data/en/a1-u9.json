@@ -56,7 +56,7 @@
       ],
       "frases": [
         { "t": "I read every day.", "es": "Leo todos los días.", "pron": "ai rid évri dei" },
-        { "t": "My mother cooks on Sundays.", "es": "Mi mamá cocina los domingos.", "pron": "mai móder cuks on sándeis" },
+        { "t": "My mother cooks on Sundays.", "es": "Mi mamá cocina los domingos.", "pron": "mai máder cuks on sándeis" },
         { "t": "We dance on Saturdays.", "es": "Bailamos los sábados.", "pron": "uí dans on sáterdeis" },
         { "t": "I watch movies with my friends.", "es": "Veo películas con mis amigos.", "pron": "ai uatch múvis uiz mai frends" },
         { "t": "I take photos when I travel.", "es": "Tomo fotos cuando viajo.", "pron": "ai teik fóutos juen ai trável" }
@@ -205,7 +205,7 @@
         { "t": "Do you want to play soccer?", "es": "¿Quieres jugar fútbol?", "pron": "du iú uant tu plei sáker" },
         { "t": "Let's watch a movie.", "es": "Veamos una película.", "pron": "lets uatch a múvi" },
         { "t": "Sounds great!", "es": "¡Suena genial!", "pron": "saunds greit" },
-        { "t": "Sorry, I can't. I'm busy.", "es": "Lo siento, no puedo. Estoy ocupado.", "pron": "sári, ai kant. aim bízi" },
+        { "t": "Sorry, I can't. I'm busy.", "es": "Lo siento, no puedo. Estoy ocupado.", "pron": "sóri, ai kant. aim bízi" },
         { "t": "Are you free on Saturday?", "es": "¿Estás libre el sábado?", "pron": "ar iú fri on sáterdei" },
         { "t": "Maybe next time.", "es": "Tal vez la próxima vez.", "pron": "méibi next taim" }
       ],

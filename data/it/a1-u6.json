@@ -59,7 +59,7 @@
       ],
       "frases": [
         { "t": "Ecco la mia casa!", "es": "¡Aquí está mi casa!", "pron": "éko la mía cása" },
-        { "t": "Dov'è il bagno, per favore?", "es": "¿Dónde está el baño, por favor?", "pron": "dovè il báño, per favóre" },
+        { "t": "Dov'è il bagno, per favore?", "es": "¿Dónde está el baño, por favor?", "pron": "dové il báño, per favóre" },
         { "t": "Faccio colazione in cucina.", "es": "Desayuno en la cocina.", "pron": "fácho colatsióne in cuchína" },
         { "t": "Studio in soggiorno.", "es": "Estudio en la sala.", "pron": "stúdio in sodyórno" },
         { "t": "Mi piace molto il giardino.", "es": "Me gusta mucho el jardín.", "pron": "mi piáche mólto il yardíno" },
@@ -75,7 +75,7 @@
           { "q": "A", "t": "Ecco il bagno, Ana.", "es": "Aquí está el baño, Ana." }
         ]
       },
-      "nota": "«Dov'è» es «dove è» (¿dónde está?) y suena dovè. Para «el dormitorio» se dice «la camera da letto» o simplemente «la camera»; «la stanza» es cualquier cuarto. «In cucina», «in bagno», «in soggiorno» se dicen sin artículo cuando indicas el lugar. Pronunciación: «gn» = ñ (bagno = báño), «gg» + i = dy (soggiorno), «zz» = ts (terrazza)."
+      "nota": "«Dov'è» es «dove è» (¿dónde está?) y suena dové. Para «el dormitorio» se dice «la camera da letto» o simplemente «la camera»; «la stanza» es cualquier cuarto. «In cucina», «in bagno», «in soggiorno» se dicen sin artículo cuando indicas el lugar. Pronunciación: «gn» = ñ (bagno = báño), «gg» + i = dy (soggiorno), «zz» = ts (terrazza)."
     },
     {
       "id": "it-a1-u6-l2",
@@ -162,7 +162,7 @@
       "objetivo": "Preguntar y decir dónde está algo con preposiciones de lugar.",
       "intro": "Para decir dónde está algo usas essere («è», «sono») y una preposición de lugar. Truco: «in» + el artículo se pegan: in + il = nel, in + la = nella; su + il = sul, su + la = sulla.",
       "palabras": [
-        { "t": "dov'è", "es": "dónde está", "pron": "dovè", "ej": "Dov'è la lampada?", "ejes": "¿Dónde está la lámpara?", "cog": false, "truco": "Dove + è. Plural: «dove sono»." },
+        { "t": "dov'è", "es": "dónde está", "pron": "dové", "ej": "Dov'è la lampada?", "ejes": "¿Dónde está la lámpara?", "cog": false, "truco": "Dove + è. Plural: «dove sono»." },
         { "t": "in", "es": "en / dentro de", "pron": "in", "ej": "La TV è in soggiorno.", "ejes": "La tele está en la sala.", "cog": true, "truco": "Con el nombre de una habitación suele ir sin artículo: in cucina." },
         { "t": "nel", "es": "en el", "pron": "nel", "ej": "Il divano è nel soggiorno.", "ejes": "El sofá está en la sala.", "cog": false, "truco": "in + il = nel." },
         { "t": "nella", "es": "en la", "pron": "néla", "ej": "La lampada è nella camera da letto.", "ejes": "La lámpara está en el dormitorio.", "cog": false, "truco": "in + la = nella." },
@@ -174,7 +174,7 @@
         { "t": "davanti a", "es": "delante de", "pron": "davánti a", "ej": "Luca è davanti a me.", "ejes": "Luca está delante de mí.", "cog": false, "truco": "Con artículo: davanti al, davanti alla." }
       ],
       "frases": [
-        { "t": "Dov'è la lampada?", "es": "¿Dónde está la lámpara?", "pron": "dovè la lámpada" },
+        { "t": "Dov'è la lampada?", "es": "¿Dónde está la lámpara?", "pron": "dové la lámpada" },
         { "t": "La lampada è sul tavolo.", "es": "La lámpara está sobre la mesa.", "pron": "la lámpada è sul távolo" },
         { "t": "Il cane è sotto il tavolo.", "es": "El perro está debajo de la mesa.", "pron": "il cáne è sótto il távolo" },
         { "t": "Il divano è accanto alla finestra.", "es": "El sofá está al lado de la ventana.", "pron": "il diváno è acánto ála finéstra" },

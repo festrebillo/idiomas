@@ -55,7 +55,7 @@
       ],
       "frases": [
         { "t": "My brother, who lives in Spain, is a chef.", "es": "Mi hermano, que vive en España, es chef.", "pron": "mai bróder ju livs in spein is a shef" },
-        { "t": "Lima, which is my hometown, is very big.", "es": "Lima, que es mi ciudad natal, es muy grande.", "pron": "lima uich is mai jóumtaun is véri big" },
+        { "t": "Lima, which is my hometown, is very big.", "es": "Lima, que es mi ciudad natal, es muy grande.", "pron": "líma uich is mai jóumtaun is véri big" },
         { "t": "Machu Picchu, which is in Peru, is famous.", "es": "Machu Picchu, que está en el Perú, es famoso.", "pron": "máchu píchu uich is in perú is féimos" },
         { "t": "The owner, who is 60, wants to retire.", "es": "El dueño, que tiene 60, quiere jubilarse.", "pron": "di óuner ju is síksti uonts tu ritáir" },
         { "t": "Our neighbor, who is a nurse, helped us.", "es": "Nuestra vecina, que es enfermera, nos ayudó.", "pron": "áuer néiber ju is a ners jelpt os" }
@@ -128,9 +128,9 @@
       "frases": [
         { "t": "The man standing at the door is my boss.", "es": "El hombre que está en la puerta es mi jefe.", "pron": "da man stándin at da dor is mai bos" },
         { "t": "Who is the girl sitting next to Paul?", "es": "¿Quién es la chica sentada junto a Paul?", "pron": "ju is da guerl sítin nekst tu pol" },
-        { "t": "The report written by Ana was excellent.", "es": "El informe escrito por Ana fue excelente.", "pron": "da ripórt ríten bai ana uas éxelent" },
+        { "t": "The report written by Ana was excellent.", "es": "El informe escrito por Ana fue excelente.", "pron": "da ripórt ríten bai ána uas éxelent" },
         { "t": "Cars parked here will be towed.", "es": "Los autos estacionados aquí serán remolcados.", "pron": "cars parkt jiar uil bi toud" },
-        { "t": "People living in Lima know the traffic.", "es": "Quienes viven en Lima conocen el tráfico.", "pron": "pípol lívin in lima nou da tráfic" }
+        { "t": "People living in Lima know the traffic.", "es": "Quienes viven en Lima conocen el tráfico.", "pron": "pípol lívin in líma nou da tráfic" }
       ],
       "dialogo": {
         "titulo": "En una fiesta",
@@ -166,7 +166,7 @@
         { "t": "Having finished work, she went to the gym.", "es": "Habiendo terminado el trabajo, fue al gimnasio.", "pron": "jávin fínisht uerk shi uent tu da yim" },
         { "t": "Feeling tired, he went to bed early.", "es": "Sintiendo cansancio, se acostó temprano.", "pron": "fílin taird ji uent tu bed érli" },
         { "t": "Surprised by the news, she sat down.", "es": "Sorprendida por la noticia, se sentó.", "pron": "serpráisd bai da nius shi sat daun" },
-        { "t": "Not knowing what to do, I called Ana.", "es": "Sin saber qué hacer, llamé a Ana.", "pron": "not nóuin uat tu du ai cold ana" }
+        { "t": "Not knowing what to do, I called Ana.", "es": "Sin saber qué hacer, llamé a Ana.", "pron": "not nóuin uat tu du ai cold ána" }
       ],
       "dialogo": {
         "titulo": "Una historia de la mañana",
@@ -198,7 +198,7 @@
         { "t": "volunteer", "es": "voluntario", "pron": "volentír", "ej": "She is a volunteer at the shelter.", "ejes": "Ella es voluntaria en el refugio.", "cog": true }
       ],
       "frases": [
-        { "t": "Ana, who is a journalist, wrote an article.", "es": "Ana, que es periodista, escribió un artículo.", "pron": "ana ju is a yérnalist rout an árticol" },
+        { "t": "Ana, who is a journalist, wrote an article.", "es": "Ana, que es periodista, escribió un artículo.", "pron": "ána ju is a yérnalist rout an árticol" },
         { "t": "The article published last week is very good.", "es": "El artículo publicado la semana pasada es muy bueno.", "pron": "di árticol póblisht last uik is véri gud" },
         { "t": "The volunteers helping the victims are tired.", "es": "Los voluntarios que ayudan a las víctimas están cansados.", "pron": "da volentírs jélpin da víctims ar taird" },
         { "t": "Heavy rain, which caused a flood, hit the town.", "es": "Una lluvia fuerte, que causó una inundación, golpeó el pueblo.", "pron": "jévi rein uich cozd a flod jit da taun" },

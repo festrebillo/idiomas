@@ -59,7 +59,7 @@
         { "t": "Good morning!", "es": "¡Buenos días!", "pron": "gud mórnin" },
         { "t": "Good evening!", "es": "¡Buenas noches!", "pron": "gud ívnin" },
         { "t": "Thank you, Carlos!", "es": "¡Gracias, Carlos!", "pron": "zank iú, cárlos" },
-        { "t": "You're welcome, Maria.", "es": "De nada, Maria.", "pron": "iór uélcam, marría" },
+        { "t": "You're welcome, Maria.", "es": "De nada, Maria.", "pron": "iór uélcam, maría" },
         { "t": "Sorry, Ana!", "es": "¡Perdón, Ana!", "pron": "sóri, ána" },
         { "t": "Goodbye and good night!", "es": "¡Adiós y buenas noches!", "pron": "gudbái an gud nait" }
       ],
@@ -170,7 +170,7 @@
         { "t": "are", "es": "eres / somos / son", "pron": "ar", "ej": "We are from Italy.", "ejes": "Nosotros somos de Italia.", "cog": false, "truco": "are sirve para you, we y they." }
       ],
       "frases": [
-        { "t": "I am Maria.", "es": "Yo soy Maria.", "pron": "ai am marría" },
+        { "t": "I am Maria.", "es": "Yo soy Maria.", "pron": "ai am maría" },
         { "t": "You are from Mexico.", "es": "Tú eres de México.", "pron": "iú ar fram méxicou" },
         { "t": "He is Luis.", "es": "Él es Luis.", "pron": "ji is luís" },
         { "t": "She is from Italy.", "es": "Ella es de Italia.", "pron": "shi is fram ítali" },

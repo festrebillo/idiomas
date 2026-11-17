@@ -89,14 +89,14 @@
         { "t": "la bicicletta", "es": "la bicicleta", "pron": "la bichicléta", "ej": "Mi piace la bicicletta.", "ejes": "Me gusta la bicicleta.", "cog": true, "truco": "«ci» suena «chi»: bi-chi-clé-ta." },
         { "t": "la macchina", "es": "el carro / el auto", "pron": "la mákina", "ej": "La macchina è qui.", "ejes": "El carro está aquí.", "cog": false, "truco": "«cch» antes de i suena «k»: mákina. No se parece a «máquina»... ¡aunque es la misma raíz!" },
         { "t": "l'aereo", "es": "el avión", "pron": "laéreo", "ej": "Prendo l'aereo.", "ejes": "Tomo el avión.", "cog": true, "truco": "De «aéreo»: es el avión." },
-        { "t": "il biglietto", "es": "el boleto / el pasaje", "pron": "il biliéto", "ej": "Ecco il biglietto.", "ejes": "Aquí está el boleto.", "cog": false, "truco": "«gli» suena como la «ll» andina de «llave»: bi-LIÉ-to." },
+        { "t": "il biglietto", "es": "el boleto / el pasaje", "pron": "il bilyéto", "ej": "Ecco il biglietto.", "ejes": "Aquí está el boleto.", "cog": false, "truco": "«gli» suena como la «ll» andina de «llave»: bi-LYÉ-to." },
         { "t": "l'aeroporto", "es": "el aeropuerto", "pron": "laeropórto", "ej": "L'aeroporto è qui.", "ejes": "El aeropuerto está aquí.", "cog": true },
         { "t": "la fermata", "es": "la parada", "pron": "la fermáta", "ej": "La fermata è qui.", "ejes": "La parada está aquí.", "cog": false, "truco": "Viene de «fermare» (detener)." }
       ],
       "frases": [
         { "t": "Prendo il treno.", "es": "Tomo el tren.", "pron": "préndo il tréno" },
         { "t": "Prendo la metro.", "es": "Tomo el metro.", "pron": "préndo la métro" },
-        { "t": "Un biglietto per Roma, per favore.", "es": "Un boleto a Roma, por favor.", "pron": "un biliéto per róma, per favóre" },
+        { "t": "Un biglietto per Roma, per favore.", "es": "Un boleto a Roma, por favor.", "pron": "un bilyéto per róma, per favóre" },
         { "t": "Il taxi, per favore.", "es": "El taxi, por favor.", "pron": "il táxi, per favóre" },
         { "t": "Mi piace la bicicletta.", "es": "Me gusta la bicicleta.", "pron": "mi piáche la bichicléta" },
         { "t": "Prendi l'autobus?", "es": "¿Tomas el bus?", "pron": "préndi lautóbus" }

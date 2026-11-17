@@ -93,7 +93,7 @@
         { "t": "It is imperative that we reduce costs this quarter.", "es": "Es imprescindible que reduzcamos los costos este trimestre.", "pron": "it is impérativ dat ui ridiús costs dis cuórter" },
         { "t": "It is vital that nobody leak the figures.", "es": "Es vital que nadie filtre las cifras.", "pron": "it is váital dat nóubadi lik da fíguiurs" },
         { "t": "It is advisable that you keep a copy of the receipt.", "es": "Es aconsejable que conserves una copia del recibo.", "pron": "it is adváisabol dat iu kip a cópi ov da risít" },
-        { "t": "Is it really necessary that he come to every meeting?", "es": "¿Es realmente necesario que él venga a todas las reuniones?", "pron": "is it rili nésesari dat ji cam tu évri míitin" }
+        { "t": "Is it really necessary that he come to every meeting?", "es": "¿Es realmente necesario que él venga a todas las reuniones?", "pron": "is it ríli nésesari dat ji cam tu évri míitin" }
       ],
       "dialogo": {
         "titulo": "Preparar una auditoría",
@@ -202,7 +202,7 @@
         { "t": "In the event of a delay, passengers will be notified.", "es": "En caso de retraso, se notificará a los pasajeros.", "pron": "in di ivént ov a diléi, pásenyers uil bi nóutifaid" },
         { "t": "It is essential that visitors refrain from taking photographs.", "es": "Es esencial que los visitantes se abstengan de tomar fotografías.", "pron": "it is esénshal dat vísitors rifréin from téikin fóutografs" },
         { "t": "If the situation were to worsen, we would close the office.", "es": "Si la situación llegara a empeorar, cerraríamos la oficina.", "pron": "if da sichuéishon uer tu uérsen, ui uud clóus di ófis" },
-        { "t": "We hereby undertake to respect the agreed terms.", "es": "Por la presente nos comprometemos a respetar los términos acordados.", "pron": "ui jirbái andertéic tu rispéct di agrid terms" }
+        { "t": "We hereby undertake to respect the agreed terms.", "es": "Por la presente nos comprometemos a respetar los términos acordados.", "pron": "ui jirbái andertéic tu rispéct di agríd terms" }
       ],
       "dialogo": {
         "titulo": "Redactar un aviso oficial",

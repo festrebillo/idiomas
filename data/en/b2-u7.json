@@ -120,15 +120,15 @@
         { "t": "whereas", "es": "mientras que", "pron": "juereás", "ej": "I like cities, whereas my wife prefers villages.", "ejes": "A mí me gustan las ciudades, mientras que a mi esposa le gustan los pueblos.", "cog": false },
         { "t": "unlike", "es": "a diferencia de", "pron": "anláik", "ej": "Unlike my brother, I enjoy cooking.", "ejes": "A diferencia de mi hermano, a mí me gusta cocinar.", "cog": false },
         { "t": "in contrast", "es": "en cambio", "pron": "in cóntrast", "ej": "In contrast, rural areas are quieter.", "ejes": "En cambio, las zonas rurales son más tranquilas.", "cog": true },
-        { "t": "drawback", "es": "desventaja", "pron": "drobac", "ej": "The main drawback is the price.", "ejes": "La principal desventaja es el precio.", "cog": false },
+        { "t": "drawback", "es": "desventaja", "pron": "dróbac", "ej": "The main drawback is the price.", "ejes": "La principal desventaja es el precio.", "cog": false },
         { "t": "advantage", "es": "ventaja", "pron": "advántich", "ej": "One advantage is the flexible schedule.", "ejes": "Una ventaja es el horario flexible.", "cog": true },
         { "t": "weigh", "es": "sopesar, ponderar", "pron": "uei", "ej": "We need to weigh the options carefully.", "ejes": "Necesitamos sopesar las opciones con cuidado.", "cog": false }
       ],
       "frases": [
         { "t": "On the one hand it saves money; on the other, it takes time.", "es": "Por un lado ahorra dinero; por otro, toma tiempo.", "pron": "on di uan jand it seivs máni; on di áder, it teiks taim" },
-        { "t": "I like the city, whereas my wife prefers the countryside.", "es": "A mí me gusta la ciudad, mientras que a mi esposa le gusta el campo.", "pron": "ai laik da síti, juereás mai uaif prifers da cántrisaid" },
+        { "t": "I like the city, whereas my wife prefers the countryside.", "es": "A mí me gusta la ciudad, mientras que a mi esposa le gusta el campo.", "pron": "ai laik da síti, juereás mai uaif priférs da cántrisaid" },
         { "t": "Unlike my brother, I enjoy cooking.", "es": "A diferencia de mi hermano, a mí me gusta cocinar.", "pron": "anláik mai bráder, ai enyói cúkin" },
-        { "t": "The main drawback is the cost.", "es": "La principal desventaja es el costo.", "pron": "da mein drobac is da cost" },
+        { "t": "The main drawback is the cost.", "es": "La principal desventaja es el costo.", "pron": "da mein dróbac is da cost" },
         { "t": "One advantage is the flexible schedule.", "es": "Una ventaja es el horario flexible.", "pron": "uan advántich is da fléxibol skédyul" }
       ],
       "dialogo": {
@@ -152,7 +152,7 @@
       "intro": "Un buen argumento tiene una idea, una razón y un ejemplo. Usa for instance, because of, therefore y as a result. Truco: la estructura clásica es afirmar, justificar, ejemplificar y concluir.",
       "palabras": [
         { "t": "for instance", "es": "por ejemplo", "pron": "for ínstans", "ej": "For instance, many cities now ban plastic bags.", "ejes": "Por ejemplo, muchas ciudades ahora prohíben las bolsas de plástico.", "cog": false },
-        { "t": "therefore", "es": "por lo tanto", "pron": "derfor", "ej": "Prices rose; therefore, sales dropped.", "ejes": "Los precios subieron; por lo tanto, las ventas bajaron.", "cog": false },
+        { "t": "therefore", "es": "por lo tanto", "pron": "derfór", "ej": "Prices rose; therefore, sales dropped.", "ejes": "Los precios subieron; por lo tanto, las ventas bajaron.", "cog": false },
         { "t": "as a result", "es": "como resultado", "pron": "as a risált", "ej": "As a result, many people lost their jobs.", "ejes": "Como resultado, mucha gente perdió su trabajo.", "cog": false },
         { "t": "owing to", "es": "debido a", "pron": "óuin tu", "ej": "Owing to the strike, trains were canceled.", "ejes": "Debido a la huelga, se cancelaron los trenes.", "cog": false },
         { "t": "back up", "es": "respaldar, apoyar", "pron": "bac ap", "ej": "You need data to back up your claim.", "ejes": "Necesitas datos para respaldar tu afirmación.", "cog": false },

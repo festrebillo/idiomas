@@ -20,7 +20,7 @@
       ["a empresa cuja sede fica aqui", "la empresa cuya sede queda aquí", "a empresa kúya sédi fíka akí"],
       ["os amigos cujos pais viajaram", "los amigos cuyos padres viajaron", "us amígus kúyus páis viayárau"],
       ["as casas cujas portas são azuis", "las casas cuyas puertas son azules", "as kázas kúyas pórtas sáun azúis"],
-      ["a pessoa de cujo nome esqueci", "la persona de cuyo nombre me olvidé", "a pesóa dyi kúyu nómi eskesí"]
+      ["a pessoa de cujo nome me esqueci", "la persona de cuyo nombre me olvidé", "a pesóa dyi kúyu nómi mi eskesí"]
     ],
     "errores": [
       "«Cujo» concuerda con lo poseído: «a casa cujas janelas», no «a casa cujo janelas».",

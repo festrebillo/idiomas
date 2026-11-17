@@ -55,7 +55,7 @@
       "frases": [
         { "t": "It was the interns who discovered the mistake.", "es": "Fueron los pasantes quienes descubrieron el error.", "pron": "it uas di íntorns ju discóverd da mistéic" },
         { "t": "It is persistence that makes the difference.", "es": "Es la persistencia lo que marca la diferencia.", "pron": "it is persístens dat meiks da díferens" },
-        { "t": "It was in Cusco that I first tasted real ceviche.", "es": "Fue en Cusco donde probé por primera vez un ceviche de verdad.", "pron": "it uas in cúsco dat ai ferst teistid ríal sevíche" },
+        { "t": "It was in Cusco that I first tasted real ceviche.", "es": "Fue en Cusco donde probé por primera vez un ceviche de verdad.", "pron": "it uas in cúsco dat ai ferst téistid ríal sevíche" },
         { "t": "It wasn't until midnight that we finished.", "es": "No fue sino hasta la medianoche que terminamos.", "pron": "it uásent antíl mídnait dat ui fínisht" },
         { "t": "It was the delay that cost us the contract.", "es": "Fue el retraso lo que nos costó el contrato.", "pron": "it uas da diléi dat cost as da cóntract" }
       ],
@@ -153,7 +153,7 @@
         { "t": "what happened was", "es": "lo que pasó fue", "pron": "juat jápend uas", "ej": "What happened was that the server crashed.", "ejes": "Lo que pasó fue que el servidor se cayó.", "cog": false },
         { "t": "all it takes", "es": "todo lo que hace falta", "pron": "ol it teiks", "ej": "All it takes is one honest conversation.", "ejes": "Todo lo que hace falta es una conversación honesta.", "cog": false },
         { "t": "merely", "es": "simplemente", "pron": "mírli", "ej": "I was merely trying to help.", "ejes": "Simplemente trataba de ayudar.", "cog": false },
-        { "t": "downplay", "es": "restar importancia", "pron": "daunplei", "ej": "He tends to downplay his achievements.", "ejes": "Tiende a restar importancia a sus logros.", "cog": false },
+        { "t": "downplay", "es": "restar importancia", "pron": "dáunplei", "ej": "He tends to downplay his achievements.", "ejes": "Tiende a restar importancia a sus logros.", "cog": false },
         { "t": "blown out of proportion", "es": "exagerado", "pron": "blóun aut ov propórshon", "ej": "The incident was blown out of proportion by the press.", "ejes": "La prensa exageró el incidente.", "cog": false },
         { "t": "innocuous", "es": "inofensivo", "pron": "inócuius", "ej": "It was an innocuous remark, nothing more.", "ejes": "Fue un comentario inofensivo, nada más.", "cog": true }
       ],
@@ -184,7 +184,7 @@
       "intro": "Mezcla las tres familias: It was..., What..., The reason.... Truco: varía; si repites siempre la misma estructura, el énfasis pierde su efecto.",
       "palabras": [
         { "t": "pivotal", "es": "fundamental, decisivo", "pron": "pívotal", "ej": "Her speech played a pivotal role in the vote.", "ejes": "Su discurso tuvo un papel decisivo en la votación.", "cog": false },
-        { "t": "underlying", "es": "subyacente", "pron": "anderlaiin", "ej": "We must address the underlying cause of the problem.", "ejes": "Debemos abordar la causa subyacente del problema.", "cog": false },
+        { "t": "underlying", "es": "subyacente", "pron": "anderláiin", "ej": "We must address the underlying cause of the problem.", "ejes": "Debemos abordar la causa subyacente del problema.", "cog": false },
         { "t": "outcome", "es": "resultado", "pron": "áutcam", "ej": "The outcome surprised even the experts.", "ejes": "El resultado sorprendió incluso a los expertos.", "cog": false },
         { "t": "stand out", "es": "destacar", "pron": "stand aut", "ej": "Her work will stand out among the applications.", "ejes": "Su trabajo destacará entre las solicitudes.", "cog": false },
         { "t": "emphasize", "es": "enfatizar", "pron": "émfasaiz", "ej": "I want to emphasize how important this is.", "ejes": "Quiero enfatizar lo importante que es esto.", "cog": true },
@@ -194,7 +194,7 @@
       ],
       "frases": [
         { "t": "It was her speech that played a pivotal role.", "es": "Fue su discurso el que tuvo un papel decisivo.", "pron": "it uas jer spich dat pleid a pívotal roul" },
-        { "t": "What we must address is the underlying cause.", "es": "Lo que debemos abordar es la causa subyacente.", "pron": "juat ui mast adrés is di anderlaiin cos" },
+        { "t": "What we must address is the underlying cause.", "es": "Lo que debemos abordar es la causa subyacente.", "pron": "juat ui mast adrés is di anderláiin cos" },
         { "t": "The reason why the deal collapsed is that trust had gone.", "es": "La razón por la que se cayó el trato es que se había perdido la confianza.", "pron": "da rízon juai da dil colápst is dat trast jad gon" },
         { "t": "All I want to emphasize is how pivotal this moment is.", "es": "Lo único que quiero enfatizar es lo decisivo que es este momento.", "pron": "ol ai uont tu émfasaiz is jau pívotal dis móument is" },
         { "t": "It is rarely the outcome that stays with us, but the process.", "es": "Rara vez es el resultado lo que nos queda, sino el proceso.", "pron": "it is rérli di áutcam dat steis uid as, bat da próses" }

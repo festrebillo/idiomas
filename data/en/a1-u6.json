@@ -22,7 +22,7 @@
       ["There isn't a TV.", "No hay un televisor.", "déir ísnt a ti-ví"],
       ["Is there a garden?", "¿Hay un jardín?", "is déir a gárden"],
       ["in / on / under", "dentro de / encima de / debajo de", "in / an / ánder"],
-      ["next to / behind / in front of", "al lado de / detrás de / delante de", "nekst tu / bijáind / in frant of"]
+      ["next to / behind / in front of", "al lado de / detrás de / delante de", "next tu / bijáind / in frant of"]
     ],
     "errores": [
       "No uses has/have para «hay»: In my house there is a garden, no «In my house has a garden».",
@@ -161,7 +161,7 @@
       "palabras": [
         { "t": "on", "es": "sobre / encima de", "pron": "an", "ej": "The lamp is on the table.", "ejes": "La lámpara está sobre la mesa.", "cog": false },
         { "t": "under", "es": "debajo de", "pron": "ánder", "ej": "The cat is under the table.", "ejes": "El gato está debajo de la mesa.", "cog": false },
-        { "t": "next to", "es": "al lado de", "pron": "nekst tu", "ej": "The TV is next to the window.", "ejes": "El televisor está al lado de la ventana.", "cog": false },
+        { "t": "next to", "es": "al lado de", "pron": "next tu", "ej": "The TV is next to the window.", "ejes": "El televisor está al lado de la ventana.", "cog": false },
         { "t": "behind", "es": "detrás de", "pron": "bijáind", "ej": "The dog is behind the door.", "ejes": "El perro está detrás de la puerta.", "cog": false },
         { "t": "in front of", "es": "delante de / frente a", "pron": "in frant of", "ej": "The sofa is in front of the TV.", "ejes": "El sofá está frente al televisor.", "cog": false },
         { "t": "between", "es": "entre", "pron": "bitúin", "ej": "The lamp is between the bed and the desk.", "ejes": "La lámpara está entre la cama y el escritorio.", "cog": false },
@@ -173,7 +173,7 @@
         { "t": "Where is the cat?", "es": "¿Dónde está el gato?", "pron": "juér is da cat" },
         { "t": "It's under the table.", "es": "Está debajo de la mesa.", "pron": "its ánder da téibol" },
         { "t": "The lamp is on the desk.", "es": "La lámpara está sobre el escritorio.", "pron": "da lamp is an da desk" },
-        { "t": "The TV is next to the window.", "es": "El televisor está al lado de la ventana.", "pron": "da ti-ví is nekst tu da uíndou" },
+        { "t": "The TV is next to the window.", "es": "El televisor está al lado de la ventana.", "pron": "da ti-ví is next tu da uíndou" },
         { "t": "The chair is behind the door.", "es": "La silla está detrás de la puerta.", "pron": "da cher is bijáind da dor" },
         { "t": "The garden is in front of the house.", "es": "El jardín está frente a la casa.", "pron": "da gárden is in frant of da jaus" }
       ],

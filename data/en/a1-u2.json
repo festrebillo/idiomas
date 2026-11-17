@@ -15,11 +15,11 @@
   ],
   "gramatica": {
     "titulo": "La edad se dice con to be (no con «tener»)",
-    "texto": "En español decimos «tengo 25 años», pero en inglés la edad se dice con el verbo to be: I am 25 (literalmente «yo soy 25»). Puedes añadir years old: I am 25 years old.\nPara preguntar: How old are you? (¿Cuántos años tienes?).\nTruco para los números: los que terminan en -teen (13 a 19) llevan la fuerza en el final: thirteen = zertín. Los que terminan en -ty (20, 30, 40...) la llevan al inicio: thirty = zérdi. Si oyes la fuerza al final es -teen; si la oyes al inicio, es -ty.",
+    "texto": "En español decimos «tengo 25 años», pero en inglés la edad se dice con el verbo to be: I am 25 (literalmente «yo soy 25»). Puedes añadir years old: I am 25 years old.\nPara preguntar: How old are you? (¿Cuántos años tienes?).\nTruco para los números: los que terminan en -teen (13 a 19) llevan la fuerza en el final: thirteen = zertín. Los que terminan en -ty (20, 30, 40...) la llevan al inicio: thirty = zérti. Si oyes la fuerza al final es -teen; si la oyes al inicio, es -ty.",
     "tabla": [
       ["I am 25", "yo tengo 25 años", "ai am tuénti-faiv"],
-      ["You are 30", "tú tienes 30 años", "iu ar zérdi"],
-      ["He is 40", "él tiene 40 años", "ji is fórdi"],
+      ["You are 30", "tú tienes 30 años", "iu ar zérti"],
+      ["He is 40", "él tiene 40 años", "ji is fórti"],
       ["She is 18", "ella tiene 18 años", "shi is eitín"],
       ["How old are you?", "¿cuántos años tienes?", "jau óuld ar iú"]
     ],
@@ -85,8 +85,8 @@
         { "t": "thirteen", "es": "trece", "pron": "zertín", "ej": "Ten and three is thirteen.", "ejes": "Diez y tres son trece.", "cog": false, "truco": "Termina en -teen: la fuerza va al final. En la «th» saca la lengua." },
         { "t": "fifteen", "es": "quince", "pron": "fiftín", "ej": "Ten and five is fifteen.", "ejes": "Diez y cinco son quince.", "cog": false },
         { "t": "twenty", "es": "veinte", "pron": "tuénti", "ej": "Ten and ten is twenty.", "ejes": "Diez y diez son veinte.", "cog": false },
-        { "t": "thirty", "es": "treinta", "pron": "zérdi", "ej": "Twenty and ten is thirty.", "ejes": "Veinte y diez son treinta.", "cog": false, "truco": "Termina en -ty: la fuerza va al inicio." },
-        { "t": "forty", "es": "cuarenta", "pron": "fórdi", "ej": "Thirty and ten is forty.", "ejes": "Treinta y diez son cuarenta.", "cog": false, "truco": "forty se escribe SIN «u», aunque four sí la lleva." },
+        { "t": "thirty", "es": "treinta", "pron": "zérti", "ej": "Twenty and ten is thirty.", "ejes": "Veinte y diez son treinta.", "cog": false, "truco": "Termina en -ty: la fuerza va al inicio." },
+        { "t": "forty", "es": "cuarenta", "pron": "fórti", "ej": "Thirty and ten is forty.", "ejes": "Treinta y diez son cuarenta.", "cog": false, "truco": "forty se escribe SIN «u», aunque four sí la lleva." },
         { "t": "fifty", "es": "cincuenta", "pron": "fífti", "ej": "Forty and ten is fifty.", "ejes": "Cuarenta y diez son cincuenta.", "cog": false },
         { "t": "ninety", "es": "noventa", "pron": "náinti", "ej": "Eighty and ten is ninety.", "ejes": "Ochenta y diez son noventa.", "cog": false },
         { "t": "one hundred", "es": "cien", "pron": "uan jóndred", "ej": "Fifty and fifty is one hundred.", "ejes": "Cincuenta y cincuenta son cien.", "cog": false }
@@ -94,7 +94,7 @@
       "frases": [
         { "t": "Thirteen, fourteen, fifteen.", "es": "Trece, catorce, quince.", "pron": "zertín, fortín, fiftín" },
         { "t": "Sixteen, seventeen, eighteen, nineteen.", "es": "Dieciséis, diecisiete, dieciocho, diecinueve.", "pron": "sixtín, seventín, eitín, naintín" },
-        { "t": "Thirty, forty, fifty.", "es": "Treinta, cuarenta, cincuenta.", "pron": "zérdi, fórdi, fífti" },
+        { "t": "Thirty, forty, fifty.", "es": "Treinta, cuarenta, cincuenta.", "pron": "zérti, fórti, fífti" },
         { "t": "Sixty, seventy, eighty, ninety.", "es": "Sesenta, setenta, ochenta, noventa.", "pron": "síxti, séventi, éiti, náinti" },
         { "t": "Eleven and nine is twenty.", "es": "Once y nueve son veinte.", "pron": "ilében an nain is tuénti" },
         { "t": "Fifty and fifty is one hundred.", "es": "Cincuenta y cincuenta son cien.", "pron": "fífti an fífti is uan jóndred" }
@@ -109,7 +109,7 @@
           { "q": "A", "t": "Thank you, Ana!", "es": "¡Gracias, Ana!" }
         ]
       },
-      "nota": "Cuidado con la confusión típica: thirteen (13, zertín) y thirty (30, zérdi). Para decir 21, 22, 23... une la decena con el dígito usando un guion: twenty-one, twenty-two, thirty-five."
+      "nota": "Cuidado con la confusión típica: thirteen (13, zertín) y thirty (30, zérti). Para decir 21, 22, 23... une la decena con el dígito usando un guion: twenty-one, twenty-two, thirty-five."
     },
     {
       "id": "en-a1-u2-l3",
@@ -123,15 +123,15 @@
         { "t": "phone", "es": "teléfono", "pron": "fóun", "ej": "Where is my phone?", "ejes": "¿Dónde está mi teléfono?", "cog": false, "truco": "En inglés la «ph» suena como «f»." },
         { "t": "number", "es": "número", "pron": "námber", "ej": "What's your number?", "ejes": "¿Cuál es tu número?", "cog": true },
         { "t": "phone number", "es": "número de teléfono", "pron": "fóun námber", "ej": "My phone number is five, five, five, one, two, three.", "ejes": "Mi número de teléfono es cinco, cinco, cinco, uno, dos, tres.", "cog": false },
-        { "t": "zero", "es": "cero", "pron": "zírou", "ej": "Zero and five is five.", "ejes": "Cero y cinco son cinco.", "cog": true, "truco": "Se pronuncia con una «z» zumbada, como una abeja." },
+        { "t": "zero", "es": "cero", "pron": "zíro", "ej": "Zero and five is five.", "ejes": "Cero y cinco son cinco.", "cog": true, "truco": "Se pronuncia con una «z» zumbada, como una abeja." },
         { "t": "oh", "es": "cero (en teléfonos)", "pron": "ou", "ej": "My number is five, oh, two.", "ejes": "Mi número es cinco, cero, dos.", "cog": false, "truco": "En un teléfono el 0 se dice «ou», como la letra O." },
         { "t": "twenty-five", "es": "veinticinco", "pron": "tuénti-faiv", "ej": "I'm twenty-five years old.", "ejes": "Tengo veinticinco años.", "cog": false },
-        { "t": "thirty-two", "es": "treinta y dos", "pron": "zérdi-tu", "ej": "Luis is thirty-two.", "ejes": "Luis tiene treinta y dos años.", "cog": false }
+        { "t": "thirty-two", "es": "treinta y dos", "pron": "zérti-tu", "ej": "Luis is thirty-two.", "ejes": "Luis tiene treinta y dos años.", "cog": false }
       ],
       "frases": [
         { "t": "How old are you?", "es": "¿Cuántos años tienes?", "pron": "jau óuld ar iú" },
         { "t": "I'm twenty-five.", "es": "Tengo veinticinco años.", "pron": "aim tuénti-faiv" },
-        { "t": "I'm thirty-two years old.", "es": "Tengo treinta y dos años.", "pron": "aim zérdi-tu iérs óuld" },
+        { "t": "I'm thirty-two years old.", "es": "Tengo treinta y dos años.", "pron": "aim zérti-tu iérs óuld" },
         { "t": "What's your phone number?", "es": "¿Cuál es tu número de teléfono?", "pron": "juóts ior fóun námber" },
         { "t": "My phone number is five, five, five, oh, one, two.", "es": "Mi número de teléfono es cinco, cinco, cinco, cero, uno, dos.", "pron": "mai fóun námber is faiv, faiv, faiv, ou, uan, tu" }
       ],
@@ -194,7 +194,7 @@
       "intro": "Para deletrear, pregunta How do you spell it? (¿Cómo se deletrea?). Truco: aprende el alfabeto en bloques de cinco o seis letras, y practica con tu nombre. Si no entiendes algo, di Say it again, please o Slowly, please.",
       "palabras": [
         { "t": "alphabet", "es": "alfabeto", "pron": "álfabet", "ej": "Say the alphabet, please.", "ejes": "Di el alfabeto, por favor.", "cog": true },
-        { "t": "letter", "es": "letra", "pron": "léder", "ej": "A is a letter.", "ejes": "A es una letra.", "cog": false, "truco": "La «tt» de letter suena entre «t» y «d» suave." },
+        { "t": "letter", "es": "letra", "pron": "léter", "ej": "A is a letter.", "ejes": "A es una letra.", "cog": false, "truco": "La «tt» de letter suena entre «t» y «d» suave; di «léter» sin marcar mucho la t." },
         { "t": "spell", "es": "deletrear", "pron": "spel", "ej": "How do you spell your name?", "ejes": "¿Cómo se deletrea tu nombre?", "cog": false },
         { "t": "again", "es": "otra vez", "pron": "agén", "ej": "Again, please.", "ejes": "Otra vez, por favor.", "cog": false },
         { "t": "slowly", "es": "despacio", "pron": "slóuli", "ej": "Slowly, please.", "ejes": "Despacio, por favor.", "cog": false },
@@ -208,7 +208,7 @@
         { "t": "Slowly, please.", "es": "Despacio, por favor.", "pron": "slóuli, plis" },
         { "t": "Say it again, please.", "es": "Dilo otra vez, por favor.", "pron": "sei it agén, plis" },
         { "t": "My email is ana dot lopez at mail dot com.", "es": "Mi correo es ana punto lopez arroba mail punto com.", "pron": "mai ímeil is ána dat lópez at meil dat com" },
-        { "t": "I'm Ana. I'm thirty years old. I'm a doctor.", "es": "Soy Ana. Tengo treinta años. Soy médica.", "pron": "aim ána. aim zérdi iérs óuld. aim a dóctor" }
+        { "t": "I'm Ana. I'm thirty years old. I'm a doctor.", "es": "Soy Ana. Tengo treinta años. Soy médica.", "pron": "aim ána. aim zérti iérs óuld. aim a dóctor" }
       ],
       "dialogo": {
         "titulo": "Deletreando un apellido",

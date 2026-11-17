@@ -44,7 +44,7 @@
       "intro": "Said that + oración con el verbo un tiempo atrás: \"I'm busy\" pasa a She said she was busy. Truco: si cuentas algo que acaba de decirse, no hace falta retroceder: She says she's busy.",
       "palabras": [
         { "t": "mention", "es": "mencionar", "pron": "ménshen", "ej": "He didn't mention the price.", "ejes": "No mencionó el precio.", "cog": true },
-        { "t": "explain", "es": "explicar", "pron": "iksplein", "ej": "Let me explain what happened.", "ejes": "Déjame explicarte lo que pasó.", "cog": true },
+        { "t": "explain", "es": "explicar", "pron": "ikspléin", "ej": "Let me explain what happened.", "ejes": "Déjame explicarte lo que pasó.", "cog": true },
         { "t": "announce", "es": "anunciar", "pron": "anáuns", "ej": "They will announce the winner tomorrow.", "ejes": "Anunciarán al ganador mañana.", "cog": true },
         { "t": "state", "es": "declarar, afirmar", "pron": "steit", "ej": "The law will state that helmets are required.", "ejes": "La ley establecerá que los cascos son obligatorios.", "cog": false },
         { "t": "point out", "es": "señalar, hacer notar", "pron": "point áut", "ej": "I'd like to point out one problem.", "ejes": "Quisiera señalar un problema.", "cog": false },
@@ -116,7 +116,7 @@
       "intro": "Con órdenes, pedidos y consejos la estructura es verbo + persona + to + verbo: She told me to wait. Para negar, pon not antes de to: He told us not to worry. Truco: no hay retroceso de tiempo.",
       "palabras": [
         { "t": "advise", "es": "aconsejar", "pron": "adváis", "ej": "I advise you to see a doctor.", "ejes": "Te aconsejo que veas a un médico.", "cog": true },
-        { "t": "recommend", "es": "recomendar", "pron": "recomend", "ej": "I recommend booking in advance.", "ejes": "Recomiendo reservar con anticipación.", "cog": true },
+        { "t": "recommend", "es": "recomendar", "pron": "recoménd", "ej": "I recommend booking in advance.", "ejes": "Recomiendo reservar con anticipación.", "cog": true },
         { "t": "encourage", "es": "animar, alentar", "pron": "incárich", "ej": "Teachers should encourage students to read.", "ejes": "Los profesores deberían animar a los alumnos a leer.", "cog": true },
         { "t": "remind", "es": "recordar a alguien", "pron": "rimáind", "ej": "Please remind me to call him.", "ejes": "Por favor recuérdame llamarlo.", "cog": false },
         { "t": "warn", "es": "advertir", "pron": "uorn", "ej": "I must warn you about the traffic.", "ejes": "Debo advertirte sobre el tráfico.", "cog": false },
@@ -126,8 +126,8 @@
       ],
       "frases": [
         { "t": "She told me to wait outside.", "es": "Me dijo que esperara afuera.", "pron": "shi tould mi tu ueit autsáid" },
-        { "t": "He asked us not to make any noise.", "es": "Nos pidió que no hiciéramos ruido.", "pron": "ji askt as not tu meik eni nois" },
-        { "t": "The doctor advised me to rest for a week.", "es": "El doctor me aconsejó descansar una semana.", "pron": "da dóctor advaizd mi tu rest for a uik" },
+        { "t": "He asked us not to make any noise.", "es": "Nos pidió que no hiciéramos ruido.", "pron": "ji askt as not tu meik éni nois" },
+        { "t": "The doctor advised me to rest for a week.", "es": "El doctor me aconsejó descansar una semana.", "pron": "da dóctor advaízd mi tu rest for a uik" },
         { "t": "They warned us not to go out at night.", "es": "Nos advirtieron que no saliéramos de noche.", "pron": "dei uornd as not tu gou aut at nait" },
         { "t": "My boss reminded me to send the invoice.", "es": "Mi jefe me recordó enviar la factura.", "pron": "mai bos rimáinded mi tu send di ínvois" }
       ],
@@ -158,11 +158,11 @@
         { "t": "insist", "es": "insistir", "pron": "insíst", "ej": "I insist on paying for dinner.", "ejes": "Insisto en pagar la cena.", "cog": true },
         { "t": "refuse", "es": "negarse", "pron": "rifíus", "ej": "They refuse to change the plan.", "ejes": "Se niegan a cambiar el plan.", "cog": true },
         { "t": "claim", "es": "afirmar, alegar", "pron": "cleim", "ej": "Many people claim to have seen it.", "ejes": "Muchos afirman haberlo visto.", "cog": true },
-        { "t": "complain", "es": "quejarse", "pron": "complein", "ej": "Some guests complain about the noise.", "ejes": "Algunos huéspedes se quejan del ruido.", "cog": true }
+        { "t": "complain", "es": "quejarse", "pron": "compléin", "ej": "Some guests complain about the noise.", "ejes": "Algunos huéspedes se quejan del ruido.", "cog": true }
       ],
       "frases": [
         { "t": "He admitted breaking the window.", "es": "Admitió haber roto la ventana.", "pron": "ji admítid bréikin da uíndou" },
-        { "t": "She denied taking the money.", "es": "Negó haber tomado el dinero.", "pron": "shi dinaid téikin da máni" },
+        { "t": "She denied taking the money.", "es": "Negó haber tomado el dinero.", "pron": "shi dinaíd téikin da máni" },
         { "t": "I suggested going to the cinema.", "es": "Sugerí ir al cine.", "pron": "ai sagyéstid góuin tu da sínema" },
         { "t": "They promised to arrive before noon.", "es": "Prometieron llegar antes del mediodía.", "pron": "dei prómist tu aráiv bifór nun" },
         { "t": "He refused to apologize and insisted on staying.", "es": "Se negó a disculparse y se empeñó en quedarse.", "pron": "ji rifíust tu apólayaiz and insístid on stéiin" }

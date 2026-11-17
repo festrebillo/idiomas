@@ -18,7 +18,7 @@
     "tabla": [
       ["sto studiando", "estoy estudiando", "sto studiándo"],
       ["stai mangiando", "estás comiendo", "stái manyándo"],
-      ["sta leggendo", "está leyendo", "sta leyéndo"],
+      ["sta leggendo", "está leyendo", "sta ledyéndo"],
       ["stiamo lavorando", "estamos trabajando", "stiámo lavorándo"],
       ["domani vado a Roma", "mañana voy a Roma", "dománi vádo a róma"],
       ["vado a visitare Roma", "voy a visitar Roma", "vádo a visitáre róma"]
@@ -45,7 +45,7 @@
       "palabras": [
         { "t": "il tempo", "es": "el tiempo / el clima", "pron": "il témpo", "ej": "Il tempo è bello.", "ejes": "El tiempo es bonito.", "cog": true, "truco": "«Tempo» sirve para «clima» y también para «tiempo» de reloj." },
         { "t": "il sole", "es": "el sol", "pron": "il sóle", "ej": "Il sole è caldo.", "ejes": "El sol es caliente.", "cog": true },
-        { "t": "soleggiato", "es": "soleado", "pron": "soleyáto", "ej": "Oggi è soleggiato.", "ejes": "Hoy está soleado.", "cog": true, "truco": "Sole + -ggiato: «gg» suena «y»." },
+        { "t": "soleggiato", "es": "soleado", "pron": "soledyáto", "ej": "Oggi è soleggiato.", "ejes": "Hoy está soleado.", "cog": true, "truco": "Sole + -ggiato: «gg» suena «dy»." },
         { "t": "nuvoloso", "es": "nublado", "pron": "nuvolóso", "ej": "A Lima è nuvoloso.", "ejes": "En Lima está nublado.", "cog": true, "truco": "De «nuvola» (nube)." },
         { "t": "piovoso", "es": "lluvioso", "pron": "piovóso", "ej": "A Milano è piovoso.", "ejes": "En Milán está lluvioso.", "cog": true },
         { "t": "ventoso", "es": "ventoso", "pron": "ventóso", "ej": "A Roma è ventoso oggi.", "ejes": "En Roma hoy hay viento.", "cog": true },
@@ -59,7 +59,7 @@
         { "t": "Fa caldo.", "es": "Hace calor.", "pron": "fa cáldo" },
         { "t": "Fa freddo.", "es": "Hace frío.", "pron": "fa frédo" },
         { "t": "Oggi piove.", "es": "Hoy llueve.", "pron": "ódyi pióve" },
-        { "t": "Oggi è soleggiato.", "es": "Hoy está soleado.", "pron": "ódyi è soleyáto" },
+        { "t": "Oggi è soleggiato.", "es": "Hoy está soleado.", "pron": "ódyi è soledyáto" },
         { "t": "A Lima è nuvoloso.", "es": "En Lima está nublado.", "pron": "a líma è nuvolóso" }
       ],
       "dialogo": {
@@ -88,7 +88,7 @@
         { "t": "studiando", "es": "estudiando", "pron": "studiándo", "ej": "Sto studiando italiano.", "ejes": "Estoy estudiando italiano.", "cog": true, "truco": "Studiare → studiando (-are → -ando)." },
         { "t": "mangiando", "es": "comiendo", "pron": "manyándo", "ej": "Sta mangiando un panino.", "ejes": "Está comiendo un sándwich.", "cog": false, "truco": "«gia» suena «ya»: manyándo." },
         { "t": "lavorando", "es": "trabajando", "pron": "lavorándo", "ej": "Sto lavorando.", "ejes": "Estoy trabajando.", "cog": false, "truco": "De «lavorare» (trabajar); parece «laborando»." },
-        { "t": "leggendo", "es": "leyendo", "pron": "leyéndo", "ej": "Giulia sta leggendo un libro.", "ejes": "Giulia está leyendo un libro.", "cog": true, "truco": "Leggere → leggendo (-ere → -endo)." },
+        { "t": "leggendo", "es": "leyendo", "pron": "ledyéndo", "ej": "Giulia sta leggendo un libro.", "ejes": "Giulia está leyendo un libro.", "cog": true, "truco": "Leggere → leggendo (-ere → -endo)." },
         { "t": "bevendo", "es": "bebiendo", "pron": "bevéndo", "ej": "Sto bevendo un tè.", "ejes": "Estoy bebiendo un té.", "cog": true, "truco": "Irregular: bere → bevendo." },
         { "t": "facendo", "es": "haciendo", "pron": "fachéndo", "ej": "Che cosa sta facendo Luca?", "ejes": "¿Qué está haciendo Luca?", "cog": true, "truco": "Irregular: fare → facendo." }
       ],
@@ -97,7 +97,7 @@
         { "t": "Sto studiando italiano.", "es": "Estoy estudiando italiano.", "pron": "sto studiándo italiáno" },
         { "t": "Luca sta lavorando.", "es": "Luca está trabajando.", "pron": "lúca sta lavorándo" },
         { "t": "Stiamo mangiando una pizza.", "es": "Estamos comiendo una pizza.", "pron": "stiámo manyándo úna pítsa" },
-        { "t": "Giulia sta leggendo un libro.", "es": "Giulia está leyendo un libro.", "pron": "yúlia sta leyéndo un líbro" },
+        { "t": "Giulia sta leggendo un libro.", "es": "Giulia está leyendo un libro.", "pron": "yúlia sta ledyéndo un líbro" },
         { "t": "Sto bevendo un caffè.", "es": "Estoy tomando un café.", "pron": "sto bevéndo un cafè" }
       ],
       "dialogo": {
@@ -124,7 +124,7 @@
         { "t": "la prossima settimana", "es": "la próxima semana", "pron": "la prósima setimána", "ej": "La prossima settimana vado a Lima.", "ejes": "La próxima semana voy a Lima.", "cog": true },
         { "t": "questo weekend", "es": "este fin de semana", "pron": "cuésto uíkend", "ej": "Questo weekend vado al parco.", "ejes": "Este fin de semana voy al parque.", "cog": true, "truco": "En italiano se usa también la palabra inglesa «weekend»." },
         { "t": "vado", "es": "voy", "pron": "vádo", "ej": "Vado a Roma.", "ejes": "Voy a Roma.", "cog": false, "truco": "De «andare»: vado, vai, va, andiamo, andate, vanno." },
-        { "t": "vai", "es": "vas", "pron": "vai", "ej": "Dove vai domani?", "ejes": "¿Adónde vas mañana?", "cog": false },
+        { "t": "vai", "es": "vas", "pron": "vái", "ej": "Dove vai domani?", "ejes": "¿Adónde vas mañana?", "cog": false },
         { "t": "va", "es": "va", "pron": "va", "ej": "Luca va a Milano.", "ejes": "Luca va a Milán.", "cog": false },
         { "t": "visitare", "es": "visitar", "pron": "visitáre", "ej": "Vado a visitare Roma.", "ejes": "Voy a visitar Roma.", "cog": true },
         { "t": "incontrare", "es": "encontrarse con", "pron": "incontráre", "ej": "Vado a incontrare Marco.", "ejes": "Voy a encontrarme con Marco.", "cog": true, "truco": "Parece «encontrar»; también es «conocer a alguien»." },
@@ -158,23 +158,23 @@
       "intro": "Con este vocabulario podrás organizar y contar un viaje. Para decir adónde vas: «al mare» (a la playa/al mar), «in montagna» (a la montaña), «in vacanza» (de vacaciones). Truco: «mare» es masculino en italiano: il mare.",
       "palabras": [
         { "t": "le vacanze", "es": "las vacaciones", "pron": "le vacántse", "ej": "Mi piacciono le vacanze.", "ejes": "Me gustan las vacaciones.", "cog": true, "truco": "Casi siempre en plural: le vacanze." },
-        { "t": "il viaggio", "es": "el viaje", "pron": "il viáyo", "ej": "Il viaggio è bello.", "ejes": "El viaje es bonito.", "cog": true, "truco": "«gg» + io suena «y»: viáyo." },
-        { "t": "la spiaggia", "es": "la playa", "pron": "la spiáya", "ej": "La spiaggia è vicina.", "ejes": "La playa está cerca.", "cog": false, "truco": "Falso amigo: «spiaggia» es la playa. «Playa» en italiano no existe." },
+        { "t": "il viaggio", "es": "el viaje", "pron": "il viádyo", "ej": "Il viaggio è bello.", "ejes": "El viaje es bonito.", "cog": true, "truco": "«gg» + io suena «dy»: viádyo." },
+        { "t": "la spiaggia", "es": "la playa", "pron": "la spiádya", "ej": "La spiaggia è vicina.", "ejes": "La playa está cerca.", "cog": false, "truco": "Falso amigo: «spiaggia» es la playa. «Playa» en italiano no existe." },
         { "t": "il mare", "es": "el mar", "pron": "il máre", "ej": "Mi piace il mare.", "ejes": "Me gusta el mar.", "cog": true, "truco": "Es masculino: il mare." },
         { "t": "la montagna", "es": "la montaña", "pron": "la montáña", "ej": "Mi piace la montagna.", "ejes": "Me gusta la montaña.", "cog": true, "truco": "«gn» suena «ñ»." },
         { "t": "l'albergo", "es": "el hotel / el albergue", "pron": "lalbérgo", "ej": "L'albergo è vicino alla spiaggia.", "ejes": "El hotel está cerca de la playa.", "cog": true, "truco": "También se dice «hotel»." },
         { "t": "la valigia", "es": "la maleta", "pron": "la valíya", "ej": "Ecco la valigia.", "ejes": "Aquí está la maleta.", "cog": false, "truco": "«gia» suena «ya»: va-lí-ya." },
         { "t": "il passaporto", "es": "el pasaporte", "pron": "il pasapórto", "ej": "Ho il passaporto.", "ejes": "Tengo el pasaporte.", "cog": true },
-        { "t": "il fine settimana", "es": "el fin de semana", "pron": "il fine setimána", "ej": "Il fine settimana vado al mare.", "ejes": "El fin de semana voy a la playa.", "cog": true, "truco": "Literalmente «fin de semana»; también se oye «il weekend»." },
+        { "t": "il fine settimana", "es": "el fin de semana", "pron": "il fíne setimána", "ej": "Il fine settimana vado al mare.", "ejes": "El fin de semana voy a la playa.", "cog": true, "truco": "Literalmente «fin de semana»; también se oye «il weekend»." },
         { "t": "la prenotazione", "es": "la reserva", "pron": "la prenotatsióne", "ej": "Ho la prenotazione.", "ejes": "Tengo la reserva.", "cog": false, "truco": "Falso amigo: no es «prenotación»; es reserva." }
       ],
       "frases": [
         { "t": "Vado in vacanza al mare.", "es": "Voy de vacaciones a la playa.", "pron": "vádo in vacántsa al máre" },
-        { "t": "L'albergo è vicino alla spiaggia.", "es": "El hotel está cerca de la playa.", "pron": "lalbérgo è vicíno alla spiáya" },
+        { "t": "L'albergo è vicino alla spiaggia.", "es": "El hotel está cerca de la playa.", "pron": "lalbérgo è vicíno alla spiádya" },
         { "t": "Ho la prenotazione per la camera.", "es": "Tengo la reserva de la habitación.", "pron": "o la prenotatsióne per la cámera" },
         { "t": "Questo weekend vado in montagna.", "es": "Este fin de semana voy a la montaña.", "pron": "cuésto uíkend vádo in montáña" },
         { "t": "Ecco la valigia e il passaporto.", "es": "Aquí están la maleta y el pasaporte.", "pron": "éko la valíya e il pasapórto" },
-        { "t": "Il viaggio è bello!", "es": "¡El viaje es bonito!", "pron": "il viáyo è bélo" }
+        { "t": "Il viaggio è bello!", "es": "¡El viaje es bonito!", "pron": "il viádyo è bélo" }
       ],
       "dialogo": {
         "titulo": "En el hotel",
@@ -195,9 +195,9 @@
       "objetivo": "Repasar lo esencial del nivel A1 en frases y diálogos reales.",
       "intro": "¡Llegaste al final del nivel A1! Aquí repasas lo más importante de las diez unidades y aprendes frases para despedirte y desear cosas, algo que oirás todos los días en Italia.",
       "palabras": [
-        { "t": "buon viaggio", "es": "buen viaje", "pron": "buon viáyo", "ej": "Buon viaggio, Anna!", "ejes": "¡Buen viaje, Anna!", "cog": true },
+        { "t": "buon viaggio", "es": "buen viaje", "pron": "buon viádyo", "ej": "Buon viaggio, Anna!", "ejes": "¡Buen viaje, Anna!", "cog": true },
         { "t": "buona giornata", "es": "que tengas un buen día", "pron": "buóna yornáta", "ej": "Buona giornata, signora!", "ejes": "¡Que tenga un buen día, señora!", "cog": false, "truco": "Se dice al despedirse, por la mañana." },
-        { "t": "buon fine settimana", "es": "buen fin de semana", "pron": "buon fine setimána", "ej": "Buon fine settimana, Marco!", "ejes": "¡Buen fin de semana, Marco!", "cog": true },
+        { "t": "buon fine settimana", "es": "buen fin de semana", "pron": "buon fíne setimána", "ej": "Buon fine settimana, Marco!", "ejes": "¡Buen fin de semana, Marco!", "cog": true },
         { "t": "mi dispiace", "es": "lo siento", "pron": "mi dispiáche", "ej": "Mi dispiace, non posso.", "ejes": "Lo siento, no puedo.", "cog": false, "truco": "Literalmente «me desagrada»." },
         { "t": "non importa", "es": "no importa", "pron": "non impórta", "ej": "Non importa, grazie.", "ejes": "No importa, gracias.", "cog": true },
         { "t": "certo", "es": "claro / por supuesto", "pron": "chérto", "ej": "Certo, volentieri!", "ejes": "¡Claro, con gusto!", "cog": true, "truco": "«ce» suena «che»: chér-to." },

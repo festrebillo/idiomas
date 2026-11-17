@@ -46,7 +46,7 @@
         { "t": "afford", "es": "permitirse, poder pagar", "pron": "afórd", "ej": "I can't afford a new car right now.", "ejes": "No puedo pagar un auto nuevo ahora mismo.", "cog": false },
         { "t": "quit", "es": "renunciar, dejar", "pron": "cuit", "ej": "I would quit my job and travel the world.", "ejes": "Renunciaría a mi trabajo y viajaría por el mundo.", "cog": false },
         { "t": "settle down", "es": "sentar cabeza, establecerse", "pron": "sétol daun", "ej": "He wants to settle down and have a family.", "ejes": "Quiere sentar cabeza y formar una familia.", "cog": false },
-        { "t": "move abroad", "es": "mudarse al extranjero", "pron": "muv abrod", "ej": "She would move abroad if she got a good offer.", "ejes": "Ella se mudaría al extranjero si le ofrecieran algo bueno.", "cog": false },
+        { "t": "move abroad", "es": "mudarse al extranjero", "pron": "muv abród", "ej": "She would move abroad if she got a good offer.", "ejes": "Ella se mudaría al extranjero si le ofrecieran algo bueno.", "cog": false },
         { "t": "invest", "es": "invertir", "pron": "invést", "ej": "If I had savings, I would invest in land.", "ejes": "Si tuviera ahorros, invertiría en terrenos.", "cog": true },
         { "t": "tempting", "es": "tentador", "pron": "témptin", "ej": "That offer is very tempting.", "ejes": "Esa oferta es muy tentadora.", "cog": true },
         { "t": "if I were you", "es": "si yo fuera tú", "pron": "if ai uer iu", "ej": "Honestly, if I were you, I would say yes.", "ejes": "Sinceramente, si yo fuera tú, diría que sí.", "cog": false, "truco": "Fórmula típica para dar consejos; se usa were con todas las personas." },
@@ -56,8 +56,8 @@
         { "t": "If I won the lottery, I would quit my job.", "es": "Si me ganara la lotería, renunciaría a mi trabajo.", "pron": "if ai uan da lótari, ai uud cuit mai yob" },
         { "t": "What would you do if you lost your phone?", "es": "¿Qué harías si perdieras tu celular?", "pron": "juat uud iu du if iu lost ior foun" },
         { "t": "If I were you, I wouldn't accept that offer.", "es": "Si yo fuera tú, no aceptaría esa oferta.", "pron": "if ai uer iu, ai uódent acsépt dat ófer" },
-        { "t": "If we had a bigger house, we would invite everyone.", "es": "Si tuviéramos una casa más grande, invitaríamos a todos.", "pron": "if ui jad a biguer jaus, ui uud inváit évriuan" },
-        { "t": "She would be happier if she moved abroad.", "es": "Ella sería más feliz si se mudara al extranjero.", "pron": "shi uud bi jápier if shi muvd abrod" }
+        { "t": "If we had a bigger house, we would invite everyone.", "es": "Si tuviéramos una casa más grande, invitaríamos a todos.", "pron": "if ui jad a bíguer jaus, ui uud inváit évriuan" },
+        { "t": "She would be happier if she moved abroad.", "es": "Ella sería más feliz si se mudara al extranjero.", "pron": "shi uud bi jápier if shi muvd abród" }
       ],
       "dialogo": {
         "titulo": "Un sueño imposible",
@@ -83,7 +83,7 @@
         { "t": "take advantage of", "es": "aprovechar", "pron": "teik advántich ov", "ej": "You should take advantage of this offer.", "ejes": "Deberías aprovechar esta oferta.", "cog": false },
         { "t": "turn down", "es": "rechazar", "pron": "tern daun", "ej": "I had to turn down the invitation.", "ejes": "Tuve que rechazar la invitación.", "cog": false },
         { "t": "make a mistake", "es": "cometer un error", "pron": "meik a mistéik", "ej": "It's easy to make a mistake when you're tired.", "ejes": "Es fácil cometer un error cuando estás cansado.", "cog": false },
-        { "t": "oversleep", "es": "quedarse dormido", "pron": "ouversliip", "ej": "I didn't mean to oversleep this morning.", "ejes": "No quería quedarme dormido esta mañana.", "cog": false },
+        { "t": "oversleep", "es": "quedarse dormido", "pron": "ouverslíip", "ej": "I didn't mean to oversleep this morning.", "ejes": "No quería quedarme dormido esta mañana.", "cog": false },
         { "t": "come to think of it", "es": "ahora que lo pienso", "pron": "cam tu zink ov it", "ej": "Come to think of it, I saw him last night.", "ejes": "Ahora que lo pienso, lo vi anoche.", "cog": false },
         { "t": "in hindsight", "es": "en retrospectiva", "pron": "in jáindsait", "ej": "In hindsight, I should have accepted.", "ejes": "En retrospectiva, debí haber aceptado.", "cog": false },
         { "t": "narrowly", "es": "por poco", "pron": "nárouli", "ej": "We narrowly avoided an accident.", "ejes": "Evitamos un accidente por poco.", "cog": false }
@@ -157,12 +157,12 @@
         { "t": "suppose", "es": "supón que, imagina que", "pron": "sapóus", "ej": "Suppose you could meet anyone, who would it be?", "ejes": "Imagina que pudieras conocer a cualquiera, ¿quién sería?", "cog": true },
         { "t": "as long as", "es": "siempre que", "pron": "as long as", "ej": "You can borrow it as long as you return it.", "ejes": "Puedes pedirlo prestado siempre que lo devuelvas.", "cog": false },
         { "t": "unless", "es": "a menos que", "pron": "anlés", "ej": "I won't go unless you come with me.", "ejes": "No iré a menos que vengas conmigo.", "cog": false },
-        { "t": "provided that", "es": "siempre y cuando", "pron": "provaidid dat", "ej": "We'll start provided that everyone is here.", "ejes": "Empezaremos siempre y cuando todos estén aquí.", "cog": false },
+        { "t": "provided that", "es": "siempre y cuando", "pron": "provaídid dat", "ej": "We'll start provided that everyone is here.", "ejes": "Empezaremos siempre y cuando todos estén aquí.", "cog": false },
         { "t": "imagine", "es": "imaginar", "pron": "imáyin", "ej": "Imagine living on a desert island.", "ejes": "Imagina vivir en una isla desierta.", "cog": true }
       ],
       "frases": [
         { "t": "I wish I had more free time.", "es": "Ojalá tuviera más tiempo libre.", "pron": "ai uish ai jad mor fri taim" },
-        { "t": "If only I could play the guitar.", "es": "Si tan solo pudiera tocar la guitarra.", "pron": "if ónli ai cud plei da guitar" },
+        { "t": "If only I could play the guitar.", "es": "Si tan solo pudiera tocar la guitarra.", "pron": "if ónli ai cud plei da guitár" },
         { "t": "What if the plan doesn't work?", "es": "¿Y si el plan no funciona?", "pron": "juat if da plan dásent uerk" },
         { "t": "I wish it would stop raining.", "es": "Ojalá dejara de llover.", "pron": "ai uish it uud stop réinin" },
         { "t": "We can go as long as it doesn't rain.", "es": "Podemos ir siempre que no llueva.", "pron": "ui can gou as long as it dásent rein" }
@@ -187,7 +187,7 @@
       "objetivo": "Usar condicionales irreales y deseos en una conversación sobre decisiones.",
       "intro": "Repasa segundo, tercero y mixto con vocabulario de decisiones. Truco: antes de hablar pregúntate si imaginas el presente (past + would) o el pasado (past perfect + would have).",
       "palabras": [
-        { "t": "dilemma", "es": "dilema", "pron": "dilema", "ej": "I'm facing a real dilemma at work.", "ejes": "Estoy ante un verdadero dilema en el trabajo.", "cog": true },
+        { "t": "dilemma", "es": "diléma", "pron": "diléma", "ej": "I'm facing a real dilemma at work.", "ejes": "Estoy ante un verdadero dilema en el trabajo.", "cog": true },
         { "t": "weigh up", "es": "sopesar", "pron": "uei ap", "ej": "You should weigh up the pros and cons.", "ejes": "Deberías sopesar los pros y los contras.", "cog": false },
         { "t": "pros and cons", "es": "pros y contras", "pron": "prous and cons", "ej": "Let's list the pros and cons together.", "ejes": "Hagamos juntos la lista de pros y contras.", "cog": false },
         { "t": "gamble", "es": "apostar, arriesgar", "pron": "gámbol", "ej": "It was a gamble, but it paid off.", "ejes": "Fue una apuesta, pero valió la pena.", "cog": false },
@@ -200,7 +200,7 @@
         { "t": "If I were in your position, I would weigh up the pros and cons.", "es": "Si yo estuviera en tu lugar, sopesaría los pros y los contras.", "pron": "if ai uer in ior posíshen, ai uud uei ap da prous and cons" },
         { "t": "If I had known, I would have gone for it.", "es": "Si lo hubiera sabido, me habría atrevido.", "pron": "if ai jad noun, ai uud jav gon for it" },
         { "t": "I wish I hadn't taken such a big gamble.", "es": "Ojalá no hubiera arriesgado tanto.", "pron": "ai uish ai jádent téiken sach a big gámbol" },
-        { "t": "If the plan backfired, we would lose everything.", "es": "Si el plan saliera mal, lo perderíamos todo.", "pron": "if da plan bakfaird, ui uud lus évrizing" },
+        { "t": "If the plan backfired, we would lose everything.", "es": "Si el plan saliera mal, lo perderíamos todo.", "pron": "if da plan bakfáird, ui uud lus évrizing" },
         { "t": "If you hadn't had second thoughts, you would be there now.", "es": "Si no hubieras dudado, estarías allí ahora.", "pron": "if iu jádent jad sécond zots, iu uud bi der nau" },
         { "t": "What would you do if you were in my shoes?", "es": "¿Qué harías si estuvieras en mi lugar?", "pron": "juat uud iu du if iu uer in mai shus" }
       ],

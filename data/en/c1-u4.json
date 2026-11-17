@@ -158,10 +158,10 @@
         { "t": "stem the tide", "es": "frenar la marea, contener", "pron": "stem da taid", "ej": "Officials struggled to stem the tide of misinformation.", "ejes": "Las autoridades lucharon por contener la ola de desinformación.", "cog": false }
       ],
       "frases": [
-        { "t": "The city has undergone dramatic changes since the 1990s.", "es": "La ciudad ha experimentado cambios drásticos desde los años noventa.", "pron": "da síti jaz andergón drámatic chéinyis sins da náintin nainitis" },
+        { "t": "The city has undergone dramatic changes since the 1990s.", "es": "La ciudad ha experimentado cambios drásticos desde los años noventa.", "pron": "da síti jaz andergón drámatic chéinyis sins da náintin náinitis" },
         { "t": "The campaign began to gain momentum in June.", "es": "La campaña empezó a cobrar impulso en junio.", "pron": "da campéin bigán tu guein moméntum in yun" },
         { "t": "The mayor came under fire for the delay.", "es": "El alcalde fue blanco de críticas por la demora.", "pron": "da méior queim ánder fáier for da diléi" },
-        { "t": "The ruling could set a precedent for future cases.", "es": "El fallo podría sentar un precedente para casos futuros.", "pron": "da rúlin cud set a président for fiúcher keisis" },
+        { "t": "The ruling could set a precedent for future cases.", "es": "El fallo podría sentar un precedente para casos futuros.", "pron": "da rúlin cud set a président for fiúcher kéisis" },
         { "t": "We are finally making headway on the negotiations.", "es": "Por fin estamos avanzando en las negociaciones.", "pron": "ui ar fáinali méikin jédueis on da negoushiéishons" }
       ],
       "dialogo": {

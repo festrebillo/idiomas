@@ -57,7 +57,7 @@
         { "t": "We would like to offer you a thousand dollars.", "es": "Quisiéramos ofrecerle mil dólares.", "pron": "ui uud laik tu ófer iu a záusand dólars" },
         { "t": "I'm afraid that is above our budget.", "es": "Me temo que eso excede nuestro presupuesto.", "pron": "aim afréid dat is abóv áuer bóyet" },
         { "t": "Could you give us a discount?", "es": "¿Podría darnos un descuento?", "pron": "cud iu guiv os a dískaunt" },
-        { "t": "We can be flexible on the delivery date.", "es": "Podemos ser flexibles con la fecha de entrega.", "pron": "ui can bi fléxibol on da diliveri deit" },
+        { "t": "We can be flexible on the delivery date.", "es": "Podemos ser flexibles con la fecha de entrega.", "pron": "ui can bi fléxibol on da dilíveri deit" },
         { "t": "Let's try to reach a compromise.", "es": "Intentemos llegar a un acuerdo.", "pron": "lets trai tu rich a cómpromais" }
       ],
       "dialogo": {
@@ -80,8 +80,8 @@
       "intro": "Poner condiciones es la mitad de negociar. Truco: después de if, unless y as long as, el verbo va en presente aunque hables del futuro.",
       "palabras": [
         { "t": "as long as", "es": "siempre que", "pron": "as long as", "ej": "We agree as long as you pay today.", "ejes": "Aceptamos siempre que pague hoy.", "cog": false },
-        { "t": "provided that", "es": "siempre que", "pron": "provaidid dat", "ej": "We sign provided that delivery is free.", "ejes": "Firmamos siempre que el envío sea gratis.", "cog": false },
-        { "t": "unless", "es": "a menos que", "pron": "anles", "ej": "We can't sign unless you lower the price.", "ejes": "No podemos firmar a menos que baje el precio.", "cog": false },
+        { "t": "provided that", "es": "siempre que", "pron": "provaídid dat", "ej": "We sign provided that delivery is free.", "ejes": "Firmamos siempre que el envío sea gratis.", "cog": false },
+        { "t": "unless", "es": "a menos que", "pron": "anlés", "ej": "We can't sign unless you lower the price.", "ejes": "No podemos firmar a menos que baje el precio.", "cog": false },
         { "t": "condition", "es": "condición", "pron": "condíshon", "ej": "That is my only condition.", "ejes": "Esa es mi única condición.", "cog": true },
         { "t": "in return", "es": "a cambio", "pron": "in ritérn", "ej": "In return, we will give you a discount.", "ejes": "A cambio, le daremos un descuento.", "cog": false },
         { "t": "willing", "es": "dispuesto", "pron": "uílin", "ej": "I'm willing to wait a week.", "ejes": "Estoy dispuesto a esperar una semana.", "cog": false },
@@ -91,8 +91,8 @@
       ],
       "frases": [
         { "t": "We'll sign if you lower the price.", "es": "Firmaremos si baja el precio.", "pron": "uil sain if iu lóuer da prais" },
-        { "t": "We agree as long as delivery is free.", "es": "Aceptamos siempre que el envío sea gratis.", "pron": "ui agrí as long as diliveri is fri" },
-        { "t": "Unless you pay today, we can't hold the price.", "es": "A menos que pague hoy, no podemos mantener el precio.", "pron": "anles iu pei tudéi ui cant jould da prais" },
+        { "t": "We agree as long as delivery is free.", "es": "Aceptamos siempre que el envío sea gratis.", "pron": "ui agrí as long as dilíveri is fri" },
+        { "t": "Unless you pay today, we can't hold the price.", "es": "A menos que pague hoy, no podemos mantener el precio.", "pron": "anlés iu pei tudéi ui cant jould da prais" },
         { "t": "In return, we will give you a longer warranty.", "es": "A cambio, le daremos una garantía más larga.", "pron": "in ritérn ui uil guiv iu a lónguer uóranti" },
         { "t": "I'm willing to meet you halfway.", "es": "Estoy dispuesto a ceder a medias.", "pron": "aim uílin tu mit iu jáfuei" }
       ],
@@ -200,7 +200,7 @@
       "frases": [
         { "t": "The more we talk, the closer we get to a deal.", "es": "Mientras más hablamos, más cerca estamos de un trato.", "pron": "da mor ui tok da clóus-er ui guet tu a dil" },
         { "t": "Although the offer is good, we need more time.", "es": "Aunque la oferta es buena, necesitamos más tiempo.", "pron": "oldóu di ófer is gud ui nid mor taim" },
-        { "t": "Our partner, who lives in Lima, agrees with us.", "es": "Nuestro socio, que vive en Lima, está de acuerdo.", "pron": "áuer pártner ju livs in lima agrís uid os" },
+        { "t": "Our partner, who lives in Lima, agrees with us.", "es": "Nuestro socio, que vive en Lima, está de acuerdo.", "pron": "áuer pártner ju livs in líma agrís uid os" },
         { "t": "To sum up, it is a win-win solution.", "es": "En resumen, es una solución donde ambos ganan.", "pron": "tu som op it is a uin uin solúshon" },
         { "t": "Sorry to interrupt, but could we revisit the price?", "es": "Perdón por interrumpir, ¿podríamos revisar el precio?", "pron": "sórri tu interrópt bot cud ui rivísit da prais" },
         { "t": "It was a piece of cake in the end.", "es": "Al final fue pan comido.", "pron": "it uas a pis ov keik in di end" }

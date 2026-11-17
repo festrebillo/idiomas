@@ -56,7 +56,7 @@
         { "t": "You must be exhausted after such a long flight.", "es": "Debes de estar agotado después de un vuelo tan largo.", "pron": "iu mast bi iguósted áfter sach a long flait" },
         { "t": "That can't be Maria. She's in Spain.", "es": "Esa no puede ser María. Está en España.", "pron": "dat cant bi maría. shis in spein" },
         { "t": "He must be rich if he lives in that house.", "es": "Debe de ser rico si vive en esa casa.", "pron": "ji mast bi rich if ji livs in dat jaus" },
-        { "t": "Don't jump to conclusions without any evidence.", "es": "No saques conclusiones sin ninguna prueba.", "pron": "dont yamp tu conclúshens uizáut eni évidens" },
+        { "t": "Don't jump to conclusions without any evidence.", "es": "No saques conclusiones sin ninguna prueba.", "pron": "dont yamp tu conclúshens uizáut éni évidens" },
         { "t": "There is no doubt he must be the author.", "es": "No hay duda de que debe de ser el autor.", "pron": "der is nou dáut ji mast bi di óuzor" }
       ],
       "dialogo": {
@@ -201,7 +201,7 @@
         { "t": "He can't have done it. He has a perfect alibi.", "es": "No puede haberlo hecho. Tiene una coartada perfecta.", "pron": "ji cant jav dan it. ji jas a pérfect álibai" },
         { "t": "It might have been an inside job.", "es": "Podría haber sido un trabajo de alguien de adentro.", "pron": "it mait jav bin an insáid yob" },
         { "t": "His story doesn't add up at all.", "es": "Su historia no cuadra en absoluto.", "pron": "jis stóri dásent ad ap at ol" },
-        { "t": "We can't rule out any suspect just yet.", "es": "No podemos descartar a ningún sospechoso todavía.", "pron": "ui cant rul áut eni sáspect yast iet" },
+        { "t": "We can't rule out any suspect just yet.", "es": "No podemos descartar a ningún sospechoso todavía.", "pron": "ui cant rul áut éni sáspect yast iet" },
         { "t": "The motive must have been money.", "es": "El motivo debe de haber sido el dinero.", "pron": "da móutiv mast jav bin máni" }
       ],
       "dialogo": {

@@ -4,9 +4,10 @@
   "nivel": "A1",
   "n": 5,
   "titulo": "La hora, los días y mi rutina",
-  "resumen": "Aprenderás los días y los meses, a decir la hora, a contar tu rutina diaria con el presente de los verbos regulares y a decir con qué frecuencia haces las cosas.",
+  "resumen": "Aprenderás los días y los meses (con tu cumpleaños), a decir la hora, a contar tu rutina diaria con el presente de los verbos regulares y a decir con qué frecuencia haces las cosas.",
   "puedo": [
     "Decir los días de la semana y los meses del año.",
+    "Decir los meses y mi fecha de cumpleaños.",
     "Preguntar y decir la hora: Que horas são?",
     "Contar mi rutina de la mañana, del día y de la noche.",
     "Usar el presente de los verbos en -ar, -er e -ir.",
@@ -75,7 +76,7 @@
           { "q": "B", "t": "Eu também!", "es": "¡A mí también!" }
         ]
       },
-      "nota": "Los días no llevan mayúscula en portugués (segunda-feira, sábado), ni los meses (janeiro, março). El fin de semana es «fim de semana» (sábado y domingo). «Feira» también significa «feria o mercado», pero en los días solo indica el orden."
+      "nota": "Los días no llevan mayúscula en portugués (segunda-feira, sábado), ni los meses (janeiro, março). Los 12 meses los practicarás con ejercicios en las lecciones 3, 4 y 5. Para tu cumpleaños: «Meu aniversário é em maio» (en + mes). El fin de semana es «fim de semana» (sábado y domingo). «Feira» también significa «feria o mercado», pero en los días solo indica el orden."
     },
     {
       "id": "pt-a1-u5-l2",
@@ -124,17 +125,19 @@
         { "t": "acordar", "es": "despertar", "pron": "akordár", "ej": "Eu quero acordar cedo.", "ejes": "Yo quiero despertar temprano.", "cog": false, "truco": "No es reflexivo: eu acordo (yo me despierto)." },
         { "t": "levantar-se", "es": "levantarse", "pron": "levantár-si", "ej": "Ana não gosta de levantar-se cedo.", "ejes": "A Ana no le gusta levantarse temprano.", "cog": true, "truco": "En la conversación se dice «eu me levanto»." },
         { "t": "tomar banho", "es": "bañarse / ducharse", "pron": "tomár báñu", "ej": "Eu gosto de tomar banho de manhã.", "ejes": "Me gusta bañarme por la mañana.", "cog": false, "truco": "Se dice «tomar banho», no «se bañar»." },
-        { "t": "escovar os dentes", "es": "cepillarse los dientes", "pron": "eskovár us déntchis", "ej": "Eu quero escovar os dentes.", "ejes": "Quiero cepillarme los dientes.", "cog": false },
         { "t": "tomar café da manhã", "es": "desayunar", "pron": "tomár kafé da mañá", "ej": "Eu gosto de tomar café da manhã.", "ejes": "Me gusta desayunar.", "cog": false, "truco": "Literal: «tomar café de la mañana»." },
-        { "t": "ir", "es": "ir", "pron": "ír", "ej": "Eu quero ir trabalhar.", "ejes": "Yo quiero ir a trabajar.", "cog": true, "truco": "Es irregular: eu vou, ele vai." },
         { "t": "manhã", "es": "mañana (parte del día)", "pron": "mañá", "ej": "De manhã eu tomo banho.", "ejes": "Por la mañana me baño.", "cog": false },
-        { "t": "depois", "es": "después", "pron": "depóis", "ej": "Depois eu tomo café.", "ejes": "Después tomo café.", "cog": true }
+        { "t": "depois", "es": "después", "pron": "depóis", "ej": "Depois eu tomo café.", "ejes": "Después tomo café.", "cog": true },
+        { "t": "janeiro", "es": "enero", "pron": "yanéiru", "ej": "Meu aniversário é em janeiro.", "ejes": "Mi cumpleaños es en enero.", "cog": true, "truco": "Los meses van con minúscula: janeiro." },
+        { "t": "fevereiro", "es": "febrero", "pron": "feveréiru", "ej": "O carnaval é em fevereiro.", "ejes": "El carnaval es en febrero.", "cog": true },
+        { "t": "março", "es": "marzo", "pron": "mársu", "ej": "Eu viajo em março.", "ejes": "Yo viajo en marzo.", "cog": true, "truco": "«ç» suena «s»: mársu." },
+        { "t": "abril", "es": "abril", "pron": "abríu", "ej": "Minha mãe viaja em abril.", "ejes": "Mi mamá viaja en abril.", "cog": true, "truco": "La «l» final suena «u»: abríu." }
       ],
       "frases": [
         { "t": "Eu acordo cedo.", "es": "Yo me despierto temprano.", "pron": "éu akórdu sédu" },
         { "t": "Eu me levanto.", "es": "Yo me levanto.", "pron": "éu mi levántu" },
         { "t": "De manhã eu tomo banho.", "es": "Por la mañana me baño.", "pron": "dyi mañá éu tómu báñu" },
-        { "t": "Eu escovo os dentes.", "es": "Me cepillo los dientes.", "pron": "éu eskóvu us déntchis" },
+        { "t": "Eu me levanto cedo.", "es": "Yo me levanto temprano.", "pron": "éu mi levántu sédu" },
         { "t": "Depois eu tomo café da manhã.", "es": "Después desayuno.", "pron": "depóis éu tómu kafé da mañá" },
         { "t": "Eu vou trabalhar.", "es": "Yo voy a trabajar.", "pron": "éu vou trabalyár" }
       ],
@@ -162,18 +165,19 @@
         { "t": "estudar", "es": "estudiar", "pron": "estudár", "ej": "Eu gosto de estudar.", "ejes": "Me gusta estudiar.", "cog": true },
         { "t": "almoçar", "es": "almorzar", "pron": "almosár", "ej": "Eu quero almoçar com Ana.", "ejes": "Quiero almorzar con Ana.", "cog": false, "truco": "«ç» suena «s»: almosár." },
         { "t": "jantar", "es": "cenar", "pron": "yantár", "ej": "Eu quero jantar às oito.", "ejes": "Quiero cenar a las ocho.", "cog": false, "truco": "«jantar» también es «la cena». «Cena» significa «escena» en portugués." },
-        { "t": "dormir", "es": "dormir", "pron": "dormír", "ej": "Eu gosto de dormir.", "ejes": "Me gusta dormir.", "cog": true },
         { "t": "às", "es": "a las (con la hora)", "pron": "as", "ej": "Eu almoço às doze.", "ejes": "Yo almuerzo a las doce.", "cog": false },
-        { "t": "tarde", "es": "tarde (parte del día)", "pron": "tárchi", "ej": "À tarde eu estudo.", "ejes": "Por la tarde estudio.", "cog": true },
         { "t": "noite", "es": "noche", "pron": "nóichi", "ej": "À noite eu janto com minha família.", "ejes": "Por la noche ceno con mi familia.", "cog": false },
-        { "t": "almoço", "es": "almuerzo / yo almuerzo", "pron": "almósu", "ej": "O almoço é às doze.", "ejes": "El almuerzo es a las doce.", "cog": false }
+        { "t": "maio", "es": "mayo", "pron": "máiu", "ej": "O Dia das Mães é em maio.", "ejes": "El Día de la Madre es en mayo.", "cog": true },
+        { "t": "junho", "es": "junio", "pron": "yúñu", "ej": "A festa junina é em junho.", "ejes": "La fiesta junina es en junio.", "cog": true, "truco": "«nh» = ñ: yúñu." },
+        { "t": "julho", "es": "julio", "pron": "yúlyu", "ej": "Faz frio em julho.", "ejes": "Hace frío en julio.", "cog": true, "truco": "«lh» suena «ly»." },
+        { "t": "agosto", "es": "agosto", "pron": "agóstu", "ej": "Eu estudo em agosto.", "ejes": "Yo estudio en agosto.", "cog": true }
       ],
       "frases": [
         { "t": "Eu trabalho às oito.", "es": "Yo trabajo a las ocho.", "pron": "éu trabályu as óitu" },
         { "t": "Eu almoço ao meio-dia.", "es": "Yo almuerzo al mediodía.", "pron": "éu almósu au méiu-yía" },
-        { "t": "À tarde eu estudo.", "es": "Por la tarde estudio.", "pron": "a tárchi éu estúdu" },
+        { "t": "De manhã eu estudo.", "es": "Por la mañana estudio.", "pron": "dyi mañá éu estúdu" },
         { "t": "Nós jantamos às oito.", "es": "Nosotros cenamos a las ocho.", "pron": "nós yantámus as óitu" },
-        { "t": "Ana dorme às onze.", "es": "Ana duerme a las once.", "pron": "ána dórmi as ónzi" },
+        { "t": "Ana janta às nove.", "es": "Ana cena a las nueve.", "pron": "ána yánta as nóvi" },
         { "t": "Que horas você almoça?", "es": "¿A qué hora almuerzas?", "pron": "ke óras vosé almósa" }
       ],
       "dialogo": {
@@ -198,13 +202,14 @@
       "palabras": [
         { "t": "sempre", "es": "siempre", "pron": "sémpri", "ej": "Eu sempre tomo café da manhã.", "ejes": "Yo siempre desayuno.", "cog": true },
         { "t": "geralmente", "es": "generalmente", "pron": "yerauméntchi", "ej": "Geralmente eu almoço ao meio-dia.", "ejes": "Generalmente almuerzo al mediodía.", "cog": true, "truco": "La «l» suena «u»: yerauméntchi." },
-        { "t": "quase sempre", "es": "casi siempre", "pron": "kuázi sémpri", "ej": "Ana quase sempre janta com a família.", "ejes": "Ana casi siempre cena con la familia.", "cog": true },
         { "t": "às vezes", "es": "a veces", "pron": "as vézis", "ej": "Às vezes eu estudo à noite.", "ejes": "A veces estudio por la noche.", "cog": false },
-        { "t": "raramente", "es": "rara vez", "pron": "raraménchi", "ej": "Raramente eu tomo cerveja.", "ejes": "Rara vez tomo cerveza.", "cog": true },
         { "t": "nunca", "es": "nunca", "pron": "núnka", "ej": "Eu nunca tomo café à noite.", "ejes": "Yo nunca tomo café por la noche.", "cog": true, "truco": "No hace falta «não»: Eu nunca tomo (no «eu não nunca»)." },
         { "t": "todos os dias", "es": "todos los días", "pron": "tódus us yías", "ej": "Eu estudo todos os dias.", "ejes": "Yo estudio todos los días.", "cog": false },
-        { "t": "semana", "es": "semana", "pron": "semána", "ej": "Eu trabalho cinco dias por semana.", "ejes": "Yo trabajo cinco días por semana.", "cog": true },
-        { "t": "fim de semana", "es": "fin de semana", "pron": "fín dyi semána", "ej": "O fim de semana é sábado e domingo.", "ejes": "El fin de semana es sábado y domingo.", "cog": true }
+        { "t": "fim de semana", "es": "fin de semana", "pron": "fín dyi semána", "ej": "O fim de semana é sábado e domingo.", "ejes": "El fin de semana es sábado y domingo.", "cog": true },
+        { "t": "setembro", "es": "septiembre", "pron": "setémbru", "ej": "A primavera começa em setembro.", "ejes": "La primavera empieza en setiembre.", "cog": true },
+        { "t": "outubro", "es": "octubre", "pron": "outúbru", "ej": "Meu irmão viaja em outubro.", "ejes": "Mi hermano viaja en octubre.", "cog": true },
+        { "t": "novembro", "es": "noviembre", "pron": "novémbru", "ej": "Eu trabalho muito em novembro.", "ejes": "Yo trabajo mucho en noviembre.", "cog": true },
+        { "t": "dezembro", "es": "diciembre", "pron": "dezémbru", "ej": "O Natal é em dezembro.", "ejes": "La Navidad es en diciembre.", "cog": true }
       ],
       "frases": [
         { "t": "Eu sempre acordo cedo.", "es": "Yo siempre me despierto temprano.", "pron": "éu sémpri akórdu sédu" },

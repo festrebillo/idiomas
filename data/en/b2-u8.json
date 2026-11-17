@@ -82,7 +82,7 @@
         { "t": "sum up", "es": "resumir", "pron": "sam ap", "ej": "Can you sum up the article in one sentence?", "ejes": "¿Puedes resumir el artículo en una oración?", "cog": false },
         { "t": "in a nutshell", "es": "en pocas palabras", "pron": "in a nátshel", "ej": "In a nutshell, the company is losing money.", "ejes": "En pocas palabras, la empresa está perdiendo dinero.", "cog": false },
         { "t": "briefly", "es": "brevemente", "pron": "brífli", "ej": "Briefly, the plan has three stages.", "ejes": "Brevemente, el plan tiene tres etapas.", "cog": false },
-        { "t": "overall", "es": "en general", "pron": "ouverol", "ej": "Overall, the results were positive.", "ejes": "En general, los resultados fueron positivos.", "cog": false },
+        { "t": "overall", "es": "en general", "pron": "ouveról", "ej": "Overall, the results were positive.", "ejes": "En general, los resultados fueron positivos.", "cog": false },
         { "t": "essential", "es": "esencial", "pron": "isénshal", "ej": "Keep only the essential information.", "ejes": "Conserva solo la información esencial.", "cog": true },
         { "t": "leave out", "es": "omitir, dejar fuera", "pron": "liv áut", "ej": "You can leave out the minor details.", "ejes": "Puedes omitir los detalles menores.", "cog": false },
         { "t": "condense", "es": "condensar", "pron": "condéns", "ej": "Try to condense this page into five lines.", "ejes": "Intenta condensar esta página en cinco líneas.", "cog": true },
@@ -90,10 +90,10 @@
       ],
       "frases": [
         { "t": "In a nutshell, the company is losing money.", "es": "En pocas palabras, la empresa está perdiendo dinero.", "pron": "in a nátshel, da cámpani is lúsin máni" },
-        { "t": "Overall, the results were positive.", "es": "En general, los resultados fueron positivos.", "pron": "ouverol, da risálts uer pósitiv" },
+        { "t": "Overall, the results were positive.", "es": "En general, los resultados fueron positivos.", "pron": "ouveról, da risálts uer pósitiv" },
         { "t": "Can you sum up the article in one sentence?", "es": "¿Puedes resumir el artículo en una oración?", "pron": "can iu sam ap di ártical in uan séntens" },
         { "t": "Leave out the minor details and keep the essentials.", "es": "Omite los detalles menores y conserva lo esencial.", "pron": "liv áut da máiner dítails and kip di isénshals" },
-        { "t": "I only got the gist of what he said.", "es": "Solo capté la idea general de lo que dijo.", "pron": "ai ounli got da yist ov juat ji sed" }
+        { "t": "I only got the gist of what he said.", "es": "Solo capté la idea general de lo que dijo.", "pron": "ai óunli got da yist ov juat ji sed" }
       ],
       "dialogo": {
         "titulo": "Resumen de un informe",

@@ -93,7 +93,7 @@
         { "t": "I'll find out and let you know.", "es": "Averiguaré y te aviso.", "pron": "ail faind aut and let iu nou" },
         { "t": "You may request a copy of the report.", "es": "Puede solicitar una copia del informe.", "pron": "iu mei ricuést a cópi ov da ripórt" },
         { "t": "We need to postpone the meeting.", "es": "Necesitamos posponer la reunión.", "pron": "ui nid tu poustpóun da mítin" },
-        { "t": "Let's not put it off any longer.", "es": "No lo pospongamos más.", "pron": "lets not put it of eni lónguer" },
+        { "t": "Let's not put it off any longer.", "es": "No lo pospongamos más.", "pron": "lets not put it of éni lónguer" },
         { "t": "The team will investigate the cause.", "es": "El equipo investigará la causa.", "pron": "da tim uil invéstigueit da cos" }
       ],
       "dialogo": {
@@ -167,7 +167,7 @@
         { "t": "Please find the report attached.", "es": "Encuentre adjunto el informe.", "pron": "plis faind da ripórt atácht" },
         { "t": "We apologize for any inconvenience.", "es": "Nos disculpamos por cualquier molestia.", "pron": "ui apólochais for éni inconvíniens" },
         { "t": "I look forward to hearing from you.", "es": "Quedo atento a su respuesta.", "pron": "ai luk fórguard tu jírin from iu" },
-        { "t": "Sincerely, Laura Diaz", "es": "Atentamente, Laura Díaz", "pron": "sinsírli laura dias" }
+        { "t": "Sincerely, Laura Diaz", "es": "Atentamente, Laura Díaz", "pron": "sinsírli láura días" }
       ],
       "dialogo": {
         "titulo": "Al teléfono sobre un correo",

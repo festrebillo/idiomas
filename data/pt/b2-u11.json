@@ -189,7 +189,7 @@
         { "t": "pergunta", "es": "pregunta", "pron": "pergúnta", "ej": "Alguém tem alguma pergunta?", "ejes": "¿Alguien tiene alguna pregunta?", "cog": false },
         { "t": "dúvida", "es": "duda", "pron": "dúvida", "ej": "Tenho uma dúvida sobre o prazo.", "ejes": "Tengo una duda sobre el plazo.", "cog": false },
         { "t": "esclarecer", "es": "aclarar", "pron": "esklaresér", "ej": "Posso esclarecer esse ponto agora.", "ejes": "Puedo aclarar este punto ahora.", "cog": false },
-        { "t": "concordar", "es": "estar de acuerdo", "pron": "konkordár", "ej": "Prefiro concordar com a proposta da equipe.", "ejes": "Prefiero estar de acuerdo con la propuesta del equipo.", "cog": false },
+        { "t": "concordar", "es": "estar de acuerdo", "pron": "konkordár", "ej": "Nesse caso, vou concordar com a proposta da equipe.", "ejes": "En ese caso, voy a estar de acuerdo con la propuesta del equipo.", "cog": false },
         { "t": "discordar", "es": "discrepar", "pron": "dyiskordár", "ej": "Infelizmente tenho que discordar.", "ejes": "Lamentablemente tengo que discrepar.", "cog": false },
         { "t": "ponto de vista", "es": "punto de vista", "pron": "póntu dyi vísta", "ej": "Do meu ponto de vista, é arriscado.", "ejes": "Desde mi punto de vista, es arriesgado.", "cog": true },
         { "t": "para concluir", "es": "para concluir", "pron": "pára konkluír", "ej": "Para concluir, agradeço a todos.", "ejes": "Para concluir, agradezco a todos.", "cog": false },

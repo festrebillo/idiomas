@@ -49,7 +49,7 @@
         { "t": "pushy", "es": "prepotente, insistente (negativo)", "pron": "púshi", "ej": "The salesman was so pushy that we left.", "ejes": "El vendedor fue tan insistente que nos fuimos.", "cog": false },
         { "t": "inquisitive", "es": "curioso (positivo)", "pron": "inquísitiv", "ej": "She has an inquisitive mind and loves learning.", "ejes": "Tiene una mente curiosa y adora aprender.", "cog": false },
         { "t": "nosy", "es": "entrometido (negativo)", "pron": "nóusi", "ej": "Our nosy neighbor keeps asking about our salaries.", "ejes": "Nuestra vecina entrometida siempre pregunta por nuestros sueldos.", "cog": false },
-        { "t": "laid-back", "es": "relajado, tranquilo", "pron": "leid-bac", "ej": "Our new manager is surprisingly laid-back.", "ejes": "Nuestro nuevo gerente es sorprendentemente relajado.", "cog": false },
+        { "t": "laid-back", "es": "relajado, tranquilo", "pron": "léid-bac", "ej": "Our new manager is surprisingly laid-back.", "ejes": "Nuestro nuevo gerente es sorprendentemente relajado.", "cog": false },
         { "t": "lazy", "es": "perezoso (negativo)", "pron": "léisi", "ej": "I wouldn't call him lazy, just easily distracted.", "ejes": "No lo llamaría perezoso, solo se distrae fácilmente.", "cog": false }
       ],
       "frases": [
@@ -197,7 +197,7 @@
         { "t": "You may come across as rude if you are too direct.", "es": "Puedes parecer grosero si eres demasiado directo.", "pron": "iu mei cam acrós as rud if iu ar tu dairéct" },
         { "t": "Try to keep a neutral tone in formal reports.", "es": "Procura mantener un tono neutro en los informes formales.", "pron": "trai tu kip a niútral toun in fórmal ripórts" },
         { "t": "There is a subtle difference between thrifty and stingy.", "es": "Hay una diferencia sutil entre thrifty y stingy.", "pron": "der is a sátol díferens bituín zrífti and stínyi" },
-        { "t": "Translation often loses the nuance of the original.", "es": "La traducción suele perder el matiz del original.", "pron": "translésion ófen lusis da niuáns ov di orídyinal" }
+        { "t": "Translation often loses the nuance of the original.", "es": "La traducción suele perder el matiz del original.", "pron": "translésion ófen lúsis da niuáns ov di orídyinal" }
       ],
       "dialogo": {
         "titulo": "Revisión de un discurso",
