@@ -1,0 +1,219 @@
+{
+  "id": "en-b1-u12",
+  "idioma": "en",
+  "nivel": "B1",
+  "n": 12,
+  "titulo": "Entrevista de trabajo y carrera",
+  "resumen": "Aprenderás vocabulario laboral, a responder preguntas de entrevista y a usar el present perfect continuous (have been + -ing) para hablar de lo que vienes haciendo.",
+  "puedo": [
+    "Hablar de mi carrera con vocabulario laboral: skill, degree, vacancy.",
+    "Formar el present perfect continuous: have / has been + -ing.",
+    "Usar for, since, lately y recently con este tiempo.",
+    "Responder preguntas típicas de una entrevista de trabajo.",
+    "Hablar de logros, fortalezas y metas profesionales."
+  ],
+  "gramatica": {
+    "titulo": "Present perfect continuous: have been + -ing",
+    "texto": "Usamos el present perfect continuous para acciones que empezaron en el pasado y siguen hasta ahora, o acaban de terminar, y destacamos la duración o el proceso. Se forma con have / has + been + verbo con -ing: I have been working here for three years. (Llevo tres años trabajando aquí.)\nSe usa con for (periodo: for two years) y since (punto de inicio: since 2022), y con palabras como lately, recently y all day.\nPregunta: How long have you been studying English? Negativa: I haven't been sleeping well lately.\nTruco: en español usamos «llevo + gerundio»: Llevo dos años estudiando = I have been studying for two years.\nLos verbos de estado (know, like, be) no se usan en continuous: I have known her for years.",
+    "tabla": [
+      ["I have been working here for three years.", "Llevo tres años trabajando aquí.", "ai jav bin uérkin jíar for zri iirs"],
+      ["She has been studying since 2022.", "Ella lleva estudiando desde 2022.", "shi jas bin stádin sins tu záusend tuéntitu"],
+      ["How long have you been waiting?", "¿Cuánto tiempo llevas esperando?", "jau long jav iu bin uéitin"],
+      ["We haven't been sleeping well.", "No hemos estado durmiendo bien.", "ui jávent bin slípin uel"],
+      ["He has been looking for a job lately.", "Él ha estado buscando trabajo últimamente.", "ji jas bin lúkin for a yob léitli"],
+      ["I have known him for years.", "Lo conozco desde hace años.", "ai jav noun jim for iirs"]
+    ],
+    "errores": [
+      "No uses el presente simple para periodos que siguen: es I have been working here for three years, no «I work here for three years».",
+      "No olvides been: es She has been studying, no «She has studying».",
+      "No uses continuous con know, like o be: es I have known her, no «I have been knowing her»."
+    ]
+  },
+  "practica": [
+    "Escribe 8 frases sobre ti con I have been + -ing y for o since (trabajo, estudios, hobbies) (10 minutos).",
+    "Prepara y graba tu respuesta a «Tell me about yourself» en 1 minuto (10 minutos).",
+    "Ensaya en voz alta 5 preguntas típicas de entrevista: strengths, weaknesses, goals, salary, why this job (10 minutos).",
+    "Escribe un CV breve en inglés con 3 logros usando verbos en pasado y present perfect (15 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b1-u12-l1",
+      "n": 1,
+      "titulo": "El mundo laboral",
+      "objetivo": "Hablar de carrera, habilidades y ofertas de trabajo.",
+      "intro": "Empezamos con las palabras que verás en una oferta de trabajo. Truco: résumé (o CV) es el currículum; cover letter es la carta de presentación.",
+      "palabras": [
+        { "t": "career", "es": "carrera profesional", "pron": "karíar", "ej": "I want to build a career in marketing.", "ejes": "Quiero construir una carrera en marketing.", "cog": false },
+        { "t": "skill", "es": "habilidad", "pron": "skil", "ej": "Communication is an important skill.", "ejes": "La comunicación es una habilidad importante.", "cog": false },
+        { "t": "degree", "es": "título universitario", "pron": "digrí", "ej": "She has a degree in law.", "ejes": "Ella tiene un título en derecho.", "cog": false },
+        { "t": "résumé", "es": "currículum", "pron": "rézumei", "ej": "Please send your résumé by Friday.", "ejes": "Envía tu currículum antes del viernes.", "cog": false },
+        { "t": "applicant", "es": "postulante", "pron": "áplicant", "ej": "Every applicant needs a résumé.", "ejes": "Cada postulante necesita un currículum.", "cog": true },
+        { "t": "vacancy", "es": "vacante", "pron": "véikansi", "ej": "There is a vacancy in sales.", "ejes": "Hay una vacante en ventas.", "cog": false },
+        { "t": "employer", "es": "empleador", "pron": "emplóier", "ej": "My employer offers good benefits.", "ejes": "Mi empleador ofrece buenos beneficios.", "cog": false },
+        { "t": "employee", "es": "empleado", "pron": "emplóii", "ej": "He is an employee of a bank.", "ejes": "Él es empleado de un banco.", "cog": false },
+        { "t": "position", "es": "puesto / cargo", "pron": "posíshen", "ej": "I applied for the position yesterday.", "ejes": "Postulé al puesto ayer.", "cog": true }
+      ],
+      "frases": [
+        { "t": "I have a degree in engineering.", "es": "Tengo un título en ingeniería.", "pron": "ai jav a digrí in enyiníarin" },
+        { "t": "There is a vacancy at my company.", "es": "Hay una vacante en mi empresa.", "pron": "der is a véikansi at mai cámpani" },
+        { "t": "Please send your résumé by Friday.", "es": "Envía tu currículum antes del viernes.", "pron": "plis send iur rézumei bai fráidei" },
+        { "t": "I want to build a career in marketing.", "es": "Quiero construir una carrera en marketing.", "pron": "ai uont tu bild a karíar in márketin" },
+        { "t": "Good communication is an important skill.", "es": "Una buena comunicación es una habilidad importante.", "pron": "gud comiunikéishen is an impórtant skil" }
+      ],
+      "dialogo": {
+        "titulo": "Una oferta de empleo",
+        "lineas": [
+          { "q": "A", "t": "There is a vacancy at the bank.", "es": "Hay una vacante en el banco." },
+          { "q": "B", "t": "What skills do they need?", "es": "¿Qué habilidades necesitan?" },
+          { "q": "A", "t": "A degree in finance and good English.", "es": "Un título en finanzas y buen inglés." },
+          { "q": "B", "t": "I have both. I'll send my résumé today.", "es": "Tengo ambos. Enviaré mi currículum hoy." }
+        ]
+      },
+      "nota": "En EE. UU., CV (curriculum vitae) se usa para trabajos académicos; para el resto se usa résumé. En Reino Unido, CV es lo común."
+    },
+    {
+      "id": "en-b1-u12-l2",
+      "n": 2,
+      "titulo": "Fortalezas y logros",
+      "objetivo": "Hablar de tus puntos fuertes, debilidades y logros.",
+      "intro": "En una entrevista siempre te preguntan por tus fortalezas y debilidades. Truco: da una debilidad real, pero cuenta cómo la mejoras.",
+      "palabras": [
+        { "t": "strength", "es": "fortaleza", "pron": "strenz", "ej": "My main strength is teamwork.", "ejes": "Mi principal fortaleza es el trabajo en equipo.", "cog": false },
+        { "t": "weakness", "es": "debilidad", "pron": "uíknes", "ej": "My weakness is being too perfectionist.", "ejes": "Mi debilidad es ser demasiado perfeccionista.", "cog": false },
+        { "t": "achievement", "es": "logro", "pron": "achívment", "ej": "Finishing my degree was a big achievement.", "ejes": "Terminar mi título fue un gran logro.", "cog": false },
+        { "t": "reference", "es": "referencia", "pron": "réferens", "ej": "I can give you one reference.", "ejes": "Puedo darle una referencia.", "cog": true },
+        { "t": "salary", "es": "sueldo", "pron": "sálari", "ej": "What salary are you expecting?", "ejes": "¿Qué sueldo espera?", "cog": true },
+        { "t": "full-time", "es": "tiempo completo", "pron": "ful taim", "ej": "It is a full-time position.", "ejes": "Es un puesto de tiempo completo.", "cog": false },
+        { "t": "part-time", "es": "medio tiempo", "pron": "part taim", "ej": "I work part-time at a café.", "ejes": "Trabajo medio tiempo en un café.", "cog": false },
+        { "t": "candidate", "es": "candidato", "pron": "cándidet", "ej": "She is the best candidate.", "ejes": "Ella es la mejor candidata.", "cog": true },
+        { "t": "reliable", "es": "responsable / confiable", "pron": "riláiabol", "ej": "I am a reliable person.", "ejes": "Soy una persona confiable.", "cog": false }
+      ],
+      "frases": [
+        { "t": "My main strength is teamwork.", "es": "Mi principal fortaleza es el trabajo en equipo.", "pron": "mai mein strenz is tímuerk" },
+        { "t": "My weakness is that I am too perfectionist.", "es": "Mi debilidad es que soy demasiado perfeccionista.", "pron": "mai uíknes is dat ai am tu perféksheinist" },
+        { "t": "Finishing my degree was a big achievement.", "es": "Terminar mi título fue un gran logro.", "pron": "fínishin mai digrí uas a big achívment" },
+        { "t": "I can give you two references.", "es": "Puedo darle dos referencias.", "pron": "ai can guiv iu tu réferensis" },
+        { "t": "It is a full-time position.", "es": "Es un puesto de tiempo completo.", "pron": "it is a ful taim posíshen" }
+      ],
+      "dialogo": {
+        "titulo": "En la entrevista",
+        "lineas": [
+          { "q": "A", "t": "What is your main strength?", "es": "¿Cuál es su principal fortaleza?" },
+          { "q": "B", "t": "I am reliable and I work well in a team.", "es": "Soy responsable y trabajo bien en equipo." },
+          { "q": "A", "t": "And your weakness?", "es": "¿Y su debilidad?" },
+          { "q": "B", "t": "I'm too perfectionist, but I'm learning to delegate.", "es": "Soy demasiado perfeccionista, pero estoy aprendiendo a delegar." },
+          { "q": "A", "t": "Thank you. Can you give us a reference?", "es": "Gracias. ¿Puede darnos una referencia?" }
+        ]
+      },
+      "nota": "Para hablar de tu sueldo se dice salary (mensual o anual) o wage (por hora). Pregunta sobre el sueldo al final, no al comienzo de la entrevista."
+    },
+    {
+      "id": "en-b1-u12-l3",
+      "n": 3,
+      "titulo": "Llevo trabajando...",
+      "objetivo": "Usar have / has been + -ing con for, since, lately y recently.",
+      "intro": "Para lo que empezó antes y sigue ahora, usa have been + -ing. Truco: se traduce como «llevo + gerundio»: Llevo dos años trabajando aquí = I have been working here for two years.",
+      "palabras": [
+        { "t": "lately", "es": "últimamente", "pron": "léitli", "ej": "I have been sleeping badly lately.", "ejes": "He estado durmiendo mal últimamente.", "cog": false },
+        { "t": "recently", "es": "recientemente", "pron": "rísentli", "ej": "She has been traveling recently.", "ejes": "Ella ha estado viajando recientemente.", "cog": false },
+        { "t": "so far", "es": "hasta ahora", "pron": "so far", "ej": "So far, I have been learning a lot.", "ejes": "Hasta ahora, he estado aprendiendo mucho.", "cog": false },
+        { "t": "these days", "es": "estos días", "pron": "diz deis", "ej": "I have been busy these days.", "ejes": "He estado ocupado estos días.", "cog": false },
+        { "t": "all day", "es": "todo el día", "pron": "ol dei", "ej": "I have been working all day.", "ejes": "He estado trabajando todo el día.", "cog": false },
+        { "t": "for ages", "es": "desde hace siglos", "pron": "for éichis", "ej": "I haven't seen him for ages.", "ejes": "No lo veo desde hace siglos.", "cog": false },
+        { "t": "since", "es": "desde", "pron": "sins", "ej": "I have lived here since 2020.", "ejes": "Vivo aquí desde 2020.", "cog": false },
+        { "t": "tired", "es": "cansado", "pron": "táierd", "ej": "I am tired because I have been working.", "ejes": "Estoy cansado porque he estado trabajando.", "cog": false },
+        { "t": "how long", "es": "cuánto tiempo", "pron": "jau long", "ej": "How long have you been here?", "ejes": "¿Cuánto tiempo llevas aquí?", "cog": false }
+      ],
+      "frases": [
+        { "t": "I have been working here for three years.", "es": "Llevo tres años trabajando aquí.", "pron": "ai jav bin uérkin jíar for zri iirs" },
+        { "t": "She has been studying English since 2022.", "es": "Ella lleva estudiando inglés desde 2022.", "pron": "shi jas bin stádin ínglish sins tu záusend tuéntitu" },
+        { "t": "How long have you been waiting?", "es": "¿Cuánto tiempo llevas esperando?", "pron": "jau long jav iu bin uéitin" },
+        { "t": "We haven't been sleeping well lately.", "es": "No hemos estado durmiendo bien últimamente.", "pron": "ui jávent bin slípin uel léitli" },
+        { "t": "He has been looking for a job.", "es": "Él ha estado buscando trabajo.", "pron": "ji jas bin lúkin for a yob" }
+      ],
+      "dialogo": {
+        "titulo": "Cuánto tiempo",
+        "lineas": [
+          { "q": "A", "t": "How long have you been working here?", "es": "¿Cuánto tiempo llevas trabajando aquí?" },
+          { "q": "B", "t": "I've been working here for five years.", "es": "Llevo cinco años trabajando aquí." },
+          { "q": "A", "t": "You look tired. Have you been working late?", "es": "Te ves cansado. ¿Has estado trabajando hasta tarde?" },
+          { "q": "B", "t": "Yes, I've been working all day on a report.", "es": "Sí, he estado trabajando todo el día en un informe." }
+        ]
+      },
+      "nota": "Para un periodo usa for + duración (for two years); para un punto de inicio usa since + fecha (since 2020). No los mezcles: for 2020 es incorrecto."
+    },
+    {
+      "id": "en-b1-u12-l4",
+      "n": 4,
+      "titulo": "Preguntas de entrevista",
+      "objetivo": "Entender y responder preguntas frecuentes de una entrevista.",
+      "intro": "Estas son las preguntas que más se repiten: Tell me about yourself, Why do you want this job?, Where do you see yourself in five years? Truco: responde con el present perfect continuous para hablar de lo que vienes haciendo.",
+      "palabras": [
+        { "t": "background", "es": "trayectoria / formación", "pron": "bákgraund", "ej": "I have a background in sales.", "ejes": "Tengo experiencia en ventas.", "cog": false },
+        { "t": "motivated", "es": "motivado", "pron": "móutiveitid", "ej": "I am a motivated person.", "ejes": "Soy una persona motivada.", "cog": true },
+        { "t": "team player", "es": "persona que trabaja en equipo", "pron": "tim pléier", "ej": "I am a good team player.", "ejes": "Trabajo bien en equipo.", "cog": false },
+        { "t": "deadline", "es": "fecha límite", "pron": "dédlain", "ej": "I always meet the deadline.", "ejes": "Siempre cumplo la fecha límite.", "cog": false },
+        { "t": "responsibility", "es": "responsabilidad", "pron": "risponsibíliti", "ej": "I take responsibility for my work.", "ejes": "Asumo la responsabilidad de mi trabajo.", "cog": true },
+        { "t": "improve", "es": "mejorar", "pron": "imprúv", "ej": "I want to improve my skills.", "ejes": "Quiero mejorar mis habilidades.", "cog": false },
+        { "t": "goal", "es": "meta", "pron": "goul", "ej": "My goal is to become a manager.", "ejes": "Mi meta es llegar a ser gerente.", "cog": false },
+        { "t": "challenge", "es": "desafío / reto", "pron": "chálenich", "ej": "I like a new challenge.", "ejes": "Me gusta un nuevo reto.", "cog": false },
+        { "t": "tell me about yourself", "es": "hábleme de usted", "pron": "tel mi abáut iursélf", "ej": "Please tell me about yourself.", "ejes": "Por favor, hábleme de usted.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Tell me about yourself.", "es": "Hábleme de usted.", "pron": "tel mi abáut iursélf" },
+        { "t": "Why do you want this job?", "es": "¿Por qué quiere este trabajo?", "pron": "uai du iu uont dis yob" },
+        { "t": "I have been working in sales for four years.", "es": "Llevo cuatro años trabajando en ventas.", "pron": "ai jav bin uérkin in seils for for iirs" },
+        { "t": "Where do you see yourself in five years?", "es": "¿Dónde se ve en cinco años?", "pron": "uer du iu si iursélf in faiv iirs" },
+        { "t": "My goal is to become a manager.", "es": "Mi meta es llegar a ser gerente.", "pron": "mai goul is tu bicám a mánayer" }
+      ],
+      "dialogo": {
+        "titulo": "Una buena respuesta",
+        "lineas": [
+          { "q": "A", "t": "Tell me about yourself.", "es": "Hábleme de usted." },
+          { "q": "B", "t": "I have a background in sales. I've been working in this field for four years.", "es": "Tengo experiencia en ventas. Llevo cuatro años en este campo." },
+          { "q": "A", "t": "Why do you want this job?", "es": "¿Por qué quiere este trabajo?" },
+          { "q": "B", "t": "I like a new challenge, and I want to improve my skills.", "es": "Me gustan los nuevos retos y quiero mejorar mis habilidades." },
+          { "q": "A", "t": "Where do you see yourself in five years?", "es": "¿Dónde se ve en cinco años?" },
+          { "q": "B", "t": "My goal is to lead a team.", "es": "Mi meta es dirigir un equipo." }
+        ]
+      },
+      "nota": "No digas que no tienes debilidades: parece poco sincero. Responde con una debilidad real y cómo la mejoras."
+    },
+    {
+      "id": "en-b1-u12-l5",
+      "n": 5,
+      "titulo": "Repaso: cambios de trabajo",
+      "objetivo": "Hablar de contratar, renunciar, ascender y cambiar de trabajo.",
+      "intro": "Cerramos con los verbos del mundo laboral y repasamos have been + -ing. Truco: hire es contratar; fire es despedir; resign es renunciar; retire es jubilarse.",
+      "palabras": [
+        { "t": "hire", "es": "contratar", "pron": "jáier", "ej": "They want to hire two people.", "ejes": "Quieren contratar a dos personas.", "cog": false },
+        { "t": "apply", "es": "postular", "pron": "aplái", "ej": "I want to apply for this job.", "ejes": "Quiero postular a este trabajo.", "cog": false },
+        { "t": "resign", "es": "renunciar", "pron": "risáin", "ej": "She decided to resign.", "ejes": "Ella decidió renunciar.", "cog": false },
+        { "t": "promote", "es": "ascender", "pron": "promóut", "ej": "They will promote him next month.", "ejes": "Lo ascenderán el próximo mes.", "cog": false },
+        { "t": "retire", "es": "jubilarse", "pron": "ritáier", "ej": "My father will retire next year.", "ejes": "Mi padre se jubilará el próximo año.", "cog": false },
+        { "t": "colleague", "es": "colega", "pron": "cólig", "ej": "My colleague helped me today.", "ejes": "Mi colega me ayudó hoy.", "cog": false },
+        { "t": "job offer", "es": "oferta de trabajo", "pron": "yob ófer", "ej": "I got a job offer yesterday.", "ejes": "Recibí una oferta de trabajo ayer.", "cog": false },
+        { "t": "notice", "es": "preaviso", "pron": "nóutis", "ej": "I gave one month's notice.", "ejes": "Di un mes de preaviso.", "cog": false },
+        { "t": "fire", "es": "despedir", "pron": "fáier", "ej": "They had to fire three employees.", "ejes": "Tuvieron que despedir a tres empleados.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I've been applying for jobs since March.", "es": "Llevo postulando a trabajos desde marzo.", "pron": "aiv bin aplíin for yobs sins march" },
+        { "t": "They have been hiring new staff lately.", "es": "Han estado contratando personal nuevo últimamente.", "pron": "dei jav bin jáierin niu staf léitli" },
+        { "t": "She resigned because she got a job offer.", "es": "Ella renunció porque recibió una oferta de trabajo.", "pron": "shi risáind bicós shi gat a yob ófer" },
+        { "t": "He has been working hard, so they promoted him.", "es": "Ha estado trabajando duro, así que lo ascendieron.", "pron": "ji jas bin uérkin jard, so dei promóutid jim" },
+        { "t": "I gave one month's notice.", "es": "Di un mes de preaviso.", "pron": "ai gueiv uan mánzs nóutis" }
+      ],
+      "dialogo": {
+        "titulo": "Un cambio de trabajo",
+        "lineas": [
+          { "q": "A", "t": "I've been looking for a new job lately.", "es": "He estado buscando un trabajo nuevo últimamente." },
+          { "q": "B", "t": "Have you applied anywhere?", "es": "¿Has postulado a algún lugar?" },
+          { "q": "A", "t": "Yes, and I got a job offer yesterday.", "es": "Sí, y recibí una oferta de trabajo ayer." },
+          { "q": "B", "t": "Congratulations! Will you resign now?", "es": "¡Felicidades! ¿Vas a renunciar ahora?" },
+          { "q": "A", "t": "Yes, I'll give one month's notice to my employer.", "es": "Sí, daré un mes de preaviso a mi empleador." }
+        ]
+      },
+      "nota": "Para despedir existen dos formas: fire (informal, «botar») y dismiss (formal). Be laid off significa que te despiden por falta de trabajo, no por tu desempeño."
+    }
+  ]
+}

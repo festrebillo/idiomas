@@ -1,0 +1,222 @@
+{
+  "id": "it-b1-u12",
+  "idioma": "it",
+  "nivel": "B1",
+  "n": 12,
+  "titulo": "Entrevista de trabajo y carrera",
+  "resumen": "Aprenderás a hablar de tu experiencia laboral con passato prossimo e imperfetto, y a responder preguntas de una entrevista.",
+  "puedo": [
+    "Nombrar el vocabulario laboral básico.",
+    "Contar mi experiencia con el passato prossimo.",
+    "Describir mis funciones pasadas con el imperfetto.",
+    "Responder preguntas comunes de una entrevista.",
+    "Presentarme con formalidad (Lei) en una entrevista."
+  ],
+  "gramatica": {
+    "titulo": "Passato prossimo e imperfetto en el currículum",
+    "texto": "Cuando cuentas tu experiencia, combinas dos pasados.\nPassato prossimo = hechos terminados, con principio y fin: Ho lavorato in banca per tre anni. Mi sono laureato nel 2018.\nImperfetto = cómo era la situación o qué hacías de forma habitual: Lavoravo in un team di cinque persone. Mi occupavo dei clienti.\nSe usan juntos: Quando lavoravo a Lima, ho conosciuto molti clienti. (el imperfetto es el fondo; el prossimo es el hecho).\nPalabras clave: per + tiempo (per tre anni), nel + año, ogni giorno, di solito (imperfetto); poi, a un certo punto, una volta (prossimo).\nPara hablar de tu trabajo actual usa el presente: Lavoro in una banca.",
+    "tabla": [
+      ["ho lavorato per tre anni", "trabajé durante tres años", "o lavoráto per tre ánni"],
+      ["mi sono laureato nel 2018", "me gradué en 2018", "mi sóno laureáto nel dúemila diciótto"],
+      ["lavoravo in un team", "trabajaba en un equipo", "lavorávo in un tím"],
+      ["mi occupavo dei clienti", "me encargaba de los clientes", "mi occupávo dei clienti"],
+      ["ero responsabile di...", "era responsable de...", "éro responsábile di"],
+      ["ho cambiato lavoro", "cambié de trabajo", "o cambiáto lavóro"]
+    ],
+    "errores": [
+      "No uses el imperfetto para un hecho terminado con fecha: «mi sono laureato nel 2018», no «mi laureavo nel 2018».",
+      "Con verbos reflexivos como «laurearsi» el passato prossimo usa essere: «mi sono laureato», no «mi ho laureato».",
+      "«Occuparsi di» lleva «di»: «mi occupo di vendite», no «mi occupo vendite»."
+    ]
+  },
+  "practica": [
+    "Escribe tu currículum en cinco frases en italiano con «Ho lavorato...» y «Mi occupavo di...» (8 minutos).",
+    "Responde en voz alta «Parlami di te» en 4 frases, simulando una entrevista (4 minutos).",
+    "Busca una oferta de trabajo en italiano en internet y subraya diez palabras que no conozcas (8 minutos).",
+    "Graba en el celular tu respuesta a «Quali sono i suoi punti di forza?» y escúchala (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b1-u12-l1",
+      "n": 1,
+      "titulo": "El mundo del trabajo",
+      "objetivo": "Nombrar el vocabulario laboral esencial.",
+      "intro": "Estas palabras aparecen en cualquier oferta de trabajo. Truco: «lo stipendio» es el sueldo y «il colloquio» la entrevista; «l'intervista» sería de prensa.",
+      "palabras": [
+        { "t": "il lavoro", "es": "el trabajo", "pron": "il lavóro", "ej": "Il lavoro è interessante.", "ejes": "El trabajo es interesante.", "cog": false },
+        { "t": "l'azienda", "es": "la empresa", "pron": "ladsiénda", "ej": "L'azienda è molto grande.", "ejes": "La empresa es muy grande.", "cog": false },
+        { "t": "il colloquio", "es": "la entrevista de trabajo", "pron": "il collócuio", "ej": "Il colloquio è domani.", "ejes": "La entrevista es mañana.", "cog": false },
+        { "t": "il curriculum", "es": "el currículum", "pron": "il currículum", "ej": "Il curriculum è pronto.", "ejes": "El currículum está listo.", "cog": true },
+        { "t": "lo stipendio", "es": "el sueldo", "pron": "lo stipéndio", "ej": "Lo stipendio è buono.", "ejes": "El sueldo es bueno.", "cog": false },
+        { "t": "l'esperienza", "es": "la experiencia", "pron": "lesperiéntsa", "ej": "L'esperienza è importante.", "ejes": "La experiencia es importante.", "cog": true },
+        { "t": "il contratto", "es": "el contrato", "pron": "il contrátto", "ej": "Il contratto dura un anno.", "ejes": "El contrato dura un año.", "cog": true },
+        { "t": "il candidato", "es": "el candidato", "pron": "il candidáto", "ej": "Il candidato è puntuale.", "ejes": "El candidato es puntual.", "cog": true },
+        { "t": "il posto di lavoro", "es": "el puesto de trabajo", "pron": "il pósto di lavóro", "ej": "Il posto di lavoro è in centro.", "ejes": "El puesto de trabajo está en el centro.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Cerco un nuovo lavoro.", "es": "Busco un nuevo trabajo.", "pron": "chérco un nuóvo lavóro" },
+        { "t": "Domani ho un colloquio.", "es": "Mañana tengo una entrevista.", "pron": "dománi o un collócuio" },
+        { "t": "Mando il curriculum all'azienda.", "es": "Envío el currículum a la empresa.", "pron": "mándo il currículum alladdsiénda" },
+        { "t": "Lo stipendio è buono.", "es": "El sueldo es bueno.", "pron": "lo stipéndio é buóno" },
+        { "t": "Il contratto dura due anni.", "es": "El contrato dura dos años.", "pron": "il contrátto dúra dúe ánni" }
+      ],
+      "dialogo": {
+        "titulo": "Una buena noticia",
+        "lineas": [
+          { "q": "A", "t": "Ho un colloquio domani!", "es": "¡Tengo una entrevista mañana!" },
+          { "q": "B", "t": "Che bello! In quale azienda?", "es": "¡Qué bueno! ¿En qué empresa?" },
+          { "q": "A", "t": "In una banca. Il posto di lavoro è in centro.", "es": "En un banco. El puesto de trabajo es en el centro." },
+          { "q": "B", "t": "Hai mandato il curriculum?", "es": "¿Enviaste el currículum?" },
+          { "q": "A", "t": "Sì, e sono molto contento.", "es": "Sí, y estoy muy contento." }
+        ]
+      },
+      "nota": "«Il colloquio» = entrevista de trabajo; «l'intervista» = entrevista de prensa. «Il curriculum» se pronuncia en italiano como en latín. «Lo stipendio» lleva «lo» por la «s» + consonante."
+    },
+    {
+      "id": "it-b1-u12-l2",
+      "n": 2,
+      "titulo": "Mi experiencia: passato prossimo",
+      "objetivo": "Contar qué hice en mi carrera con hechos concretos.",
+      "intro": "Para los hechos con principio y fin se usa el passato prossimo. Truco: «per» + tiempo (per tre anni) casi siempre pide passato prossimo.",
+      "palabras": [
+        { "t": "ho lavorato", "es": "trabajé / he trabajado", "pron": "o lavoráto", "ej": "Ho lavorato in banca.", "ejes": "Trabajé en un banco.", "cog": false },
+        { "t": "ho studiato", "es": "estudié / he estudiado", "pron": "o studiáto", "ej": "Ho studiato economia.", "ejes": "Estudié economía.", "cog": false },
+        { "t": "mi sono laureato", "es": "me gradué (hombre)", "pron": "mi sóno laureáto", "ej": "Mi sono laureato nel 2018.", "ejes": "Me gradué en 2018.", "cog": false },
+        { "t": "ho cambiato", "es": "cambié / he cambiado", "pron": "o cambiáto", "ej": "Ho cambiato lavoro.", "ejes": "Cambié de trabajo.", "cog": false },
+        { "t": "ho cominciato", "es": "comencé", "pron": "o cominciáto", "ej": "Ho cominciato a lavorare nel 2015.", "ejes": "Comencé a trabajar en 2015.", "cog": false },
+        { "t": "ho lasciato", "es": "dejé", "pron": "o lashiáto", "ej": "Ho lasciato la banca.", "ejes": "Dejé el banco.", "cog": false },
+        { "t": "ho partecipato", "es": "participé", "pron": "o partechipáto", "ej": "Ho partecipato a un progetto.", "ejes": "Participé en un proyecto.", "cog": true },
+        { "t": "ho gestito", "es": "gestioné / dirigí", "pron": "o yestíto", "ej": "Ho gestito un team.", "ejes": "Dirigí un equipo.", "cog": true },
+        { "t": "il progetto", "es": "el proyecto", "pron": "il proyétto", "ej": "Il progetto è finito.", "ejes": "El proyecto terminó.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Ho lavorato per tre anni in banca.", "es": "Trabajé tres años en un banco.", "pron": "o lavoráto per tre ánni in bánca" },
+        { "t": "Mi sono laureato in economia nel 2018.", "es": "Me gradué en economía en 2018.", "pron": "mi sóno laureáto in economía nel dúemila diciótto" },
+        { "t": "Ho cambiato lavoro due volte.", "es": "Cambié de trabajo dos veces.", "pron": "o cambiáto lavóro dúe vólte" },
+        { "t": "Ho partecipato a un progetto internazionale.", "es": "Participé en un proyecto internacional.", "pron": "o partechipáto a un proyétto internatsionále" },
+        { "t": "Ho gestito un team di sei persone.", "es": "Dirigí un equipo de seis personas.", "pron": "o yestíto un tim di séi persóne" }
+      ],
+      "dialogo": {
+        "titulo": "Contando mi carrera",
+        "lineas": [
+          { "q": "A", "t": "Quanti anni ha lavorato in banca?", "es": "¿Cuántos años trabajó en un banco?" },
+          { "q": "B", "t": "Ho lavorato per tre anni, dal 2015 al 2018.", "es": "Trabajé tres años, de 2015 a 2018." },
+          { "q": "A", "t": "E poi che cosa ha fatto?", "es": "¿Y después qué hizo?" },
+          { "q": "B", "t": "Ho lasciato la banca e ho cambiato lavoro.", "es": "Dejé el banco y cambié de trabajo." },
+          { "q": "A", "t": "Ha gestito un team?", "es": "¿Dirigió un equipo?" },
+          { "q": "B", "t": "Sì, ho gestito un team di sei persone.", "es": "Sí, dirigí un equipo de seis personas." }
+        ]
+      },
+      "nota": "«Mi sono laureato» (hombre) / «mi sono laureata» (mujer): el participio concuerda. «Dal 2015 al 2018» = de 2015 a 2018. En el diálogo se usa «ha» + participio con «Lei» (usted)."
+    },
+    {
+      "id": "it-b1-u12-l3",
+      "n": 3,
+      "titulo": "Mis funciones: imperfetto",
+      "objetivo": "Describir cómo era mi trabajo y qué hacía normalmente.",
+      "intro": "Con el imperfetto cuentas cómo era algo o qué hacías de forma habitual. Truco: «mi occupavo di...» (me encargaba de...) es lo más natural en un currículum.",
+      "palabras": [
+        { "t": "lavoravo", "es": "trabajaba", "pron": "lavorávo", "ej": "Lavoravo in un ufficio.", "ejes": "Trabajaba en una oficina.", "cog": false },
+        { "t": "mi occupavo di", "es": "me encargaba de", "pron": "mi occupávo di", "ej": "Mi occupavo di vendite.", "ejes": "Me encargaba de ventas.", "cog": false },
+        { "t": "ero responsabile di", "es": "era responsable de", "pron": "éro responsábile di", "ej": "Ero responsabile di un progetto.", "ejes": "Era responsable de un proyecto.", "cog": true },
+        { "t": "avevo", "es": "tenía", "pron": "avévo", "ej": "Avevo molti clienti.", "ejes": "Tenía muchos clientes.", "cog": false },
+        { "t": "facevo", "es": "hacía", "pron": "fachévo", "ej": "Facevo molte riunioni.", "ejes": "Hacía muchas reuniones.", "cog": false },
+        { "t": "il cliente", "es": "el cliente", "pron": "il cliénte", "ej": "Il cliente è contento.", "ejes": "El cliente está contento.", "cog": true },
+        { "t": "la riunione", "es": "la reunión", "pron": "la riunióne", "ej": "La riunione è alle dieci.", "ejes": "La reunión es a las diez.", "cog": true },
+        { "t": "ogni giorno", "es": "todos los días", "pron": "óñi yórno", "ej": "Ogni giorno scrivevo molte mail.", "ejes": "Todos los días escribía muchos correos.", "cog": false },
+        { "t": "di solito", "es": "normalmente", "pron": "di sólito", "ej": "Di solito arrivavo presto.", "ejes": "Normalmente llegaba temprano.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Lavoravo in un ufficio in centro.", "es": "Trabajaba en una oficina en el centro.", "pron": "lavorávo in un ufíccho in chéntro" },
+        { "t": "Mi occupavo dei clienti.", "es": "Me encargaba de los clientes.", "pron": "mi occupávo dei cliénti" },
+        { "t": "Ero responsabile di un team di cinque persone.", "es": "Era responsable de un equipo de cinco personas.", "pron": "éro responsábile di un tim di chínque persóne" },
+        { "t": "Di solito facevo molte riunioni.", "es": "Normalmente hacía muchas reuniones.", "pron": "di sólito fachévo mólte riunióni" },
+        { "t": "Ogni giorno scrivevo molte mail.", "es": "Todos los días escribía muchos correos.", "pron": "óñi yórno scrivévo mólte méil" }
+      ],
+      "dialogo": {
+        "titulo": "En la entrevista",
+        "lineas": [
+          { "q": "A", "t": "Che cosa faceva nel suo lavoro precedente?", "es": "¿Qué hacía en su trabajo anterior?" },
+          { "q": "B", "t": "Mi occupavo dei clienti e delle vendite.", "es": "Me encargaba de los clientes y de las ventas." },
+          { "q": "A", "t": "Aveva un team?", "es": "¿Tenía un equipo?" },
+          { "q": "B", "t": "Sì, ero responsabile di un team di cinque persone.", "es": "Sí, era responsable de un equipo de cinco personas." },
+          { "q": "A", "t": "Quante riunioni facevate?", "es": "¿Cuántas reuniones hacían?" },
+          { "q": "B", "t": "Di solito facevamo tre riunioni a settimana.", "es": "Normalmente hacíamos tres reuniones a la semana." }
+        ]
+      },
+      "nota": "El imperfetto de -are: -avo, -avi, -ava; de -ere: -evo, -evi, -eva; de -ire: -ivo, -ivi, -iva. Irregulares: essere (ero), fare (facevo), dire (dicevo). «Lei» usa la forma de lui/lei: «faceva», «aveva»."
+    },
+    {
+      "id": "it-b1-u12-l4",
+      "n": 4,
+      "titulo": "Preguntas de una entrevista",
+      "objetivo": "Entender y responder las preguntas típicas de una entrevista de trabajo.",
+      "intro": "En una entrevista se usa «Lei» (usted). Truco: la frase más frecuente es «Mi parli di lei» (hábleme de usted).",
+      "palabras": [
+        { "t": "il punto di forza", "es": "el punto fuerte", "pron": "il púnto di fórtsa", "ej": "Il punto di forza è la pazienza.", "ejes": "El punto fuerte es la paciencia.", "cog": false },
+        { "t": "il punto debole", "es": "el punto débil", "pron": "il púnto débole", "ej": "Il punto debole è la timidezza.", "ejes": "El punto débil es la timidez.", "cog": false },
+        { "t": "la domanda", "es": "la pregunta", "pron": "la dománda", "ej": "La domanda è difficile.", "ejes": "La pregunta es difícil.", "cog": false },
+        { "t": "disponibile", "es": "disponible", "pron": "disponíbile", "ej": "Sono disponibile da lunedì.", "ejes": "Estoy disponible desde el lunes.", "cog": true },
+        { "t": "motivato", "es": "motivado", "pron": "motiváto", "ej": "Sono molto motivato.", "ejes": "Estoy muy motivado.", "cog": true },
+        { "t": "l'obiettivo", "es": "el objetivo", "pron": "lobiettívo", "ej": "L'obiettivo è crescere.", "ejes": "El objetivo es crecer.", "cog": true },
+        { "t": "la squadra", "es": "el equipo", "pron": "la squádra", "ej": "La squadra è molto unita.", "ejes": "El equipo está muy unido.", "cog": false },
+        { "t": "cominciare", "es": "empezar", "pron": "cominciáre", "ej": "Posso cominciare lunedì.", "ejes": "Puedo empezar el lunes.", "cog": false },
+        { "t": "perché", "es": "por qué / porque", "pron": "perqué", "ej": "Perché vuole questo lavoro?", "ejes": "¿Por qué quiere este trabajo?", "cog": false }
+      ],
+      "frases": [
+        { "t": "Mi parli di lei, per favore.", "es": "Hábleme de usted, por favor.", "pron": "mi párli di léi, per favóre" },
+        { "t": "Perché vuole questo lavoro?", "es": "¿Por qué quiere este trabajo?", "pron": "perqué vuóle cuésto lavóro" },
+        { "t": "Quali sono i suoi punti di forza?", "es": "¿Cuáles son sus puntos fuertes?", "pron": "cuáli sóno i súoi púnti di fórtsa" },
+        { "t": "Quando può cominciare?", "es": "¿Cuándo puede empezar?", "pron": "cuándo puó cominciáre" },
+        { "t": "Mi piace lavorare in squadra.", "es": "Me gusta trabajar en equipo.", "pron": "mi piáche lavoráre in squádra" }
+      ],
+      "dialogo": {
+        "titulo": "El colloquio",
+        "lineas": [
+          { "q": "A", "t": "Buongiorno. Mi parli di lei.", "es": "Buenos días. Hábleme de usted." },
+          { "q": "B", "t": "Mi chiamo Carlos, sono economista e lavoro in banca.", "es": "Me llamo Carlos, soy economista y trabajo en un banco." },
+          { "q": "A", "t": "Perché vuole questo lavoro?", "es": "¿Por qué quiere este trabajo?" },
+          { "q": "B", "t": "Perché sono motivato e mi piace lavorare in squadra.", "es": "Porque estoy motivado y me gusta trabajar en equipo." },
+          { "q": "A", "t": "Quando può cominciare?", "es": "¿Cuándo puede empezar?" }
+        ]
+      },
+      "nota": "Con «Lei» (usted) el verbo va en tercera persona: «Lei lavora», «Lei vuole». «Può» = puede, «vuole» = quiere. «Perché» sirve para preguntar (por qué) y para responder (porque)."
+    },
+    {
+      "id": "it-b1-u12-l5",
+      "n": 5,
+      "titulo": "Repaso: mi presentación profesional",
+      "objetivo": "Presentarme con experiencia y funciones en una entrevista simulada.",
+      "intro": "Combina presente, passato prossimo e imperfetto para presentarte. Truco: presente = ahora, prossimo = hechos con fecha, imperfetto = cómo era.",
+      "palabras": [
+        { "t": "il ruolo", "es": "el rol / el puesto", "pron": "il rúolo", "ej": "Il ruolo è interessante.", "ejes": "El puesto es interesante.", "cog": false },
+        { "t": "la competenza", "es": "la competencia / la habilidad", "pron": "la competéntsa", "ej": "La competenza è importante.", "ejes": "La habilidad es importante.", "cog": true },
+        { "t": "il settore", "es": "el sector", "pron": "il settóre", "ej": "Il settore è in crescita.", "ejes": "El sector está en crecimiento.", "cog": true },
+        { "t": "imparare", "es": "aprender", "pron": "imparáre", "ej": "Voglio imparare molto.", "ejes": "Quiero aprender mucho.", "cog": false },
+        { "t": "crescere", "es": "crecer", "pron": "créshere", "ej": "Voglio crescere nell'azienda.", "ejes": "Quiero crecer en la empresa.", "cog": false },
+        { "t": "il risultato", "es": "el resultado", "pron": "il risultáto", "ej": "Il risultato è ottimo.", "ejes": "El resultado es excelente.", "cog": true },
+        { "t": "ottenere", "es": "lograr / obtener", "pron": "ottenére", "ej": "Voglio ottenere buoni risultati.", "ejes": "Quiero obtener buenos resultados.", "cog": true },
+        { "t": "assunto", "es": "contratado", "pron": "assúnto", "ej": "Sono stato assunto ieri.", "ejes": "Me contrataron ayer.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Sono laureato in economia e lavoro in banca.", "es": "Soy graduado en economía y trabajo en un banco.", "pron": "sóno laureáto in economía e lavóro in bánca" },
+        { "t": "Ho lavorato per cinque anni nel settore bancario.", "es": "Trabajé cinco años en el sector bancario.", "pron": "o lavoráto per chínque ánni nel settóre bancário" },
+        { "t": "Mi occupavo di clienti e di vendite.", "es": "Me encargaba de clientes y de ventas.", "pron": "mi occupávo di cliénti e di véndite" },
+        { "t": "Voglio crescere e imparare in questa azienda.", "es": "Quiero crecer y aprender en esta empresa.", "pron": "vóglio créshere e imparáre in cuésta addsiénda" },
+        { "t": "Sono stato assunto e comincio lunedì.", "es": "Me contrataron y empiezo el lunes.", "pron": "sóno státo assúnto e comínchio lunedí" }
+      ],
+      "dialogo": {
+        "titulo": "Presentación final",
+        "lineas": [
+          { "q": "A", "t": "Che esperienza ha nel settore?", "es": "¿Qué experiencia tiene en el sector?" },
+          { "q": "B", "t": "Ho lavorato per cinque anni in banca.", "es": "Trabajé cinco años en un banco." },
+          { "q": "A", "t": "E di che cosa si occupava?", "es": "¿Y de qué se encargaba?" },
+          { "q": "B", "t": "Mi occupavo di clienti e ottenevo buoni risultati.", "es": "Me encargaba de clientes y obtenía buenos resultados." },
+          { "q": "A", "t": "Bene. Può cominciare lunedì?", "es": "Bien. ¿Puede empezar el lunes?" },
+          { "q": "B", "t": "Certo, sono molto motivato!", "es": "¡Claro, estoy muy motivado!" }
+        ]
+      },
+      "nota": "«Di che cosa si occupava?» usa «Lei» con un verbo reflexivo. «Assunto» es el participio de «assumere» (contratar). Para decir «me contrataron» se usa «sono stato assunto»; todavía no es necesario aprender esa forma pasiva: apréndela como frase."
+    }
+  ]
+}

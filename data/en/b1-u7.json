@@ -1,0 +1,215 @@
+{
+  "id": "en-b1-u7",
+  "idioma": "en",
+  "nivel": "B1",
+  "n": 7,
+  "titulo": "Describir con precisión",
+  "resumen": "Aprenderás a describir personas y cosas con cláusulas relativas (who, which, that, whose) y a ordenar varios adjetivos.",
+  "puedo": [
+    "Describir personas con who.",
+    "Describir cosas con which y that.",
+    "Indicar posesión con whose.",
+    "Ordenar varios adjetivos antes de un sustantivo.",
+    "Describir con precisión lo que busco o lo que tengo."
+  ],
+  "gramatica": {
+    "titulo": "Cláusulas relativas: who, which, that y whose",
+    "texto": "Una cláusula relativa da más información sobre una persona o cosa. Se une con una palabra relativa.\nWho para personas: The woman who lives next door is a nurse (la mujer que vive al lado). Which para cosas: The book which I bought is great. That sirve para personas y cosas: The man that called is my boss. Whose indica posesión: The girl whose bag was stolen is my cousin.\nTruco: en español todo es «que»; en inglés elige según a quién describes: persona = who, cosa = which, posesión = whose. Cuando el relativo es el objeto de la cláusula, se puede omitir: The book (that) I read was good.",
+    "tabla": [
+      ["The woman who lives here is a nurse.", "La mujer que vive aquí es enfermera.", "da úman ju livs jíar is a ners"],
+      ["The book which I bought is great.", "El libro que compré es genial.", "da buk uích ai bot is greit"],
+      ["The man that called is my boss.", "El hombre que llamó es mi jefe.", "da man dat cold is mai bos"],
+      ["The girl whose bag was stolen is my cousin.", "La chica a quien le robaron la bolsa es mi prima.", "da guerl jus bag uas stóulen is mai cásin"],
+      ["A friend is someone who helps you.", "Un amigo es alguien que te ayuda.", "a frend is sámuan ju jelps iu"],
+      ["This is the house where I grew up.", "Esta es la casa donde crecí.", "dis is da jaus juer ai gru ap"]
+    ],
+    "errores": [
+      "No repitas el sujeto: es The man who called is my boss, no «The man who he called is my boss».",
+      "No uses which con personas: es The woman who works here, no «The woman which works here».",
+      "No digas «The girl who her bag...»: para posesión se usa whose: The girl whose bag was stolen."
+    ]
+  },
+  "practica": [
+    "Describe en voz alta 6 personas de tu vida con who: My friend who lives in Cusco..., My teacher who... (8 minutos).",
+    "Mira 6 objetos de tu casa y descríbelos con which o that: This is the lamp that I bought in Lima (8 minutos).",
+    "Une 6 pares de oraciones cortas con who, which o whose para formar una sola oración (10 minutos).",
+    "Escribe un anuncio de 5 líneas para buscar o vender algo con adjetivos ordenados: a small, old, brown leather bag (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b1-u7-l1",
+      "n": 1,
+      "titulo": "Who: las personas",
+      "objetivo": "Describir personas con who.",
+      "intro": "Who une una persona con una descripción: A teacher is someone who teaches. Truco: who sustituye al sujeto, así que no repitas el pronombre después. Sirve para decir qué hace alguien o cómo es.",
+      "palabras": [
+        { "t": "who", "es": "que / quien (personas)", "pron": "ju", "ej": "The man who called is my boss.", "ejes": "El hombre que llamó es mi jefe.", "cog": false },
+        { "t": "someone", "es": "alguien", "pron": "sámuan", "ej": "I need someone who can help me.", "ejes": "Necesito a alguien que pueda ayudarme.", "cog": false },
+        { "t": "neighbor", "es": "vecino", "pron": "néibor", "ej": "My neighbor is very friendly.", "ejes": "Mi vecino es muy amable.", "cog": false },
+        { "t": "stranger", "es": "desconocido", "pron": "stréinyer", "ej": "Don't talk to a stranger.", "ejes": "No hables con un desconocido.", "cog": false },
+        { "t": "reliable", "es": "confiable", "pron": "riláiabol", "ej": "He is a reliable person.", "ejes": "Es una persona confiable.", "cog": false },
+        { "t": "generous", "es": "generoso", "pron": "yéneros", "ej": "She is a generous woman.", "ejes": "Es una mujer generosa.", "cog": true },
+        { "t": "honest", "es": "honesto", "pron": "ónest", "ej": "I want an honest answer.", "ejes": "Quiero una respuesta honesta.", "cog": true, "truco": "La «h» de honest no suena: ónest." },
+        { "t": "support", "es": "apoyar / apoyo", "pron": "sapórt", "ej": "My family will support me.", "ejes": "Mi familia me apoyará.", "cog": true }
+      ],
+      "frases": [
+        { "t": "The man who called is my boss.", "es": "El hombre que llamó es mi jefe.", "pron": "da man ju cold is mai bos" },
+        { "t": "I need someone who can help me.", "es": "Necesito a alguien que pueda ayudarme.", "pron": "ai nid sámuan ju can jelp mi" },
+        { "t": "My neighbor, who is a doctor, is very kind.", "es": "Mi vecino, que es doctor, es muy amable.", "pron": "mai néibor, ju is a dóctor, is véri caind" },
+        { "t": "A friend is someone who supports you.", "es": "Un amigo es alguien que te apoya.", "pron": "a frend is sámuan ju sapórts iu" },
+        { "t": "The people who work here are very reliable.", "es": "La gente que trabaja aquí es muy confiable.", "pron": "da pípol ju uerk jíar ar véri riláiabol" }
+      ],
+      "dialogo": {
+        "titulo": "Buscando un compañero de cuarto",
+        "lineas": [
+          { "q": "A", "t": "I'm looking for someone who can share my apartment.", "es": "Busco a alguien que pueda compartir mi departamento." },
+          { "q": "B", "t": "What kind of person are you looking for?", "es": "¿Qué tipo de persona buscas?" },
+          { "q": "A", "t": "Someone who is clean and reliable, and who doesn't smoke.", "es": "Alguien limpio y confiable, y que no fume." },
+          { "q": "B", "t": "My friend Paula is a person who fits that. She's a nurse who works at night.", "es": "Mi amiga Paula encaja con eso. Es enfermera y trabaja de noche." },
+          { "q": "A", "t": "Perfect. Can you give me her number?", "es": "Perfecto. ¿Me das su número?" }
+        ]
+      },
+      "nota": "Con una coma, la información es extra: My brother, who lives in Lima, is a doctor (tengo un solo hermano). Sin coma identifica: The brother who lives in Lima is a doctor."
+    },
+    {
+      "id": "en-b1-u7-l2",
+      "n": 2,
+      "titulo": "Which y that: las cosas",
+      "objetivo": "Describir cosas con which y that.",
+      "intro": "Which se usa para cosas, y that para cosas y personas en el habla diaria. Truco: that suena más natural al hablar; which se prefiere en textos más cuidados y tras una coma.",
+      "palabras": [
+        { "t": "which", "es": "que / el cual (cosas)", "pron": "uích", "ej": "The book which I bought is great.", "ejes": "El libro que compré es genial.", "cog": false },
+        { "t": "that", "es": "que (personas y cosas)", "pron": "dat", "ej": "This is the phone that I use at work.", "ejes": "Este es el celular que uso en el trabajo.", "cog": false },
+        { "t": "gadget", "es": "aparato / dispositivo", "pron": "gádyet", "ej": "That gadget is very useful.", "ejes": "Ese aparato es muy útil.", "cog": false },
+        { "t": "device", "es": "dispositivo", "pron": "diváis", "ej": "This device is easy to use.", "ejes": "Este dispositivo es fácil de usar.", "cog": true },
+        { "t": "reliable", "es": "fiable / duradero", "pron": "riláiabol", "ej": "I need a reliable car.", "ejes": "Necesito un auto confiable.", "cog": false },
+        { "t": "brand", "es": "marca", "pron": "brand", "ej": "What brand is your laptop?", "ejes": "¿De qué marca es tu laptop?", "cog": false },
+        { "t": "work out", "es": "funcionar / salir bien", "pron": "uerk aut", "ej": "I hope this plan will work out.", "ejes": "Espero que este plan salga bien.", "cog": false },
+        { "t": "come with", "es": "venir con / incluir", "pron": "cam uid", "ej": "Does it come with a case?", "ejes": "¿Viene con una funda?", "cog": false }
+      ],
+      "frases": [
+        { "t": "The book which I bought is great.", "es": "El libro que compré es genial.", "pron": "da buk uích ai bot is greit" },
+        { "t": "This is the phone that I use at work.", "es": "Este es el celular que uso en el trabajo.", "pron": "dis is da foun dat ai ius at uerk" },
+        { "t": "I need a car that is reliable.", "es": "Necesito un auto que sea confiable.", "pron": "ai nid a car dat is riláiabol" },
+        { "t": "The laptop which I wanted was sold out.", "es": "La laptop que quería estaba agotada.", "pron": "da láptop uích ai uántid uas sould aut" },
+        { "t": "Does it come with a case?", "es": "¿Viene con una funda?", "pron": "das it cam uid a keis" }
+      ],
+      "dialogo": {
+        "titulo": "En la tienda de tecnología",
+        "lineas": [
+          { "q": "A", "t": "I'm looking for a laptop that is light and cheap.", "es": "Busco una laptop que sea liviana y barata." },
+          { "q": "B", "t": "This is the one which sells the most. It comes with a case.", "es": "Esta es la que más se vende. Viene con funda." },
+          { "q": "A", "t": "What brand is it?", "es": "¿De qué marca es?" },
+          { "q": "B", "t": "It's a brand that is very reliable. It has a battery that lasts ten hours.", "es": "Es una marca muy confiable. Tiene una batería que dura diez horas." },
+          { "q": "A", "t": "That sounds perfect. I'll take it.", "es": "Suena perfecto. Me la llevo." }
+        ]
+      },
+      "nota": "Si el relativo es el objeto, puedes omitirlo: The book (that) I bought is great. No puedes omitirlo si es el sujeto: The man who called... (no «The man called...» con ese sentido)."
+    },
+    {
+      "id": "en-b1-u7-l3",
+      "n": 3,
+      "titulo": "Whose: de quién",
+      "objetivo": "Indicar posesión con whose.",
+      "intro": "Whose une un sustantivo con su dueño: The girl whose bag was stolen is my cousin. Truco: whose = cuyo / a quien le. Después de whose va siempre un sustantivo.",
+      "palabras": [
+        { "t": "whose", "es": "cuyo / de quién", "pron": "jus", "ej": "Whose phone is this?", "ejes": "¿De quién es este celular?", "cog": false },
+        { "t": "owner", "es": "dueño", "pron": "óuner", "ej": "The owner of the café is Ana.", "ejes": "La dueña del café es Ana.", "cog": false },
+        { "t": "belong to", "es": "pertenecer a", "pron": "bilóng tu", "ej": "Does this bag belong to your sister?", "ejes": "¿Esta bolsa pertenece a tu hermana?", "cog": false },
+        { "t": "lost", "es": "perdido", "pron": "lost", "ej": "I found a lost wallet.", "ejes": "Encontré una billetera perdida.", "cog": false },
+        { "t": "found", "es": "encontrado (de find)", "pron": "faund", "ej": "Someone found my keys.", "ejes": "Alguien encontró mis llaves.", "cog": false },
+        { "t": "lose", "es": "perder", "pron": "lus", "ej": "Don't lose your passport.", "ejes": "No pierdas tu pasaporte.", "cog": false },
+        { "t": "mine", "es": "mío", "pron": "main", "ej": "That umbrella is mine.", "ejes": "Ese paraguas es mío.", "cog": false },
+        { "t": "yours", "es": "tuyo", "pron": "iors", "ej": "Is this pen yours?", "ejes": "¿Es tuyo este lapicero?", "cog": false }
+      ],
+      "frases": [
+        { "t": "Whose phone is this?", "es": "¿De quién es este celular?", "pron": "jus foun is dis" },
+        { "t": "The girl whose bag was stolen is my cousin.", "es": "La chica a quien le robaron la bolsa es mi prima.", "pron": "da guerl jus bag uas stóulen is mai cásin" },
+        { "t": "I met a man whose brother is famous.", "es": "Conocí a un hombre cuyo hermano es famoso.", "pron": "ai met a man jus bráder is féimos" },
+        { "t": "This bag belongs to my sister.", "es": "Esta bolsa es de mi hermana.", "pron": "dis bag bilóngs tu mai síster" },
+        { "t": "That umbrella is mine.", "es": "Ese paraguas es mío.", "pron": "dat ambréla is main" }
+      ],
+      "dialogo": {
+        "titulo": "Objetos perdidos",
+        "lineas": [
+          { "q": "A", "t": "Excuse me, whose jacket is this?", "es": "Disculpa, ¿de quién es esta chaqueta?" },
+          { "q": "B", "t": "I think it belongs to the woman whose son was here earlier.", "es": "Creo que es de la mujer cuyo hijo estuvo aquí antes." },
+          { "q": "A", "t": "Is it hers? The one whose keys were lost yesterday?", "es": "¿Es suya? ¿La que perdió sus llaves ayer?" },
+          { "q": "B", "t": "Yes, that's her. I'll keep it at the front desk.", "es": "Sí, es ella. La dejaré en la recepción." }
+        ]
+      },
+      "nota": "Whose no es lo mismo que who's (who is): Who's that? = ¿Quién es? Whose is that? = ¿De quién es eso?"
+    },
+    {
+      "id": "en-b1-u7-l4",
+      "n": 4,
+      "titulo": "Orden de adjetivos",
+      "objetivo": "Ordenar varios adjetivos antes de un sustantivo.",
+      "intro": "Cuando usas varios adjetivos, siguen un orden: opinión, tamaño, edad, color, origen, material. Truco: lo normal es no pasar de dos o tres. Se dice a beautiful old house, no «an old beautiful house».",
+      "palabras": [
+        { "t": "gorgeous", "es": "precioso", "pron": "górdyes", "ej": "She wore a gorgeous dress.", "ejes": "Llevaba un vestido precioso.", "cog": false },
+        { "t": "huge", "es": "enorme", "pron": "jiuch", "ej": "They have a huge house.", "ejes": "Tienen una casa enorme.", "cog": false },
+        { "t": "tiny", "es": "diminuto", "pron": "táini", "ej": "I live in a tiny apartment.", "ejes": "Vivo en un departamento diminuto.", "cog": false },
+        { "t": "ancient", "es": "antiguo", "pron": "éinshent", "ej": "We visited an ancient temple.", "ejes": "Visitamos un templo antiguo.", "cog": false },
+        { "t": "wooden", "es": "de madera", "pron": "uúden", "ej": "I bought a wooden table.", "ejes": "Compré una mesa de madera.", "cog": false },
+        { "t": "silver", "es": "plateado / de plata", "pron": "sílver", "ej": "She has a silver ring.", "ejes": "Ella tiene un anillo de plata.", "cog": false },
+        { "t": "woolen", "es": "de lana", "pron": "uúlen", "ej": "I love this woolen sweater.", "ejes": "Me encanta este suéter de lana.", "cog": false },
+        { "t": "Peruvian", "es": "peruano", "pron": "perúvian", "ej": "I love Peruvian food.", "ejes": "Me encanta la comida peruana.", "cog": true }
+      ],
+      "frases": [
+        { "t": "She lives in a beautiful old house.", "es": "Vive en una hermosa casa antigua.", "pron": "shi livs in a biútiful ould jaus" },
+        { "t": "I bought a small brown leather bag.", "es": "Compré una bolsa pequeña de cuero marrón.", "pron": "ai bot a smol braun léder bag" },
+        { "t": "They have a huge modern apartment.", "es": "Tienen un departamento enorme y moderno.", "pron": "dei jav a jiuch módern apártment" },
+        { "t": "He wore a gorgeous silver watch.", "es": "Llevaba un reloj plateado precioso.", "pron": "ji uor a górdyes sílver uotch" },
+        { "t": "We visited an ancient Peruvian temple.", "es": "Visitamos un antiguo templo peruano.", "pron": "ui vísitid an éinshent perúvian témpol" }
+      ],
+      "dialogo": {
+        "titulo": "Describiendo una casa",
+        "lineas": [
+          { "q": "A", "t": "Tell me about your new house.", "es": "Cuéntame de tu casa nueva." },
+          { "q": "B", "t": "It's a lovely old house with a huge green garden.", "es": "Es una casa antigua y encantadora con un enorme jardín verde." },
+          { "q": "A", "t": "Wow! And what about the inside?", "es": "¡Vaya! ¿Y cómo es por dentro?" },
+          { "q": "B", "t": "There is a big wooden table in the kitchen and a tiny blue bathroom.", "es": "Hay una gran mesa de madera en la cocina y un baño azul diminuto." },
+          { "q": "A", "t": "Sounds like a gorgeous place.", "es": "Suena un lugar precioso." }
+        ]
+      },
+      "nota": "Orden fácil de recordar: opinión (lovely) - tamaño (huge) - edad (old) - color (green) - origen (Peruvian) - material (wooden) + sustantivo. En conversación normal, dos adjetivos bastan."
+    },
+    {
+      "id": "en-b1-u7-l5",
+      "n": 5,
+      "titulo": "Repaso: lo describo todo",
+      "objetivo": "Combinar cláusulas relativas y adjetivos ordenados al describir.",
+      "intro": "Repasa who, which, that, whose y el orden de adjetivos en descripciones completas. Truco: primero escoge el sustantivo, luego los adjetivos en orden y por último la cláusula relativa: a small old café that sells great coffee.",
+      "palabras": [
+        { "t": "description", "es": "descripción", "pron": "discrípshon", "ej": "Give me a short description.", "ejes": "Dame una descripción corta.", "cog": true },
+        { "t": "describe", "es": "describir", "pron": "discráib", "ej": "Can you describe him?", "ejes": "¿Puedes describirlo?", "cog": true },
+        { "t": "look like", "es": "parecerse / lucir como", "pron": "luk laik", "ej": "What does she look like?", "ejes": "¿Cómo es ella físicamente?", "cog": false },
+        { "t": "tall", "es": "alto", "pron": "tol", "ej": "He is tall and thin.", "ejes": "Es alto y delgado.", "cog": false },
+        { "t": "curly", "es": "rizado", "pron": "kérli", "ej": "She has long curly hair.", "ejes": "Ella tiene el pelo largo y rizado.", "cog": false },
+        { "t": "cozy", "es": "acogedor", "pron": "cóusi", "ej": "It's a cozy little café.", "ejes": "Es un cafecito acogedor.", "cog": false },
+        { "t": "stand out", "es": "destacar", "pron": "stand aut", "ej": "You will stand out in that coat.", "ejes": "Destacarás con ese abrigo.", "cog": false },
+        { "t": "exactly", "es": "exactamente", "pron": "egzáctli", "ej": "That's exactly what I mean.", "ejes": "Eso es exactamente lo que quiero decir.", "cog": false }
+      ],
+      "frases": [
+        { "t": "What does she look like?", "es": "¿Cómo es ella físicamente?", "pron": "juat das shi luk laik" },
+        { "t": "She is a tall woman who has long curly hair.", "es": "Es una mujer alta que tiene el pelo largo y rizado.", "pron": "shi is a tol úman ju jas long kérli jer" },
+        { "t": "It's a cozy little café that sells great coffee.", "es": "Es un cafecito acogedor que vende un gran café.", "pron": "its a cóusi lítol café dat sels greit cófi" },
+        { "t": "I know a man whose dog is huge.", "es": "Conozco a un hombre cuyo perro es enorme.", "pron": "ai nou a man jus dog is jiuch" },
+        { "t": "This is the old Peruvian book which I told you about.", "es": "Este es el viejo libro peruano del que te hablé.", "pron": "dis is di ould perúvian buk uích ai tould iu abáut" },
+        { "t": "That's exactly what I mean.", "es": "Eso es exactamente lo que quiero decir.", "pron": "dats egzáctli juat ai min" }
+      ],
+      "dialogo": {
+        "titulo": "Una cita a ciegas",
+        "lineas": [
+          { "q": "A", "t": "How will I recognize your friend?", "es": "¿Cómo reconoceré a tu amigo?" },
+          { "q": "B", "t": "He's a tall man who wears a gray woolen coat.", "es": "Es un hombre alto que usa un abrigo gris de lana." },
+          { "q": "A", "t": "Does he have a beard? I met a man whose beard was huge.", "es": "¿Tiene barba? Conocí a un hombre cuya barba era enorme." },
+          { "q": "B", "t": "No, he has short curly hair and a lovely smile.", "es": "No, tiene el pelo corto y rizado y una sonrisa encantadora." },
+          { "q": "A", "t": "Okay. We'll meet at the cozy little café that is next to the bank.", "es": "Bien. Nos veremos en el cafecito acogedor que está junto al banco." }
+        ]
+      },
+      "nota": "What does she look like? pregunta por el aspecto físico. How is she? pregunta por su estado o salud. No son lo mismo."
+    }
+  ]
+}

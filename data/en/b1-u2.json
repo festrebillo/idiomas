@@ -1,0 +1,215 @@
+{
+  "id": "en-b1-u2",
+  "idioma": "en",
+  "nivel": "B1",
+  "n": 2,
+  "titulo": "Lo que ha pasado y desde cuándo",
+  "resumen": "Aprenderás a hablar de situaciones que continúan hasta hoy con for y since, y a elegir entre presente perfecto y pasado simple.",
+  "puedo": [
+    "Preguntar y responder How long...? con el presente perfecto.",
+    "Usar for con una duración y since con un punto de inicio.",
+    "Usar just, already, yet y still con el presente perfecto.",
+    "Elegir entre presente perfecto y pasado simple.",
+    "Contar cuánto tiempo llevo en un trabajo, una ciudad o una actividad."
+  ],
+  "gramatica": {
+    "titulo": "Presente perfecto con for y since",
+    "texto": "Para decir que algo empezó en el pasado y sigue hasta ahora, usa el presente perfecto: I have lived here for five years (vivo aquí desde hace cinco años). En español usamos el presente; en inglés NO: el presente simple sería incorrecto.\nFor + duración: for two years, for a long time, for three hours. Since + punto de inicio: since 2019, since Monday, since I was a child.\nPregunta: How long have you worked here? Respuesta: I've worked here for six months / since March.\nTruco: si en español dices «desde hace + tiempo» o «desde + fecha», en inglés va el presente perfecto con for o since.",
+    "tabla": [
+      ["I have lived here for five years.", "Vivo aquí desde hace cinco años.", "ai jav livd jíar for faiv iirs"],
+      ["She has worked here since 2020.", "Trabaja aquí desde 2020.", "shi jas uérkt jíar sins tu zausand tuénti"],
+      ["How long have you known him?", "¿Desde cuándo lo conoces?", "jau long jav iu noun jim"],
+      ["We have been friends since school.", "Somos amigos desde el colegio.", "ui jav bin frends sins scul"],
+      ["I haven't seen her for a week.", "Hace una semana que no la veo.", "ai jávent sin jer for a uik"],
+      ["He has had that car for years.", "Tiene ese carro desde hace años.", "ji jas jad dat car for iirs"]
+    ],
+    "errores": [
+      "No uses el presente simple: es I have lived here for five years, no «I live here for five years».",
+      "No confundas for y since: for va con una duración (for two weeks) y since con un momento de inicio (since Monday).",
+      "No uses el pasado con for si la situación continúa: «I lived here for five years» significa que ya no vives aquí."
+    ]
+  },
+  "practica": [
+    "Escribe 8 oraciones sobre ti con for y since: tu casa, tu trabajo o estudio, tus amigos, tu celular (10 minutos).",
+    "Pregúntale a alguien cinco veces How long have you...? y responde tú también en voz alta (6 minutos).",
+    "Mira tu agenda de la semana y escribe 5 oraciones con yet, already y just: I've already..., I haven't... yet (8 minutos).",
+    "Cuenta en un audio de un minuto la historia de tu vida usando el pasado simple para fechas y el presente perfecto para lo que sigue hoy (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b1-u2-l1",
+      "n": 1,
+      "titulo": "For y since",
+      "objetivo": "Decir desde cuándo y por cuánto tiempo algo continúa.",
+      "intro": "For responde a «¿cuánto tiempo?» y since a «¿desde cuándo?». Truco: for = duración (for two years), since = punto de partida (since 2022). Los dos van con el presente perfecto.",
+      "palabras": [
+        { "t": "for", "es": "durante / desde hace", "pron": "for", "ej": "I have lived here for two years.", "ejes": "Vivo aquí desde hace dos años.", "cog": false },
+        { "t": "since", "es": "desde", "pron": "sins", "ej": "She has worked here since March.", "ejes": "Ella trabaja aquí desde marzo.", "cog": false },
+        { "t": "how long", "es": "cuánto tiempo", "pron": "jau long", "ej": "How long have you studied English?", "ejes": "¿Cuánto tiempo llevas estudiando inglés?", "cog": false },
+        { "t": "all my life", "es": "toda mi vida", "pron": "ol mai laif", "ej": "I have loved music all my life.", "ejes": "He amado la música toda mi vida.", "cog": false },
+        { "t": "a long time", "es": "mucho tiempo", "pron": "a long taim", "ej": "I haven't seen him in a long time.", "ejes": "No lo veo desde hace mucho tiempo.", "cog": false },
+        { "t": "since then", "es": "desde entonces", "pron": "sins den", "ej": "He moved to Lima and has lived there since then.", "ejes": "Se mudó a Lima y vive allí desde entonces.", "cog": false },
+        { "t": "century", "es": "siglo", "pron": "sénchuri", "ej": "That church is a century old.", "ejes": "Esa iglesia tiene un siglo.", "cog": true },
+        { "t": "colleague", "es": "colega de trabajo", "pron": "cólig", "ej": "She is my colleague.", "ejes": "Ella es mi colega.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I have lived here for two years.", "es": "Vivo aquí desde hace dos años.", "pron": "ai jav livd jíar for tu iirs" },
+        { "t": "She has worked here since March.", "es": "Ella trabaja aquí desde marzo.", "pron": "shi jas uérkt jíar sins march" },
+        { "t": "How long have you studied English?", "es": "¿Cuánto tiempo llevas estudiando inglés?", "pron": "jau long jav iu stádid ínglish" },
+        { "t": "We have been friends since school.", "es": "Somos amigos desde el colegio.", "pron": "ui jav bin frends sins scul" },
+        { "t": "I haven't seen him for a long time.", "es": "No lo veo desde hace mucho tiempo.", "pron": "ai jávent sin jim for a long taim" }
+      ],
+      "dialogo": {
+        "titulo": "Colegas de oficina",
+        "lineas": [
+          { "q": "A", "t": "How long have you worked at this company?", "es": "¿Cuánto tiempo llevas trabajando en esta empresa?" },
+          { "q": "B", "t": "For about three years. And you?", "es": "Unos tres años. ¿Y tú?" },
+          { "q": "A", "t": "I've worked here since January. Everything is still new to me.", "es": "Yo trabajo aquí desde enero. Todo es aún nuevo para mí." },
+          { "q": "B", "t": "Don't worry. I've known the manager for a long time. She's very kind.", "es": "No te preocupes. Conozco a la gerente hace mucho. Es muy amable." }
+        ]
+      },
+      "nota": "En inglés hablado a veces se omite for, pero al escribir úsalo siempre: I've lived here for two years. Nunca omitas since."
+    },
+    {
+      "id": "en-b1-u2-l2",
+      "n": 2,
+      "titulo": "How long...?",
+      "objetivo": "Preguntar y contar cuánto tiempo llevas con algo.",
+      "intro": "How long have you + participio? es la pregunta clave. Truco: con verbos de estado (live, know, have, be) el presente perfecto simple suena mejor: How long have you known her? Con acciones largas también se usa -ing, pero eso lo verás luego.",
+      "palabras": [
+        { "t": "move", "es": "mudarse / mover", "pron": "muv", "ej": "I want to move to a bigger city.", "ejes": "Quiero mudarme a una ciudad más grande.", "cog": false },
+        { "t": "own", "es": "ser dueño de / tener", "pron": "oun", "ej": "They own a small restaurant.", "ejes": "Son dueños de un restaurante pequeño.", "cog": false },
+        { "t": "get to know", "es": "llegar a conocer", "pron": "get tu nou", "ej": "I want to get to know my neighbors.", "ejes": "Quiero llegar a conocer a mis vecinos.", "cog": false },
+        { "t": "be married", "es": "estar casado", "pron": "bi márid", "ej": "They want to be married in June.", "ejes": "Quieren estar casados en junio.", "cog": false },
+        { "t": "rent", "es": "alquilar / alquiler", "pron": "rent", "ej": "We rent an apartment downtown.", "ejes": "Alquilamos un departamento en el centro.", "cog": false },
+        { "t": "in a row", "es": "seguidos", "pron": "in a rou", "ej": "It has rained three days in a row.", "ejes": "Ha llovido tres días seguidos.", "cog": false },
+        { "t": "last", "es": "durar", "pron": "last", "ej": "How long does the class last?", "ejes": "¿Cuánto dura la clase?", "cog": false },
+        { "t": "hometown", "es": "ciudad natal", "pron": "jóumtaun", "ej": "My hometown is on the coast.", "ejes": "Mi ciudad natal está en la costa.", "cog": false }
+      ],
+      "frases": [
+        { "t": "How long have you lived in Lima?", "es": "¿Cuánto tiempo llevas viviendo en Lima?", "pron": "jau long jav iu livd in lima" },
+        { "t": "I've lived here since I was a child.", "es": "Vivo aquí desde que era niño.", "pron": "aiv livd jíar sins ai uas a chaild" },
+        { "t": "They have been married for ten years.", "es": "Llevan diez años casados.", "pron": "dei jav bin márid for ten iirs" },
+        { "t": "We have rented this apartment since June.", "es": "Alquilamos este departamento desde junio.", "pron": "ui jav réntid dis apártment sins yun" },
+        { "t": "It has rained three days in a row.", "es": "Ha llovido tres días seguidos.", "pron": "it jas reind zri deis in a rou" }
+      ],
+      "dialogo": {
+        "titulo": "Un barrio nuevo",
+        "lineas": [
+          { "q": "A", "t": "How long have you lived in this neighborhood?", "es": "¿Cuánto tiempo llevas viviendo en este barrio?" },
+          { "q": "B", "t": "Since last summer. We rent a small house near the park.", "es": "Desde el verano pasado. Alquilamos una casa pequeña cerca del parque." },
+          { "q": "A", "t": "Do you like it?", "es": "¿Te gusta?" },
+          { "q": "B", "t": "Yes. We've already met most of our neighbors. Everyone has been very friendly.", "es": "Sí. Ya conocimos a casi todos los vecinos. Todos han sido muy amables." },
+          { "q": "A", "t": "That's great. I've lived here for fifteen years and I still don't know mine!", "es": "Qué bien. Yo vivo aquí hace quince años y ¡aún no conozco a los míos!" }
+        ]
+      },
+      "nota": "Con be, have, know y live el presente perfecto simple es lo natural: I've known her for years. Evita «I know her for years»."
+    },
+    {
+      "id": "en-b1-u2-l3",
+      "n": 3,
+      "titulo": "Just, already, yet y still",
+      "objetivo": "Usar just, already, yet y still con el presente perfecto.",
+      "intro": "Estas palabras sitúan la acción respecto al presente. Truco: just = acabo de, already = ya (en afirmativas), yet = todavía no / ya (en negativas y preguntas, al final), still = aún (con negación, antes de haven't).",
+      "palabras": [
+        { "t": "just", "es": "acabar de", "pron": "yast", "ej": "I have just finished my work.", "ejes": "Acabo de terminar mi trabajo.", "cog": false },
+        { "t": "already", "es": "ya", "pron": "olrédi", "ej": "She has already left.", "ejes": "Ella ya se fue.", "cog": false },
+        { "t": "yet", "es": "todavía / ya (pregunta)", "pron": "iet", "ej": "Have you eaten yet?", "ejes": "¿Ya comiste?", "cog": false },
+        { "t": "still", "es": "todavía / aún", "pron": "stil", "ej": "I still haven't called him.", "ejes": "Todavía no lo he llamado.", "cog": false },
+        { "t": "recently", "es": "recientemente", "pron": "rísentli", "ej": "I have recently changed jobs.", "ejes": "Recientemente cambié de trabajo.", "cog": true },
+        { "t": "lately", "es": "últimamente", "pron": "léitli", "ej": "I have been tired lately.", "ejes": "He estado cansado últimamente.", "cog": false },
+        { "t": "so far", "es": "hasta ahora", "pron": "sou far", "ej": "So far, it has been a good week.", "ejes": "Hasta ahora, ha sido una buena semana.", "cog": false },
+        { "t": "deadline", "es": "fecha límite", "pron": "dédlain", "ej": "The deadline is on Friday.", "ejes": "La fecha límite es el viernes.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I have just finished my work.", "es": "Acabo de terminar mi trabajo.", "pron": "ai jav yast fínisht mai uerk" },
+        { "t": "She has already left.", "es": "Ella ya se fue.", "pron": "shi jas olrédi left" },
+        { "t": "Have you eaten yet?", "es": "¿Ya comiste?", "pron": "jav iu íten iet" },
+        { "t": "I haven't sent the email yet.", "es": "Todavía no he enviado el correo.", "pron": "ai jávent sent di ímeil iet" },
+        { "t": "So far, it has been a good week.", "es": "Hasta ahora, ha sido una buena semana.", "pron": "sou far, it jas bin a gud uik" }
+      ],
+      "dialogo": {
+        "titulo": "Antes de la fecha límite",
+        "lineas": [
+          { "q": "A", "t": "Have you finished the report yet?", "es": "¿Ya terminaste el informe?" },
+          { "q": "B", "t": "Almost. I've already written the main part.", "es": "Casi. Ya escribí la parte principal." },
+          { "q": "A", "t": "Has the manager seen it?", "es": "¿La gerente lo ha visto?" },
+          { "q": "B", "t": "Not yet. I've just sent it to her, so I'm waiting for her answer.", "es": "Todavía no. Se lo acabo de enviar, así que espero su respuesta." },
+          { "q": "A", "t": "Great. The deadline is tomorrow and I still haven't started mine!", "es": "Genial. La fecha límite es mañana y ¡yo aún no empiezo el mío!" }
+        ]
+      },
+      "nota": "Yet va casi siempre al final de la oración y solo en negativas y preguntas. Already va entre have y el participio: I have already eaten."
+    },
+    {
+      "id": "en-b1-u2-l4",
+      "n": 4,
+      "titulo": "Presente perfecto o pasado simple",
+      "objetivo": "Elegir entre presente perfecto y pasado simple.",
+      "intro": "Si dices cuándo pasó (yesterday, in 2020, two years ago), usa el pasado simple. Si el tiempo no importa o sigue abierto (today, this week, so far), usa el presente perfecto. Truco: fecha precisa = pasado.",
+      "palabras": [
+        { "t": "ago", "es": "hace (tiempo)", "pron": "agóu", "ej": "I moved here three years ago.", "ejes": "Me mudé aquí hace tres años.", "cog": false },
+        { "t": "yesterday", "es": "ayer", "pron": "iésterdei", "ej": "I called her yesterday.", "ejes": "La llamé ayer.", "cog": false },
+        { "t": "last year", "es": "el año pasado", "pron": "last iir", "ej": "We traveled to Cusco last year.", "ejes": "Viajamos a Cusco el año pasado.", "cog": false },
+        { "t": "this week", "es": "esta semana", "pron": "dis uik", "ej": "I have worked a lot this week.", "ejes": "He trabajado mucho esta semana.", "cog": false },
+        { "t": "so far today", "es": "hasta ahora hoy", "pron": "sou far tudéi", "ej": "I have drunk three coffees so far today.", "ejes": "Me he tomado tres cafés hasta ahora hoy.", "cog": false },
+        { "t": "in 2019", "es": "en 2019", "pron": "in tuénti naintín", "ej": "She graduated in 2019.", "ejes": "Ella se graduó en 2019.", "cog": false },
+        { "t": "when", "es": "cuando", "pron": "uen", "ej": "When did you arrive?", "ejes": "¿Cuándo llegaste?", "cog": false },
+        { "t": "graduate", "es": "graduarse", "pron": "grádiuet", "ej": "I want to graduate next year.", "ejes": "Quiero graduarme el próximo año.", "cog": true }
+      ],
+      "frases": [
+        { "t": "I moved here three years ago.", "es": "Me mudé aquí hace tres años.", "pron": "ai muvd jíar zri iirs agóu" },
+        { "t": "I have lived here for three years.", "es": "Vivo aquí desde hace tres años.", "pron": "ai jav livd jíar for zri iirs" },
+        { "t": "When did you arrive?", "es": "¿Cuándo llegaste?", "pron": "uen did iu aráiv" },
+        { "t": "Have you ever been to Brazil?", "es": "¿Has estado alguna vez en Brasil?", "pron": "jav iu éver bin tu brasíl" },
+        { "t": "I went there in 2019.", "es": "Fui allí en 2019.", "pron": "ai uent der in tuénti naintín" },
+        { "t": "I have drunk three coffees so far today.", "es": "Me he tomado tres cafés hasta ahora hoy.", "pron": "ai jav drank zri cófis sou far tudéi" }
+      ],
+      "dialogo": {
+        "titulo": "Una entrevista",
+        "lineas": [
+          { "q": "A", "t": "Have you ever worked abroad?", "es": "¿Has trabajado alguna vez en el extranjero?" },
+          { "q": "B", "t": "Yes, I worked in Chile in 2019.", "es": "Sí, trabajé en Chile en 2019." },
+          { "q": "A", "t": "When did you come back?", "es": "¿Cuándo volviste?" },
+          { "q": "B", "t": "Two years ago. Since then, I've worked in Lima.", "es": "Hace dos años. Desde entonces, trabajo en Lima." },
+          { "q": "A", "t": "Interesting. Have you had any other jobs this year?", "es": "Interesante. ¿Has tenido otros trabajos este año?" }
+        ]
+      },
+      "nota": "Truco de entrevista: la pregunta general va en presente perfecto (Have you ever...?) y los detalles en pasado simple (When did you...? Where did you...?)."
+    },
+    {
+      "id": "en-b1-u2-l5",
+      "n": 5,
+      "titulo": "Repaso: mi historia hasta hoy",
+      "objetivo": "Contar tu historia combinando presente perfecto y pasado simple.",
+      "intro": "Repasamos for, since, just, already, yet y la elección entre perfecto y pasado. Truco: empieza con una frase en perfecto (I've lived in Lima for ten years) y da los detalles en pasado (I moved here in 2015).",
+      "palabras": [
+        { "t": "career", "es": "carrera profesional", "pron": "caríer", "ej": "She has a successful career.", "ejes": "Ella tiene una carrera exitosa.", "cog": true },
+        { "t": "achieve", "es": "lograr", "pron": "achív", "ej": "I want to achieve my goals.", "ejes": "Quiero lograr mis metas.", "cog": false },
+        { "t": "improve", "es": "mejorar", "pron": "imprúv", "ej": "I want to improve my English.", "ejes": "Quiero mejorar mi inglés.", "cog": false },
+        { "t": "experience", "es": "experiencia", "pron": "ekspíriens", "ej": "I have a lot of experience.", "ejes": "Tengo mucha experiencia.", "cog": true },
+        { "t": "retire", "es": "jubilarse", "pron": "ritáier", "ej": "My father wants to retire soon.", "ejes": "Mi padre quiere jubilarse pronto.", "cog": false },
+        { "t": "settle down", "es": "sentar cabeza / asentarse", "pron": "sétol daun", "ej": "I want to settle down in Lima.", "ejes": "Quiero asentarme en Lima.", "cog": false },
+        { "t": "keep in touch", "es": "mantenerse en contacto", "pron": "kip in tach", "ej": "Let's keep in touch.", "ejes": "Mantengámonos en contacto.", "cog": false },
+        { "t": "lose touch", "es": "perder el contacto", "pron": "lus tach", "ej": "I don't want to lose touch with you.", "ejes": "No quiero perder el contacto contigo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I have lived in Lima for ten years.", "es": "Vivo en Lima desde hace diez años.", "pron": "ai jav livd in lima for ten iirs" },
+        { "t": "I moved here in 2015.", "es": "Me mudé aquí en 2015.", "pron": "ai muvd jíar in tuénti fiftín" },
+        { "t": "She has worked in sales since she graduated.", "es": "Ella trabaja en ventas desde que se graduó.", "pron": "shi jas uérkt in séils sins shi grádiueitid" },
+        { "t": "We haven't lost touch since school.", "es": "No hemos perdido el contacto desde el colegio.", "pron": "ui jávent lost tach sins scul" },
+        { "t": "Have you improved your English yet?", "es": "¿Ya mejoraste tu inglés?", "pron": "jav iu imprúvd iur ínglish iet" }
+      ],
+      "dialogo": {
+        "titulo": "Reencuentro",
+        "lineas": [
+          { "q": "A", "t": "Daniel! I haven't seen you since school.", "es": "¡Daniel! No te veo desde el colegio." },
+          { "q": "B", "t": "Wow, it's been twelve years! What have you been up to?", "es": "¡Vaya, han pasado doce años! ¿Qué has hecho?" },
+          { "q": "A", "t": "I studied law, and I've worked as a lawyer since 2018. And you?", "es": "Estudié derecho y trabajo de abogada desde 2018. ¿Y tú?" },
+          { "q": "B", "t": "I moved to Arequipa in 2016. I've had my own business for four years.", "es": "Me mudé a Arequipa en 2016. Tengo mi propio negocio hace cuatro años." },
+          { "q": "A", "t": "That's great. Let's keep in touch this time!", "es": "Qué bien. ¡Mantengámonos en contacto esta vez!" }
+        ]
+      },
+      "nota": "What have you been up to? es la forma natural de preguntar «¿qué has hecho últimamente?» a alguien que no ves hace tiempo."
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "id": "it-b1-u10",
+  "idioma": "it",
+  "nivel": "B1",
+  "n": 10,
+  "titulo": "Tecnología y redes",
+  "resumen": "Aprenderás vocabulario de tecnología y redes sociales, y a decir lo que estás haciendo ahora con «sto + gerundio».",
+  "puedo": [
+    "Nombrar dispositivos y partes: schermo, tastiera, batteria.",
+    "Usar verbos de tecnología: scaricare, installare, aggiornare.",
+    "Decir lo que estoy haciendo con «sto + gerundio».",
+    "Hablar de redes sociales y mensajes.",
+    "Usar «per» y «prima di» con infinitivo."
+  ],
+  "gramatica": {
+    "titulo": "Gerundio: stare + -ando / -endo",
+    "texto": "Para decir lo que estás haciendo ahora mismo, usa «stare» + gerundio, igual que «estar + gerundio» en español.\nEl gerundio se forma así: verbos en -are cambian a -ando (guardare → guardando); verbos en -ere/-ire cambian a -endo (scrivere → scrivendo, partire → partendo).\nStare se conjuga: sto, stai, sta, stiamo, state, stanno.\nSto scaricando un file. = Estoy descargando un archivo.\nIrregulares comunes: fare → facendo, dire → dicendo, bere → bevendo.\nEl infinitivo se usa tras preposiciones: prima di installare, per scaricare, senza pagare.",
+    "tabla": [
+      ["sto guardando", "estoy mirando", "sto guardándo"],
+      ["stai scrivendo", "estás escribiendo", "stái scrivéndo"],
+      ["sta aspettando", "está esperando", "sta aspettándo"],
+      ["stiamo facendo", "estamos haciendo", "stiámo fachéndo"],
+      ["stanno dicendo", "están diciendo", "stánno dichéndo"],
+      ["prima di installare", "antes de instalar", "príma di installáre"]
+    ],
+    "errores": [
+      "No uses «essere» para la acción en curso: «sto scaricando», no «sono scaricando».",
+      "Tras «prima di», «per» y «senza» va infinitivo, nunca gerundio: «prima di partire», no «prima di partendo».",
+      "Para hablar de rutina no uses el gerundio: «lavoro ogni giorno», no «sto lavorando ogni giorno»."
+    ]
+  },
+  "practica": [
+    "Mira a tu alrededor y di cinco frases con «sto + gerundio» sobre lo que haces ahora (4 minutos).",
+    "Cambia el idioma de tu celular a italiano durante un día y anota cinco palabras nuevas (10 minutos).",
+    "Escribe un mensaje de WhatsApp de tres líneas a un amigo con «sto... », «prima di...» y «per...» (5 minutos).",
+    "Mira un video de un youtuber italiano de tecnología durante 5 minutos y anota los verbos que oigas."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b1-u10-l1",
+      "n": 1,
+      "titulo": "Dispositivos y partes",
+      "objetivo": "Nombrar los aparatos y partes más comunes.",
+      "intro": "Muchas palabras son cognados o se parecen a las inglesas. Truco: «il computer» y «il cellulare» se usan igual que en español, pero «il portatile» es la laptop.",
+      "palabras": [
+        { "t": "il cellulare", "es": "el celular", "pron": "il chellulláre", "ej": "Il cellulare è nuovo.", "ejes": "El celular es nuevo.", "cog": false },
+        { "t": "il computer", "es": "la computadora", "pron": "il compiúter", "ej": "Il computer è lento.", "ejes": "La computadora es lenta.", "cog": true },
+        { "t": "il portatile", "es": "la laptop", "pron": "il portátile", "ej": "Porto il portatile in ufficio.", "ejes": "Llevo la laptop a la oficina.", "cog": false },
+        { "t": "lo schermo", "es": "la pantalla", "pron": "lo skérmo", "ej": "Lo schermo è rotto.", "ejes": "La pantalla está rota.", "cog": false },
+        { "t": "la tastiera", "es": "el teclado", "pron": "la tastiéra", "ej": "La tastiera non funziona.", "ejes": "El teclado no funciona.", "cog": false },
+        { "t": "la batteria", "es": "la batería", "pron": "la batería", "ej": "La batteria è scarica.", "ejes": "La batería está descargada.", "cog": true },
+        { "t": "il caricabatterie", "es": "el cargador", "pron": "il caricabatteríe", "ej": "Dov'è il caricabatterie?", "ejes": "¿Dónde está el cargador?", "cog": false },
+        { "t": "la connessione", "es": "la conexión", "pron": "la connessióne", "ej": "La connessione è lenta.", "ejes": "La conexión es lenta.", "cog": true },
+        { "t": "il wifi", "es": "el wifi", "pron": "il uáifai", "ej": "Il wifi non funziona.", "ejes": "El wifi no funciona.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Il mio cellulare è nuovo.", "es": "Mi celular es nuevo.", "pron": "il mío chellulláre é nuóvo" },
+        { "t": "Lo schermo è rotto.", "es": "La pantalla está rota.", "pron": "lo skérmo é rótto" },
+        { "t": "La batteria è scarica.", "es": "La batería está descargada.", "pron": "la batería é scárica" },
+        { "t": "Dov'è il caricabatterie?", "es": "¿Dónde está el cargador?", "pron": "dové il caricabatteríe" },
+        { "t": "La connessione è molto lenta.", "es": "La conexión es muy lenta.", "pron": "la connessióne é mólto lénta" }
+      ],
+      "dialogo": {
+        "titulo": "Un problema con el celular",
+        "lineas": [
+          { "q": "A", "t": "Il mio cellulare non funziona.", "es": "Mi celular no funciona." },
+          { "q": "B", "t": "La batteria è scarica?", "es": "¿La batería está descargada?" },
+          { "q": "A", "t": "Sì, ma non trovo il caricabatterie.", "es": "Sí, pero no encuentro el cargador." },
+          { "q": "B", "t": "Prendi il mio. Poi controlla la connessione.", "es": "Toma el mío. Luego revisa la conexión." },
+          { "q": "A", "t": "Grazie, sei un amico!", "es": "¡Gracias, eres un amigo!" }
+        ]
+      },
+      "nota": "«Scarico/scarica» significa descargado (batería) y también se usa para «descargar» un archivo. «Il portatile» es la laptop; «il pc» también se dice. Wifi se escribe igual en italiano."
+    },
+    {
+      "id": "it-b1-u10-l2",
+      "n": 2,
+      "titulo": "Verbos de tecnología",
+      "objetivo": "Usar los verbos básicos para usar aparatos y programas.",
+      "intro": "Casi todos son verbos en -are muy regulares. Truco: si terminan en -are y te parecen familiares (installare, salvare), son del grupo regular.",
+      "palabras": [
+        { "t": "scaricare", "es": "descargar", "pron": "scaricáre", "ej": "Devo scaricare un file.", "ejes": "Debo descargar un archivo.", "cog": false },
+        { "t": "installare", "es": "instalar", "pron": "installáre", "ej": "Voglio installare l'app.", "ejes": "Quiero instalar la app.", "cog": true },
+        { "t": "aggiornare", "es": "actualizar", "pron": "addyornáre", "ej": "Devo aggiornare il telefono.", "ejes": "Debo actualizar el teléfono.", "cog": false },
+        { "t": "salvare", "es": "guardar (un archivo)", "pron": "salváre", "ej": "Non dimenticare di salvare.", "ejes": "No olvides guardar.", "cog": true },
+        { "t": "cliccare", "es": "hacer clic", "pron": "clicáre", "ej": "Devi cliccare qui.", "ejes": "Debes hacer clic aquí.", "cog": true },
+        { "t": "inviare", "es": "enviar", "pron": "inviáre", "ej": "Posso inviare la foto?", "ejes": "¿Puedo enviar la foto?", "cog": true },
+        { "t": "cercare", "es": "buscar", "pron": "cherkáre", "ej": "Vado a cercare su internet.", "ejes": "Voy a buscar en internet.", "cog": false },
+        { "t": "spegnere", "es": "apagar", "pron": "spéñere", "ej": "Devo spegnere il computer.", "ejes": "Debo apagar la computadora.", "cog": false, "truco": "Irregular: spengo, spegni, spegne..." },
+        { "t": "accendere", "es": "encender", "pron": "achéndere", "ej": "Puoi accendere lo schermo?", "ejes": "¿Puedes encender la pantalla?", "cog": false }
+      ],
+      "frases": [
+        { "t": "Devo scaricare un'app.", "es": "Debo descargar una app.", "pron": "dévo scaricáre unáp" },
+        { "t": "Posso installare questo programma?", "es": "¿Puedo instalar este programa?", "pron": "pósso installáre cuésto prográmma" },
+        { "t": "Aggiorna il telefono, per favore.", "es": "Actualiza el teléfono, por favor.", "pron": "addyórna il teléfono, per favóre" },
+        { "t": "Non dimenticare di salvare il file.", "es": "No olvides guardar el archivo.", "pron": "non dimenticáre di salváre il fáile" },
+        { "t": "Clicca qui per inviare la mail.", "es": "Haz clic aquí para enviar el correo.", "pron": "clícca cui per inviáre la méil" }
+      ],
+      "dialogo": {
+        "titulo": "Ayudando a un colega",
+        "lineas": [
+          { "q": "A", "t": "Non riesco a installare il programma.", "es": "No logro instalar el programa." },
+          { "q": "B", "t": "Devi prima scaricare l'aggiornamento.", "es": "Primero debes descargar la actualización." },
+          { "q": "A", "t": "Dove devo cliccare?", "es": "¿Dónde debo hacer clic?" },
+          { "q": "B", "t": "Qui. Poi spegni il computer e riaccendilo.", "es": "Aquí. Luego apaga la computadora y vuelve a encenderla." },
+          { "q": "A", "t": "Ora funziona, grazie!", "es": "¡Ahora funciona, gracias!" }
+        ]
+      },
+      "nota": "«Aggiornare» tiene dos g: «aggiornare, aggiornamento». «Salvare» sirve para guardar un archivo; para guardar una cosa en un lugar se usa «mettere» o «tenere». «Riaccendilo» es una orden con pronombre; apréndela como frase."
+    },
+    {
+      "id": "it-b1-u10-l3",
+      "n": 3,
+      "titulo": "Estoy haciendo: stare + gerundio",
+      "objetivo": "Decir qué estoy haciendo ahora.",
+      "intro": "Se forma con «stare» más el gerundio. Truco: -are → -ando, -ere/-ire → -endo, como el español «-ando / -iendo».",
+      "palabras": [
+        { "t": "sto scaricando", "es": "estoy descargando", "pron": "sto scaricándo", "ej": "Sto scaricando un film.", "ejes": "Estoy descargando una película.", "cog": false },
+        { "t": "sto scrivendo", "es": "estoy escribiendo", "pron": "sto scrivéndo", "ej": "Sto scrivendo una mail.", "ejes": "Estoy escribiendo un correo.", "cog": false },
+        { "t": "sto guardando", "es": "estoy mirando", "pron": "sto guardándo", "ej": "Sto guardando un video.", "ejes": "Estoy mirando un video.", "cog": false },
+        { "t": "sta aspettando", "es": "está esperando", "pron": "sta aspettándo", "ej": "Anna sta aspettando una chiamata.", "ejes": "Ana está esperando una llamada.", "cog": false },
+        { "t": "sta cercando", "es": "está buscando", "pron": "sta cherkándo", "ej": "Marco sta cercando il file.", "ejes": "Marco está buscando el archivo.", "cog": false },
+        { "t": "stiamo facendo", "es": "estamos haciendo", "pron": "stiámo fachéndo", "ej": "Stiamo facendo una videochiamata.", "ejes": "Estamos haciendo una videollamada.", "cog": false, "truco": "Fare es irregular: facendo." },
+        { "t": "stanno dicendo", "es": "están diciendo", "pron": "stánno dichéndo", "ej": "Stanno dicendo la verità.", "ejes": "Están diciendo la verdad.", "cog": false, "truco": "Dire es irregular: dicendo." },
+        { "t": "la videochiamata", "es": "la videollamada", "pron": "la videoquiamáta", "ej": "La videochiamata inizia alle tre.", "ejes": "La videollamada empieza a las tres.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Sto scaricando un video.", "es": "Estoy descargando un video.", "pron": "sto scaricándo un vídeo" },
+        { "t": "Che cosa stai facendo?", "es": "¿Qué estás haciendo?", "pron": "ke cósa stái fachéndo" },
+        { "t": "Sto aspettando una chiamata.", "es": "Estoy esperando una llamada.", "pron": "sto aspettándo úna quiamáta" },
+        { "t": "Marco sta scrivendo una mail.", "es": "Marco está escribiendo un correo.", "pron": "márco sta scrivéndo úna méil" },
+        { "t": "Stiamo facendo una videochiamata.", "es": "Estamos haciendo una videollamada.", "pron": "stiámo fachéndo úna videoquiamáta" }
+      ],
+      "dialogo": {
+        "titulo": "Una videollamada",
+        "lineas": [
+          { "q": "A", "t": "Pronto? Che cosa stai facendo?", "es": "¿Aló? ¿Qué estás haciendo?" },
+          { "q": "B", "t": "Sto scrivendo una mail. E tu?", "es": "Estoy escribiendo un correo. ¿Y tú?" },
+          { "q": "A", "t": "Sto aspettando la videochiamata con Marco.", "es": "Estoy esperando la videollamada con Marco." },
+          { "q": "B", "t": "Che cosa sta facendo Marco?", "es": "¿Qué está haciendo Marco?" },
+          { "q": "A", "t": "Sta cercando il file della riunione.", "es": "Está buscando el archivo de la reunión." }
+        ]
+      },
+      "nota": "El gerundio italiano no cambia con las personas: solo cambia «stare» (sto, stai, sta, stiamo, state, stanno). También puedes decir «scrivo una mail» para algo habitual o ahora; el gerundio resalta que es en este momento."
+    },
+    {
+      "id": "it-b1-u10-l4",
+      "n": 4,
+      "titulo": "Redes sociales y mensajes",
+      "objetivo": "Hablar de redes sociales con vocabulario cotidiano.",
+      "intro": "Las redes sociales son parte de la vida diaria. Truco: «seguire» es follow, «il post» se usa igual, y «mettere mi piace» es dar like.",
+      "palabras": [
+        { "t": "il profilo", "es": "el perfil", "pron": "il prófilo", "ej": "Il profilo di Anna è bello.", "ejes": "El perfil de Ana es bonito.", "cog": true },
+        { "t": "il post", "es": "la publicación", "pron": "il post", "ej": "Il post è molto bello.", "ejes": "La publicación es muy bonita.", "cog": true },
+        { "t": "il messaggio", "es": "el mensaje", "pron": "il messáddyo", "ej": "Il messaggio è arrivato.", "ejes": "El mensaje llegó.", "cog": true },
+        { "t": "la chat", "es": "el chat", "pron": "la chat", "ej": "La chat di gruppo è attiva.", "ejes": "El chat de grupo está activo.", "cog": true },
+        { "t": "la password", "es": "la contraseña", "pron": "la pásuord", "ej": "Ho dimenticato la password.", "ejes": "Olvidé la contraseña.", "cog": false },
+        { "t": "mettere mi piace", "es": "dar me gusta", "pron": "méttere mi piáche", "ej": "Voglio mettere mi piace a questa foto.", "ejes": "Quiero dar me gusta a esta foto.", "cog": false },
+        { "t": "condividere", "es": "compartir", "pron": "condivídere", "ej": "Posso condividere il tuo post?", "ejes": "¿Puedo compartir tu publicación?", "cog": false },
+        { "t": "il follower", "es": "el seguidor", "pron": "il fóllouer", "ej": "Il follower nuovo è Anna.", "ejes": "El seguidor nuevo es Ana.", "cog": false },
+        { "t": "la privacy", "es": "la privacidad", "pron": "la prívasi", "ej": "La privacy è importante.", "ejes": "La privacidad es importante.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Ho dimenticato la password.", "es": "Olvidé la contraseña.", "pron": "o dimenticáto la pásuord" },
+        { "t": "Ho ricevuto un messaggio da Laura.", "es": "Recibí un mensaje de Laura.", "pron": "o richevúto un messáddyo da láura" },
+        { "t": "Metto mi piace al tuo post.", "es": "Le doy me gusta a tu publicación.", "pron": "métto mi piáche al túo post" },
+        { "t": "Nella chat di gruppo tutti parlano.", "es": "En el chat de grupo todos hablan.", "pron": "néla chat di grúppo túti párlano" },
+        { "t": "La privacy online è molto importante.", "es": "La privacidad en línea es muy importante.", "pron": "la prívasi onláin é mólto importánte" }
+      ],
+      "dialogo": {
+        "titulo": "Un perfil nuevo",
+        "lineas": [
+          { "q": "A", "t": "Hai creato un profilo nuovo?", "es": "¿Creaste un perfil nuevo?" },
+          { "q": "B", "t": "Sì, ma ho dimenticato la password.", "es": "Sí, pero olvidé la contraseña." },
+          { "q": "A", "t": "Puoi cambiarla. Poi scrivi un post.", "es": "Puedes cambiarla. Luego escribe una publicación." },
+          { "q": "B", "t": "Va bene. Chi mi segue per primo?", "es": "Está bien. ¿Quién me sigue primero?" },
+          { "q": "A", "t": "Io! Metto subito mi piace.", "es": "¡Yo! Le doy me gusta de inmediato." }
+        ]
+      },
+      "nota": "«Seguire» significa seguir en redes: «Ti seguo su Instagram» (te sigo en Instagram). «La password» es femenina en italiano. «Dimenticare» se usa con avere: «ho dimenticato»."
+    },
+    {
+      "id": "it-b1-u10-l5",
+      "n": 5,
+      "titulo": "Repaso: mi día conectado",
+      "objetivo": "Combinar vocabulario, gerundio e infinitivo para describir mi uso de la tecnología.",
+      "intro": "Junta todo: aparatos, verbos y gerundio. Truco: tras «per», «prima di» y «senza» usa siempre infinitivo.",
+      "palabras": [
+        { "t": "navigare", "es": "navegar", "pron": "navigáre", "ej": "Mi piace navigare in internet.", "ejes": "Me gusta navegar en internet.", "cog": true },
+        { "t": "la rete", "es": "la red", "pron": "la réte", "ej": "La rete è lenta oggi.", "ejes": "La red está lenta hoy.", "cog": false },
+        { "t": "l'applicazione", "es": "la aplicación", "pron": "lapplicatsióne", "ej": "L'applicazione è gratis.", "ejes": "La aplicación es gratis.", "cog": true },
+        { "t": "il sito web", "es": "el sitio web", "pron": "il síto ueb", "ej": "Il sito web è chiaro.", "ejes": "El sitio web es claro.", "cog": true },
+        { "t": "la mail", "es": "el correo", "pron": "la méil", "ej": "Controllo la mail ogni ora.", "ejes": "Reviso el correo cada hora.", "cog": true },
+        { "t": "senza", "es": "sin", "pron": "séntsa", "ej": "Non esco senza il cellulare.", "ejes": "No salgo sin el celular.", "cog": false },
+        { "t": "prima di", "es": "antes de", "pron": "príma di", "ej": "Prima di dormire guardo il telefono.", "ejes": "Antes de dormir miro el teléfono.", "cog": false },
+        { "t": "per", "es": "para", "pron": "per", "ej": "Uso internet per studiare.", "ejes": "Uso internet para estudiar.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Uso internet per studiare l'italiano.", "es": "Uso internet para estudiar italiano.", "pron": "úso internét per studiáre litaliáno" },
+        { "t": "Prima di dormire spengo il telefono.", "es": "Antes de dormir apago el teléfono.", "pron": "príma di dormíre spéngo il teléfono" },
+        { "t": "Non esco senza il caricabatterie.", "es": "No salgo sin el cargador.", "pron": "non éscho séntsa il caricabatteríe" },
+        { "t": "Sto navigando sul sito web.", "es": "Estoy navegando en el sitio web.", "pron": "sto navigándo sul síto ueb" },
+        { "t": "Che cosa stai installando?", "es": "¿Qué estás instalando?", "pron": "ke cósa stái installándo" }
+      ],
+      "dialogo": {
+        "titulo": "Una noche conectada",
+        "lineas": [
+          { "q": "A", "t": "Che cosa stai facendo al computer?", "es": "¿Qué estás haciendo en la computadora?" },
+          { "q": "B", "t": "Sto cercando un'applicazione per imparare l'italiano.", "es": "Estoy buscando una aplicación para aprender italiano." },
+          { "q": "A", "t": "Prima di installare, controlla la privacy.", "es": "Antes de instalar, revisa la privacidad." },
+          { "q": "B", "t": "Hai ragione. Ora leggo le recensioni.", "es": "Tienes razón. Ahora leo las reseñas." },
+          { "q": "A", "t": "Bene, io sto andando a dormire senza il telefono!", "es": "Bien, ¡yo me voy a dormir sin el teléfono!" }
+        ]
+      },
+      "nota": "«Navigare in internet» es la forma habitual; también «navigare sul web». «Sto andando» es el gerundio de andare. «Senza» + infinitivo: «senza pensare» = sin pensar."
+    }
+  ]
+}

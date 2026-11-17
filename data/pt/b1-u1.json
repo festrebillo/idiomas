@@ -1,0 +1,227 @@
+{
+  "id": "pt-b1-u1",
+  "idioma": "pt",
+  "nivel": "B1",
+  "n": 1,
+  "titulo": "Contar historias",
+  "resumen": "Aprenderás a contar una historia combinando el pretérito perfeito (lo que pasó), el imperfeito (el fondo y los hábitos) y «estava + gerúndio» (lo que estaba pasando).",
+  "puedo": [
+    "Contar hechos terminados con el pretérito perfeito: acordei, perdi, cheguei.",
+    "Describir el escenario y los hábitos del pasado con el imperfeito: era, tinha, morava.",
+    "Decir qué estaba pasando con «estava + gerúndio».",
+    "Ordenar una historia con conectores: primeiro, depois, por fim.",
+    "Contar una anécdota corta de principio a fin."
+  ],
+  "gramatica": {
+    "titulo": "Perfeito para lo que pasó, imperfeito para el fondo",
+    "texto": "Al contar una historia usas dos pasados. El pretérito perfeito cuenta los hechos que ocurrieron y terminaron: Ontem eu perdi a chave (Ayer perdí la llave). El pretérito imperfeito pinta el escenario, los hábitos y lo que estaba en curso: Era noite e chovia (Era de noche y llovía).\nTruco: el perfeito es una foto de un hecho; el imperfeito es el fondo de la escena. Con frecuencia se combinan: Eu dormia quando o telefone tocou (Yo dormía cuando sonó el teléfono).\nPara una acción en curso también existe «estava + gerúndio»: Eu estava dormindo. Terminaciones del imperfeito en -ar: -ava (eu falava); en -er/-ir: -ia (eu comia). Irregulares: ser = era, ter = tinha, ir = ia, pôr = punha.",
+    "tabla": [
+      ["Eu perdi a chave.", "Perdí la llave. (hecho terminado)", "éu perdí a shávi"],
+      ["Eu morava em Lima.", "Yo vivía en Lima. (situación)", "éu morává ein lima"],
+      ["Era uma noite fria.", "Era una noche fría. (escenario)", "éra úma nóiti fría"],
+      ["Eu tinha dez anos.", "Yo tenía diez años.", "éu chínha dés ánus"],
+      ["Eu estava dormindo.", "Yo estaba durmiendo.", "éu estáva dormíndu"],
+      ["Chovia quando saí.", "Llovía cuando salí.", "shovía kuándu saí"]
+    ],
+    "errores": [
+      "No uses el perfeito para describir el escenario: se dice «Era noite», no «Foi noite» (cuando solo describes cómo era algo).",
+      "Cuidado con la ortografía: el perfeito de «eu falo» es «falei» y el imperfeito es «falava»; no confundas «falou» (él habló) con «falava» (él hablaba).",
+      "Ojo con «tive» (tuve, hecho puntual) y «tinha» (tenía, situación): «Tive medo» = me asusté; «Tinha medo» = solía tener miedo."
+    ]
+  },
+  "practica": [
+    "Cuenta en voz alta, en 6 frases, qué hiciste ayer con el perfeito (acordei, saí, cheguei...) (5 minutos).",
+    "Escribe un párrafo de 5 líneas sobre tu infancia con el imperfeito: Eu morava..., Eu tinha..., Eu brincava... (7 minutos).",
+    "Escribe una anécdota corta con 3 conectores (primeiro, depois, por fim) y léela en voz alta (8 minutos).",
+    "Mira un video corto en portugués de Brasil donde alguien cuente algo que le pasó y anota 5 verbos en pasado que oigas (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b1-u1-l1",
+      "n": 1,
+      "titulo": "Lo que pasó: pretérito perfeito",
+      "objetivo": "Contar hechos terminados del pasado con el pretérito perfeito.",
+      "intro": "El perfeito cuenta lo que sucedió y se acabó. Truco: en -ar la terminación de «eu» es -ei (falei) y en -er/-ir es -i (comi, saí).",
+      "palabras": [
+        { "t": "ontem", "es": "ayer", "pron": "ónteim", "ej": "Eu cheguei tarde ontem.", "ejes": "Llegué tarde ayer.", "cog": false },
+        { "t": "acordei", "es": "me desperté", "pron": "akordéi", "ej": "Hoje eu acordei às seis.", "ejes": "Hoy me desperté a las seis.", "cog": false, "truco": "Infinitivo: acordar." },
+        { "t": "perdi", "es": "perdí", "pron": "perdí", "ej": "Ontem eu perdi o ônibus.", "ejes": "Ayer perdí el autobús.", "cog": false },
+        { "t": "encontrei", "es": "encontré", "pron": "enkontréi", "ej": "Eu encontrei uma carteira na rua.", "ejes": "Encontré una billetera en la calle.", "cog": false },
+        { "t": "aconteceu", "es": "ocurrió / pasó", "pron": "akontesséu", "ej": "O que aconteceu com você?", "ejes": "¿Qué te pasó?", "cog": false, "truco": "Infinitivo: acontecer." },
+        { "t": "de repente", "es": "de repente", "pron": "dyi repéinchi", "ej": "Eu andava e, de repente, caiu uma chuva forte.", "ejes": "Caminaba y, de repente, cayó una lluvia fuerte.", "cog": false },
+        { "t": "esqueci", "es": "olvidé", "pron": "eskesí", "ej": "Eu esqueci a senha do e-mail.", "ejes": "Olvidé la contraseña del correo.", "cog": false },
+        { "t": "cheguei", "es": "llegué", "pron": "shegéi", "ej": "Eu cheguei em casa às oito.", "ejes": "Llegué a casa a las ocho.", "cog": false },
+        { "t": "semana passada", "es": "semana pasada", "pron": "semána pasáda", "ej": "Eu viajei na semana passada.", "ejes": "Viajé la semana pasada.", "cog": false },
+        { "t": "saí", "es": "salí", "pron": "saí", "ej": "Eu saí cedo do trabalho.", "ejes": "Salí temprano del trabajo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Ontem eu perdi o ônibus.", "es": "Ayer perdí el autobús.", "pron": "ónteim éu perdí u ónibus" },
+        { "t": "O que aconteceu?", "es": "¿Qué pasó?", "pron": "u ki akontesséu" },
+        { "t": "Eu esqueci a chave em casa.", "es": "Olvidé la llave en casa.", "pron": "éu eskesí a shávi ein káza" },
+        { "t": "De repente, o telefone tocou.", "es": "De repente, sonó el teléfono.", "pron": "dyi repéinchi, u telefóni tokóu" },
+        { "t": "Na semana passada eu encontrei um velho amigo.", "es": "La semana pasada encontré a un viejo amigo.", "pron": "na semána pasáda éu enkontréi ún véliu amígu" }
+      ],
+      "dialogo": {
+        "titulo": "Um dia complicado",
+        "lineas": [
+          { "q": "A", "t": "Por que você chegou tarde ontem?", "es": "¿Por qué llegaste tarde ayer?" },
+          { "q": "B", "t": "Eu perdi o ônibus e esqueci o celular.", "es": "Perdí el autobús y olvidé el celular." },
+          { "q": "A", "t": "Que dia! E depois, o que aconteceu?", "es": "¡Qué día! ¿Y después, qué pasó?" },
+          { "q": "B", "t": "Eu encontrei um amigo e ele me deu carona.", "es": "Encontré a un amigo y me dio un aventón." },
+          { "q": "A", "t": "Que sorte! Eu cheguei cedo e saí tarde.", "es": "¡Qué suerte! Yo llegué temprano y salí tarde." }
+        ]
+      },
+      "nota": "Con «eu» el perfeito suena distinto al presente: falo (hablo) / falei (hablé); como / comi. El acento escrito importa: «saí» (salí) y «sai» (sale) son diferentes."
+    },
+    {
+      "id": "pt-b1-u1-l2",
+      "n": 2,
+      "titulo": "Cómo era: pretérito imperfeito",
+      "objetivo": "Describir el escenario y los hábitos del pasado con el imperfeito.",
+      "intro": "El imperfeito dice cómo era algo o qué se solía hacer. Truco: «-ava» para -ar (brincava) y «-ia» para -er/-ir (comia, partia).",
+      "palabras": [
+        { "t": "era", "es": "era / yo era", "pron": "éra", "ej": "Naquela época tudo era mais barato.", "ejes": "En aquella época todo era más barato.", "cog": false, "truco": "Imperfeito de ser." },
+        { "t": "tinha", "es": "tenía", "pron": "chínha", "ej": "Eu tinha uma bicicleta azul.", "ejes": "Yo tenía una bicicleta azul.", "cog": false, "truco": "Imperfeito de ter." },
+        { "t": "morava", "es": "vivía", "pron": "morává", "ej": "Minha avó morava no interior.", "ejes": "Mi abuela vivía en el interior.", "cog": false },
+        { "t": "brincava", "es": "jugaba", "pron": "brinkáva", "ej": "Eu brincava na rua com os vizinhos.", "ejes": "Yo jugaba en la calle con los vecinos.", "cog": false, "truco": "Brincar = jugar (los niños)." },
+        { "t": "costumava", "es": "solía", "pron": "kostumáva", "ej": "Eu costumava acordar cedo.", "ejes": "Yo solía despertarme temprano.", "cog": false },
+        { "t": "naquela época", "es": "en aquella época", "pron": "nakéla épuka", "ej": "Eu era feliz naquela época.", "ejes": "Yo era feliz en aquella época.", "cog": false },
+        { "t": "antigamente", "es": "antiguamente", "pron": "antigaméinchi", "ej": "Antigamente as pessoas escreviam cartas.", "ejes": "Antiguamente la gente escribía cartas.", "cog": true },
+        { "t": "criança", "es": "niño / niña", "pron": "kriánsa", "ej": "Quando eu era criança, eu amava o mar.", "ejes": "Cuando yo era niño, amaba el mar.", "cog": false },
+        { "t": "todo dia", "es": "todos los días", "pron": "tódu día", "ej": "Eu estudava todo dia depois da escola.", "ejes": "Yo estudiaba todos los días después de la escuela.", "cog": false },
+        { "t": "ia", "es": "iba", "pron": "ía", "ej": "Todo verão eu ia à casa da minha tia.", "ejes": "Cada verano iba a casa de mi tía.", "cog": false, "truco": "Imperfeito de ir." }
+      ],
+      "frases": [
+        { "t": "Quando eu era criança, eu morava em Lima.", "es": "Cuando yo era niño, vivía en Lima.", "pron": "kuándu éu éra kriánsa, éu morává ein lima" },
+        { "t": "Eu brincava na rua todo dia.", "es": "Yo jugaba en la calle todos los días.", "pron": "éu brinkáva na rúa tódu día" },
+        { "t": "Antigamente tudo era diferente.", "es": "Antiguamente todo era diferente.", "pron": "antigaméinchi túdu éra diferéinchi" },
+        { "t": "Eu costumava ir à praia no verão.", "es": "Yo solía ir a la playa en verano.", "pron": "éu kostumáva ír a práia nu veráun" },
+        { "t": "Meu pai tinha uma loja pequena.", "es": "Mi padre tenía una tienda pequeña.", "pron": "méu pái chínha úma lóji pekéna" }
+      ],
+      "dialogo": {
+        "titulo": "Quando eu era criança",
+        "lineas": [
+          { "q": "A", "t": "Onde você morava quando era criança?", "es": "¿Dónde vivías cuando eras niño?" },
+          { "q": "B", "t": "Eu morava em Arequipa, perto da casa dos meus avós.", "es": "Vivía en Arequipa, cerca de la casa de mis abuelos." },
+          { "q": "A", "t": "E o que você costumava fazer?", "es": "¿Y qué solías hacer?" },
+          { "q": "B", "t": "Eu brincava na rua todo dia com meus primos.", "es": "Jugaba en la calle todos los días con mis primos." },
+          { "q": "A", "t": "Que bom! Naquela época a vida era mais simples.", "es": "¡Qué lindo! En aquella época la vida era más simple." }
+        ]
+      },
+      "nota": "«Costumava + infinitivo» equivale a «solía + infinitivo». En Brasil también se usa el imperfeito solo para hábitos: «Eu ia à praia» puede significar «Yo iba (solía ir) a la playa»."
+    },
+    {
+      "id": "pt-b1-u1-l3",
+      "n": 3,
+      "titulo": "Lo que estaba pasando",
+      "objetivo": "Decir qué estaba pasando con «estava + gerúndio» y mezclarlo con el perfeito.",
+      "intro": "«Estava + -ndo» marca una acción en curso en el pasado. Truco: si algo interrumpe esa acción, usa «quando» + perfeito: Eu estava dormindo quando o telefone tocou.",
+      "palabras": [
+        { "t": "estava", "es": "estaba", "pron": "estáva", "ej": "Eu estava cansado depois do trabalho.", "ejes": "Yo estaba cansado después del trabajo.", "cog": false },
+        { "t": "chovendo", "es": "lloviendo", "pron": "shovéndu", "ej": "Estava chovendo quando eu saí.", "ejes": "Estaba lloviendo cuando salí.", "cog": false },
+        { "t": "dormindo", "es": "durmiendo", "pron": "dormíndu", "ej": "O bebê estava dormindo no sofá.", "ejes": "El bebé estaba durmiendo en el sofá.", "cog": false },
+        { "t": "enquanto", "es": "mientras", "pron": "enkuántu", "ej": "Enquanto eu cozinhava, ele via televisão.", "ejes": "Mientras yo cocinaba, él veía televisión.", "cog": false },
+        { "t": "tocou", "es": "sonó / tocó", "pron": "tokóu", "ej": "O telefone tocou no meio da reunião.", "ejes": "El teléfono sonó en medio de la reunión.", "cog": false },
+        { "t": "barulho", "es": "ruido", "pron": "barúliu", "ej": "Ouvi um barulho estranho na cozinha.", "ejes": "Oí un ruido extraño en la cocina.", "cog": false, "truco": "No es «barullo»: es ruido." },
+        { "t": "caminhando", "es": "caminando", "pron": "kamiñándu", "ej": "Eu estava caminhando pelo parque.", "ejes": "Yo estaba caminando por el parque.", "cog": false },
+        { "t": "no meio de", "es": "en medio de", "pron": "nu méiu dyi", "ej": "Ele chegou no meio de uma reunião.", "ejes": "Llegó en medio de una reunión.", "cog": false },
+        { "t": "ouvi", "es": "oí", "pron": "oví", "ej": "Eu ouvi alguém gritar.", "ejes": "Oí a alguien gritar.", "cog": false },
+        { "t": "assistindo", "es": "viendo (una serie, TV)", "pron": "asistíndu", "ej": "Nós estávamos assistindo a um filme.", "ejes": "Estábamos viendo una película.", "cog": false, "truco": "Assistir = ver una película o serie." }
+      ],
+      "frases": [
+        { "t": "Eu estava dormindo quando o telefone tocou.", "es": "Yo estaba durmiendo cuando sonó el teléfono.", "pron": "éu estáva dormíndu kuándu u telefóni tokóu" },
+        { "t": "Estava chovendo e eu estava sem guarda-chuva.", "es": "Estaba lloviendo y yo no tenía paraguas.", "pron": "estáva shovéndu i éu estáva sein guárda-shúva" },
+        { "t": "Enquanto eu caminhava, ouvi um barulho.", "es": "Mientras caminaba, oí un ruido.", "pron": "enkuántu éu kamiñáva, oví ún barúliu" },
+        { "t": "Nós estávamos assistindo a uma série.", "es": "Estábamos viendo una serie.", "pron": "nós estávamus asistíndu a úma séri" },
+        { "t": "O que você estava fazendo ontem à noite?", "es": "¿Qué estabas haciendo ayer por la noche?", "pron": "u ki vosé estáva fazéndu ónteim a nóiti" }
+      ],
+      "dialogo": {
+        "titulo": "Um susto no parque",
+        "lineas": [
+          { "q": "A", "t": "O que você estava fazendo quando ouviu o barulho?", "es": "¿Qué estabas haciendo cuando oíste el ruido?" },
+          { "q": "B", "t": "Eu estava caminhando pelo parque, tranquilo.", "es": "Estaba caminando por el parque, tranquilo." },
+          { "q": "A", "t": "E estava chovendo?", "es": "¿Y estaba lloviendo?" },
+          { "q": "B", "t": "Estava, e de repente o telefone tocou.", "es": "Sí, y de repente sonó el teléfono." },
+          { "q": "A", "t": "Eu estava dormindo e ouvi um barulho também!", "es": "¡Yo estaba durmiendo y también oí un ruido!" }
+        ]
+      },
+      "nota": "En Brasil es muy común «estava + gerúndio» (estava comendo). En Portugal se dice «estava a comer», pero en Brasil usa siempre el gerúndio. «Assistir a» = ver cine/TV; «ver» = ver en general."
+    },
+    {
+      "id": "pt-b1-u1-l4",
+      "n": 4,
+      "titulo": "Conectores narrativos",
+      "objetivo": "Ordenar una historia con conectores de secuencia y contraste.",
+      "intro": "Los conectores guían al que escucha. Truco: abre con «primeiro», sigue con «depois» y «em seguida», y cierra con «por fim». Para sorpresa, usa «de repente».",
+      "palabras": [
+        { "t": "primeiro", "es": "primero", "pron": "priméiru", "ej": "Primeiro eu acordei, depois tomei café.", "ejes": "Primero me desperté, después tomé café.", "cog": true },
+        { "t": "depois", "es": "después", "pron": "depóis", "ej": "Eu cheguei e depois saí de novo.", "ejes": "Llegué y después salí de nuevo.", "cog": false },
+        { "t": "em seguida", "es": "enseguida / a continuación", "pron": "ein seguída", "ej": "Ele abriu a porta e, em seguida, entrou.", "ejes": "Abrió la puerta y, enseguida, entró.", "cog": false },
+        { "t": "então", "es": "entonces / así que", "pron": "entáun", "ej": "Estava tarde, então eu fui dormir.", "ejes": "Era tarde, así que me fui a dormir.", "cog": false },
+        { "t": "por isso", "es": "por eso", "pron": "por ísu", "ej": "Choveu muito, por isso ficamos em casa.", "ejes": "Llovió mucho, por eso nos quedamos en casa.", "cog": false },
+        { "t": "até que", "es": "hasta que", "pron": "até ki", "ej": "Dormi até que o despertador tocou.", "ejes": "Dormí hasta que sonó el despertador.", "cog": false },
+        { "t": "finalmente", "es": "finalmente", "pron": "finalméinchi", "ej": "Finalmente encontrei o hotel.", "ejes": "Finalmente encontré el hotel.", "cog": true },
+        { "t": "por fim", "es": "por último", "pron": "por fín", "ej": "Por fim, voltamos para casa.", "ejes": "Por último, volvimos a casa.", "cog": false },
+        { "t": "logo", "es": "pronto / enseguida", "pron": "lógu", "ej": "Logo depois ele ligou de volta.", "ejes": "Poco después me devolvió la llamada.", "cog": false },
+        { "t": "no começo", "es": "al principio", "pron": "nu komésu", "ej": "No começo eu não entendia nada.", "ejes": "Al principio no entendía nada.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Primeiro eu acordei, depois tomei banho.", "es": "Primero me desperté, después me bañé.", "pron": "priméiru éu akordéi, depóis tomei báñu" },
+        { "t": "No começo eu estava nervoso, mas depois relaxei.", "es": "Al principio estaba nervioso, pero después me relajé.", "pron": "nu komésu éu estáva nervózu, máis depóis relakséi" },
+        { "t": "Estava muito frio, por isso entrei no café.", "es": "Hacía mucho frío, por eso entré al café.", "pron": "estáva múintu fríu, por ísu entréi nu kafé" },
+        { "t": "Dormi até que o despertador tocou.", "es": "Dormí hasta que sonó el despertador.", "pron": "dormí até ki u despertadór tokóu" },
+        { "t": "Por fim, encontrei o hotel.", "es": "Por último, encontré el hotel.", "pron": "por fín, enkontréi u otéu" }
+      ],
+      "dialogo": {
+        "titulo": "Uma viagem difícil",
+        "lineas": [
+          { "q": "A", "t": "Como foi a viagem de ônibus?", "es": "¿Cómo fue el viaje en autobús?" },
+          { "q": "B", "t": "No começo foi tranquila, mas depois o ônibus quebrou.", "es": "Al principio fue tranquilo, pero después el autobús se averió." },
+          { "q": "A", "t": "E o que vocês fizeram?", "es": "¿Y qué hicieron?" },
+          { "q": "B", "t": "Primeiro esperamos, em seguida chamamos um táxi.", "es": "Primero esperamos, luego llamamos un taxi." },
+          { "q": "A", "t": "E por fim, chegaram bem?", "es": "¿Y por último, llegaron bien?" },
+          { "q": "B", "t": "Chegamos, mas muito tarde. Por isso eu dormi até o meio-dia.", "es": "Llegamos, pero muy tarde. Por eso dormí hasta el mediodía." }
+        ]
+      },
+      "nota": "«Então» sirve para encadenar ideas en la conversación (Então, fui lá...), como «entonces». Cuidado con «logo»: puede ser «pronto» (logo depois) o «por lo tanto» en texto formal."
+    },
+    {
+      "id": "pt-b1-u1-l5",
+      "n": 5,
+      "titulo": "Repaso: contar una anécdota",
+      "objetivo": "Contar una anécdota completa combinando perfeito, imperfeito, gerúndio y conectores.",
+      "intro": "Una buena anécdota lleva: escenario (imperfeito), hechos (perfeito) y orden (conectores). Truco: empieza con «Era um dia...» y cierra con «Foi assim que...».",
+      "palabras": [
+        { "t": "história", "es": "historia / cuento", "pron": "istórya", "ej": "Vou contar uma história engraçada.", "ejes": "Voy a contar una historia graciosa.", "cog": true },
+        { "t": "contar", "es": "contar (una historia)", "pron": "kontár", "ej": "Eu vou contar uma piada.", "ejes": "Voy a contar un chiste.", "cog": false, "truco": "Contar = relatar; también puede ser contar números." },
+        { "t": "susto", "es": "susto", "pron": "sústu", "ej": "Eu levei um susto enorme.", "ejes": "Me llevé un susto enorme.", "cog": true },
+        { "t": "felizmente", "es": "felizmente / por suerte", "pron": "felizméinchi", "ej": "Felizmente ninguém se machucou.", "ejes": "Felizmente nadie se lastimó.", "cog": true },
+        { "t": "infelizmente", "es": "lamentablemente", "pron": "infelizméinchi", "ej": "Infelizmente eu perdi o voo.", "ejes": "Lamentablemente perdí el vuelo.", "cog": true },
+        { "t": "ainda bem", "es": "menos mal", "pron": "aínda béin", "ej": "Ainda bem que você chegou a tempo.", "ejes": "Menos mal que llegaste a tiempo.", "cog": false },
+        { "t": "engraçado", "es": "gracioso", "pron": "engrasádu", "ej": "Foi um dia muito engraçado.", "ejes": "Fue un día muy gracioso.", "cog": false, "truco": "No es «engrasado»: es gracioso." },
+        { "t": "assustado", "es": "asustado", "pron": "asustádu", "ej": "Eu fiquei assustado com o barulho.", "ejes": "Me asusté con el ruido.", "cog": true },
+        { "t": "aventura", "es": "aventura", "pron": "aventúra", "ej": "Aquela viagem foi uma aventura.", "ejes": "Aquel viaje fue una aventura.", "cog": true },
+        { "t": "foi assim que", "es": "así fue como", "pron": "fói asín ki", "ej": "E foi assim que conheci minha esposa.", "ejes": "Y así fue como conocí a mi esposa.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Era um dia de sol e eu estava caminhando.", "es": "Era un día de sol y yo estaba caminando.", "pron": "éra ún día dyi sól i éu estáva kamiñándu" },
+        { "t": "De repente, levei um susto enorme.", "es": "De repente, me llevé un susto enorme.", "pron": "dyi repéinchi, levéi ún sústu enórmi" },
+        { "t": "Felizmente ninguém se machucou.", "es": "Felizmente nadie se lastimó.", "pron": "felizméinchi ningéin si mashukóu" },
+        { "t": "Foi assim que tudo começou.", "es": "Así fue como todo empezó.", "pron": "fói asín ki túdu komesóu" },
+        { "t": "Ainda bem que eu estava com você.", "es": "Menos mal que yo estaba contigo.", "pron": "aínda béin ki éu estáva kon vosé" }
+      ],
+      "dialogo": {
+        "titulo": "Uma aventura no Cusco",
+        "lineas": [
+          { "q": "A", "t": "Vou contar uma história engraçada do Cusco.", "es": "Voy a contar una historia graciosa del Cusco." },
+          { "q": "B", "t": "Conta! O que aconteceu?", "es": "¡Cuéntala! ¿Qué pasó?" },
+          { "q": "A", "t": "Eu estava caminhando quando começou a chover forte.", "es": "Estaba caminando cuando empezó a llover fuerte." },
+          { "q": "B", "t": "E você estava sem guarda-chuva?", "es": "¿Y estabas sin paraguas?" },
+          { "q": "A", "t": "Estava! Então entrei num café e levei um susto.", "es": "¡Sí! Entonces entré a un café y me llevé un susto." },
+          { "q": "B", "t": "Ainda bem que acabou bem! Foi assim que conheceu o dono?", "es": "¡Menos mal que terminó bien! ¿Así conociste al dueño?" }
+        ]
+      },
+      "nota": "Recuerda la regla: lo que pasó y terminó va en perfeito; el escenario, los hábitos y lo que estaba en curso van en imperfeito o «estava + gerúndio»."
+    }
+  ]
+}

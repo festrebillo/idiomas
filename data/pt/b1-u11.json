@@ -1,0 +1,222 @@
+{
+  "id": "pt-b1-u11",
+  "idioma": "pt",
+  "nivel": "B1",
+  "n": 11,
+  "titulo": "Medio ambiente y sociedad",
+  "resumen": "Aprenderás vocabulario de medio ambiente y sociedad y el subjuntivo presente básico con «espero que» y «é importante que».",
+  "puedo": [
+    "Hablar de la naturaleza, la contaminación y el clima.",
+    "Decir acciones ecológicas: reciclar, economizar, plantar.",
+    "Expresar deseos con «espero que» y «quero que».",
+    "Dar opiniones con «é importante que» y «é preciso que».",
+    "Hablar de comunidad, voluntariado y derechos."
+  ],
+  "gramatica": {
+    "titulo": "Subjuntivo presente básico: espero que, é importante que",
+    "texto": "Después de expresiones de deseo o necesidad como «espero que», «quero que», «é importante que» o «é preciso que», el verbo va en subjuntivo, igual que en español: Espero que você recicle.\nCómo formarlo: toma la forma de «eu» del presente, quita la -o y pon la terminación opuesta. Los verbos en -ar toman -e (reciclo → recicle); los verbos en -er e -ir toman -a (como → coma, abro → abra). Para «eles/vocês» se añade -m: reciclem, comam.\nCambios de ortografía: proteger → proteja, jogar → jogue, desperdiçar → desperdice. Irregulares muy comunes que verás en la lección 4: seja, tenha.",
+    "tabla": [
+      ["Espero que você recicle.", "Espero que recicles.", "espéru ki vosé jesíkli"],
+      ["É importante que a gente economize água.", "Es importante que ahorremos agua.", "é importántyi ki a yéntyi ekonomíze água"],
+      ["Quero que eles plantem árvores.", "Quiero que ellos planten árboles.", "kéru ki éles plántein árvoris"],
+      ["Espero que ela proteja a floresta.", "Espero que ella proteja el bosque.", "espéru ki éla protéya a florésta"],
+      ["É preciso que todos ajudem.", "Es necesario que todos ayuden.", "é presísu ki tódus ayúdein"],
+      ["Espero que você aprenda.", "Espero que aprendas.", "espéru ki vosé aprénda"]
+    ],
+    "errores": [
+      "Con «espero que» no uses indicativo: «Espero que você recicle», no «Espero que você recicla».",
+      "Si el sujeto es el mismo, usa infinitivo: «Espero reciclar mais», no «Espero que eu recicle mais».",
+      "Los verbos en -ar toman -e y los en -er/-ir toman -a: «que você fale», «que você coma»; no mezcles («que você fala» es incorrecto)."
+    ]
+  },
+  "practica": [
+    "Escribe 6 deseos para tu ciudad con «Espero que...» usando verbos como reciclar, economizar y proteger (7 minutos).",
+    "Escribe 5 frases con «É importante que...» sobre agua, energía y basura (6 minutos).",
+    "Di en voz alta la conjugación de «reciclar» en subjuntivo: recicle, recicle, reciclemos, reciclem (3 minutos).",
+    "Lee una noticia ambiental brasileña y subraya los subjuntivos (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b1-u11-l1",
+      "n": 1,
+      "titulo": "La naturaleza y el planeta",
+      "objetivo": "Nombrar elementos del medio ambiente y hablar de problemas ambientales.",
+      "intro": "Empezamos con vocabulario clave. Truco: casi todo se parece al español; cuidado con «lixo» (basura), que suena «líshu».",
+      "palabras": [
+        { "t": "meio ambiente", "es": "medio ambiente", "pron": "méiu ambiéntyi", "ej": "Eu cuido do meio ambiente.", "ejes": "Cuido el medio ambiente.", "cog": true },
+        { "t": "natureza", "es": "naturaleza", "pron": "naturéza", "ej": "Eu gosto da natureza.", "ejes": "Me gusta la naturaleza.", "cog": true },
+        { "t": "poluição", "es": "contaminación", "pron": "poluisáun", "ej": "A poluição é um problema.", "ejes": "La contaminación es un problema.", "cog": true },
+        { "t": "lixo", "es": "basura", "pron": "líshu", "ej": "Eu jogo o lixo fora.", "ejes": "Tiro la basura.", "cog": false },
+        { "t": "água", "es": "agua", "pron": "água", "ej": "Eu bebo água todos os dias.", "ejes": "Bebo agua todos los días.", "cog": true },
+        { "t": "energia", "es": "energía", "pron": "eneryía", "ej": "Precisamos de energia limpa.", "ejes": "Necesitamos energía limpia.", "cog": true },
+        { "t": "floresta", "es": "bosque / selva", "pron": "florésta", "ej": "A floresta é muito grande.", "ejes": "El bosque es muy grande.", "cog": false },
+        { "t": "árvore", "es": "árbol", "pron": "árvori", "ej": "Tem uma árvore no parque.", "ejes": "Hay un árbol en el parque.", "cog": false },
+        { "t": "planeta", "es": "planeta", "pron": "planéta", "ej": "O planeta precisa de ajuda.", "ejes": "El planeta necesita ayuda.", "cog": true },
+        { "t": "clima", "es": "clima", "pron": "klíma", "ej": "O clima está mudando.", "ejes": "El clima está cambiando.", "cog": true }
+      ],
+      "frases": [
+        { "t": "A poluição é um problema grande.", "es": "La contaminación es un problema grande.", "pron": "a poluisáun é ún problêma grándyi" },
+        { "t": "Eu gosto de caminhar na floresta.", "es": "Me gusta caminar en el bosque.", "pron": "éu gósto dyi kamiñár na florésta" },
+        { "t": "O planeta precisa da nossa ajuda.", "es": "El planeta necesita nuestra ayuda.", "pron": "u planéta presíza da nósa ayúda" },
+        { "t": "Não podemos jogar lixo na rua.", "es": "No podemos tirar basura en la calle.", "pron": "náun podémus yogár líshu na rúa" },
+        { "t": "O clima está mudando no mundo todo.", "es": "El clima está cambiando en todo el mundo.", "pron": "u klíma está mudándu nu múndu tódu" }
+      ],
+      "dialogo": {
+        "titulo": "Cuidando do planeta",
+        "lineas": [
+          { "q": "A", "t": "Você viu a floresta no documentário?", "es": "¿Viste el bosque en el documental?" },
+          { "q": "B", "t": "Vi. A poluição está destruindo a natureza.", "es": "Lo vi. La contaminación está destruyendo la naturaleza." },
+          { "q": "A", "t": "É verdade. O clima está mudando muito.", "es": "Es verdad. El clima está cambiando mucho." },
+          { "q": "B", "t": "Precisamos cuidar do planeta e da água.", "es": "Tenemos que cuidar el planeta y el agua." },
+          { "q": "A", "t": "Concordo. Eu já plantei uma árvore.", "es": "Estoy de acuerdo. Yo ya planté un árbol." }
+        ]
+      },
+      "nota": "«Floresta» es bosque o selva grande; «bosque» también existe pero es más pequeño. «A Floresta Amazônica» es la selva amazónica."
+    },
+    {
+      "id": "pt-b1-u11-l2",
+      "n": 2,
+      "titulo": "Acciones por el planeta",
+      "objetivo": "Decir qué puedes hacer para cuidar el medio ambiente.",
+      "intro": "Estos verbos son la base de la conversación ecológica. Truco: casi todos son cognados: reciclar, economizar, proteger, preservar.",
+      "palabras": [
+        { "t": "reciclar", "es": "reciclar", "pron": "jesiklár", "ej": "Eu gosto de reciclar.", "ejes": "Me gusta reciclar.", "cog": true },
+        { "t": "economizar", "es": "ahorrar", "pron": "ekonomizár", "ej": "Vou economizar água.", "ejes": "Voy a ahorrar agua.", "cog": true },
+        { "t": "plantar", "es": "plantar", "pron": "plantár", "ej": "Quero plantar uma árvore.", "ejes": "Quiero plantar un árbol.", "cog": true },
+        { "t": "separar", "es": "separar", "pron": "separár", "ej": "Vamos separar o lixo.", "ejes": "Vamos a separar la basura.", "cog": true },
+        { "t": "proteger", "es": "proteger", "pron": "proteyér", "ej": "Precisamos proteger a natureza.", "ejes": "Tenemos que proteger la naturaleza.", "cog": true },
+        { "t": "preservar", "es": "preservar", "pron": "prezervár", "ej": "É preciso preservar a floresta.", "ejes": "Hay que preservar el bosque.", "cog": true },
+        { "t": "desperdiçar", "es": "desperdiciar", "pron": "dezperdisár", "ej": "Não quero desperdiçar comida.", "ejes": "No quiero desperdiciar comida.", "cog": true },
+        { "t": "reutilizar", "es": "reutilizar", "pron": "jeutilizár", "ej": "Dá para reutilizar a sacola.", "ejes": "Se puede reutilizar la bolsa.", "cog": true },
+        { "t": "poluir", "es": "contaminar", "pron": "poluír", "ej": "Os carros podem poluir o ar.", "ejes": "Los autos pueden contaminar el aire.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu gosto de reciclar papel.", "es": "Me gusta reciclar papel.", "pron": "éu gósto dyi jesiklár papéu" },
+        { "t": "Precisamos economizar água e energia.", "es": "Tenemos que ahorrar agua y energía.", "pron": "presizámus ekonomizár água i eneryía" },
+        { "t": "Vamos plantar uma árvore no parque.", "es": "Vamos a plantar un árbol en el parque.", "pron": "vámus plantár úma árvori nu párki" },
+        { "t": "É preciso proteger a floresta.", "es": "Hay que proteger el bosque.", "pron": "é presísu proteyér a florésta" },
+        { "t": "Não quero desperdiçar comida.", "es": "No quiero desperdiciar comida.", "pron": "náun kéru dezperdisár komída" }
+      ],
+      "dialogo": {
+        "titulo": "Dia de limpeza",
+        "lineas": [
+          { "q": "A", "t": "Hoje vamos separar o lixo do prédio.", "es": "Hoy vamos a separar la basura del edificio." },
+          { "q": "B", "t": "Boa ideia! Eu quero reciclar mais.", "es": "¡Buena idea! Quiero reciclar más." },
+          { "q": "A", "t": "E temos que economizar água também.", "es": "Y tenemos que ahorrar agua también." },
+          { "q": "B", "t": "Claro. Não quero desperdiçar nada.", "es": "Claro. No quiero desperdiciar nada." },
+          { "q": "A", "t": "Depois vamos plantar flores no jardim.", "es": "Después vamos a plantar flores en el jardín." }
+        ]
+      },
+      "nota": "«Economizar» es ahorrar (agua, energía, dinero). «Dá para + infinitivo» significa «se puede / es posible»: «Dá para reciclar»."
+    },
+    {
+      "id": "pt-b1-u11-l3",
+      "n": 3,
+      "titulo": "Espero que... Es importante que...",
+      "objetivo": "Usar el subjuntivo presente con expresiones de deseo y necesidad.",
+      "intro": "Aquí aparece el subjuntivo. Truco: funciona como en español. Verbos en -ar terminan en -e (recicle) y los de -er/-ir en -a (coma).",
+      "palabras": [
+        { "t": "espero que", "es": "espero que", "pron": "espéru ki", "ej": "Eu espero que você recicle.", "ejes": "Espero que recicles.", "cog": true },
+        { "t": "é importante que", "es": "es importante que", "pron": "é importántyi ki", "ej": "Agora é importante que a gente economize água.", "ejes": "Ahora es importante que ahorremos agua.", "cog": true },
+        { "t": "é preciso que", "es": "es necesario que", "pron": "é presísu ki", "ej": "Hoje é preciso que todos ajudem.", "ejes": "Hoy es necesario que todos ayuden.", "cog": false },
+        { "t": "quero que", "es": "quiero que", "pron": "kéru ki", "ej": "Eu quero que você plante uma árvore.", "ejes": "Quiero que plantes un árbol.", "cog": false },
+        { "t": "tomara que", "es": "ojalá que", "pron": "tomára ki", "ej": "Hoje, tomara que chova.", "ejes": "Hoy, ojalá que llueva.", "cog": false },
+        { "t": "é bom que", "es": "es bueno que", "pron": "é bóm ki", "ej": "Hoje é bom que você beba água.", "ejes": "Hoy es bueno que bebas agua.", "cog": false },
+        { "t": "é necessário que", "es": "es necesario que", "pron": "é nesesáriu ki", "ej": "Agora é necessário que todos separem o lixo.", "ejes": "Ahora es necesario que todos separen la basura.", "cog": true },
+        { "t": "peço que", "es": "pido que", "pron": "pésu ki", "ej": "Eu peço que vocês usem menos plástico.", "ejes": "Pido que usen menos plástico.", "cog": false },
+        { "t": "plástico", "es": "plástico", "pron": "plástiku", "ej": "Eu uso menos plástico.", "ejes": "Uso menos plástico.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Espero que você recicle o lixo.", "es": "Espero que recicles la basura.", "pron": "espéru ki vosé jesíkli u líshu" },
+        { "t": "É importante que a gente economize água.", "es": "Es importante que ahorremos agua.", "pron": "é importántyi ki a yéntyi ekonomízi água" },
+        { "t": "Quero que eles plantem árvores.", "es": "Quiero que ellos planten árboles.", "pron": "kéru ki éles plántein árvoris" },
+        { "t": "É preciso que todos ajudem.", "es": "Es necesario que todos ayuden.", "pron": "é presísu ki tódus ayúdein" },
+        { "t": "Tomara que chova amanhã.", "es": "Ojalá que llueva mañana.", "pron": "tomára ki shóva amañán" }
+      ],
+      "dialogo": {
+        "titulo": "Reunião do condomínio",
+        "lineas": [
+          { "q": "A", "t": "É importante que todos reciclem o lixo.", "es": "Es importante que todos reciclen la basura." },
+          { "q": "B", "t": "Concordo. Quero que as crianças aprendam também.", "es": "Estoy de acuerdo. Quiero que los niños aprendan también." },
+          { "q": "A", "t": "Peço que vocês usem menos plástico.", "es": "Pido que ustedes usen menos plástico." },
+          { "q": "B", "t": "Espero que todos participem da reunião.", "es": "Espero que todos participen en la reunión." },
+          { "q": "A", "t": "Tomara que sim! Vai ser ótimo para o prédio.", "es": "¡Ojalá! Va a ser excelente para el edificio." }
+        ]
+      },
+      "nota": "«Tomara que» es muy brasileño y equivale a «ojalá que»; también se dice solo «Tomara!». Si el sujeto es el mismo, usa infinitivo: «Espero reciclar mais»."
+    },
+    {
+      "id": "pt-b1-u11-l4",
+      "n": 4,
+      "titulo": "Sociedad y comunidad",
+      "objetivo": "Hablar de comunidad, derechos y voluntariado usando seja y tenha.",
+      "intro": "Los verbos «ser» y «ter» tienen subjuntivo irregular: seja y tenha. Truco: cópialos de memoria, son los más usados de todos.",
+      "palabras": [
+        { "t": "sociedade", "es": "sociedad", "pron": "sosiedádi", "ej": "A sociedade muda rápido.", "ejes": "La sociedad cambia rápido.", "cog": true },
+        { "t": "comunidade", "es": "comunidad", "pron": "komunidádi", "ej": "A comunidade ajuda os vizinhos.", "ejes": "La comunidad ayuda a los vecinos.", "cog": true },
+        { "t": "cidadão", "es": "ciudadano", "pron": "sidadáun", "ej": "Todo cidadão pode votar.", "ejes": "Todo ciudadano puede votar.", "cog": true },
+        { "t": "voluntário", "es": "voluntario", "pron": "voluntáriu", "ej": "Eu sou voluntário no parque.", "ejes": "Soy voluntario en el parque.", "cog": true },
+        { "t": "direitos", "es": "derechos", "pron": "diréitus", "ej": "Todos têm direitos.", "ejes": "Todos tienen derechos.", "cog": false },
+        { "t": "igualdade", "es": "igualdad", "pron": "igualdádi", "ej": "Eu quero igualdade para todos.", "ejes": "Quiero igualdad para todos.", "cog": true },
+        { "t": "desigualdade", "es": "desigualdad", "pron": "dezigualdádi", "ej": "A desigualdade é um problema.", "ejes": "La desigualdad es un problema.", "cog": true },
+        { "t": "ajudar", "es": "ayudar", "pron": "ayudár", "ej": "Eu gosto de ajudar.", "ejes": "Me gusta ayudar.", "cog": false },
+        { "t": "participar", "es": "participar", "pron": "partisipár", "ej": "Vou participar da reunião.", "ejes": "Voy a participar en la reunión.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Espero que a comunidade participe.", "es": "Espero que la comunidad participe.", "pron": "espéru ki a komunidádi partísipi" },
+        { "t": "É importante que todos tenham direitos.", "es": "Es importante que todos tengan derechos.", "pron": "é importántyi ki tódus téñan diréitus" },
+        { "t": "Quero que a sociedade seja mais justa.", "es": "Quiero que la sociedad sea más justa.", "pron": "kéru ki a sosiedádi séya máis yústa" },
+        { "t": "Espero que você seja voluntário.", "es": "Espero que seas voluntario.", "pron": "espéru ki vosé séya voluntáriu" },
+        { "t": "Espero que você tenha tempo para ajudar.", "es": "Espero que tengas tiempo para ayudar.", "pron": "espéru ki vosé téña témpu pára ayudár" }
+      ],
+      "dialogo": {
+        "titulo": "Voluntariado",
+        "lineas": [
+          { "q": "A", "t": "Eu sou voluntário numa ONG da comunidade.", "es": "Soy voluntario en una ONG de la comunidad." },
+          { "q": "B", "t": "Que legal! Quero que a sociedade seja mais justa.", "es": "¡Qué bueno! Quiero que la sociedad sea más justa." },
+          { "q": "A", "t": "Espero que você participe de uma reunião.", "es": "Espero que participes en una reunión." },
+          { "q": "B", "t": "Espero que eu tenha tempo no sábado.", "es": "Espero tener tiempo el sábado." },
+          { "q": "A", "t": "É importante que todos tenham os mesmos direitos.", "es": "Es importante que todos tengan los mismos derechos." }
+        ]
+      },
+      "nota": "«Seja» (de ser) y «tenha» (de ter) se pronuncian «séya» y «téña». «Direitos» (plural) se usa mucho: «direitos humanos». «ONG» se dice «ónege»."
+    },
+    {
+      "id": "pt-b1-u11-l5",
+      "n": 5,
+      "titulo": "Repaso: un futuro sostenible",
+      "objetivo": "Combinar vocabulario ambiental y social con subjuntivo en deseos y necesidades.",
+      "intro": "En esta lección mezclas todo: problemas, soluciones y deseos con subjuntivo. Truco: arma 3 deseos tuyos con «Espero que...» y léelos en voz alta.",
+      "palabras": [
+        { "t": "sustentável", "es": "sostenible", "pron": "sustentável", "ej": "Eu quero uma vida sustentável.", "ejes": "Quiero una vida sostenible.", "cog": true },
+        { "t": "desmatamento", "es": "deforestación", "pron": "dezmataméntu", "ej": "O desmatamento é um problema grave.", "ejes": "La deforestación es un problema grave.", "cog": false },
+        { "t": "aquecimento global", "es": "calentamiento global", "pron": "akesiméntu glubáu", "ej": "O aquecimento global preocupa todos.", "ejes": "El calentamiento global preocupa a todos.", "cog": true },
+        { "t": "energia solar", "es": "energía solar", "pron": "eneryía solár", "ej": "A energia solar é limpa.", "ejes": "La energía solar es limpia.", "cog": true },
+        { "t": "reciclagem", "es": "reciclaje", "pron": "jesikláyein", "ej": "A reciclagem ajuda o planeta.", "ejes": "El reciclaje ayuda al planeta.", "cog": true },
+        { "t": "desperdício", "es": "desperdicio", "pron": "dezperdísiu", "ej": "O desperdício de água é grande.", "ejes": "El desperdicio de agua es grande.", "cog": true },
+        { "t": "coleta seletiva", "es": "recolección selectiva", "pron": "koléta seletíva", "ej": "A coleta seletiva existe no meu bairro.", "ejes": "La recolección selectiva existe en mi barrio.", "cog": true },
+        { "t": "transporte público", "es": "transporte público", "pron": "transpórtyi públiku", "ej": "Eu uso transporte público.", "ejes": "Uso transporte público.", "cog": true },
+        { "t": "consumo", "es": "consumo", "pron": "konsúmu", "ej": "O consumo de plástico é alto.", "ejes": "El consumo de plástico es alto.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Espero que o governo proteja a floresta.", "es": "Espero que el gobierno proteja el bosque.", "pron": "espéru ki u govérnu protéya a florésta" },
+        { "t": "É importante que todos usem energia solar.", "es": "Es importante que todos usen energía solar.", "pron": "é importántyi ki tódus úzein eneryía solár" },
+        { "t": "Quero que a coleta seletiva chegue a todos os bairros.", "es": "Quiero que la recolección selectiva llegue a todos los barrios.", "pron": "kéru ki a koléta seletíva shégui a tódus us báirrus" },
+        { "t": "É preciso que a gente reduza o desperdício.", "es": "Es necesario que reduzcamos el desperdicio.", "pron": "é presísu ki a yéntyi jedúza u dezperdísiu" },
+        { "t": "Espero que o futuro seja melhor.", "es": "Espero que el futuro sea mejor.", "pron": "espéru ki u futúru séya melyór" }
+      ],
+      "dialogo": {
+        "titulo": "Um futuro melhor",
+        "lineas": [
+          { "q": "A", "t": "O desmatamento me preocupa muito.", "es": "La deforestación me preocupa mucho." },
+          { "q": "B", "t": "Espero que o governo proteja a floresta.", "es": "Espero que el gobierno proteja el bosque." },
+          { "q": "A", "t": "É importante que todos usem transporte público.", "es": "Es importante que todos usen transporte público." },
+          { "q": "B", "t": "Concordo. E que a reciclagem chegue a todos.", "es": "Estoy de acuerdo. Y que el reciclaje llegue a todos." },
+          { "q": "A", "t": "Tomara que o futuro seja mais sustentável.", "es": "Ojalá que el futuro sea más sostenible." },
+          { "q": "B", "t": "Espero que sim. Vamos começar hoje!", "es": "Espero que sí. ¡Empecemos hoy!" }
+        ]
+      },
+      "nota": "«Aquecimento global» es calentamiento global. Para «que» con un deseo se puede omitir el verbo anterior: «E que a reciclagem chegue...» (y que el reciclaje llegue...). Es una forma natural al conversar."
+    }
+  ]
+}

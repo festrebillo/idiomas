@@ -1,0 +1,219 @@
+{
+  "id": "en-b1-u13",
+  "idioma": "en",
+  "nivel": "B1",
+  "n": 13,
+  "titulo": "Reclamaciones y servicios",
+  "resumen": "Aprenderás a pedir cosas con cortesía (Could you...? Would you mind...?), a quejarte con educación y a resolver problemas con tiendas, hoteles y servicios.",
+  "puedo": [
+    "Hacer peticiones corteses con could, would y would you mind + -ing.",
+    "Responder a una petición aceptándola o rechazándola con educación.",
+    "Decir I'd like to complain y explicar un problema.",
+    "Pedir un reembolso, un cambio o una compensación.",
+    "Usar vocabulario de servicios: receipt, refund, warranty, delivery."
+  ],
+  "gramatica": {
+    "titulo": "Peticiones corteses: could you / would you mind + -ing",
+    "texto": "Para pedir algo con educación, no uses solo el imperativo (Give me the bill). Usa fórmulas más suaves.\nCould you + verbo...? es la más común: Could you help me, please? Would you + verbo...? es un poco más formal.\nWould you mind + -ing...? significa «¿le molestaría...?»: Would you mind waiting a moment? Para aceptar dices: No, not at all (no, para nada) o Sure, no problem. Para rechazar con cortesía: I'm sorry, but I can't.\nPara decir lo que quieres usa I'd like + sustantivo o I'd like to + verbo: I'd like a refund. I'd like to speak to the manager.\nTruco: could, would e I'd son suaves porque son formas condicionales; cuantas más palabras uses, más educado suenas.",
+    "tabla": [
+      ["Could you help me, please?", "¿Podría ayudarme, por favor?", "cud iu jelp mi, plis"],
+      ["Would you pass me the menu?", "¿Me pasaría la carta?", "wud iu pas mi da ményu"],
+      ["Would you mind waiting a moment?", "¿Le molestaría esperar un momento?", "wud iu maind uéitin a móument"],
+      ["No, not at all.", "No, para nada.", "nou, nat at ol"],
+      ["I'd like a refund, please.", "Quisiera un reembolso, por favor.", "aid laik a rífand, plis"],
+      ["I'd like to speak to the manager.", "Quisiera hablar con el gerente.", "aid laik tu spik tu da mánayer"]
+    ],
+    "errores": [
+      "No uses el verbo con to después de mind: es Would you mind waiting?, no «Would you mind to wait?».",
+      "No respondas Yes, I would si aceptas la petición: con mind, Yes significa que te molesta. Di No, not at all.",
+      "No pidas con I want...: suena brusco. Mejor I'd like... o Could I have...?"
+    ]
+  },
+  "practica": [
+    "Reescribe 8 órdenes como peticiones corteses (Give me water -> Could you give me some water, please?) (8 minutos).",
+    "Escribe una queja corta para un hotel o una tienda con I'd like to complain... (10 minutos).",
+    "Actúa en voz alta una escena: pides un reembolso a una tienda y el vendedor ofrece un cambio (10 minutos).",
+    "Mira una escena de un restaurante o un hotel en una serie en inglés y anota 5 fórmulas corteses (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b1-u13-l1",
+      "n": 1,
+      "titulo": "En una tienda",
+      "objetivo": "Hablar de compras, recibos, reembolsos y garantías.",
+      "intro": "Empezamos con las palabras que usarás al comprar o devolver algo. Truco: receipt es el comprobante de pago; la «p» no suena: risít.",
+      "palabras": [
+        { "t": "customer", "es": "cliente", "pron": "cástomer", "ej": "The customer is waiting.", "ejes": "El cliente está esperando.", "cog": false },
+        { "t": "receipt", "es": "recibo / comprobante", "pron": "risít", "ej": "Do you have the receipt?", "ejes": "¿Tiene el recibo?", "cog": false, "truco": "La «p» de receipt no suena." },
+        { "t": "refund", "es": "reembolso", "pron": "rífand", "ej": "I want a refund, please.", "ejes": "Quiero un reembolso, por favor.", "cog": false },
+        { "t": "warranty", "es": "garantía", "pron": "uóranti", "ej": "This phone has a one-year warranty.", "ejes": "Este celular tiene un año de garantía.", "cog": false },
+        { "t": "complaint", "es": "queja", "pron": "compléint", "ej": "I have a complaint about the service.", "ejes": "Tengo una queja sobre el servicio.", "cog": false },
+        { "t": "delivery", "es": "entrega", "pron": "delívari", "ej": "The delivery was two days late.", "ejes": "La entrega llegó dos días tarde.", "cog": false },
+        { "t": "damaged", "es": "dañado", "pron": "dámichd", "ej": "The box arrived damaged.", "ejes": "La caja llegó dañada.", "cog": false },
+        { "t": "defective", "es": "defectuoso", "pron": "difécti", "ej": "This product is defective.", "ejes": "Este producto es defectuoso.", "cog": true },
+        { "t": "return", "es": "devolver", "pron": "ritérn", "ej": "I would like to return this shirt.", "ejes": "Quisiera devolver esta camisa.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Do you have the receipt?", "es": "¿Tiene el recibo?", "pron": "du iu jav da risít" },
+        { "t": "I'd like to return this shirt.", "es": "Quisiera devolver esta camisa.", "pron": "aid laik tu ritérn dis shert" },
+        { "t": "The box arrived damaged.", "es": "La caja llegó dañada.", "pron": "da bax aráivd dámichd" },
+        { "t": "This phone has a one-year warranty.", "es": "Este celular tiene un año de garantía.", "pron": "dis foun jas a uan iir uóranti" },
+        { "t": "I'd like a refund, please.", "es": "Quisiera un reembolso, por favor.", "pron": "aid laik a rífand, plis" }
+      ],
+      "dialogo": {
+        "titulo": "Devolver un producto",
+        "lineas": [
+          { "q": "A", "t": "Hello. I'd like to return this blender.", "es": "Hola. Quisiera devolver esta licuadora." },
+          { "q": "B", "t": "What's the problem?", "es": "¿Cuál es el problema?" },
+          { "q": "A", "t": "It's defective. It stopped working yesterday.", "es": "Está defectuosa. Dejó de funcionar ayer." },
+          { "q": "B", "t": "Do you have the receipt?", "es": "¿Tiene el recibo?" },
+          { "q": "A", "t": "Yes, here it is. I'd like a refund, please.", "es": "Sí, aquí está. Quisiera un reembolso, por favor." }
+        ]
+      },
+      "nota": "En EE. UU. muchas tiendas aceptan devoluciones en 30 días con el recibo. Pregunta What is your return policy? (¿Cuál es su política de devoluciones?)."
+    },
+    {
+      "id": "en-b1-u13-l2",
+      "n": 2,
+      "titulo": "Could you...? Would you...?",
+      "objetivo": "Pedir ayuda o algo con could you y would you.",
+      "intro": "Could you...? y Would you...? suenan mucho más amables que una orden. Truco: añade please y una pequeña explicación para sonar todavía más educado.",
+      "palabras": [
+        { "t": "possibly", "es": "posiblemente / acaso", "pron": "pósibli", "ej": "Could you possibly help me?", "ejes": "¿Podría ayudarme, por favor?", "cog": true },
+        { "t": "kindly", "es": "amablemente", "pron": "káindli", "ej": "Kindly wait here.", "ejes": "Espere aquí, por favor.", "cog": false },
+        { "t": "favor", "es": "favor", "pron": "féivor", "ej": "Could you do me a favor?", "ejes": "¿Podría hacerme un favor?", "cog": false },
+        { "t": "assist", "es": "asistir / ayudar", "pron": "asíst", "ej": "How may I assist you?", "ejes": "¿En qué puedo ayudarle?", "cog": true },
+        { "t": "appreciate", "es": "agradecer", "pron": "aprísieit", "ej": "I appreciate your help.", "ejes": "Agradezco su ayuda.", "cog": false },
+        { "t": "available", "es": "disponible", "pron": "avéilabol", "ej": "Is this table available?", "ejes": "¿Esta mesa está disponible?", "cog": true },
+        { "t": "borrow", "es": "pedir prestado", "pron": "bórou", "ej": "Could I borrow your pen?", "ejes": "¿Podría pedirle prestado su lapicero?", "cog": false },
+        { "t": "lend", "es": "prestar", "pron": "lend", "ej": "Could you lend me a charger?", "ejes": "¿Podría prestarme un cargador?", "cog": false },
+        { "t": "moment", "es": "momento", "pron": "móument", "ej": "Just a moment, please.", "ejes": "Un momento, por favor.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Could you help me, please?", "es": "¿Podría ayudarme, por favor?", "pron": "cud iu jelp mi, plis" },
+        { "t": "Could you possibly open the window?", "es": "¿Podría abrir la ventana?", "pron": "cud iu pósibli óupen da uíndou" },
+        { "t": "Would you pass me the menu?", "es": "¿Me pasaría la carta?", "pron": "wud iu pas mi da ményu" },
+        { "t": "Could I borrow your pen?", "es": "¿Podría pedirle prestado su lapicero?", "pron": "cud ai bórou iur pen" },
+        { "t": "I appreciate your help.", "es": "Agradezco su ayuda.", "pron": "ai aprísieit iur jelp" }
+      ],
+      "dialogo": {
+        "titulo": "En un restaurante",
+        "lineas": [
+          { "q": "A", "t": "Excuse me. Could you bring us the menu, please?", "es": "Disculpe. ¿Podría traernos la carta, por favor?" },
+          { "q": "B", "t": "Of course. Just a moment.", "es": "Por supuesto. Un momento." },
+          { "q": "A", "t": "Would you possibly have a table by the window?", "es": "¿Tendrá por casualidad una mesa junto a la ventana?" },
+          { "q": "B", "t": "Yes, that table is available.", "es": "Sí, esa mesa está disponible." },
+          { "q": "A", "t": "Thank you. I appreciate it.", "es": "Gracias. Lo agradezco." }
+        ]
+      },
+      "nota": "Can I...? también es correcto en informal, pero Could I...? es más cortés. Con desconocidos usa siempre could o would."
+    },
+    {
+      "id": "en-b1-u13-l3",
+      "n": 3,
+      "titulo": "Would you mind...?",
+      "objetivo": "Pedir y aceptar peticiones con Would you mind + -ing.",
+      "intro": "Would you mind + -ing...? significa «¿le molestaría...?». Truco: para decir que sí, di lo contrario de lo que esperas: No, not at all (no me molesta). Evita Yes porque significa «sí me molesta».",
+      "palabras": [
+        { "t": "mind", "es": "molestar / importar", "pron": "maind", "ej": "Would you mind closing the door?", "ejes": "¿Le molestaría cerrar la puerta?", "cog": false },
+        { "t": "not at all", "es": "para nada", "pron": "nat at ol", "ej": "No, not at all. Go ahead.", "ejes": "No, para nada. Adelante.", "cog": false },
+        { "t": "go ahead", "es": "adelante", "pron": "gou ajéd", "ej": "Sure, go ahead.", "ejes": "Claro, adelante.", "cog": false },
+        { "t": "move", "es": "mover / correrse", "pron": "muv", "ej": "Please move your bag.", "ejes": "Por favor, mueva su bolso.", "cog": false },
+        { "t": "turn down", "es": "bajar (volumen)", "pron": "tern daun", "ej": "Could you turn down the music?", "ejes": "¿Podría bajar la música?", "cog": false },
+        { "t": "wait", "es": "esperar", "pron": "ueit", "ej": "Please wait a moment.", "ejes": "Por favor, espere un momento.", "cog": false },
+        { "t": "smoke", "es": "fumar", "pron": "smouk", "ej": "Do you mind if I smoke?", "ejes": "¿Le molesta si fumo?", "cog": false },
+        { "t": "sorry", "es": "lo siento", "pron": "sóri", "ej": "I'm sorry, but I can't.", "ejes": "Lo siento, pero no puedo.", "cog": false },
+        { "t": "unfortunately", "es": "lamentablemente", "pron": "anfórchenetli", "ej": "Unfortunately, we are closed.", "ejes": "Lamentablemente, estamos cerrados.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Would you mind closing the door?", "es": "¿Le molestaría cerrar la puerta?", "pron": "wud iu maind clóusin da dor" },
+        { "t": "No, not at all. Go ahead.", "es": "No, para nada. Adelante.", "pron": "nou, nat at ol. gou ajéd" },
+        { "t": "Would you mind moving your bag?", "es": "¿Le molestaría mover su bolso?", "pron": "wud iu maind múvin iur bag" },
+        { "t": "Do you mind if I open the window?", "es": "¿Le molesta si abro la ventana?", "pron": "du iu maind if ai óupen da uíndou" },
+        { "t": "I'm sorry, but I can't.", "es": "Lo siento, pero no puedo.", "pron": "aim sóri, bat ai cant" }
+      ],
+      "dialogo": {
+        "titulo": "En el tren",
+        "lineas": [
+          { "q": "A", "t": "Excuse me, would you mind moving your bag?", "es": "Disculpe, ¿le molestaría mover su bolso?" },
+          { "q": "B", "t": "Not at all. Go ahead and sit down.", "es": "Para nada. Siéntese." },
+          { "q": "A", "t": "Thank you. Do you mind if I open the window?", "es": "Gracias. ¿Le molesta si abro la ventana?" },
+          { "q": "B", "t": "I'm sorry, but it's cold. Could you wait a moment?", "es": "Lo siento, pero hace frío. ¿Podría esperar un momento?" }
+        ]
+      },
+      "nota": "Hay dos estructuras: Would you mind + -ing (Would you mind closing...?) para pedir que otro haga algo; Do you mind if I + presente (Do you mind if I open...?) para pedir permiso."
+    },
+    {
+      "id": "en-b1-u13-l4",
+      "n": 4,
+      "titulo": "I'd like to complain",
+      "objetivo": "Quejarte con educación y explicar un problema.",
+      "intro": "Una buena queja es clara, calmada y concreta. Truco: empieza con I'd like to complain about..., di el problema y pide una solución.",
+      "palabras": [
+        { "t": "complain", "es": "quejarse", "pron": "compléin", "ej": "I'd like to complain about the noise.", "ejes": "Quisiera quejarme del ruido.", "cog": false },
+        { "t": "disappointed", "es": "decepcionado", "pron": "disapóintid", "ej": "I'm very disappointed with the service.", "ejes": "Estoy muy decepcionado con el servicio.", "cog": false },
+        { "t": "unacceptable", "es": "inaceptable", "pron": "anakséptabol", "ej": "This situation is unacceptable.", "ejes": "Esta situación es inaceptable.", "cog": true },
+        { "t": "poor", "es": "malo / deficiente", "pron": "pur", "ej": "The service was very poor.", "ejes": "El servicio fue muy deficiente.", "cog": false },
+        { "t": "rude", "es": "grosero", "pron": "rud", "ej": "The waiter was rude.", "ejes": "El mesero fue grosero.", "cog": false },
+        { "t": "overcharged", "es": "cobrado de más", "pron": "óvercharchd", "ej": "I was overcharged for the room.", "ejes": "Me cobraron de más por la habitación.", "cog": false },
+        { "t": "faulty", "es": "defectuoso", "pron": "fólti", "ej": "The air conditioner is faulty.", "ejes": "El aire acondicionado es defectuoso.", "cog": false },
+        { "t": "problem", "es": "problema", "pron": "próblem", "ej": "There is a problem with my bill.", "ejes": "Hay un problema con mi cuenta.", "cog": true },
+        { "t": "solve", "es": "resolver", "pron": "solv", "ej": "Can you solve this today?", "ejes": "¿Puede resolver esto hoy?", "cog": false }
+      ],
+      "frases": [
+        { "t": "I'd like to complain about the noise.", "es": "Quisiera quejarme del ruido.", "pron": "aid laik tu compléin abáut da nóis" },
+        { "t": "I'm very disappointed with the service.", "es": "Estoy muy decepcionado con el servicio.", "pron": "aim véri disapóintid uid da sérvis" },
+        { "t": "The air conditioner is faulty.", "es": "El aire acondicionado no funciona bien.", "pron": "di er condíshener is fólti" },
+        { "t": "I think I was overcharged.", "es": "Creo que me cobraron de más.", "pron": "ai zink ai uas óvercharchd" },
+        { "t": "Could you solve this problem today?", "es": "¿Podría resolver este problema hoy?", "pron": "cud iu solv dis próblem tudéi" }
+      ],
+      "dialogo": {
+        "titulo": "En la recepción del hotel",
+        "lineas": [
+          { "q": "A", "t": "Good evening. I'd like to complain about my room.", "es": "Buenas noches. Quisiera quejarme de mi habitación." },
+          { "q": "B", "t": "I'm sorry to hear that. What's the problem?", "es": "Lamento oír eso. ¿Cuál es el problema?" },
+          { "q": "A", "t": "The air conditioner is faulty, and the room is very noisy.", "es": "El aire acondicionado no funciona y la habitación es muy ruidosa." },
+          { "q": "B", "t": "I apologize. Would you mind waiting while I check?", "es": "Me disculpo. ¿Le molestaría esperar mientras reviso?" },
+          { "q": "A", "t": "No, not at all. I appreciate your help.", "es": "Para nada. Agradezco su ayuda." }
+        ]
+      },
+      "nota": "Para quejarte sin ser agresivo, empieza con un hecho (The room is noisy) y termina con una petición (Could you change my room?)."
+    },
+    {
+      "id": "en-b1-u13-l5",
+      "n": 5,
+      "titulo": "Repaso: resolver un problema",
+      "objetivo": "Pedir soluciones: cambio, reembolso, disculpa o compensación.",
+      "intro": "Repasamos las peticiones y las quejas con palabras para las soluciones. Truco: primero explica el problema, luego pide la solución con Could you...?",
+      "palabras": [
+        { "t": "replace", "es": "reemplazar", "pron": "ripléis", "ej": "Could you replace this item?", "ejes": "¿Podría reemplazar este artículo?", "cog": false },
+        { "t": "exchange", "es": "cambiar / cambio", "pron": "ekschéinch", "ej": "I'd like to exchange this shirt.", "ejes": "Quisiera cambiar esta camisa.", "cog": true },
+        { "t": "compensation", "es": "compensación", "pron": "compenséishen", "ej": "They offered me compensation.", "ejes": "Me ofrecieron una compensación.", "cog": true },
+        { "t": "apologize", "es": "disculparse", "pron": "apólochaiz", "ej": "We apologize for the delay.", "ejes": "Pedimos disculpas por la demora.", "cog": false },
+        { "t": "delay", "es": "retraso", "pron": "diléi", "ej": "The flight had a long delay.", "ejes": "El vuelo tuvo un largo retraso.", "cog": true },
+        { "t": "charge", "es": "cargo / cobrar", "pron": "charch", "ej": "There is an extra charge.", "ejes": "Hay un cargo adicional.", "cog": false },
+        { "t": "policy", "es": "política (reglas)", "pron": "pólisi", "ej": "What is your return policy?", "ejes": "¿Cuál es su política de devoluciones?", "cog": true },
+        { "t": "in advance", "es": "con anticipación", "pron": "in advans", "ej": "Please book in advance.", "ejes": "Por favor, reserve con anticipación.", "cog": false },
+        { "t": "manager", "es": "gerente", "pron": "mánayer", "ej": "I'd like to speak to the manager.", "ejes": "Quisiera hablar con el gerente.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Could you replace this item, please?", "es": "¿Podría reemplazar este artículo, por favor?", "pron": "cud iu ripléis dis áitem, plis" },
+        { "t": "I'd like to exchange this shirt for a bigger size.", "es": "Quisiera cambiar esta camisa por una talla más grande.", "pron": "aid laik tu ekschéinch dis shert for a bíguer sais" },
+        { "t": "We apologize for the delay.", "es": "Pedimos disculpas por la demora.", "pron": "ui apólochaiz for da diléi" },
+        { "t": "Would you mind explaining this extra charge?", "es": "¿Le molestaría explicarme este cargo adicional?", "pron": "wud iu maind ekspléinin dis ékstra charch" },
+        { "t": "I'd like to speak to the manager.", "es": "Quisiera hablar con el gerente.", "pron": "aid laik tu spik tu da mánayer" }
+      ],
+      "dialogo": {
+        "titulo": "Un vuelo retrasado",
+        "lineas": [
+          { "q": "A", "t": "Excuse me. My flight had a six-hour delay.", "es": "Disculpe. Mi vuelo tuvo seis horas de retraso." },
+          { "q": "B", "t": "I apologize for that. How can I help?", "es": "Me disculpo por eso. ¿En qué puedo ayudarle?" },
+          { "q": "A", "t": "I'd like to ask for compensation. What is your policy?", "es": "Quisiera pedir una compensación. ¿Cuál es su política?" },
+          { "q": "B", "t": "Would you mind filling out this form?", "es": "¿Le molestaría llenar este formulario?" },
+          { "q": "A", "t": "Not at all. Thank you for your help.", "es": "Para nada. Gracias por su ayuda." }
+        ]
+      },
+      "nota": "Una buena fórmula de cierre al reclamar: I hope we can solve this soon. Thank you for your help. Mantiene la calma y abre la puerta a una solución."
+    }
+  ]
+}

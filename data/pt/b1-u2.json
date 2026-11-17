@@ -1,0 +1,226 @@
+{
+  "id": "pt-b1-u2",
+  "idioma": "pt",
+  "nivel": "B1",
+  "n": 2,
+  "titulo": "Lo que ha pasado y desde cuándo",
+  "resumen": "Aprenderás a decir cuánto tiempo hace que algo pasa o pasó con «há/faz», «desde», «tenho feito» y a usar «ainda» y «já».",
+  "puedo": [
+    "Decir cuánto tiempo hace que hago algo con «há» y «faz».",
+    "Decir desde cuándo con «desde» y «desde que».",
+    "Usar «tenho feito» para acciones repetidas hasta ahora.",
+    "Usar «ainda», «já» y «já não» con naturalidad.",
+    "Contar mi historia reciente: mudanza, estudios, trabajo."
+  ],
+  "gramatica": {
+    "titulo": "Há / faz + tiempo: cuánto tiempo hace",
+    "texto": "Para decir cuánto tiempo hace que algo ocurre o ocurrió, usa «há» o «faz» + el tiempo. Los dos significan «hace»: Eu moro aqui há três anos (Vivo aquí desde hace tres años) = Faz três anos que eu moro aqui.\nCon un hecho pasado, también puedes poner «atrás» al final: Eu me mudei há dois anos = Eu me mudei dois anos atrás (Me mudé hace dos años).\nPara preguntar: Há quanto tempo você mora aqui? / Quanto tempo faz que você mora aqui?\nOtra pieza clave es «desde» (desde un punto en el tiempo): Eu moro aqui desde 2020. Y «tenho + participio» (tenho feito) en Brasil indica una acción que se repite hasta hoy, no un hecho único.",
+    "tabla": [
+      ["Eu moro aqui há três anos.", "Vivo aquí desde hace tres años.", "éu móru akí á trés ánus"],
+      ["Faz dois meses que eu estudo.", "Hace dos meses que estudio.", "fás dóis mézis ki éu estúdu"],
+      ["Eu me mudei dois anos atrás.", "Me mudé hace dos años.", "éu mi mudéi dóis ánus atrás"],
+      ["Eu moro aqui desde 2020.", "Vivo aquí desde 2020.", "éu móru akí dézdyi dóis míl i vínchi"],
+      ["Tenho estudado muito.", "He estado estudiando mucho.", "téñu estudádu múintu"],
+      ["Há quanto tempo você trabalha aqui?", "¿Cuánto tiempo hace que trabajas aquí?", "á kuántu téimpu vosé trabália akí"]
+    ],
+    "errores": [
+      "No traduzcas «hace» como «faz» + pasado de forma literal sin «que»: «Faz dois anos que moro aqui» lleva «que»; sin «que» usa «há»: «Moro aqui há dois anos».",
+      "No digas «desde há três anos»: se dice «há três anos» (con duración) o «desde 2021» (con un punto en el tiempo), no mezcles las dos.",
+      "«Tenho feito» no equivale a «he hecho» como pasado puntual: para un hecho terminado en el pasado usa el perfeito (fiz); «tenho feito» es repetido hasta ahora."
+    ]
+  },
+  "practica": [
+    "Escribe 6 frases sobre ti con «há»: Eu moro aqui há..., Eu trabalho aqui há... y léelas en voz alta (6 minutos).",
+    "Pregunta «Há quanto tempo...?» a 4 personas (o a 4 objetos de tu casa) y responde con «faz» (5 minutos).",
+    "Escribe 5 frases con «desde» (desde 2020, desde ontem, desde criança...) (5 minutos).",
+    "Escribe un mini diario de 5 líneas con «tenho estudado», «tenho dormido», «tenho trabalhado» sobre los últimos meses (7 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b1-u2-l1",
+      "n": 1,
+      "titulo": "Há y faz: hace cuánto",
+      "objetivo": "Decir cuánto tiempo hace que algo pasa o pasó con «há» y «faz».",
+      "intro": "En portugués «há» y «faz» significan «hace»: Moro aqui há dois anos. Truco: «há» también es el «hay» de «há muito tempo» (hace mucho tiempo).",
+      "palabras": [
+        { "t": "há", "es": "hace", "pron": "á", "ej": "Eu moro aqui há três anos.", "ejes": "Vivo aquí desde hace tres años.", "cog": false, "truco": "La «h» no suena: es «á»." },
+        { "t": "faz", "es": "hace", "pron": "fás", "ej": "Já faz dois meses que eu trabalho aqui.", "ejes": "Ya hace dos meses que trabajo aquí.", "cog": false },
+        { "t": "atrás", "es": "atrás / hace", "pron": "atrás", "ej": "Eu me mudei dois anos atrás.", "ejes": "Me mudé hace dos años.", "cog": false },
+        { "t": "há muito tempo", "es": "hace mucho tiempo", "pron": "á múintu téimpu", "ej": "Eu conheço ele há muito tempo.", "ejes": "Lo conozco hace mucho tiempo.", "cog": false },
+        { "t": "há pouco", "es": "hace poco", "pron": "á póuku", "ej": "Ele chegou há pouco.", "ejes": "Llegó hace poco.", "cog": false },
+        { "t": "quanto tempo", "es": "cuánto tiempo", "pron": "kuántu téimpu", "ej": "Há quanto tempo você mora aqui?", "ejes": "¿Hace cuánto tiempo vives aquí?", "cog": false },
+        { "t": "recentemente", "es": "recientemente", "pron": "resenteméinchi", "ej": "Recentemente eu mudei de emprego.", "ejes": "Recientemente cambié de trabajo.", "cog": true },
+        { "t": "mês", "es": "mes", "pron": "méis", "ej": "Eu comecei o curso há um mês.", "ejes": "Empecé el curso hace un mes.", "cog": false },
+        { "t": "década", "es": "década", "pron": "dékada", "ej": "Faz uma década que eles se casaram.", "ejes": "Hace una década que se casaron.", "cog": true },
+        { "t": "ano", "es": "año", "pron": "ánu", "ej": "Faz um ano que eu não viajo.", "ejes": "Hace un año que no viajo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Eu moro aqui há três anos.", "es": "Vivo aquí desde hace tres años.", "pron": "éu móru akí á trés ánus" },
+        { "t": "Faz dois meses que eu estudo português.", "es": "Hace dos meses que estudio portugués.", "pron": "fás dóis mézis ki éu estúdu portuguéis" },
+        { "t": "Eu me mudei dois anos atrás.", "es": "Me mudé hace dos años.", "pron": "éu mi mudéi dóis ánus atrás" },
+        { "t": "Há quanto tempo você trabalha aqui?", "es": "¿Hace cuánto tiempo trabajas aquí?", "pron": "á kuántu téimpu vosé trabália akí" },
+        { "t": "Ele chegou há pouco.", "es": "Llegó hace poco.", "pron": "éli shegóu á póuku" }
+      ],
+      "dialogo": {
+        "titulo": "Há quanto tempo?",
+        "lineas": [
+          { "q": "A", "t": "Há quanto tempo você mora em São Paulo?", "es": "¿Hace cuánto tiempo vives en São Paulo?" },
+          { "q": "B", "t": "Faz três anos. Eu me mudei por causa do trabalho.", "es": "Hace tres años. Me mudé por el trabajo." },
+          { "q": "A", "t": "E você já conhecia a cidade?", "es": "¿Y ya conocías la ciudad?" },
+          { "q": "B", "t": "Não, eu cheguei aqui há pouco tempo, sem conhecer ninguém.", "es": "No, llegué aquí hace poco, sin conocer a nadie." },
+          { "q": "A", "t": "Imagino! Eu moro aqui há uma década e ainda me perco.", "es": "¡Me imagino! Yo vivo aquí hace una década y todavía me pierdo." }
+        ]
+      },
+      "nota": "«Há» (con acento) es el verbo haver y se pronuncia «á». No lo confundas con «a» (preposición: «a casa» = a la casa). En Brasil «faz» es más coloquial que «há» en frases como «Faz tempo que...» (Hace tiempo que...)."
+    },
+    {
+      "id": "pt-b1-u2-l2",
+      "n": 2,
+      "titulo": "Desde cuándo",
+      "objetivo": "Decir desde cuándo pasa algo con «desde», «desde que» y «desde então».",
+      "intro": "«Desde» marca el punto de partida: desde 2020, desde ontem. Truco: con «há» dices cuánto tiempo (há três anos); con «desde», cuándo empezó (desde 2021). No mezcles.",
+      "palabras": [
+        { "t": "desde", "es": "desde", "pron": "dézdyi", "ej": "Eu moro aqui desde 2020.", "ejes": "Vivo aquí desde 2020.", "cog": true },
+        { "t": "desde quando", "es": "desde cuándo", "pron": "dézdyi kuándu", "ej": "Desde quando você estuda inglês?", "ejes": "¿Desde cuándo estudias inglés?", "cog": false },
+        { "t": "desde então", "es": "desde entonces", "pron": "dézdyi entáun", "ej": "Mudei de cidade e desde então estou feliz.", "ejes": "Me mudé de ciudad y desde entonces estoy feliz.", "cog": false },
+        { "t": "desde que", "es": "desde que", "pron": "dézdyi ki", "ej": "Desde que cheguei, não parei de trabalhar.", "ejes": "Desde que llegué, no paré de trabajar.", "cog": false },
+        { "t": "até agora", "es": "hasta ahora", "pron": "até agóra", "ej": "Até agora tudo está bem.", "ejes": "Hasta ahora todo está bien.", "cog": false },
+        { "t": "desde criança", "es": "desde niño", "pron": "dézdyi kriánsa", "ej": "Eu toco violão desde criança.", "ejes": "Toco la guitarra desde niño.", "cog": false },
+        { "t": "ontem", "es": "ayer", "pron": "ónteim", "ej": "Estou doente desde ontem.", "ejes": "Estoy enfermo desde ayer.", "cog": false },
+        { "t": "segunda-feira", "es": "lunes", "pron": "segúnda féira", "ej": "Eu não durmo bem desde segunda-feira.", "ejes": "No duermo bien desde el lunes.", "cog": false },
+        { "t": "o ano passado", "es": "el año pasado", "pron": "u ánu pasádu", "ej": "Trabalho aqui desde o ano passado.", "ejes": "Trabajo aquí desde el año pasado.", "cog": false },
+        { "t": "ultimamente", "es": "últimamente", "pron": "ultimaméinchi", "ej": "Ultimamente eu estou muito ocupado.", "ejes": "Últimamente estoy muy ocupado.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu moro aqui desde 2020.", "es": "Vivo aquí desde 2020.", "pron": "éu móru akí dézdyi dóis míl i vínchi" },
+        { "t": "Desde quando você trabalha nessa empresa?", "es": "¿Desde cuándo trabajas en esa empresa?", "pron": "dézdyi kuándu vosé trabália nésa empréza" },
+        { "t": "Eu toco violão desde criança.", "es": "Toco la guitarra desde niño.", "pron": "éu tóku violáun dézdyi kriánsa" },
+        { "t": "Desde que cheguei, tudo mudou.", "es": "Desde que llegué, todo cambió.", "pron": "dézdyi ki shegéi, túdu mudóu" },
+        { "t": "Até agora eu não tive problemas.", "es": "Hasta ahora no he tenido problemas.", "pron": "até agóra éu não chívi problémas" }
+      ],
+      "dialogo": {
+        "titulo": "Desde quando?",
+        "lineas": [
+          { "q": "A", "t": "Desde quando você estuda português?", "es": "¿Desde cuándo estudias portugués?" },
+          { "q": "B", "t": "Desde o ano passado. E você?", "es": "Desde el año pasado. ¿Y tú?" },
+          { "q": "A", "t": "Eu estudo desde criança, porque minha mãe é brasileira.", "es": "Yo estudio desde niño, porque mi mamá es brasileña." },
+          { "q": "B", "t": "Que sorte! Eu moro no Brasil desde segunda-feira.", "es": "¡Qué suerte! Yo vivo en Brasil desde el lunes." },
+          { "q": "A", "t": "Desde segunda? Então você chegou ontem?", "es": "¿Desde el lunes? ¿Entonces llegaste ayer?" }
+        ]
+      },
+      "nota": "«Desde» siempre va con un punto en el tiempo (2020, segunda-feira, criança). Si quieres decir cuánto tiempo, usa «há»: «Eu moro aqui há dois anos»."
+    },
+    {
+      "id": "pt-b1-u2-l3",
+      "n": 3,
+      "titulo": "Tenho feito: lo que vengo haciendo",
+      "objetivo": "Contar acciones que se repiten hasta ahora con «tenho + participio».",
+      "intro": "«Ter» + participio (tenho feito) en Brasil expresa algo que se repite o continúa hasta hoy: Tenho estudado muito. Truco: piensa en «vengo haciendo». No sirve para un hecho puntual.",
+      "palabras": [
+        { "t": "tenho feito", "es": "vengo haciendo", "pron": "téñu féitu", "ej": "Eu tenho feito exercício todo dia.", "ejes": "Vengo haciendo ejercicio todos los días.", "cog": false },
+        { "t": "tenho estudado", "es": "vengo estudiando", "pron": "téñu estudádu", "ej": "Eu tenho estudado português à noite.", "ejes": "Vengo estudiando portugués por la noche.", "cog": false },
+        { "t": "tenho trabalhado", "es": "vengo trabajando", "pron": "téñu trabaliádu", "ej": "Eu tenho trabalhado muito este mês.", "ejes": "Vengo trabajando mucho este mes.", "cog": false },
+        { "t": "tenho dormido", "es": "vengo durmiendo", "pron": "téñu dormídu", "ej": "Eu tenho dormido mal esta semana.", "ejes": "Vengo durmiendo mal esta semana.", "cog": false },
+        { "t": "tenho visto", "es": "vengo viendo", "pron": "téñu vístu", "ej": "Eu tenho visto muitas séries.", "ejes": "Vengo viendo muchas series.", "cog": false },
+        { "t": "tenho tido", "es": "vengo teniendo", "pron": "téñu chídu", "ej": "Eu tenho tido dor de cabeça.", "ejes": "Vengo teniendo dolor de cabeza.", "cog": false },
+        { "t": "nos últimos meses", "es": "en los últimos meses", "pron": "nus últimus mézis", "ej": "Nos últimos meses eu tenho viajado muito.", "ejes": "En los últimos meses vengo viajando mucho.", "cog": false },
+        { "t": "cansado", "es": "cansado", "pron": "kansádu", "ej": "Eu estou cansado do trabalho.", "ejes": "Estoy cansado del trabajo.", "cog": false },
+        { "t": "estresse", "es": "estrés", "pron": "estrési", "ej": "Eu tenho sentido muito estresse.", "ejes": "Vengo sintiendo mucho estrés.", "cog": true },
+        { "t": "ultimamente", "es": "últimamente", "pron": "ultimaméinchi", "ej": "Ultimamente eu tenho lido mais.", "ejes": "Últimamente vengo leyendo más.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu tenho estudado muito ultimamente.", "es": "Vengo estudiando mucho últimamente.", "pron": "éu téñu estudádu múintu ultimaméinchi" },
+        { "t": "Ela tem trabalhado até tarde.", "es": "Ella viene trabajando hasta tarde.", "pron": "éla téin trabaliádu até tárdyi" },
+        { "t": "Nós temos viajado muito este ano.", "es": "Venimos viajando mucho este año.", "pron": "nós témus viaiádu múintu éstyi ánu" },
+        { "t": "Eu tenho dormido mal.", "es": "Vengo durmiendo mal.", "pron": "éu téñu dormídu máu" },
+        { "t": "Ele tem tido muito estresse.", "es": "Él viene teniendo mucho estrés.", "pron": "éli téin chídu múintu estrési" }
+      ],
+      "dialogo": {
+        "titulo": "Como você tem estado?",
+        "lineas": [
+          { "q": "A", "t": "Oi! Como você tem estado?", "es": "¡Hola! ¿Cómo has estado?" },
+          { "q": "B", "t": "Cansado. Eu tenho trabalhado até tarde.", "es": "Cansado. He estado trabajando hasta tarde." },
+          { "q": "A", "t": "Você tem dormido bem?", "es": "¿Has estado durmiendo bien?" },
+          { "q": "B", "t": "Mal. Eu tenho tido muito estresse.", "es": "Mal. He estado teniendo mucho estrés." },
+          { "q": "A", "t": "Nos últimos meses eu também tenho estudado demais.", "es": "En los últimos meses yo también he estado estudiando demasiado." }
+        ]
+      },
+      "nota": "Cuidado: con «ele/ela/você» se dice «tem» y con «eles» se dice «têm» (con acento circunflejo: eles têm). «Tenho feito» no es «hice»; para un hecho único di «fiz»."
+    },
+    {
+      "id": "pt-b1-u2-l4",
+      "n": 4,
+      "titulo": "Ainda, já y ya no",
+      "objetivo": "Usar «ainda», «já» y «já não» para hablar de cambios y de lo que sigue igual.",
+      "intro": "«Ainda» es «todavía»: lo que continúa. «Já» es «ya»: algo que ocurrió o cambió. Truco: «ainda não» = todavía no; «já não» = ya no.",
+      "palabras": [
+        { "t": "ainda", "es": "todavía", "pron": "aínda", "ej": "Eu ainda moro com meus pais.", "ejes": "Todavía vivo con mis padres.", "cog": false },
+        { "t": "já", "es": "ya", "pron": "yá", "ej": "Eu já terminei o trabalho.", "ejes": "Ya terminé el trabajo.", "cog": false },
+        { "t": "ainda não", "es": "todavía no", "pron": "aínda náun", "ej": "Eu ainda não comi hoje.", "ejes": "Todavía no he comido hoy.", "cog": false },
+        { "t": "já não", "es": "ya no", "pron": "yá náun", "ej": "Eu já não fumo.", "ejes": "Ya no fumo.", "cog": false },
+        { "t": "não moro mais", "es": "ya no vivo", "pron": "náun móru máis", "ej": "Eu não moro mais em Lima.", "ejes": "Ya no vivo en Lima.", "cog": false },
+        { "t": "por enquanto", "es": "por ahora", "pron": "por enkuántu", "ej": "Por enquanto estou sem emprego.", "ejes": "Por ahora estoy sin trabajo.", "cog": false },
+        { "t": "acabei de", "es": "acabo de", "pron": "akabéi dyi", "ej": "Eu acabei de chegar.", "ejes": "Acabo de llegar.", "cog": false },
+        { "t": "ainda assim", "es": "aun así", "pron": "aínda asín", "ej": "Estava cansado, ainda assim fui trabalhar.", "ejes": "Estaba cansado, aun así fui a trabajar.", "cog": false },
+        { "t": "de novo", "es": "de nuevo", "pron": "dyi nóvu", "ej": "Vou tentar de novo.", "ejes": "Voy a intentarlo de nuevo.", "cog": false },
+        { "t": "terminou", "es": "terminó", "pron": "terminóu", "ej": "A reunião terminou cedo.", "ejes": "La reunión terminó temprano.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Eu ainda moro com meus pais.", "es": "Todavía vivo con mis padres.", "pron": "éu aínda móru kon méus páis" },
+        { "t": "Eu já terminei o relatório.", "es": "Ya terminé el informe.", "pron": "éu yá terminéi u relatóriu" },
+        { "t": "Eu ainda não almocei.", "es": "Todavía no he almorzado.", "pron": "éu aínda náun almoséi" },
+        { "t": "Eu não trabalho mais lá.", "es": "Ya no trabajo allá.", "pron": "éu náun trabália máis lá" },
+        { "t": "Acabei de chegar do trabalho.", "es": "Acabo de llegar del trabajo.", "pron": "akabéi dyi shegár du trabálhu" }
+      ],
+      "dialogo": {
+        "titulo": "Novidades",
+        "lineas": [
+          { "q": "A", "t": "Você ainda trabalha naquela loja?", "es": "¿Todavía trabajas en esa tienda?" },
+          { "q": "B", "t": "Não, eu não trabalho mais lá. Acabei de mudar de emprego.", "es": "No, ya no trabajo allá. Acabo de cambiar de trabajo." },
+          { "q": "A", "t": "Que bom! E já conheceu seus colegas?", "es": "¡Qué bueno! ¿Y ya conociste a tus compañeros?" },
+          { "q": "B", "t": "Ainda não, começo na segunda.", "es": "Todavía no, empiezo el lunes." },
+          { "q": "A", "t": "Por enquanto você ainda está de férias, então!", "es": "¡Por ahora todavía estás de vacaciones, entonces!" }
+        ]
+      },
+      "nota": "«Já não» y «não mais» son casi iguales: «Já não moro lá» = «Não moro mais lá» (Ya no vivo allá). «Acabei de + infinitivo» = «acabo de»."
+    },
+    {
+      "id": "pt-b1-u2-l5",
+      "n": 5,
+      "titulo": "Repaso: mi historia reciente",
+      "objetivo": "Contar cambios recientes de tu vida mezclando há, desde, tenho feito, ainda y já.",
+      "intro": "Aquí juntas todo: «há dois anos me mudei», «desde então tenho trabalhado», «ainda não me caso». Truco: cuenta tu vida de los últimos años en cinco frases.",
+      "palabras": [
+        { "t": "me mudei", "es": "me mudé", "pron": "mi mudéi", "ej": "Eu me mudei para o Rio há dois anos.", "ejes": "Me mudé a Río hace dos años.", "cog": false },
+        { "t": "me formei", "es": "me gradué", "pron": "mi formêi", "ej": "Eu me formei em 2019.", "ejes": "Me gradué en 2019.", "cog": false },
+        { "t": "casei", "es": "me casé", "pron": "kaséi", "ej": "Eu casei há cinco anos.", "ejes": "Me casé hace cinco años.", "cog": false },
+        { "t": "comecei", "es": "empecé", "pron": "komeséi", "ej": "Eu comecei a estudar inglês em março.", "ejes": "Empecé a estudiar inglés en marzo.", "cog": false },
+        { "t": "aposentou", "es": "se jubiló", "pron": "aposentóu", "ej": "Meu pai se aposentou no ano passado.", "ejes": "Mi papá se jubiló el año pasado.", "cog": false },
+        { "t": "há anos", "es": "hace años", "pron": "á ánus", "ej": "Eu conheço ele há anos.", "ejes": "Lo conozco hace años.", "cog": false },
+        { "t": "namoro", "es": "noviazgo / salgo con", "pron": "namóru", "ej": "Eu namoro a Carla há dois anos.", "ejes": "Salgo con Carla hace dos años.", "cog": false, "truco": "No es «namorar» de «enamorarse»; es tener novio/a." },
+        { "t": "mudança", "es": "mudanza / cambio", "pron": "mudánsa", "ej": "A mudança foi cansativa.", "ejes": "La mudanza fue agotadora.", "cog": false },
+        { "t": "ficar", "es": "quedarse / estar", "pron": "fikár", "ej": "Eu quero ficar mais um ano aqui.", "ejes": "Quiero quedarme un año más aquí.", "cog": false },
+        { "t": "recentemente", "es": "recientemente", "pron": "resenteméinchi", "ej": "Eu comprei casa recentemente.", "ejes": "Compré casa recientemente.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu me mudei para Lima há dois anos.", "es": "Me mudé a Lima hace dos años.", "pron": "éu mi mudéi pára lima á dóis ánus" },
+        { "t": "Desde então tenho trabalhado em casa.", "es": "Desde entonces vengo trabajando en casa.", "pron": "dézdyi entáun téñu trabaliádu ein káza" },
+        { "t": "Eu ainda não me casei.", "es": "Todavía no me he casado.", "pron": "éu aínda náun mi kaséi" },
+        { "t": "Eu me formei em 2019 e já trabalho há quatro anos.", "es": "Me gradué en 2019 y ya trabajo hace cuatro años.", "pron": "éu mi formêi ein dóis míl i dyiznóvi i yá trabália á kuátru ánus" },
+        { "t": "Meu pai se aposentou recentemente.", "es": "Mi papá se jubiló recientemente.", "pron": "méu pái si aposentóu resenteméinchi" }
+      ],
+      "dialogo": {
+        "titulo": "Quanto tempo!",
+        "lineas": [
+          { "q": "A", "t": "Quanto tempo! Há anos que não nos vemos.", "es": "¡Cuánto tiempo! Hace años que no nos vemos." },
+          { "q": "B", "t": "É verdade. Eu me mudei para o Rio há dois anos.", "es": "Es verdad. Me mudé a Río hace dos años." },
+          { "q": "A", "t": "E desde então, como você tem estado?", "es": "¿Y desde entonces, cómo has estado?" },
+          { "q": "B", "t": "Bem. Eu me formei e já trabalho em uma empresa grande.", "es": "Bien. Me gradué y ya trabajo en una empresa grande." },
+          { "q": "A", "t": "E ainda namora a Carla?", "es": "¿Y todavía sales con Carla?" },
+          { "q": "B", "t": "Sim, e casamos recentemente!", "es": "Sí, ¡y nos casamos recientemente!" }
+        ]
+      },
+      "nota": "Recuerda la diferencia: con un hecho terminado usa «há» + perfeito (Me mudei há dois anos); con algo que continúa usa presente (Moro aqui há dois anos); con algo repetido hasta hoy usa «tenho + participio»."
+    }
+  ]
+}

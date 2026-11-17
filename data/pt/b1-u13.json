@@ -1,0 +1,220 @@
+{
+  "id": "pt-b1-u13",
+  "idioma": "pt",
+  "nivel": "B1",
+  "n": 13,
+  "titulo": "Reclamaciones y servicios",
+  "resumen": "Aprenderás a pedir cosas con cortesía («poderia», «gostaria de») y a reclamar con educación en tiendas, servicios y restaurantes.",
+  "puedo": [
+    "Pedir algo con cortesía con «poderia» y «gostaria de».",
+    "Hablar de pedidos, entregas y atención al cliente.",
+    "Hacer una reclamación y pedir un reembolso o cambio.",
+    "Hablar con un gerente o con el servicio de atención.",
+    "Manejarme en un hotel o restaurante."
+  ],
+  "gramatica": {
+    "titulo": "Peticiones corteses: poderia y gostaria de",
+    "texto": "Para pedir algo con cortesía en Brasil usa «poderia» + infinitivo: Você poderia me ajudar? (¿Podría ayudarme?). Para decir lo que quieres de forma amable usa «gostaria de» + infinitivo o + sustantivo: Gostaria de falar com o gerente. / Gostaria de um café.\n«Poderia» y «gostaria» son formas amables de «posso/pode» y «quero». Suenan más suaves y son muy normales en tiendas, bancos y correos formales. Añade «por favor» o «se possível» para sonar aún más amable.\nPuedes usar «poderia» con «você», «o senhor» o «a senhora», sin cambiar la forma.",
+    "tabla": [
+      ["Você poderia me ajudar?", "¿Podría ayudarme?", "vosé poderría mi ayudár"],
+      ["Poderia repetir, por favor?", "¿Podría repetir, por favor?", "poderría jepetír, pur favór"],
+      ["Gostaria de um café.", "Quisiera un café.", "gostaría dyi ún kafé"],
+      ["Gostaria de falar com o gerente.", "Quisiera hablar con el gerente.", "gostaría dyi falár kon u yeréntyi"],
+      ["Se possível, uma mesa na janela.", "Si es posible, una mesa en la ventana.", "si posível, úma méza na yanéla"],
+      ["Com licença, poderia passar?", "Con permiso, ¿podría pasar?", "kon lisénsa, poderría pasár"]
+    ],
+    "errores": [
+      "«Gostaria» siempre lleva «de» antes de un infinitivo o sustantivo: «Gostaria de ir», no «Gostaria ir».",
+      "No uses «quero» para pedir en una tienda formal si quieres sonar amable: «Gostaria de...» es más cortés que «Quero...».",
+      "La forma es «poderia», con «-ia»: no digas «podria» (eso es español)."
+    ]
+  },
+  "practica": [
+    "Escribe 6 peticiones corteses con «Poderia...?» para situaciones como tienda, banco y hotel (6 minutos).",
+    "Escribe 5 frases con «Gostaria de...» pidiendo comida, información o ayuda (5 minutos).",
+    "Simula con un amigo una reclamación en una tienda: uno es cliente y el otro, atendente (8 minutos).",
+    "Mira en YouTube un ejemplo de llamada a un SAC brasileño y anota 6 fórmulas de cortesía (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b1-u13-l1",
+      "n": 1,
+      "titulo": "Pedir con cortesía",
+      "objetivo": "Pedir algo de forma amable usando «poderia» y «gostaria de».",
+      "intro": "Estas dos palabras suavizan cualquier petición. Truco: piensa «poderia» = «podría» y «gostaria» = «me gustaría / quisiera».",
+      "palabras": [
+        { "t": "poderia", "es": "podría", "pron": "poderría", "ej": "Você poderia me ajudar?", "ejes": "¿Podría ayudarme?", "cog": true },
+        { "t": "gostaria de", "es": "quisiera / me gustaría", "pron": "gostaría dyi", "ej": "Eu gostaria de um café.", "ejes": "Quisiera un café.", "cog": false },
+        { "t": "por favor", "es": "por favor", "pron": "pur favór", "ej": "Uma água, por favor.", "ejes": "Un agua, por favor.", "cog": true },
+        { "t": "com licença", "es": "con permiso", "pron": "kon lisénsa", "ej": "Eu entrei e disse com licença.", "ejes": "Entré y dije con permiso.", "cog": false },
+        { "t": "desculpa", "es": "disculpa", "pron": "deskúlpa", "ej": "Ele pediu desculpa.", "ejes": "Él pidió disculpa.", "cog": false },
+        { "t": "se possível", "es": "si es posible", "pron": "si posível", "ej": "Quero a mesa perto da janela, se possível.", "ejes": "Quiero la mesa cerca de la ventana, si es posible.", "cog": true },
+        { "t": "um momento", "es": "un momento", "pron": "ún moméntu", "ej": "Posso esperar um momento.", "ejes": "Puedo esperar un momento.", "cog": true },
+        { "t": "ajudar", "es": "ayudar", "pron": "ayudár", "ej": "Posso ajudar você?", "ejes": "¿Puedo ayudarle?", "cog": false },
+        { "t": "pedir", "es": "pedir", "pron": "pedír", "ej": "Quero pedir uma coisa.", "ejes": "Quiero pedir una cosa.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Você poderia me ajudar, por favor?", "es": "¿Podría ayudarme, por favor?", "pron": "vosé poderría mi ayudár, pur favór" },
+        { "t": "Eu gostaria de um café, por favor.", "es": "Quisiera un café, por favor.", "pron": "éu gostaría dyi ún kafé, pur favór" },
+        { "t": "Com licença, poderia repetir?", "es": "Con permiso, ¿podría repetir?", "pron": "kon lisénsa, poderría jepetír" },
+        { "t": "Gostaria de saber o preço.", "es": "Quisiera saber el precio.", "pron": "gostaría dyi sabér u présu" },
+        { "t": "Se possível, eu gostaria de uma mesa na janela.", "es": "Si es posible, quisiera una mesa en la ventana.", "pron": "si posível, éu gostaría dyi úma méza na yanéla" }
+      ],
+      "dialogo": {
+        "titulo": "No café",
+        "lineas": [
+          { "q": "A", "t": "Boa tarde! Posso ajudar você?", "es": "¡Buenas tardes! ¿Puedo ayudarle?" },
+          { "q": "B", "t": "Boa tarde. Eu gostaria de um café, por favor.", "es": "Buenas tardes. Quisiera un café, por favor." },
+          { "q": "A", "t": "Quer açúcar?", "es": "¿Quiere azúcar?" },
+          { "q": "B", "t": "Sem açúcar. E poderia trazer a conta, se possível?", "es": "Sin azúcar. ¿Y podría traer la cuenta, si es posible?" },
+          { "q": "A", "t": "Claro! Só um momento.", "es": "¡Claro! Solo un momento." }
+        ]
+      },
+      "nota": "En Brasil la cortesía es muy valorada: «por favor», «com licença» y «obrigado/obrigada» abren casi cualquier puerta. «Desculpe» y «desculpa» se usan para pedir perdón o llamar la atención."
+    },
+    {
+      "id": "pt-b1-u13-l2",
+      "n": 2,
+      "titulo": "Compras y servicios",
+      "objetivo": "Hablar de pedidos, entregas, pagos y atención al cliente.",
+      "intro": "Estas palabras aparecen en cualquier tienda o servicio. Truco: «atendimento» es la atención al cliente y «atendente» quien te atiende.",
+      "palabras": [
+        { "t": "serviço", "es": "servicio", "pron": "servísu", "ej": "O serviço é rápido.", "ejes": "El servicio es rápido.", "cog": true },
+        { "t": "cliente", "es": "cliente", "pron": "kliéntyi", "ej": "Eu sou cliente desta loja.", "ejes": "Soy cliente de esta tienda.", "cog": true },
+        { "t": "atendimento", "es": "atención", "pron": "atendiméntu", "ej": "O atendimento foi muito bom.", "ejes": "La atención fue muy buena.", "cog": false },
+        { "t": "pedido", "es": "pedido", "pron": "pedídu", "ej": "Fiz um pedido ontem.", "ejes": "Hice un pedido ayer.", "cog": true },
+        { "t": "entrega", "es": "entrega", "pron": "entréga", "ej": "A entrega chegou hoje.", "ejes": "La entrega llegó hoy.", "cog": true },
+        { "t": "pagamento", "es": "pago", "pron": "pagaméntu", "ej": "O pagamento é hoje.", "ejes": "El pago es hoy.", "cog": true },
+        { "t": "nota fiscal", "es": "factura / comprobante", "pron": "nóta fiscáu", "ej": "Preciso da nota fiscal.", "ejes": "Necesito la factura.", "cog": false },
+        { "t": "garantia", "es": "garantía", "pron": "garantía", "ej": "O produto tem garantia.", "ejes": "El producto tiene garantía.", "cog": true },
+        { "t": "balcão", "es": "mostrador", "pron": "baukáun", "ej": "O balcão é ali.", "ejes": "El mostrador está allí.", "cog": false }
+      ],
+      "frases": [
+        { "t": "O atendimento foi muito bom.", "es": "La atención fue muy buena.", "pron": "u atendiméntu fói múintu bóm" },
+        { "t": "Fiz um pedido e a entrega demorou.", "es": "Hice un pedido y la entrega demoró.", "pron": "fís ún pedídu i a entréga demorôu" },
+        { "t": "Poderia pagar em dinheiro?", "es": "¿Podría pagar en efectivo?", "pron": "poderría pagár éin dinyéiru" },
+        { "t": "Gostaria da nota fiscal, por favor.", "es": "Quisiera la factura, por favor.", "pron": "gostaría da nóta fiscáu, pur favór" },
+        { "t": "Esse produto tem garantia?", "es": "¿Este producto tiene garantía?", "pron": "ésyi prodútu téin garantía" }
+      ],
+      "dialogo": {
+        "titulo": "Na loja",
+        "lineas": [
+          { "q": "A", "t": "Boa tarde! Eu gostaria de fazer um pedido.", "es": "¡Buenas tardes! Quisiera hacer un pedido." },
+          { "q": "B", "t": "Claro! Qual é o produto?", "es": "¡Claro! ¿Cuál es el producto?" },
+          { "q": "A", "t": "Esta cafeteira. Ela tem garantia?", "es": "Esta cafetera. ¿Tiene garantía?" },
+          { "q": "B", "t": "Tem sim, de um ano. A entrega é em três dias.", "es": "Sí, de un año. La entrega es en tres días." },
+          { "q": "A", "t": "Ótimo. Poderia dar a nota fiscal, por favor?", "es": "Excelente. ¿Podría darme la factura, por favor?" }
+        ]
+      },
+      "nota": "«Nota fiscal» es el comprobante legal de compra en Brasil; guárdala si quieres reclamar. «Serviço» también se usa para «servicio» de restaurante o taller."
+    },
+    {
+      "id": "pt-b1-u13-l3",
+      "n": 3,
+      "titulo": "Reclamar con educación",
+      "objetivo": "Hacer una reclamación y pedir un reembolso o un cambio con cortesía.",
+      "intro": "Se puede reclamar sin ser grosero. Truco: empieza con «Desculpe incomodar, mas...» o «Gostaria de fazer uma reclamação» y explica el problema con calma.",
+      "palabras": [
+        { "t": "reclamação", "es": "reclamación", "pron": "jeklamasáun", "ej": "Quero fazer uma reclamação.", "ejes": "Quiero hacer una reclamación.", "cog": true },
+        { "t": "reclamar", "es": "reclamar / quejarse", "pron": "jeklamár", "ej": "Vou reclamar do atendimento.", "ejes": "Voy a quejarme de la atención.", "cog": true },
+        { "t": "defeito", "es": "defecto", "pron": "deféitu", "ej": "O produto tem defeito.", "ejes": "El producto tiene un defecto.", "cog": true },
+        { "t": "atraso", "es": "retraso", "pron": "atrázu", "ej": "O atraso foi de dois dias.", "ejes": "El retraso fue de dos días.", "cog": false },
+        { "t": "reembolso", "es": "reembolso", "pron": "jeembólsu", "ej": "Quero o reembolso.", "ejes": "Quiero el reembolso.", "cog": true },
+        { "t": "trocar", "es": "cambiar", "pron": "trokár", "ej": "Gostaria de trocar o produto.", "ejes": "Quisiera cambiar el producto.", "cog": false },
+        { "t": "cancelar", "es": "cancelar", "pron": "kanselár", "ej": "Quero cancelar o pedido.", "ejes": "Quiero cancelar el pedido.", "cog": true },
+        { "t": "devolver", "es": "devolver", "pron": "devolvér", "ej": "Posso devolver o produto?", "ejes": "¿Puedo devolver el producto?", "cog": true },
+        { "t": "cobrança", "es": "cobro", "pron": "kobránsa", "ej": "Tem um erro na cobrança.", "ejes": "Hay un error en el cobro.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Gostaria de fazer uma reclamação.", "es": "Quisiera hacer una reclamación.", "pron": "gostaría dyi fazér úma jeklamasáun" },
+        { "t": "O produto chegou com defeito.", "es": "El producto llegó con un defecto.", "pron": "u prodútu shegóu kon deféitu" },
+        { "t": "Poderia trocar por outro, por favor?", "es": "¿Podría cambiarlo por otro, por favor?", "pron": "poderría trokár pur óutru, pur favór" },
+        { "t": "Gostaria de cancelar o pedido e pedir o reembolso.", "es": "Quisiera cancelar el pedido y pedir el reembolso.", "pron": "gostaría dyi kanselár u pedídu i pedír u jeembólsu" },
+        { "t": "Há um erro na cobrança.", "es": "Hay un error en el cobro.", "pron": "á ún éru na kobránsa" }
+      ],
+      "dialogo": {
+        "titulo": "Uma reclamação",
+        "lineas": [
+          { "q": "A", "t": "Boa tarde. Gostaria de fazer uma reclamação.", "es": "Buenas tardes. Quisiera hacer una reclamación." },
+          { "q": "B", "t": "Pois não! Qual é o problema?", "es": "¡Dígame! ¿Cuál es el problema?" },
+          { "q": "A", "t": "O produto chegou com defeito e a entrega teve atraso.", "es": "El producto llegó con un defecto y la entrega tuvo retraso." },
+          { "q": "B", "t": "Sinto muito. Quer trocar ou cancelar?", "es": "Lo siento mucho. ¿Quiere cambiar o cancelar?" },
+          { "q": "A", "t": "Gostaria de cancelar e pedir o reembolso, por favor.", "es": "Quisiera cancelar y pedir el reembolso, por favor." }
+        ]
+      },
+      "nota": "«Pois não» es una fórmula típica del atendente: significa «dígame, ¿en qué puedo ayudar?» (no es un «no»). «Sinto muito» es «lo siento mucho»."
+    },
+    {
+      "id": "pt-b1-u13-l4",
+      "n": 4,
+      "titulo": "Soporte y gerente",
+      "objetivo": "Hablar con atención al cliente, pedir un protocolo y un plazo.",
+      "intro": "Si el problema sigue, pide hablar con el gerente o llama al SAC. Truco: pide siempre el número de protocolo, es tu prueba de que reclamaste.",
+      "palabras": [
+        { "t": "atendente", "es": "encargado de atención", "pron": "atendéntyi", "ej": "O atendente foi gentil.", "ejes": "El encargado fue amable.", "cog": false },
+        { "t": "gerente", "es": "gerente", "pron": "yeréntyi", "ej": "Quero falar com o gerente.", "ejes": "Quiero hablar con el gerente.", "cog": true },
+        { "t": "protocolo", "es": "número de caso / protocolo", "pron": "protokólu", "ej": "Esse é o número do protocolo.", "ejes": "Ese es el número de caso.", "cog": true },
+        { "t": "SAC", "es": "servicio de atención al cliente", "pron": "sák", "ej": "Liguei para o SAC.", "ejes": "Llamé al servicio de atención.", "cog": false },
+        { "t": "solicitar", "es": "solicitar", "pron": "solisitár", "ej": "Vou solicitar o reembolso.", "ejes": "Voy a solicitar el reembolso.", "cog": true },
+        { "t": "resolver", "es": "resolver", "pron": "jezolvér", "ej": "Eles vão resolver o problema.", "ejes": "Van a resolver el problema.", "cog": true },
+        { "t": "prazo", "es": "plazo", "pron": "prázu", "ej": "O prazo é de cinco dias.", "ejes": "El plazo es de cinco días.", "cog": false },
+        { "t": "suporte", "es": "soporte", "pron": "supórtyi", "ej": "O suporte atende de dia.", "ejes": "El soporte atiende de día.", "cog": true },
+        { "t": "retorno", "es": "respuesta / devolución de llamada", "pron": "jetórnu", "ej": "Espero o retorno de vocês.", "ejes": "Espero su respuesta.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Poderia falar com o gerente, por favor?", "es": "¿Podría hablar con el gerente, por favor?", "pron": "poderría falár kon u yeréntyi, pur favór" },
+        { "t": "Gostaria de solicitar o reembolso.", "es": "Quisiera solicitar el reembolso.", "pron": "gostaría dyi solisitár u jeembólsu" },
+        { "t": "Qual é o prazo para resolver?", "es": "¿Cuál es el plazo para resolver?", "pron": "kuáu é u prázu pára jezolvér" },
+        { "t": "Pode me dar o número do protocolo?", "es": "¿Puede darme el número de protocolo?", "pron": "póde mi dár u número du protokólu" },
+        { "t": "Liguei para o SAC e ninguém atendeu.", "es": "Llamé al servicio y nadie contestó.", "pron": "liguéi pára u sák i ningéin atendéu" }
+      ],
+      "dialogo": {
+        "titulo": "Ligando para o SAC",
+        "lineas": [
+          { "q": "A", "t": "Boa tarde. Liguei ontem e o problema continua.", "es": "Buenas tardes. Llamé ayer y el problema continúa." },
+          { "q": "B", "t": "Sinto muito. Pode me dar o número do protocolo?", "es": "Lo siento mucho. ¿Puede darme el número de protocolo?" },
+          { "q": "A", "t": "Claro. Gostaria de falar com o gerente.", "es": "Claro. Quisiera hablar con el gerente." },
+          { "q": "B", "t": "Vou solicitar um retorno dele em dois dias.", "es": "Voy a solicitar que él le responda en dos días." },
+          { "q": "A", "t": "Obrigada. Esse é o prazo para resolver?", "es": "Gracias. ¿Ese es el plazo para resolver?" }
+        ]
+      },
+      "nota": "«SAC» es el «Serviço de Atendimento ao Consumidor» y casi todas las empresas brasileñas tienen uno; guarda siempre el protocolo."
+    },
+    {
+      "id": "pt-b1-u13-l5",
+      "n": 5,
+      "titulo": "Repaso: hotel y restaurante",
+      "objetivo": "Usar peticiones corteses y reclamaciones en un hotel y un restaurante.",
+      "intro": "Aquí aplicas lo aprendido en dos lugares frecuentes. Truco: empieza siempre con «Com licença» o «Boa tarde» y usa «poderia» y «gostaria de».",
+      "palabras": [
+        { "t": "reserva", "es": "reserva", "pron": "jezérva", "ej": "Fiz uma reserva.", "ejes": "Hice una reserva.", "cog": true },
+        { "t": "quarto", "es": "habitación", "pron": "kuártu", "ej": "O quarto é grande.", "ejes": "La habitación es grande.", "cog": false },
+        { "t": "conta", "es": "cuenta", "pron": "kónta", "ej": "Poderia trazer a conta, por favor?", "ejes": "¿Podría traer la cuenta, por favor?", "cog": false },
+        { "t": "cardápio", "es": "menú / carta", "pron": "kardápiu", "ej": "O cardápio é grande.", "ejes": "El menú es grande.", "cog": false },
+        { "t": "garçom", "es": "mesero", "pron": "garsón", "ej": "O garçom é simpático.", "ejes": "El mesero es simpático.", "cog": false },
+        { "t": "gorjeta", "es": "propina", "pron": "goryéta", "ej": "A gorjeta já está incluída.", "ejes": "La propina ya está incluida.", "cog": false },
+        { "t": "troco", "es": "vuelto", "pron": "tróku", "ej": "Falta o troco.", "ejes": "Falta el vuelto.", "cog": false },
+        { "t": "cartão", "es": "tarjeta", "pron": "kartáun", "ej": "Eu pago com cartão.", "ejes": "Pago con tarjeta.", "cog": false },
+        { "t": "recibo", "es": "recibo", "pron": "jesíbu", "ej": "Preciso do recibo.", "ejes": "Necesito el recibo.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Fiz uma reserva em nome de Ana Silva.", "es": "Hice una reserva a nombre de Ana Silva.", "pron": "fís úma jezérva éin nóme dyi ána sílva" },
+        { "t": "Poderia me mostrar o cardápio, por favor?", "es": "¿Podría mostrarme el menú, por favor?", "pron": "poderría mi mostrár u kardápiu, pur favór" },
+        { "t": "Gostaria de trocar de quarto, se possível.", "es": "Quisiera cambiar de habitación, si es posible.", "pron": "gostaría dyi trokár dyi kuártu, si posível" },
+        { "t": "Falta o troco e o recibo.", "es": "Falta el vuelto y el recibo.", "pron": "fáuta u tróku i u jesíbu" },
+        { "t": "Poderia trazer a conta? Pago com cartão.", "es": "¿Podría traer la cuenta? Pago con tarjeta.", "pron": "poderría trazér a kónta? págu kon kartáun" }
+      ],
+      "dialogo": {
+        "titulo": "Em um hotel",
+        "lineas": [
+          { "q": "A", "t": "Boa noite. Tenho uma reserva em nome de Pedro.", "es": "Buenas noches. Tengo una reserva a nombre de Pedro." },
+          { "q": "B", "t": "Claro, senhor. O quarto está pronto.", "es": "Claro, señor. La habitación está lista." },
+          { "q": "A", "t": "Poderia trocar de quarto? Esse tem um defeito na janela.", "es": "¿Podría cambiar de habitación? Esta tiene un defecto en la ventana." },
+          { "q": "B", "t": "Sinto muito. Vou chamar o gerente.", "es": "Lo siento mucho. Voy a llamar al gerente." },
+          { "q": "A", "t": "Obrigado. Gostaria também do recibo da reserva.", "es": "Gracias. Quisiera también el recibo de la reserva." }
+        ]
+      },
+      "nota": "En restaurantes brasileños la gorjeta suele estar incluida (10 %), pero conviene preguntar: «A gorjeta está incluída?». «Garçom» se pronuncia «garsón»."
+    }
+  ]
+}

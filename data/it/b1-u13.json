@@ -1,0 +1,219 @@
+{
+  "id": "it-b1-u13",
+  "idioma": "it",
+  "nivel": "B1",
+  "n": 13,
+  "titulo": "Reclamaciones y servicios",
+  "resumen": "Aprenderás a pedir cosas con cortesía usando «vorrei», «potrei» y «potrebbe», y a reclamar por un producto o servicio.",
+  "puedo": [
+    "Pedir algo con cortesía con «vorrei» y «potrebbe».",
+    "Pedir un favor con «potrei» y «mi potrebbe».",
+    "Explicar un problema con un producto o servicio.",
+    "Pedir un cambio, un reembolso o una solución.",
+    "Resolver gestiones en hotel, banco o tienda."
+  ],
+  "gramatica": {
+    "titulo": "Peticiones corteses: vorrei, potrei, potrebbe",
+    "texto": "Para pedir algo con educación se usa el condizionale (condicional), que suena más suave que el presente.\nVorrei = quisiera / me gustaría: Vorrei un caffè. Vorrei cambiare questo prodotto.\nPotrei = podría (yo): Potrei avere il conto?\nPotrebbe = podría (usted, Lei): Potrebbe aiutarmi, per favore? / Mi potrebbe dare un rimborso?\nAvrei bisogno di = necesitaría: Avrei bisogno di una ricevuta.\nCon Lei (usted) usa «potrebbe»; con tu (tú) usa «potresti»: Potresti aiutarmi?\nDespués de vorrei y potrei/potrebbe va el infinitivo o un nombre. El pronombre -mi se pega al infinitivo: aiutarmi (ayudarme).\nAgrega siempre «per favore» y «grazie».",
+    "tabla": [
+      ["vorrei", "quisiera", "vorréi"],
+      ["potrei", "podría (yo)", "potréi"],
+      ["potrebbe", "podría (usted)", "potrébbe"],
+      ["potresti", "podrías (tú)", "potrésti"],
+      ["avrei bisogno di", "necesitaría", "avréi bisóño di"],
+      ["potrebbe aiutarmi?", "¿podría ayudarme?", "potrébbe aiutármi"]
+    ],
+    "errores": [
+      "No uses «voglio» para pedir en un lugar formal: suena muy directo. Di «vorrei».",
+      "Con usted no uses «potresti»: «potrebbe aiutarmi?», no «potresti aiutarmi?» (esa es para tú).",
+      "No uses el presente para pedir con usted: «mi può dare», suena menos cortés que «mi potrebbe dare»; pero agrega siempre «per favore»."
+    ]
+  },
+  "practica": [
+    "Escribe cinco peticiones con «Vorrei...» para un restaurante, un hotel y una tienda (6 minutos).",
+    "Practica en voz alta una reclamación completa: el problema, qué pides y gracias (5 minutos).",
+    "Convierte tres órdenes («Dammi il conto») en peticiones corteses («Potrebbe darmi il conto?») (4 minutos).",
+    "Busca en internet un correo de reclamación en italiano y subraya cinco expresiones útiles (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b1-u13-l1",
+      "n": 1,
+      "titulo": "Servicios al cliente",
+      "objetivo": "Nombrar el vocabulario básico de servicios y compras.",
+      "intro": "Estas palabras aparecen en tiendas, bancos y aerolíneas. Truco: «lo scontrino» es el ticket de compra y «la ricevuta» el recibo con más datos.",
+      "palabras": [
+        { "t": "il servizio", "es": "el servicio", "pron": "il servítsio", "ej": "Il servizio è ottimo.", "ejes": "El servicio es excelente.", "cog": true },
+        { "t": "l'assistenza", "es": "la asistencia / el soporte", "pron": "lassisténtsa", "ej": "L'assistenza risponde subito.", "ejes": "El soporte responde enseguida.", "cog": true },
+        { "t": "lo scontrino", "es": "el ticket de compra", "pron": "lo scontríno", "ej": "Ho perso lo scontrino.", "ejes": "Perdí el ticket.", "cog": false },
+        { "t": "la ricevuta", "es": "el recibo", "pron": "la richevúta", "ej": "La ricevuta è nel cassetto.", "ejes": "El recibo está en el cajón.", "cog": false },
+        { "t": "il rimborso", "es": "el reembolso", "pron": "il rimbórso", "ej": "Il rimborso arriva in dieci giorni.", "ejes": "El reembolso llega en diez días.", "cog": false },
+        { "t": "la garanzia", "es": "la garantía", "pron": "la garantsía", "ej": "La garanzia dura due anni.", "ejes": "La garantía dura dos años.", "cog": true },
+        { "t": "il reclamo", "es": "el reclamo", "pron": "il reclámo", "ej": "Il reclamo è giusto.", "ejes": "El reclamo es justo.", "cog": true },
+        { "t": "l'ordine", "es": "el pedido", "pron": "lórdine", "ej": "L'ordine è arrivato.", "ejes": "El pedido llegó.", "cog": false },
+        { "t": "la consegna", "es": "la entrega", "pron": "la conséña", "ej": "La consegna è gratuita.", "ejes": "La entrega es gratis.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Ho perso lo scontrino.", "es": "Perdí el ticket de compra.", "pron": "o pérso lo scontríno" },
+        { "t": "La garanzia dura due anni.", "es": "La garantía dura dos años.", "pron": "la garantsía dúra dúe ánni" },
+        { "t": "Vorrei fare un reclamo.", "es": "Quisiera hacer un reclamo.", "pron": "vorréi fáre un reclámo" },
+        { "t": "L'ordine non è ancora arrivato.", "es": "El pedido todavía no llegó.", "pron": "lórdine non é ancóra arrivato" },
+        { "t": "Il servizio clienti è molto gentile.", "es": "El servicio al cliente es muy amable.", "pron": "il servítsio cliénti é mólto yentíle" }
+      ],
+      "dialogo": {
+        "titulo": "En una tienda",
+        "lineas": [
+          { "q": "A", "t": "Buongiorno, posso aiutarla?", "es": "Buenos días, ¿puedo ayudarla?" },
+          { "q": "B", "t": "Vorrei fare un reclamo. Ho comprato questa borsa ieri.", "es": "Quisiera hacer un reclamo. Compré esta cartera ayer." },
+          { "q": "A", "t": "Ha lo scontrino?", "es": "¿Tiene el ticket?" },
+          { "q": "B", "t": "Sì, eccolo.", "es": "Sí, aquí está." },
+          { "q": "A", "t": "Bene, controlo l'ordine.", "es": "Bien, reviso el pedido." }
+        ]
+      },
+      "nota": "«Reclamo» en italiano es «il reclamo» (queja formal); «reclamar» también se dice «fare un reclamo» o «presentare un reclamo». «Eccolo» = aquí está (masculino); «eccola» (femenino)."
+    },
+    {
+      "id": "it-b1-u13-l2",
+      "n": 2,
+      "titulo": "Pedir con cortesía",
+      "objetivo": "Pedir algo con vorrei, potrei y potrebbe.",
+      "intro": "El condicional hace que una petición suene amable. Truco: piensa en «quisiera» = vorrei y «podría» = potrei/potrebbe; son los más útiles.",
+      "palabras": [
+        { "t": "vorrei", "es": "quisiera", "pron": "vorréi", "ej": "Vorrei un caffè, per favore.", "ejes": "Quisiera un café, por favor.", "cog": false },
+        { "t": "potrei", "es": "podría (yo)", "pron": "potréi", "ej": "Potrei avere il conto?", "ejes": "¿Podría tener la cuenta?", "cog": false },
+        { "t": "potrebbe", "es": "podría (usted)", "pron": "potrébbe", "ej": "Potrebbe aiutarmi, per favore?", "ejes": "¿Podría ayudarme, por favor?", "cog": false },
+        { "t": "potresti", "es": "podrías (tú)", "pron": "potrésti", "ej": "Potresti ripetere?", "ejes": "¿Podrías repetir?", "cog": false },
+        { "t": "avrei bisogno di", "es": "necesitaría", "pron": "avréi bisóño di", "ej": "Avrei bisogno di una ricevuta.", "ejes": "Necesitaría un recibo.", "cog": false },
+        { "t": "mi dispiace", "es": "lo siento", "pron": "mi dispiáche", "ej": "Mi dispiace, non capisco.", "ejes": "Lo siento, no entiendo.", "cog": false },
+        { "t": "ripetere", "es": "repetir", "pron": "ripétere", "ej": "Può ripetere, per favore?", "ejes": "¿Puede repetir, por favor?", "cog": true },
+        { "t": "il conto", "es": "la cuenta", "pron": "il cónto", "ej": "Il conto, per favore.", "ejes": "La cuenta, por favor.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Vorrei un caffè, per favore.", "es": "Quisiera un café, por favor.", "pron": "vorréi un caffé, per favóre" },
+        { "t": "Potrebbe aiutarmi, per favore?", "es": "¿Podría ayudarme, por favor?", "pron": "potrébbe aiutármi, per favóre" },
+        { "t": "Potrei avere il conto?", "es": "¿Podría tener la cuenta?", "pron": "potréi avére il cónto" },
+        { "t": "Potresti ripetere, per favore?", "es": "¿Podrías repetir, por favor?", "pron": "potrésti ripétere, per favóre" },
+        { "t": "Avrei bisogno di una ricevuta.", "es": "Necesitaría un recibo.", "pron": "avréi bisóño di úna richevúta" }
+      ],
+      "dialogo": {
+        "titulo": "En un restaurante",
+        "lineas": [
+          { "q": "A", "t": "Buonasera, vorrei un tavolo per due.", "es": "Buenas noches, quisiera una mesa para dos." },
+          { "q": "B", "t": "Certo, da questa parte.", "es": "Claro, por aquí." },
+          { "q": "A", "t": "Potrebbe portarmi il menu?", "es": "¿Podría traerme el menú?" },
+          { "q": "B", "t": "Subito. Desidera altro?", "es": "Enseguida. ¿Desea algo más?" },
+          { "q": "A", "t": "Potrei avere il conto, per favore?", "es": "¿Podría tener la cuenta, por favor?" }
+        ]
+      },
+      "nota": "Con camareros y desconocidos usa «Lei»: «Potrebbe...?». Con amigos, «Potresti...?». «Desidera?» es lo que dicen los vendedores: ¿qué desea? Responde con «Vorrei...»."
+    },
+    {
+      "id": "it-b1-u13-l3",
+      "n": 3,
+      "titulo": "Reclamar un producto",
+      "objetivo": "Explicar un problema y pedir solución.",
+      "intro": "Para reclamar: primero explicas el problema y luego pides algo. Truco: «non funziona» y «è rotto» sirven para casi todo.",
+      "palabras": [
+        { "t": "non funziona", "es": "no funciona", "pron": "non funtsióna", "ej": "Il telefono non funziona.", "ejes": "El teléfono no funciona.", "cog": false },
+        { "t": "rotto", "es": "roto", "pron": "rótto", "ej": "Il piatto è rotto.", "ejes": "El plato está roto.", "cog": false },
+        { "t": "difettoso", "es": "defectuoso", "pron": "difettóso", "ej": "Il prodotto è difettoso.", "ejes": "El producto es defectuoso.", "cog": true },
+        { "t": "sbagliato", "es": "equivocado / incorrecto", "pron": "sbaliáto", "ej": "Ho ricevuto l'ordine sbagliato.", "ejes": "Recibí el pedido equivocado.", "cog": false },
+        { "t": "in ritardo", "es": "con retraso", "pron": "in ritárdo", "ej": "La consegna è in ritardo.", "ejes": "La entrega viene con retraso.", "cog": false },
+        { "t": "danneggiato", "es": "dañado", "pron": "dannedyáto", "ej": "Il pacco è danneggiato.", "ejes": "El paquete está dañado.", "cog": false },
+        { "t": "sostituire", "es": "reemplazar", "pron": "sostituíre", "ej": "Potete sostituire il prodotto?", "ejes": "¿Pueden reemplazar el producto?", "cog": true },
+        { "t": "restituire", "es": "devolver", "pron": "restituíre", "ej": "Voglio restituire questa giacca.", "ejes": "Quiero devolver esta chaqueta.", "cog": true },
+        { "t": "il pacco", "es": "el paquete", "pron": "il pácco", "ej": "Il pacco è arrivato ieri.", "ejes": "El paquete llegó ayer.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il telefono non funziona.", "es": "El teléfono no funciona.", "pron": "il teléfono non funtsióna" },
+        { "t": "Il prodotto è difettoso.", "es": "El producto es defectuoso.", "pron": "il prodótto é difettóso" },
+        { "t": "Ho ricevuto l'ordine sbagliato.", "es": "Recibí el pedido equivocado.", "pron": "o richevúto lórdine sbaliáto" },
+        { "t": "Potrebbe sostituire il prodotto?", "es": "¿Podría reemplazar el producto?", "pron": "potrébbe sostituíre il prodótto" },
+        { "t": "Vorrei restituire questa giacca.", "es": "Quisiera devolver esta chaqueta.", "pron": "vorréi restituíre cuésta yácca" }
+      ],
+      "dialogo": {
+        "titulo": "Un pedido en línea",
+        "lineas": [
+          { "q": "A", "t": "Buongiorno, vorrei fare un reclamo.", "es": "Buenos días, quisiera hacer un reclamo." },
+          { "q": "B", "t": "Mi dica, qual è il problema?", "es": "Dígame, ¿cuál es el problema?" },
+          { "q": "A", "t": "Ho ricevuto l'ordine sbagliato e il pacco è danneggiato.", "es": "Recibí el pedido equivocado y el paquete está dañado." },
+          { "q": "B", "t": "Mi dispiace. Vuole sostituire il prodotto?", "es": "Lo siento. ¿Quiere reemplazar el producto?" },
+          { "q": "A", "t": "Preferirei un rimborso, grazie.", "es": "Preferiría un reembolso, gracias." }
+        ]
+      },
+      "nota": "«Mi dica» (dígame) es la fórmula típica del que atiende. «Sbagliato» (equivocado) concuerda con el sustantivo: «ordine sbagliato», «borsa sbagliata». «Preferirei» es otro condicional cortés."
+    },
+    {
+      "id": "it-b1-u13-l4",
+      "n": 4,
+      "titulo": "Servicios: hotel, banco, transporte",
+      "objetivo": "Resolver trámites cotidianos en hotel, banco y transporte.",
+      "intro": "Los servicios también necesitan fórmulas corteses. Truco: «prenotare» (reservar) y «cancellare» se parecen al español.",
+      "palabras": [
+        { "t": "prenotare", "es": "reservar", "pron": "prenotáre", "ej": "Vorrei prenotare una camera.", "ejes": "Quisiera reservar una habitación.", "cog": false },
+        { "t": "la prenotazione", "es": "la reserva", "pron": "la prenotatsióne", "ej": "La prenotazione è a nome Rossi.", "ejes": "La reserva está a nombre de Rossi.", "cog": false },
+        { "t": "cancellare", "es": "cancelar", "pron": "cancelláre", "ej": "Devo cancellare il biglietto.", "ejes": "Debo cancelar el boleto.", "cog": true },
+        { "t": "la camera", "es": "la habitación", "pron": "la cámera", "ej": "La camera è al terzo piano.", "ejes": "La habitación está en el tercer piso.", "cog": false },
+        { "t": "il bancomat", "es": "el cajero automático", "pron": "il bancómat", "ej": "Il bancomat non funziona.", "ejes": "El cajero no funciona.", "cog": false },
+        { "t": "il conto corrente", "es": "la cuenta corriente", "pron": "il cónto corrénte", "ej": "Il conto corrente è gratuito.", "ejes": "La cuenta corriente es gratuita.", "cog": false },
+        { "t": "l'abbonamento", "es": "el abono / la suscripción", "pron": "labbonaménto", "ej": "L'abbonamento è mensile.", "ejes": "El abono es mensual.", "cog": false },
+        { "t": "il ritardo", "es": "el retraso", "pron": "il ritárdo", "ej": "Il ritardo è di venti minuti.", "ejes": "El retraso es de veinte minutos.", "cog": false },
+        { "t": "disponibile", "es": "disponible", "pron": "disponíbile", "ej": "Il tavolo è disponibile.", "ejes": "La mesa está disponible.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Vorrei prenotare una camera doppia.", "es": "Quisiera reservar una habitación doble.", "pron": "vorréi prenotáre úna cámera dóppia" },
+        { "t": "La prenotazione è a nome Rossi.", "es": "La reserva está a nombre de Rossi.", "pron": "la prenotatsióne é a nóme rósi" },
+        { "t": "Potrebbe cancellare la mia prenotazione?", "es": "¿Podría cancelar mi reserva?", "pron": "potrébbe cancelláre la mía prenotatsióne" },
+        { "t": "Il bancomat non funziona.", "es": "El cajero no funciona.", "pron": "il bancómat non funtsióna" },
+        { "t": "Il treno ha venti minuti di ritardo.", "es": "El tren tiene veinte minutos de retraso.", "pron": "il trén a vénti minúti di ritárdo" }
+      ],
+      "dialogo": {
+        "titulo": "En un hotel",
+        "lineas": [
+          { "q": "A", "t": "Buonasera, ho una prenotazione a nome Torres.", "es": "Buenas noches, tengo una reserva a nombre de Torres." },
+          { "q": "B", "t": "Un attimo... sì, una camera doppia per tre notti.", "es": "Un momento... sí, una habitación doble por tres noches." },
+          { "q": "A", "t": "Potrei avere una camera più tranquilla?", "es": "¿Podría tener una habitación más tranquila?" },
+          { "q": "B", "t": "Certo, è disponibile una camera al quarto piano.", "es": "Claro, hay una habitación disponible en el cuarto piso." },
+          { "q": "A", "t": "Perfetto, grazie mille.", "es": "Perfecto, muchas gracias." }
+        ]
+      },
+      "nota": "«Camera doppia» = habitación doble; «camera singola» = individual. «Il piano» es el piso (de un edificio). «A nome di» + apellido = a nombre de."
+    },
+    {
+      "id": "it-b1-u13-l5",
+      "n": 5,
+      "titulo": "Repaso: una gestión completa",
+      "objetivo": "Resolver una gestión completa combinando peticiones corteses y reclamación.",
+      "intro": "Mezcla todo: saludo, problema, petición y agradecimiento. Truco: estructura de tres pasos: «Buongiorno» + problema + «Potrebbe...?» + «Grazie».",
+      "palabras": [
+        { "t": "la soluzione", "es": "la solución", "pron": "la solutsióne", "ej": "La soluzione è semplice.", "ejes": "La solución es sencilla.", "cog": true },
+        { "t": "il responsabile", "es": "el encargado", "pron": "il responsábile", "ej": "Posso parlare con il responsabile?", "ejes": "¿Puedo hablar con el encargado?", "cog": true },
+        { "t": "gratuito", "es": "gratuito", "pron": "gratuíto", "ej": "Il servizio è gratuito.", "ejes": "El servicio es gratuito.", "cog": true },
+        { "t": "l'indirizzo", "es": "la dirección", "pron": "lindiríttso", "ej": "L'indirizzo è sbagliato.", "ejes": "La dirección está equivocada.", "cog": false },
+        { "t": "entro", "es": "dentro de / antes de", "pron": "éntro", "ej": "Entro venerdì, per favore.", "ejes": "Antes del viernes, por favor.", "cog": false },
+        { "t": "gentile", "es": "amable", "pron": "yentíle", "ej": "Lei è molto gentile.", "ejes": "Usted es muy amable.", "cog": false },
+        { "t": "ringraziare", "es": "agradecer", "pron": "ringratsiáre", "ej": "Vorrei ringraziare tutti.", "ejes": "Quisiera agradecer a todos.", "cog": false },
+        { "t": "scusi", "es": "disculpe", "pron": "scúsi", "ej": "Scusi, può aiutarmi?", "ejes": "Disculpe, ¿puede ayudarme?", "cog": false }
+      ],
+      "frases": [
+        { "t": "Scusi, potrei parlare con il responsabile?", "es": "Disculpe, ¿podría hablar con el encargado?", "pron": "scúsi, potréi parláre con il responsábile" },
+        { "t": "L'indirizzo di consegna è sbagliato.", "es": "La dirección de entrega es incorrecta.", "pron": "lindiríttso di conséña é sbaliáto" },
+        { "t": "Avrei bisogno di una soluzione entro venerdì.", "es": "Necesitaría una solución antes del viernes.", "pron": "avréi bisóño di úna solutsióne éntro venerdí" },
+        { "t": "Il servizio è gratuito, vero?", "es": "El servicio es gratuito, ¿verdad?", "pron": "il servítsio é gratuíto, véro" },
+        { "t": "La ringrazio per la sua gentilezza.", "es": "Le agradezco su amabilidad.", "pron": "la ringrátsio per la súa yentilétsa" }
+      ],
+      "dialogo": {
+        "titulo": "Hablando con el encargado",
+        "lineas": [
+          { "q": "A", "t": "Scusi, potrei parlare con il responsabile?", "es": "Disculpe, ¿podría hablar con el encargado?" },
+          { "q": "B", "t": "Sono io. Mi dica.", "es": "Soy yo. Dígame." },
+          { "q": "A", "t": "Il mio ordine è arrivato in ritardo e l'indirizzo era sbagliato.", "es": "Mi pedido llegó con retraso y la dirección era incorrecta." },
+          { "q": "B", "t": "Mi dispiace. Vuole un rimborso o una sostituzione?", "es": "Lo siento. ¿Quiere un reembolso o un reemplazo?" },
+          { "q": "A", "t": "Vorrei un rimborso entro venerdì, grazie.", "es": "Quisiera un reembolso antes del viernes, gracias." },
+          { "q": "B", "t": "Certo, la ringrazio per la pazienza.", "es": "Claro, le agradezco la paciencia." }
+        ]
+      },
+      "nota": "«Scusi» (usted) / «scusa» (tú) sirve para llamar la atención con educación. «La ringrazio» = le agradezco (a usted). «Entro venerdì» = a más tardar el viernes."
+    }
+  ]
+}

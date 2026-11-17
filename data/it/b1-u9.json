@@ -1,0 +1,216 @@
+{
+  "id": "it-b1-u9",
+  "idioma": "it",
+  "nivel": "B1",
+  "n": 9,
+  "titulo": "Noticias y medios",
+  "resumen": "Aprenderás vocabulario de medios y a contar lo que dicen otros con verbos como «dire», «raccontare» y «annunciare».",
+  "puedo": [
+    "Nombrar medios: giornale, rivista, telegiornale, sito.",
+    "Contar lo que alguien dijo con «ha detto che».",
+    "Usar verbos de dicción: raccontare, spiegare, annunciare, rispondere.",
+    "Comentar una noticia: «ho letto che», «ho sentito che».",
+    "Hablar de fuentes y noticias falsas."
+  ],
+  "gramatica": {
+    "titulo": "Verbos de dicción + che",
+    "texto": "Para contar lo que dijo otra persona o un medio, usa un verbo de dicción + «che» y después la frase normal.\nIl giornale dice che domani piove. = El diario dice que mañana llueve.\nEn pasado se usa el passato prossimo: Ha detto che arriva domani. / Ha annunciato che chiude.\nVerbos útiles: dire (dicho = detto), raccontare, spiegare, annunciare, rispondere, chiedere.\nPara preguntas indirectas con sí/no se usa «se»: Ha chiesto se vieni. (Preguntó si vienes.)\nCon dire, la persona va con «a»: Mi ha detto che... Ti ha detto che...\nImportante: dire es irregular (dico, dici, dice, diciamo, dite, dicono) y su participio es «detto».",
+    "tabla": [
+      ["dice che", "dice que", "díche ke"],
+      ["ha detto che", "dijo que", "a détto ke"],
+      ["mi ha raccontato che", "me contó que", "mi a raccontáto ke"],
+      ["ha spiegato che", "explicó que", "a spiegáto ke"],
+      ["ha annunciato che", "anunció que", "a annunciáto ke"],
+      ["ha chiesto se", "preguntó si", "a quiésto se"]
+    ],
+    "errores": [
+      "No traduzcas «dijo que» con «disse a...» sin la persona: «mi ha detto che» lleva «mi» antes del verbo.",
+      "Con una pregunta de sí/no se usa «se», no «che»: «ha chiesto se vieni», no «ha chiesto che vieni».",
+      "El participio de dire es «detto», no «dito» ni «dicato»."
+    ]
+  },
+  "practica": [
+    "Lee un titular de un diario italiano en internet y di en voz alta qué dice con «Il giornale dice che...» (5 minutos).",
+    "Cuenta a un amigo tres noticias del día con «Ho letto che...» (5 minutos).",
+    "Escribe cinco frases de lo que te dijeron hoy usando «mi ha detto che...» (6 minutos).",
+    "Escucha un telegiornale o un podcast de RAI durante 5 minutos y anota cinco palabras de medios."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b1-u9-l1",
+      "n": 1,
+      "titulo": "Los medios de comunicación",
+      "objetivo": "Nombrar los medios y decir cómo me informo.",
+      "intro": "Estas palabras son la base del tema. Truco: «il giornale» es tanto el periódico como el diario; «la notizia» es una noticia y «le notizie» son las noticias.",
+      "palabras": [
+        { "t": "il giornale", "es": "el periódico / el diario", "pron": "il yornále", "ej": "Leggo il giornale ogni mattina.", "ejes": "Leo el periódico cada mañana.", "cog": false },
+        { "t": "la notizia", "es": "la noticia", "pron": "la notítsia", "ej": "La notizia è importante.", "ejes": "La noticia es importante.", "cog": true },
+        { "t": "il telegiornale", "es": "el noticiero", "pron": "il teleyornále", "ej": "Guardo il telegiornale alle otto.", "ejes": "Veo el noticiero a las ocho.", "cog": false },
+        { "t": "la rivista", "es": "la revista", "pron": "la rivísta", "ej": "La rivista è interessante.", "ejes": "La revista es interesante.", "cog": true },
+        { "t": "il giornalista", "es": "el periodista", "pron": "il yornalísta", "ej": "Il giornalista fa una domanda.", "ejes": "El periodista hace una pregunta.", "cog": false },
+        { "t": "l'articolo", "es": "el artículo", "pron": "lartícolo", "ej": "L'articolo è molto lungo.", "ejes": "El artículo es muy largo.", "cog": true },
+        { "t": "il titolo", "es": "el titular / el título", "pron": "il títolo", "ej": "Il titolo è interessante.", "ejes": "El titular es interesante.", "cog": true },
+        { "t": "il sito", "es": "el sitio web", "pron": "il síto", "ej": "Il sito è molto chiaro.", "ejes": "El sitio es muy claro.", "cog": true },
+        { "t": "informarsi", "es": "informarse", "pron": "informársi", "ej": "Mi piace informarsi ogni giorno.", "ejes": "Me gusta informarme todos los días.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Leggo il giornale ogni mattina.", "es": "Leo el periódico cada mañana.", "pron": "léggo il yornále óñi mattína" },
+        { "t": "Ho una notizia importante.", "es": "Tengo una noticia importante.", "pron": "o úna notítsia importánte" },
+        { "t": "Guardo il telegiornale la sera.", "es": "Veo el noticiero por la noche.", "pron": "guárdo il teleyornále la séra" },
+        { "t": "Il titolo è molto interessante.", "es": "El titular es muy interesante.", "pron": "il títolo é mólto interessánte" },
+        { "t": "Mi informo sul sito del giornale.", "es": "Me informo en el sitio del periódico.", "pron": "mi infórmo sul síto del yornále" }
+      ],
+      "dialogo": {
+        "titulo": "En la mesa del desayuno",
+        "lineas": [
+          { "q": "A", "t": "Leggi il giornale ogni mattina?", "es": "¿Lees el periódico cada mañana?" },
+          { "q": "B", "t": "Sì, ma oggi leggo le notizie sul sito.", "es": "Sí, pero hoy leo las noticias en el sitio." },
+          { "q": "A", "t": "Ci sono notizie importanti?", "es": "¿Hay noticias importantes?" },
+          { "q": "B", "t": "Il titolo parla di una nuova legge.", "es": "El titular habla de una nueva ley." },
+          { "q": "A", "t": "Interessante. Poi guardiamo il telegiornale.", "es": "Interesante. Luego vemos el noticiero." }
+        ]
+      },
+      "nota": "«Informarsi» es reflexivo: mi informo, ti informi, si informa. «Il telegiornale» se abrevia en conversación como «il tg» (se dice «ti-yí»)."
+    },
+    {
+      "id": "it-b1-u9-l2",
+      "n": 2,
+      "titulo": "Verbos de dicción",
+      "objetivo": "Usar «dire» y otros verbos para contar lo que se dijo.",
+      "intro": "Estos verbos te sirven para reportar. Truco: casi todos se forman con avere + participio en -ato: raccontare → ha raccontato, spiegare → ha spiegato. «Dire» es irregular: ha detto.",
+      "palabras": [
+        { "t": "dire", "es": "decir", "pron": "díre", "ej": "Voglio dire una cosa.", "ejes": "Quiero decir una cosa.", "cog": false, "truco": "Participio: detto." },
+        { "t": "raccontare", "es": "contar / relatar", "pron": "raccontáre", "ej": "Mi piace raccontare storie.", "ejes": "Me gusta contar historias.", "cog": false },
+        { "t": "spiegare", "es": "explicar", "pron": "spiegáre", "ej": "Posso spiegare tutto.", "ejes": "Puedo explicarlo todo.", "cog": false },
+        { "t": "annunciare", "es": "anunciar", "pron": "annunciáre", "ej": "Vogliono annunciare una novità.", "ejes": "Quieren anunciar una novedad.", "cog": true },
+        { "t": "rispondere", "es": "responder", "pron": "rispóndere", "ej": "Devo rispondere a una mail.", "ejes": "Debo responder un correo.", "cog": false, "truco": "Participio irregular: risposto." },
+        { "t": "chiedere", "es": "preguntar / pedir", "pron": "quiédere", "ej": "Vorrei chiedere una cosa.", "ejes": "Quisiera preguntar una cosa.", "cog": false, "truco": "Participio irregular: chiesto." },
+        { "t": "dichiarare", "es": "declarar", "pron": "diquiaráre", "ej": "Il ministro vuole dichiarare qualcosa.", "ejes": "El ministro quiere declarar algo.", "cog": true },
+        { "t": "aggiungere", "es": "añadir", "pron": "addyúndyere", "ej": "Devo aggiungere una cosa.", "ejes": "Debo añadir una cosa.", "cog": false, "truco": "Participio irregular: aggiunto." }
+      ],
+      "frases": [
+        { "t": "Il ministro ha detto che parte domani.", "es": "El ministro dijo que parte mañana.", "pron": "il minístro a détto ke párte dománi" },
+        { "t": "Mi ha raccontato una storia incredibile.", "es": "Me contó una historia increíble.", "pron": "mi a raccontáto úna stória incredíbile" },
+        { "t": "Ha spiegato che il treno è in ritardo.", "es": "Explicó que el tren está retrasado.", "pron": "a spiegáto ke il tren é in ritárdo" },
+        { "t": "Ha annunciato che la società chiude.", "es": "Anunció que la empresa cierra.", "pron": "a annunciáto ke la sociétá quiúde" },
+        { "t": "Ti ha risposto Paolo?", "es": "¿Te respondió Paolo?", "pron": "ti a rispósto páolo" }
+      ],
+      "dialogo": {
+        "titulo": "Chismes de oficina",
+        "lineas": [
+          { "q": "A", "t": "Sai che cosa ha detto il capo?", "es": "¿Sabes qué dijo el jefe?" },
+          { "q": "B", "t": "No, che cosa ha detto?", "es": "No, ¿qué dijo?" },
+          { "q": "A", "t": "Ha annunciato che da lunedì lavoriamo da casa.", "es": "Anunció que desde el lunes trabajamos desde casa." },
+          { "q": "B", "t": "Davvero? Chi te l'ha raccontato?", "es": "¿De verdad? ¿Quién te lo contó?" },
+          { "q": "A", "t": "Me l'ha spiegato Giulia, ha letto la mail.", "es": "Me lo explicó Giulia, leyó el correo." }
+        ]
+      },
+      "nota": "«Dire» = decir una frase; «raccontare» = contar una historia; «spiegare» = explicar. «Me l'ha raccontato» lleva pronombres que son una expresión fija por ahora: me lo contó."
+    },
+    {
+      "id": "it-b1-u9-l3",
+      "n": 3,
+      "titulo": "Contar una noticia",
+      "objetivo": "Contar una noticia con «ho letto che» y «ho sentito che».",
+      "intro": "Para contar una novedad empieza con la fuente. Truco: «ho letto che» (leí que) y «ho sentito che» (oí que) suenan naturales y evitan afirmar algo sin pruebas.",
+      "palabras": [
+        { "t": "ho letto che", "es": "leí que", "pron": "o létto ke", "ej": "Ho letto che domani sciopera la metro.", "ejes": "Leí que mañana hay huelga del metro.", "cog": false },
+        { "t": "ho sentito che", "es": "oí que", "pron": "o sentíto ke", "ej": "Ho sentito che Marco cambia lavoro.", "ejes": "Oí que Marco cambia de trabajo.", "cog": false },
+        { "t": "si dice che", "es": "se dice que", "pron": "si díche ke", "ej": "Si dice che è un bravo attore.", "ejes": "Se dice que es un buen actor.", "cog": false },
+        { "t": "secondo il telegiornale", "es": "según el noticiero", "pron": "secóndo il teleyornále", "ej": "Secondo il telegiornale oggi piove.", "ejes": "Según el noticiero hoy llueve.", "cog": false },
+        { "t": "lo sciopero", "es": "la huelga", "pron": "lo shópero", "ej": "Lo sciopero dura due giorni.", "ejes": "La huelga dura dos días.", "cog": false },
+        { "t": "la novità", "es": "la novedad", "pron": "la novitá", "ej": "La novità è bella.", "ejes": "La novedad es buena.", "cog": true },
+        { "t": "l'incidente", "es": "el accidente", "pron": "linchidénte", "ej": "L'incidente è grave.", "ejes": "El accidente es grave.", "cog": true },
+        { "t": "successo", "es": "sucedido", "pron": "succésso", "ej": "Che cosa è successo?", "ejes": "¿Qué pasó?", "cog": false, "truco": "Participio de succedere; va con essere." }
+      ],
+      "frases": [
+        { "t": "Ho letto che domani c'è sciopero.", "es": "Leí que mañana hay huelga.", "pron": "o létto ke dománi che shópero" },
+        { "t": "Ho sentito che Marco cambia lavoro.", "es": "Oí que Marco cambia de trabajo.", "pron": "o sentíto ke márco cámbia lavóro" },
+        { "t": "Secondo il telegiornale oggi piove.", "es": "Según el noticiero hoy llueve.", "pron": "secóndo il teleyornále ódyi piove" },
+        { "t": "Che cosa è successo?", "es": "¿Qué pasó?", "pron": "ke cósa é succésso" },
+        { "t": "C'è una novità importante.", "es": "Hay una novedad importante.", "pron": "che úna novitá importánte" }
+      ],
+      "dialogo": {
+        "titulo": "En el bar",
+        "lineas": [
+          { "q": "A", "t": "Hai sentito la notizia?", "es": "¿Oíste la noticia?" },
+          { "q": "B", "t": "Quale? Che cosa è successo?", "es": "¿Cuál? ¿Qué pasó?" },
+          { "q": "A", "t": "Ho letto che domani c'è sciopero dei treni.", "es": "Leí que mañana hay huelga de trenes." },
+          { "q": "B", "t": "Secondo il telegiornale dura due giorni.", "es": "Según el noticiero dura dos días." },
+          { "q": "A", "t": "Allora vado in ufficio in macchina.", "es": "Entonces voy a la oficina en auto." }
+        ]
+      },
+      "nota": "«Si dice che» puede ir con congiuntivo o con presente normal. Por ahora usa el presente normal: «si dice che è bravo». «Successo» va con essere: «è successo»."
+    },
+    {
+      "id": "it-b1-u9-l4",
+      "n": 4,
+      "titulo": "Fuentes y noticias falsas",
+      "objetivo": "Hablar de si una noticia es verdadera o falsa y si una fuente es fiable.",
+      "intro": "Hoy hay muchas noticias falsas. Truco: «fake news» se dice igual en italiano, pero también puedes decir «notizia falsa» o «bufala».",
+      "palabras": [
+        { "t": "la fonte", "es": "la fuente", "pron": "la fónte", "ej": "Qual è la fonte?", "ejes": "¿Cuál es la fuente?", "cog": false },
+        { "t": "affidabile", "es": "confiable", "pron": "affidábile", "ej": "Questo sito è affidabile.", "ejes": "Este sitio es confiable.", "cog": false },
+        { "t": "falso", "es": "falso", "pron": "fálso", "ej": "Il titolo è falso.", "ejes": "El titular es falso.", "cog": true },
+        { "t": "la bufala", "es": "el bulo / noticia falsa", "pron": "la búfala", "ej": "La bufala è molto comune.", "ejes": "El bulo es muy común.", "cog": false },
+        { "t": "fidarsi", "es": "confiar", "pron": "fidársi", "ej": "Non è facile fidarsi di tutti.", "ejes": "No es fácil confiar en todos.", "cog": false },
+        { "t": "verificare", "es": "verificar", "pron": "verificáre", "ej": "Devi verificare la fonte.", "ejes": "Debes verificar la fuente.", "cog": true },
+        { "t": "condividere", "es": "compartir", "pron": "condivídere", "ej": "Non voglio condividere il post.", "ejes": "No quiero compartir el post.", "cog": false },
+        { "t": "ufficiale", "es": "oficial", "pron": "ufficiále", "ej": "Il comunicato è ufficiale.", "ejes": "El comunicado es oficial.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Qual è la fonte di questa notizia?", "es": "¿Cuál es la fuente de esta noticia?", "pron": "cuál é la fónte di cuésta notítsia" },
+        { "t": "Non mi fido di questo sito.", "es": "No confío en este sitio.", "pron": "non mi fído di cuésto síto" },
+        { "t": "Devi verificare prima di condividere.", "es": "Debes verificar antes de compartir.", "pron": "déví verificáre príma di condividére" },
+        { "t": "Penso che sia una bufala.", "es": "Pienso que es un bulo.", "pron": "pénso ke sía úna búfala" },
+        { "t": "Il comunicato ufficiale dice che è falso.", "es": "El comunicado oficial dice que es falso.", "pron": "il comunicáto ufficiále díche ke é fálso" }
+      ],
+      "dialogo": {
+        "titulo": "Un mensaje sospechoso",
+        "lineas": [
+          { "q": "A", "t": "Hai visto questa notizia sul telefono?", "es": "¿Viste esta noticia en el teléfono?" },
+          { "q": "B", "t": "Sì, ma non mi fido. Qual è la fonte?", "es": "Sí, pero no confío. ¿Cuál es la fuente?" },
+          { "q": "A", "t": "Non c'è. Penso che sia una bufala.", "es": "No hay. Pienso que es un bulo." },
+          { "q": "B", "t": "Devi verificare prima di condividere.", "es": "Debes verificar antes de compartir." },
+          { "q": "A", "t": "Hai ragione, guardo il sito ufficiale.", "es": "Tienes razón, miro el sitio oficial." }
+        ]
+      },
+      "nota": "«Fidarsi di» + algo o alguien: «mi fido di te». «Di» es obligatorio. «Prima di» + infinitivo = antes de: «prima di condividere»."
+    },
+    {
+      "id": "it-b1-u9-l5",
+      "n": 5,
+      "titulo": "Repaso: el resumen de las noticias",
+      "objetivo": "Resumir noticias y contar lo que dijeron otros con vocabulario de medios.",
+      "intro": "Cuenta las noticias del día como si fueras presentador. Truco: abre con la fuente (secondo..., ho letto che...) y sigue con un verbo de dicción.",
+      "palabras": [
+        { "t": "la cronaca", "es": "la crónica / sucesos", "pron": "la crónaca", "ej": "Leggo la cronaca locale.", "ejes": "Leo los sucesos locales.", "cog": true },
+        { "t": "l'intervista", "es": "la entrevista", "pron": "lintervísta", "ej": "L'intervista è molto lunga.", "ejes": "La entrevista es muy larga.", "cog": true },
+        { "t": "il presentatore", "es": "el presentador", "pron": "il presentatóre", "ej": "Il presentatore è simpatico.", "ejes": "El presentador es simpático.", "cog": true },
+        { "t": "la diretta", "es": "la transmisión en vivo", "pron": "la diréta", "ej": "Guardo la diretta del concerto.", "ejes": "Veo la transmisión en vivo del concierto.", "cog": false },
+        { "t": "il canale", "es": "el canal", "pron": "il canále", "ej": "Il canale è nuovo.", "ejes": "El canal es nuevo.", "cog": true },
+        { "t": "pubblicare", "es": "publicar", "pron": "pubblicáre", "ej": "Vogliono pubblicare la notizia.", "ejes": "Quieren publicar la noticia.", "cog": true },
+        { "t": "la pubblicità", "es": "la publicidad", "pron": "la pubblicitá", "ej": "Non mi piace la pubblicità.", "ejes": "No me gusta la publicidad.", "cog": true },
+        { "t": "seguire", "es": "seguir", "pron": "seguíre", "ej": "Mi piace seguire le notizie.", "ejes": "Me gusta seguir las noticias.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Segui il telegiornale ogni sera?", "es": "¿Sigues el noticiero cada noche?", "pron": "ségui il teleyornále óñi séra" },
+        { "t": "Il giornalista ha fatto un'intervista al ministro.", "es": "El periodista entrevistó al ministro.", "pron": "il yornalísta a fátto unintervísta al minístro" },
+        { "t": "Ho letto che pubblicano la notizia oggi.", "es": "Leí que publican la noticia hoy.", "pron": "o létto ke públicano la notítsia ódyi" },
+        { "t": "Ha chiesto se la notizia è vera.", "es": "Preguntó si la noticia es verdadera.", "pron": "a quiésto se la notítsia é véra" },
+        { "t": "Secondo me ci sono troppe pubblicità.", "es": "En mi opinión hay demasiados anuncios.", "pron": "secóndo me chi sóno tróppe pubblicitá" }
+      ],
+      "dialogo": {
+        "titulo": "Preparando el noticiero",
+        "lineas": [
+          { "q": "A", "t": "Che cosa abbiamo oggi in cronaca?", "es": "¿Qué tenemos hoy en sucesos?" },
+          { "q": "B", "t": "Il ministro ha annunciato una nuova legge.", "es": "El ministro anunció una nueva ley." },
+          { "q": "A", "t": "E l'intervista al ministro?", "es": "¿Y la entrevista al ministro?" },
+          { "q": "B", "t": "La pubblichiamo domani, il giornalista ha detto che è pronta.", "es": "La publicamos mañana, el periodista dijo que está lista." },
+          { "q": "A", "t": "Perfetto. Allora iniziamo la diretta.", "es": "Perfecto. Entonces empezamos la transmisión." }
+        ]
+      },
+      "nota": "«La pubblicità» es tanto la publicidad como un anuncio. «Pubblicare» se escribe con doble b. En el Perú se dice «noticiero» y en Italia «telegiornale» (tg)."
+    }
+  ]
+}

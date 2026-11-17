@@ -1,7 +1,7 @@
 /* Idiomas · curso por unidades con lecciones, repaso espaciado y audio. Tu progreso va a tu hoja «Fergard · Idiomas». */
 (function () {
   "use strict";
-  var CFG = window.FG_CFG || {}, VERSION = "0.3.0", DB_KEY = "idiomas_db", M = window.IMotor;
+  var CFG = window.FG_CFG || {}, VERSION = "0.4.0", DB_KEY = "idiomas_db", M = window.IMotor;
   var IDI = [{ id: "en", n: "Inglés", nat: "English", b: "🇺🇸", voz: "en-US" }, { id: "pt", n: "Portugués", nat: "Português", b: "🇧🇷", voz: "pt-BR" }, { id: "it", n: "Italiano", nat: "Italiano", b: "🇮🇹", voz: "it-IT" }];
   var $ = function (s, r) { return (r || document).querySelector(s); };
   var $$ = function (s, r) { return Array.prototype.slice.call((r || document).querySelectorAll(s)); };

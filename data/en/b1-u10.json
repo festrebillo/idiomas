@@ -1,0 +1,219 @@
+{
+  "id": "en-b1-u10",
+  "idioma": "en",
+  "nivel": "B1",
+  "n": 10,
+  "titulo": "Tecnología y redes",
+  "resumen": "Aprenderás vocabulario de dispositivos y redes sociales, phrasal verbs de tecnología y cuándo usar el gerundio (-ing) o el infinitivo (to + verbo).",
+  "puedo": [
+    "Nombrar dispositivos y sus partes: screen, battery, charger.",
+    "Hablar de redes sociales: post, follower, profile, share.",
+    "Usar phrasal verbs de tecnología: log in, turn on, back up.",
+    "Elegir entre verbo + -ing y verbo + to + verbo.",
+    "Hablar de seguridad y problemas en internet."
+  ],
+  "gramatica": {
+    "titulo": "Gerundio (-ing) o infinitivo (to + verbo)",
+    "texto": "Cuando dos verbos van juntos, el segundo toma una de dos formas: -ing (gerundio) o to + verbo (infinitivo). No hay una regla universal: depende del primer verbo, y conviene aprender los más comunes.\nVerbos + -ing: enjoy, avoid, keep, finish, give up, can't stand, mind. I avoid using public Wi-Fi. She keeps checking her phone.\nVerbos + to + verbo: want, need, decide, plan, hope, manage, learn, forget. I decided to buy a new laptop.\nDespués de una preposición siempre va -ing: I'm interested in learning to code. She is good at taking photos.\nTruco: los verbos de gusto o de hábito suelen llevar -ing; los verbos de planes y deseos suelen llevar to + verbo.",
+    "tabla": [
+      ["I enjoy chatting online.", "Disfruto chateando en línea.", "ai enyói chátin onláin"],
+      ["She avoids posting photos.", "Ella evita subir fotos.", "shi avóids póustin fóutous"],
+      ["He keeps checking his phone.", "Él sigue revisando su celular.", "ji kips chékin jis foun"],
+      ["I want to buy a new tablet.", "Quiero comprar una tableta nueva.", "ai uont tu bai a niu táblet"],
+      ["We decided to delete the app.", "Decidimos borrar la aplicación.", "ui disáidid tu dilít di ap"],
+      ["I'm good at fixing computers.", "Soy bueno arreglando computadoras.", "aim gud at fíksin compiúters"]
+    ],
+    "errores": [
+      "No uses infinitivo después de enjoy, avoid o keep: es I enjoy playing games, no «I enjoy to play games».",
+      "No uses infinitivo después de una preposición: es I'm interested in learning, no «interested in to learn».",
+      "No uses -ing después de want, decide o need: es I want to learn, no «I want learning»."
+    ]
+  },
+  "practica": [
+    "Escribe 8 frases sobre tus hábitos con el celular usando enjoy, avoid, keep y finish + -ing (10 minutos).",
+    "Escribe 6 planes tecnológicos con want, need, decide y plan + to + verbo (8 minutos).",
+    "Cambia el idioma de tu celular a inglés por un día y anota 10 palabras nuevas de los menús (10 minutos).",
+    "Explícale en voz alta a alguien, en inglés, cómo se hace un backup o cómo se crea una cuenta nueva (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b1-u10-l1",
+      "n": 1,
+      "titulo": "Dispositivos",
+      "objetivo": "Nombrar dispositivos y sus partes principales.",
+      "intro": "Empezamos con los objetos que usas cada día. Truco: device es cualquier aparato electrónico; gadget es un aparato pequeño y curioso.",
+      "palabras": [
+        { "t": "device", "es": "dispositivo", "pron": "diváis", "ej": "This device is very light.", "ejes": "Este dispositivo es muy ligero.", "cog": true },
+        { "t": "screen", "es": "pantalla", "pron": "scrin", "ej": "My phone screen is broken.", "ejes": "La pantalla de mi celular está rota.", "cog": false },
+        { "t": "battery", "es": "batería", "pron": "báteri", "ej": "My battery is low.", "ejes": "Mi batería está baja.", "cog": false },
+        { "t": "charger", "es": "cargador", "pron": "chárcher", "ej": "Do you have a charger?", "ejes": "¿Tienes un cargador?", "cog": false },
+        { "t": "cable", "es": "cable", "pron": "kéibol", "ej": "This cable is too short.", "ejes": "Este cable es muy corto.", "cog": true },
+        { "t": "keyboard", "es": "teclado", "pron": "kíbord", "ej": "The keyboard is very comfortable.", "ejes": "El teclado es muy cómodo.", "cog": false },
+        { "t": "wireless", "es": "inalámbrico", "pron": "uáierles", "ej": "I bought wireless headphones.", "ejes": "Compré audífonos inalámbricos.", "cog": false },
+        { "t": "password", "es": "contraseña", "pron": "pásuerd", "ej": "I forgot my password.", "ejes": "Olvidé mi contraseña.", "cog": false },
+        { "t": "gadget", "es": "aparato / artilugio", "pron": "gáchet", "ej": "He loves every new gadget.", "ejes": "Le encanta cada aparato nuevo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "My phone battery is almost dead.", "es": "La batería de mi celular está casi muerta.", "pron": "mai foun báteri is ólmoust ded" },
+        { "t": "Do you have a charger I can borrow?", "es": "¿Tienes un cargador que me prestes?", "pron": "du iu jav a chárcher ai can bórou" },
+        { "t": "I forgot my password again.", "es": "Olvidé mi contraseña otra vez.", "pron": "ai forgát mai pásuerd agén" },
+        { "t": "The screen of this laptop is huge.", "es": "La pantalla de esta laptop es enorme.", "pron": "da scrin ov dis láptop is hiuch" },
+        { "t": "I prefer wireless headphones.", "es": "Prefiero audífonos inalámbricos.", "pron": "ai prifér uáierles jédfounz" }
+      ],
+      "dialogo": {
+        "titulo": "Sin batería",
+        "lineas": [
+          { "q": "A", "t": "My battery is almost dead. Do you have a charger?", "es": "Mi batería está casi muerta. ¿Tienes un cargador?" },
+          { "q": "B", "t": "Yes, but the cable is short.", "es": "Sí, pero el cable es corto." },
+          { "q": "A", "t": "No problem. I can sit near the wall.", "es": "No hay problema. Puedo sentarme cerca de la pared." },
+          { "q": "B", "t": "Here. And the Wi-Fi password is on the screen.", "es": "Toma. Y la contraseña del Wi-Fi está en la pantalla." }
+        ]
+      },
+      "nota": "Laptop es la computadora portátil. Notebook se usa menos en EE. UU. para eso. Cellphone y cell son comunes; también se dice smartphone."
+    },
+    {
+      "id": "en-b1-u10-l2",
+      "n": 2,
+      "titulo": "Redes sociales",
+      "objetivo": "Hablar de publicar, compartir y seguir en redes sociales.",
+      "intro": "Las redes sociales tienen su propio vocabulario. Truco: post sirve como verbo (publicar) y como sustantivo (una publicación).",
+      "palabras": [
+        { "t": "post", "es": "publicar / publicación", "pron": "poust", "ej": "I post photos every week.", "ejes": "Publico fotos cada semana.", "cog": false },
+        { "t": "follower", "es": "seguidor", "pron": "fólouer", "ej": "I have a new follower today.", "ejes": "Hoy tengo un seguidor nuevo.", "cog": false },
+        { "t": "profile", "es": "perfil", "pron": "próufail", "ej": "Update your profile picture.", "ejes": "Actualiza tu foto de perfil.", "cog": true },
+        { "t": "notification", "es": "notificación", "pron": "noutifikéishen", "ej": "I got a notification from the app.", "ejes": "Recibí una notificación de la aplicación.", "cog": true },
+        { "t": "upload", "es": "subir (archivos)", "pron": "áploud", "ej": "I want to upload this video.", "ejes": "Quiero subir este video.", "cog": false },
+        { "t": "download", "es": "descargar", "pron": "dáunloud", "ej": "You can download the file here.", "ejes": "Puedes descargar el archivo aquí.", "cog": false },
+        { "t": "share", "es": "compartir", "pron": "sher", "ej": "Please share this post.", "ejes": "Por favor, comparte esta publicación.", "cog": false },
+        { "t": "comment", "es": "comentario / comentar", "pron": "cóment", "ej": "Leave a comment below.", "ejes": "Deja un comentario abajo.", "cog": true },
+        { "t": "stream", "es": "transmitir en vivo", "pron": "strim", "ej": "They stream games every night.", "ejes": "Transmiten juegos en vivo cada noche.", "cog": false }
+      ],
+      "frases": [
+        { "t": "She has ten thousand followers.", "es": "Ella tiene diez mil seguidores.", "pron": "shi jas ten záusend fólouers" },
+        { "t": "I post photos every weekend.", "es": "Publico fotos cada fin de semana.", "pron": "ai poust fóutous évri uíkend" },
+        { "t": "Can you share the link with me?", "es": "¿Puedes compartir el enlace conmigo?", "pron": "can iu sher da link uid mi" },
+        { "t": "I got a notification from the app.", "es": "Recibí una notificación de la aplicación.", "pron": "ai gat a noutifikéishen from di ap" },
+        { "t": "I want to upload this video.", "es": "Quiero subir este video.", "pron": "ai uont tu áploud dis vídiou" }
+      ],
+      "dialogo": {
+        "titulo": "Una foto en la red",
+        "lineas": [
+          { "q": "A", "t": "I want to post this photo on my profile.", "es": "Quiero publicar esta foto en mi perfil." },
+          { "q": "B", "t": "Great. Please share it with me.", "es": "Genial. Compártela conmigo." },
+          { "q": "A", "t": "It already has fifty comments!", "es": "¡Ya tiene cincuenta comentarios!" },
+          { "q": "B", "t": "You have many followers now.", "es": "Ahora tienes muchos seguidores." }
+        ]
+      },
+      "nota": "Like es «me gusta» y también «dar me gusta»: I liked her post. Para seguir a alguien en una red se dice follow: I follow her."
+    },
+    {
+      "id": "en-b1-u10-l3",
+      "n": 3,
+      "titulo": "Phrasal verbs de tecnología",
+      "objetivo": "Usar los phrasal verbs de tecnología más comunes.",
+      "intro": "Un phrasal verb es un verbo + una partícula (up, on, in...) que cambia el significado. Truco: aprende cada uno con un objeto: log in a una cuenta, turn on el celular.",
+      "palabras": [
+        { "t": "log in", "es": "iniciar sesión", "pron": "log in", "ej": "I can't log in to my account.", "ejes": "No puedo iniciar sesión en mi cuenta.", "cog": false },
+        { "t": "log out", "es": "cerrar sesión", "pron": "log aut", "ej": "Please log out when you finish.", "ejes": "Cierra sesión cuando termines.", "cog": false },
+        { "t": "sign up", "es": "registrarse", "pron": "sain ap", "ej": "I want to sign up for the course.", "ejes": "Quiero inscribirme en el curso.", "cog": false },
+        { "t": "turn on", "es": "encender", "pron": "tern on", "ej": "Turn on the computer, please.", "ejes": "Enciende la computadora, por favor.", "cog": false },
+        { "t": "turn off", "es": "apagar", "pron": "tern of", "ej": "Turn off your phone in class.", "ejes": "Apaga tu celular en clase.", "cog": false },
+        { "t": "plug in", "es": "enchufar", "pron": "plag in", "ej": "Plug in the charger.", "ejes": "Enchufa el cargador.", "cog": false },
+        { "t": "set up", "es": "configurar / instalar", "pron": "set ap", "ej": "Can you set up the router?", "ejes": "¿Puedes configurar el router?", "cog": false },
+        { "t": "back up", "es": "hacer copia de seguridad", "pron": "bak ap", "ej": "I always back up my photos.", "ejes": "Siempre hago copia de seguridad de mis fotos.", "cog": false },
+        { "t": "scroll down", "es": "desplazarse hacia abajo", "pron": "scrol daun", "ej": "Scroll down to see more.", "ejes": "Desplázate hacia abajo para ver más.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I can't log in to my account.", "es": "No puedo iniciar sesión en mi cuenta.", "pron": "ai cant log in tu mai acáunt" },
+        { "t": "Turn off your phone, please.", "es": "Apaga tu celular, por favor.", "pron": "tern of iur foun, plis" },
+        { "t": "Can you set up the Wi-Fi for me?", "es": "¿Puedes configurar el Wi-Fi por mí?", "pron": "can iu set ap da uái-fai for mi" },
+        { "t": "I always back up my photos.", "es": "Siempre hago copia de seguridad de mis fotos.", "pron": "ai ólueis bak ap mai fóutous" },
+        { "t": "You need to sign up first.", "es": "Primero necesitas registrarte.", "pron": "iu nid tu sain ap ferst" }
+      ],
+      "dialogo": {
+        "titulo": "Una cuenta nueva",
+        "lineas": [
+          { "q": "A", "t": "I can't log in to my new account.", "es": "No puedo iniciar sesión en mi cuenta nueva." },
+          { "q": "B", "t": "Did you sign up first?", "es": "¿Te registraste primero?" },
+          { "q": "A", "t": "Yes, but I forgot the password.", "es": "Sí, pero olvidé la contraseña." },
+          { "q": "B", "t": "Turn off the app, turn it on again and try once more.", "es": "Apaga la aplicación, enciéndela otra vez y prueba de nuevo." },
+          { "q": "A", "t": "It works! I'll back up my data now.", "es": "¡Funciona! Ahora haré una copia de mis datos." }
+        ]
+      },
+      "nota": "Con objetos, la partícula puede ir en medio: Turn it off, no «Turn off it». Con un pronombre (it, them), siempre va en medio."
+    },
+    {
+      "id": "en-b1-u10-l4",
+      "n": 4,
+      "titulo": "Verbo + -ing o + to",
+      "objetivo": "Elegir entre -ing y to + verbo después de los verbos más comunes.",
+      "intro": "Ahora aplicamos la gramática de la unidad. Truco: con enjoy, avoid, keep, give up y consider va -ing; con manage, decide, want y plan va to + verbo.",
+      "palabras": [
+        { "t": "avoid", "es": "evitar", "pron": "avóid", "ej": "I avoid clicking strange links.", "ejes": "Evito hacer clic en enlaces extraños.", "cog": false },
+        { "t": "keep", "es": "seguir / continuar", "pron": "kip", "ej": "Keep trying; it will work.", "ejes": "Sigue intentando; va a funcionar.", "cog": false },
+        { "t": "manage", "es": "lograr", "pron": "mánich", "ej": "Can you manage to finish today?", "ejes": "¿Puedes lograr terminar hoy?", "cog": false },
+        { "t": "give up", "es": "rendirse / dejar de", "pron": "guiv ap", "ej": "Don't give up now.", "ejes": "No te rindas ahora.", "cog": false },
+        { "t": "spend", "es": "pasar (tiempo) / gastar", "pron": "spend", "ej": "I spend too much time online.", "ejes": "Paso demasiado tiempo en línea.", "cog": false },
+        { "t": "waste", "es": "desperdiciar", "pron": "ueist", "ej": "Don't waste your time on this.", "ejes": "No pierdas tu tiempo en esto.", "cog": false },
+        { "t": "consider", "es": "considerar", "pron": "consíder", "ej": "I consider buying a new phone.", "ejes": "Estoy considerando comprar un celular nuevo.", "cog": true },
+        { "t": "addicted", "es": "adicto", "pron": "adíctid", "ej": "He is addicted to his phone.", "ejes": "Es adicto a su celular.", "cog": true },
+        { "t": "can't stand", "es": "no soportar", "pron": "cant stand", "ej": "I can't stand waiting for slow Wi-Fi.", "ejes": "No soporto esperar al Wi-Fi lento.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I avoid using public Wi-Fi.", "es": "Evito usar Wi-Fi público.", "pron": "ai avóid iúsin páblic uái-fai" },
+        { "t": "She keeps checking her phone.", "es": "Ella sigue revisando su celular.", "pron": "shi kips chékin jer foun" },
+        { "t": "I managed to fix the problem.", "es": "Logré arreglar el problema.", "pron": "ai mánichd tu fiks da próblem" },
+        { "t": "He spends hours playing video games.", "es": "Pasa horas jugando videojuegos.", "pron": "ji spends auers pléin vídiou guéims" },
+        { "t": "I'm considering buying a new laptop.", "es": "Estoy considerando comprar una laptop nueva.", "pron": "aim consíderin báiin a niu láptop" },
+        { "t": "Don't give up learning to code.", "es": "No te rindas con aprender a programar.", "pron": "dount guiv ap lérnin tu coud" }
+      ],
+      "dialogo": {
+        "titulo": "Demasiado tiempo en línea",
+        "lineas": [
+          { "q": "A", "t": "I spend too much time scrolling on my phone.", "es": "Paso demasiado tiempo deslizando en mi celular." },
+          { "q": "B", "t": "Try to avoid using it at night.", "es": "Intenta evitar usarlo de noche." },
+          { "q": "A", "t": "I keep checking it every five minutes.", "es": "Lo reviso cada cinco minutos." },
+          { "q": "B", "t": "I decided to turn off notifications. It helped.", "es": "Yo decidí desactivar las notificaciones. Me ayudó." },
+          { "q": "A", "t": "Good idea. I'll try to do that.", "es": "Buena idea. Intentaré hacerlo." }
+        ]
+      },
+      "nota": "Try to + verbo es «intentar hacer algo» (esfuerzo); try + -ing es «probar a hacer algo» (experimento): Try restarting the router."
+    },
+    {
+      "id": "en-b1-u10-l5",
+      "n": 5,
+      "titulo": "Repaso: seguridad en línea",
+      "objetivo": "Hablar de seguridad y problemas en línea con gerundios e infinitivos.",
+      "intro": "Cerramos con vocabulario de seguridad en internet y repasamos los dos patrones de verbos. Truco: después de una preposición (about, in, of) siempre va -ing.",
+      "palabras": [
+        { "t": "privacy", "es": "privacidad", "pron": "práivasi", "ej": "I care about my privacy.", "ejes": "Me importa mi privacidad.", "cog": true },
+        { "t": "security", "es": "seguridad", "pron": "sikiúriti", "ej": "Online security is important.", "ejes": "La seguridad en línea es importante.", "cog": true },
+        { "t": "hacker", "es": "hacker", "pron": "jáker", "ej": "A hacker stole my password.", "ejes": "Un hacker robó mi contraseña.", "cog": true },
+        { "t": "scam", "es": "estafa", "pron": "scam", "ej": "That email is a scam.", "ejes": "Ese correo es una estafa.", "cog": false },
+        { "t": "data", "es": "datos", "pron": "déita", "ej": "They collect your personal data.", "ejes": "Recopilan tus datos personales.", "cog": true },
+        { "t": "software", "es": "programa / software", "pron": "sóftuer", "ej": "Update the software regularly.", "ejes": "Actualiza el programa con regularidad.", "cog": true },
+        { "t": "link", "es": "enlace", "pron": "link", "ej": "Don't click that link.", "ejes": "No hagas clic en ese enlace.", "cog": false },
+        { "t": "spam", "es": "correo basura", "pron": "spam", "ej": "My inbox is full of spam.", "ejes": "Mi bandeja está llena de correo basura.", "cog": true },
+        { "t": "virus", "es": "virus", "pron": "váiras", "ej": "My laptop has a virus.", "ejes": "Mi laptop tiene un virus.", "cog": true }
+      ],
+      "frases": [
+        { "t": "I'm worried about losing my data.", "es": "Me preocupa perder mis datos.", "pron": "aim uérid abáut lúsin mai déita" },
+        { "t": "Avoid clicking links from strangers.", "es": "Evita hacer clic en enlaces de desconocidos.", "pron": "avóid clíkin links from stréinchers" },
+        { "t": "I decided to change all my passwords.", "es": "Decidí cambiar todas mis contraseñas.", "pron": "ai disáidid tu cheinch ol mai pásuerds" },
+        { "t": "That email is a scam.", "es": "Ese correo es una estafa.", "pron": "dat ímeil is a scam" },
+        { "t": "We need to update the software.", "es": "Necesitamos actualizar el programa.", "pron": "ui nid tu apdéit da sóftuer" }
+      ],
+      "dialogo": {
+        "titulo": "Un correo sospechoso",
+        "lineas": [
+          { "q": "A", "t": "I got a strange email with a link.", "es": "Recibí un correo extraño con un enlace." },
+          { "q": "B", "t": "Avoid clicking it. It's probably a scam.", "es": "Evita hacer clic. Probablemente es una estafa." },
+          { "q": "A", "t": "I'm worried about my data and my privacy.", "es": "Me preocupan mis datos y mi privacidad." },
+          { "q": "B", "t": "Let's change your password and update the software.", "es": "Cambiemos tu contraseña y actualicemos el programa." },
+          { "q": "A", "t": "Good idea. I want to learn to protect my accounts.", "es": "Buena idea. Quiero aprender a proteger mis cuentas." }
+        ]
+      },
+      "nota": "Phishing es el nombre del truco: un mensaje falso que imita a tu banco para robar datos. Nunca des tu contraseña por correo."
+    }
+  ]
+}

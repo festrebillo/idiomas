@@ -1,0 +1,224 @@
+{
+  "id": "it-b1-u5",
+  "idioma": "it",
+  "nivel": "B1",
+  "n": 5,
+  "titulo": "Cómo se hace y quién lo hace",
+  "resumen": "Aprenderás la voz pasiva con «essere» y «venire», y el «si passivante» para decir cómo se hacen las cosas y qué se permite.",
+  "puedo": [
+    "Formar el pasivo con «essere + participio».",
+    "Usar «venire + participio» para decir cómo se hace algo.",
+    "Usar el «si passivante»: «si parla», «si vendono».",
+    "Entender reglas y avisos: «è vietato», «è consentito».",
+    "Hablar de tradiciones, recetas y lugares famosos."
+  ],
+  "gramatica": {
+    "titulo": "El pasivo: «essere», «venire» y «si»",
+    "texto": "En el pasivo lo importante es lo que se hace, no quién lo hace.\nEssere + participio (concuerda en género y número): La Gioconda è stata dipinta da Leonardo. I libri sono venduti online. El agente se introduce con «da».\nVenire + participio, solo en tiempos simples: La pasta viene fatta a mano (= è fatta a mano).\nSi passivante: si + verbo en 3.ª persona que concuerda con lo que sigue: Si vende pane. Si vendono libri. Equivale al «se» español: se vende, se venden.\nTruco: si no necesitas decir quién lo hace, usa «si»; si quieres decirlo, usa «essere + da».",
+    "tabla": [
+      ["è prodotto in Toscana", "se produce en Toscana", "e prodótto in toscána"],
+      ["è stata dipinta da Leonardo", "fue pintada por Leonardo", "e státa dipínta da leonárdo"],
+      ["viene fatta a mano", "se hace a mano", "viéne fátta a máno"],
+      ["si parla italiano", "se habla italiano", "si párla italiáno"],
+      ["si vendono libri", "se venden libros", "si véndono líbri"],
+      ["è vietato fumare", "está prohibido fumar", "e vietáto fumáre"]
+    ],
+    "errores": [
+      "El participio concuerda con el sujeto: «la pasta è fatta», «i libri sono venduti»; no «la pasta è fatto».",
+      "«Venire» no se usa en passato prossimo: «è stato fatto», no «è venuto fatto».",
+      "El «si passivante» concuerda con lo que se hace: «si vendono libri», no «si vende libri»."
+    ]
+  },
+  "practica": [
+    "Escribe cinco frases pasivas sobre productos de tu país: «Il caffè è prodotto in...» (6 minutos).",
+    "Describe en voz alta cómo se prepara un plato peruano con «viene» y «si» (5 minutos).",
+    "Mira cinco carteles de tu ciudad y traduce el aviso al italiano con «è vietato / è consentito» (5 minutos).",
+    "Escribe cinco frases con «si passivante» sobre tu ciudad: «Qui si mangia...», «Si trova...» (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b1-u5-l1",
+      "n": 1,
+      "titulo": "Quién lo hizo: essere + participio",
+      "objetivo": "Formar el pasivo con «essere» y hablar de lugares y obras famosas.",
+      "intro": "En el pasivo el sujeto recibe la acción. Truco: «è + participio» = «es/está + participio»; el participio cambia: costruito, costruita, costruiti, costruite.",
+      "palabras": [
+        { "t": "è costruito", "es": "está construido", "pron": "e costruíto", "ej": "Il palazzo è costruito in pietra.", "ejes": "El palacio está construido en piedra.", "cog": false },
+        { "t": "è scritto", "es": "está escrito", "pron": "e scrítto", "ej": "Questo libro è scritto in italiano.", "ejes": "Este libro está escrito en italiano.", "cog": false },
+        { "t": "è prodotto", "es": "se produce, es producido", "pron": "e prodótto", "ej": "Il vino è prodotto in Toscana.", "ejes": "El vino se produce en Toscana.", "cog": false },
+        { "t": "è venduto", "es": "se vende, es vendido", "pron": "e vendúto", "ej": "Il biglietto è venduto online.", "ejes": "El boleto se vende en línea.", "cog": false },
+        { "t": "è conosciuto", "es": "es conocido", "pron": "e conoshúto", "ej": "Il Colosseo è conosciuto in tutto il mondo.", "ejes": "El Coliseo es conocido en todo el mundo.", "cog": false },
+        { "t": "è stato costruito", "es": "fue construido", "pron": "e státo costruíto", "ej": "Il Colosseo è stato costruito duemila anni fa.", "ejes": "El Coliseo fue construido hace dos mil años.", "cog": false },
+        { "t": "è stata dipinta", "es": "fue pintada", "pron": "e státa dipínta", "ej": "La Gioconda è stata dipinta da Leonardo.", "ejes": "La Mona Lisa fue pintada por Leonardo.", "cog": false },
+        { "t": "il ponte", "es": "el puente", "pron": "il pónte", "ej": "Il ponte è molto antico.", "ejes": "El puente es muy antiguo.", "cog": false },
+        { "t": "il quadro", "es": "el cuadro", "pron": "il cuádro", "ej": "Il quadro è nel salotto.", "ejes": "El cuadro está en la sala.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il vino è prodotto in Toscana.", "es": "El vino se produce en Toscana.", "pron": "il víno e prodótto in toscána" },
+        { "t": "Il Colosseo è stato costruito duemila anni fa.", "es": "El Coliseo fue construido hace dos mil años.", "pron": "il colosséo e státo costruíto dúemila ánni fa" },
+        { "t": "La Gioconda è stata dipinta da Leonardo da Vinci.", "es": "La Mona Lisa fue pintada por Leonardo da Vinci.", "pron": "la yiocónda e státa dipínta da leonárdo da víntchi" },
+        { "t": "Questo libro è scritto in italiano.", "es": "Este libro está escrito en italiano.", "pron": "cuésto líbro e scrítto in italiáno" },
+        { "t": "Questi prodotti sono venduti in tutta Italia.", "es": "Estos productos se venden en toda Italia.", "pron": "cuésti prodótti sóno vendúti in túta itália" }
+      ],
+      "dialogo": {
+        "titulo": "Al museo",
+        "lineas": [
+          { "q": "A", "t": "Chi ha dipinto questo quadro?", "es": "¿Quién pintó este cuadro?" },
+          { "q": "B", "t": "È stato dipinto da Caravaggio.", "es": "Fue pintado por Caravaggio." },
+          { "q": "A", "t": "Quando è stato dipinto?", "es": "¿Cuándo fue pintado?" },
+          { "q": "B", "t": "Nel 1600 circa.", "es": "Alrededor de 1600." },
+          { "q": "A", "t": "È conosciuto in tutto il mondo?", "es": "¿Es conocido en todo el mundo?" },
+          { "q": "B", "t": "Sì, è uno dei quadri più famosi.", "es": "Sí, es uno de los cuadros más famosos." }
+        ]
+      },
+      "nota": "Con tiempos compuestos el pasivo lleva «stato/stata/stati/state»: è stato costruito, è stata dipinta, sono stati venduti. El agente se introduce con «da»: dipinto da Caravaggio."
+    },
+    {
+      "id": "it-b1-u5-l2",
+      "n": 2,
+      "titulo": "Cómo se hace: venire + participio",
+      "objetivo": "Describir cómo se preparan y se hacen las cosas con «venire».",
+      "intro": "«Venire» + participio se usa en vez de «essere» para describir cómo se hace algo habitualmente. Truco: «la pasta viene fatta a mano» = «la pasta se hace a mano».",
+      "palabras": [
+        { "t": "viene servito", "es": "se sirve", "pron": "viéne servíto", "ej": "Il caffè viene servito dopo pranzo.", "ejes": "El café se sirve después del almuerzo.", "cog": false },
+        { "t": "viene usato", "es": "se usa", "pron": "viéne usáto", "ej": "Questo strumento viene usato in cucina.", "ejes": "Este utensilio se usa en la cocina.", "cog": false },
+        { "t": "viene chiamato", "es": "se llama", "pron": "viéne quiamáto", "ej": "Questo piatto viene chiamato carbonara.", "ejes": "Este plato se llama carbonara.", "cog": false },
+        { "t": "viene fatto", "es": "se hace", "pron": "viéne fátto", "ej": "Il pane viene fatto ogni mattina.", "ejes": "El pan se hace cada mañana.", "cog": false },
+        { "t": "vengono prodotti", "es": "se producen", "pron": "véngono prodótti", "ej": "Questi formaggi vengono prodotti in montagna.", "ejes": "Estos quesos se producen en la montaña.", "cog": false },
+        { "t": "vengono venduti", "es": "se venden", "pron": "véngono vendúti", "ej": "I biglietti vengono venduti online.", "ejes": "Los boletos se venden en línea.", "cog": false },
+        { "t": "viene organizzato", "es": "se organiza", "pron": "viéne organidsáto", "ej": "Il festival viene organizzato in estate.", "ejes": "El festival se organiza en verano.", "cog": false },
+        { "t": "ogni anno", "es": "cada año", "pron": "óñi ánno", "ej": "Ogni anno arrivano molti turisti.", "ejes": "Cada año llegan muchos turistas.", "cog": false },
+        { "t": "tradizionalmente", "es": "tradicionalmente", "pron": "tradisionalménte", "ej": "Tradizionalmente la pasta viene fatta a mano.", "ejes": "Tradicionalmente la pasta se hace a mano.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Il caffè viene servito dopo il pranzo.", "es": "El café se sirve después del almuerzo.", "pron": "il caffé viéne servíto dópo il prándso" },
+        { "t": "La pasta viene fatta a mano.", "es": "La pasta se hace a mano.", "pron": "la pásta viéne fátta a máno" },
+        { "t": "Questi formaggi vengono prodotti in montagna.", "es": "Estos quesos se producen en la montaña.", "pron": "cuésti formádyi véngono prodótti in montáña" },
+        { "t": "I biglietti vengono venduti online.", "es": "Los boletos se venden en línea.", "pron": "i billétti véngono vendúti online" },
+        { "t": "Come viene chiamato questo piatto?", "es": "¿Cómo se llama este plato?", "pron": "cóme viéne quiamáto cuésto piátto" }
+      ],
+      "dialogo": {
+        "titulo": "In trattoria",
+        "lineas": [
+          { "q": "A", "t": "Come viene fatta questa pasta?", "es": "¿Cómo se hace esta pasta?" },
+          { "q": "B", "t": "Viene fatta a mano ogni mattina.", "es": "Se hace a mano cada mañana." },
+          { "q": "A", "t": "E il vino?", "es": "¿Y el vino?" },
+          { "q": "B", "t": "Viene prodotto qui vicino.", "es": "Se produce aquí cerca." },
+          { "q": "A", "t": "Viene servito freddo?", "es": "¿Se sirve frío?" },
+          { "q": "B", "t": "No, viene servito a temperatura ambiente.", "es": "No, se sirve a temperatura ambiente." }
+        ]
+      },
+      "nota": "«Venire» solo se usa en tiempos simples (presente, futuro, imperfetto). Para tiempos compuestos hay que usar «essere»: «è stato fatto». Además, solo sirve para acciones, no para estados: se dice «è chiuso» (no «viene chiuso» para describir un lugar cerrado)."
+    },
+    {
+      "id": "it-b1-u5-l3",
+      "n": 3,
+      "titulo": "Se habla, se vende: el «si»",
+      "objetivo": "Usar el «si passivante» para decir qué se hace en un lugar.",
+      "intro": "«Si» + verbo en 3.ª persona = «se» español. Truco: el verbo concuerda con lo que sigue: si vende pane, si vendono panini.",
+      "palabras": [
+        { "t": "si parla", "es": "se habla", "pron": "si párla", "ej": "In Svizzera si parla anche italiano.", "ejes": "En Suiza también se habla italiano.", "cog": false },
+        { "t": "si mangia", "es": "se come", "pron": "si mándya", "ej": "In Italia si mangia tardi la sera.", "ejes": "En Italia se come tarde por la noche.", "cog": false },
+        { "t": "si vende", "es": "se vende", "pron": "si vénde", "ej": "Qui si vende pane fresco.", "ejes": "Aquí se vende pan fresco.", "cog": false },
+        { "t": "si vendono", "es": "se venden", "pron": "si véndono", "ej": "In questo negozio si vendono prodotti tipici.", "ejes": "En esta tienda se venden productos típicos.", "cog": false },
+        { "t": "si dice", "es": "se dice", "pron": "si díche", "ej": "In italiano si dice «aeroporto».", "ejes": "En italiano se dice «aeroporto».", "cog": false },
+        { "t": "si usa", "es": "se usa", "pron": "si úsa", "ej": "Il congiuntivo si usa molto.", "ejes": "El subjuntivo se usa mucho.", "cog": false },
+        { "t": "si trova", "es": "se encuentra", "pron": "si tróva", "ej": "Il bar si trova in centro.", "ejes": "El bar se encuentra en el centro.", "cog": false },
+        { "t": "si trovano", "es": "se encuentran", "pron": "si tróvano", "ej": "I musei si trovano vicino alla stazione.", "ejes": "Los museos se encuentran cerca de la estación.", "cog": false },
+        { "t": "come si dice", "es": "¿cómo se dice?", "pron": "cóme si díche", "ej": "Come si dice «llave» in italiano?", "ejes": "¿Cómo se dice «llave» en italiano?", "cog": false }
+      ],
+      "frases": [
+        { "t": "In Italia si mangia tardi la sera.", "es": "En Italia se come tarde por la noche.", "pron": "in itália si mándya tárdi la séra" },
+        { "t": "Qui si parla italiano e inglese.", "es": "Aquí se habla italiano e inglés.", "pron": "cúi si párla italiáno e inglése" },
+        { "t": "Come si dice «llave» in italiano?", "es": "¿Cómo se dice «llave» en italiano?", "pron": "cóme si díche llave in italiáno" },
+        { "t": "In questo negozio si vendono prodotti tipici.", "es": "En esta tienda se venden productos típicos.", "pron": "in cuésto negótsio si véndono prodótti típichi" },
+        { "t": "Dove si trova la stazione?", "es": "¿Dónde se encuentra la estación?", "pron": "dóve si tróva la statsióne" }
+      ],
+      "dialogo": {
+        "titulo": "In stazione",
+        "lineas": [
+          { "q": "A", "t": "Scusi, dove si comprano i biglietti?", "es": "Disculpe, ¿dónde se compran los boletos?" },
+          { "q": "B", "t": "Si comprano alla biglietteria o online.", "es": "Se compran en la boletería o en línea." },
+          { "q": "A", "t": "Si può pagare con la carta?", "es": "¿Se puede pagar con tarjeta?" },
+          { "q": "B", "t": "Sì, si accettano tutte le carte.", "es": "Sí, se aceptan todas las tarjetas." },
+          { "q": "A", "t": "E dove si trova il binario tre?", "es": "¿Y dónde está el andén tres?" },
+          { "q": "B", "t": "Si trova in fondo, a destra.", "es": "Está al fondo, a la derecha." }
+        ]
+      },
+      "nota": "Con verbos que no llevan objeto, el «si» queda en singular: «Qui si dorme bene», «Si mangia bene in Italia». Si lo que sigue es plural, el verbo también: «Si mangiano spaghetti»."
+    },
+    {
+      "id": "it-b1-u5-l4",
+      "n": 4,
+      "titulo": "Reglas y avisos",
+      "objetivo": "Entender y usar expresiones de prohibición, permiso y obligación.",
+      "intro": "Los carteles usan el pasivo: «è vietato fumare» (está prohibido fumar). Truco: después del adjetivo va el infinitivo, sin «que».",
+      "palabras": [
+        { "t": "è vietato", "es": "está prohibido", "pron": "e vietáto", "ej": "È vietato fumare qui.", "ejes": "Está prohibido fumar aquí.", "cog": false },
+        { "t": "è consentito", "es": "está permitido", "pron": "e consentíto", "ej": "È consentito fotografare senza flash.", "ejes": "Está permitido fotografiar sin flash.", "cog": false },
+        { "t": "è obbligatorio", "es": "es obligatorio", "pron": "e obbligatório", "ej": "Il casco è obbligatorio.", "ejes": "El casco es obligatorio.", "cog": false },
+        { "t": "è richiesto", "es": "se requiere", "pron": "e richiésto", "ej": "È richiesto il passaporto.", "ejes": "Se requiere el pasaporte.", "cog": false },
+        { "t": "è previsto", "es": "está previsto", "pron": "e prevísto", "ej": "L'arrivo è previsto alle otto.", "ejes": "La llegada está prevista para las ocho.", "cog": false },
+        { "t": "la regola", "es": "la regla", "pron": "la régola", "ej": "La regola è semplice.", "ejes": "La regla es sencilla.", "cog": false },
+        { "t": "il divieto", "es": "la prohibición", "pron": "il diviéto", "ej": "Il divieto vale per tutti.", "ejes": "La prohibición vale para todos.", "cog": false },
+        { "t": "il regolamento", "es": "el reglamento", "pron": "il regolaménto", "ej": "Il regolamento è molto chiaro.", "ejes": "El reglamento es muy claro.", "cog": true },
+        { "t": "l'ingresso", "es": "la entrada", "pron": "lingrésso", "ej": "L'ingresso è gratuito.", "ejes": "La entrada es gratuita.", "cog": false }
+      ],
+      "frases": [
+        { "t": "In questo parco è vietato fumare.", "es": "En este parque está prohibido fumar.", "pron": "in cuésto párco e vietáto fumáre" },
+        { "t": "In museo è consentito fotografare senza flash.", "es": "En el museo está permitido fotografiar sin flash.", "pron": "in muséo e consentíto fotografáre sénsa flash" },
+        { "t": "Per entrare è richiesto il passaporto.", "es": "Para entrar se requiere el pasaporte.", "pron": "per entráre e richiésto il passapórto" },
+        { "t": "Il casco è obbligatorio per tutti.", "es": "El casco es obligatorio para todos.", "pron": "il cásco e obbligatório per tútti" },
+        { "t": "L'arrivo è previsto alle otto.", "es": "La llegada está prevista para las ocho.", "pron": "larrívo e previsto alle ótto" }
+      ],
+      "dialogo": {
+        "titulo": "All'ingresso del museo",
+        "lineas": [
+          { "q": "A", "t": "Posso fare una foto?", "es": "¿Puedo tomar una foto?" },
+          { "q": "B", "t": "Sì, è consentito, ma senza flash.", "es": "Sí, está permitido, pero sin flash." },
+          { "q": "A", "t": "Posso entrare con lo zaino?", "es": "¿Puedo entrar con la mochila?" },
+          { "q": "B", "t": "No, lo zaino va lasciato all'ingresso.", "es": "No, la mochila debe dejarse en la entrada." },
+          { "q": "A", "t": "Dove si lasciano le borse?", "es": "¿Dónde se dejan las bolsas?" },
+          { "q": "B", "t": "Al guardaroba, è gratuito.", "es": "En el guardarropa, es gratuito." }
+        ]
+      },
+      "nota": "«Andare + participio» (va lasciato) expresa una obligación pasiva: «va fatto» = «debe hacerse». Es muy frecuente en instrucciones y reglas."
+    },
+    {
+      "id": "it-b1-u5-l5",
+      "n": 5,
+      "titulo": "Repaso: tradiciones y recetas",
+      "objetivo": "Combinar «essere», «venire» y «si» para hablar de tradiciones, platos y lugares.",
+      "intro": "Repasa todo el pasivo hablando de tradiciones. Truco: «essere» para hechos terminados (è stato restaurato), «venire» y «si» para costumbres (si celebra, viene preparato).",
+      "palabras": [
+        { "t": "è stato inaugurato", "es": "fue inaugurado", "pron": "e státo inauguráto", "ej": "Il teatro è stato inaugurato nel 1900.", "ejes": "El teatro fue inaugurado en 1900.", "cog": true },
+        { "t": "è stato restaurato", "es": "fue restaurado", "pron": "e státo restauráto", "ej": "Il castello è stato restaurato l'anno scorso.", "ejes": "El castillo fue restaurado el año pasado.", "cog": true },
+        { "t": "si celebra", "es": "se celebra", "pron": "si chélebra", "ej": "Il carnevale si celebra a febbraio.", "ejes": "El carnaval se celebra en febrero.", "cog": true },
+        { "t": "viene preparato", "es": "se prepara", "pron": "viéne preparáto", "ej": "Il tiramisù viene preparato con il mascarpone.", "ejes": "El tiramisú se prepara con mascarpone.", "cog": false },
+        { "t": "la tradizione", "es": "la tradición", "pron": "la tradisióne", "ej": "La tradizione è molto importante.", "ejes": "La tradición es muy importante.", "cog": true },
+        { "t": "la ricetta", "es": "la receta", "pron": "la richétta", "ej": "La ricetta è semplice.", "ejes": "La receta es sencilla.", "cog": false },
+        { "t": "il patrimonio", "es": "el patrimonio", "pron": "il património", "ej": "Il patrimonio culturale è enorme.", "ejes": "El patrimonio cultural es enorme.", "cog": true },
+        { "t": "è tramandata", "es": "se transmite", "pron": "e tramandáta", "ej": "Questa ricetta è tramandata da generazioni.", "ejes": "Esta receta se transmite de generación en generación.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il castello è stato restaurato l'anno scorso.", "es": "El castillo fue restaurado el año pasado.", "pron": "il castéllo e státo restauráto lánno scórso" },
+        { "t": "Il carnevale si celebra a febbraio in tutta Italia.", "es": "El carnaval se celebra en febrero en toda Italia.", "pron": "il carnevále si chélebra a febbráio in túta itália" },
+        { "t": "Il tiramisù viene preparato con il mascarpone.", "es": "El tiramisú se prepara con mascarpone.", "pron": "il tiramisú viéne preparáto con il mascarpóne" },
+        { "t": "Questa ricetta è tramandata da generazioni.", "es": "Esta receta se transmite desde hace generaciones.", "pron": "cuésta richétta e tramandáta da yenerasióni" },
+        { "t": "In Italia il caffè si beve al banco.", "es": "En Italia el café se toma en la barra.", "pron": "in itália il caffé si béve al bánco" }
+      ],
+      "dialogo": {
+        "titulo": "Un dolce di famiglia",
+        "lineas": [
+          { "q": "A", "t": "Che cos'è questo dolce?", "es": "¿Qué es este postre?" },
+          { "q": "B", "t": "È il tiramisù. Viene preparato con mascarpone e caffè.", "es": "Es el tiramisú. Se prepara con mascarpone y café." },
+          { "q": "A", "t": "Si mangia a Natale?", "es": "¿Se come en Navidad?" },
+          { "q": "B", "t": "Si mangia tutto l'anno. La ricetta è tramandata da mia nonna.", "es": "Se come todo el año. La receta la transmitió mi abuela." },
+          { "q": "A", "t": "Allora è una tradizione di famiglia!", "es": "¡Entonces es una tradición de familia!" },
+          { "q": "B", "t": "Esatto.", "es": "Exacto." }
+        ]
+      },
+      "nota": "Para tradiciones y costumbres, el italiano prefiere el «si» en la conversación (si mangia, si celebra) y reserva el pasivo con «essere» para hechos concretos (è stato restaurato)."
+    }
+  ]
+}

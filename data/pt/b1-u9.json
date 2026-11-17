@@ -1,0 +1,220 @@
+{
+  "id": "pt-b1-u9",
+  "idioma": "pt",
+  "nivel": "B1",
+  "n": 9,
+  "titulo": "Noticias y medios",
+  "resumen": "Aprenderás vocabulario de medios y los verbos de dicción (anunciar, informar, afirmar...) para contar noticias con «segundo» y «que».",
+  "puedo": [
+    "Nombrar medios: jornal, revista, rádio, canal.",
+    "Contar una noticia con «anunciou que» e «informou que».",
+    "Citar la fuente con «segundo» y «de acordo com».",
+    "Hablar de noticias falsas y fuentes confiables.",
+    "Comentar una noticia con un amigo."
+  ],
+  "gramatica": {
+    "titulo": "Verbos de dicción para contar noticias",
+    "texto": "Para contar lo que dijo alguien en una noticia se usan verbos de dicción (verbos que significan decir de forma más precisa): anunciar, informar, afirmar, declarar, confirmar, negar, explicar, revelar. Se usan casi siempre en pasado y seguidos de «que»: O governo anunciou que o preço vai subir.\nTerminaciones en pasado para él/ella/usted: los verbos en -ar terminan en -ou (anunciou, informou, afirmou) y los verbos en -er o -ir en -eu o -iu (respondeu, desmentiu).\nPara citar la fuente: «segundo» o «de acordo com» + la fuente: Segundo o jornal, vai chover.",
+    "tabla": [
+      ["O governo anunciou que...", "El gobierno anunció que...", "u govérnu anunsióu ki"],
+      ["O jornal informou que...", "El diario informó que...", "u yornáu informóu ki"],
+      ["Ele afirmou que...", "Él afirmó que...", "éli afirmóu ki"],
+      ["A empresa negou o problema.", "La empresa negó el problema.", "a empréza negóu u problêma"],
+      ["Segundo o jornal, ...", "Según el diario, ...", "segúndu u yornáu"],
+      ["De acordo com a polícia, ...", "De acuerdo con la policía, ...", "dyi akórdu kon a polísia"]
+    ],
+    "errores": [
+      "Después de «afirmou», «anunciou» o «informou» va «que», pero no se dice «de que»: «Ele anunciou que vem», no «Ele anunciou de que vem».",
+      "«Segundo» no es «segundo» de tiempo aquí: es «según». «Segundo o jornal» = «según el diario».",
+      "«Informar» lleva directamente lo informado: «O jornal informou o resultado» o «informou que...», sin «de» extra."
+    ]
+  },
+  "practica": [
+    "Lee un titular de un portal brasileño (g1, UOL) y reescríbelo con «O governo anunciou que...» (6 minutos).",
+    "Escribe 5 frases con «Segundo...» o «De acordo com...» sobre noticias que conozcas (6 minutos).",
+    "Escucha el podcast o noticiero de un canal brasileño y anota 6 verbos de dicción que oigas (8 minutos).",
+    "Cuenta en voz alta una noticia reciente con «Li que...» y «Informaram que...» (4 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b1-u9-l1",
+      "n": 1,
+      "titulo": "Los medios de comunicación",
+      "objetivo": "Nombrar los medios y hablar de dónde te informas.",
+      "intro": "Empezamos con el vocabulario básico de medios. Truco: «notícia» es casi igual al español «noticia», pero la «c» suena «s»: notísia.",
+      "palabras": [
+        { "t": "notícia", "es": "noticia", "pron": "notísia", "ej": "Eu li uma notícia boa.", "ejes": "Leí una noticia buena.", "cog": true },
+        { "t": "jornal", "es": "diario / periódico", "pron": "yornáu", "ej": "Meu pai lê o jornal.", "ejes": "Mi papá lee el diario.", "cog": true },
+        { "t": "revista", "es": "revista", "pron": "jevísta", "ej": "Eu comprei uma revista.", "ejes": "Compré una revista.", "cog": true },
+        { "t": "jornalista", "es": "periodista", "pron": "yornalísta", "ej": "Ela é jornalista.", "ejes": "Ella es periodista.", "cog": true },
+        { "t": "manchete", "es": "titular", "pron": "manshétyi", "ej": "A manchete é muito forte.", "ejes": "El titular es muy fuerte.", "cog": false },
+        { "t": "reportagem", "es": "reportaje", "pron": "jeportáyein", "ej": "A reportagem foi longa.", "ejes": "El reportaje fue largo.", "cog": true },
+        { "t": "canal", "es": "canal", "pron": "kanáu", "ej": "Eu mudei de canal.", "ejes": "Cambié de canal.", "cog": true },
+        { "t": "rádio", "es": "radio", "pron": "jádyu", "ej": "Eu ouço rádio no carro.", "ejes": "Escucho radio en el auto.", "cog": true },
+        { "t": "meios de comunicação", "es": "medios de comunicación", "pron": "méius dyi komunikasáun", "ej": "Os meios de comunicação são importantes.", "ejes": "Los medios de comunicación son importantes.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu vi a notícia na televisão.", "es": "Vi la noticia en la televisión.", "pron": "éu ví a notísia na televizáun" },
+        { "t": "A manchete do jornal é forte.", "es": "El titular del diario es fuerte.", "pron": "a manshétyi du yornáu é fórtyi" },
+        { "t": "Ela é jornalista e escreve reportagens.", "es": "Ella es periodista y escribe reportajes.", "pron": "éla é yornalísta i eskrévi jeportáyeins" },
+        { "t": "Eu ouço rádio no carro.", "es": "Escucho radio en el auto.", "pron": "éu óusu jádyu nu káru" },
+        { "t": "Onde você lê as notícias?", "es": "¿Dónde lees las noticias?", "pron": "ôndyi vosé lê as notísias" }
+      ],
+      "dialogo": {
+        "titulo": "Onde você se informa?",
+        "lineas": [
+          { "q": "A", "t": "Onde você lê as notícias?", "es": "¿Dónde lees las noticias?" },
+          { "q": "B", "t": "Eu leio no celular e vejo o canal de notícias.", "es": "Las leo en el celular y veo el canal de noticias." },
+          { "q": "A", "t": "Eu prefiro ouvir rádio no caminho do trabalho.", "es": "Yo prefiero escuchar radio en el camino al trabajo." },
+          { "q": "B", "t": "Minha irmã é jornalista e trabalha numa revista.", "es": "Mi hermana es periodista y trabaja en una revista." },
+          { "q": "A", "t": "Que legal! Ela escreve reportagens?", "es": "¡Qué bueno! ¿Ella escribe reportajes?" }
+        ]
+      },
+      "nota": "«Jornal» es el diario impreso; «o Jornal Nacional» es un telediario famoso de Brasil. «Manchete» es el titular grande de la portada."
+    },
+    {
+      "id": "pt-b1-u9-l2",
+      "n": 2,
+      "titulo": "Verbos para contar noticias",
+      "objetivo": "Usar anunciar, informar, afirmar y otros verbos de dicción.",
+      "intro": "Estos verbos son más precisos que «dizer». Truco: casi todos son cognados del español; en pasado, los de -ar terminan en -ou: anunciou, informou, afirmou.",
+      "palabras": [
+        { "t": "anunciar", "es": "anunciar", "pron": "anunsiár", "ej": "Ele vai anunciar a data.", "ejes": "Él va a anunciar la fecha.", "cog": true },
+        { "t": "informar", "es": "informar", "pron": "informár", "ej": "O jornal vai informar o resultado.", "ejes": "El diario va a informar el resultado.", "cog": true },
+        { "t": "afirmar", "es": "afirmar", "pron": "afirmár", "ej": "Ele pode afirmar isso.", "ejes": "Él puede afirmar eso.", "cog": true },
+        { "t": "declarar", "es": "declarar", "pron": "deklarár", "ej": "O ministro vai declarar o resultado.", "ejes": "El ministro va a declarar el resultado.", "cog": true },
+        { "t": "revelar", "es": "revelar", "pron": "jevelár", "ej": "Quem vai revelar o segredo?", "ejes": "¿Quién va a revelar el secreto?", "cog": true },
+        { "t": "negar", "es": "negar", "pron": "negár", "ej": "Ela vai negar tudo.", "ejes": "Ella va a negar todo.", "cog": true },
+        { "t": "confirmar", "es": "confirmar", "pron": "konfirmár", "ej": "Posso confirmar a reunião.", "ejes": "Puedo confirmar la reunión.", "cog": true },
+        { "t": "explicar", "es": "explicar", "pron": "esplikár", "ej": "Ele vai explicar o problema.", "ejes": "Él va a explicar el problema.", "cog": true },
+        { "t": "comentar", "es": "comentar", "pron": "komentár", "ej": "Gosto de comentar as notícias.", "ejes": "Me gusta comentar las noticias.", "cog": true }
+      ],
+      "frases": [
+        { "t": "O governo anunciou uma nova lei.", "es": "El gobierno anunció una nueva ley.", "pron": "u govérnu anunsióu úma nóva léi" },
+        { "t": "O jornal informou que choveu muito.", "es": "El diario informó que llovió mucho.", "pron": "u yornáu informóu ki shovéu múintu" },
+        { "t": "A empresa negou o problema.", "es": "La empresa negó el problema.", "pron": "a empréza negóu u problêma" },
+        { "t": "Ela confirmou que vem amanhã.", "es": "Ella confirmó que viene mañana.", "pron": "éla konfirmóu ki véin amañán" },
+        { "t": "O ministro explicou que o preço vai subir.", "es": "El ministro explicó que el precio va a subir.", "pron": "u minístru esplikóu ki u présu vai subír" }
+      ],
+      "dialogo": {
+        "titulo": "Você viu a notícia?",
+        "lineas": [
+          { "q": "A", "t": "Você viu a notícia? O governo anunciou uma lei nova.", "es": "¿Viste la noticia? El gobierno anunció una ley nueva." },
+          { "q": "B", "t": "Não vi. O que o ministro explicou?", "es": "No la vi. ¿Qué explicó el ministro?" },
+          { "q": "A", "t": "Ele explicou que o transporte vai ficar mais barato.", "es": "Explicó que el transporte va a quedar más barato." },
+          { "q": "B", "t": "Será que é verdade? A empresa negou tudo ontem.", "es": "¿Será verdad? La empresa lo negó todo ayer." },
+          { "q": "A", "t": "O jornal confirmou hoje de manhã.", "es": "El diario lo confirmó hoy en la mañana." }
+        ]
+      },
+      "nota": "En pasado, el que habla cambia la terminación: eu anunciei (yo anuncié), ele anunciou (él anunció). En noticias casi siempre verás la forma «-ou»."
+    },
+    {
+      "id": "pt-b1-u9-l3",
+      "n": 3,
+      "titulo": "Citar la fuente",
+      "objetivo": "Decir de dónde viene una información con «segundo» y «de acordo com».",
+      "intro": "Una buena noticia siempre dice su fuente. Truco: «segundo» aquí significa «según»; no lo confundas con el número ni con el tiempo.",
+      "palabras": [
+        { "t": "segundo", "es": "según", "pron": "segúndu", "ej": "Isso é novo, segundo o jornal.", "ejes": "Eso es nuevo, según el diario.", "cog": false },
+        { "t": "de acordo com", "es": "de acuerdo con", "pron": "dyi akórdu kon", "ej": "O preço subiu, de acordo com o governo.", "ejes": "El precio subió, de acuerdo con el gobierno.", "cog": false },
+        { "t": "fonte", "es": "fuente", "pron": "fóntyi", "ej": "A fonte é o governo.", "ejes": "La fuente es el gobierno.", "cog": true },
+        { "t": "entrevista", "es": "entrevista", "pron": "entrevísta", "ej": "Eu vi a entrevista ontem.", "ejes": "Vi la entrevista ayer.", "cog": true },
+        { "t": "testemunha", "es": "testigo", "pron": "testemúña", "ej": "A testemunha falou com a polícia.", "ejes": "El testigo habló con la policía.", "cog": false },
+        { "t": "comunicado", "es": "comunicado", "pron": "komunikádu", "ej": "O comunicado saiu hoje.", "ejes": "El comunicado salió hoy.", "cog": true },
+        { "t": "porta-voz", "es": "vocero", "pron": "pórta vós", "ej": "O porta-voz falou à imprensa.", "ejes": "El vocero habló a la prensa.", "cog": false },
+        { "t": "ao vivo", "es": "en vivo", "pron": "au vívu", "ej": "O jogo é ao vivo.", "ejes": "El partido es en vivo.", "cog": false },
+        { "t": "boato", "es": "rumor", "pron": "boátu", "ej": "Isso é só um boato.", "ejes": "Eso es solo un rumor.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Segundo o jornal, o preço vai subir.", "es": "Según el diario, el precio va a subir.", "pron": "segúndu u yornáu, u présu vai subír" },
+        { "t": "De acordo com a polícia, ninguém ficou ferido.", "es": "De acuerdo con la policía, nadie quedó herido.", "pron": "dyi akórdu kon a polísia, ningéin fikóu feridu" },
+        { "t": "A entrevista foi ao vivo na TV.", "es": "La entrevista fue en vivo en la TV.", "pron": "a entrevísta fói au vívu na tevé" },
+        { "t": "O porta-voz divulgou um comunicado.", "es": "El vocero divulgó un comunicado.", "pron": "u pórta vós divulgóu ún komunikádu" },
+        { "t": "Isso é só um boato, não é verdade.", "es": "Eso es solo un rumor, no es verdad.", "pron": "ísu é só ún boátu, náun é verdádi" }
+      ],
+      "dialogo": {
+        "titulo": "Qual é a fonte?",
+        "lineas": [
+          { "q": "A", "t": "Li que a loja vai fechar.", "es": "Leí que la tienda va a cerrar." },
+          { "q": "B", "t": "Qual é a fonte? Isso pode ser um boato.", "es": "¿Cuál es la fuente? Eso puede ser un rumor." },
+          { "q": "A", "t": "Segundo o jornal, o dono fez um comunicado.", "es": "Según el diario, el dueño hizo un comunicado." },
+          { "q": "B", "t": "Então eu vou ver a entrevista dele ao vivo.", "es": "Entonces voy a ver su entrevista en vivo." },
+          { "q": "A", "t": "Boa ideia! Depois me conta.", "es": "¡Buena idea! Después me cuentas." }
+        ]
+      },
+      "nota": "«Segundo» se puede usar con personas: «segundo ele» (según él). Con «eu» no se usa: no existe «segundo eu»; di «na minha opinião»."
+    },
+    {
+      "id": "pt-b1-u9-l4",
+      "n": 4,
+      "titulo": "Noticias verdaderas y falsas",
+      "objetivo": "Hablar de fake news y de cómo comprobar una información.",
+      "intro": "Hoy circulan muchas noticias dudosas. Truco: «fake news» se usa tal cual en Brasil, pronunciado «feik niús».",
+      "palabras": [
+        { "t": "fake news", "es": "noticias falsas", "pron": "féik niús", "ej": "Isso é fake news.", "ejes": "Eso son noticias falsas.", "cog": false },
+        { "t": "verdadeiro", "es": "verdadero", "pron": "verdadéiru", "ej": "O boato não é verdadeiro.", "ejes": "El rumor no es verdadero.", "cog": true },
+        { "t": "falso", "es": "falso", "pron": "fáusu", "ej": "Isso é falso.", "ejes": "Eso es falso.", "cog": true },
+        { "t": "confiável", "es": "confiable", "pron": "konfiável", "ej": "Esse site não é confiável.", "ejes": "Ese sitio no es confiable.", "cog": true },
+        { "t": "checar", "es": "verificar / comprobar", "pron": "shekár", "ej": "Vou checar a informação.", "ejes": "Voy a verificar la información.", "cog": false },
+        { "t": "enganar", "es": "engañar", "pron": "enganár", "ej": "Não quero enganar ninguém.", "ejes": "No quiero engañar a nadie.", "cog": true },
+        { "t": "desmentir", "es": "desmentir", "pron": "dezmentír", "ej": "O governo vai desmentir a notícia.", "ejes": "El gobierno va a desmentir la noticia.", "cog": true },
+        { "t": "site", "es": "sitio web", "pron": "sáityi", "ej": "Eu li no site do jornal.", "ejes": "Lo leí en el sitio web del diario.", "cog": true },
+        { "t": "imprensa", "es": "prensa", "pron": "imprénsa", "ej": "A imprensa falou do caso.", "ejes": "La prensa habló del caso.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Isso é fake news?", "es": "¿Eso son noticias falsas?", "pron": "ísu é féik niús" },
+        { "t": "Vou checar a fonte antes de acreditar.", "es": "Voy a verificar la fuente antes de creer.", "pron": "vou shekár a fóntyi ántis dyi akreditár" },
+        { "t": "Esse site não é confiável.", "es": "Ese sitio no es confiable.", "pron": "ésyi sáityi náun é konfiável" },
+        { "t": "A notícia é falsa; o governo desmentiu.", "es": "La noticia es falsa; el gobierno la desmintió.", "pron": "a notísia é fáusa; u govérnu dezmentyíu" },
+        { "t": "A imprensa informou que o boato não é verdadeiro.", "es": "La prensa informó que el rumor no es verdadero.", "pron": "a imprénsa informóu ki u boátu náun é verdadéiru" }
+      ],
+      "dialogo": {
+        "titulo": "Será verdade?",
+        "lineas": [
+          { "q": "A", "t": "Olha essa mensagem! Diz que o banco vai fechar.", "es": "¡Mira este mensaje! Dice que el banco va a cerrar." },
+          { "q": "B", "t": "Será que é fake news? Vou checar a fonte.", "es": "¿Será fake news? Voy a verificar la fuente." },
+          { "q": "A", "t": "O site não parece confiável.", "es": "El sitio no parece confiable." },
+          { "q": "B", "t": "Pronto: o banco desmentiu a notícia.", "es": "Listo: el banco desmintió la noticia." },
+          { "q": "A", "t": "Ainda bem! Não vou enganar ninguém com isso.", "es": "¡Menos mal! No voy a engañar a nadie con eso." }
+        ]
+      },
+      "nota": "«Falso» es lo que no es verdad; «fingido» es lo que alguien finge. Para noticias falsas también se dice «notícia falsa»."
+    },
+    {
+      "id": "pt-b1-u9-l5",
+      "n": 5,
+      "titulo": "Repaso: comentar la noticia del día",
+      "objetivo": "Contar y comentar una noticia con verbos de dicción, fuentes y vocabulario de medios.",
+      "intro": "Une todo: cuenta qué pasó, quién lo dijo y si es confiable. Truco: usa siempre un verbo de dicción + «que» y cita la fuente con «segundo».",
+      "palabras": [
+        { "t": "acontecer", "es": "ocurrir / suceder", "pron": "akontesér", "ej": "O que vai acontecer agora?", "ejes": "¿Qué va a ocurrir ahora?", "cog": false },
+        { "t": "fato", "es": "hecho", "pron": "fátu", "ej": "Isso é um fato.", "ejes": "Eso es un hecho.", "cog": false },
+        { "t": "última hora", "es": "última hora", "pron": "últyima óra", "ej": "Chegou uma notícia de última hora.", "ejes": "Llegó una noticia de última hora.", "cog": true },
+        { "t": "mídia", "es": "medios / prensa", "pron": "mídya", "ej": "A mídia falou do caso.", "ejes": "Los medios hablaron del caso.", "cog": true },
+        { "t": "público", "es": "público", "pron": "públiku", "ej": "O público gostou da reportagem.", "ejes": "Al público le gustó el reportaje.", "cog": true },
+        { "t": "repórter", "es": "reportero", "pron": "jepórter", "ej": "O repórter está na rua.", "ejes": "El reportero está en la calle.", "cog": true },
+        { "t": "divulgar", "es": "divulgar", "pron": "divulgár", "ej": "Eles vão divulgar o resultado.", "ejes": "Van a divulgar el resultado.", "cog": true },
+        { "t": "assistir", "es": "ver (televisión)", "pron": "asistyír", "ej": "Eu gosto de assistir ao jornal.", "ejes": "Me gusta ver el noticiero.", "cog": false },
+        { "t": "informação", "es": "información", "pron": "informasáun", "ej": "Preciso de mais informação.", "ejes": "Necesito más información.", "cog": true }
+      ],
+      "frases": [
+        { "t": "O repórter informou que o caso é grave.", "es": "El reportero informó que el caso es grave.", "pron": "u jepórter informóu ki u káso é grávi" },
+        { "t": "Segundo a mídia, o resultado já foi divulgado.", "es": "Según los medios, el resultado ya fue divulgado.", "pron": "segúndu a mídya, u jezuutádu ya fói divulgádu" },
+        { "t": "Recebi uma notícia de última hora.", "es": "Recibí una noticia de última hora.", "pron": "jesebí úma notísia dyi últyima óra" },
+        { "t": "Vou checar a informação antes de comentar.", "es": "Voy a verificar la información antes de comentar.", "pron": "vou shekár a informasáun ántis dyi komentár" },
+        { "t": "Eu gosto de assistir ao jornal da noite.", "es": "Me gusta ver el noticiero de la noche.", "pron": "éu gósto dyi asistyír au yornáu da nóityi" }
+      ],
+      "dialogo": {
+        "titulo": "A notícia do dia",
+        "lineas": [
+          { "q": "A", "t": "Você assistiu ao jornal? Chegou uma notícia de última hora.", "es": "¿Viste el noticiero? Llegó una noticia de última hora." },
+          { "q": "B", "t": "Não. O que o repórter informou?", "es": "No. ¿Qué informó el reportero?" },
+          { "q": "A", "t": "Segundo ele, a empresa vai divulgar o resultado hoje.", "es": "Según él, la empresa va a divulgar el resultado hoy." },
+          { "q": "B", "t": "Será que é um fato? Vou checar a informação no site.", "es": "¿Será un hecho? Voy a verificar la información en el sitio." },
+          { "q": "A", "t": "Boa! A mídia confirmou agora mesmo.", "es": "¡Bien! Los medios lo confirmaron ahora mismo." }
+        ]
+      },
+      "nota": "«Assistir» significa ver (TV, películas, partidos) y se usa con «a»: «assistir ao jornal». En el habla diaria muchos dicen «assistir o jornal», también se entiende."
+    }
+  ]
+}

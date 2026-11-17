@@ -1,0 +1,217 @@
+{
+  "id": "it-b1-u14",
+  "idioma": "it",
+  "nivel": "B1",
+  "n": 14,
+  "titulo": "Correos formales y expresiones frecuentes",
+  "resumen": "Aprenderás a escribir un correo formal con «Lei», a unir ideas con connettivi y a repasar las expresiones más frecuentes del nivel.",
+  "puedo": [
+    "Empezar y cerrar un correo formal con las fórmulas correctas.",
+    "Usar connettivi como «quindi», «inoltre» y «tuttavia».",
+    "Escribir con «Lei» una petición o un reclamo.",
+    "Usar expresiones frecuentes como «in realtà» y «per fortuna».",
+    "Repasar opiniones, noticias, trabajo y servicios del nivel B1."
+  ],
+  "gramatica": {
+    "titulo": "Connettivi: unir ideas con claridad",
+    "texto": "Los connettivi son palabras que unen frases y hacen un texto fluido. Con ellos pasas de frases sueltas a un texto natural.\nCausa: perché (porque), siccome (como, puesto que): Siccome sono occupato, rispondo domani.\nConsecuencia: quindi, perciò (así que): Sono occupato, quindi rispondo domani.\nAñadir: inoltre (además), anche (también).\nContraste: ma, però (pero), tuttavia (sin embargo), invece (en cambio).\nConcesión: anche se (aunque) + indicativo: Anche se sono stanco, vengo.\nOrden: prima, poi, infine (finalmente).\nUsa uno por frase y mantén frases cortas.",
+    "tabla": [
+      ["perché / siccome", "porque / como (causa)", "perqué / sicóme"],
+      ["quindi / perciò", "así que / por eso", "cuíndi / perchó"],
+      ["inoltre", "además", "inóltre"],
+      ["tuttavia", "sin embargo", "tuttavía"],
+      ["anche se", "aunque", "ánke se"],
+      ["infine", "finalmente", "infíne"]
+    ],
+    "errores": [
+      "«Siccome» va al inicio y da la causa: «Siccome piove, resto a casa». «Perché» va después: «Resto a casa perché piove».",
+      "«Anche se» lleva indicativo: «anche se piove, esco», no «anche se piova».",
+      "«Quindi» (así que) no es «cuando»: no lo confundas con «quando»."
+    ]
+  },
+  "practica": [
+    "Escribe un correo formal de cinco líneas pidiendo información sobre un curso, con «Gentile...» y «Cordiali saluti» (10 minutos).",
+    "Une tres pares de frases con «quindi», «inoltre» y «tuttavia» (5 minutos).",
+    "Lee en voz alta diez veces «Le scrivo per...», «La ringrazio» y «Resto a disposizione» (3 minutos).",
+    "Repasa tus notas de las unidades 8 a 13 y escribe cinco frases que resuman el nivel (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b1-u14-l1",
+      "n": 1,
+      "titulo": "Estructura de un correo formal",
+      "objetivo": "Empezar y cerrar un correo formal de forma correcta.",
+      "intro": "Un correo formal sigue una estructura fija. Truco: «Gentile» (estimado) es el saludo más seguro, y «Cordiali saluti» el cierre más común.",
+      "palabras": [
+        { "t": "gentile", "es": "estimado/a", "pron": "yentíle", "ej": "Gentile signora Rossi,", "ejes": "Estimada señora Rossi,", "cog": false },
+        { "t": "l'oggetto", "es": "el asunto", "pron": "lodyétto", "ej": "L'oggetto del messaggio è chiaro.", "ejes": "El asunto del mensaje es claro.", "cog": false },
+        { "t": "l'allegato", "es": "el archivo adjunto", "pron": "lallegáto", "ej": "L'allegato è un file PDF.", "ejes": "El adjunto es un archivo PDF.", "cog": false },
+        { "t": "cordiali saluti", "es": "cordiales saludos", "pron": "cordiáli salúti", "ej": "Cordiali saluti, Maria Lopez.", "ejes": "Cordiales saludos, María López.", "cog": true },
+        { "t": "distinti saluti", "es": "atentos saludos", "pron": "distínti salúti", "ej": "Distinti saluti, Paolo Bianchi.", "ejes": "Atentos saludos, Paolo Bianchi.", "cog": false },
+        { "t": "in attesa di", "es": "a la espera de", "pron": "in attésa di", "ej": "In attesa di una risposta, la saluto.", "ejes": "A la espera de una respuesta, la saludo.", "cog": false },
+        { "t": "la risposta", "es": "la respuesta", "pron": "la rispósta", "ej": "La risposta arriva domani.", "ejes": "La respuesta llega mañana.", "cog": false },
+        { "t": "inviare", "es": "enviar", "pron": "inviáre", "ej": "Posso inviare il documento domani.", "ejes": "Puedo enviar el documento mañana.", "cog": true },
+        { "t": "il destinatario", "es": "el destinatario", "pron": "il destinatário", "ej": "Il destinatario è il direttore.", "ejes": "El destinatario es el director.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Gentile signora Rossi,", "es": "Estimada señora Rossi,", "pron": "yentíle sinióra rósi" },
+        { "t": "Le scrivo per chiedere informazioni.", "es": "Le escribo para pedir información.", "pron": "le scrívo per quiédere informatsióni" },
+        { "t": "Le allego il documento richiesto.", "es": "Le adjunto el documento solicitado.", "pron": "le allégo il documénto richiésto" },
+        { "t": "In attesa di una risposta, porgo cordiali saluti.", "es": "A la espera de una respuesta, le saludo cordialmente.", "pron": "in attésa di úna rispósta, pórgo cordiáli salúti" },
+        { "t": "Cordiali saluti, Maria Lopez.", "es": "Cordiales saludos, María López.", "pron": "cordiáli salúti, maría lópes" }
+      ],
+      "dialogo": {
+        "titulo": "Preparando un correo",
+        "lineas": [
+          { "q": "A", "t": "Come comincio la mail alla direttrice?", "es": "¿Cómo empiezo el correo a la directora?" },
+          { "q": "B", "t": "Scrivi: Gentile dottoressa Verdi,", "es": "Escribe: Estimada doctora Verdi," },
+          { "q": "A", "t": "E poi? Voglio chiedere informazioni sul corso.", "es": "¿Y luego? Quiero pedir información sobre el curso." },
+          { "q": "B", "t": "Scrivi: Le scrivo per chiedere informazioni sul corso.", "es": "Escribe: Le escribo para pedir información sobre el curso." },
+          { "q": "A", "t": "Perfetto. Chiudo con Cordiali saluti.", "es": "Perfecto. Cierro con Cordiales saludos." }
+        ]
+      },
+      "nota": "Al empezar se usa «Gentile» (nunca «Caro» en formal) más el título: «signor», «signora», «dottor», «dottoressa». Se pone coma después del nombre y la frase empieza con mayúscula. «Le» con mayúscula es «a usted» en formal."
+    },
+    {
+      "id": "it-b1-u14-l2",
+      "n": 2,
+      "titulo": "Connettivi: causa y consecuencia",
+      "objetivo": "Unir ideas con «perché», «siccome», «quindi» y «perciò».",
+      "intro": "Estos connettivi explican por qué y qué pasa después. Truco: perché/siccome = causa; quindi/perciò = consecuencia.",
+      "palabras": [
+        { "t": "perché", "es": "porque", "pron": "perqué", "ej": "Resto a casa perché piove.", "ejes": "Me quedo en casa porque llueve.", "cog": false },
+        { "t": "siccome", "es": "como / puesto que", "pron": "sicóme", "ej": "Siccome piove, resto a casa.", "ejes": "Como llueve, me quedo en casa.", "cog": false },
+        { "t": "quindi", "es": "así que", "pron": "cuíndi", "ej": "Piove, quindi resto a casa.", "ejes": "Llueve, así que me quedo en casa.", "cog": false },
+        { "t": "perciò", "es": "por eso", "pron": "perchó", "ej": "Sono stanco, perciò vado a letto.", "ejes": "Estoy cansado, por eso me acuesto.", "cog": false },
+        { "t": "dunque", "es": "entonces / así que", "pron": "dúnque", "ej": "Dunque, che cosa facciamo?", "ejes": "Entonces, ¿qué hacemos?", "cog": false },
+        { "t": "a causa di", "es": "a causa de", "pron": "a cáusa di", "ej": "Sono in ritardo a causa di un incidente.", "ejes": "Llego tarde a causa de un accidente.", "cog": true },
+        { "t": "grazie a", "es": "gracias a", "pron": "grátsie a", "ej": "Grazie a te, ho trovato lavoro.", "ejes": "Gracias a ti, encontré trabajo.", "cog": false },
+        { "t": "il motivo", "es": "el motivo", "pron": "il motívo", "ej": "Il motivo è semplice.", "ejes": "El motivo es sencillo.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Siccome piove, resto a casa.", "es": "Como llueve, me quedo en casa.", "pron": "sicóme piove, résto a cása" },
+        { "t": "Sono stanco, quindi vado a letto.", "es": "Estoy cansado, así que me acuesto.", "pron": "sóno stánco, cuíndi vado a létto" },
+        { "t": "Arrivo in ritardo a causa del traffico.", "es": "Llego tarde a causa de un accidente.", "pron": "arrívo in ritárdo a cáusa del tráffico" },
+        { "t": "Grazie a te, ho trovato lavoro.", "es": "Gracias a ti, encontré trabajo.", "pron": "grátsie a te, o trovato lavóro" },
+        { "t": "Dunque, che cosa facciamo?", "es": "Entonces, ¿qué hacemos?", "pron": "dúnque, ke cósa facchámo" }
+      ],
+      "dialogo": {
+        "titulo": "Una disculpa por retraso",
+        "lineas": [
+          { "q": "A", "t": "Perché sei in ritardo?", "es": "¿Por qué estás retrasado?" },
+          { "q": "B", "t": "A causa del traffico. Mi dispiace.", "es": "A causa del tráfico. Lo siento." },
+          { "q": "A", "t": "Siccome la riunione è già iniziata, entra piano.", "es": "Como la reunión ya empezó, entra con cuidado." },
+          { "q": "B", "t": "Va bene, quindi mi siedo dietro.", "es": "Está bien, así que me siento atrás." },
+          { "q": "A", "t": "Perfetto. Dunque, cominciamo.", "es": "Perfecto. Entonces, empecemos." }
+        ]
+      },
+      "nota": "Para la causa en una frase corta usa «perché»; para explicar antes «siccome». «Perciò» y «quindi» son casi iguales; «quindi» es más común en conversación. «A causa di» y «grazie a» van seguidas de nombre."
+    },
+    {
+      "id": "it-b1-u14-l3",
+      "n": 3,
+      "titulo": "Connettivi: contraste y adición",
+      "objetivo": "Añadir ideas y contrastarlas con «inoltre», «tuttavia» y «anche se».",
+      "intro": "Con estos connettivi sumas o contrastas ideas. Truco: «inoltre» = además; «tuttavia» = sin embargo; «anche se» = aunque.",
+      "palabras": [
+        { "t": "inoltre", "es": "además", "pron": "inóltre", "ej": "È un buon prezzo, inoltre è vicino.", "ejes": "Es un buen precio, además queda cerca.", "cog": false },
+        { "t": "tuttavia", "es": "sin embargo", "pron": "tuttavía", "ej": "È caro, tuttavia è di qualità.", "ejes": "Es caro, sin embargo es de calidad.", "cog": false },
+        { "t": "anche se", "es": "aunque", "pron": "ánke se", "ej": "Anche se piove, esco.", "ejes": "Aunque llueve, salgo.", "cog": false },
+        { "t": "comunque", "es": "de todos modos", "pron": "comúnque", "ej": "Comunque, grazie per l'aiuto.", "ejes": "De todos modos, gracias por la ayuda.", "cog": false },
+        { "t": "invece", "es": "en cambio", "pron": "invéche", "ej": "Io invece preferisco il tè.", "ejes": "Yo en cambio prefiero el té.", "cog": false },
+        { "t": "infatti", "es": "de hecho", "pron": "infátti", "ej": "Infatti, hai ragione.", "ejes": "De hecho, tienes razón.", "cog": false },
+        { "t": "infine", "es": "finalmente", "pron": "infíne", "ej": "Infine, vorrei ringraziare tutti.", "ejes": "Finalmente, quisiera agradecer a todos.", "cog": false },
+        { "t": "prima di tutto", "es": "en primer lugar", "pron": "príma di túto", "ej": "Prima di tutto, buongiorno.", "ejes": "En primer lugar, buenos días.", "cog": false }
+      ],
+      "frases": [
+        { "t": "È caro, tuttavia è di qualità.", "es": "Es caro, sin embargo es de calidad.", "pron": "é káro, tuttavía é di cualitá" },
+        { "t": "Il servizio è buono, inoltre il prezzo è basso.", "es": "El servicio es bueno, además el precio es bajo.", "pron": "il servítsio é buóno, inóltre il prétso é básso" },
+        { "t": "Anche se piove, andiamo al mercato.", "es": "Aunque llueve, vamos al mercado.", "pron": "ánke se piove, andiámo al mercáto" },
+        { "t": "Prima di tutto, vorrei ringraziarvi.", "es": "En primer lugar, quisiera agradecerles.", "pron": "príma di túto, vorréi ringratsiárvi" },
+        { "t": "Infine, vorrei fare una proposta.", "es": "Finalmente, quisiera hacer una propuesta.", "pron": "infíne, vorréi fáre úna propósta" }
+      ],
+      "dialogo": {
+        "titulo": "Una propuesta en el trabajo",
+        "lineas": [
+          { "q": "A", "t": "Prima di tutto, grazie a tutti per la presenza.", "es": "En primer lugar, gracias a todos por su presencia." },
+          { "q": "B", "t": "Il progetto è difficile, tuttavia ci siamo.", "es": "El proyecto es difícil, sin embargo estamos listos." },
+          { "q": "A", "t": "Inoltre il cliente è molto esigente.", "es": "Además el cliente es muy exigente." },
+          { "q": "B", "t": "Anche se è esigente, è un buon cliente.", "es": "Aunque es exigente, es un buen cliente." },
+          { "q": "A", "t": "Infine, la riunione è lunedì. Comunque vi scrivo.", "es": "Finalmente, la reunión es el lunes. De todos modos les escribo." }
+        ]
+      },
+      "nota": "«Infatti» confirma lo dicho (de hecho, en efecto). «Tuttavia» es más formal que «però». «Comunque» al principio cierra o cambia de tema (de todos modos)."
+    },
+    {
+      "id": "it-b1-u14-l4",
+      "n": 4,
+      "titulo": "Expresiones frecuentes",
+      "objetivo": "Usar expresiones muy frecuentes que dan naturalidad.",
+      "intro": "Estas expresiones se oyen todo el tiempo en italiano. Truco: aprende cada una dentro de una frase, no sola.",
+      "palabras": [
+        { "t": "in realtà", "es": "en realidad", "pron": "in realtá", "ej": "In realtà non è difficile.", "ejes": "En realidad no es difícil.", "cog": true },
+        { "t": "per fortuna", "es": "por suerte", "pron": "per fortúna", "ej": "Per fortuna sono arrivato presto.", "ejes": "Por suerte llegué temprano.", "cog": false },
+        { "t": "purtroppo", "es": "lamentablemente", "pron": "purtróppo", "ej": "Purtroppo non posso venire.", "ejes": "Lamentablemente no puedo ir.", "cog": false },
+        { "t": "a proposito", "es": "a propósito", "pron": "a propósito", "ej": "A proposito, hai visto Marco?", "ejes": "A propósito, ¿viste a Marco?", "cog": true },
+        { "t": "d'altra parte", "es": "por otro lado", "pron": "daltra párte", "ej": "D'altra parte, hai ragione.", "ejes": "Por otro lado, tienes razón.", "cog": false },
+        { "t": "in fondo", "es": "en el fondo", "pron": "in fóndo", "ej": "In fondo è una bella idea.", "ejes": "En el fondo es una buena idea.", "cog": true },
+        { "t": "per esempio", "es": "por ejemplo", "pron": "per esémpio", "ej": "Per esempio, il pane è buono.", "ejes": "Por ejemplo, el pan es rico.", "cog": true },
+        { "t": "di solito", "es": "normalmente", "pron": "di sólito", "ej": "Di solito mangio alle due.", "ejes": "Normalmente como a las dos.", "cog": false },
+        { "t": "che peccato", "es": "qué lástima", "pron": "ke peccáto", "ej": "Che peccato, non puoi venire!", "ejes": "¡Qué lástima, no puedes venir!", "cog": false }
+      ],
+      "frases": [
+        { "t": "In realtà non è difficile.", "es": "En realidad no es difícil.", "pron": "in realtá non é diffíchile" },
+        { "t": "Purtroppo non posso venire.", "es": "Lamentablemente no puedo ir.", "pron": "purtróppo non pósso venire" },
+        { "t": "Per fortuna siamo arrivati in tempo.", "es": "Por suerte llegamos a tiempo.", "pron": "per fortúna siámo arrivati in témpo" },
+        { "t": "A proposito, hai sentito la notizia?", "es": "A propósito, ¿oíste la noticia?", "pron": "a propósito, ái sentíto la notítsia" },
+        { "t": "Che peccato, non puoi venire!", "es": "¡Qué lástima, no puedes venir!", "pron": "ke peccáto, non puói venire" }
+      ],
+      "dialogo": {
+        "titulo": "Una invitación que no sale",
+        "lineas": [
+          { "q": "A", "t": "Vieni alla festa sabato?", "es": "¿Vienes a la fiesta el sábado?" },
+          { "q": "B", "t": "Purtroppo no, lavoro.", "es": "Lamentablemente no, trabajo." },
+          { "q": "A", "t": "Che peccato! Di solito vieni sempre.", "es": "¡Qué lástima! Normalmente siempre vienes." },
+          { "q": "B", "t": "In realtà vorrei venire. A proposito, quando è la prossima?", "es": "En realidad quisiera ir. A propósito, ¿cuándo es la próxima?" },
+          { "q": "A", "t": "A novembre. Per fortuna c'è tempo!", "es": "En noviembre. ¡Por suerte hay tiempo!" }
+        ]
+      },
+      "nota": "«Purtroppo» expresa algo negativo: «purtroppo non posso». «Per fortuna» es lo contrario. «In realtà» corrige o matiza algo dicho antes. «A proposito» no cambia: es frase fija."
+    },
+    {
+      "id": "it-b1-u14-l5",
+      "n": 5,
+      "titulo": "Repaso general del nivel B1",
+      "objetivo": "Combinar el nivel completo: opiniones, noticias, trabajo, servicios y correos.",
+      "intro": "Esta es la última lección del nivel. Truco: elige un tema de las unidades 8 a 13 y cuéntalo usando al menos dos connettivi.",
+      "palabras": [
+        { "t": "il bilancio", "es": "el balance / la evaluación", "pron": "il bilánccho", "ej": "Il bilancio del corso è positivo.", "ejes": "La evaluación del curso es positiva.", "cog": false },
+        { "t": "il livello", "es": "el nivel", "pron": "il livéllo", "ej": "Il livello è intermedio.", "ejes": "El nivel es intermedio.", "cog": true },
+        { "t": "progredire", "es": "progresar", "pron": "progredíre", "ej": "Voglio progredire ogni giorno.", "ejes": "Quiero progresar cada día.", "cog": true },
+        { "t": "esprimere", "es": "expresar", "pron": "ésprimere", "ej": "Posso esprimere la mia opinione?", "ejes": "¿Puedo expresar mi opinión?", "cog": true },
+        { "t": "la lettera", "es": "la carta", "pron": "la léttera", "ej": "La lettera è formale.", "ejes": "La carta es formal.", "cog": true },
+        { "t": "raggiungere", "es": "alcanzar / lograr", "pron": "raddyúndyere", "ej": "Voglio raggiungere un buon livello.", "ejes": "Quiero alcanzar un buen nivel.", "cog": false },
+        { "t": "la fiducia", "es": "la confianza", "pron": "la fidúcia", "ej": "La fiducia è importante.", "ejes": "La confianza es importante.", "cog": false },
+        { "t": "il consiglio", "es": "el consejo", "pron": "il consíllo", "ej": "Il consiglio è utile.", "ejes": "El consejo es útil.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Penso che il livello sia intermedio.", "es": "Pienso que el nivel es intermedio.", "pron": "pénso ke il livéllo sía intermédio" },
+        { "t": "Ho lavorato in banca, quindi parlo di economia.", "es": "Trabajé en un banco, así que hablo de economía.", "pron": "o lavoráto in bánca, cuíndi párlo di economía" },
+        { "t": "Le scrivo per un reclamo, inoltre allego la ricevuta.", "es": "Le escribo por un reclamo, además adjunto el recibo.", "pron": "le scrívo per un reclámo, inóltre allégo la richevúta" },
+        { "t": "Spero che il corso sia utile.", "es": "Espero que el curso sea útil.", "pron": "spéro ke il cúrso sía útile" },
+        { "t": "Infine, vorrei ringraziare tutti.", "es": "Finalmente, quisiera agradecer a todos.", "pron": "infíne, vorréi ringratsiáre túti" }
+      ],
+      "dialogo": {
+        "titulo": "Un balance del curso",
+        "lineas": [
+          { "q": "A", "t": "Allora, qual è il bilancio del corso?", "es": "Entonces, ¿cuál es el balance del curso?" },
+          { "q": "B", "t": "Penso che sia stato molto utile, inoltre ho progredito tanto.", "es": "Pienso que fue muy útil, además progresé mucho." },
+          { "q": "A", "t": "Sei d'accordo con me sul livello?", "es": "¿Estás de acuerdo conmigo sobre el nivel?" },
+          { "q": "B", "t": "Sì, ma voglio raggiungere un livello più alto.", "es": "Sí, pero quiero alcanzar un nivel más alto." },
+          { "q": "A", "t": "Spero che tu ci riesca. Hai molta fiducia!", "es": "Espero que lo logres. ¡Tienes mucha confianza!" }
+        ]
+      },
+      "nota": "«Ci riesca» es congiuntivo de «riuscire» (lograr): por ahora es una frase fija. Con esta unidad terminas el nivel B1: ya puedes dar opiniones, contar noticias, hablar de trabajo y escribir correos formales."
+    }
+  ]
+}

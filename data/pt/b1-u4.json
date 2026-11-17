@@ -1,0 +1,226 @@
+{
+  "id": "pt-b1-u4",
+  "idioma": "pt",
+  "nivel": "B1",
+  "n": 4,
+  "titulo": "Condiciones y consecuencias",
+  "resumen": "Aprenderás a decir «si pasa A, pasa B» en portugués: «se + presente», «se + tiver/puder/for» y «se eu tivesse... eu compraria».",
+  "puedo": [
+    "Decir cosas que siempre pasan con «se + presente».",
+    "Hablar de condiciones posibles con «se tiver», «se puder», «se chover».",
+    "Imaginar situaciones con «se eu tivesse... eu faria».",
+    "Usar «senão», «caso» y «a menos que» para condiciones y consecuencias.",
+    "Dar consejos y planes condicionados."
+  ],
+  "gramatica": {
+    "titulo": "Se + verbo: tres tipos de condición",
+    "texto": "«Se» significa «si» (condicional). Ojo: no es el «se» reflexivo del español. Cambia el verbo según qué tan posible sea la condición.\n1) Verdades y hábitos: se + presente + presente. Se chove, o trânsito piora (Si llueve, el tráfico empeora).\n2) Condición posible en el futuro: se + futuro do subjuntivo (formas «tiver, puder, for, fizer, chover»). Se chover, eu fico em casa (Si llueve, me quedo en casa). Aprende estas formas como fórmulas fijas.\n3) Condición imaginaria: se + imperfeito do subjuntivo («tivesse, pudesse, fosse») + condicional (comprarei = compraria). Se eu tivesse dinheiro, compraria uma casa (Si tuviera dinero, compraría una casa).",
+    "tabla": [
+      ["Se chove, o trânsito piora.", "Si llueve, el tráfico empeora. (general)", "si shóvi u tránsitu piora"],
+      ["Se chover, eu fico em casa.", "Si llueve, me quedo en casa. (posible)", "si shovér éu fíku ein káza"],
+      ["Se eu tiver tempo, eu ligo.", "Si tengo tiempo, llamo.", "si éu chivér téimpu éu lígu"],
+      ["Se eu for, eu aviso.", "Si voy, aviso.", "si éu fór éu avízu"],
+      ["Se eu tivesse dinheiro, compraria.", "Si tuviera dinero, compraría.", "si éu chivésí dinyéiru komprária"],
+      ["Se eu fosse você, iria.", "Si yo fuera tú, iría.", "si éu fósi vosé iría"]
+    ],
+    "errores": [
+      "No uses el futuro después de «se»: se dice «Se eu tiver tempo», no «Se eu terei tempo» (el español tampoco: «si tendré» sería incorrecto).",
+      "No traduzcas «si» como «sim»: «sim» es el «sí» de afirmar; para condicionar se usa siempre «se» (Se chover...).",
+      "«Senão» (si no, de lo contrario) va junto y es distinto de «se não» (si no + verbo): «Corra, senão perde o ônibus» vs. «Se não chover, vamos»."
+    ]
+  },
+  "practica": [
+    "Escribe 6 frases «Se eu tiver tempo, eu...» sobre lo que harías el fin de semana (6 minutos).",
+    "Completa en voz alta 5 veces: «Se eu fosse milionário, eu...» (5 minutos).",
+    "Lee en voz alta y memoriza: se chover, se puder, se tiver, se for, se fizer sol (3 minutos).",
+    "Escribe 4 consejos con «Se eu fosse você, eu...» para un amigo con un problema (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b1-u4-l1",
+      "n": 1,
+      "titulo": "Se + presente: lo que siempre pasa",
+      "objetivo": "Decir qué consecuencias tienen ciertas acciones con «se + presente».",
+      "intro": "Para verdades y hábitos, usa «se» + presente: Se você esquenta a água, ela ferve. Truco: piensa en «si... entonces... siempre».",
+      "palabras": [
+        { "t": "se", "es": "si (condicional)", "pron": "si", "ej": "Se você esquenta a água, ela ferve.", "ejes": "Si calientas el agua, hierve.", "cog": false },
+        { "t": "sempre que", "es": "siempre que / cada vez que", "pron": "sémpri ki", "ej": "Sempre que chove, o trânsito piora.", "ejes": "Cada vez que llueve, el tráfico empeora.", "cog": false },
+        { "t": "esquentar", "es": "calentar", "pron": "eskentár", "ej": "Vou esquentar a comida no micro-ondas.", "ejes": "Voy a calentar la comida en el microondas.", "cog": false },
+        { "t": "ferver", "es": "hervir", "pron": "ferver", "ej": "A água vai ferver em cinco minutos.", "ejes": "El agua va a hervir en cinco minutos.", "cog": false },
+        { "t": "congelar", "es": "congelar", "pron": "konyelár", "ej": "Vou congelar a carne para o jantar.", "ejes": "Voy a congelar la carne para la cena.", "cog": true },
+        { "t": "atrasar", "es": "retrasarse / llegar tarde", "pron": "atrasár", "ej": "O ônibus vai atrasar por causa da chuva.", "ejes": "El autobús va a retrasarse por la lluvia.", "cog": false },
+        { "t": "trânsito", "es": "tráfico", "pron": "tránsitu", "ej": "O trânsito de São Paulo é terrível.", "ejes": "El tráfico de São Paulo es terrible.", "cog": false },
+        { "t": "multa", "es": "multa", "pron": "múlta", "ej": "Se você estaciona aí, leva multa.", "ejes": "Si estacionas ahí, te ponen una multa.", "cog": false },
+        { "t": "geralmente", "es": "generalmente", "pron": "yeralméinchi", "ej": "Geralmente eu chego cedo ao trabalho.", "ejes": "Generalmente llego temprano al trabajo.", "cog": true },
+        { "t": "perder", "es": "perder", "pron": "perdér", "ej": "Se você dorme tarde, vai perder a manhã.", "ejes": "Si duermes tarde, vas a perder la mañana.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Se você esquenta a água, ela ferve.", "es": "Si calientas el agua, hierve.", "pron": "si vosé eskénta a água, éla férvi" },
+        { "t": "Sempre que chove, o trânsito piora.", "es": "Cada vez que llueve, el tráfico empeora.", "pron": "sémpri ki shóvi, u tránsitu piora" },
+        { "t": "Se você estaciona ali, leva multa.", "es": "Si estacionas ahí, te ponen una multa.", "pron": "si vosé estasióna alí, léva múlta" },
+        { "t": "Se eu durmo tarde, acordo cansado.", "es": "Si duermo tarde, me despierto cansado.", "pron": "si éu dúrmu tárdyi, akórdu kansádu" },
+        { "t": "Se o ônibus atrasa, eu chego tarde.", "es": "Si el autobús se retrasa, llego tarde.", "pron": "si u ónibus atráza, éu shégu tárdyi" }
+      ],
+      "dialogo": {
+        "titulo": "O trânsito de São Paulo",
+        "lineas": [
+          { "q": "A", "t": "Por que você sempre chega tarde?", "es": "¿Por qué siempre llegas tarde?" },
+          { "q": "B", "t": "Sempre que chove, o trânsito piora muito.", "es": "Cada vez que llueve, el tráfico empeora mucho." },
+          { "q": "A", "t": "Se você sai mais cedo, não atrasa.", "es": "Si sales más temprano, no te retrasas." },
+          { "q": "B", "t": "É verdade, mas se eu durmo tarde, acordo cansado.", "es": "Es verdad, pero si duermo tarde, me despierto cansado." },
+          { "q": "A", "t": "Então vá dormir cedo, ué!", "es": "¡Entonces anda a dormir temprano, pues!" }
+        ]
+      },
+      "nota": "Para verdades generales, el portugués usa «se» + presente, igual que el español. Para cosas posibles en el futuro cambia la forma (lección 2)."
+    },
+    {
+      "id": "pt-b1-u4-l2",
+      "n": 2,
+      "titulo": "Se tiver, se puder: condiciones posibles",
+      "objetivo": "Hablar de condiciones posibles con las formas «tiver, puder, for, fizer, chover».",
+      "intro": "Para algo que puede pasar mañana o la semana que viene, el verbo después de «se» cambia de forma: tiver, puder, for. Truco: aprende estas formas como fórmulas, sin traducirlas literalmente.",
+      "palabras": [
+        { "t": "se tiver", "es": "si tiene / si tengo", "pron": "si chivér", "ej": "Eu ligo para você se tiver tempo.", "ejes": "Te llamo si tengo tiempo.", "cog": false },
+        { "t": "se puder", "es": "si puedo / si puede", "pron": "si pudér", "ej": "Eu vou à festa se puder.", "ejes": "Voy a la fiesta si puedo.", "cog": false },
+        { "t": "se for", "es": "si voy / si es", "pron": "si fór", "ej": "Se for possível, chegue cedo.", "ejes": "Si es posible, llega temprano.", "cog": false },
+        { "t": "se fizer", "es": "si hace / si haces", "pron": "si fizér", "ej": "Vamos à praia se fizer sol.", "ejes": "Vamos a la playa si hace sol.", "cog": false },
+        { "t": "se chover", "es": "si llueve", "pron": "si shovér", "ej": "Eu fico em casa se chover.", "ejes": "Me quedo en casa si llueve.", "cog": false },
+        { "t": "se quiser", "es": "si quieres", "pron": "si kizér", "ej": "Você pode vir se quiser.", "ejes": "Puedes venir si quieres.", "cog": false },
+        { "t": "se precisar", "es": "si necesitas", "pron": "si presisár", "ej": "Me ligue se precisar de ajuda.", "ejes": "Llámame si necesitas ayuda.", "cog": false },
+        { "t": "se eu souber", "es": "si me entero / si sé", "pron": "si éu sobér", "ej": "Eu aviso se eu souber de algo.", "ejes": "Aviso si me entero de algo.", "cog": false },
+        { "t": "avisar", "es": "avisar", "pron": "avisár", "ej": "Eu vou avisar você amanhã.", "ejes": "Voy a avisarte mañana.", "cog": false },
+        { "t": "ligar", "es": "llamar (por teléfono)", "pron": "ligár", "ej": "Eu vou ligar para ela depois.", "ejes": "Voy a llamarla después.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Se chover, eu fico em casa.", "es": "Si llueve, me quedo en casa.", "pron": "si shovér, éu fíku ein káza" },
+        { "t": "Eu ligo para você se tiver tempo.", "es": "Te llamo si tengo tiempo.", "pron": "éu lígu pára vosé si chivér téimpu" },
+        { "t": "Vamos à praia se fizer sol.", "es": "Vamos a la playa si hace sol.", "pron": "vámus a práia si fizér sól" },
+        { "t": "Me ligue se precisar de ajuda.", "es": "Llámame si necesitas ayuda.", "pron": "mi lígui si presisár dyi ayúda" },
+        { "t": "Você pode vir se quiser.", "es": "Puedes venir si quieres.", "pron": "vosé pódyi vír si kizér" }
+      ],
+      "dialogo": {
+        "titulo": "Planos para o sábado",
+        "lineas": [
+          { "q": "A", "t": "O que você vai fazer no sábado?", "es": "¿Qué vas a hacer el sábado?" },
+          { "q": "B", "t": "Vamos à praia se fizer sol.", "es": "Vamos a la playa si hace sol." },
+          { "q": "A", "t": "E se chover?", "es": "¿Y si llueve?" },
+          { "q": "B", "t": "Se chover, ficamos em casa e vemos filme.", "es": "Si llueve, nos quedamos en casa y vemos una película." },
+          { "q": "A", "t": "Me ligue se precisar de ajuda com o carro.", "es": "Llámame si necesitas ayuda con el carro." }
+        ]
+      },
+      "nota": "Estas formas (tiver, puder, for, fizer, chover) se llaman futuro do subjuntivo y solo se usan después de «se», «quando» y similares. Por ahora memoriza las frases hechas."
+    },
+    {
+      "id": "pt-b1-u4-l3",
+      "n": 3,
+      "titulo": "Se eu tivesse: situaciones imaginarias",
+      "objetivo": "Imaginar situaciones con «se eu tivesse... eu compraria».",
+      "intro": "Para algo que no es real o es poco probable: «se eu tivesse» + condicional (compraria). Truco: el condicional es el infinitivo + -ia: comprar = compraria, viajar = viajaria.",
+      "palabras": [
+        { "t": "se eu tivesse", "es": "si yo tuviera", "pron": "si éu chivési", "ej": "Eu viajaria mais se eu tivesse dinheiro.", "ejes": "Viajaría más si yo tuviera dinero.", "cog": false },
+        { "t": "se eu pudesse", "es": "si yo pudiera", "pron": "si éu pudési", "ej": "Eu moraria na praia se eu pudesse.", "ejes": "Viviría en la playa si yo pudiera.", "cog": false },
+        { "t": "se eu fosse", "es": "si yo fuera", "pron": "si éu fósi", "ej": "Se eu fosse rico, eu ajudaria todos.", "ejes": "Si yo fuera rico, ayudaría a todos.", "cog": false },
+        { "t": "compraria", "es": "compraría", "pron": "komprária", "ej": "Eu compraria uma casa grande.", "ejes": "Compraría una casa grande.", "cog": false },
+        { "t": "viajaria", "es": "viajaría", "pron": "viayária", "ej": "Eu viajaria pelo mundo todo.", "ejes": "Viajaría por todo el mundo.", "cog": false },
+        { "t": "moraria", "es": "viviría", "pron": "morária", "ej": "Eu moraria perto do mar.", "ejes": "Viviría cerca del mar.", "cog": false },
+        { "t": "faria", "es": "haría", "pron": "fária", "ej": "O que você faria no meu lugar?", "ejes": "¿Qué harías en mi lugar?", "cog": false },
+        { "t": "seria", "es": "sería", "pron": "séria", "ej": "Isso seria muito bom.", "ejes": "Eso sería muy bueno.", "cog": false },
+        { "t": "gostaria", "es": "me gustaría", "pron": "gostária", "ej": "Eu gostaria de conhecer o Japão.", "ejes": "Me gustaría conocer Japón.", "cog": false },
+        { "t": "ganhar na loteria", "es": "ganar la lotería", "pron": "gañár na lotería", "ej": "Eu quero ganhar na loteria um dia.", "ejes": "Quiero ganar la lotería algún día.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Se eu tivesse dinheiro, eu compraria uma casa.", "es": "Si tuviera dinero, compraría una casa.", "pron": "si éu chivési dinyéiru, éu komprária úma káza" },
+        { "t": "Se eu fosse você, eu aceitaria o emprego.", "es": "Si yo fuera tú, aceptaría el trabajo.", "pron": "si éu fósi vosé, éu aseitária u empréigu" },
+        { "t": "Se eu pudesse, eu viajaria pelo mundo.", "es": "Si pudiera, viajaría por el mundo.", "pron": "si éu pudési, éu viayária pélu múndu" },
+        { "t": "O que você faria se ganhasse na loteria?", "es": "¿Qué harías si ganaras la lotería?", "pron": "u ki vosé fária si gañási na lotería" },
+        { "t": "Eu gostaria de morar perto do mar.", "es": "Me gustaría vivir cerca del mar.", "pron": "éu gostária dyi morár pértu du már" }
+      ],
+      "dialogo": {
+        "titulo": "Se eu fosse rico",
+        "lineas": [
+          { "q": "A", "t": "O que você faria se ganhasse na loteria?", "es": "¿Qué harías si ganaras la lotería?" },
+          { "q": "B", "t": "Se eu fosse rico, eu viajaria pelo mundo todo.", "es": "Si yo fuera rico, viajaría por todo el mundo." },
+          { "q": "A", "t": "E onde você moraria?", "es": "¿Y dónde vivirías?" },
+          { "q": "B", "t": "Eu moraria perto do mar, se eu pudesse.", "es": "Viviría cerca del mar, si pudiera." },
+          { "q": "A", "t": "Eu gostaria de abrir um restaurante.", "es": "A mí me gustaría abrir un restaurante." }
+        ]
+      },
+      "nota": "En el habla cotidiana brasileña es común reemplazar el condicional por el imperfeito: «Se eu tivesse dinheiro, eu comprava» (en lugar de «compraria»). Ambos son correctos."
+    },
+    {
+      "id": "pt-b1-u4-l4",
+      "n": 4,
+      "titulo": "Senão, caso, a menos que",
+      "objetivo": "Dar consejos y condiciones con «senão», «caso» y «a menos que».",
+      "intro": "Estas palabras ayudan a advertir o a poner condiciones: «senão» (si no, de lo contrario), «caso» (en caso de que). Truco: «caso» y «a menos que» van con subjuntivo: chova, tenha.",
+      "palabras": [
+        { "t": "senão", "es": "si no / de lo contrario", "pron": "senáun", "ej": "Corra, senão você perde o ônibus.", "ejes": "Corre, si no pierdes el autobús.", "cog": false },
+        { "t": "caso", "es": "en caso de que", "pron": "kázu", "ej": "Leve guarda-chuva caso chova.", "ejes": "Lleva paraguas en caso de que llueva.", "cog": false },
+        { "t": "a menos que", "es": "a menos que", "pron": "a ménus ki", "ej": "Eu vou, a menos que chova.", "ejes": "Voy, a menos que llueva.", "cog": false },
+        { "t": "contanto que", "es": "siempre que / con tal que", "pron": "kontántu ki", "ej": "Eu vou, contanto que você vá também.", "ejes": "Voy, con tal de que tú también vayas.", "cog": false },
+        { "t": "consequência", "es": "consecuencia", "pron": "konsekuéinsia", "ej": "Isso tem uma consequência grave.", "ejes": "Eso tiene una consecuencia grave.", "cog": true },
+        { "t": "condição", "es": "condición", "pron": "kondisáun", "ej": "Aceito, mas com uma condição.", "ejes": "Acepto, pero con una condición.", "cog": true },
+        { "t": "resultado", "es": "resultado", "pron": "resultádu", "ej": "O resultado foi muito bom.", "ejes": "El resultado fue muy bueno.", "cog": true },
+        { "t": "se não", "es": "si no (+ verbo)", "pron": "si náun", "ej": "Vamos à praia se não chover.", "ejes": "Vamos a la playa si no llueve.", "cog": false },
+        { "t": "mesmo que", "es": "aunque / incluso si", "pron": "mésmu ki", "ej": "Eu vou, mesmo que chova.", "ejes": "Voy, aunque llueva.", "cog": false },
+        { "t": "prefiro", "es": "prefiero", "pron": "prefíru", "ej": "Eu prefiro ficar em casa.", "ejes": "Prefiero quedarme en casa.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Corra, senão você perde o ônibus.", "es": "Corre, si no pierdes el autobús.", "pron": "kórra, senáun vosé pérdyi u ónibus" },
+        { "t": "Leve guarda-chuva, caso chova.", "es": "Lleva paraguas, por si llueve.", "pron": "lévi guárda-shúva, kázu shóva" },
+        { "t": "Eu vou, a menos que chova muito.", "es": "Voy, a menos que llueva mucho.", "pron": "éu vóu, a ménus ki shóva múintu" },
+        { "t": "Eu vou, mesmo que chova.", "es": "Voy, aunque llueva.", "pron": "éu vóu, mésmu ki shóva" },
+        { "t": "Aceito o trabalho, mas com uma condição.", "es": "Acepto el trabajo, pero con una condición.", "pron": "aséitu u trabálhu, máis kon úma kondisáun" }
+      ],
+      "dialogo": {
+        "titulo": "Conselhos antes de viajar",
+        "lineas": [
+          { "q": "A", "t": "Leve casaco, caso faça frio.", "es": "Lleva abrigo, por si hace frío." },
+          { "q": "B", "t": "Eu vou, mesmo que faça frio.", "es": "Voy, aunque haga frío." },
+          { "q": "A", "t": "Ótimo, mas chegue cedo, senão perde o voo.", "es": "Perfecto, pero llega temprano, si no pierdes el vuelo." },
+          { "q": "B", "t": "Eu chego, a menos que haja muito trânsito.", "es": "Llego, a menos que haya mucho tráfico." },
+          { "q": "A", "t": "Tudo bem. Só tem uma condição: me ligue quando chegar!", "es": "Está bien. Solo hay una condición: ¡llámame cuando llegues!" }
+        ]
+      },
+      "nota": "«Senão» (junto) significa «de lo contrario»; «se não» (separado) es «si no» seguido de verbo. Después de «caso», «a menos que», «contanto que» y «mesmo que» el verbo va en subjuntivo (chova, faça, tenha)."
+    },
+    {
+      "id": "pt-b1-u4-l5",
+      "n": 5,
+      "titulo": "Repaso: si pasa, entonces",
+      "objetivo": "Combinar condiciones reales e imaginarias con consecuencias.",
+      "intro": "Ahora mezcla todo: «se chover», «se eu tivesse», «senão», «caso». Truco: cuenta qué harías con una condición real y una imaginaria sobre tu fin de semana.",
+      "palabras": [
+        { "t": "plano", "es": "plan", "pron": "plánu", "ej": "O meu plano é viajar em julho.", "ejes": "Mi plan es viajar en julio.", "cog": true },
+        { "t": "opção", "es": "opción", "pron": "opsáun", "ej": "Temos uma opção para o jantar.", "ejes": "Tenemos una opción para la cena.", "cog": true },
+        { "t": "decisão", "es": "decisión", "pron": "desisáun", "ej": "Foi uma decisão difícil.", "ejes": "Fue una decisión difícil.", "cog": true },
+        { "t": "arriscar", "es": "arriesgar", "pron": "ariskár", "ej": "Eu não quero arriscar meu emprego.", "ejes": "No quiero arriesgar mi empleo.", "cog": true },
+        { "t": "vantagem", "es": "ventaja", "pron": "vantáyein", "ej": "Essa opção tem muita vantagem.", "ejes": "Esa opción tiene mucha ventaja.", "cog": false },
+        { "t": "desvantagem", "es": "desventaja", "pron": "dezvantáyein", "ej": "A desvantagem é o preço.", "ejes": "La desventaja es el precio.", "cog": false },
+        { "t": "aceitaria", "es": "aceptaría", "pron": "aseitária", "ej": "Eu aceitaria a proposta.", "ejes": "Yo aceptaría la propuesta.", "cog": false },
+        { "t": "recusar", "es": "rechazar", "pron": "rekuzár", "ej": "Eu vou recusar o convite.", "ejes": "Voy a rechazar la invitación.", "cog": false },
+        { "t": "no seu lugar", "es": "en tu lugar", "pron": "nu séu lugár", "ej": "Eu aceitaria, no seu lugar.", "ejes": "Yo aceptaría, en tu lugar.", "cog": false },
+        { "t": "vale a pena", "es": "vale la pena", "pron": "váli a péna", "ej": "Acho que vale a pena tentar.", "ejes": "Creo que vale la pena intentar.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Se eu tiver tempo, eu vou à praia.", "es": "Si tengo tiempo, voy a la playa.", "pron": "si éu chivér téimpu, éu vóu a práia" },
+        { "t": "Se eu fosse você, eu aceitaria a proposta.", "es": "Si yo fuera tú, aceptaría la propuesta.", "pron": "si éu fósi vosé, éu aseitária a propósta" },
+        { "t": "Acho que vale a pena arriscar.", "es": "Creo que vale la pena arriesgar.", "pron": "áchu ki váli a péna ariskár" },
+        { "t": "Eu vou, a menos que chova muito.", "es": "Voy, a menos que llueva mucho.", "pron": "éu vóu, a ménus ki shóva múintu" },
+        { "t": "Qual é a vantagem dessa opção?", "es": "¿Cuál es la ventaja de esa opción?", "pron": "kuáu é a vantáyein désa opsáun" }
+      ],
+      "dialogo": {
+        "titulo": "Uma decisão difícil",
+        "lineas": [
+          { "q": "A", "t": "Recebi uma proposta de emprego em outra cidade.", "es": "Recibí una propuesta de trabajo en otra ciudad." },
+          { "q": "B", "t": "Que ótimo! Qual é a vantagem?", "es": "¡Qué genial! ¿Cuál es la ventaja?" },
+          { "q": "A", "t": "Ganho mais, mas a desvantagem é ficar longe da família.", "es": "Gano más, pero la desventaja es estar lejos de la familia." },
+          { "q": "B", "t": "Se eu fosse você, eu aceitaria. Acho que vale a pena.", "es": "Si yo fuera tú, aceptaría. Creo que vale la pena." },
+          { "q": "A", "t": "Vou aceitar, a menos que minha esposa não queira.", "es": "Voy a aceptar, a menos que mi esposa no quiera." },
+          { "q": "B", "t": "Converse com ela. A decisão é difícil, mas é sua.", "es": "Conversa con ella. La decisión es difícil, pero es tuya." }
+        ]
+      },
+      "nota": "Resumen: hábito = «se + presente»; posible = «se tiver, se puder...»; imaginario = «se eu tivesse... eu compraria». Para advertir usa «senão»; para condiciones, «a menos que»."
+    }
+  ]
+}

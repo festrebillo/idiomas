@@ -1,0 +1,224 @@
+{
+  "id": "it-b1-u4",
+  "idioma": "it",
+  "nivel": "B1",
+  "n": 4,
+  "titulo": "Condiciones y consecuencias",
+  "resumen": "Aprenderás a decir «si pasa A, pasa B» y «si pasara A, pasaría B» con el periodo ipotetico de primer y segundo tipo.",
+  "puedo": [
+    "Hablar de condiciones posibles con «se + presente».",
+    "Formar el condizionale presente: farei, andrei, sarei.",
+    "Imaginar situaciones con «se + congiuntivo imperfetto + condizionale».",
+    "Dar consejos con «se fossi in te...».",
+    "Hablar de sueños y decisiones con «se»."
+  ],
+  "gramatica": {
+    "titulo": "Si... entonces: periodo ipotetico (1.º y 2.º tipo)",
+    "texto": "Con «se» (si) se forman dos tipos de condiciones.\n1.º tipo, posible: se + presente, y después presente, futuro o imperativo. Se piove, resto a casa. Se studi, passerai l'esame.\n2.º tipo, imaginario o improbable: se + congiuntivo imperfetto (el subjuntivo imperfecto) + condizionale (el condicional). Se fossi ricco, viaggerei tutto l'anno.\nCongiuntivo imperfetto: fossi, avessi, facessi, andassi, potessi; los regulares terminan en -assi, -essi, -issi.\nCondizionale: infinitivo sin -e + -ei, -esti, -ebbe, -emmo, -este, -ebbero: viaggiare = viaggerei. Irregulares como el futuro: sarei, avrei, farei, andrei, potrei.",
+    "tabla": [
+      ["se piove, resto", "si llueve, me quedo", "se piove résto"],
+      ["se studi, passerai", "si estudias, aprobarás", "se stúdi passeráy"],
+      ["se fossi ricco, viaggerei", "si fuera rico, viajaría", "se fóssi ríccho viaddyeréi"],
+      ["se avessi tempo, verrei", "si tuviera tiempo, vendría", "se avéssi témpo verréi"],
+      ["se fossi in te", "si yo fuera tú", "se fóssi in te"],
+      ["ti piacerebbe...?", "¿te gustaría...?", "ti piacherébbe"]
+    ],
+    "errores": [
+      "Después de «se» nunca va el condizionale: «Se fossi ricco, viaggerei», no «Se sarei ricco, viaggerei».",
+      "En el 1.er tipo tampoco: «Se piove, resto a casa», no «Se pioverebbe...».",
+      "El congiuntivo imperfetto no es el imperfetto: se dice «se avessi», no «se avevo» (eso es lenguaje muy coloquial que conviene evitar)."
+    ]
+  },
+  "practica": [
+    "Escribe cinco frases «Se + presente, ...» sobre planes del fin de semana (5 minutos).",
+    "Completa en voz alta «Se avessi un millón de soles, ...» con cinco ideas distintas (5 minutos).",
+    "Da consejos a un amigo imaginario con «Se fossi in te, ...» tres veces (4 minutos).",
+    "Repasa fossi, avessi, facessi, andassi, potessi y escribe una frase con cada uno (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b1-u4-l1",
+      "n": 1,
+      "titulo": "Si pasa esto, pasa aquello",
+      "objetivo": "Expresar condiciones posibles con «se + presente».",
+      "intro": "Para condiciones reales usa se + presente. Truco: igual que en español: «si llueve, me quedo» = «se piove, resto».",
+      "palabras": [
+        { "t": "se piove", "es": "si llueve", "pron": "se piove", "ej": "Se piove, resto a casa.", "ejes": "Si llueve, me quedo en casa.", "cog": false },
+        { "t": "se hai tempo", "es": "si tienes tiempo", "pron": "se ái témpo", "ej": "Se hai tempo, vieni a cena.", "ejes": "Si tienes tiempo, ven a cenar.", "cog": false },
+        { "t": "se puoi", "es": "si puedes", "pron": "se puói", "ej": "Chiamami se puoi.", "ejes": "Llámame si puedes.", "cog": false },
+        { "t": "se vuoi", "es": "si quieres", "pron": "se vuói", "ej": "Vengo con te, se vuoi.", "ejes": "Voy contigo, si quieres.", "cog": false },
+        { "t": "se no", "es": "si no, de lo contrario", "pron": "se no", "ej": "Sbrigati, se no perdiamo il treno.", "ejes": "Apúrate, si no perdemos el tren.", "cog": false },
+        { "t": "altrimenti", "es": "de lo contrario", "pron": "altriménti", "ej": "Parti ora, altrimenti arrivi tardi.", "ejes": "Sal ahora, de lo contrario llegas tarde.", "cog": false },
+        { "t": "dipende", "es": "depende", "pron": "dipénde", "ej": "Dipende dal tempo.", "ejes": "Depende del clima.", "cog": false },
+        { "t": "in caso di", "es": "en caso de", "pron": "in cáso di", "ej": "In caso di pioggia, restiamo a casa.", "ejes": "En caso de lluvia, nos quedamos en casa.", "cog": true },
+        { "t": "la condizione", "es": "la condición", "pron": "la condisióne", "ej": "La condizione è semplice.", "ejes": "La condición es sencilla.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Se piove, resto a casa.", "es": "Si llueve, me quedo en casa.", "pron": "se piove résto a cása" },
+        { "t": "Se hai tempo, vieni a cena da noi.", "es": "Si tienes tiempo, ven a cenar con nosotros.", "pron": "se ái témpo viéni a chéna da nói" },
+        { "t": "Se studi, passerai l'esame.", "es": "Si estudias, aprobarás el examen.", "pron": "se stúdi passeráy lesáme" },
+        { "t": "Chiamami se hai bisogno.", "es": "Llámame si necesitas algo.", "pron": "quiámami se ái bisóño" },
+        { "t": "Sbrigati, altrimenti perdiamo il treno.", "es": "Apúrate, de lo contrario perdemos el tren.", "pron": "sbrigáti altriménti perdiámo il tréno" }
+      ],
+      "dialogo": {
+        "titulo": "Che facciamo domenica?",
+        "lineas": [
+          { "q": "A", "t": "Che facciamo domenica?", "es": "¿Qué hacemos el domingo?" },
+          { "q": "B", "t": "Dipende dal tempo. Se fa bel tempo, andiamo al mare.", "es": "Depende del clima. Si hace buen tiempo, vamos a la playa." },
+          { "q": "A", "t": "E se piove?", "es": "¿Y si llueve?" },
+          { "q": "B", "t": "Se piove, restiamo a casa e guardiamo un film.", "es": "Si llueve, nos quedamos en casa y vemos una película." },
+          { "q": "A", "t": "Va bene. Se vuoi, invito anche Marta.", "es": "Está bien. Si quieres, invito también a Marta." },
+          { "q": "B", "t": "Certo!", "es": "¡Claro!" }
+        ]
+      },
+      "nota": "Después de «se» + presente, la segunda parte puede ir en presente, futuro o imperativo: «Se hai fame, mangia» / «Se vieni, sarò contento»."
+    },
+    {
+      "id": "it-b1-u4-l2",
+      "n": 2,
+      "titulo": "El condizionale: lo que haría",
+      "objetivo": "Formar y usar el condizionale presente.",
+      "intro": "El condizionale dice lo que harías en una situación imaginaria o educada. Truco: usa las mismas raíces que el futuro (andr-, sar-, avr-), pero con -ei, -esti, -ebbe.",
+      "palabras": [
+        { "t": "sarei", "es": "sería / estaría", "pron": "saréi", "ej": "Sarei felice di venire.", "ejes": "Estaría feliz de ir.", "cog": false },
+        { "t": "avrei", "es": "tendría", "pron": "avréi", "ej": "Avrei bisogno di aiuto.", "ejes": "Necesitaría ayuda.", "cog": false },
+        { "t": "farei", "es": "haría", "pron": "faréi", "ej": "Io non lo farei.", "ejes": "Yo no lo haría.", "cog": false },
+        { "t": "andrei", "es": "iría", "pron": "andréi", "ej": "Andrei volentieri al mare.", "ejes": "Iría con gusto a la playa.", "cog": false },
+        { "t": "potrei", "es": "podría", "pron": "potréi", "ej": "Potrei parlare con te un momento?", "ejes": "¿Podría hablar contigo un momento?", "cog": false },
+        { "t": "vivrei", "es": "viviría", "pron": "vivréi", "ej": "Vivrei volentieri in Italia.", "ejes": "Viviría con gusto en Italia.", "cog": false },
+        { "t": "comprerei", "es": "compraría", "pron": "compreréi", "ej": "Comprerei questa casa.", "ejes": "Compraría esta casa.", "cog": false },
+        { "t": "viaggerei", "es": "viajaría", "pron": "viaddyeréi", "ej": "Viaggerei tutto l'anno.", "ejes": "Viajaría todo el año.", "cog": false },
+        { "t": "direi", "es": "diría", "pron": "diréi", "ej": "Direi di sì.", "ejes": "Diría que sí.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Sarei felice di venire con voi.", "es": "Estaría feliz de ir con ustedes.", "pron": "saréi felíche di venire con vói" },
+        { "t": "Al tuo posto non lo farei.", "es": "En tu lugar no lo haría.", "pron": "al túo pósto non lo faréi" },
+        { "t": "Vivrei volentieri in Italia.", "es": "Viviría con gusto en Italia.", "pron": "vivréi volentiéri in itália" },
+        { "t": "Potrei parlare con te un momento?", "es": "¿Podría hablar contigo un momento?", "pron": "potréi parláre con te un moménto" },
+        { "t": "Comprerei questa casa, ma costa troppo.", "es": "Compraría esta casa, pero cuesta demasiado.", "pron": "compreréi cuésta cása ma cósta tróppo" }
+      ],
+      "dialogo": {
+        "titulo": "Vivere all'estero",
+        "lineas": [
+          { "q": "A", "t": "Ti piacerebbe vivere all'estero?", "es": "¿Te gustaría vivir en el extranjero?" },
+          { "q": "B", "t": "Sì, vivrei volentieri in Italia.", "es": "Sí, viviría con gusto en Italia." },
+          { "q": "A", "t": "E che lavoro faresti?", "es": "¿Y qué trabajo harías?" },
+          { "q": "B", "t": "Io? Aprirei un ristorante peruviano.", "es": "¿Yo? Abriría un restaurante peruano." },
+          { "q": "A", "t": "Sarebbe una bella idea!", "es": "¡Sería una linda idea!" },
+          { "q": "B", "t": "Lo credo anch'io, ma avrei bisogno di soldi.", "es": "Yo también lo creo, pero necesitaría dinero." }
+        ]
+      },
+      "nota": "El condizionale también se usa para pedir con cortesía: «Potrei...?», «Vorrei...», «Mi daresti una mano?». Los verbos en -are cambian la a por e: comprare = comprerei."
+    },
+    {
+      "id": "it-b1-u4-l3",
+      "n": 3,
+      "titulo": "Si yo fuera... lo imaginario",
+      "objetivo": "Imaginar situaciones irreales con «se + congiuntivo imperfetto + condizionale».",
+      "intro": "Para situaciones imaginarias usa se + congiuntivo imperfetto y luego el condizionale. Truco: se + fossi/avessi/potessi... + condizionale: se fossi ricco, viaggerei.",
+      "palabras": [
+        { "t": "se fossi", "es": "si fuera / estuviera", "pron": "se fóssi", "ej": "Se fossi ricco, viaggerei tutto l'anno.", "ejes": "Si fuera rico, viajaría todo el año.", "cog": false },
+        { "t": "se avessi", "es": "si tuviera", "pron": "se avéssi", "ej": "Se avessi più tempo, studierei il giapponese.", "ejes": "Si tuviera más tiempo, estudiaría japonés.", "cog": false },
+        { "t": "se potessi", "es": "si pudiera", "pron": "se potéssi", "ej": "Se potessi, vivrei al mare.", "ejes": "Si pudiera, viviría junto al mar.", "cog": false },
+        { "t": "se andassi", "es": "si fuera (a un lugar)", "pron": "se andássi", "ej": "Se andassi a Roma, visiterei il Vaticano.", "ejes": "Si fuera a Roma, visitaría el Vaticano.", "cog": false },
+        { "t": "se vincessi", "es": "si ganara", "pron": "se vinchéssi", "ej": "Se vincessi la lotteria, comprerei una casa.", "ejes": "Si ganara la lotería, compraría una casa.", "cog": false },
+        { "t": "se sapessi", "es": "si supiera", "pron": "se sapéssi", "ej": "Se sapessi cucinare, aprirei un ristorante.", "ejes": "Si supiera cocinar, abriría un restaurante.", "cog": false },
+        { "t": "se vivessi", "es": "si viviera", "pron": "se vivéssi", "ej": "Se vivessi in Italia, parlerei meglio.", "ejes": "Si viviera en Italia, hablaría mejor.", "cog": false },
+        { "t": "se facessi", "es": "si hiciera", "pron": "se fachéssi", "ej": "Se facessi sport, starei meglio.", "ejes": "Si hiciera deporte, estaría mejor.", "cog": false },
+        { "t": "al tuo posto", "es": "en tu lugar", "pron": "al túo pósto", "ej": "Al tuo posto accetterei l'offerta.", "ejes": "En tu lugar aceptaría la oferta.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Se fossi ricco, viaggerei tutto l'anno.", "es": "Si fuera rico, viajaría todo el año.", "pron": "se fóssi ríccho viaddyeréi túto lánno" },
+        { "t": "Se avessi più tempo, studierei il giapponese.", "es": "Si tuviera más tiempo, estudiaría japonés.", "pron": "se avéssi piú témpo studieréi il yapponése" },
+        { "t": "Se potessi, vivrei al mare.", "es": "Si pudiera, viviría junto al mar.", "pron": "se potéssi vivréi al máre" },
+        { "t": "Se vincessi la lotteria, comprerei una casa.", "es": "Si ganara la lotería, compraría una casa.", "pron": "se vinchéssi la lottería compreréi úna cása" },
+        { "t": "Al tuo posto accetterei l'offerta.", "es": "En tu lugar aceptaría la oferta.", "pron": "al túo pósto accetteréi lofférta" }
+      ],
+      "dialogo": {
+        "titulo": "Se vincessi la lotteria",
+        "lineas": [
+          { "q": "A", "t": "Se vincessi la lotteria, che cosa faresti?", "es": "Si ganaras la lotería, ¿qué harías?" },
+          { "q": "B", "t": "Smetterei di lavorare e viaggerei.", "es": "Dejaría de trabajar y viajaría." },
+          { "q": "A", "t": "Dove andresti?", "es": "¿Adónde irías?" },
+          { "q": "B", "t": "Se avessi tempo e soldi, andrei in Giappone.", "es": "Si tuviera tiempo y dinero, iría a Japón." },
+          { "q": "A", "t": "Io comprerei una casa sul mare.", "es": "Yo compraría una casa frente al mar." },
+          { "q": "B", "t": "Se la comprassi, verrei a trovarti!", "es": "Si la comprases, ¡iría a visitarte!" }
+        ]
+      },
+      "nota": "Congiuntivo imperfetto de «essere»: fossi, fossi, fosse, fossimo, foste, fossero. De «avere»: avessi, avessi, avesse, avessimo, aveste, avessero. Con «io» y «lui» se usan igual: «se io fossi / se lui fosse»."
+    },
+    {
+      "id": "it-b1-u4-l4",
+      "n": 4,
+      "titulo": "Consejos y deseos",
+      "objetivo": "Dar consejos y expresar deseos con el condizionale.",
+      "intro": "«Se fossi in te...» es la forma más natural de aconsejar. Truco: es como «si yo fuera tú...» en español.",
+      "palabras": [
+        { "t": "se fossi in te", "es": "si yo fuera tú", "pron": "se fóssi in te", "ej": "Se fossi in te, parlerei con lui.", "ejes": "Si yo fuera tú, hablaría con él.", "cog": false },
+        { "t": "che cosa faresti se", "es": "¿qué harías si?", "pron": "ke cósa farésti se", "ej": "Che cosa faresti se perdessi il lavoro?", "ejes": "¿Qué harías si perdieras el trabajo?", "cog": false },
+        { "t": "ti piacerebbe", "es": "¿te gustaría?", "pron": "ti piacherébbe", "ej": "Ti piacerebbe vivere in campagna?", "ejes": "¿Te gustaría vivir en el campo?", "cog": false },
+        { "t": "mi piacerebbe", "es": "me gustaría", "pron": "mi piacherébbe", "ej": "Mi piacerebbe imparare a suonare il piano.", "ejes": "Me gustaría aprender a tocar el piano.", "cog": false },
+        { "t": "dovrei", "es": "debería", "pron": "dovréi", "ej": "Dovrei dormire di più.", "ejes": "Debería dormir más.", "cog": false },
+        { "t": "potresti", "es": "podrías", "pron": "potrésti", "ej": "Potresti aiutarmi con questa valigia?", "ejes": "¿Podrías ayudarme con esta maleta?", "cog": false },
+        { "t": "magari", "es": "ojalá / tal vez", "pron": "magári", "ej": "Magari fosse vero!", "ejes": "¡Ojalá fuera verdad!", "cog": false },
+        { "t": "sarebbe bello se", "es": "sería lindo si", "pron": "sarébbe béllo se", "ej": "Sarebbe bello se venissi anche tu.", "ejes": "Sería lindo si vinieras tú también.", "cog": false },
+        { "t": "purtroppo", "es": "lamentablemente", "pron": "purtróppo", "ej": "Purtroppo non posso venire.", "ejes": "Lamentablemente no puedo ir.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Se fossi in te, parlerei con lui.", "es": "Si yo fuera tú, hablaría con él.", "pron": "se fóssi in te parleréi con lúi" },
+        { "t": "Che cosa faresti se perdessi il lavoro?", "es": "¿Qué harías si perdieras el trabajo?", "pron": "ke cósa farésti se perdéssi il lavóro" },
+        { "t": "Mi piacerebbe imparare a suonare il piano.", "es": "Me gustaría aprender a tocar el piano.", "pron": "mi piacherébbe imparáre a suonáre il piáno" },
+        { "t": "Dovrei dormire di più.", "es": "Debería dormir más.", "pron": "dovréi dormíre di piú" },
+        { "t": "Potresti aiutarmi con questa valigia?", "es": "¿Podrías ayudarme con esta maleta?", "pron": "potrésti aiutármi con cuésta valídya" }
+      ],
+      "dialogo": {
+        "titulo": "Un consiglio",
+        "lineas": [
+          { "q": "A", "t": "Se fossi in te, cambierei lavoro.", "es": "Si yo fuera tú, cambiaría de trabajo." },
+          { "q": "B", "t": "Lo so, ma ho paura.", "es": "Lo sé, pero tengo miedo." },
+          { "q": "A", "t": "Che cosa faresti se non avessi paura?", "es": "¿Qué harías si no tuvieras miedo?" },
+          { "q": "B", "t": "Mi piacerebbe aprire un negozio di libri.", "es": "Me gustaría abrir una librería." },
+          { "q": "A", "t": "Sarebbe bello! Potresti cominciare piano.", "es": "¡Sería lindo! Podrías empezar de a poco." },
+          { "q": "B", "t": "Hai ragione. Dovrei parlarne con mio padre.", "es": "Tienes razón. Debería hablarlo con mi papá." }
+        ]
+      },
+      "nota": "«Magari» tiene dos usos: «Magari!» como respuesta suelta = «¡Ojalá!», y «Magari fosse vero» = «Ojalá fuera cierto». También puede significar «quizás»: «Magari viene».\nPara pedir algo con cortesía: «Potresti...?» es más suave que «Puoi...?»."
+    },
+    {
+      "id": "it-b1-u4-l5",
+      "n": 5,
+      "titulo": "Repaso: ¿qué pasaría si...?",
+      "objetivo": "Combinar condiciones posibles e imaginarias en una conversación.",
+      "intro": "Repasa los dos tipos de «se». Truco: pregúntate si es posible (se + presente) o imaginario (se + congiuntivo + condizionale).",
+      "palabras": [
+        { "t": "la fortuna", "es": "la suerte", "pron": "la fortúna", "ej": "La fortuna aiuta gli audaci.", "ejes": "La suerte ayuda a los audaces.", "cog": false, "truco": "«Fortuna» = suerte; «una fortuna» también es mucho dinero: «Costa una fortuna»." },
+        { "t": "vincere", "es": "ganar", "pron": "víncere", "ej": "Vorrei vincere un premio.", "ejes": "Me gustaría ganar un premio.", "cog": false },
+        { "t": "l'occasione", "es": "la oportunidad", "pron": "lokkasióne", "ej": "Non perdere l'occasione!", "ejes": "¡No pierdas la oportunidad!", "cog": false, "truco": "Occasione = oportunidad (y también «ocasión»)." },
+        { "t": "approfittare", "es": "aprovechar", "pron": "approfittáre", "ej": "Devi approfittare dell'offerta.", "ejes": "Debes aprovechar la oferta.", "cog": true },
+        { "t": "rischiare", "es": "arriesgar", "pron": "riskiáre", "ej": "Non voglio rischiare troppo.", "ejes": "No quiero arriesgar demasiado.", "cog": true },
+        { "t": "pentirsi", "es": "arrepentirse", "pron": "pentírsi", "ej": "È inutile pentirsi adesso.", "ejes": "Es inútil arrepentirse ahora.", "cog": true },
+        { "t": "la lotteria", "es": "la lotería", "pron": "la lottería", "ej": "Ho vinto la lotteria!", "ejes": "¡Gané la lotería!", "cog": true },
+        { "t": "il premio", "es": "el premio", "pron": "il prémio", "ej": "Il premio è un viaggio a Parigi.", "ejes": "El premio es un viaje a París.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Se vinci il premio, dove andrai?", "es": "Si ganas el premio, ¿adónde irás?", "pron": "se vínchi il prémio dóve andráy" },
+        { "t": "Se potessi, accetterei questa occasione.", "es": "Si pudiera, aceptaría esta oportunidad.", "pron": "se potéssi accetteréi cuésta okkasióne" },
+        { "t": "Non voglio rischiare, ma se avessi più soldi lo farei.", "es": "No quiero arriesgar, pero si tuviera más dinero lo haría.", "pron": "non vólio riskiáre ma se avéssi piú sóldi lo faréi" },
+        { "t": "Se studi ogni giorno, imparerai l'italiano.", "es": "Si estudias cada día, aprenderás italiano.", "pron": "se stúdi óñi yórno imparerái litaliáno" },
+        { "t": "Se avessi un anno libero, viaggerei in Sud America.", "es": "Si tuviera un año libre, viajaría por Sudamérica.", "pron": "se avéssi un ánno líbero viaddyeréi in sud américa" }
+      ],
+      "dialogo": {
+        "titulo": "Un'offerta di lavoro",
+        "lineas": [
+          { "q": "A", "t": "Hai visto l'offerta di lavoro a Madrid?", "es": "¿Viste la oferta de trabajo en Madrid?" },
+          { "q": "B", "t": "Sì, ma non so se rischiare.", "es": "Sí, pero no sé si arriesgarme." },
+          { "q": "A", "t": "Se fossi in te, approfitterei dell'occasione.", "es": "Si yo fuera tú, aprovecharía la oportunidad." },
+          { "q": "B", "t": "E se non funziona?", "es": "¿Y si no funciona?" },
+          { "q": "A", "t": "Se non funziona, tornerai a casa.", "es": "Si no funciona, volverás a casa." },
+          { "q": "B", "t": "Hai ragione, ci penso stasera.", "es": "Tienes razón, lo pienso esta noche." }
+        ]
+      },
+      "nota": "«L'occasione» significa «oportunidad» y también «ocasión»: «in occasione del compleanno» = con motivo del cumpleaños."
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "id": "pt-b1-u14",
+  "idioma": "pt",
+  "nivel": "B1",
+  "n": 14,
+  "titulo": "Correos formales y expresiones frecuentes",
+  "resumen": "Aprenderás a escribir correos formales, a enlazar ideas con conectores (portanto, no entanto, além disso) y repasarás expresiones frecuentes de todo el nivel B1.",
+  "puedo": [
+    "Empezar y terminar un correo formal.",
+    "Enlazar ideas con «portanto», «no entanto», «além disso» y «por isso».",
+    "Pedir una reunión, confirmar una fecha y enviar documentos adjuntos.",
+    "Usar fórmulas de despedida: «atenciosamente», «à disposição».",
+    "Usar expresiones frecuentes: «de repente», «mesmo assim», «ainda bem»."
+  ],
+  "gramatica": {
+    "titulo": "Conectores para enlazar ideas",
+    "texto": "Los conectores unen frases y dan orden a lo que escribes. Cuatro grupos básicos:\n1) Oposición: «mas», «porém», «no entanto», «contudo» = pero, sin embargo.\n2) Consecuencia: «por isso», «portanto», «então» = por eso, por lo tanto, entonces.\n3) Adición: «além disso» = además.\n4) Explicación: «pois» (porque), «ou seja» (o sea), «por exemplo» (por ejemplo).\nEn un correo formal se prefieren «porém», «no entanto», «portanto» y «além disso»; en una charla informal, «mas», «então» y «por isso». Pon una coma antes y después del conector cuando va en medio de la frase: O preço é bom, no entanto, a entrega demora.",
+    "tabla": [
+      ["Estudei; portanto, passei.", "Estudié; por lo tanto, aprobé.", "estudéi; portántu, paséi"],
+      ["É bom; no entanto, é caro.", "Es bueno; sin embargo, es caro.", "é bóm; nu entántu, é káru"],
+      ["Gosto e, além disso, é barato.", "Me gusta y, además, es barato.", "gósto i, aléin ísu, é báratu"],
+      ["Estava cansado, por isso dormi.", "Estaba cansado, por eso dormí.", "estáva kansádu, pur ísu dormí"],
+      ["Fiquei em casa, pois estava doente.", "Me quedé en casa porque estaba enfermo.", "fikéi éin káza, póis estáva doéntyi"],
+      ["Sai às seis, ou seja, agora.", "Sale a las seis, o sea, ahora.", "sai às séis, ou séya, agóra"]
+    ],
+    "errores": [
+      "«No entanto» es «sin embargo»; no se traduce literalmente como «en tanto» ni «mientras».",
+      "«Pois» explica el motivo y va después de la frase principal: «Fiquei em casa, pois estava doente»; no lo uses para empezar la frase.",
+      "«Portanto» es «por lo tanto»; «por isso» es «por eso». Los dos sirven, pero «portanto» es más formal."
+    ]
+  },
+  "practica": [
+    "Escribe un correo formal de 5 líneas pidiendo una reunión: saludo, motivo, fecha, despedida (10 minutos).",
+    "Escribe 6 frases con conectores distintos: portanto, no entanto, além disso, por isso, pois, ou seja (8 minutos).",
+    "Lee un correo formal en portugués (de tu trabajo o de internet) y subraya conectores y fórmulas (6 minutos).",
+    "Di en voz alta 8 expresiones frecuentes: de repente, mesmo assim, ainda bem, por enquanto... (4 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b1-u14-l1",
+      "n": 1,
+      "titulo": "Cómo empezar un correo formal",
+      "objetivo": "Saludar y presentar el motivo de un correo formal.",
+      "intro": "Un correo formal tiene saludo, motivo y datos claros. Truco: «prezado» (querido) se usa para hombre y «prezada» para mujer, como en «Prezado Sr. Souza».",
+      "palabras": [
+        { "t": "prezado", "es": "estimado", "pron": "prezádu", "ej": "Comecei o e-mail dizendo prezado senhor.", "ejes": "Empecé el correo diciendo estimado señor.", "cog": false },
+        { "t": "prezada", "es": "estimada", "pron": "prezáda", "ej": "Comecei dizendo prezada senhora.", "ejes": "Empecé diciendo estimada señora.", "cog": false },
+        { "t": "assunto", "es": "asunto", "pron": "asúntu", "ej": "O assunto do e-mail é a reunião.", "ejes": "El asunto del correo es la reunión.", "cog": true },
+        { "t": "escrevo para", "es": "escribo para", "pron": "eskrévu pára", "ej": "Eu escrevo para pedir informações.", "ejes": "Escribo para pedir información.", "cog": false },
+        { "t": "referente a", "es": "referente a", "pron": "jeferéntyi a", "ej": "Este e-mail é referente a um pedido.", "ejes": "Este correo es referente a un pedido.", "cog": true },
+        { "t": "em nome de", "es": "en nombre de", "pron": "éin nóme dyi", "ej": "Escrevo em nome de minha empresa.", "ejes": "Escribo en nombre de mi empresa.", "cog": true },
+        { "t": "caro", "es": "querido", "pron": "káru", "ej": "Comecei dizendo caro Pedro.", "ejes": "Empecé diciendo querido Pedro.", "cog": false },
+        { "t": "olá", "es": "hola", "pron": "olá", "ej": "Em e-mails informais, eu escrevo olá.", "ejes": "En correos informales, escribo hola.", "cog": false },
+        { "t": "bom dia", "es": "buenos días", "pron": "bóm día", "ej": "Eu escrevo bom dia no começo.", "ejes": "Escribo buenos días al comienzo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Prezado Sr. Souza, escrevo para pedir informações.", "es": "Estimado Sr. Souza, escribo para pedir información.", "pron": "prezádu señór sóza, eskrévu pára pedír informasóins" },
+        { "t": "O assunto é referente a um pedido.", "es": "El asunto es referente a un pedido.", "pron": "u asúntu é jeferéntyi a ún pedídu" },
+        { "t": "Escrevo em nome da minha empresa.", "es": "Escribo en nombre de mi empresa.", "pron": "eskrévu éin nóme da míña empréza" },
+        { "t": "Olá, Ana! Tudo bem?", "es": "¡Hola, Ana! ¿Todo bien?", "pron": "olá, ána! túdu béin" },
+        { "t": "Bom dia, prezada senhora.", "es": "Buenos días, estimada señora.", "pron": "bóm día, prezáda señóra" }
+      ],
+      "dialogo": {
+        "titulo": "Escrevendo o primeiro e-mail",
+        "lineas": [
+          { "q": "A", "t": "Como começo este e-mail para o cliente?", "es": "¿Cómo empiezo este correo para el cliente?" },
+          { "q": "B", "t": "Você escreve primeiro o assunto. Depois, prezado senhor.", "es": "Escribes primero el asunto. Después, estimado señor." },
+          { "q": "A", "t": "Escrevo para confirmar o pedido, certo?", "es": "Escribo para confirmar el pedido, ¿cierto?" },
+          { "q": "B", "t": "Isso! E você diz que é em nome da empresa.", "es": "¡Eso! Y dices que es en nombre de la empresa." },
+          { "q": "A", "t": "Pronto. Fica formal e claro.", "es": "Listo. Queda formal y claro." }
+        ]
+      },
+      "nota": "En Brasil, «Prezado(a)» es el saludo formal estándar; «Caro(a)» es un poco más cercano. Si no sabes el nombre, usa «Prezados» (estimados) y el cargo."
+    },
+    {
+      "id": "pt-b1-u14-l2",
+      "n": 2,
+      "titulo": "Conectores: unir ideas",
+      "objetivo": "Usar conectores de oposición, consecuencia y adición.",
+      "intro": "Los conectores hacen que tu texto fluya. Truco: aprende los pares «mas / porém» (pero) y «por isso / portanto» (por eso).",
+      "palabras": [
+        { "t": "portanto", "es": "por lo tanto", "pron": "portántu", "ej": "Estudei muito; portanto, passei.", "ejes": "Estudié mucho; por lo tanto, aprobé.", "cog": true },
+        { "t": "porém", "es": "sin embargo / pero", "pron": "poréin", "ej": "Quero ir, porém estou ocupado.", "ejes": "Quiero ir, pero estoy ocupado.", "cog": false },
+        { "t": "além disso", "es": "además", "pron": "aléin ísu", "ej": "O preço é bom e, além disso, a entrega é rápida.", "ejes": "El precio es bueno y, además, la entrega es rápida.", "cog": false },
+        { "t": "no entanto", "es": "sin embargo", "pron": "nu entántu", "ej": "Estudei muito; no entanto, não passei.", "ejes": "Estudié mucho; sin embargo, no aprobé.", "cog": false },
+        { "t": "por isso", "es": "por eso", "pron": "pur ísu", "ej": "Estava cansado, por isso dormi cedo.", "ejes": "Estaba cansado, por eso dormí temprano.", "cog": false },
+        { "t": "ou seja", "es": "o sea", "pron": "ou séya", "ej": "Ele sai às seis, ou seja, em uma hora.", "ejes": "Él sale a las seis, o sea, en una hora.", "cog": false },
+        { "t": "por exemplo", "es": "por ejemplo", "pron": "pur ezémplu", "ej": "Gosto de frutas, por exemplo, manga.", "ejes": "Me gustan las frutas, por ejemplo, el mango.", "cog": true },
+        { "t": "pois", "es": "porque", "pron": "póis", "ej": "Fiquei em casa, pois estava doente.", "ejes": "Me quedé en casa porque estaba enfermo.", "cog": false },
+        { "t": "então", "es": "entonces", "pron": "entáun", "ej": "Chegou tarde, então perdeu o filme.", "ejes": "Llegó tarde, entonces perdió la película.", "cog": false },
+        { "t": "contudo", "es": "sin embargo", "pron": "kontúdu", "ej": "Gostei; contudo, achei caro.", "ejes": "Me gustó; sin embargo, me pareció caro.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Estudei muito; portanto, estou tranquilo.", "es": "Estudié mucho; por lo tanto, estoy tranquilo.", "pron": "estudéi múintu; portántu, estóu trankílu" },
+        { "t": "O preço é bom; no entanto, a entrega demora.", "es": "El precio es bueno; sin embargo, la entrega demora.", "pron": "u présu é bóm; nu entántu, a entréga demóra" },
+        { "t": "Fiquei em casa, pois estava doente.", "es": "Me quedé en casa porque estaba enfermo.", "pron": "fikéi éin káza, póis estáva doéntyi" },
+        { "t": "O produto é bom e, além disso, é barato.", "es": "El producto es bueno y, además, es barato.", "pron": "u prodútu é bóm i, aléin ísu, é báratu" },
+        { "t": "Eu estava cansado, por isso dormi cedo.", "es": "Estaba cansado, por eso dormí temprano.", "pron": "éu estáva kansádu, pur ísu dormí sédu" }
+      ],
+      "dialogo": {
+        "titulo": "Explicando uma decisão",
+        "lineas": [
+          { "q": "A", "t": "Por que você mudou de emprego?", "es": "¿Por qué cambiaste de empleo?" },
+          { "q": "B", "t": "O salário era bom, no entanto, o horário era longo.", "es": "El sueldo era bueno, sin embargo, el horario era largo." },
+          { "q": "A", "t": "E a equipe?", "es": "¿Y el equipo?" },
+          { "q": "B", "t": "Era ótima e, além disso, o chefe era gentil.", "es": "Era excelente y, además, el jefe era amable." },
+          { "q": "A", "t": "Então por que você saiu?", "es": "Entonces, ¿por qué te fuiste?" },
+          { "q": "B", "t": "Queria mais tempo para a família, ou seja, uma vida melhor.", "es": "Quería más tiempo para la familia, o sea, una vida mejor." }
+        ]
+      },
+      "nota": "«Mas» y «porém» son parecidos: «mas» es el de siempre y «porém» suena más escrito. «Então» también sirve para empezar una frase al hablar: «Então, vamos?»."
+    },
+    {
+      "id": "pt-b1-u14-l3",
+      "n": 3,
+      "titulo": "Pedir, adjuntar y confirmar",
+      "objetivo": "Pedir una reunión, adjuntar un documento y pedir confirmación en un correo.",
+      "intro": "El cuerpo del correo suele pedir algo o enviar algo. Truco: «Segue em anexo» significa «adjunto va...», y «Aguardo sua resposta» cierra casi cualquier petición.",
+      "palabras": [
+        { "t": "em anexo", "es": "adjunto", "pron": "éin anéksu", "ej": "Segue o contrato em anexo.", "ejes": "Va el contrato adjunto.", "cog": false },
+        { "t": "documento", "es": "documento", "pron": "dokuméntu", "ej": "Preciso de um documento.", "ejes": "Necesito un documento.", "cog": true },
+        { "t": "agendar", "es": "agendar / programar", "pron": "ayendár", "ej": "Gostaria de agendar uma reunião.", "ejes": "Quisiera agendar una reunión.", "cog": false },
+        { "t": "confirmar", "es": "confirmar", "pron": "konfirmár", "ej": "Pode confirmar a data?", "ejes": "¿Puede confirmar la fecha?", "cog": true },
+        { "t": "encaminhar", "es": "reenviar / derivar", "pron": "enkiñár", "ej": "Vou encaminhar o e-mail.", "ejes": "Voy a reenviar el correo.", "cog": false },
+        { "t": "aguardo", "es": "espero", "pron": "aguárdu", "ej": "Eu aguardo sua resposta.", "ejes": "Espero su respuesta.", "cog": false },
+        { "t": "resposta", "es": "respuesta", "pron": "jespósta", "ej": "A resposta chegou.", "ejes": "La respuesta llegó.", "cog": true },
+        { "t": "assinatura", "es": "firma", "pron": "asinatúra", "ej": "Falta a assinatura.", "ejes": "Falta la firma.", "cog": true },
+        { "t": "cópia", "es": "copia", "pron": "kópia", "ej": "Preciso de uma cópia.", "ejes": "Necesito una copia.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Segue em anexo o documento solicitado.", "es": "Adjunto va el documento solicitado.", "pron": "ségui éin anéksu u dokuméntu solisitádu" },
+        { "t": "Gostaria de agendar uma reunião na próxima semana.", "es": "Quisiera agendar una reunión la próxima semana.", "pron": "gostaría dyi ayendár úma jeuniáun na prósima semána" },
+        { "t": "Poderia confirmar a data, por favor?", "es": "¿Podría confirmar la fecha, por favor?", "pron": "poderría konfirmár a dáta, pur favór" },
+        { "t": "Vou encaminhar a sua mensagem ao gerente.", "es": "Voy a derivar su mensaje al gerente.", "pron": "vou enkiñár a súa mensáyein au yeréntyi" },
+        { "t": "Aguardo sua resposta.", "es": "Espero su respuesta.", "pron": "aguárdu súa jespósta" }
+      ],
+      "dialogo": {
+        "titulo": "Marcando uma reunião",
+        "lineas": [
+          { "q": "A", "t": "Escrevi para agendar uma reunião.", "es": "Escribí para agendar una reunión." },
+          { "q": "B", "t": "Recebi. Poderia confirmar a data?", "es": "Lo recibí. ¿Podría confirmar la fecha?" },
+          { "q": "A", "t": "Sexta, às dez. Segue em anexo a pauta.", "es": "Viernes, a las diez. Adjunto va la agenda." },
+          { "q": "B", "t": "Perfeito. Vou encaminhar para a equipe.", "es": "Perfecto. Voy a reenviarla al equipo." },
+          { "q": "A", "t": "Aguardo sua resposta. Obrigado!", "es": "Espero su respuesta. ¡Gracias!" }
+        ]
+      },
+      "nota": "«Aguardo» es formal y significa «espero»; en un mensaje corto a un amigo, se dice «Fico no aguardo» o simplesmente «Me avisa»."
+    },
+    {
+      "id": "pt-b1-u14-l4",
+      "n": 4,
+      "titulo": "Cómo despedirse",
+      "objetivo": "Terminar un correo formal con la despedida correcta.",
+      "intro": "La despedida cierra el correo con educación. Truco: «Atenciosamente» es la más segura; «Um abraço» es para personas que ya conoces bien.",
+      "palabras": [
+        { "t": "atenciosamente", "es": "atentamente", "pron": "atensiosaméntyi", "ej": "Eu escrevo atenciosamente no final.", "ejes": "Escribo atentamente al final.", "cog": true },
+        { "t": "cordialmente", "es": "cordialmente", "pron": "kordiauméntyi", "ej": "Ele assinou cordialmente.", "ejes": "Él firmó cordialmente.", "cog": true },
+        { "t": "um abraço", "es": "un abrazo", "pron": "ún abrásu", "ej": "Mando um abraço para você.", "ejes": "Te mando un abrazo.", "cog": true },
+        { "t": "pela atenção", "es": "por la atención", "pron": "péla atensáun", "ej": "Obrigado pela atenção.", "ejes": "Gracias por la atención.", "cog": false },
+        { "t": "agradeço", "es": "agradezco", "pron": "agradésu", "ej": "Eu agradeço a ajuda.", "ejes": "Agradezco la ayuda.", "cog": true },
+        { "t": "desde já", "es": "de antemano", "pron": "désdyi yá", "ej": "Eu agradeço desde já.", "ejes": "Agradezco de antemano.", "cog": false },
+        { "t": "à disposição", "es": "a disposición", "pron": "a dispozisáun", "ej": "Estou à disposição.", "ejes": "Estoy a su disposición.", "cog": true },
+        { "t": "até breve", "es": "hasta pronto", "pron": "até brévi", "ej": "Eu digo até breve.", "ejes": "Digo hasta pronto.", "cog": false },
+        { "t": "saudações", "es": "saludos", "pron": "saudasóins", "ej": "Envio saudações a todos.", "ejes": "Envío saludos a todos.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Atenciosamente, Ana Costa.", "es": "Atentamente, Ana Costa.", "pron": "atensiosaméntyi, ána kósta" },
+        { "t": "Agradeço desde já pela atenção.", "es": "Agradezco de antemano por la atención.", "pron": "agradésu désdyi yá péla atensáun" },
+        { "t": "Fico à disposição para qualquer dúvida.", "es": "Quedo a su disposición para cualquier duda.", "pron": "fíku a dispozisáun pára kuauker dúvida" },
+        { "t": "Um abraço e até breve!", "es": "¡Un abrazo y hasta pronto!", "pron": "ún abrásu i até brévi" },
+        { "t": "Saudações cordiais.", "es": "Saludos cordiales.", "pron": "saudasóins kordiáis" }
+      ],
+      "dialogo": {
+        "titulo": "Terminando o e-mail",
+        "lineas": [
+          { "q": "A", "t": "Como termino este e-mail formal?", "es": "¿Cómo termino este correo formal?" },
+          { "q": "B", "t": "Você escreve: agradeço desde já pela atenção.", "es": "Escribes: agradezco de antemano por la atención." },
+          { "q": "A", "t": "E depois, atenciosamente?", "es": "¿Y después, atentamente?" },
+          { "q": "B", "t": "Sim. E depois: fico à disposição para qualquer dúvida.", "es": "Sí. Y después: quedo a su disposición para cualquier duda." },
+          { "q": "A", "t": "Pronto. Para o meu amigo vou escrever: um abraço!", "es": "Listo. Para mi amigo voy a escribir: ¡un abrazo!" }
+        ]
+      },
+      "nota": "«Atenciosamente» y «Cordialmente» son las despedidas formales más comunes. «Abraço» o «Abs» se usa con colegas y amigos."
+    },
+    {
+      "id": "pt-b1-u14-l5",
+      "n": 5,
+      "titulo": "Repaso: expresiones frecuentes",
+      "objetivo": "Repasar el nivel con expresiones muy usadas y combinarlas con conectores y fórmulas.",
+      "intro": "Cierras el nivel con expresiones que usan los brasileños todos los días. Truco: aprende cada una dentro de una frase completa, no sola.",
+      "palabras": [
+        { "t": "de repente", "es": "de repente", "pron": "dyi jepéntyi", "ej": "Choveu de repente.", "ejes": "Llovió de repente.", "cog": true },
+        { "t": "mesmo assim", "es": "aun así", "pron": "mésmu asín", "ej": "Estava doente, mas foi mesmo assim.", "ejes": "Estaba enfermo, pero fue aun así.", "cog": false },
+        { "t": "ainda bem", "es": "menos mal", "pron": "aínda béin", "ej": "Ele chegou, ainda bem.", "ejes": "Llegó, menos mal.", "cog": false },
+        { "t": "por enquanto", "es": "por ahora", "pron": "pur enkuántu", "ej": "Estou bem por enquanto.", "ejes": "Estoy bien por ahora.", "cog": false },
+        { "t": "de vez em quando", "es": "de vez en cuando", "pron": "dyi vés éin kuándu", "ej": "Eu como pizza de vez em quando.", "ejes": "Como pizza de vez en cuando.", "cog": true },
+        { "t": "afinal", "es": "al final / a todo esto", "pron": "afináu", "ej": "O que você quer, afinal?", "ejes": "¿Qué quieres, al final?", "cog": false },
+        { "t": "em geral", "es": "en general", "pron": "éin yerál", "ej": "Eu acordo cedo, em geral.", "ejes": "Me despierto temprano, en general.", "cog": true },
+        { "t": "sem querer", "es": "sin querer", "pron": "séin kerér", "ej": "Eu quebrei o copo sem querer.", "ejes": "Rompí el vaso sin querer.", "cog": true },
+        { "t": "dar certo", "es": "salir bien / funcionar", "pron": "dár sértu", "ej": "Tudo vai dar certo.", "ejes": "Todo va a salir bien.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Em geral, o atendimento é bom.", "es": "En general, la atención es buena.", "pron": "éin yerál, u atendiméntu é bóm" },
+        { "t": "O produto é caro, mas, mesmo assim, eu gostei.", "es": "El producto es caro, pero aun así me gustó.", "pron": "u prodútu é káru, máis, mésmu asín, éu gostéi" },
+        { "t": "Por enquanto, tenho trabalhado em casa.", "es": "Por ahora, he estado trabajando en casa.", "pron": "pur enkuántu, téñu trabalyádu éin káza" },
+        { "t": "Eu quebrei o copo sem querer e pedi desculpa.", "es": "Rompí el vaso sin querer y pedí disculpa.", "pron": "éu kebréi u kópu séin kerér i pedí deskúlpa" },
+        { "t": "Ainda bem que você chegou a tempo.", "es": "Menos mal que llegaste a tiempo.", "pron": "aínda béin ki vosé shegóu a témpu" }
+      ],
+      "dialogo": {
+        "titulo": "Fechando o nível",
+        "lineas": [
+          { "q": "A", "t": "Como foi a sua semana?", "es": "¿Cómo fue tu semana?" },
+          { "q": "B", "t": "Em geral, boa. Tenho aprendido muito no trabalho.", "es": "En general, buena. He aprendido mucho en el trabajo." },
+          { "q": "A", "t": "Ainda bem! Eu acho que tudo vai dar certo.", "es": "¡Menos mal! Creo que todo va a salir bien." },
+          { "q": "B", "t": "Concordo. E você, o que vai fazer agora?", "es": "Estoy de acuerdo. ¿Y tú, qué vas a hacer ahora?" },
+          { "q": "A", "t": "Vou escrever um e-mail formal e, depois, descansar.", "es": "Voy a escribir un correo formal y, después, descansar." },
+          { "q": "B", "t": "Boa! Um abraço, e até breve!", "es": "¡Bien! ¡Un abrazo, y hasta pronto!" }
+        ]
+      },
+      "nota": "Felicitaciones: terminaste el nivel B1. Repasa gramática de todo el nivel: contar historias, planes, condiciones, voz pasiva, discurso indirecto, opiniones, subjuntivo básico, presente perfeito composto y peticiones corteses."
+    }
+  ]
+}

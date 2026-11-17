@@ -1,0 +1,226 @@
+{
+  "id": "pt-b1-u7",
+  "idioma": "pt",
+  "nivel": "B1",
+  "n": 7,
+  "titulo": "Describir con precisión",
+  "resumen": "Aprenderás a unir ideas con oraciones de relativo («que», «quem», «onde», «cujo») y a colocar el adjetivo para cambiar el sentido.",
+  "puedo": [
+    "Describir personas y cosas con «que»: o vizinho que mora ao lado.",
+    "Usar «quem» y «onde»: a pessoa com quem falo, o lugar onde moro.",
+    "Reconocer y usar «cujo» en frases sencillas.",
+    "Colocar el adjetivo antes o después del sustantivo según el sentido.",
+    "Describir con precisión a una persona o un lugar."
+  ],
+  "gramatica": {
+    "titulo": "Oraciones de relativo: que, quem, onde",
+    "texto": "Una oración de relativo une dos ideas y da más información sobre un sustantivo. «Que» es el relativo más usado y sirve para personas y cosas: O livro que eu li é ótimo (El libro que leí es genial). A diferencia de otros idiomas, NO se puede omitir: O livro que eu li, nunca «O livro eu li».\nDespués de preposición con personas se usa «quem»: A pessoa com quem falo (La persona con quien hablo). Para lugares se usa «onde»: A cidade onde moro (La ciudad donde vivo).\n«Cujo» (cuyo) concuerda con lo poseído, no con el poseedor: O escritor cujo livro li (El escritor cuyo libro leí). Es más formal.",
+    "tabla": [
+      ["O livro que eu li.", "El libro que leí.", "u lívru ki éu lí"],
+      ["O vizinho que mora ao lado.", "El vecino que vive al lado.", "u vizíñu ki móra au ládu"],
+      ["A pessoa com quem falo.", "La persona con quien hablo.", "a pesóa kon kéin fálu"],
+      ["A cidade onde eu moro.", "La ciudad donde vivo.", "a sidádi óndyi éu móru"],
+      ["O escritor cujo livro li.", "El escritor cuyo libro leí.", "u eskritór kúyu lívru lí"],
+      ["A casa cuja porta é azul.", "La casa cuya puerta es azul.", "a káza kúya pórta é azúl"]
+    ],
+    "errores": [
+      "No omitas «que»: se dice «O livro que eu li», no «O livro eu li».",
+      "Después de preposición con personas usa «quem», no «que»: «a pessoa com quem falo» (no «com que falo»).",
+      "«Cujo» concuerda con lo poseído, no con el dueño: «a mulher cujo marido» (marido es masculino), no «cuja marido»."
+    ]
+  },
+  "practica": [
+    "Escribe 6 frases con «que» sobre personas que conoces: «O vizinho que mora...» (6 minutos).",
+    "Describe en voz alta tu barrio con «onde»: «O bairro onde eu moro...» (4 minutos).",
+    "Une 5 pares de frases con «que» o «quem»: «Conheço uma moça. Ela trabalha aqui.» = «Conheço uma moça que trabalha aqui.» (6 minutos).",
+    "Describe a una persona de tu familia con 5 detalles y léelos en voz alta (7 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b1-u7-l1",
+      "n": 1,
+      "titulo": "Que: de quién o de qué hablo",
+      "objetivo": "Describir personas y cosas con oraciones de relativo con «que».",
+      "intro": "«Que» une dos ideas: Conheço um garçom que fala inglês. Truco: «que» sirve para personas y cosas, y nunca se omite.",
+      "palabras": [
+        { "t": "vizinho", "es": "vecino", "pron": "vizíñu", "ej": "O vizinho que mora ao lado é simpático.", "ejes": "El vecino que vive al lado es simpático.", "cog": false },
+        { "t": "colega", "es": "compañero de trabajo", "pron": "kolégua", "ej": "Tenho uma colega que fala quatro línguas.", "ejes": "Tengo una compañera que habla cuatro idiomas.", "cog": true },
+        { "t": "chefe", "es": "jefe", "pron": "shéfi", "ej": "O chefe que contratei é ótimo.", "ejes": "El jefe que contraté es excelente.", "cog": false },
+        { "t": "cliente", "es": "cliente", "pron": "kliénti", "ej": "Atendi um cliente que estava com pressa.", "ejes": "Atendí a un cliente que tenía prisa.", "cog": true },
+        { "t": "garçom", "es": "mesero", "pron": "garsón", "ej": "O garçom que nos atendeu foi muito educado.", "ejes": "El mesero que nos atendió fue muy educado.", "cog": false },
+        { "t": "motorista", "es": "chofer", "pron": "motorísta", "ej": "O motorista que dirigia estava cansado.", "ejes": "El chofer que conducía estaba cansado.", "cog": true },
+        { "t": "funcionário", "es": "empleado", "pron": "funsionáriu", "ej": "O funcionário que me ajudou era gentil.", "ejes": "El empleado que me ayudó era amable.", "cog": false },
+        { "t": "estranho", "es": "extraño / raro", "pron": "estráñu", "ej": "Vi um homem estranho que olhava a casa.", "ejes": "Vi a un hombre extraño que miraba la casa.", "cog": false },
+        { "t": "que", "es": "que (relativo)", "pron": "ki", "ej": "O livro que eu li é ótimo.", "ejes": "El libro que leí es genial.", "cog": false },
+        { "t": "ao lado", "es": "al lado", "pron": "au ládu", "ej": "Moro numa casa ao lado do parque.", "ejes": "Vivo en una casa al lado del parque.", "cog": false }
+      ],
+      "frases": [
+        { "t": "O vizinho que mora ao lado é simpático.", "es": "El vecino que vive al lado es simpático.", "pron": "u vizíñu ki móra au ládu é simpátiku" },
+        { "t": "Tenho uma colega que fala quatro línguas.", "es": "Tengo una compañera que habla cuatro idiomas.", "pron": "téñu úma kolégua ki fála kuátru línguas" },
+        { "t": "O livro que eu li é ótimo.", "es": "El libro que leí es genial.", "pron": "u lívru ki éu lí é ótimu" },
+        { "t": "O garçom que nos atendeu foi muito educado.", "es": "El mesero que nos atendió fue muy educado.", "pron": "u garsón ki nus atendéu fói múintu edukádu" },
+        { "t": "Esse é o carro que eu quero comprar.", "es": "Ese es el carro que quiero comprar.", "pron": "ésyi é u kárru ki éu kéru komprár" }
+      ],
+      "dialogo": {
+        "titulo": "Quem é essa pessoa?",
+        "lineas": [
+          { "q": "A", "t": "Você conhece o homem que mora ao lado?", "es": "¿Conoces al hombre que vive al lado?" },
+          { "q": "B", "t": "Conheço. É o vizinho que trabalha num restaurante.", "es": "Sí. Es el vecino que trabaja en un restaurante." },
+          { "q": "A", "t": "Ele é o garçom que nos atendeu ontem?", "es": "¿Es el mesero que nos atendió ayer?" },
+          { "q": "B", "t": "É! E a colega que fala inglês também trabalha lá.", "es": "¡Sí! Y la compañera que habla inglés también trabaja allá." },
+          { "q": "A", "t": "Que coincidência! Eu comprei um livro que ela recomendou.", "es": "¡Qué coincidencia! Compré un libro que ella recomendó." }
+        ]
+      },
+      "nota": "«Que» no cambia nunca: ni por género ni por número. Se usa igual para «a pessoa que», «os livros que» y «as coisas que»."
+    },
+    {
+      "id": "pt-b1-u7-l2",
+      "n": 2,
+      "titulo": "Quem y onde: personas y lugares",
+      "objetivo": "Usar «quem» después de preposición y «onde» para lugares.",
+      "intro": "Con personas y preposición usa «quem»: a pessoa com quem falo. Para lugares usa «onde»: a cidade onde moro. Truco: «onde» = «donde»; casi igual al español.",
+      "palabras": [
+        { "t": "com quem", "es": "con quien", "pron": "kon kéin", "ej": "Esse é o amigo com quem viajei.", "ejes": "Este es el amigo con quien viajé.", "cog": false },
+        { "t": "de quem", "es": "de quien", "pron": "dyi kéin", "ej": "Essa é a moça de quem eu falei.", "ejes": "Esa es la chica de quien hablé.", "cog": false },
+        { "t": "para quem", "es": "para quien", "pron": "pára kéin", "ej": "A pessoa para quem eu liguei não atendeu.", "ejes": "La persona a quien llamé no contestó.", "cog": false },
+        { "t": "onde", "es": "donde", "pron": "óndyi", "ej": "A cidade onde moro é pequena.", "ejes": "La ciudad donde vivo es pequeña.", "cog": false },
+        { "t": "em que", "es": "en que / en el que", "pron": "ein ki", "ej": "A rua em que moro é calma.", "ejes": "La calle en la que vivo es tranquila.", "cog": false },
+        { "t": "o lugar onde", "es": "el lugar donde", "pron": "u lugár óndyi", "ej": "Esse é o lugar onde nos conhecemos.", "ejes": "Este es el lugar donde nos conocimos.", "cog": false },
+        { "t": "bairro", "es": "barrio", "pron": "báirru", "ej": "Meu bairro é muito tranquilo.", "ejes": "Mi barrio es muy tranquilo.", "cog": false },
+        { "t": "empresa", "es": "empresa", "pron": "empréza", "ej": "A empresa onde trabalho é grande.", "ejes": "La empresa donde trabajo es grande.", "cog": true },
+        { "t": "escola", "es": "escuela", "pron": "eskóla", "ej": "A escola onde estudei era pequena.", "ejes": "La escuela donde estudié era pequeña.", "cog": true },
+        { "t": "esquina", "es": "esquina", "pron": "eskína", "ej": "O café fica na esquina da minha rua.", "ejes": "El café está en la esquina de mi calle.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Esse é o amigo com quem viajei.", "es": "Este es el amigo con quien viajé.", "pron": "ésyi é u amígu kon kéin viayéi" },
+        { "t": "A cidade onde eu moro é pequena.", "es": "La ciudad donde vivo es pequeña.", "pron": "a sidádi óndyi éu móru é pekéna" },
+        { "t": "A empresa onde trabalho fica no centro.", "es": "La empresa donde trabajo está en el centro.", "pron": "a empréza óndyi trabália fíka nu séntru" },
+        { "t": "Essa é a moça de quem eu falei.", "es": "Esa es la chica de quien hablé.", "pron": "ésa é a móça dyi kéin éu faléi" },
+        { "t": "O bairro onde nasci mudou muito.", "es": "El barrio donde nací cambió mucho.", "pron": "u báirru óndyi nasí mudóu múintu" }
+      ],
+      "dialogo": {
+        "titulo": "O bairro onde eu moro",
+        "lineas": [
+          { "q": "A", "t": "Gosto do bairro onde você mora.", "es": "Me gusta el barrio donde vives." },
+          { "q": "B", "t": "Obrigado! É o lugar onde cresci.", "es": "¡Gracias! Es el lugar donde crecí." },
+          { "q": "A", "t": "E a escola onde você estudou fica perto?", "es": "¿Y la escuela donde estudiaste queda cerca?" },
+          { "q": "B", "t": "Fica na esquina. O amigo com quem estudei ainda mora aqui.", "es": "Queda en la esquina. El amigo con quien estudié todavía vive aquí." },
+          { "q": "A", "t": "Que legal! A empresa onde trabalho também é no seu bairro.", "es": "¡Qué bueno! La empresa donde trabajo también queda en tu barrio." }
+        ]
+      },
+      "nota": "«Onde» se usa solo para lugares. Si hablas de tiempo usa «em que» o «quando»: «O dia em que nos conhecemos»."
+    },
+    {
+      "id": "pt-b1-u7-l3",
+      "n": 3,
+      "titulo": "Cujo: de quien es",
+      "objetivo": "Reconocer y usar «cujo/cuja» para indicar posesión en oraciones relativas.",
+      "intro": "«Cujo» significa «cuyo» y concuerda con lo poseído: o escritor cujo livro li. Truco: es formal y se usa más al escribir; en conversación se dice «que o livro dele».",
+      "palabras": [
+        { "t": "cujo", "es": "cuyo", "pron": "kúyu", "ej": "É o escritor cujo livro li ontem.", "ejes": "Es el escritor cuyo libro leí ayer.", "cog": true },
+        { "t": "cuja", "es": "cuya", "pron": "kúya", "ej": "É a casa cuja porta é azul.", "ejes": "Es la casa cuya puerta es azul.", "cog": true },
+        { "t": "cujos", "es": "cuyos", "pron": "kúyus", "ej": "São artistas cujos quadros valem muito.", "ejes": "Son artistas cuyos cuadros valen mucho.", "cog": true },
+        { "t": "cujas", "es": "cuyas", "pron": "kúyas", "ej": "São mulheres cujas ideias mudaram o país.", "ejes": "Son mujeres cuyas ideas cambiaron el país.", "cog": true },
+        { "t": "escritor", "es": "escritor", "pron": "eskritór", "ej": "Esse escritor é muito famoso.", "ejes": "Ese escritor es muy famoso.", "cog": true },
+        { "t": "dono", "es": "dueño", "pron": "dónu", "ej": "O dono da loja é meu tio.", "ejes": "El dueño de la tienda es mi tío.", "cog": false },
+        { "t": "artista", "es": "artista", "pron": "artísta", "ej": "Ela é uma artista muito talentosa.", "ejes": "Ella es una artista muy talentosa.", "cog": true },
+        { "t": "sobrenome", "es": "apellido", "pron": "sobrenómi", "ej": "Qual é o seu sobrenome?", "ejes": "¿Cuál es su apellido?", "cog": false },
+        { "t": "famoso", "es": "famoso", "pron": "famózu", "ej": "Ele é um cantor famoso.", "ejes": "Él es un cantante famoso.", "cog": true },
+        { "t": "filho", "es": "hijo", "pron": "fíliu", "ej": "O filho dela estuda medicina.", "ejes": "Su hijo estudia medicina.", "cog": false }
+      ],
+      "frases": [
+        { "t": "É o escritor cujo livro li ontem.", "es": "Es el escritor cuyo libro leí ayer.", "pron": "é u eskritór kúyu lívru lí ónteim" },
+        { "t": "Conheço uma mulher cuja filha é cantora.", "es": "Conozco a una mujer cuya hija es cantante.", "pron": "koñésu úma mulér kúya fília é kantóra" },
+        { "t": "São artistas cujos quadros valem muito.", "es": "Son artistas cuyos cuadros valen mucho.", "pron": "sáun artístas kúyus kuádrus válein múintu" },
+        { "t": "A casa cuja porta é azul é a minha.", "es": "La casa cuya puerta es azul es la mía.", "pron": "a káza kúya pórta é azúl é a míña" },
+        { "t": "O dono da loja, cujo nome esqueci, é simpático.", "es": "El dueño de la tienda, cuyo nombre olvidé, es simpático.", "pron": "u dónu da lóji, kúyu nómi eskesí, é simpátiku" }
+      ],
+      "dialogo": {
+        "titulo": "Um escritor famoso",
+        "lineas": [
+          { "q": "A", "t": "Conheço um escritor cujo livro todo mundo leu.", "es": "Conozco a un escritor cuyo libro todo el mundo leyó." },
+          { "q": "B", "t": "Quem é? É o autor cujos contos viraram filme?", "es": "¿Quién es? ¿Es el autor cuyos cuentos se hicieron película?" },
+          { "q": "A", "t": "Esse mesmo! É um artista cuja obra é famosa no mundo todo.", "es": "¡Ese mismo! Es un artista cuya obra es famosa en todo el mundo." },
+          { "q": "B", "t": "E o filho dele? Cujo sobrenome é igual ao dele?", "es": "¿Y su hijo? ¿Cuyo apellido es igual al suyo?" },
+          { "q": "A", "t": "Isso. É um cantor famoso também, cuja música eu adoro.", "es": "Exacto. También es un cantante famoso, cuya música adoro." }
+        ]
+      },
+      "nota": "En conversación brasileña casi no se usa «cujo»: se dice «o escritor que o livro dele eu li» (informal) o simplemente «o livro desse escritor». En textos y exámenes sí aparece."
+    },
+    {
+      "id": "pt-b1-u7-l4",
+      "n": 4,
+      "titulo": "Adjetivos: dónde van",
+      "objetivo": "Colocar el adjetivo antes o después del sustantivo según el sentido.",
+      "intro": "En portugués, igual que en español, el adjetivo suele ir después del sustantivo, pero algunos cambian de sentido según su lugar: um velho amigo (amigo de hace tiempo) vs. um amigo velho (de edad). Truco: antes = sentido figurado o emotivo; después = sentido literal.",
+      "palabras": [
+        { "t": "velho amigo", "es": "viejo amigo (de hace tiempo)", "pron": "véliu amígu", "ej": "Ele é um velho amigo da família.", "ejes": "Es un viejo amigo de la familia.", "cog": false },
+        { "t": "amigo velho", "es": "amigo mayor (de edad)", "pron": "amígu véliu", "ej": "Ele é um amigo velho, tem oitenta anos.", "ejes": "Es un amigo mayor, tiene ochenta años.", "cog": false },
+        { "t": "grande homem", "es": "gran hombre (importante)", "pron": "grándyi ómein", "ej": "Foi um grande homem para o país.", "ejes": "Fue un gran hombre para el país.", "cog": false },
+        { "t": "homem grande", "es": "hombre grande (de tamaño)", "pron": "ómein grándyi", "ej": "Ele é um homem grande e forte.", "ejes": "Es un hombre grande y fuerte.", "cog": false },
+        { "t": "carro novo", "es": "carro nuevo (recién comprado)", "pron": "kárru nóvu", "ej": "Comprei um carro novo ontem.", "ejes": "Compré un carro nuevo ayer.", "cog": false },
+        { "t": "novo carro", "es": "otro carro (diferente)", "pron": "nóvu kárru", "ej": "Meu novo carro é azul.", "ejes": "Mi nuevo carro es azul.", "cog": false },
+        { "t": "homem pobre", "es": "hombre sin dinero", "pron": "ómein pobri", "ej": "Era um homem pobre mas honesto.", "ejes": "Era un hombre pobre pero honesto.", "cog": false },
+        { "t": "pobre homem", "es": "pobre hombre (lástima)", "pron": "póbri ómein", "ej": "O pobre homem perdeu o emprego.", "ejes": "El pobre hombre perdió el empleo.", "cog": false },
+        { "t": "filho único", "es": "hijo único", "pron": "fíliu únicu", "ej": "Eu sou filho único.", "ejes": "Soy hijo único.", "cog": false },
+        { "t": "simples", "es": "simple / sencillo", "pron": "símplis", "ej": "É uma casa simples e confortável.", "ejes": "Es una casa sencilla y cómoda.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Ele é um velho amigo da família.", "es": "Es un viejo amigo de la familia.", "pron": "éli é ún véliu amígu da família" },
+        { "t": "Ele é um amigo velho, tem oitenta anos.", "es": "Es un amigo mayor, tiene ochenta años.", "pron": "méu avó é ún amígu véliu i sábiu" },
+        { "t": "Comprei um carro novo ontem.", "es": "Compré un carro nuevo ayer.", "pron": "kompréi ún kárru nóvu ónteim" },
+        { "t": "Foi um grande homem para o país.", "es": "Fue un gran hombre para el país.", "pron": "fói ún grándyi ómein pára u país" },
+        { "t": "O pobre homem perdeu o emprego.", "es": "El pobre hombre perdió el empleo.", "pron": "u póbri ómein perdéu u empréigu" }
+      ],
+      "dialogo": {
+        "titulo": "Descrições diferentes",
+        "lineas": [
+          { "q": "A", "t": "Você conhece o Paulo? É um velho amigo da família.", "es": "¿Conoces a Paulo? Es un viejo amigo de la familia." },
+          { "q": "B", "t": "O amigo velho que vive na casa grande?", "es": "¿El amigo mayor que vive en la casa grande?" },
+          { "q": "A", "t": "Esse mesmo. Ele é um grande homem e tem um carro novo.", "es": "Ese mismo. Es un gran hombre y tiene un carro nuevo." },
+          { "q": "B", "t": "Um carro novo? Pensei que ele era um homem pobre.", "es": "¿Un carro nuevo? Pensé que era un hombre pobre." },
+          { "q": "A", "t": "Era. Mas agora tem um novo emprego. Pobre homem, trabalhou tanto!", "es": "Lo era. Pero ahora tiene un nuevo empleo. ¡Pobre hombre, trabajó tanto!" }
+        ]
+      },
+      "nota": "Regla práctica: el adjetivo después del sustantivo describe lo objetivo (um carro novo = recién comprado); antes, lo subjetivo o emocional (um novo carro = otro carro). Si dudas, ponlo después."
+    },
+    {
+      "id": "pt-b1-u7-l5",
+      "n": 5,
+      "titulo": "Repaso: describir a una persona",
+      "objetivo": "Describir personas y lugares con precisión usando relativos y adjetivos.",
+      "intro": "Ahora combinas todo: «a moça que usa óculos», «o homem de quem falei», «a casa onde moro». Truco: primero di quién es (que, quem) y luego añade dos detalles.",
+      "palabras": [
+        { "t": "óculos", "es": "lentes / anteojos", "pron": "ókulus", "ej": "A moça de óculos é minha prima.", "ejes": "La chica de lentes es mi prima.", "cog": false },
+        { "t": "barba", "es": "barba", "pron": "bárba", "ej": "O homem de barba é meu tio.", "ejes": "El hombre de barba es mi tío.", "cog": true },
+        { "t": "cacheado", "es": "rizado", "pron": "kashiádu", "ej": "Ela tem cabelo cacheado.", "ejes": "Tiene el cabello rizado.", "cog": false },
+        { "t": "careca", "es": "calvo", "pron": "karéka", "ej": "Meu pai ficou careca cedo.", "ejes": "Mi papá quedó calvo temprano.", "cog": false },
+        { "t": "magro", "es": "delgado", "pron": "mágru", "ej": "Ele é alto e magro.", "ejes": "Es alto y delgado.", "cog": false },
+        { "t": "forte", "es": "fuerte", "pron": "fórchi", "ej": "O marido dela é muito forte.", "ejes": "Su marido es muy fuerte.", "cog": true },
+        { "t": "tímido", "es": "tímido", "pron": "chímidu", "ej": "O meu irmão é um menino tímido.", "ejes": "Mi hermano es un niño tímido.", "cog": true },
+        { "t": "sorridente", "es": "sonriente", "pron": "soridéinchi", "ej": "A atendente é muito sorridente.", "ejes": "La recepcionista es muy sonriente.", "cog": false },
+        { "t": "parece", "es": "parece", "pron": "parési", "ej": "Ela parece mais nova.", "ejes": "Parece más joven.", "cog": false },
+        { "t": "usa", "es": "lleva / usa", "pron": "úza", "ej": "Ele usa óculos escuros.", "ejes": "Lleva lentes oscuros.", "cog": false }
+      ],
+      "frases": [
+        { "t": "A moça que usa óculos é minha prima.", "es": "La chica que usa lentes es mi prima.", "pron": "a móça ki úza ókulus é míña príma" },
+        { "t": "O homem de barba, com quem falei, é meu tio.", "es": "El hombre de barba, con quien hablé, es mi tío.", "pron": "u ómein dyi bárba, kon kéin faléi, é méu tíu" },
+        { "t": "A casa onde eu moro tem um jardim grande.", "es": "La casa donde vivo tiene un jardín grande.", "pron": "a káza óndyi éu móru téin ún yardím grándyi" },
+        { "t": "Ele é alto, magro e tem cabelo cacheado.", "es": "Es alto, delgado y tiene cabello rizado.", "pron": "éli é áltu, mágru i téin kabéliu kashiádu" },
+        { "t": "Ela parece mais nova, mas é a chefe.", "es": "Parece más joven, pero es la jefa.", "pron": "éla parési máis nóva, máis é a shéfi" }
+      ],
+      "dialogo": {
+        "titulo": "Procurando uma pessoa",
+        "lineas": [
+          { "q": "A", "t": "Você conhece a moça que usa óculos?", "es": "¿Conoces a la chica que usa lentes?" },
+          { "q": "B", "t": "Qual? A que tem cabelo cacheado?", "es": "¿Cuál? ¿La que tiene el cabello rizado?" },
+          { "q": "A", "t": "Essa mesma. É a pessoa de quem te falei.", "es": "Esa misma. Es la persona de quien te hablé." },
+          { "q": "B", "t": "Ela trabalha na empresa onde meu primo trabalha, né?", "es": "Trabaja en la empresa donde trabaja mi primo, ¿no?" },
+          { "q": "A", "t": "Isso! Ela é tímida, mas muito sorridente.", "es": "¡Exacto! Es tímida, pero muy sonriente." },
+          { "q": "B", "t": "Vou apresentar vocês no sábado, na casa onde eu moro.", "es": "Voy a presentarlos el sábado en la casa donde vivo." }
+        ]
+      },
+      "nota": "Para describir con precisión: primero «que/quem/onde» para identificar, luego adjetivos para detallar. Un buen párrafo tiene dos o tres relativos y cuatro o cinco adjetivos."
+    }
+  ]
+}

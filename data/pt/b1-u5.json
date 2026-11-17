@@ -1,0 +1,226 @@
+{
+  "id": "pt-b1-u5",
+  "idioma": "pt",
+  "nivel": "B1",
+  "n": 5,
+  "titulo": "Cómo se hace y quién lo hace",
+  "resumen": "Aprenderás la voz pasiva con «ser + participio» (foi construído por...) y las construcciones con «se» (vende-se, fala-se, como se diz).",
+  "puedo": [
+    "Decir quién hizo algo con la pasiva: «foi escrito por...».",
+    "Hablar de cosas que se hacen o se venden: «é produzido», «são vendidos».",
+    "Leer y usar avisos: «vende-se», «aluga-se», «fala-se português».",
+    "Hablar de lo que se hace en general con «a gente», «dizem que», «é comum».",
+    "Describir un proceso o una receta paso a paso."
+  ],
+  "gramatica": {
+    "titulo": "Voz pasiva: ser + participio",
+    "texto": "En la voz pasiva lo importante es lo que recibe la acción: O livro foi escrito por um brasileiro (El libro fue escrito por un brasileño). Se forma con «ser» + participio, y el participio concuerda con lo que recibe la acción: construído / construída / construídos / construídas.\nEl que hace la acción va con «por»: O prédio foi construído pela empresa (por + a = pela).\nOtra forma muy usada es el «se» pasivo o impersonal: Vende-se casa (Se vende casa), Fala-se português (Se habla portugués). Si lo que se vende es plural, el verbo también: Vendem-se casas. En lenguaje cotidiano se dice «se vende» o «a gente».",
+    "tabla": [
+      ["O livro foi escrito por ele.", "El libro fue escrito por él.", "u lívru fói eskrítu pur éli"],
+      ["A casa foi construída em 1990.", "La casa fue construida en 1990.", "a káza fói konstruída ein míl novesentus i novénta"],
+      ["Os carros são vendidos aqui.", "Los carros se venden aquí.", "us kárrus sáun vendídus akí"],
+      ["O café é produzido no Brasil.", "El café se produce en Brasil.", "u kafé é produzídu nu brasíu"],
+      ["Vende-se casa.", "Se vende casa.", "véndyi-si káza"],
+      ["Fala-se português aqui.", "Aquí se habla portugués.", "fála-si portuguéis akí"]
+    ],
+    "errores": [
+      "El participio concuerda en género y número: «a casa foi construída», no «a casa foi construído».",
+      "Para decir quién lo hizo usa «por», no «de»: «escrito por Jorge Amado», no «escrito de Jorge Amado».",
+      "No uses «estar» para la acción: «foi feito» (fue hecho) describe la acción; «está feito» (está hecho) describe el estado final."
+    ]
+  },
+  "practica": [
+    "Escribe 6 frases pasivas sobre objetos de tu casa: «Esta mesa foi comprada em...» (6 minutos).",
+    "Busca 4 avisos o carteles en portugués (vende-se, aluga-se, é proibido...) y léelos en voz alta (6 minutos).",
+    "Escribe una receta de 5 pasos usando el «se»: «Se corta..., se mistura...» (7 minutos).",
+    "Lee una noticia corta en portugués y marca 5 verbos en pasiva (foi + participio) (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b1-u5-l1",
+      "n": 1,
+      "titulo": "Quién lo hizo: foi + participio",
+      "objetivo": "Decir quién hizo algo con «foi + participio + por».",
+      "intro": "La pasiva con «foi» cuenta qué se hizo y quién lo hizo. Truco: fíjate en la terminación del participio: -ado para verbos en -ar, -ido para verbos en -er/-ir.",
+      "palabras": [
+        { "t": "construído", "es": "construido", "pron": "konstruídu", "ej": "O prédio foi construído em 1990.", "ejes": "El edificio fue construido en 1990.", "cog": true },
+        { "t": "escrito", "es": "escrito", "pron": "eskrítu", "ej": "O livro foi escrito por um brasileiro.", "ejes": "El libro fue escrito por un brasileño.", "cog": true },
+        { "t": "inventado", "es": "inventado", "pron": "inventádu", "ej": "O telefone foi inventado no século dezenove.", "ejes": "El teléfono fue inventado en el siglo diecinueve.", "cog": true },
+        { "t": "descoberto", "es": "descubierto", "pron": "deskobértu", "ej": "Esse remédio foi descoberto por acaso.", "ejes": "Ese medicamento fue descubierto por casualidad.", "cog": true },
+        { "t": "fundado", "es": "fundado", "pron": "fundádu", "ej": "O clube foi fundado em 1950.", "ejes": "El club fue fundado en 1950.", "cog": true },
+        { "t": "pintado", "es": "pintado", "pron": "pintádu", "ej": "O quadro foi pintado por um artista local.", "ejes": "El cuadro fue pintado por un artista local.", "cog": true },
+        { "t": "publicado", "es": "publicado", "pron": "publikádu", "ej": "O artigo foi publicado ontem.", "ejes": "El artículo fue publicado ayer.", "cog": true },
+        { "t": "por", "es": "por (agente)", "pron": "por", "ej": "A sopa foi feita por minha avó.", "ejes": "La sopa fue hecha por mi abuela.", "cog": false },
+        { "t": "século", "es": "siglo", "pron": "sékulu", "ej": "A igreja é do século dezoito.", "ejes": "La iglesia es del siglo dieciocho.", "cog": true },
+        { "t": "autor", "es": "autor", "pron": "autór", "ej": "Quem é o autor desse livro?", "ejes": "¿Quién es el autor de ese libro?", "cog": true }
+      ],
+      "frases": [
+        { "t": "O prédio foi construído em 1990.", "es": "El edificio fue construido en 1990.", "pron": "u prédyiu fói konstruídu ein míl novesentus i novénta" },
+        { "t": "Esse livro foi escrito por um brasileiro.", "es": "Este libro fue escrito por un brasileño.", "pron": "ésyi lívru fói eskrítu pur ún brasiléiru" },
+        { "t": "A igreja foi construída no século dezoito.", "es": "La iglesia fue construida en el siglo dieciocho.", "pron": "a igréya fói konstruída nu sékulu dyizoítu" },
+        { "t": "A sopa foi feita pela minha avó.", "es": "La sopa fue hecha por mi abuela.", "pron": "a sópa fói féita péla míña avó" },
+        { "t": "O clube foi fundado em 1950.", "es": "El club fue fundado en 1950.", "pron": "u klúbi fói fundádu ein míl novesentus i sinkuénta" }
+      ],
+      "dialogo": {
+        "titulo": "Uma visita ao museu",
+        "lineas": [
+          { "q": "A", "t": "Quem pintou esse quadro?", "es": "¿Quién pintó este cuadro?" },
+          { "q": "B", "t": "Ele foi pintado por um artista local no século dezenove.", "es": "Fue pintado por un artista local en el siglo diecinueve." },
+          { "q": "A", "t": "E o prédio, quando foi construído?", "es": "¿Y el edificio, cuándo fue construido?" },
+          { "q": "B", "t": "Foi construído em 1950 e fundado por uma empresa famosa.", "es": "Fue construido en 1950 y fundado por una empresa famosa." },
+          { "q": "A", "t": "Que interessante! Vou comprar o livro, escrito pelo mesmo autor.", "es": "¡Qué interesante! Voy a comprar el libro, escrito por el mismo autor." }
+        ]
+      },
+      "nota": "«Por + a» = «pela» (pela minha avó); «por + o» = «pelo» (pelo autor). Sirven para decir quién hizo la acción en la pasiva."
+    },
+    {
+      "id": "pt-b1-u5-l2",
+      "n": 2,
+      "titulo": "Pasiva en presente y futuro",
+      "objetivo": "Describir cómo se hacen o venden las cosas con «é / são / será + participio».",
+      "intro": "Cambia el tiempo de «ser»: é (presente), foi (pasado), será (futuro). Truco: es singular (é) o plural (são) según lo que recibe la acción: o café é produzido, os carros são vendidos.",
+      "palabras": [
+        { "t": "é produzido", "es": "se produce", "pron": "é produzídu", "ej": "O café é produzido no sul de Minas.", "ejes": "El café se produce en el sur de Minas.", "cog": false },
+        { "t": "são vendidos", "es": "se venden", "pron": "sáun vendídus", "ej": "Os ingressos são vendidos no site.", "ejes": "Las entradas se venden en el sitio web.", "cog": false },
+        { "t": "será entregue", "es": "será entregado", "pron": "será entrégui", "ej": "O pedido será entregue amanhã.", "ejes": "El pedido será entregado mañana.", "cog": false },
+        { "t": "foram convidados", "es": "fueron invitados", "pron": "fórau konvidádus", "ej": "Todos foram convidados para a festa.", "ejes": "Todos fueron invitados a la fiesta.", "cog": false },
+        { "t": "é conhecido", "es": "es conocido", "pron": "é koñesídu", "ej": "Esse restaurante é conhecido no bairro.", "ejes": "Ese restaurante es conocido en el barrio.", "cog": false },
+        { "t": "é usado", "es": "se usa / es usado", "pron": "é uzádu", "ej": "Esse aplicativo é usado por muita gente.", "ejes": "Esa aplicación es usada por mucha gente.", "cog": false },
+        { "t": "é falado", "es": "se habla", "pron": "é faládu", "ej": "O português é falado em vários países.", "ejes": "El portugués se habla en varios países.", "cog": false },
+        { "t": "é proibido", "es": "está prohibido", "pron": "é proibídu", "ej": "Aqui é proibido fumar.", "ejes": "Aquí está prohibido fumar.", "cog": false },
+        { "t": "será anunciado", "es": "será anunciado", "pron": "será anunsiádu", "ej": "O resultado será anunciado hoje.", "ejes": "El resultado será anunciado hoy.", "cog": false },
+        { "t": "ingresso", "es": "entrada (boleto)", "pron": "ingrésu", "ej": "Eu comprei um ingresso para o show.", "ejes": "Compré una entrada para el show.", "cog": false }
+      ],
+      "frases": [
+        { "t": "O café é produzido no Brasil.", "es": "El café se produce en Brasil.", "pron": "u kafé é produzídu nu brasíu" },
+        { "t": "Os ingressos são vendidos no site.", "es": "Las entradas se venden en el sitio web.", "pron": "us ingrésus sáun vendídus nu sáiti" },
+        { "t": "O pedido será entregue amanhã.", "es": "El pedido será entregado mañana.", "pron": "u pedídu será entrégui amañán" },
+        { "t": "O português é falado em vários países.", "es": "El portugués se habla en varios países.", "pron": "u portuguéis é faládu ein váriu países" },
+        { "t": "Aqui é proibido fumar.", "es": "Aquí está prohibido fumar.", "pron": "akí é proibídu fumár" }
+      ],
+      "dialogo": {
+        "titulo": "Comprando pela internet",
+        "lineas": [
+          { "q": "A", "t": "Onde são vendidos os ingressos do show?", "es": "¿Dónde se venden las entradas del show?" },
+          { "q": "B", "t": "Os ingressos são vendidos no site oficial.", "es": "Las entradas se venden en el sitio oficial." },
+          { "q": "A", "t": "E o meu pedido? Quando será entregue?", "es": "¿Y mi pedido? ¿Cuándo será entregado?" },
+          { "q": "B", "t": "Será entregue amanhã de manhã.", "es": "Será entregado mañana por la mañana." },
+          { "q": "A", "t": "Ótimo. E lá, é proibido fumar?", "es": "Perfecto. ¿Y allá, está prohibido fumar?" }
+        ]
+      },
+      "nota": "En el habla diaria «é falado» suena más escrito que «a gente fala»; verás la pasiva mucho en noticias, carteles y folletos."
+    },
+    {
+      "id": "pt-b1-u5-l3",
+      "n": 3,
+      "titulo": "Se pasivo: vende-se, fala-se",
+      "objetivo": "Leer y usar avisos y construcciones con «se».",
+      "intro": "El «se» pasivo aparece en carteles: Vende-se casa, Aluga-se quarto. Truco: el verbo concuerda con lo que se vende: Vendem-se carros. En el habla diaria se dice «Fala-se português aqui».",
+      "palabras": [
+        { "t": "vende-se", "es": "se vende", "pron": "véndyi-si", "ej": "Na janela há um aviso: vende-se casa.", "ejes": "En la ventana hay un aviso: se vende casa.", "cog": false },
+        { "t": "aluga-se", "es": "se alquila", "pron": "alúga-si", "ej": "No portão está escrito: aluga-se apartamento.", "ejes": "En el portón está escrito: se alquila apartamento.", "cog": false },
+        { "t": "fala-se", "es": "se habla", "pron": "fála-si", "ej": "No Brasil fala-se português.", "ejes": "En Brasil se habla portugués.", "cog": false },
+        { "t": "precisa-se", "es": "se necesita", "pron": "presísa-si", "ej": "Na vitrine está: precisa-se de vendedor.", "ejes": "En la vitrina dice: se necesita vendedor.", "cog": false },
+        { "t": "como se diz", "es": "cómo se dice", "pron": "kómu si dís", "ej": "Como se diz «obrigado» em espanhol?", "ejes": "¿Cómo se dice «obrigado» en español?", "cog": false },
+        { "t": "não se pode", "es": "no se puede", "pron": "náun si pódyi", "ej": "Aqui não se pode estacionar.", "ejes": "Aquí no se puede estacionar.", "cog": false },
+        { "t": "se come bem", "es": "se come bien", "pron": "si kómi béin", "ej": "Nesse restaurante se come bem.", "ejes": "En ese restaurante se come bien.", "cog": false },
+        { "t": "se vê", "es": "se ve", "pron": "si vé", "ej": "Daqui se vê o mar.", "ejes": "Desde aquí se ve el mar.", "cog": false },
+        { "t": "aviso", "es": "aviso / cartel", "pron": "avízu", "ej": "Li o aviso na porta.", "ejes": "Leí el aviso en la puerta.", "cog": false },
+        { "t": "placa", "es": "placa / letrero", "pron": "pláka", "ej": "A placa diz: não fume.", "ejes": "El letrero dice: no fume.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Vende-se casa perto do mar.", "es": "Se vende casa cerca del mar.", "pron": "véndyi-si káza pértu du már" },
+        { "t": "Aluga-se apartamento no centro.", "es": "Se alquila apartamento en el centro.", "pron": "alúga-si apartaméntu nu séntru" },
+        { "t": "Aqui não se pode estacionar.", "es": "Aquí no se puede estacionar.", "pron": "akí náun si pódyi estasionár" },
+        { "t": "Como se diz «obrigado» em espanhol?", "es": "¿Cómo se dice «obrigado» en español?", "pron": "kómu si dís obrigádu ein españól" },
+        { "t": "Nesse restaurante se come bem.", "es": "En ese restaurante se come bien.", "pron": "nésyi restauránti si kómi béin" }
+      ],
+      "dialogo": {
+        "titulo": "Procurando um apartamento",
+        "lineas": [
+          { "q": "A", "t": "Olha o aviso: aluga-se apartamento no centro.", "es": "Mira el aviso: se alquila apartamento en el centro." },
+          { "q": "B", "t": "Que ótimo! Daqui se vê o mar?", "es": "¡Qué genial! ¿Desde ahí se ve el mar?" },
+          { "q": "A", "t": "Se vê, sim. Mas aqui não se pode ter cachorro.", "es": "Sí, se ve. Pero aquí no se puede tener perro." },
+          { "q": "B", "t": "Pena. Como se diz «mascota» em português?", "es": "Qué pena. ¿Cómo se dice «mascota» en portugués?" },
+          { "q": "A", "t": "Diz-se «animal de estimação».", "es": "Se dice «animal de estimação»." }
+        ]
+      },
+      "nota": "En carteles se usa «vende-se» con guion; en el habla diaria, «se vende» (el «se» va antes). Con plural se dice «vendem-se casas», pero muchos brasileños dicen «vende-se casas»: en textos formales usa el plural."
+    },
+    {
+      "id": "pt-b1-u5-l4",
+      "n": 4,
+      "titulo": "Lo que se dice y se hace en general",
+      "objetivo": "Hablar de cosas generales y de costumbres con construcciones impersonales.",
+      "intro": "Para hablar de lo que hace la gente en general usa «a gente», «dizem que» o «é comum». Truco: «a gente» (nosotros) es muy usada en Brasil y lleva el verbo en tercera persona singular.",
+      "palabras": [
+        { "t": "dizem que", "es": "dicen que", "pron": "dízein ki", "ej": "Dizem que vai chover amanhã.", "ejes": "Dicen que va a llover mañana.", "cog": false },
+        { "t": "a gente", "es": "nosotros / uno", "pron": "a yénti", "ej": "Aqui a gente sempre almoça às doze.", "ejes": "Aquí siempre almorzamos a las doce.", "cog": false },
+        { "t": "todo mundo", "es": "todo el mundo", "pron": "tódu múndu", "ej": "Todo mundo gosta de música aqui.", "ejes": "A todos les gusta la música aquí.", "cog": false },
+        { "t": "as pessoas", "es": "las personas", "pron": "as pesóas", "ej": "As pessoas são muito simpáticas aqui.", "ejes": "Las personas son muy simpáticas aquí.", "cog": false },
+        { "t": "é comum", "es": "es común", "pron": "é komúm", "ej": "É comum tomar café depois do almoço.", "ejes": "Es común tomar café después del almuerzo.", "cog": false },
+        { "t": "é normal", "es": "es normal", "pron": "é normál", "ej": "Aqui é normal chegar atrasado.", "ejes": "Aquí es normal llegar tarde.", "cog": false },
+        { "t": "é preciso", "es": "es necesario", "pron": "é presísu", "ej": "É preciso chegar cedo.", "ejes": "Es necesario llegar temprano.", "cog": false },
+        { "t": "costuma-se", "es": "se suele", "pron": "kostúma-si", "ej": "Costuma-se almoçar tarde no Brasil.", "ejes": "Se suele almorzar tarde en Brasil.", "cog": false },
+        { "t": "ninguém", "es": "nadie", "pron": "ningéin", "ej": "Ninguém sabe a resposta.", "ejes": "Nadie sabe la respuesta.", "cog": false },
+        { "t": "costume", "es": "costumbre", "pron": "kostúmi", "ej": "É um costume antigo.", "ejes": "Es una costumbre antigua.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Dizem que vai chover amanhã.", "es": "Dicen que va a llover mañana.", "pron": "dízein ki vái shovér amañán" },
+        { "t": "No Brasil, a gente almoça por volta do meio-dia.", "es": "En Brasil, se almuerza hacia el mediodía.", "pron": "nu brasíu, a yénti almósa por vólta du méiu día" },
+        { "t": "É comum tomar café depois do almoço.", "es": "Es común tomar café después del almuerzo.", "pron": "é komúm tomár kafé depóis du almósu" },
+        { "t": "Aqui é normal chegar um pouco atrasado.", "es": "Aquí es normal llegar un poco tarde.", "pron": "akí é normál shegár ún póuku atrazádu" },
+        { "t": "É preciso reservar com antecedência.", "es": "Es necesario reservar con anticipación.", "pron": "é presísu rezervár kon antesedénsia" }
+      ],
+      "dialogo": {
+        "titulo": "Costumes brasileiros",
+        "lineas": [
+          { "q": "A", "t": "Aqui no Brasil, a gente almoça às doze.", "es": "Aquí en Brasil, se almuerza a las doce." },
+          { "q": "B", "t": "E é comum tomar café depois do almoço?", "es": "¿Y es común tomar café después del almuerzo?" },
+          { "q": "A", "t": "É, sim. Dizem que é um costume antigo.", "es": "Sí. Dicen que es una costumbre antigua." },
+          { "q": "B", "t": "E é normal chegar atrasado em festas?", "es": "¿Y es normal llegar tarde a las fiestas?" },
+          { "q": "A", "t": "Ninguém liga muito, mas é preciso avisar.", "es": "A nadie le importa mucho, pero es necesario avisar." }
+        ]
+      },
+      "nota": "«A gente» sirve para «nosotros» en conversación, pero el verbo va en singular: «A gente vai» (no «a gente vamos»). «Dizem que» es el equivalente de «dicen que»."
+    },
+    {
+      "id": "pt-b1-u5-l5",
+      "n": 5,
+      "titulo": "Repaso: una receta paso a paso",
+      "objetivo": "Describir un proceso o una receta con pasiva y «se».",
+      "intro": "Las recetas usan «se» o la pasiva: Corta-se a cebola, A carne é assada. Truco: lee una receta en portugués y busca cuántos verbos acaban en «-se» o «-ado/-ido».",
+      "palabras": [
+        { "t": "receita", "es": "receta", "pron": "reséita", "ej": "Esta receita é muito fácil.", "ejes": "Esta receta es muy fácil.", "cog": false },
+        { "t": "ingrediente", "es": "ingrediente", "pron": "ingrediénti", "ej": "Qual é o ingrediente principal?", "ejes": "¿Cuál es el ingrediente principal?", "cog": true },
+        { "t": "cortar", "es": "cortar", "pron": "kortár", "ej": "Primeiro, é preciso cortar a cebola.", "ejes": "Primero, es necesario cortar la cebolla.", "cog": true },
+        { "t": "misturar", "es": "mezclar", "pron": "misturár", "ej": "Vou misturar tudo com cuidado.", "ejes": "Voy a mezclar todo con cuidado.", "cog": false },
+        { "t": "assar", "es": "hornear / asar", "pron": "asár", "ej": "Vou assar o bolo por quarenta minutos.", "ejes": "Voy a hornear el pastel por cuarenta minutos.", "cog": false },
+        { "t": "forno", "es": "horno", "pron": "fórnu", "ej": "O forno já está quente.", "ejes": "El horno ya está caliente.", "cog": false },
+        { "t": "é servido", "es": "se sirve", "pron": "é servídu", "ej": "O prato é servido quente.", "ejes": "El plato se sirve caliente.", "cog": false },
+        { "t": "feito à mão", "es": "hecho a mano", "pron": "féitu a máun", "ej": "O pão é feito à mão.", "ejes": "El pan es hecho a mano.", "cog": false },
+        { "t": "fritar", "es": "freír", "pron": "fritár", "ej": "Não se deve fritar com fogo alto.", "ejes": "No se debe freír con fuego alto.", "cog": false },
+        { "t": "tempero", "es": "condimento", "pron": "tempéru", "ej": "O tempero é o segredo.", "ejes": "El condimento es el secreto.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Primeiro, corta-se a cebola.", "es": "Primero, se corta la cebolla.", "pron": "priméiru, kórta-si a sebóla" },
+        { "t": "Depois se mistura tudo com o tempero.", "es": "Después se mezcla todo con el condimento.", "pron": "depóis si místura túdu kon u tempéru" },
+        { "t": "O bolo é assado por quarenta minutos.", "es": "El pastel se hornea por cuarenta minutos.", "pron": "u bólu é asádu por kuarénta minútus" },
+        { "t": "O prato é servido quente.", "es": "El plato se sirve caliente.", "pron": "u prátu é servídu kéinti" },
+        { "t": "Esse pão é feito à mão.", "es": "Este pan está hecho a mano.", "pron": "ési páun é féitu a máun" }
+      ],
+      "dialogo": {
+        "titulo": "Receita de bolo",
+        "lineas": [
+          { "q": "A", "t": "Como se faz esse bolo?", "es": "¿Cómo se hace este pastel?" },
+          { "q": "B", "t": "Primeiro, mistura-se tudo, depois é assado no forno.", "es": "Primero se mezcla todo, después se hornea." },
+          { "q": "A", "t": "Quanto tempo é assado?", "es": "¿Cuánto tiempo se hornea?" },
+          { "q": "B", "t": "Por quarenta minutos. Depois é servido quente.", "es": "Por cuarenta minutos. Después se sirve caliente." },
+          { "q": "A", "t": "Que receita fácil! Foi inventada pela sua avó?", "es": "¡Qué receta fácil! ¿La inventó tu abuela?" },
+          { "q": "B", "t": "Foi! E é feita à mão desde sempre.", "es": "¡Sí! Y se hace a mano desde siempre." }
+        ]
+      },
+      "nota": "Para recetas y manuales: «se + verbo» (mistura-se) o «é/são + participio» (é assado). Ambas son correctas; la segunda suena más escrita."
+    }
+  ]
+}

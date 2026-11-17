@@ -1,0 +1,222 @@
+{
+  "id": "pt-b1-u8",
+  "idioma": "pt",
+  "nivel": "B1",
+  "n": 8,
+  "titulo": "Opiniones y acuerdos",
+  "resumen": "Aprenderás a dar tu opinión, estar de acuerdo o no, y pedir confirmación con «acho que», «concordo», «discordo» y «não é?».",
+  "puedo": [
+    "Dar mi opinión con «acho que» y «na minha opinião».",
+    "Mostrar que estoy de acuerdo con «concordo» y «tem razão».",
+    "Discrepar con cortesía con «discordo» y «entendo, mas...».",
+    "Pedir confirmación con «não é?» y «né?».",
+    "Participar en un pequeño debate."
+  ],
+  "gramatica": {
+    "titulo": "Opinión y acuerdo: acho que, concordo, discordo, não é?",
+    "texto": "Para dar tu opinión usa «acho que» + una frase normal: Acho que é uma boa ideia (Creo que es una buena idea). También sirven «penso que» y «na minha opinião».\nPara estar de acuerdo: «Concordo», «Eu também acho», «Você tem razão». Para no estar de acuerdo: «Discordo» o «Não concordo»; se suaviza con «Entendo, mas...» o «Acho que não».\nAl final de una frase, «não é?» pide confirmación como el «¿no?» español: O filme é bom, não é? En la conversación diaria se dice «né?»: Está frio, né?",
+    "tabla": [
+      ["Acho que é bom.", "Creo que es bueno.", "áshu ki é bóm"],
+      ["Concordo com você.", "Estoy de acuerdo contigo.", "konkórdu kon vosé"],
+      ["Discordo de você.", "No estoy de acuerdo contigo.", "diskórdu dyi vosé"],
+      ["Você tem razão.", "Tienes razón.", "vosé téin jazáun"],
+      ["É caro, não é?", "Es caro, ¿no?", "é káru, náun é"],
+      ["Está frio, né?", "Hace frío, ¿no?", "está fríu, né"]
+    ],
+    "errores": [
+      "Después de «acho que» va una frase completa: «Acho que é bom», no «Acho de que es bom». No uses «de que».",
+      "«Concordo» lleva «com»: «Concordo com você», no «Concordo você».",
+      "No digas «estou de acuerdo»: en portugués es «estou de acordo» (con «acordo», sin «u»)."
+    ]
+  },
+  "practica": [
+    "Escribe 6 opiniones sobre temas cotidianos (comida, música, ciudad) con «Acho que...» (6 minutos).",
+    "Di en voz alta 5 frases y termina cada una con «né?» o «não é?» imitando la entonación (4 minutos).",
+    "Con un amigo, discrepen sobre un tema usando «Concordo em parte» y «Entendo, mas...» (6 minutos).",
+    "Mira un debate o programa de opinión brasileño y anota 5 expresiones de acuerdo o desacuerdo (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b1-u8-l1",
+      "n": 1,
+      "titulo": "Dar mi opinión",
+      "objetivo": "Decir qué piensas con «acho que», «penso que» y «na minha opinião».",
+      "intro": "Con «acho que» das tu opinión sin complicaciones. Truco: «acho» suena «áshu» y significa «creo», aunque también existe «achar» como encontrar.",
+      "palabras": [
+        { "t": "acho", "es": "creo / opino", "pron": "áshu", "ej": "Eu acho que é verdade.", "ejes": "Creo que es verdad.", "cog": false, "truco": "«ch» suena «sh»." },
+        { "t": "opinião", "es": "opinión", "pron": "opiniáun", "ej": "Qual é a sua opinião?", "ejes": "¿Cuál es tu opinión?", "cog": true },
+        { "t": "na minha opinião", "es": "en mi opinión", "pron": "na míña opiniáun", "ej": "Está caro, na minha opinião.", "ejes": "Está caro, en mi opinión.", "cog": false },
+        { "t": "para mim", "es": "para mí", "pron": "pára mín", "ej": "Isso é muito fácil para mim.", "ejes": "Eso es muy fácil para mí.", "cog": true },
+        { "t": "penso", "es": "pienso", "pron": "pénsu", "ej": "Eu penso que é importante.", "ejes": "Pienso que es importante.", "cog": true },
+        { "t": "verdade", "es": "verdad", "pron": "verdádi", "ej": "Isso é verdade.", "ejes": "Eso es verdad.", "cog": true },
+        { "t": "certo", "es": "correcto / en lo cierto", "pron": "sértu", "ej": "Você está certo.", "ejes": "Estás en lo cierto.", "cog": true },
+        { "t": "errado", "es": "equivocado / mal", "pron": "errádu", "ej": "Isso está errado.", "ejes": "Eso está mal.", "cog": false },
+        { "t": "ideia", "es": "idea", "pron": "idéia", "ej": "É uma boa ideia.", "ejes": "Es una buena idea.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Acho que é uma boa ideia.", "es": "Creo que es una buena idea.", "pron": "áshu ki é úma bóa idéia" },
+        { "t": "Na minha opinião, o filme é longo.", "es": "En mi opinión, la película es larga.", "pron": "na míña opiniáun, u fílmi é lóngu" },
+        { "t": "Para mim, isso é muito caro.", "es": "Para mí, eso es muy caro.", "pron": "pára mín, ísu é múintu káru" },
+        { "t": "Penso que você está certo.", "es": "Pienso que tienes razón.", "pron": "pénsu ki vosé está sértu" },
+        { "t": "Qual é a sua opinião?", "es": "¿Cuál es tu opinión?", "pron": "kuáu é a súa opiniáun" }
+      ],
+      "dialogo": {
+        "titulo": "Qual é a sua opinião?",
+        "lineas": [
+          { "q": "A", "t": "Vamos fazer a festa em casa?", "es": "¿Hacemos la fiesta en casa?" },
+          { "q": "B", "t": "Acho que é uma boa ideia.", "es": "Creo que es una buena idea." },
+          { "q": "A", "t": "Na minha opinião, é mais barato.", "es": "En mi opinión, es más barato." },
+          { "q": "B", "t": "Verdade. E qual é a opinião da Ana?", "es": "Es verdad. ¿Y cuál es la opinión de Ana?" },
+          { "q": "A", "t": "Ela acha que é melhor no sábado.", "es": "Ella cree que es mejor el sábado." }
+        ]
+      },
+      "nota": "«Achar» significa opinar y también encontrar («Achei minhas chaves»). Con «achar que» siempre es opinión. En Brasil «acho que» es muy frecuente, incluso para cosas que casi sabes."
+    },
+    {
+      "id": "pt-b1-u8-l2",
+      "n": 2,
+      "titulo": "Estar de acuerdo",
+      "objetivo": "Mostrar acuerdo con varias fórmulas naturales.",
+      "intro": "Hay muchas formas de decir que sí a una opinión. Truco: «concordo» es casi como español, y «com certeza» y «exatamente» suenan muy brasileños.",
+      "palabras": [
+        { "t": "concordo", "es": "estoy de acuerdo", "pron": "konkórdu", "ej": "Eu concordo com você.", "ejes": "Estoy de acuerdo contigo.", "cog": true },
+        { "t": "com certeza", "es": "con seguridad / claro", "pron": "kon sertéza", "ej": "Vou, com certeza.", "ejes": "Voy, claro que sí.", "cog": false },
+        { "t": "exatamente", "es": "exactamente", "pron": "ezaktaméntyi", "ej": "Foi exatamente isso.", "ejes": "Fue exactamente eso.", "cog": true },
+        { "t": "tem razão", "es": "tiene razón", "pron": "téin jazáun", "ej": "Você tem razão.", "ejes": "Tienes razón.", "cog": false },
+        { "t": "também acho", "es": "yo también creo", "pron": "tambéin áshu", "ej": "Eu também acho isso.", "ejes": "Yo también creo eso.", "cog": false },
+        { "t": "claro", "es": "claro", "pron": "kláru", "ej": "Sim, claro!", "ejes": "¡Sí, claro!", "cog": true },
+        { "t": "de acordo", "es": "de acuerdo", "pron": "dyi akórdu", "ej": "Estou de acordo.", "ejes": "Estoy de acuerdo.", "cog": true },
+        { "t": "sem dúvida", "es": "sin duda", "pron": "séin dúvida", "ej": "É bom, sem dúvida.", "ejes": "Es bueno, sin duda.", "cog": true },
+        { "t": "justo", "es": "justo", "pron": "yústu", "ej": "Isso não é justo.", "ejes": "Eso no es justo.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu concordo com você.", "es": "Estoy de acuerdo contigo.", "pron": "éu konkórdu kon vosé" },
+        { "t": "Você tem razão, com certeza.", "es": "Tienes razón, claro que sí.", "pron": "vosé téin jazáun, kon sertéza" },
+        { "t": "Eu também acho isso.", "es": "Yo también creo eso.", "pron": "éu tambéin áshu ísu" },
+        { "t": "Estou de acordo com a ideia.", "es": "Estoy de acuerdo con la idea.", "pron": "estóu dyi akórdu kon a idéia" },
+        { "t": "Exatamente, é verdade.", "es": "Exactamente, es verdad.", "pron": "ezaktaméntyi, é verdádi" }
+      ],
+      "dialogo": {
+        "titulo": "Concordando",
+        "lineas": [
+          { "q": "A", "t": "Acho que o transporte público está melhorando.", "es": "Creo que el transporte público está mejorando." },
+          { "q": "B", "t": "Concordo. O metrô é rápido.", "es": "Estoy de acuerdo. El metro es rápido." },
+          { "q": "A", "t": "E é mais barato que o carro.", "es": "Y es más barato que el auto." },
+          { "q": "B", "t": "Exatamente! Eu também acho isso.", "es": "¡Exactamente! Yo también creo eso." },
+          { "q": "A", "t": "Então estamos de acordo.", "es": "Entonces estamos de acuerdo." }
+        ]
+      },
+      "nota": "«Com certeza» sola también es una respuesta muy usada, equivalente a «claro que sí». «Tem razão» es para decir «tienes razón»; con «você» se dice «você tem razão»."
+    },
+    {
+      "id": "pt-b1-u8-l3",
+      "n": 3,
+      "titulo": "Discrepar con cortesía",
+      "objetivo": "Decir que no estás de acuerdo sin sonar brusco.",
+      "intro": "Discrepar con educación es parte de hablar bien. Truco: empieza con «Entendo, mas...» y luego da tu idea; suena mucho más amable que un «não» seco.",
+      "palabras": [
+        { "t": "discordo", "es": "discrepo / no estoy de acuerdo", "pron": "diskórdu", "ej": "Eu discordo de você.", "ejes": "Discrepo de ti.", "cog": true },
+        { "t": "não concordo", "es": "no estoy de acuerdo", "pron": "náun konkórdu", "ej": "Eu não concordo com isso.", "ejes": "No estoy de acuerdo con eso.", "cog": false },
+        { "t": "pelo contrário", "es": "al contrario", "pron": "pélu kontráriu", "ej": "Não está caro; pelo contrário, está barato.", "ejes": "No está caro; al contrario, está barato.", "cog": true },
+        { "t": "depende", "es": "depende", "pron": "depéndyi", "ej": "Isso depende do preço.", "ejes": "Eso depende del precio.", "cog": true },
+        { "t": "mas", "es": "pero", "pron": "máis", "ej": "É bonito, mas é caro.", "ejes": "Es lindo, pero es caro.", "cog": false },
+        { "t": "talvez", "es": "quizás", "pron": "talvéis", "ej": "Eu vou, talvez, no sábado.", "ejes": "Voy, quizás, el sábado.", "cog": false },
+        { "t": "não tenho certeza", "es": "no estoy seguro", "pron": "náun téñu sertéza", "ej": "Eu não tenho certeza.", "ejes": "No estoy seguro.", "cog": false },
+        { "t": "entendo", "es": "entiendo", "pron": "enténdu", "ej": "Eu entendo você.", "ejes": "Te entiendo.", "cog": true },
+        { "t": "acho que não", "es": "creo que no", "pron": "áshu ki náun", "ej": "Eu acho que não.", "ejes": "Creo que no.", "cog": false },
+        { "t": "em parte", "es": "en parte", "pron": "éin pártyi", "ej": "Concordo em parte.", "ejes": "Estoy de acuerdo en parte.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu discordo, mas respeito sua opinião.", "es": "Discrepo, pero respeto tu opinión.", "pron": "éu diskórdu, máis jespéitu sua opiniáun" },
+        { "t": "Entendo, mas não concordo.", "es": "Entiendo, pero no estoy de acuerdo.", "pron": "enténdu, máis náun konkórdu" },
+        { "t": "Concordo em parte, mas depende.", "es": "Estoy de acuerdo en parte, pero depende.", "pron": "konkórdu éin pártyi, máis depéndyi" },
+        { "t": "Acho que não é tão simples.", "es": "Creo que no es tan simple.", "pron": "áshu ki náun é táun símplis" },
+        { "t": "Não tenho certeza, talvez sim.", "es": "No estoy seguro, quizás sí.", "pron": "náun téñu sertéza, talvéis sín" }
+      ],
+      "dialogo": {
+        "titulo": "Opiniões diferentes",
+        "lineas": [
+          { "q": "A", "t": "Acho que trabalhar em casa é melhor.", "es": "Creo que trabajar en casa es mejor." },
+          { "q": "B", "t": "Entendo, mas eu discordo.", "es": "Entiendo, pero discrepo." },
+          { "q": "A", "t": "Por quê? Você economiza tempo.", "es": "¿Por qué? Ahorras tiempo." },
+          { "q": "B", "t": "Concordo em parte, mas eu me sinto sozinho.", "es": "Estoy de acuerdo en parte, pero me siento solo." },
+          { "q": "A", "t": "Ah, entendo. Depende da pessoa.", "es": "Ah, entiendo. Depende de la persona." }
+        ]
+      },
+      "nota": "«Mas» se pronuncia casi como «máis». «Depende» se completa con «de»: «Depende do preço», «Depende da pessoa»."
+    },
+    {
+      "id": "pt-b1-u8-l4",
+      "n": 4,
+      "titulo": "Pedir confirmación: não é?",
+      "objetivo": "Usar «não é?» y «né?» para buscar acuerdo, y conectores de opinión.",
+      "intro": "Los brasileños terminan muchas frases con «né?», como el «¿no?» o «¿verdad?» español. Truco: «né» es la forma corta y hablada de «não é».",
+      "palabras": [
+        { "t": "né", "es": "¿no? / ¿verdad?", "pron": "né", "ej": "Está frio hoje, né?", "ejes": "Hace frío hoy, ¿no?", "cog": false, "truco": "Solo en habla informal." },
+        { "t": "não é", "es": "¿no es así?", "pron": "náun é", "ej": "O filme é bom, não é?", "ejes": "La película es buena, ¿no?", "cog": false },
+        { "t": "você não acha", "es": "¿no crees?", "pron": "vosé náun áshu", "ej": "Hoje está calor, você não acha?", "ejes": "Hoy hace calor, ¿no crees?", "cog": false },
+        { "t": "sinceramente", "es": "sinceramente", "pron": "sinseraméntyi", "ej": "Eu, sinceramente, não gostei.", "ejes": "Yo, sinceramente, no me gustó.", "cog": true },
+        { "t": "realmente", "es": "realmente", "pron": "jeauméntyi", "ej": "Foi realmente bom.", "ejes": "Fue realmente bueno.", "cog": true },
+        { "t": "na verdade", "es": "en realidad", "pron": "na verdádi", "ej": "Eu, na verdade, não sei.", "ejes": "Yo, en realidad, no sé.", "cog": false },
+        { "t": "pelo menos", "es": "por lo menos", "pron": "pélu ménus", "ej": "Eu comi pelo menos dois.", "ejes": "Comí por lo menos dos.", "cog": false },
+        { "t": "aliás", "es": "por cierto / además", "pron": "aliás", "ej": "Eu gosto, aliás, muito.", "ejes": "Me gusta, además, mucho.", "cog": false },
+        { "t": "quer dizer", "es": "o sea / es decir", "pron": "kér dizér", "ej": "Ficou pronto, quer dizer, quase.", "ejes": "Quedó listo, o sea, casi.", "cog": false }
+      ],
+      "frases": [
+        { "t": "O filme é bom, não é?", "es": "La película es buena, ¿no?", "pron": "u fílmi é bóm, náun é" },
+        { "t": "Está frio hoje, né?", "es": "Hace frío hoy, ¿no?", "pron": "está fríu óyi, né" },
+        { "t": "Você não acha que é caro?", "es": "¿No crees que es caro?", "pron": "vosé náun áshu ki é káru" },
+        { "t": "Na verdade, eu discordo.", "es": "En realidad, discrepo.", "pron": "na verdádi, éu diskórdu" },
+        { "t": "Sinceramente, achei ótimo.", "es": "Sinceramente, me pareció excelente.", "pron": "sinseraméntyi, achéi ótimu" }
+      ],
+      "dialogo": {
+        "titulo": "Né?",
+        "lineas": [
+          { "q": "A", "t": "O restaurante é caro, né?", "es": "El restaurante es caro, ¿no?" },
+          { "q": "B", "t": "Na verdade, não é tanto.", "es": "En realidad, no tanto." },
+          { "q": "A", "t": "Sinceramente, a comida é muito boa.", "es": "Sinceramente, la comida es muy buena." },
+          { "q": "B", "t": "Concordo! Vamos jantar lá, não é?", "es": "¡Estoy de acuerdo! Vamos a cenar allá, ¿no?" },
+          { "q": "A", "t": "Claro! Eu pago pelo menos a sobremesa.", "es": "¡Claro! Yo pago por lo menos el postre." }
+        ]
+      },
+      "nota": "«Né?» es informal y muy brasileño; en un correo o frase formal usa «não é?». También oirás «certo?» para pedir confirmación."
+    },
+    {
+      "id": "pt-b1-u8-l5",
+      "n": 5,
+      "titulo": "Repaso: un pequeño debate",
+      "objetivo": "Combinar opinión, acuerdo y desacuerdo en un debate corto.",
+      "intro": "Aquí juntas todo: das tu opinión, aceptas o rechazas la de otro y pides confirmación. Truco: respeta siempre el punto de vista contrario con «entendo, mas...».",
+      "palabras": [
+        { "t": "debate", "es": "debate", "pron": "debátyi", "ej": "O debate foi longo.", "ejes": "El debate fue largo.", "cog": true },
+        { "t": "argumento", "es": "argumento", "pron": "arguméntu", "ej": "Esse argumento é bom.", "ejes": "Ese argumento es bueno.", "cog": true },
+        { "t": "ponto de vista", "es": "punto de vista", "pron": "póntu dyi vísta", "ej": "Cada pessoa tem um ponto de vista.", "ejes": "Cada persona tiene un punto de vista.", "cog": true },
+        { "t": "convencer", "es": "convencer", "pron": "konvensér", "ej": "Você não vai me convencer.", "ejes": "No me vas a convencer.", "cog": true },
+        { "t": "mudar de opinião", "es": "cambiar de opinión", "pron": "mudár dyi opiniáun", "ej": "Eu posso mudar de opinião.", "ejes": "Puedo cambiar de opinión.", "cog": false },
+        { "t": "respeitar", "es": "respetar", "pron": "jespeitár", "ej": "Temos que respeitar todos.", "ejes": "Tenemos que respetar a todos.", "cog": true },
+        { "t": "polêmico", "es": "polémico", "pron": "polémiku", "ej": "O tema é polêmico.", "ejes": "El tema es polémico.", "cog": true },
+        { "t": "a favor", "es": "a favor", "pron": "a favór", "ej": "Eu sou a favor.", "ejes": "Estoy a favor.", "cog": true },
+        { "t": "contra", "es": "en contra", "pron": "kóntra", "ej": "Eu sou contra.", "ejes": "Estoy en contra.", "cog": true },
+        { "t": "tema", "es": "tema", "pron": "téma", "ej": "Qual é o tema?", "ejes": "¿Cuál es el tema?", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu sou a favor, e você?", "es": "Yo estoy a favor, ¿y tú?", "pron": "éu sou a favór, i vosé" },
+        { "t": "Na minha opinião, o tema é polêmico.", "es": "En mi opinión, el tema es polémico.", "pron": "na míña opiniáun, u téma é polémiku" },
+        { "t": "Entendo seu ponto de vista, mas discordo.", "es": "Entiendo tu punto de vista, pero discrepo.", "pron": "enténdu séu póntu dyi vísta, máis diskórdu" },
+        { "t": "Você tem razão, vou mudar de opinião.", "es": "Tienes razón, voy a cambiar de opinión.", "pron": "vosé téin jazáun, vou mudár dyi opiniáun" },
+        { "t": "Temos que respeitar todas as opiniões.", "es": "Tenemos que respetar todas las opiniones.", "pron": "témus ki jespeitár tódas as opiniôunes" }
+      ],
+      "dialogo": {
+        "titulo": "Um debate na universidade",
+        "lineas": [
+          { "q": "A", "t": "Eu sou a favor de aulas online. E você?", "es": "Yo estoy a favor de clases en línea. ¿Y tú?" },
+          { "q": "B", "t": "Eu sou contra. Acho que é melhor estar na sala.", "es": "Yo estoy en contra. Creo que es mejor estar en el aula." },
+          { "q": "A", "t": "Entendo, mas é mais prático, não é?", "es": "Entiendo, pero es más práctico, ¿no?" },
+          { "q": "B", "t": "Concordo em parte. É um tema polêmico.", "es": "Estoy de acuerdo en parte. Es un tema polémico." },
+          { "q": "A", "t": "Pelo menos respeitamos a opinião um do outro.", "es": "Por lo menos respetamos la opinión del otro." }
+        ]
+      },
+      "nota": "«Ser a favor» y «ser contra» usan «ser»: «Eu sou a favor». Para cerrar un debate con buena onda: «Cada um tem sua opinião»."
+    }
+  ]
+}

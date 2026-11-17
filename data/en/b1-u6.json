@@ -1,0 +1,216 @@
+{
+  "id": "en-b1-u6",
+  "idioma": "en",
+  "nivel": "B1",
+  "n": 6,
+  "titulo": "Lo que dijeron otros",
+  "resumen": "Aprenderás a contar lo que dijo otra persona con el estilo indirecto: said y told, preguntas indirectas y órdenes o pedidos.",
+  "puedo": [
+    "Contar lo que alguien dijo con said that y told me that.",
+    "Retroceder los tiempos verbales: presente a pasado, will a would.",
+    "Contar preguntas con asked if y asked where.",
+    "Contar órdenes y pedidos con told / asked me to.",
+    "Cambiar palabras como here, today y tomorrow al contar lo dicho."
+  ],
+  "gramatica": {
+    "titulo": "Estilo indirecto: said that y told me that",
+    "texto": "Cuando cuentas lo que otro dijo, normalmente el verbo da un paso atrás en el tiempo: «I am tired» → She said she was tired. El presente pasa a pasado, el pasado a pasado perfecto, will a would, can a could.\nSay no lleva persona: She said that she was tired. Tell sí lleva persona: She told me that she was tired. That se puede omitir.\nLos pronombres cambian según quién habla: «I like it», dijo Ana → Ana said she liked it.\nTruco: si lo que dijo sigue siendo verdad ahora, también puedes dejarlo en presente: She said she is tired (y aún lo está), pero el retroceso es lo más común.",
+    "tabla": [
+      ["«I am tired.» → She said she was tired.", "Dijo que estaba cansada.", "shi sed shi uas táierd"],
+      ["«I work here.» → He said he worked there.", "Dijo que trabajaba allí.", "ji sed ji uérkt der"],
+      ["«I'll call you.» → She said she would call me.", "Dijo que me llamaría.", "shi sed shi uud col mi"],
+      ["«I can swim.» → He said he could swim.", "Dijo que sabía nadar.", "ji sed ji cud suim"],
+      ["She told me she was busy.", "Me dijo que estaba ocupada.", "shi tould mi shi uas bízi"],
+      ["«I went home.» → She said she had gone home.", "Dijo que había ido a casa.", "shi sed shi jad gon joum"]
+    ],
+    "errores": [
+      "No uses told sin persona: es She told me that..., no «She told that...». Sin persona se usa said.",
+      "No uses said con me: es She said that..., no «She said me that...».",
+      "No dejes el verbo en presente sin motivo: es He said he was tired, no «He said he is tired» (salvo que siga siendo verdad)."
+    ]
+  },
+  "practica": [
+    "Escucha o lee una conversación de 5 frases y escribe qué dijo cada persona con said that... (10 minutos).",
+    "Piensa en 6 cosas que te dijeron esta semana y cuéntalas con told me that... (8 minutos).",
+    "Escribe 5 preguntas que alguien te hizo y repórtalas con asked me if / where / what... (8 minutos).",
+    "Graba un audio de un minuto contando un chisme o una noticia a un amigo con She said..., He told me... (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b1-u6-l1",
+      "n": 1,
+      "titulo": "Said y told",
+      "objetivo": "Contar lo que dijo otra persona con said that y told me that.",
+      "intro": "Said that y told me that cuentan lo que alguien dijo. Truco: say no lleva persona, tell sí: She said she was tired, She told me she was tired. En ambos, el verbo retrocede un tiempo.",
+      "palabras": [
+        { "t": "said", "es": "dijo (de say)", "pron": "sed", "ej": "She said she was tired.", "ejes": "Dijo que estaba cansada.", "cog": false },
+        { "t": "told", "es": "dijo / contó (de tell)", "pron": "tould", "ej": "He told me the truth.", "ejes": "Me dijo la verdad.", "cog": false },
+        { "t": "explain", "es": "explicar", "pron": "ekspléin", "ej": "Can you explain the problem?", "ejes": "¿Puedes explicar el problema?", "cog": true },
+        { "t": "mention", "es": "mencionar", "pron": "ménshon", "ej": "She didn't mention the price.", "ejes": "No mencionó el precio.", "cog": true },
+        { "t": "complain", "es": "quejarse", "pron": "complén", "ej": "Don't complain about everything.", "ejes": "No te quejes de todo.", "cog": false },
+        { "t": "admit", "es": "admitir", "pron": "admít", "ej": "I admit that I was wrong.", "ejes": "Admito que me equivoqué.", "cog": true },
+        { "t": "announce", "es": "anunciar", "pron": "anáuns", "ej": "They will announce the winner today.", "ejes": "Anunciarán al ganador hoy.", "cog": true },
+        { "t": "reply", "es": "responder", "pron": "riplái", "ej": "She didn't reply to my message.", "ejes": "No respondió mi mensaje.", "cog": false }
+      ],
+      "frases": [
+        { "t": "She said she was tired.", "es": "Dijo que estaba cansada.", "pron": "shi sed shi uas táierd" },
+        { "t": "He told me that he worked in Lima.", "es": "Me dijo que trabajaba en Lima.", "pron": "ji tould mi dat ji uérkt in lima" },
+        { "t": "They said they didn't have time.", "es": "Dijeron que no tenían tiempo.", "pron": "dei sed dei dídent jav taim" },
+        { "t": "She told us she would call later.", "es": "Nos dijo que llamaría más tarde.", "pron": "shi tould as shi uud col léiter" },
+        { "t": "Mark said he couldn't come.", "es": "Mark dijo que no podía venir.", "pron": "mark sed ji cúdent cam" }
+      ],
+      "dialogo": {
+        "titulo": "Un recado",
+        "lineas": [
+          { "q": "A", "t": "Did Laura call you?", "es": "¿Laura te llamó?" },
+          { "q": "B", "t": "Yes, she told me she was stuck in traffic.", "es": "Sí, me dijo que estaba atrapada en el tráfico." },
+          { "q": "A", "t": "Did she say when she would arrive?", "es": "¿Dijo a qué hora llegaría?" },
+          { "q": "B", "t": "She said she would be here in twenty minutes.", "es": "Dijo que estaría aquí en veinte minutos." },
+          { "q": "A", "t": "Okay. And did she mention the documents?", "es": "Bien. ¿Y mencionó los documentos?" }
+        ]
+      },
+      "nota": "Said y told no cambian en el estilo indirecto, pero sí el tiempo del verbo que sigue. Con say no pongas me; con tell sí: told me, told her, told them."
+    },
+    {
+      "id": "en-b1-u6-l2",
+      "n": 2,
+      "titulo": "Retroceder los tiempos",
+      "objetivo": "Retroceder el tiempo verbal al reportar lo dicho.",
+      "intro": "En el estilo indirecto el presente pasa a pasado, will a would, can a could, y el pasado a pasado perfecto. Truco: piensa que el reloj retrocede un paso. Si la noticia sigue vigente, el presente también se acepta.",
+      "palabras": [
+        { "t": "would", "es": "(estilo indirecto) -ría / iba a", "pron": "uud", "ej": "She said she would call me.", "ejes": "Dijo que me llamaría.", "cog": false },
+        { "t": "could", "es": "podía / pudo", "pron": "cud", "ej": "He said he could help us.", "ejes": "Dijo que podía ayudarnos.", "cog": false },
+        { "t": "had", "es": "había (de have)", "pron": "jad", "ej": "She said she had finished.", "ejes": "Dijo que había terminado.", "cog": false },
+        { "t": "meeting", "es": "reunión", "pron": "mítin", "ej": "The meeting starts at ten.", "ejes": "La reunión empieza a las diez.", "cog": false },
+        { "t": "presentation", "es": "presentación", "pron": "presentéishon", "ej": "I have a presentation today.", "ejes": "Tengo una presentación hoy.", "cog": true },
+        { "t": "client", "es": "cliente", "pron": "cláient", "ej": "The client is waiting.", "ejes": "El cliente está esperando.", "cog": true },
+        { "t": "deal", "es": "trato / acuerdo", "pron": "dil", "ej": "We made a good deal.", "ejes": "Hicimos un buen trato.", "cog": false },
+        { "t": "rumor", "es": "rumor", "pron": "rúmor", "ej": "I heard a rumor about the boss.", "ejes": "Escuché un rumor sobre el jefe.", "cog": true }
+      ],
+      "frases": [
+        { "t": "She said she would call me.", "es": "Dijo que me llamaría.", "pron": "shi sed shi uud col mi" },
+        { "t": "He said he could help us.", "es": "Dijo que podía ayudarnos.", "pron": "ji sed ji cud jelp as" },
+        { "t": "They said the meeting started at ten.", "es": "Dijeron que la reunión empezaba a las diez.", "pron": "dei sed da mítin stártid at ten" },
+        { "t": "He told me he had finished the report.", "es": "Me dijo que había terminado el informe.", "pron": "ji tould mi ji jad fínisht da ripórt" },
+        { "t": "She said she was working on a new deal.", "es": "Dijo que estaba trabajando en un nuevo acuerdo.", "pron": "shi sed shi uas uérkin on a niu dil" }
+      ],
+      "dialogo": {
+        "titulo": "Chismes de oficina",
+        "lineas": [
+          { "q": "A", "t": "Did you hear? The boss said the company was going to hire ten people.", "es": "¿Oíste? El jefe dijo que la empresa iba a contratar diez personas." },
+          { "q": "B", "t": "Really? Who told you that?", "es": "¿En serio? ¿Quién te dijo eso?" },
+          { "q": "A", "t": "Claudia told me she had seen the email. She said it would be official on Monday.", "es": "Claudia me dijo que había visto el correo. Dijo que sería oficial el lunes." },
+          { "q": "B", "t": "It might be just a rumor. Someone else said they could not afford new employees.", "es": "Podría ser solo un rumor. Otro dijo que no podían pagar más empleados." },
+          { "q": "A", "t": "We'll find out on Monday.", "es": "Lo sabremos el lunes." }
+        ]
+      },
+      "nota": "Si cuentas algo que acaba de decirse y sigue siendo verdad, puedes mantener el presente: She says she is tired. Pero con said es más habitual retroceder."
+    },
+    {
+      "id": "en-b1-u6-l3",
+      "n": 3,
+      "titulo": "Preguntas indirectas",
+      "objetivo": "Contar preguntas con asked if, asked where y asked what.",
+      "intro": "Para contar una pregunta usa asked + if o la palabra interrogativa. Truco: el orden vuelve a ser afirmativo (sujeto + verbo), sin do / does / did: She asked where I lived, no «where did I live».",
+      "palabras": [
+        { "t": "asked", "es": "preguntó (de ask)", "pron": "askt", "ej": "He asked me where I lived.", "ejes": "Me preguntó dónde vivía.", "cog": false },
+        { "t": "wonder", "es": "preguntarse", "pron": "uánder", "ej": "I wonder what time it is.", "ejes": "Me pregunto qué hora es.", "cog": false },
+        { "t": "whether", "es": "si (o no)", "pron": "uéder", "ej": "I don't know whether she will come.", "ejes": "No sé si vendrá.", "cog": false },
+        { "t": "answer", "es": "responder / respuesta", "pron": "ánser", "ej": "I don't know the answer.", "ejes": "No sé la respuesta.", "cog": false, "truco": "La «w» de answer no suena: ánser." },
+        { "t": "interview", "es": "entrevista", "pron": "ínterviu", "ej": "I have an interview tomorrow.", "ejes": "Mañana tengo una entrevista.", "cog": true },
+        { "t": "ask for", "es": "pedir", "pron": "ask for", "ej": "I'll ask for the menu.", "ejes": "Pediré la carta.", "cog": false },
+        { "t": "find out", "es": "averiguar / enterarse", "pron": "faind aut", "ej": "I want to find out the truth.", "ejes": "Quiero averiguar la verdad.", "cog": false },
+        { "t": "curious", "es": "curioso", "pron": "kiúrios", "ej": "I'm curious about the new boss.", "ejes": "Tengo curiosidad por el nuevo jefe.", "cog": true }
+      ],
+      "frases": [
+        { "t": "He asked me where I lived.", "es": "Me preguntó dónde vivía.", "pron": "ji askt mi uer ai livd" },
+        { "t": "She asked if I was married.", "es": "Preguntó si yo era casado.", "pron": "shi askt if ai uas márid" },
+        { "t": "They asked what time the shop closed.", "es": "Preguntaron a qué hora cerraba la tienda.", "pron": "dei askt juat taim da shop clousd" },
+        { "t": "I asked whether he would come.", "es": "Pregunté si vendría.", "pron": "ai askt uéder ji uud cam" },
+        { "t": "I wonder what the interview will be like.", "es": "Me pregunto cómo será la entrevista.", "pron": "ai uánder juat di ínterviu uil bi laik" }
+      ],
+      "dialogo": {
+        "titulo": "Después de la entrevista",
+        "lineas": [
+          { "q": "A", "t": "How was the interview? What did they ask you?", "es": "¿Cómo estuvo la entrevista? ¿Qué te preguntaron?" },
+          { "q": "B", "t": "They asked me where I had worked before and why I wanted this job.", "es": "Me preguntaron dónde había trabajado antes y por qué quería este trabajo." },
+          { "q": "A", "t": "And did they ask if you could start soon?", "es": "¿Y te preguntaron si podías empezar pronto?" },
+          { "q": "B", "t": "Yes, they asked whether I was free next month.", "es": "Sí, preguntaron si estaba libre el próximo mes." },
+          { "q": "A", "t": "I wonder when they will call you.", "es": "Me pregunto cuándo te llamarán." }
+        ]
+      },
+      "nota": "Con preguntas de sí o no usa if o whether: She asked if I was tired. Con palabras interrogativas (where, what, when) las conservas: He asked where I lived."
+    },
+    {
+      "id": "en-b1-u6-l4",
+      "n": 4,
+      "titulo": "Órdenes y pedidos",
+      "objetivo": "Contar órdenes y pedidos con told / asked me to.",
+      "intro": "Para contar una orden o un pedido usa told / asked + persona + to + verbo: She told me to wait. Truco: en la forma negativa, not va antes de to: He told me not to worry. Y las palabras de tiempo también cambian.",
+      "palabras": [
+        { "t": "order", "es": "ordenar / orden", "pron": "órder", "ej": "The doctor will order some tests.", "ejes": "El doctor pedirá unos exámenes.", "cog": true },
+        { "t": "request", "es": "pedido / solicitar", "pron": "ricuést", "ej": "I made a request.", "ejes": "Hice una solicitud.", "cog": true },
+        { "t": "warn", "es": "advertir", "pron": "uorn", "ej": "I want to warn you about the traffic.", "ejes": "Quiero advertirte del tráfico.", "cog": false },
+        { "t": "remind", "es": "recordar a alguien", "pron": "rimáind", "ej": "Please remind me to call him.", "ejes": "Por favor, recuérdame llamarlo.", "cog": false },
+        { "t": "invite", "es": "invitar", "pron": "inváit", "ej": "I want to invite you to my party.", "ejes": "Quiero invitarte a mi fiesta.", "cog": true },
+        { "t": "advise", "es": "aconsejar", "pron": "adváis", "ej": "I advise you to rest.", "ejes": "Te aconsejo descansar.", "cog": false },
+        { "t": "beg", "es": "rogar", "pron": "beg", "ej": "I beg you, please help me.", "ejes": "Te lo ruego, ayúdame.", "cog": false },
+        { "t": "the next day", "es": "al día siguiente", "pron": "da nekst dei", "ej": "The next day, she called me.", "ejes": "Al día siguiente, ella me llamó.", "cog": false }
+      ],
+      "frases": [
+        { "t": "She told me to wait.", "es": "Me dijo que esperara.", "pron": "shi tould mi tu ueit" },
+        { "t": "He asked me not to tell anyone.", "es": "Me pidió que no le dijera a nadie.", "pron": "ji askt mi not tu tel éniuan" },
+        { "t": "The doctor advised me to rest.", "es": "El doctor me aconsejó descansar.", "pron": "da dóctor adváisd mi tu rest" },
+        { "t": "They invited us to their house.", "es": "Nos invitaron a su casa.", "pron": "dei inváitid as tu der jaus" },
+        { "t": "She reminded me to call him.", "es": "Me recordó llamarlo.", "pron": "shi rimáinded mi tu col jim" }
+      ],
+      "dialogo": {
+        "titulo": "Consejos médicos",
+        "lineas": [
+          { "q": "A", "t": "What did the doctor say?", "es": "¿Qué dijo el doctor?" },
+          { "q": "B", "t": "He told me to rest and to drink a lot of water.", "es": "Me dijo que descansara y tomara mucha agua." },
+          { "q": "A", "t": "Did he tell you to stay home?", "es": "¿Te dijo que te quedaras en casa?" },
+          { "q": "B", "t": "Yes, and he advised me not to work for three days.", "es": "Sí, y me aconsejó no trabajar tres días." },
+          { "q": "A", "t": "Good. I'll remind you to take your pills.", "es": "Bien. Yo te recordaré tomar tus pastillas." }
+        ]
+      },
+      "nota": "Con told, asked, advised, reminded, invited y warned: verbo + persona + to + verbo. No uses that con ellos: He told me to go, no «He told me that go»."
+    },
+    {
+      "id": "en-b1-u6-l5",
+      "n": 5,
+      "titulo": "Repaso: contando lo que oí",
+      "objetivo": "Combinar afirmaciones, preguntas y pedidos en un mismo relato.",
+      "intro": "Repasa said, told y asked, y añade cómo cambian here, today y tomorrow al contar lo dicho. Truco: al reportar, las palabras de lugar y tiempo se alejan: here pasa a there, today a that day, tomorrow a the next day.",
+      "palabras": [
+        { "t": "that day", "es": "ese día", "pron": "dat dei", "ej": "That day, I was very tired.", "ejes": "Ese día estaba muy cansado.", "cog": false },
+        { "t": "there", "es": "allí", "pron": "der", "ej": "I'll be there at six.", "ejes": "Estaré allí a las seis.", "cog": false },
+        { "t": "the week before", "es": "la semana anterior", "pron": "da uik bifór", "ej": "I saw her the week before.", "ejes": "La vi la semana anterior.", "cog": false },
+        { "t": "gossip", "es": "chisme / chismear", "pron": "gósip", "ej": "I don't like gossip.", "ejes": "No me gusta el chisme.", "cog": false },
+        { "t": "spread", "es": "difundir / correrse", "pron": "spred", "ej": "News can spread fast.", "ejes": "Las noticias pueden difundirse rápido.", "cog": false },
+        { "t": "according to", "es": "según", "pron": "acórdin tu", "ej": "According to Ana, he left early.", "ejes": "Según Ana, se fue temprano.", "cog": false },
+        { "t": "apparently", "es": "al parecer", "pron": "apárentli", "ej": "Apparently, the shop is closed.", "ejes": "Al parecer, la tienda está cerrada.", "cog": false },
+        { "t": "rumor has it", "es": "se rumorea que", "pron": "rúmor jas it", "ej": "Rumor has it that he is leaving.", "ejes": "Se rumorea que se va.", "cog": false }
+      ],
+      "frases": [
+        { "t": "He said he would be there that day.", "es": "Dijo que estaría allí ese día.", "pron": "ji sed ji uud bi der dat dei" },
+        { "t": "She said she had seen him the week before.", "es": "Dijo que lo había visto la semana anterior.", "pron": "shi sed shi jad sin jim da uik bifór" },
+        { "t": "According to Ana, he left early.", "es": "Según Ana, se fue temprano.", "pron": "acórdin tu ana, ji left érli" },
+        { "t": "Apparently, the shop is closed.", "es": "Al parecer, la tienda está cerrada.", "pron": "apárentli, da shop is clousd" },
+        { "t": "They asked me where I lived and told me to wait.", "es": "Me preguntaron dónde vivía y me dijeron que esperara.", "pron": "dei askt mi uer ai livd and tould mi tu ueit" },
+        { "t": "I don't like gossip.", "es": "No me gusta el chisme.", "pron": "ai dount laik gósip" }
+      ],
+      "dialogo": {
+        "titulo": "Contando un chisme",
+        "lineas": [
+          { "q": "A", "t": "Apparently, Sofia told Pedro she was leaving the company.", "es": "Al parecer, Sofía le dijo a Pedro que dejaría la empresa." },
+          { "q": "B", "t": "Really? When did she say that?", "es": "¿En serio? ¿Cuándo lo dijo?" },
+          { "q": "A", "t": "The week before last. She also said she had found a better job.", "es": "Hace dos semanas. También dijo que había encontrado un mejor trabajo." },
+          { "q": "B", "t": "Did anyone ask her where it was?", "es": "¿Alguien le preguntó dónde era?" },
+          { "q": "A", "t": "Yes, but she asked everyone not to say anything. I don't like gossip, so I'll stop here.", "es": "Sí, pero ella pidió a todos no decir nada. No me gusta el chisme, así que paro aquí." }
+        ]
+      },
+      "nota": "Cambios típicos al reportar: now → then, today → that day, tomorrow → the next day, yesterday → the day before, here → there."
+    }
+  ]
+}

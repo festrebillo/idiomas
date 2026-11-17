@@ -1,0 +1,224 @@
+{
+  "id": "it-b1-u6",
+  "idioma": "it",
+  "nivel": "B1",
+  "n": 6,
+  "titulo": "Lo que dijeron otros",
+  "resumen": "Aprenderás a contar lo que otros dijeron o preguntaron con «ha detto che», «ha chiesto se» y los cambios de tiempo y de referencias.",
+  "puedo": [
+    "Contar lo que alguien dijo con «ha detto che...».",
+    "Pasar el presente al imperfetto: «ha detto che era stanco».",
+    "Contar preguntas con «ha chiesto se...» y «ha chiesto dove...».",
+    "Usar «il giorno prima», «quella sera», «lì» al contar lo dicho.",
+    "Transmitir mensajes, noticias y órdenes con «mi ha detto di...»."
+  ],
+  "gramatica": {
+    "titulo": "Discurso indirecto: ha detto che / ha chiesto se",
+    "texto": "Para contar lo que alguien dijo se usa dire o chiedere.\nHa detto che + frase: Marco ha detto che arriva tardi.\nHa chiesto se + pregunta de sí o no: Ha chiesto se avevo tempo. Con otras preguntas se mantiene la palabra interrogativa: Ha chiesto dove abitavo.\nSi el verbo que introduce está en pasado, lo que antes era presente pasa al imperfetto, y el passato prossimo pasa al trapassato: Sono stanco = Ha detto che era stanco. Ho mangiato = Ha detto che aveva mangiato.\nCambian las personas y las referencias: io → lui/lei; qui → lì; ieri → il giorno prima; domani → il giorno dopo.\nPara órdenes: dire di + infinitivo: Mi ha detto di aspettare.",
+    "tabla": [
+      ["«Sono stanco» → ha detto che era stanco", "dijo que estaba cansado", "ha détto ke éra stánco"],
+      ["«Ho fame» → ha detto che aveva fame", "dijo que tenía hambre", "ha détto ke avéva fáme"],
+      ["«Hai tempo?» → ha chiesto se avevo tempo", "preguntó si tenía tiempo", "a quiésto se avévo témpo"],
+      ["«Dove abiti?» → ha chiesto dove abitavo", "preguntó dónde vivía", "a quiésto dóve abitávo"],
+      ["«Aspetta!» → mi ha detto di aspettare", "me dijo que esperara", "mi a détto di aspettáre"],
+      ["ieri → il giorno prima", "ayer → el día anterior", "il yórno príma"]
+    ],
+    "errores": [
+      "Falta el «che» o el «se»: «ha detto che viene», no «ha detto viene»; en preguntas sí/no: «ha chiesto se», no «ha chiesto che».",
+      "Si lo dicho ya pasó, el tiempo cambia: «ha detto che stava male», no «ha detto che sta male» (a menos que siga siendo cierto).",
+      "No olvides cambiar las personas: «Ha detto: Sono stanco» se cuenta como «Ha detto che era stanco», no «che ero stanco»."
+    ]
+  },
+  "practica": [
+    "Cuenta tres cosas que te dijo hoy alguien con «Mi ha detto che...» (4 minutos).",
+    "Convierte cinco frases directas en indirectas por escrito: «Ho fame» = «Ha detto che aveva fame» (6 minutos).",
+    "Cuenta tres preguntas que te hicieron hoy con «Mi ha chiesto se...» (4 minutos).",
+    "Graba un mensaje de voz de 30 segundos contando una conversación reciente (4 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b1-u6-l1",
+      "n": 1,
+      "titulo": "Ha detto che...",
+      "objetivo": "Contar lo que alguien dijo con verbos de comunicación.",
+      "intro": "Para contar lo dicho se usa un verbo de comunicación + «che». Truco: es igual que el español «dijo que...»: ha detto che, ha spiegato che.",
+      "palabras": [
+        { "t": "ha detto che", "es": "dijo que", "pron": "a détto ke", "ej": "Marco ha detto che arriva tardi.", "ejes": "Marco dijo que llega tarde.", "cog": false },
+        { "t": "mi ha detto che", "es": "me dijo que", "pron": "mi a détto ke", "ej": "Anna mi ha detto che è stanca.", "ejes": "Anna me dijo que está cansada.", "cog": false },
+        { "t": "ha risposto che", "es": "respondió que", "pron": "a rispósto ke", "ej": "Ha risposto che non lo sa.", "ejes": "Respondió que no lo sabe.", "cog": false },
+        { "t": "ha spiegato che", "es": "explicó que", "pron": "a spiegáto ke", "ej": "Il professore ha spiegato che l'esame è lunedì.", "ejes": "El profesor explicó que el examen es el lunes.", "cog": false },
+        { "t": "ha raccontato che", "es": "contó que", "pron": "a raccontáto ke", "ej": "Mia sorella ha raccontato che le piace il nuovo lavoro.", "ejes": "Mi hermana contó que le gusta el nuevo trabajo.", "cog": false },
+        { "t": "ha aggiunto che", "es": "añadió que", "pron": "a addyúnto ke", "ej": "Ha aggiunto che arriva con un amico.", "ejes": "Añadió que llega con un amigo.", "cog": false },
+        { "t": "ha annunciato che", "es": "anunció que", "pron": "a annunchiáto ke", "ej": "Il direttore ha annunciato che c'è una riunione.", "ejes": "El director anunció que hay una reunión.", "cog": false },
+        { "t": "ha ripetuto che", "es": "repitió que", "pron": "a ripetúto ke", "ej": "Ha ripetuto che non viene.", "ejes": "Repitió que no viene.", "cog": false },
+        { "t": "ha confermato che", "es": "confirmó que", "pron": "a confermáto ke", "ej": "Ha confermato che il volo parte alle sei.", "ejes": "Confirmó que el vuelo sale a las seis.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Marco ha detto che arriva tardi.", "es": "Marco dijo que llega tarde.", "pron": "márco a détto ke arríva tárdi" },
+        { "t": "Anna mi ha detto che è molto stanca.", "es": "Anna me dijo que está muy cansada.", "pron": "ánna mi a détto ke e mólto stánca" },
+        { "t": "Il professore ha spiegato che l'esame è lunedì.", "es": "El profesor explicó que el examen es el lunes.", "pron": "il profesóre a spiegáto ke lesáme e lunedí" },
+        { "t": "Ha risposto che non lo sa.", "es": "Respondió que no lo sabe.", "pron": "a rispósto ke non lo sá" },
+        { "t": "Mia sorella ha raccontato che le piace il nuovo lavoro.", "es": "Mi hermana contó que le gusta su nuevo trabajo.", "pron": "mía sorélla a raccontáto ke le piáche il nuóvo lavóro" }
+      ],
+      "dialogo": {
+        "titulo": "Notizie dall'ufficio",
+        "lineas": [
+          { "q": "A", "t": "Che cosa ha detto il capo?", "es": "¿Qué dijo el jefe?" },
+          { "q": "B", "t": "Ha detto che la riunione è alle tre.", "es": "Dijo que la reunión es a las tres." },
+          { "q": "A", "t": "E Marta?", "es": "¿Y Marta?" },
+          { "q": "B", "t": "Mi ha detto che non può venire.", "es": "Me dijo que no puede venir." },
+          { "q": "A", "t": "Ha spiegato perché?", "es": "¿Explicó por qué?" },
+          { "q": "B", "t": "Ha risposto che ha un impegno di famiglia.", "es": "Respondió que tiene un compromiso familiar." }
+        ]
+      },
+      "nota": "El «che» es obligatorio en italiano: «Ha detto che viene». También puedes decir «Ha detto di venire» cuando el sujeto es el mismo: «Ha detto di essere stanco» (dijo que estaba cansado)."
+    },
+    {
+      "id": "it-b1-u6-l2",
+      "n": 2,
+      "titulo": "Dijo que estaba cansado",
+      "objetivo": "Pasar los verbos del presente al imperfetto al contar lo dicho en pasado.",
+      "intro": "Si cuentas lo dicho en pasado, el presente cambia a imperfetto. Truco: «Sono stanco» se cuenta como «ha detto che era stanco».",
+      "palabras": [
+        { "t": "che era", "es": "que era / que estaba", "pron": "ke éra", "ej": "Ha detto che era stanco.", "ejes": "Dijo que estaba cansado.", "cog": false },
+        { "t": "che stava", "es": "que estaba (haciendo / sintiéndose)", "pron": "ke stáva", "ej": "Ha detto che stava male.", "ejes": "Dijo que se sentía mal.", "cog": false },
+        { "t": "che aveva", "es": "que tenía", "pron": "ke avéva", "ej": "Ha detto che aveva fame.", "ejes": "Dijo que tenía hambre.", "cog": false },
+        { "t": "che voleva", "es": "que quería", "pron": "ke voléva", "ej": "Ha detto che voleva partire.", "ejes": "Dijo que quería partir.", "cog": false },
+        { "t": "che doveva", "es": "que tenía que", "pron": "ke dovéva", "ej": "Mi ha detto che doveva lavorare.", "ejes": "Me dijo que tenía que trabajar.", "cog": false },
+        { "t": "che poteva", "es": "que podía", "pron": "ke potéva", "ej": "Ha detto che poteva aiutarci.", "ejes": "Dijo que podía ayudarnos.", "cog": false },
+        { "t": "che andava", "es": "que iba", "pron": "ke andáva", "ej": "Ha detto che andava al mare.", "ejes": "Dijo que iba a la playa.", "cog": false },
+        { "t": "che veniva", "es": "que venía / que iba (hacia quien habla)", "pron": "ke veníva", "ej": "Ha detto che veniva con noi.", "ejes": "Dijo que venía con nosotros.", "cog": false },
+        { "t": "che faceva", "es": "que hacía", "pron": "ke fachéva", "ej": "Ha detto che faceva freddo.", "ejes": "Dijo que hacía frío.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Ha detto che era stanco.", "es": "Dijo que estaba cansado.", "pron": "a détto ke éra stánco" },
+        { "t": "Ha detto che stava male.", "es": "Dijo que se sentía mal.", "pron": "a détto ke stáva mále" },
+        { "t": "Ha detto che voleva partire.", "es": "Dijo que quería partir.", "pron": "a détto ke voléva partíre" },
+        { "t": "Mi ha detto che doveva lavorare.", "es": "Me dijo que tenía que trabajar.", "pron": "mi a détto ke dovéva lavoráre" },
+        { "t": "Ha detto che veniva con noi.", "es": "Dijo que venía con nosotros.", "pron": "a détto ke veníva con nói" }
+      ],
+      "dialogo": {
+        "titulo": "Perché non è venuto?",
+        "lineas": [
+          { "q": "A", "t": "Perché Luca non è venuto?", "es": "¿Por qué Luca no vino?" },
+          { "q": "B", "t": "Ha detto che stava male.", "es": "Dijo que se sentía mal." },
+          { "q": "A", "t": "Davvero? Ieri mi ha detto che stava benissimo.", "es": "¿En serio? Ayer me dijo que estaba muy bien." },
+          { "q": "B", "t": "Forse aveva mal di testa.", "es": "Quizás tenía dolor de cabeza." },
+          { "q": "A", "t": "Mi ha anche detto che voleva venire.", "es": "También me dijo que quería venir." },
+          { "q": "B", "t": "Allora gli telefono e gli chiedo come sta.", "es": "Entonces lo llamo y le pregunto cómo está." }
+        ]
+      },
+      "nota": "Si lo dicho sigue siendo verdad, puedes dejar el presente: «Ha detto che è stanco» (y todavía lo está). Con el imperfetto cuentas lo que valía en el momento de hablar."
+    },
+    {
+      "id": "it-b1-u6-l3",
+      "n": 3,
+      "titulo": "Ha chiesto se...",
+      "objetivo": "Contar preguntas que otros hicieron.",
+      "intro": "Las preguntas sí/no se cuentan con «se». Truco: «Hai tempo?» se cuenta como «ha chiesto se avevo tempo»; con las demás preguntas se conserva dove, quando, perché.",
+      "palabras": [
+        { "t": "ha chiesto se", "es": "preguntó si", "pron": "a quiésto se", "ej": "Ha chiesto se avevo tempo.", "ejes": "Preguntó si tenía tiempo.", "cog": false },
+        { "t": "mi ha chiesto se", "es": "me preguntó si", "pron": "mi a quiésto se", "ej": "Mi ha chiesto se parlavo italiano.", "ejes": "Me preguntó si hablaba italiano.", "cog": false },
+        { "t": "ha domandato se", "es": "preguntó si", "pron": "a domandáto se", "ej": "Ha domandato se c'era un bar vicino.", "ejes": "Preguntó si había un bar cerca.", "cog": false },
+        { "t": "voleva sapere se", "es": "quería saber si", "pron": "voléva sapére se", "ej": "Voleva sapere se ero libero domani.", "ejes": "Quería saber si estaba libre mañana.", "cog": false },
+        { "t": "ha chiesto dove", "es": "preguntó dónde", "pron": "a quiésto dóve", "ej": "Ha chiesto dove abitavo.", "ejes": "Preguntó dónde vivía.", "cog": false },
+        { "t": "ha chiesto quando", "es": "preguntó cuándo", "pron": "a quiésto cuándo", "ej": "Ha chiesto quando partiva il treno.", "ejes": "Preguntó cuándo salía el tren.", "cog": false },
+        { "t": "ha chiesto perché", "es": "preguntó por qué", "pron": "a quiésto perqué", "ej": "Mi ha chiesto perché ero triste.", "ejes": "Me preguntó por qué estaba triste.", "cog": false },
+        { "t": "la domanda", "es": "la pregunta", "pron": "la dománda", "ej": "La domanda è difficile.", "ejes": "La pregunta es difícil.", "cog": false },
+        { "t": "la risposta", "es": "la respuesta", "pron": "la rispósta", "ej": "La risposta è giusta.", "ejes": "La respuesta es correcta.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Mi ha chiesto se avevo tempo.", "es": "Me preguntó si tenía tiempo.", "pron": "mi a quiésto se avévo témpo" },
+        { "t": "Ha domandato se c'era un bar vicino.", "es": "Preguntó si había un bar cerca.", "pron": "a domandáto se chéra un bar vichíno" },
+        { "t": "Voleva sapere se ero libero domani.", "es": "Quería saber si estaba libre mañana.", "pron": "voléva sapére se éro líbero dománi" },
+        { "t": "Ha chiesto dove abitavo.", "es": "Preguntó dónde vivía.", "pron": "a quiésto dóve abitávo" },
+        { "t": "Mi ha chiesto perché ero triste.", "es": "Me preguntó por qué estaba triste.", "pron": "mi a quiésto perqué éro tríste" }
+      ],
+      "dialogo": {
+        "titulo": "Dal medico",
+        "lineas": [
+          { "q": "A", "t": "Che cosa ti ha chiesto il medico?", "es": "¿Qué te preguntó el médico?" },
+          { "q": "B", "t": "Mi ha chiesto se dormivo bene.", "es": "Me preguntó si dormía bien." },
+          { "q": "A", "t": "E che cosa hai risposto?", "es": "¿Y qué respondiste?" },
+          { "q": "B", "t": "Ho risposto che dormivo poco.", "es": "Respondí que dormía poco." },
+          { "q": "A", "t": "Ti ha chiesto anche quanto lavoravi?", "es": "¿También te preguntó cuánto trabajabas?" },
+          { "q": "B", "t": "Sì, voleva sapere quante ore lavoravo.", "es": "Sí, quería saber cuántas horas trabajaba." }
+        ]
+      },
+      "nota": "Cuidado: en español dices «preguntó que...» en el habla coloquial, pero en italiano siempre es «ha chiesto se» (sí/no) o «ha chiesto dove/quando/perché»; nunca «ha chiesto che»."
+    },
+    {
+      "id": "it-b1-u6-l4",
+      "n": 4,
+      "titulo": "Ayer, allí, ese día",
+      "objetivo": "Cambiar las referencias de tiempo y lugar al contar lo dicho.",
+      "intro": "Al contar lo dicho cambian ayer, hoy, aquí. Truco: ieri pasa a «il giorno prima», domani a «il giorno dopo» y qui a «lì».",
+      "palabras": [
+        { "t": "il giorno prima", "es": "el día anterior", "pron": "il yórno príma", "ej": "Ha detto che aveva incontrato Paolo il giorno prima.", "ejes": "Dijo que había encontrado a Paolo el día anterior.", "cog": false },
+        { "t": "la sera prima", "es": "la noche anterior", "pron": "la séra príma", "ej": "Ho cenato fuori la sera prima.", "ejes": "Cené fuera la noche anterior.", "cog": false },
+        { "t": "quella sera", "es": "esa noche", "pron": "cuélla séra", "ej": "Quella sera pioveva forte.", "ejes": "Esa noche llovía fuerte.", "cog": false },
+        { "t": "lì", "es": "allí", "pron": "lí", "ej": "Ha detto che abitava lì.", "ejes": "Dijo que vivía allí.", "cog": false },
+        { "t": "allora", "es": "entonces, en aquella época", "pron": "allóra", "ej": "Allora lavoravo in banca.", "ejes": "En aquella época trabajaba en un banco.", "cog": false },
+        { "t": "in quel momento", "es": "en ese momento", "pron": "in cuel moménto", "ej": "In quel momento stavo dormendo.", "ejes": "En ese momento estaba durmiendo.", "cog": false },
+        { "t": "la settimana dopo", "es": "la semana siguiente", "pron": "la settimána dópo", "ej": "La settimana dopo è partito.", "ejes": "La semana siguiente partió.", "cog": false },
+        { "t": "due giorni prima", "es": "dos días antes", "pron": "dúe yórni príma", "ej": "Era arrivato due giorni prima.", "ejes": "Había llegado dos días antes.", "cog": false },
+        { "t": "l'indomani", "es": "al día siguiente", "pron": "lindománi", "ej": "L'indomani ha telefonato a tutti.", "ejes": "Al día siguiente llamó a todos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Ha detto che aveva incontrato Paolo il giorno prima.", "es": "Dijo que había encontrado a Paolo el día anterior.", "pron": "a détto ke avéva incontráto páolo il yórno príma" },
+        { "t": "Mi ha detto che abitava lì da due anni.", "es": "Me dijo que vivía allí desde hacía dos años.", "pron": "mi a détto ke abitáva lí da dúe ánni" },
+        { "t": "Ha raccontato che quella sera pioveva forte.", "es": "Contó que esa noche llovía fuerte.", "pron": "a raccontáto ke cuélla séra pióveva fórte" },
+        { "t": "Ha spiegato che era arrivato due giorni prima.", "es": "Explicó que había llegado dos días antes.", "pron": "a spiegáto ke éra arriváto dúe yórni príma" },
+        { "t": "L'indomani mi ha chiamato per chiedermi scusa.", "es": "Al día siguiente me llamó para pedirme disculpas.", "pron": "lindománi mi a quiamáto per quiedérmi scúsa" }
+      ],
+      "dialogo": {
+        "titulo": "Un segreto",
+        "lineas": [
+          { "q": "A", "t": "Hai parlato con Giulia?", "es": "¿Hablaste con Giulia?" },
+          { "q": "B", "t": "Sì, mi ha detto che aveva visto Marco il giorno prima.", "es": "Sí, me dijo que había visto a Marco el día anterior." },
+          { "q": "A", "t": "Dove?", "es": "¿Dónde?" },
+          { "q": "B", "t": "Ha detto che lui lavorava lì da due anni.", "es": "Dijo que él trabajaba allí desde hacía dos años." },
+          { "q": "A", "t": "Ma io non lo sapevo!", "es": "¡Pero yo no lo sabía!" },
+          { "q": "B", "t": "Nemmeno io, mi ha sorpreso.", "es": "Yo tampoco, me sorprendió." }
+        ]
+      },
+      "nota": "Resumen de cambios: oggi = quel giorno; ieri = il giorno prima; domani = il giorno dopo / l'indomani; qui = lì; adesso = allora; la settimana scorsa = la settimana prima."
+    },
+    {
+      "id": "it-b1-u6-l5",
+      "n": 5,
+      "titulo": "Repaso: mensajes y noticias",
+      "objetivo": "Combinar el discurso indirecto para transmitir mensajes, noticias y órdenes.",
+      "intro": "Repasa todo: ha detto che, ha chiesto se, cambios de tiempo y «dire di + infinitivo». Truco: para órdenes usa «mi ha detto di» + infinitivo.",
+      "palabras": [
+        { "t": "la notizia", "es": "la noticia", "pron": "la notítsia", "ej": "Hai sentito la notizia?", "ejes": "¿Escuchaste la noticia?", "cog": false },
+        { "t": "il messaggio", "es": "el mensaje", "pron": "il messáddyo", "ej": "Ho letto il messaggio di Anna.", "ejes": "Leí el mensaje de Anna.", "cog": true },
+        { "t": "riferire", "es": "transmitir, contar a otro", "pron": "riferíre", "ej": "Puoi riferire il messaggio a Paolo?", "ejes": "¿Puedes transmitirle el mensaje a Paolo?", "cog": false },
+        { "t": "ha promesso di", "es": "prometió (hacer algo)", "pron": "a promésso di", "ej": "Ha promesso di chiamare domani.", "ejes": "Prometió llamar mañana.", "cog": false },
+        { "t": "mi ha detto di", "es": "me dijo que (haga algo)", "pron": "mi a détto di", "ej": "Mi ha detto di aspettare qui.", "ejes": "Me dijo que esperara aquí.", "cog": false },
+        { "t": "il pettegolezzo", "es": "el chisme", "pron": "il pettegoléttso", "ej": "Il pettegolezzo corre veloce.", "ejes": "El chisme corre rápido.", "cog": false },
+        { "t": "ha confermato che", "es": "confirmó que", "pron": "a confermáto ke", "ej": "Ha confermato che l'incontro era alle tre.", "ejes": "Confirmó que la reunión era a las tres.", "cog": false },
+        { "t": "secondo", "es": "según", "pron": "secóndo", "ej": "Secondo lui, la notizia è vera.", "ejes": "Según él, la noticia es cierta.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Mi ha detto di aspettare qui.", "es": "Me dijo que esperara aquí.", "pron": "mi a détto di aspettáre cúi" },
+        { "t": "Ha promesso di chiamare domani.", "es": "Prometió llamar mañana.", "pron": "a promésso di quiamáre dománi" },
+        { "t": "Mi ha riferito il messaggio di Anna.", "es": "Me transmitió el mensaje de Anna.", "pron": "mi a riferíto il messáddyo di ánna" },
+        { "t": "Secondo lui, la notizia è vera.", "es": "Según él, la noticia es cierta.", "pron": "secóndo lúi la notítsia e véra" },
+        { "t": "Ha confermato che l'incontro era alle tre.", "es": "Confirmó que la reunión era a las tres.", "pron": "a confermáto ke lincóntro éra alle tré" }
+      ],
+      "dialogo": {
+        "titulo": "Una bella notizia",
+        "lineas": [
+          { "q": "A", "t": "Hai sentito la notizia?", "es": "¿Escuchaste la noticia?" },
+          { "q": "B", "t": "Quale?", "es": "¿Cuál?" },
+          { "q": "A", "t": "Elena ha detto che si sposava!", "es": "¡Elena dijo que se casaba!" },
+          { "q": "B", "t": "Davvero? Chi te l'ha detto?", "es": "¿En serio? ¿Quién te lo dijo?" },
+          { "q": "A", "t": "Me l'ha detto lei, e ha promesso di invitarci.", "es": "Me lo dijo ella, y prometió invitarnos." },
+          { "q": "B", "t": "Che bella notizia!", "es": "¡Qué linda noticia!" }
+        ]
+      },
+      "nota": "Para transmitir un mensaje de alguien puedes decir: «Mi ha detto di dirti che...» (me dijo que te dijera que...). Es una fórmula muy natural al teléfono."
+    }
+  ]
+}

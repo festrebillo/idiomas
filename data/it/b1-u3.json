@@ -1,0 +1,223 @@
+{
+  "id": "it-b1-u3",
+  "idioma": "it",
+  "nivel": "B1",
+  "n": 3,
+  "titulo": "Planes y decisiones",
+  "resumen": "Aprenderás a hablar del futuro con el futuro semplice, el presente con valor de futuro, «stare per» y «pensare di».",
+  "puedo": [
+    "Formar el futuro semplice de verbos regulares.",
+    "Usar los futuros irregulares más comunes: sarò, avrò, farò, andrò.",
+    "Hablar de planes cercanos con el presente y con «stare per».",
+    "Decir mis intenciones con «pensare di» y «avere intenzione di».",
+    "Contar mis planes y metas para los próximos años."
+  ],
+  "gramatica": {
+    "titulo": "Hablar del futuro: futuro semplice",
+    "texto": "El futuro semplice se forma con el infinitivo sin la -e final más -ò, -ai, -à, -emo, -ete, -anno: partire = partirò, partirai, partirà.\nEn los verbos en -are la -a- cambia a -e-: parlare = parlerò (no «parlarò»).\nVerbos en -care/-gare añaden h: pagare = pagherò. En -ciare/-giare se pierde la i: mangiare = mangerò.\nIrregulares muy usados: essere = sarò, avere = avrò, fare = farò, andare = andrò, venire = verrò.\nEn la conversación se usa mucho el presente con valor de futuro cuando el plan es seguro: Domani parto.\nStare per + infinitivo = estar a punto de: Sto per uscire. Pensare di + infinitivo = pensar hacer algo: Penso di partire.",
+    "tabla": [
+      ["parlerò", "hablaré", "parleró"],
+      ["partirai", "partirás", "partirái"],
+      ["mangerà", "comerá", "manyerá"],
+      ["andremo", "iremos", "andrémo"],
+      ["sto per uscire", "estoy por salir", "sto per ushíre"],
+      ["penso di partire", "pienso partir", "pénso di partíre"]
+    ],
+    "errores": [
+      "En los verbos en -are la vocal cambia: «parlerò», no «parlarò» (como el español «hablaré»).",
+      "«Pensare di + infinitivo» es planear: «penso di partire», no «penso partire». «Pensare a» significa pensar en algo o alguien.",
+      "La última vocal del futuro lleva tilde y es fuerte: «parlerò», «partirà»; no te comas el acento al pronunciar."
+    ]
+  },
+  "practica": [
+    "Escribe cinco planes para la próxima semana con el futuro semplice (6 minutos).",
+    "Di en voz alta tres frases con «Sto per...» describiendo lo que harás en cinco minutos (3 minutos).",
+    "Cuéntale a un amigo qué piensas hacer este año con «Penso di... / Spero di...» (5 minutos).",
+    "Repasa los irregulares sarò, avrò, farò, andrò, verrò, potrò, dovrò, vedrò y escribe una frase con cada uno (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b1-u3-l1",
+      "n": 1,
+      "titulo": "El futuro de los verbos regulares",
+      "objetivo": "Formar y usar el futuro semplice con verbos regulares.",
+      "intro": "El futuro termina en -ò, -ai, -à, -emo, -ete, -anno. Truco: en los verbos en -are, la -a- se transforma en -e-: parlare, parlerò.",
+      "palabras": [
+        { "t": "parlerò", "es": "hablaré", "pron": "parleró", "ej": "Domani parlerò con il capo.", "ejes": "Mañana hablaré con el jefe.", "cog": false },
+        { "t": "partirò", "es": "partiré, me iré", "pron": "partiró", "ej": "Partirò per Roma venerdì.", "ejes": "Partiré a Roma el viernes.", "cog": false },
+        { "t": "comprerò", "es": "compraré", "pron": "compreró", "ej": "Comprerò un regalo per Marta.", "ejes": "Compraré un regalo para Marta.", "cog": false },
+        { "t": "chiamerò", "es": "llamaré", "pron": "quiameró", "ej": "Ti chiamerò stasera.", "ejes": "Te llamaré esta noche.", "cog": false },
+        { "t": "arriverò", "es": "llegaré", "pron": "arriveró", "ej": "Arriverò alle otto.", "ejes": "Llegaré a las ocho.", "cog": false },
+        { "t": "mangerò", "es": "comeré", "pron": "manyeró", "ej": "Mangerò fuori con i colleghi.", "ejes": "Comeré fuera con los colegas.", "cog": false },
+        { "t": "pagherò", "es": "pagaré", "pron": "pagueró", "ej": "Pagherò io il conto.", "ejes": "Pagaré yo la cuenta.", "cog": false },
+        { "t": "la settimana prossima", "es": "la próxima semana", "pron": "la settimána próssima", "ej": "La settimana prossima parto per Lima.", "ejes": "La próxima semana viajo a Lima.", "cog": false },
+        { "t": "l'anno prossimo", "es": "el próximo año", "pron": "lánno próssimo", "ej": "L'anno prossimo comprerò una macchina nuova.", "ejes": "El próximo año compraré un auto nuevo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Domani parlerò con il capo.", "es": "Mañana hablaré con el jefe.", "pron": "dománi parleró con il cápo" },
+        { "t": "Partirò per Roma la settimana prossima.", "es": "Viajaré a Roma la próxima semana.", "pron": "partiró per róma la settimána próssima" },
+        { "t": "Ti chiamerò stasera.", "es": "Te llamaré esta noche.", "pron": "ti quiameró stasséra" },
+        { "t": "Pagherò io il conto.", "es": "Pagaré yo la cuenta.", "pron": "pagueró ío il cónto" },
+        { "t": "L'anno prossimo comprerò una macchina nuova.", "es": "El próximo año compraré un auto nuevo.", "pron": "lánno próssimo compreró úna máquina nuóva" }
+      ],
+      "dialogo": {
+        "titulo": "Un viaggio in programma",
+        "lineas": [
+          { "q": "A", "t": "Quando partirai per l'Italia?", "es": "¿Cuándo partirás a Italia?" },
+          { "q": "B", "t": "Partirò la settimana prossima.", "es": "Partiré la próxima semana." },
+          { "q": "A", "t": "Quando arriverai?", "es": "¿Cuándo llegarás?" },
+          { "q": "B", "t": "Arriverò a Roma venerdì mattina.", "es": "Llegaré a Roma el viernes por la mañana." },
+          { "q": "A", "t": "Mi chiamerai?", "es": "¿Me llamarás?" },
+          { "q": "B", "t": "Certo, ti chiamerò appena arrivo.", "es": "Claro, te llamaré apenas llegue." }
+        ]
+      },
+      "nota": "Con «appena» (apenas, en cuanto) el italiano suele usar el futuro: «Appena arriverò, ti chiamerò». En la conversación también se oye el presente: «Appena arrivo, ti chiamo»."
+    },
+    {
+      "id": "it-b1-u3-l2",
+      "n": 2,
+      "titulo": "Futuros irregulares",
+      "objetivo": "Usar los futuros irregulares más frecuentes.",
+      "intro": "Algunos verbos pierden una vocal o cambian la raíz, pero las terminaciones son las mismas. Truco: la raíz se acorta antes de la r: avr-, andr-, potr-, dovr-, vedr- (y verr-, vorr- con doble r).",
+      "palabras": [
+        { "t": "sarò", "es": "seré / estaré", "pron": "saró", "ej": "Domani sarò in ufficio tutto il giorno.", "ejes": "Mañana estaré en la oficina todo el día.", "cog": false },
+        { "t": "avrò", "es": "tendré", "pron": "avró", "ej": "Sabato avrò più tempo.", "ejes": "El sábado tendré más tiempo.", "cog": false },
+        { "t": "farò", "es": "haré", "pron": "faró", "ej": "Farò una torta per il tuo compleanno.", "ejes": "Haré un pastel para tu cumpleaños.", "cog": false },
+        { "t": "andrò", "es": "iré", "pron": "andró", "ej": "Andrò al mare con la famiglia.", "ejes": "Iré a la playa con la familia.", "cog": false },
+        { "t": "verrò", "es": "vendré", "pron": "verró", "ej": "Verrò alla tua festa.", "ejes": "Iré a tu fiesta.", "cog": false },
+        { "t": "potrò", "es": "podré", "pron": "potró", "ej": "Non potrò venire alla riunione.", "ejes": "No podré ir a la reunión.", "cog": false },
+        { "t": "dovrò", "es": "tendré que", "pron": "dovró", "ej": "Dovrò studiare molto per l'esame.", "ejes": "Tendré que estudiar mucho para el examen.", "cog": false },
+        { "t": "vedrò", "es": "veré", "pron": "vedró", "ej": "Vedrò Anna domani.", "ejes": "Veré a Anna mañana.", "cog": false },
+        { "t": "vorrò", "es": "querré", "pron": "vorró", "ej": "Un giorno vorrò vivere in Italia.", "ejes": "Algún día querré vivir en Italia.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Domani sarò in ufficio tutto il giorno.", "es": "Mañana estaré en la oficina todo el día.", "pron": "dománi saró in uffícho tútto il yórno" },
+        { "t": "Sabato avrò più tempo.", "es": "El sábado tendré más tiempo.", "pron": "sábato avró piú témpo" },
+        { "t": "Andrò al mare con la famiglia.", "es": "Iré a la playa con la familia.", "pron": "andró al máre con la famíllya" },
+        { "t": "Non potrò venire alla riunione.", "es": "No podré ir a la reunión.", "pron": "non potró venire alla riunióne" },
+        { "t": "Dovrò studiare molto per l'esame.", "es": "Tendré que estudiar mucho para el examen.", "pron": "dovró studiáre mólto per lesáme" }
+      ],
+      "dialogo": {
+        "titulo": "Una festa sabato",
+        "lineas": [
+          { "q": "A", "t": "Vieni alla festa sabato?", "es": "¿Vienes a la fiesta el sábado?" },
+          { "q": "B", "t": "Verrò volentieri, ma non potrò restare tanto.", "es": "Iré con gusto, pero no podré quedarme mucho." },
+          { "q": "A", "t": "Perché?", "es": "¿Por qué?" },
+          { "q": "B", "t": "Domenica dovrò alzarmi presto.", "es": "El domingo tendré que levantarme temprano." },
+          { "q": "A", "t": "Che cosa farai?", "es": "¿Qué harás?" },
+          { "q": "B", "t": "Andrò a Cusco con i miei.", "es": "Iré a Cusco con mis papás." }
+        ]
+      },
+      "nota": "Los irregulares más útiles: essere sarò, avere avrò, fare farò, andare andrò, venire verrò, potere potrò, dovere dovrò, vedere vedrò, volere vorrò, sapere saprò."
+    },
+    {
+      "id": "it-b1-u3-l3",
+      "n": 3,
+      "titulo": "El presente que habla del futuro",
+      "objetivo": "Hablar de planes cercanos con el presente y con «stare per».",
+      "intro": "En italiano hablado se dice «Domani parto» (mañana parto) en vez de «Domani partirò». Truco: «sto per» + infinitivo significa que algo va a pasar en segundos o minutos.",
+      "palabras": [
+        { "t": "sto per", "es": "estoy a punto de", "pron": "sto per", "ej": "Sto per uscire, ti richiamo dopo.", "ejes": "Estoy por salir, te llamo después.", "cog": false },
+        { "t": "sta per", "es": "está a punto de", "pron": "sta per", "ej": "Il film sta per cominciare.", "ejes": "La película está por empezar.", "cog": false },
+        { "t": "stiamo per", "es": "estamos a punto de", "pron": "stiámo per", "ej": "Stiamo per partire.", "ejes": "Estamos por partir.", "cog": false },
+        { "t": "tra poco", "es": "en un rato, dentro de poco", "pron": "tra póco", "ej": "Arrivo tra poco.", "ejes": "Llego en un rato.", "cog": false },
+        { "t": "fra un'ora", "es": "dentro de una hora", "pron": "fra unóra", "ej": "Fra un'ora siamo a casa.", "ejes": "Dentro de una hora estamos en casa.", "cog": false },
+        { "t": "tra un mese", "es": "dentro de un mes", "pron": "tra un mése", "ej": "Tra un mese mi trasferisco a Milano.", "ejes": "Dentro de un mes me mudo a Milán.", "cog": false },
+        { "t": "appena", "es": "apenas, en cuanto", "pron": "appéna", "ej": "Ti chiamo appena arrivo.", "ejes": "Te llamo apenas llegue.", "cog": false },
+        { "t": "domani mattina", "es": "mañana por la mañana", "pron": "dománi mattína", "ej": "Domani mattina parto per Lima.", "ejes": "Mañana por la mañana viajo a Lima.", "cog": false },
+        { "t": "il fine settimana", "es": "el fin de semana", "pron": "il fíne settimána", "ej": "Il fine settimana vado in montagna.", "ejes": "El fin de semana voy a la montaña.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Sto per uscire, ti richiamo dopo.", "es": "Estoy por salir, te llamo después.", "pron": "sto per ushíre ti richiámo dópo" },
+        { "t": "Il film sta per cominciare.", "es": "La película está por empezar.", "pron": "il film sta per cominchiáre" },
+        { "t": "Domani mattina parto per Lima.", "es": "Mañana por la mañana viajo a Lima.", "pron": "dománi mattína párto per líma" },
+        { "t": "Ti chiamo appena arrivo.", "es": "Te llamo apenas llegue.", "pron": "ti quiámo appéna arrivo" },
+        { "t": "Tra un mese mi trasferisco a Milano.", "es": "Dentro de un mes me mudo a Milán.", "pron": "tra un mése mi trasferísco a miláno" }
+      ],
+      "dialogo": {
+        "titulo": "Al cinema",
+        "lineas": [
+          { "q": "A", "t": "Dove sei? Il film sta per cominciare.", "es": "¿Dónde estás? La película está por empezar." },
+          { "q": "B", "t": "Sto per arrivare, tra cinque minuti sono lì.", "es": "Estoy por llegar, en cinco minutos estoy ahí." },
+          { "q": "A", "t": "Ti aspetto davanti al cinema.", "es": "Te espero frente al cine." },
+          { "q": "B", "t": "Appena parcheggio, corro!", "es": "¡Apenas estacione, corro!" },
+          { "q": "A", "t": "Fai presto!", "es": "¡Apúrate!" }
+        ]
+      },
+      "nota": "«Tra» y «fra» son sinónimos: «tra un'ora» = «fra un'ora». Con ellos se cuenta el tiempo hacia adelante («dentro de»), al contrario de «fa», que cuenta hacia atrás («hace»)."
+    },
+    {
+      "id": "it-b1-u3-l4",
+      "n": 4,
+      "titulo": "Pienso, espero, he decidido",
+      "objetivo": "Expresar intenciones y decisiones con «pensare di» y expresiones parecidas.",
+      "intro": "Todas estas expresiones van seguidas de «di» + infinitivo: penso di partire, spero di trovare. Truco: «pensare di» = planear; «pensare a» = pensar en.",
+      "palabras": [
+        { "t": "penso di", "es": "pienso (hacer algo)", "pron": "pénso di", "ej": "Penso di partire domani mattina.", "ejes": "Pienso partir mañana por la mañana.", "cog": false },
+        { "t": "ho intenzione di", "es": "tengo la intención de", "pron": "o intentsióne di", "ej": "Ho intenzione di cambiare lavoro.", "ejes": "Tengo la intención de cambiar de trabajo.", "cog": false },
+        { "t": "ho deciso di", "es": "decidí", "pron": "o dechíso di", "ej": "Ho deciso di studiare architettura.", "ejes": "Decidí estudiar arquitectura.", "cog": false },
+        { "t": "spero di", "es": "espero (poder)", "pron": "spéro di", "ej": "Spero di trovare un appartamento presto.", "ejes": "Espero encontrar un departamento pronto.", "cog": false },
+        { "t": "il progetto", "es": "el proyecto, el plan", "pron": "il proyétto", "ej": "Il progetto è molto interessante.", "ejes": "El proyecto es muy interesante.", "cog": true },
+        { "t": "il piano", "es": "el plan", "pron": "il piáno", "ej": "Il piano è semplice.", "ejes": "El plan es sencillo.", "cog": true },
+        { "t": "forse", "es": "quizás", "pron": "fórse", "ej": "Forse andremo al mare.", "ejes": "Quizás iremos a la playa.", "cog": false },
+        { "t": "probabilmente", "es": "probablemente", "pron": "probabilménte", "ej": "Probabilmente resterò a casa.", "ejes": "Probablemente me quedaré en casa.", "cog": true },
+        { "t": "se tutto va bene", "es": "si todo va bien", "pron": "se túto va béne", "ej": "Se tutto va bene, parto domani.", "ejes": "Si todo va bien, parto mañana.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Penso di partire domani mattina.", "es": "Pienso partir mañana por la mañana.", "pron": "pénso di partíre dománi mattína" },
+        { "t": "Ho intenzione di cambiare lavoro.", "es": "Tengo la intención de cambiar de trabajo.", "pron": "o intentsióne di cambiáre lavóro" },
+        { "t": "Ho deciso di studiare architettura.", "es": "Decidí estudiar arquitectura.", "pron": "o dechíso di studiáre arkitettúra" },
+        { "t": "Spero di trovare un appartamento presto.", "es": "Espero encontrar un departamento pronto.", "pron": "spéro di trováre un appartaménto présto" },
+        { "t": "Forse andremo al mare, se tutto va bene.", "es": "Quizás iremos a la playa, si todo va bien.", "pron": "fórse andrémo al máre se túto va béne" }
+      ],
+      "dialogo": {
+        "titulo": "Piani per l'estate",
+        "lineas": [
+          { "q": "A", "t": "Che cosa pensi di fare quest'estate?", "es": "¿Qué piensas hacer este verano?" },
+          { "q": "B", "t": "Penso di viaggiare in Europa.", "es": "Pienso viajar por Europa." },
+          { "q": "A", "t": "Hai già deciso dove?", "es": "¿Ya decidiste adónde?" },
+          { "q": "B", "t": "Forse andrò in Italia e in Spagna.", "es": "Quizás iré a Italia y a España." },
+          { "q": "A", "t": "Hai un piano preciso?", "es": "¿Tienes un plan preciso?" },
+          { "q": "B", "t": "Non ancora, ma ho intenzione di partire a luglio.", "es": "Todavía no, pero tengo la intención de partir en julio." }
+        ]
+      },
+      "nota": "«Forse» (quizás) se usa con el futuro: «Forse verrò». Compara: «Penso di partire» (planeo yo) y «Penso a te» (pienso en ti)."
+    },
+    {
+      "id": "it-b1-u3-l5",
+      "n": 5,
+      "titulo": "Repaso: mis metas",
+      "objetivo": "Combinar el futuro, «pensare di» y «stare per» para hablar de mis metas.",
+      "intro": "Repasa hablando de lo que quieres lograr. Truco: usa el futuro para lo lejano, el presente para lo cercano y «sto per» para lo inminente.",
+      "palabras": [
+        { "t": "il futuro", "es": "el futuro", "pron": "il futúro", "ej": "Il futuro è incerto.", "ejes": "El futuro es incierto.", "cog": true },
+        { "t": "l'obiettivo", "es": "la meta, el objetivo", "pron": "lobiettívo", "ej": "L'obiettivo è parlare bene italiano.", "ejes": "El objetivo es hablar bien italiano.", "cog": true },
+        { "t": "realizzare", "es": "lograr, hacer realidad", "pron": "realidsáre", "ej": "Voglio realizzare un sogno.", "ejes": "Quiero hacer realidad un sueño.", "cog": true },
+        { "t": "la scelta", "es": "la elección, la decisión", "pron": "la shélta", "ej": "La scelta è stata difficile.", "ejes": "La decisión fue difícil.", "cog": false },
+        { "t": "sceglierò", "es": "elegiré", "pron": "sheliyeró", "ej": "Sceglierò con calma.", "ejes": "Elegiré con calma.", "cog": false },
+        { "t": "mi iscriverò", "es": "me inscribiré", "pron": "mi iscriveró", "ej": "Mi iscriverò a un corso di cucina.", "ejes": "Me inscribiré en un curso de cocina.", "cog": false },
+        { "t": "tra qualche anno", "es": "dentro de unos años", "pron": "tra cuálke ánno", "ej": "Tra qualche anno vivrò in Italia.", "ejes": "Dentro de unos años viviré en Italia.", "cog": false },
+        { "t": "risparmiare", "es": "ahorrar", "pron": "risparmiáre", "ej": "Devo risparmiare per il viaggio.", "ejes": "Debo ahorrar para el viaje.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il mio obiettivo è parlare bene italiano entro l'anno.", "es": "Mi objetivo es hablar bien italiano antes de fin de año.", "pron": "il mío obiettívo e parláre béne italiáno éntro lánno" },
+        { "t": "Mi iscriverò a un corso di cucina a settembre.", "es": "Me inscribiré en un curso de cocina en septiembre.", "pron": "mi iscriveró a un córso di cuchína a settémbre" },
+        { "t": "Tra qualche anno vivrò in Italia.", "es": "Dentro de unos años viviré en Italia.", "pron": "tra cuálke ánno vivró in itália" },
+        { "t": "Devo risparmiare per realizzare il mio sogno.", "es": "Debo ahorrar para hacer realidad mi sueño.", "pron": "dévo risparmiáre per realidsáre il mío sóño" },
+        { "t": "Sceglierò con calma, ma deciderò presto.", "es": "Elegiré con calma, pero decidiré pronto.", "pron": "sheliyeró con cálma ma dechideró présto" }
+      ],
+      "dialogo": {
+        "titulo": "Tra qualche anno",
+        "lineas": [
+          { "q": "A", "t": "Come ti vedi tra qualche anno?", "es": "¿Cómo te ves dentro de unos años?" },
+          { "q": "B", "t": "Penso di vivere in Italia.", "es": "Pienso vivir en Italia." },
+          { "q": "A", "t": "E che cosa farai?", "es": "¿Y qué harás?" },
+          { "q": "B", "t": "Spero di lavorare come cuoco.", "es": "Espero trabajar de cocinero." },
+          { "q": "A", "t": "Quindi ti iscriverai a un corso?", "es": "¿Entonces te inscribirás en un curso?" },
+          { "q": "B", "t": "Sì, a settembre. Intanto devo risparmiare.", "es": "Sí, en septiembre. Mientras tanto debo ahorrar." }
+        ]
+      },
+      "nota": "«Realizzare» en italiano es «lograr / concretar» (realizzare un sogno); para «darse cuenta» se dice «rendersi conto». Para «darse cuenta» el italiano estándar usa «rendersi conto»."
+    }
+  ]
+}

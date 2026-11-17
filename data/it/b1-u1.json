@@ -1,0 +1,223 @@
+{
+  "id": "it-b1-u1",
+  "idioma": "it",
+  "nivel": "B1",
+  "n": 1,
+  "titulo": "Contar historias",
+  "resumen": "Aprenderás a contar historias en pasado combinando el imperfetto (el escenario) y el passato prossimo (la acción), con «stavo + gerundio» y conectores narrativos.",
+  "puedo": [
+    "Describir cómo eran las cosas antes con el imperfetto.",
+    "Contar una acción que interrumpe otra con «mentre» y «all'improvviso».",
+    "Decir qué estaba haciendo con «stavo + gerundio».",
+    "Ordenar una historia con «prima, poi, alla fine, siccome, quindi».",
+    "Contar una anécdota completa en pasado."
+  ],
+  "gramatica": {
+    "titulo": "Imperfetto y passato prossimo juntos",
+    "texto": "Para contar una historia se usan dos pasados a la vez.\nImperfetto (ero, avevo, pioveva, stavo mangiando): el escenario, lo habitual o lo que estaba en curso.\nPassato prossimo (ho visto, è suonato, sono uscito): la acción puntual que hace avanzar la historia.\nTruco: el imperfetto es el escenario y el passato prossimo es la acción que lo interrumpe: Mentre mangiavo (escenario), è suonato il telefono (acción).\nStavo + gerundio (stavo mangiando) subraya que algo estaba pasando en ese momento.\nImperfetto: se quita -re y se añade -vo, -vi, -va, -vamo, -vate, -vano (parlare: parlavo). Irregulares: essere = ero, eri, era; fare = facevo.",
+    "tabla": [
+      ["mangiavo", "comía / solía comer", "mandyávo"],
+      ["ero", "era / estaba", "éro"],
+      ["stavo mangiando", "estaba comiendo", "stávo mandyándo"],
+      ["mentre + imperfetto", "mientras (escenario)", "méntre"],
+      ["all'improvviso + passato prossimo", "de repente (acción)", "allimprovvíso"],
+      ["c'era", "había (descripción)", "chéra"]
+    ],
+    "errores": [
+      "El imperfetto italiano termina en -vo, -va: se dice «mangiavo», no «mangiabo» ni «mangiaba» (eso es español).",
+      "Para el escenario no uses passato prossimo: «Pioveva e faceva freddo», no «Ha piovuto e ha fatto freddo».",
+      "«Stavo mangiando» no se usa con acciones puntuales: di «ho mangiato la pizza», no «stavo mangiando la pizza» si ya terminó."
+    ]
+  },
+  "practica": [
+    "Cuenta en voz alta, en cinco frases con imperfetto, cómo era tu barrio de niño (4 minutos).",
+    "Escribe una anécdota de cuatro frases usando «mentre» y «all'improvviso» (6 minutos).",
+    "Mira tu rutina de ayer y di cinco veces «Alle ... stavo + gerundio» (4 minutos).",
+    "Cuenta tu mejor anécdota a un amigo en italiano usando «prima, poi, alla fine» (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b1-u1-l1",
+      "n": 1,
+      "titulo": "Cuando ero piccolo",
+      "objetivo": "Describir cómo eran las cosas y qué hacía habitualmente en el pasado.",
+      "intro": "El imperfetto sirve para describir el pasado y lo que se hacía con frecuencia. Truco: piensa en «solía» o «era»: abitavo = vivía, giocavo = jugaba.",
+      "palabras": [
+        { "t": "ero", "es": "era / estaba", "pron": "éro", "ej": "Da bambino ero molto timido.", "ejes": "De niño era muy tímido.", "cog": false },
+        { "t": "avevo", "es": "tenía", "pron": "avévo", "ej": "Avevo un cane nero.", "ejes": "Tenía un perro negro.", "cog": false },
+        { "t": "abitavo", "es": "vivía", "pron": "abitávo", "ej": "Abitavo in campagna.", "ejes": "Vivía en el campo.", "cog": false },
+        { "t": "giocavo", "es": "jugaba", "pron": "yocávo", "ej": "Giocavo a calcio ogni giorno.", "ejes": "Jugaba fútbol todos los días.", "cog": false },
+        { "t": "il cortile", "es": "el patio", "pron": "il cortíle", "ej": "Dietro casa c'era il cortile.", "ejes": "Detrás de la casa estaba el patio.", "cog": false },
+        { "t": "il quartiere", "es": "el barrio", "pron": "il cuartiére", "ej": "Il quartiere era tranquillo.", "ejes": "El barrio era tranquilo.", "cog": false },
+        { "t": "spesso", "es": "a menudo", "pron": "spésso", "ej": "Andavo spesso dai nonni.", "ejes": "Iba a menudo donde mis abuelos.", "cog": false },
+        { "t": "da piccolo", "es": "de niño", "pron": "da píccolo", "ej": "Da piccolo avevo paura del buio.", "ejes": "De niño le tenía miedo a la oscuridad.", "cog": false },
+        { "t": "c'era", "es": "había", "pron": "chéra", "ej": "C'era un grande albero.", "ejes": "Había un árbol grande.", "cog": false, "truco": "C'era = había (una cosa); c'erano = había (varias)." }
+      ],
+      "frases": [
+        { "t": "Da piccolo abitavo in campagna.", "es": "De niño vivía en el campo.", "pron": "da píccolo abitávo in campáña" },
+        { "t": "Quando avevo dieci anni giocavo sempre nel cortile.", "es": "Cuando tenía diez años jugaba siempre en el patio.", "pron": "cuándo avévo diéchi ánni yocávo sémpre nel cortíle" },
+        { "t": "Il quartiere era tranquillo e c'era un parco.", "es": "El barrio era tranquilo y había un parque.", "pron": "il cuartiére éra trancuíllo e chéra un párco" },
+        { "t": "Mia nonna cucinava ogni domenica.", "es": "Mi abuela cocinaba todos los domingos.", "pron": "mía nónna cuchinává óñi doménica" },
+        { "t": "Non mi piaceva la scuola, ma avevo molti amici.", "es": "No me gustaba la escuela, pero tenía muchos amigos.", "pron": "non mi piachéva la scuóla ma avévo mólti amíchi" }
+      ],
+      "dialogo": {
+        "titulo": "Recuerdos de infancia",
+        "lineas": [
+          { "q": "A", "t": "Dove abitavi da piccolo?", "es": "¿Dónde vivías de niño?" },
+          { "q": "B", "t": "Abitavo in un paese vicino ad Arequipa.", "es": "Vivía en un pueblo cerca de Arequipa." },
+          { "q": "A", "t": "Com'era?", "es": "¿Cómo era?" },
+          { "q": "B", "t": "Era piccolo e tranquillo, e c'era un grande cortile.", "es": "Era pequeño y tranquilo, y había un patio grande." },
+          { "q": "A", "t": "Che cosa facevi di solito?", "es": "¿Qué hacías normalmente?" },
+          { "q": "B", "t": "Giocavo a calcio con i miei amici fino a sera.", "es": "Jugaba fútbol con mis amigos hasta la noche." }
+        ]
+      },
+      "nota": "El imperfetto de «essere» es irregular: ero, eri, era, eravamo, eravate, erano. Con «c'era» se describe el escenario: «C'era una volta...» es el inicio clásico de los cuentos."
+    },
+    {
+      "id": "it-b1-u1-l2",
+      "n": 2,
+      "titulo": "Mentre... all'improvviso",
+      "objetivo": "Contar una acción puntual que interrumpe otra en curso.",
+      "intro": "La acción que interrumpe va en passato prossimo; el escenario, en imperfetto. Truco: «mentre» abre el escenario y «all'improvviso» trae la sorpresa.",
+      "palabras": [
+        { "t": "mentre", "es": "mientras", "pron": "méntre", "ej": "Mentre cucinavo, ha squillato il telefono.", "ejes": "Mientras cocinaba, sonó el teléfono.", "cog": false },
+        { "t": "all'improvviso", "es": "de repente", "pron": "allimprovvíso", "ej": "All'improvviso è andata via la luce.", "ejes": "De repente se fue la luz.", "cog": false },
+        { "t": "squillare", "es": "sonar (teléfono)", "pron": "scuilláre", "ej": "Il telefono ha cominciato a squillare.", "ejes": "El teléfono empezó a sonar.", "cog": false },
+        { "t": "è caduto", "es": "se cayó", "pron": "e cadúto", "ej": "Il bicchiere è caduto dal tavolo.", "ejes": "El vaso se cayó de la mesa.", "cog": false },
+        { "t": "pioveva", "es": "llovía", "pron": "pióveva", "ej": "Pioveva forte quando sono uscito.", "ejes": "Llovía fuerte cuando salí.", "cog": false },
+        { "t": "l'incidente", "es": "el accidente", "pron": "linchidénte", "ej": "L'incidente è successo ieri.", "ejes": "El accidente ocurrió ayer.", "cog": true },
+        { "t": "è successo", "es": "pasó, ocurrió", "pron": "e sutchésso", "ej": "Che cosa è successo?", "ejes": "¿Qué pasó?", "cog": false },
+        { "t": "mi sono addormentato", "es": "me quedé dormido", "pron": "mi sóno addormentáto", "ej": "Mi sono addormentato sul divano.", "ejes": "Me quedé dormido en el sofá.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Mentre dormivo, il telefono ha squillato.", "es": "Mientras dormía, sonó el teléfono.", "pron": "méntre dormívo il telefóno a scuillato" },
+        { "t": "Pioveva quando sono uscito di casa.", "es": "Llovía cuando salí de casa.", "pron": "pióveva cuándo sóno ushíto di cása" },
+        { "t": "Mentre guidavo, ho visto un incidente.", "es": "Mientras manejaba, vi un accidente.", "pron": "méntre guidávo o vísto un inchidénte" },
+        { "t": "All'improvviso è caduto un bicchiere.", "es": "De repente se cayó un vaso.", "pron": "allimprovvíso e cadúto un bicchiére" },
+        { "t": "Che cosa è successo mentre ero via?", "es": "¿Qué pasó mientras yo no estaba?", "pron": "ke cósa e sutchésso méntre éro vía" }
+      ],
+      "dialogo": {
+        "titulo": "Un ritardo",
+        "lineas": [
+          { "q": "A", "t": "Perché sei arrivato tardi?", "es": "¿Por qué llegaste tarde?" },
+          { "q": "B", "t": "Pioveva forte e c'era traffico.", "es": "Llovía fuerte y había tráfico." },
+          { "q": "A", "t": "E poi?", "es": "¿Y luego?" },
+          { "q": "B", "t": "All'improvviso la macchina si è fermata.", "es": "De repente el auto se detuvo." },
+          { "q": "A", "t": "Che brutta giornata!", "es": "¡Qué mal día!" },
+          { "q": "B", "t": "Sì, mentre aspettavo il carro attrezzi, ho chiamato il capo.", "es": "Sí, mientras esperaba la grúa, llamé al jefe." }
+        ]
+      },
+      "nota": "«Mentre» va casi siempre con imperfetto. «Mi sono addormentato» es un verbo reflexivo en passato prossimo y usa «essere»: mi sono, ti sei, si è."
+    },
+    {
+      "id": "it-b1-u1-l3",
+      "n": 3,
+      "titulo": "Stavo facendo...",
+      "objetivo": "Decir qué estaba haciendo en un momento concreto del pasado.",
+      "intro": "«Stavo» + gerundio = estaba + gerundio español. Truco: el gerundio italiano termina en -ando (verbos en -are) y -endo (en -ere / -ire): mangiando, uscendo.",
+      "palabras": [
+        { "t": "stavo", "es": "estaba (haciendo)", "pron": "stávo", "ej": "Stavo leggendo quando sei arrivato.", "ejes": "Estaba leyendo cuando llegaste.", "cog": false },
+        { "t": "stavo mangiando", "es": "estaba comiendo", "pron": "stávo mandyándo", "ej": "Stavo mangiando quando ha suonato il citofono.", "ejes": "Estaba comiendo cuando sonó el portero.", "cog": false },
+        { "t": "stavo guardando", "es": "estaba mirando", "pron": "stávo guardándo", "ej": "Stavo guardando una serie.", "ejes": "Estaba viendo una serie.", "cog": false },
+        { "t": "stavo uscendo", "es": "estaba saliendo", "pron": "stávo ushéndo", "ej": "Stavo uscendo di casa.", "ejes": "Estaba saliendo de casa.", "cog": false },
+        { "t": "stavo parlando", "es": "estaba hablando", "pron": "stávo parlándo", "ej": "Stavo parlando con mia madre.", "ejes": "Estaba hablando con mi mamá.", "cog": false },
+        { "t": "stavo lavorando", "es": "estaba trabajando", "pron": "stávo lavorándo", "ej": "Stavo lavorando al computer.", "ejes": "Estaba trabajando en la computadora.", "cog": false },
+        { "t": "stava dormendo", "es": "estaba durmiendo (él/ella)", "pron": "stáva dorméndo", "ej": "Il bambino stava dormendo.", "ejes": "El niño estaba durmiendo.", "cog": false },
+        { "t": "stavamo studiando", "es": "estábamos estudiando", "pron": "stavámo studiándo", "ej": "Stavamo studiando in biblioteca.", "ejes": "Estábamos estudiando en la biblioteca.", "cog": false },
+        { "t": "il citofono", "es": "el portero eléctrico", "pron": "il chitofóno", "ej": "Ha suonato il citofono.", "ejes": "Sonó el portero eléctrico.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Stavo cenando quando è andata via la luce.", "es": "Estaba cenando cuando se fue la luz.", "pron": "stávo chenándo cuándo e andáta vía la lúche" },
+        { "t": "Che cosa stavi facendo alle otto?", "es": "¿Qué estabas haciendo a las ocho?", "pron": "ke cósa stávi fachéndo alle ótto" },
+        { "t": "Stavo guardando una serie con mia sorella.", "es": "Estaba viendo una serie con mi hermana.", "pron": "stávo guardándo úna série con mía sorélla" },
+        { "t": "Marco stava dormendo quando siamo arrivati.", "es": "Marco estaba durmiendo cuando llegamos.", "pron": "márco stáva dorméndo cuándo siámo arrivati" },
+        { "t": "Stavamo uscendo quando ha cominciato a piovere.", "es": "Estábamos saliendo cuando empezó a llover.", "pron": "stavámo ushéndo cuándo a cominchiáto a pioveré" }
+      ],
+      "dialogo": {
+        "titulo": "Una chiamata persa",
+        "lineas": [
+          { "q": "A", "t": "Ti ho chiamato ieri sera. Perché non hai risposto?", "es": "Te llamé anoche. ¿Por qué no contestaste?" },
+          { "q": "B", "t": "Scusa, stavo facendo la doccia.", "es": "Disculpa, estaba duchándome." },
+          { "q": "A", "t": "Alle nove?", "es": "¿A las nueve?" },
+          { "q": "B", "t": "No, alle nove stavo guardando un film con Lucia.", "es": "No, a las nueve estaba viendo una película con Lucía." },
+          { "q": "A", "t": "Allora non hai sentito il telefono.", "es": "Entonces no oíste el teléfono." },
+          { "q": "B", "t": "Esatto, il cellulare era in cucina.", "es": "Exacto, el celular estaba en la cocina." }
+        ]
+      },
+      "nota": "Gerundios irregulares útiles: fare = facendo, dire = dicendo, bere = bevendo. «Stavo facendo» y «facevo» son parecidos; «stavo + gerundio» insiste en que algo estaba en pleno desarrollo."
+    },
+    {
+      "id": "it-b1-u1-l4",
+      "n": 4,
+      "titulo": "Ordenar la historia",
+      "objetivo": "Usar conectores para contar una historia en orden.",
+      "intro": "Los conectores narrativos hacen que tu historia suene natural. Truco: organiza tu relato en tres pasos: un giorno (inicio), poi (desarrollo), alla fine (final).",
+      "palabras": [
+        { "t": "un giorno", "es": "un día", "pron": "un yórno", "ej": "Un giorno ho trovato un portafoglio per strada.", "ejes": "Un día encontré una billetera en la calle.", "cog": false },
+        { "t": "a un certo punto", "es": "en cierto momento", "pron": "a un chérto púnto", "ej": "A un certo punto la musica si è fermata.", "ejes": "En cierto momento la música se detuvo.", "cog": false },
+        { "t": "intanto", "es": "mientras tanto", "pron": "intánto", "ej": "Io cucinavo e intanto lui apparecchiava.", "ejes": "Yo cocinaba y mientras tanto él ponía la mesa.", "cog": false },
+        { "t": "poi", "es": "luego, después", "pron": "pói", "ej": "Prima ho cenato, poi sono uscito.", "ejes": "Primero cené, luego salí.", "cog": false },
+        { "t": "alla fine", "es": "al final", "pron": "álla fíne", "ej": "Alla fine abbiamo trovato un taxi.", "ejes": "Al final encontramos un taxi.", "cog": false },
+        { "t": "siccome", "es": "como, puesto que", "pron": "siccóme", "ej": "Siccome pioveva, siamo rimasti a casa.", "ejes": "Como llovía, nos quedamos en casa.", "cog": false },
+        { "t": "quindi", "es": "por lo tanto", "pron": "cuíndi", "ej": "Ero stanco, quindi sono andato a letto.", "ejes": "Estaba cansado, así que me fui a dormir.", "cog": false },
+        { "t": "il giorno dopo", "es": "al día siguiente", "pron": "il yórno dópo", "ej": "Il giorno dopo siamo partiti presto.", "ejes": "Al día siguiente salimos temprano.", "cog": false },
+        { "t": "per fortuna", "es": "por suerte", "pron": "per fortúna", "ej": "Per fortuna nessuno si è fatto male.", "ejes": "Por suerte nadie se lastimó.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Un giorno ho conosciuto una ragazza in treno.", "es": "Un día conocí a una chica en el tren.", "pron": "un yórno o conoshúto úna ragátsa in tréno" },
+        { "t": "Siccome ero stanco, sono andato a letto presto.", "es": "Como estaba cansado, me fui a dormir temprano.", "pron": "siccóme éro stánco sóno andáto a létto présto" },
+        { "t": "Prima ho fatto la spesa, poi ho cucinato.", "es": "Primero hice las compras, luego cociné.", "pron": "príma o fátto la spésa pói o cuchináto" },
+        { "t": "Alla fine abbiamo trovato la strada giusta.", "es": "Al final encontramos el camino correcto.", "pron": "álla fíne abbiámo trováto la stráda yústa" },
+        { "t": "Per fortuna nessuno si è fatto male.", "es": "Por suerte nadie se lastimó.", "pron": "per fortúna nessúno si e fátto mále" }
+      ],
+      "dialogo": {
+        "titulo": "Com'è andata la gita?",
+        "lineas": [
+          { "q": "A", "t": "Allora, com'è andata la gita?", "es": "Entonces, ¿cómo te fue en la excursión?" },
+          { "q": "B", "t": "Prima abbiamo visitato il castello, poi abbiamo pranzato in un agriturismo.", "es": "Primero visitamos el castillo, luego almorzamos en una granja turística." },
+          { "q": "A", "t": "E il tempo?", "es": "¿Y el clima?" },
+          { "q": "B", "t": "Siccome pioveva, siamo tornati in treno.", "es": "Como llovía, volvimos en tren." },
+          { "q": "A", "t": "Peccato!", "es": "¡Qué lástima!" },
+          { "q": "B", "t": "Un po', ma alla fine è stata una bella giornata.", "es": "Un poco, pero al final fue un lindo día." }
+        ]
+      },
+      "nota": "«Siccome» va casi siempre al inicio de la frase: «Siccome ero stanco...». Para dar la causa al final se usa «perché»: «Sono andato a letto perché ero stanco»."
+    },
+    {
+      "id": "it-b1-u1-l5",
+      "n": 5,
+      "titulo": "Repaso: una historia completa",
+      "objetivo": "Contar una anécdota completa combinando imperfetto, passato prossimo y conectores.",
+      "intro": "Repasa todo: escenario con imperfetto, acciones con passato prossimo y conectores. Truco: empieza con el escenario («Una sera stavo...») y luego avanza la historia.",
+      "palabras": [
+        { "t": "raccontare", "es": "contar, relatar", "pron": "raccontáre", "ej": "Mi piace raccontare storie.", "ejes": "Me gusta contar historias.", "cog": false },
+        { "t": "ricordare", "es": "recordar", "pron": "ricordáre", "ej": "Non riesco a ricordare il suo nome.", "ejes": "No logro recordar su nombre.", "cog": false },
+        { "t": "mi ricordo", "es": "me acuerdo", "pron": "mi ricórdo", "ej": "Mi ricordo ancora quel giorno.", "ejes": "Todavía me acuerdo de ese día.", "cog": false },
+        { "t": "una sera", "es": "una noche", "pron": "úna séra", "ej": "Una sera stavo tornando a casa.", "ejes": "Una noche estaba volviendo a casa.", "cog": false },
+        { "t": "quel giorno", "es": "aquel día", "pron": "cuel yórno", "ej": "Quel giorno pioveva.", "ejes": "Ese día llovía.", "cog": false },
+        { "t": "mi sono spaventato", "es": "me asusté", "pron": "mi sóno spaventáto", "ej": "Mi sono spaventato molto.", "ejes": "Me asusté mucho.", "cog": false },
+        { "t": "abbiamo riso", "es": "nos reímos", "pron": "abbiámo ríso", "ej": "Abbiamo riso tutta la sera.", "ejes": "Nos reímos toda la noche.", "cog": false, "truco": "Ridere es irregular: riso." },
+        { "t": "la sorpresa", "es": "la sorpresa", "pron": "la sorprésa", "ej": "La sorpresa è stata bellissima.", "ejes": "La sorpresa fue hermosísima.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Una sera stavo tornando a casa quando ho sentito un rumore.", "es": "Una noche estaba volviendo a casa cuando oí un ruido.", "pron": "úna séra stávo tornándo a cása cuándo o sentíto un rumóre" },
+        { "t": "Mi sono spaventato, ma era solo il gatto.", "es": "Me asusté, pero era solo el gato.", "pron": "mi sóno spaventáto ma éra sólo il gátto" },
+        { "t": "Mi ricordo quel giorno: pioveva e faceva freddo.", "es": "Me acuerdo de ese día: llovía y hacía frío.", "pron": "mi ricórdo cuel yórno pióveva e fachéva fréddo" },
+        { "t": "Abbiamo riso tutta la sera.", "es": "Nos reímos toda la noche.", "pron": "abbiámo ríso tútta la séra" },
+        { "t": "Che bella sorpresa: mi stavano aspettando tutti!", "es": "¡Qué linda sorpresa: todos me estaban esperando!", "pron": "ke bélla sorprésa mi stávano aspettándo tútti" }
+      ],
+      "dialogo": {
+        "titulo": "La storia più divertente",
+        "lineas": [
+          { "q": "A", "t": "Mi racconti la tua storia più divertente?", "es": "¿Me cuentas tu historia más divertida?" },
+          { "q": "B", "t": "Una sera stavo tornando a casa quando ho sentito un rumore.", "es": "Una noche estaba volviendo a casa cuando oí un ruido." },
+          { "q": "A", "t": "E poi?", "es": "¿Y luego?" },
+          { "q": "B", "t": "Mi sono spaventato, ma era solo il gatto del vicino.", "es": "Me asusté, pero era solo el gato del vecino." },
+          { "q": "A", "t": "Che sollievo!", "es": "¡Qué alivio!" },
+          { "q": "B", "t": "Sì, e alla fine abbiamo riso tutta la sera.", "es": "Sí, y al final nos reímos toda la noche." }
+        ]
+      },
+      "nota": "Para pedir que te cuenten algo: «Raccontami...» (cuéntame). Para reaccionar a una historia: «Davvero?», «E poi?», «Che storia!»."
+    }
+  ]
+}

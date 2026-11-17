@@ -1,0 +1,215 @@
+{
+  "id": "it-b1-u8",
+  "idioma": "it",
+  "nivel": "B1",
+  "n": 8,
+  "titulo": "Opiniones y acuerdos",
+  "resumen": "Aprenderás a dar tu opinión con «penso che» + congiuntivo, y a decir si estás de acuerdo o no.",
+  "puedo": [
+    "Dar mi opinión con «penso che», «credo che» y «secondo me».",
+    "Usar el congiuntivo presente de essere, avere, andare y fare tras «penso che».",
+    "Decir que estoy de acuerdo o en desacuerdo.",
+    "Pedir confirmación con «non è vero?» y «vero?».",
+    "Matizar una opinión con «forse», «dipende» y «però»."
+  ],
+  "gramatica": {
+    "titulo": "Penso che + congiuntivo presente",
+    "texto": "Cuando das una opinión con «penso che» o «credo che», el verbo que sigue no va en presente normal sino en congiuntivo (subjuntivo), como en español «pienso que sea...». Es una forma especial que marca opinión o duda.\nLos cuatro más útiles son irregulares: essere → sia, avere → abbia, andare → vada, fare → faccia.\nPenso che sia una buona idea. Credo che abbia ragione.\nLos verbos en -are cambian la -a final por -i: parlare → parli (Penso che parli bene). Los verbos en -ere/-ire usan -a: scrivere → scriva, partire → parta.\nCon «secondo me» y «per me» NO se usa congiuntivo: Secondo me è giusto.\nLas formas io, tu y lui/lei son iguales: che sia, che abbia, che vada.",
+    "tabla": [
+      ["penso che sia", "pienso que es", "pénso ke sía"],
+      ["credo che abbia", "creo que tiene", "crédo ke ábbia"],
+      ["penso che vada", "pienso que va", "pénso ke vája"],
+      ["credo che faccia", "creo que hace", "crédo ke fáccha"],
+      ["penso che parli", "pienso que habla", "pénso ke párli"],
+      ["secondo me è...", "en mi opinión es... (sin congiuntivo)", "secóndo me é"]
+    ],
+    "errores": [
+      "No digas «penso che è giusto»: tras «penso che» va congiuntivo, «penso che sia giusto».",
+      "«Secondo me» no lleva congiuntivo: «secondo me è giusto», no «secondo me sia giusto».",
+      "No traduzcas «estoy de acuerdo» con essere + «in accordo»: se dice «sono d'accordo»."
+    ]
+  },
+  "practica": [
+    "Escribe cinco opiniones sobre tu ciudad con «Penso che sia...» o «Credo che abbia...» (6 minutos).",
+    "Lee en voz alta diez veces «Sono d'accordo» y «Non sono d'accordo» con distinta entonación (3 minutos).",
+    "Elige un tema (el fútbol, el trabajo remoto) y di en voz alta tres opiniones con «secondo me» y tres con «penso che» (5 minutos).",
+    "Pide a un amigo su opinión y responde en italiano con «Hai ragione» o «Non sono d'accordo, perché...» (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b1-u8-l1",
+      "n": 1,
+      "titulo": "¿Qué piensas?",
+      "objetivo": "Dar mi opinión con las fórmulas básicas.",
+      "intro": "En italiano hay varias maneras de decir «pienso que». Truco: «secondo me» (según yo) es la más fácil porque no cambia el verbo.",
+      "palabras": [
+        { "t": "l'opinione", "es": "la opinión", "pron": "lopinióne", "ej": "L'opinione di Anna è importante.", "ejes": "La opinión de Ana es importante.", "cog": true },
+        { "t": "secondo me", "es": "en mi opinión", "pron": "secóndo me", "ej": "Secondo me il film è lungo.", "ejes": "En mi opinión la película es larga.", "cog": false },
+        { "t": "per me", "es": "para mí", "pron": "per me", "ej": "Per me è molto importante.", "ejes": "Para mí es muy importante.", "cog": false },
+        { "t": "penso che", "es": "pienso que", "pron": "pénso ke", "ej": "Penso che sia vero.", "ejes": "Pienso que es verdad.", "cog": false },
+        { "t": "credo che", "es": "creo que", "pron": "crédo ke", "ej": "Credo che sia tardi.", "ejes": "Creo que es tarde.", "cog": false },
+        { "t": "mi sembra che", "es": "me parece que", "pron": "mi sémbra ke", "ej": "Mi sembra che sia difficile.", "ejes": "Me parece que es difícil.", "cog": false },
+        { "t": "a mio parere", "es": "a mi parecer", "pron": "a mío paréere", "ej": "A mio parere hai ragione.", "ejes": "A mi parecer tienes razón.", "cog": false },
+        { "t": "l'idea", "es": "la idea", "pron": "lidéa", "ej": "L'idea è molto buona.", "ejes": "La idea es muy buena.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Secondo me è una buona idea.", "es": "En mi opinión es una buena idea.", "pron": "secóndo me é úna buóna idéa" },
+        { "t": "Penso che sia vero.", "es": "Pienso que es verdad.", "pron": "pénso ke sía véro" },
+        { "t": "Credo che sia tardi.", "es": "Creo que es tarde.", "pron": "crédo ke sía tárdi" },
+        { "t": "Mi sembra che sia troppo caro.", "es": "Me parece que es demasiado caro.", "pron": "mi sémbra ke sía tróppo káro" },
+        { "t": "Per me è molto importante.", "es": "Para mí es muy importante.", "pron": "per me é molto importánte" }
+      ],
+      "dialogo": {
+        "titulo": "Una decisión en la oficina",
+        "lineas": [
+          { "q": "A", "t": "Allora, qual è la tua opinione?", "es": "Entonces, ¿cuál es tu opinión?" },
+          { "q": "B", "t": "Secondo me è una buona idea.", "es": "En mi opinión es una buena idea." },
+          { "q": "A", "t": "Davvero? Mi sembra che sia troppo caro.", "es": "¿De verdad? Me parece que es demasiado caro." },
+          { "q": "B", "t": "Penso che sia un buon prezzo per la qualità.", "es": "Pienso que es un buen precio por la calidad." },
+          { "q": "A", "t": "Hmm, ci devo pensare.", "es": "Hmm, tengo que pensarlo." }
+        ]
+      },
+      "nota": "«Secondo me» y «per me» van con el presente normal: «secondo me è giusto». «Penso che», «credo che» y «mi sembra che» piden congiuntivo: «che sia». En esta lección solo verás «sia»; los demás vienen después."
+    },
+    {
+      "id": "it-b1-u8-l2",
+      "n": 2,
+      "titulo": "Estoy de acuerdo",
+      "objetivo": "Decir si estoy de acuerdo o no y reaccionar a una opinión.",
+      "intro": "Para reaccionar usa frases cortas y naturales. Truco: «Hai ragione» (tienes razón) usa avere, no essere: ¡igual que en español «tener razón»!",
+      "palabras": [
+        { "t": "sono d'accordo", "es": "estoy de acuerdo", "pron": "sóno dacórdo", "ej": "Sono d'accordo con te.", "ejes": "Estoy de acuerdo contigo.", "cog": false },
+        { "t": "non sono d'accordo", "es": "no estoy de acuerdo", "pron": "non sóno dacórdo", "ej": "Non sono d'accordo con lui.", "ejes": "No estoy de acuerdo con él.", "cog": false },
+        { "t": "hai ragione", "es": "tienes razón", "pron": "ái radyóne", "ej": "Hai ragione, scusa.", "ejes": "Tienes razón, disculpa.", "cog": false },
+        { "t": "hai torto", "es": "estás equivocado", "pron": "ái tórto", "ej": "Secondo me hai torto.", "ejes": "En mi opinión estás equivocado.", "cog": false },
+        { "t": "esatto", "es": "exacto", "pron": "esátto", "ej": "Esatto, è proprio così.", "ejes": "Exacto, es justo así.", "cog": true },
+        { "t": "giusto", "es": "correcto / justo", "pron": "yústo", "ej": "È giusto così.", "ejes": "Está bien así.", "cog": true },
+        { "t": "è vero", "es": "es verdad", "pron": "é véro", "ej": "È vero, hai ragione.", "ejes": "Es verdad, tienes razón.", "cog": false },
+        { "t": "assolutamente", "es": "absolutamente", "pron": "assolutaménte", "ej": "Assolutamente sì!", "ejes": "¡Absolutamente sí!", "cog": true }
+      ],
+      "frases": [
+        { "t": "Sono d'accordo con te.", "es": "Estoy de acuerdo contigo.", "pron": "sóno dacórdo con te" },
+        { "t": "Non sono d'accordo.", "es": "No estoy de acuerdo.", "pron": "non sóno dacórdo" },
+        { "t": "Hai ragione, scusa.", "es": "Tienes razón, disculpa.", "pron": "ái radyóne, scúsa" },
+        { "t": "Esatto, è proprio così!", "es": "¡Exacto, es justo así!", "pron": "esátto, é própio cosí" },
+        { "t": "Non è vero, non sono stato io.", "es": "No es verdad, no fui yo.", "pron": "non é véro, non sóno státo ío" }
+      ],
+      "dialogo": {
+        "titulo": "Sobre el trabajo remoto",
+        "lineas": [
+          { "q": "A", "t": "Secondo me lavorare da casa è meglio.", "es": "En mi opinión trabajar desde casa es mejor." },
+          { "q": "B", "t": "Sono d'accordo, si risparmia tempo.", "es": "Estoy de acuerdo, se ahorra tiempo." },
+          { "q": "A", "t": "Ma Marco non è d'accordo.", "es": "Pero Marco no está de acuerdo." },
+          { "q": "B", "t": "Ha ragione lui? Non lo so.", "es": "¿Tiene razón él? No lo sé." },
+          { "q": "A", "t": "Esatto, dipende dalla persona.", "es": "Exacto, depende de la persona." }
+        ]
+      },
+      "nota": "«Essere d'accordo» se conjuga: sono, sei, è d'accordo. No existe «essere in accordo». Para «tener razón» se usa avere: ho ragione, hai ragione, ha ragione. «Avere torto» es lo contrario."
+    },
+    {
+      "id": "it-b1-u8-l3",
+      "n": 3,
+      "titulo": "El congiuntivo: sia, abbia, vada, faccia",
+      "objetivo": "Usar los cuatro congiuntivi más comunes tras «penso che».",
+      "intro": "Aprende estas cuatro formas de memoria: son las más usadas. Truco: sia, abbia, vada, faccia suenan casi como en español «sea, haya, vaya, haga».",
+      "palabras": [
+        { "t": "sia", "es": "sea / es (subjuntivo)", "pron": "sía", "ej": "Penso che sia giusto.", "ejes": "Pienso que es justo.", "cog": true, "truco": "Parecido a «sea» en español." },
+        { "t": "abbia", "es": "tenga / tiene (subjuntivo)", "pron": "ábbia", "ej": "Credo che abbia fame.", "ejes": "Creo que tiene hambre.", "cog": false, "truco": "Viene de avere, como «haya»." },
+        { "t": "vada", "es": "vaya / va (subjuntivo)", "pron": "váda", "ej": "Penso che vada a casa.", "ejes": "Pienso que va a casa.", "cog": true, "truco": "Parecido a «vaya»." },
+        { "t": "faccia", "es": "haga / hace (subjuntivo)", "pron": "fáccha", "ej": "Credo che faccia un errore.", "ejes": "Creo que comete un error.", "cog": false },
+        { "t": "venga", "es": "venga / viene (subjuntivo)", "pron": "vénga", "ej": "Penso che venga domani.", "ejes": "Pienso que viene mañana.", "cog": true },
+        { "t": "parli", "es": "hable / habla (subjuntivo)", "pron": "párli", "ej": "Credo che parli inglese.", "ejes": "Creo que habla inglés.", "cog": false },
+        { "t": "capisca", "es": "entienda / entiende (subjuntivo)", "pron": "capíska", "ej": "Non penso che capisca.", "ejes": "No pienso que entienda.", "cog": false },
+        { "t": "il problema", "es": "el problema", "pron": "il probléma", "ej": "Il problema è il prezzo.", "ejes": "El problema es el precio.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Penso che abbia ragione.", "es": "Pienso que tiene razón.", "pron": "pénso ke ábbia radyóne" },
+        { "t": "Credo che vada in ufficio.", "es": "Creo que va a la oficina.", "pron": "crédo ke váda in ufíccho" },
+        { "t": "Penso che faccia un buon lavoro.", "es": "Pienso que hace un buen trabajo.", "pron": "pénso ke fáccha un buón lavóro" },
+        { "t": "Credo che Anna venga domani.", "es": "Creo que Ana viene mañana.", "pron": "crédo ke ánna vénga dománi" },
+        { "t": "Non penso che capisca il problema.", "es": "No pienso que entienda el problema.", "pron": "non pénso ke capíska il probléma" }
+      ],
+      "dialogo": {
+        "titulo": "Hablando del jefe",
+        "lineas": [
+          { "q": "A", "t": "Penso che il capo abbia ragione.", "es": "Pienso que el jefe tiene razón." },
+          { "q": "B", "t": "Davvero? Io credo che faccia un errore.", "es": "¿De verdad? Yo creo que comete un error." },
+          { "q": "A", "t": "Perché?", "es": "¿Por qué?" },
+          { "q": "B", "t": "Non penso che capisca il problema.", "es": "No pienso que entienda el problema." },
+          { "q": "A", "t": "Forse sì, forse no.", "es": "Quizás sí, quizás no." }
+        ]
+      },
+      "nota": "El congiuntivo también aparece con «non penso che» (no pienso que): «non penso che sia vero». Las formas de io, tu y lui/lei son iguales, así que «che sia» sirve para todos."
+    },
+    {
+      "id": "it-b1-u8-l4",
+      "n": 4,
+      "titulo": "Matizar y pedir confirmación",
+      "objetivo": "Suavizar una opinión y pedir que me den la razón.",
+      "intro": "Una buena conversación no es blanco o negro. Truco: «non è vero?» al final de una frase equivale a «¿no es cierto?» y también se acorta a «vero?».",
+      "palabras": [
+        { "t": "forse", "es": "quizás", "pron": "fórse", "ej": "Forse hai ragione.", "ejes": "Quizás tienes razón.", "cog": false },
+        { "t": "dipende", "es": "depende", "pron": "dipénde", "ej": "Dipende dal prezzo.", "ejes": "Depende del precio.", "cog": true },
+        { "t": "però", "es": "pero", "pron": "però", "ej": "Mi piace, però è caro.", "ejes": "Me gusta, pero es caro.", "cog": false },
+        { "t": "invece", "es": "en cambio", "pron": "invéche", "ej": "Io invece preferisco il mare.", "ejes": "Yo en cambio prefiero el mar.", "cog": false },
+        { "t": "in parte", "es": "en parte", "pron": "in párte", "ej": "Sono d'accordo solo in parte.", "ejes": "Estoy de acuerdo solo en parte.", "cog": true },
+        { "t": "non è vero?", "es": "¿no es cierto?", "pron": "non é véro", "ej": "È bello, non è vero?", "ejes": "Es hermoso, ¿no es cierto?", "cog": false },
+        { "t": "vero?", "es": "¿verdad?", "pron": "véro", "ej": "Domani partiamo, vero?", "ejes": "Mañana partimos, ¿verdad?", "cog": false },
+        { "t": "probabilmente", "es": "probablemente", "pron": "probabilménte", "ej": "Probabilmente è vero.", "ejes": "Probablemente es verdad.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Dipende, non lo so.", "es": "Depende, no lo sé.", "pron": "dipénde, non lo só" },
+        { "t": "Sono d'accordo solo in parte.", "es": "Estoy de acuerdo solo en parte.", "pron": "sóno dacórdo sólo in párte" },
+        { "t": "È una bella città, non è vero?", "es": "Es una linda ciudad, ¿no es cierto?", "pron": "é úna bélla chittá, non é véro" },
+        { "t": "Mi piace, però è molto caro.", "es": "Me gusta, pero es muy caro.", "pron": "mi piáche, però é mólto káro" },
+        { "t": "Penso che sia probabilmente vero.", "es": "Pienso que es probablemente verdad.", "pron": "pénso ke sía probabilménte véro" }
+      ],
+      "dialogo": {
+        "titulo": "Escoger vacaciones",
+        "lineas": [
+          { "q": "A", "t": "Andiamo al mare, vero?", "es": "Vamos a la playa, ¿verdad?" },
+          { "q": "B", "t": "Forse. Io invece preferisco la montagna.", "es": "Quizás. Yo en cambio prefiero la montaña." },
+          { "q": "A", "t": "Però il mare è più rilassante, non è vero?", "es": "Pero la playa es más relajante, ¿no es cierto?" },
+          { "q": "B", "t": "In parte sì, dipende dal periodo.", "es": "En parte sí, depende de la época." },
+          { "q": "A", "t": "Allora decidiamo domani.", "es": "Entonces decidimos mañana." }
+        ]
+      },
+      "nota": "«Vero?» se dice al final y sube la voz, como «¿no?» o «¿verdad?» en español. «Invece» no significa «en vez»: es «en cambio» para contrastar dos personas."
+    },
+    {
+      "id": "it-b1-u8-l5",
+      "n": 5,
+      "titulo": "Repaso: un pequeño debate",
+      "objetivo": "Mantener un debate corto combinando opinión, acuerdo y congiuntivo.",
+      "intro": "Junta todo lo que has aprendido: opinión, congiuntivo, acuerdo y matiz. Truco: antes de hablar elige la fórmula: «secondo me + presente» o «penso che + congiuntivo».",
+      "palabras": [
+        { "t": "il dibattito", "es": "el debate", "pron": "il dibattíto", "ej": "Il dibattito è interessante.", "ejes": "El debate es interesante.", "cog": false },
+        { "t": "il motivo", "es": "el motivo", "pron": "il motívo", "ej": "Qual è il motivo?", "ejes": "¿Cuál es el motivo?", "cog": true },
+        { "t": "avere ragione", "es": "tener razón", "pron": "avére radyóne", "ej": "Vuoi sempre avere ragione.", "ejes": "Siempre quieres tener razón.", "cog": false },
+        { "t": "convincere", "es": "convencer", "pron": "convínchere", "ej": "Non riesci a convincere nessuno.", "ejes": "No logras convencer a nadie.", "cog": true },
+        { "t": "sicuramente", "es": "seguramente", "pron": "sicuraménte", "ej": "Sicuramente hai ragione.", "ejes": "Seguramente tienes razón.", "cog": false },
+        { "t": "ascoltare", "es": "escuchar", "pron": "ascoltáre", "ej": "Bisogna ascoltare gli altri.", "ejes": "Hay que escuchar a los demás.", "cog": false },
+        { "t": "sbagliare", "es": "equivocarse", "pron": "sbagliáre", "ej": "Tutti possono sbagliare.", "ejes": "Todos pueden equivocarse.", "cog": false },
+        { "t": "il punto di vista", "es": "el punto de vista", "pron": "il púnto di vísta", "ej": "Capisco il punto di vista di Anna.", "ejes": "Entiendo el punto de vista de Ana.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Capisco il tuo punto di vista.", "es": "Entiendo tu punto de vista.", "pron": "capísco il tuo púnto di vísta" },
+        { "t": "Penso che tu abbia ragione.", "es": "Pienso que tienes razón.", "pron": "pénso ke tu ábbia radyóne" },
+        { "t": "Non sono d'accordo, secondo me sbagli.", "es": "No estoy de acuerdo, en mi opinión te equivocas.", "pron": "non sóno dacórdo, secóndo me sbáñi" },
+        { "t": "Credo che sia importante ascoltare.", "es": "Creo que es importante escuchar.", "pron": "crédo ke sía importánte ascoltáre" },
+        { "t": "Va bene, hai convinto tutti.", "es": "Está bien, convenciste a todos.", "pron": "va béne, ái convínto túti" }
+      ],
+      "dialogo": {
+        "titulo": "Debate en familia",
+        "lineas": [
+          { "q": "A", "t": "Penso che sia meglio vivere in città.", "es": "Pienso que es mejor vivir en la ciudad." },
+          { "q": "B", "t": "Non sono d'accordo, per me la campagna è più tranquilla.", "es": "No estoy de acuerdo, para mí el campo es más tranquilo." },
+          { "q": "A", "t": "Hai ragione, però in città c'è più lavoro, non è vero?", "es": "Tienes razón, pero en la ciudad hay más trabajo, ¿no es cierto?" },
+          { "q": "B", "t": "Sì, in parte. Dipende dal lavoro.", "es": "Sí, en parte. Depende del trabajo." },
+          { "q": "A", "t": "Esatto! Capisco il tuo punto di vista.", "es": "¡Exacto! Entiendo tu punto de vista." }
+        ]
+      },
+      "nota": "«Sbagliare» es «equivocarse»: «Tu sbagli» = te equivocas. «Hai convinto» viene de «convincere» (participio irregular: convinto). Por ahora úsalo como frase."
+    }
+  ]
+}

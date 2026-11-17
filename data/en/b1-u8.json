@@ -1,0 +1,217 @@
+{
+  "id": "en-b1-u8",
+  "idioma": "en",
+  "nivel": "B1",
+  "n": 8,
+  "titulo": "Opiniones y acuerdos",
+  "resumen": "Aprenderás a dar tu opinión, mostrar acuerdo o desacuerdo y pedir confirmación con las tag questions (¿verdad?, ¿no?).",
+  "puedo": [
+    "Dar mi opinión con I think, I suppose e in my opinion.",
+    "Mostrar que estoy de acuerdo o en desacuerdo con educación.",
+    "Formar tag questions con verbos auxiliares y con do / does / did.",
+    "Usar la entonación correcta para preguntar o para confirmar.",
+    "Defender una idea y aceptar otra con un compromiso."
+  ],
+  "gramatica": {
+    "titulo": "Tag questions: la pregunta corta al final",
+    "texto": "Una tag question es una preguntita al final de una frase para pedir confirmación, como nuestro «¿verdad?» o «¿no?». Regla de oro: si la frase es positiva, la pregunta es negativa; si la frase es negativa, la pregunta es positiva.\nLa pregunta repite el verbo auxiliar de la frase: You are tired, aren't you? She can swim, can't she? They have left, haven't they? Si no hay auxiliar (presente o pasado simple), usa do, does o did: You like jazz, don't you? He called, didn't he?\nLa pregunta lleva pronombre (he, she, they, it), nunca un nombre. Con I am la pregunta es aren't I?\nEntonación: si la voz sube al final, es una pregunta de verdad. Si la voz baja, solo pides que te den la razón.",
+    "tabla": [
+      ["You are tired, aren't you?", "Estás cansado, ¿verdad?", "iu ar táierd, árnt iu"],
+      ["She isn't here, is she?", "Ella no está aquí, ¿verdad?", "shi ísent jíar, is shi"],
+      ["They can swim, can't they?", "Ellos saben nadar, ¿no?", "dei can suim, cant dei"],
+      ["You like jazz, don't you?", "Te gusta el jazz, ¿no?", "iu laik yaz, dóunt iu"],
+      ["He didn't call, did he?", "Él no llamó, ¿verdad?", "ji dídent col, did ji"],
+      ["I am right, aren't I?", "Tengo razón, ¿no?", "ai am rait, árnt ai"]
+    ],
+    "errores": [
+      "No uses una sola forma para todo como el «¿no?» o «isn't it?»: la pregunta cambia según el verbo. Es You can swim, can't you?, no «You can swim, isn't it?».",
+      "No repitas el nombre: es Maria is late, isn't she?, no «Maria is late, isn't Maria?».",
+      "Con I am la pregunta es aren't I?, no «amn't I»."
+    ]
+  },
+  "practica": [
+    "Escribe 8 opiniones tuyas con I think..., I suppose... o In my opinion... sobre tu ciudad, tu trabajo o tu comida favorita (10 minutos).",
+    "Convierte 10 frases en tag questions (You are..., aren't you?) y léelas en voz alta con la voz subiendo y bajando (8 minutos).",
+    "Escucha una entrevista o un debate en inglés y anota 5 veces que alguien dice I agree o I disagree (10 minutos).",
+    "Habla a solas 2 minutos: da tu opinión sobre un tema y termina cada idea con una tag question (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b1-u8-l1",
+      "n": 1,
+      "titulo": "Dar tu opinión",
+      "objetivo": "Expresar una opinión con I think, I suppose e in my opinion.",
+      "intro": "Para dar tu opinión empieza con una fórmula: I think..., I believe..., In my opinion... Truco: I suppose y I guess suenan más suaves, como «supongo que».",
+      "palabras": [
+        { "t": "opinion", "es": "opinión", "pron": "opínien", "ej": "In my opinion, it is too expensive.", "ejes": "En mi opinión, es muy caro.", "cog": true },
+        { "t": "suppose", "es": "suponer", "pron": "sepóus", "ej": "I suppose you are right.", "ejes": "Supongo que tienes razón.", "cog": false },
+        { "t": "believe", "es": "creer", "pron": "bilív", "ej": "I believe he is honest.", "ejes": "Creo que él es honesto.", "cog": false },
+        { "t": "honestly", "es": "sinceramente", "pron": "ónestli", "ej": "Honestly, I liked the first one.", "ejes": "Sinceramente, me gustó el primero.", "cog": false, "truco": "La «h» de honestly no suena: ónestli." },
+        { "t": "personally", "es": "personalmente", "pron": "pérsonali", "ej": "Personally, I prefer the beach.", "ejes": "Personalmente, prefiero la playa.", "cog": true },
+        { "t": "probably", "es": "probablemente", "pron": "próbabli", "ej": "It will probably rain tomorrow.", "ejes": "Probablemente llueva mañana.", "cog": true },
+        { "t": "seem", "es": "parecer", "pron": "sim", "ej": "You seem very sure.", "ejes": "Pareces muy seguro.", "cog": false },
+        { "t": "point of view", "es": "punto de vista", "pron": "point ov viú", "ej": "From my point of view, it is a mistake.", "ejes": "Desde mi punto de vista, es un error.", "cog": false },
+        { "t": "guess", "es": "suponer / adivinar", "pron": "ges", "ej": "I guess we can start now.", "ejes": "Supongo que podemos empezar ahora.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I think it's a good idea.", "es": "Creo que es una buena idea.", "pron": "ai zink its a gud aidía" },
+        { "t": "I suppose you're right.", "es": "Supongo que tienes razón.", "pron": "ai sepóus iur rait" },
+        { "t": "In my opinion, it's too expensive.", "es": "En mi opinión, es demasiado caro.", "pron": "in mai opínien, its tu ekspénsiv" },
+        { "t": "Personally, I don't like it.", "es": "Personalmente, no me gusta.", "pron": "pérsonali, ai dount laik it" },
+        { "t": "Honestly, I think it's great.", "es": "Sinceramente, creo que es genial.", "pron": "ónestli, ai zink its greit" }
+      ],
+      "dialogo": {
+        "titulo": "¿Qué te parece?",
+        "lineas": [
+          { "q": "A", "t": "What do you think of this apartment?", "es": "¿Qué te parece este departamento?" },
+          { "q": "B", "t": "Honestly, I think it's too small.", "es": "Sinceramente, creo que es muy pequeño." },
+          { "q": "A", "t": "Really? I suppose it is a little small.", "es": "¿En serio? Supongo que es algo pequeño." },
+          { "q": "B", "t": "In my opinion, we can find a better one.", "es": "En mi opinión, podemos encontrar uno mejor." },
+          { "q": "A", "t": "Okay, I guess you're right.", "es": "Bien, supongo que tienes razón." }
+        ]
+      },
+      "nota": "Para decir que NO piensas algo, en inglés se niega el primer verbo: I don't think it's a good idea (no creo que sea buena idea), no «I think it isn't a good idea»."
+    },
+    {
+      "id": "en-b1-u8-l2",
+      "n": 2,
+      "titulo": "Estar de acuerdo o no",
+      "objetivo": "Mostrar acuerdo y desacuerdo de forma educada.",
+      "intro": "Para estar de acuerdo usa I agree, Exactly o Absolutely. Para no estarlo, suaviza: I'm not sure about that o I see your point, but... Truco: en inglés se dice I agree, sin el verbo «estar».",
+      "palabras": [
+        { "t": "agree", "es": "estar de acuerdo", "pron": "agrí", "ej": "I agree with you.", "ejes": "Estoy de acuerdo contigo.", "cog": false, "truco": "No digas «I am agree»: se dice I agree." },
+        { "t": "disagree", "es": "no estar de acuerdo", "pron": "disagrí", "ej": "I disagree with the boss.", "ejes": "No estoy de acuerdo con el jefe.", "cog": false },
+        { "t": "exactly", "es": "exacto / exactamente", "pron": "egsáktli", "ej": "Exactly! That is what I mean.", "ejes": "¡Exacto! Eso es lo que quiero decir.", "cog": true },
+        { "t": "absolutely", "es": "totalmente", "pron": "ábsolutli", "ej": "Absolutely, you are right.", "ejes": "Totalmente, tienes razón.", "cog": true },
+        { "t": "good point", "es": "buen punto", "pron": "gud point", "ej": "That's a good point.", "ejes": "Es un buen punto.", "cog": false },
+        { "t": "fair enough", "es": "es justo / de acuerdo", "pron": "fer inóf", "ej": "Fair enough, let's try your way.", "ejes": "De acuerdo, probemos a tu manera.", "cog": false },
+        { "t": "wrong", "es": "equivocado", "pron": "rong", "ej": "I think you are wrong.", "ejes": "Creo que estás equivocado.", "cog": false, "truco": "La «w» de wrong no suena: rong." },
+        { "t": "completely", "es": "completamente", "pron": "complítli", "ej": "I completely agree.", "ejes": "Estoy completamente de acuerdo.", "cog": true },
+        { "t": "depends", "es": "depende", "pron": "dipéndz", "ej": "It depends on the price.", "ejes": "Depende del precio.", "cog": true }
+      ],
+      "frases": [
+        { "t": "I completely agree with you.", "es": "Estoy completamente de acuerdo contigo.", "pron": "ai complítli agrí uid iu" },
+        { "t": "I'm not sure I agree.", "es": "No estoy seguro de estar de acuerdo.", "pron": "aim not shur ai agrí" },
+        { "t": "That's a good point.", "es": "Es un buen punto.", "pron": "dats a gud point" },
+        { "t": "I see your point, but I disagree.", "es": "Entiendo tu punto, pero no estoy de acuerdo.", "pron": "ai si iur point, bat ai disagrí" },
+        { "t": "It depends on the situation.", "es": "Depende de la situación.", "pron": "it dipéndz on da sichuéishen" }
+      ],
+      "dialogo": {
+        "titulo": "En una reunión",
+        "lineas": [
+          { "q": "A", "t": "I think we should buy new computers.", "es": "Creo que deberíamos comprar computadoras nuevas." },
+          { "q": "B", "t": "I'm not sure I agree. They are very expensive.", "es": "No estoy seguro de estar de acuerdo. Son muy caras." },
+          { "q": "A", "t": "That's a good point. But the old ones are slow.", "es": "Es un buen punto. Pero las viejas son lentas." },
+          { "q": "B", "t": "Absolutely. It depends on the price.", "es": "Totalmente. Depende del precio." },
+          { "q": "A", "t": "Fair enough. Let's ask for offers.", "es": "De acuerdo. Pidamos presupuestos." }
+        ]
+      },
+      "nota": "En inglés se disiente con suavidad. En lugar de You are wrong (muy directo), es más educado decir I see your point, but... o I'm not sure about that."
+    },
+    {
+      "id": "en-b1-u8-l3",
+      "n": 3,
+      "titulo": "Tag questions con be y do",
+      "objetivo": "Formar tag questions con be, do, does y did.",
+      "intro": "La regla es un espejo: frase positiva, pregunta negativa; frase negativa, pregunta positiva. Truco: repite el auxiliar y cambia el nombre por un pronombre. It's cold, isn't it?",
+      "palabras": [
+        { "t": "obviously", "es": "obviamente", "pron": "óbviosli", "ej": "Obviously, he is not coming.", "ejes": "Obviamente, él no viene.", "cog": true },
+        { "t": "actually", "es": "en realidad", "pron": "ákchuali", "ej": "Actually, I prefer coffee.", "ejes": "En realidad, prefiero el café.", "cog": false, "truco": "Actually NO significa «actualmente»; significa «en realidad»." },
+        { "t": "definitely", "es": "definitivamente", "pron": "défenitli", "ej": "It is definitely better.", "ejes": "Es definitivamente mejor.", "cog": true },
+        { "t": "quite", "es": "bastante", "pron": "cuáit", "ej": "The film was quite long.", "ejes": "La película fue bastante larga.", "cog": false },
+        { "t": "certainly", "es": "ciertamente", "pron": "sértenli", "ej": "She is certainly talented.", "ejes": "Ella es sin duda talentosa.", "cog": true },
+        { "t": "surely", "es": "seguramente", "pron": "shúrli", "ej": "Surely you remember him.", "ejes": "Seguro que te acuerdas de él.", "cog": false },
+        { "t": "anyway", "es": "de todos modos", "pron": "énigüei", "ej": "Anyway, let's start the meeting.", "ejes": "Bueno, empecemos la reunión.", "cog": false },
+        { "t": "right", "es": "¿verdad? / correcto", "pron": "rait", "ej": "You are coming, right?", "ejes": "Vienes, ¿verdad?", "cog": false }
+      ],
+      "frases": [
+        { "t": "It's cold today, isn't it?", "es": "Hace frío hoy, ¿verdad?", "pron": "its cold tudéi, ísent it" },
+        { "t": "You don't eat meat, do you?", "es": "No comes carne, ¿verdad?", "pron": "iu dount it mit, du iu" },
+        { "t": "She works here, doesn't she?", "es": "Ella trabaja aquí, ¿no?", "pron": "shi uerks jíar, dásent shi" },
+        { "t": "He didn't pay, did he?", "es": "Él no pagó, ¿verdad?", "pron": "ji dídent pei, did ji" },
+        { "t": "They aren't late, are they?", "es": "No llegan tarde, ¿verdad?", "pron": "dei arnt leit, ar dei" }
+      ],
+      "dialogo": {
+        "titulo": "Esperando a un amigo",
+        "lineas": [
+          { "q": "A", "t": "Pablo is always late, isn't he?", "es": "Pablo siempre llega tarde, ¿no?" },
+          { "q": "B", "t": "Yes, he is. He doesn't like waking up early, does he?", "es": "Sí. No le gusta levantarse temprano, ¿verdad?" },
+          { "q": "A", "t": "No, he doesn't. Anyway, we can start without him.", "es": "No. De todos modos, podemos empezar sin él." },
+          { "q": "B", "t": "Definitely. You have the tickets, right?", "es": "Claro. Tú tienes las entradas, ¿verdad?" }
+        ]
+      },
+      "nota": "La respuesta sigue la realidad, no la pregunta: You don't eat meat, do you? Si no comes carne, respondes No, I don't. Si sí comes, respondes Yes, I do."
+    },
+    {
+      "id": "en-b1-u8-l4",
+      "n": 4,
+      "titulo": "Tag questions con otros verbos",
+      "objetivo": "Usar tag questions con can, will, have y con el caso especial I am.",
+      "intro": "Con can, will, have y should la pregunta repite ese mismo verbo. Truco: let's lleva shall we?, y el imperativo lleva will you? Vamos también a debatir con estas palabras.",
+      "palabras": [
+        { "t": "argument", "es": "discusión / argumento", "pron": "árgiument", "ej": "We had an argument yesterday.", "ejes": "Tuvimos una discusión ayer.", "cog": true },
+        { "t": "discuss", "es": "discutir / hablar de", "pron": "discás", "ej": "Let's discuss the plan.", "ejes": "Hablemos del plan.", "cog": true, "truco": "Discuss no lleva about: discuss the plan." },
+        { "t": "topic", "es": "tema", "pron": "tópik", "ej": "This topic is very interesting.", "ejes": "Este tema es muy interesante.", "cog": true },
+        { "t": "advantage", "es": "ventaja", "pron": "adváantich", "ej": "One advantage is the price.", "ejes": "Una ventaja es el precio.", "cog": true },
+        { "t": "disadvantage", "es": "desventaja", "pron": "disadváantich", "ej": "The only disadvantage is the distance.", "ejes": "La única desventaja es la distancia.", "cog": true },
+        { "t": "convince", "es": "convencer", "pron": "convíns", "ej": "You can't convince me.", "ejes": "No puedes convencerme.", "cog": true },
+        { "t": "reason", "es": "razón / motivo", "pron": "rízon", "ej": "What is the reason for the delay?", "ejes": "¿Cuál es el motivo del retraso?", "cog": false },
+        { "t": "mind", "es": "mente / opinión", "pron": "maind", "ej": "I changed my mind.", "ejes": "Cambié de opinión.", "cog": false }
+      ],
+      "frases": [
+        { "t": "You can swim, can't you?", "es": "Sabes nadar, ¿no?", "pron": "iu can suim, cant iu" },
+        { "t": "They have left, haven't they?", "es": "Ya se fueron, ¿no?", "pron": "dei jav left, jávent dei" },
+        { "t": "I'm right, aren't I?", "es": "Tengo razón, ¿no?", "pron": "aim rait, árnt ai" },
+        { "t": "Let's discuss it, shall we?", "es": "Hablemos de eso, ¿te parece?", "pron": "lets discás it, shal ui" },
+        { "t": "It will work, won't it?", "es": "Va a funcionar, ¿no?", "pron": "it uil uerk, uóunt it" }
+      ],
+      "dialogo": {
+        "titulo": "Un tema difícil",
+        "lineas": [
+          { "q": "A", "t": "Let's discuss the topic, shall we?", "es": "Hablemos del tema, ¿te parece?" },
+          { "q": "B", "t": "Sure. There is one advantage, isn't there?", "es": "Claro. Hay una ventaja, ¿no?" },
+          { "q": "A", "t": "Yes, and one disadvantage. You can see it, can't you?", "es": "Sí, y una desventaja. La ves, ¿verdad?" },
+          { "q": "B", "t": "I can. Maybe I'll change my mind.", "es": "Sí. Quizá cambie de opinión." },
+          { "q": "A", "t": "That's a good reason to talk more.", "es": "Es una buena razón para hablar más." }
+        ]
+      },
+      "nota": "Hay tres casos especiales: I am lleva aren't I?; Let's lleva shall we?; y las órdenes llevan will you? (Close the door, will you?)."
+    },
+    {
+      "id": "en-b1-u8-l5",
+      "n": 5,
+      "titulo": "Repaso: debatir con educación",
+      "objetivo": "Dar opiniones, discrepar con educación y pedir confirmación.",
+      "intro": "Mezclamos todo: opinión, acuerdo o desacuerdo y tag questions. Truco: abre con I think, comprueba con una tag question y cierra con un compromiso.",
+      "palabras": [
+        { "t": "prefer", "es": "preferir", "pron": "prifér", "ej": "I prefer tea to coffee.", "ejes": "Prefiero el té al café.", "cog": true },
+        { "t": "support", "es": "apoyar", "pron": "sepórt", "ej": "I support your idea.", "ejes": "Apoyo tu idea.", "cog": false, "truco": "Support NO es «soportar»; es «apoyar»." },
+        { "t": "against", "es": "en contra de", "pron": "aguénst", "ej": "I am against the new rule.", "ejes": "Estoy en contra de la nueva regla.", "cog": false },
+        { "t": "serious", "es": "serio / grave", "pron": "síerios", "ej": "This is a serious problem.", "ejes": "Este es un problema serio.", "cog": true },
+        { "t": "stubborn", "es": "terco", "pron": "stábern", "ej": "He is very stubborn.", "ejes": "Él es muy terco.", "cog": false },
+        { "t": "open-minded", "es": "de mente abierta", "pron": "óupen máinded", "ej": "She is open-minded.", "ejes": "Ella es de mente abierta.", "cog": false },
+        { "t": "compromise", "es": "acuerdo / ceder", "pron": "cómpromais", "ej": "Let's find a compromise.", "ejes": "Busquemos un punto medio.", "cog": true },
+        { "t": "in favor of", "es": "a favor de", "pron": "in féivor ov", "ej": "I am in favor of the change.", "ejes": "Estoy a favor del cambio.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I'm in favor of the change, but I'm not sure.", "es": "Estoy a favor del cambio, pero no estoy seguro.", "pron": "aim in féivor ov da cheinch, bat aim not shur" },
+        { "t": "You're open-minded, aren't you?", "es": "Eres de mente abierta, ¿no?", "pron": "iur óupen máinded, árnt iu" },
+        { "t": "He's stubborn, isn't he?", "es": "Él es terco, ¿verdad?", "pron": "jis stábern, ísent ji" },
+        { "t": "Let's find a compromise, shall we?", "es": "Busquemos un punto medio, ¿te parece?", "pron": "lets faind a cómpromais, shal ui" },
+        { "t": "I prefer the second plan, honestly.", "es": "Prefiero el segundo plan, sinceramente.", "pron": "ai prifér da sécond plan, ónestli" },
+        { "t": "That's a serious problem, isn't it?", "es": "Es un problema serio, ¿verdad?", "pron": "dats a síerios próblem, ísent it" }
+      ],
+      "dialogo": {
+        "titulo": "Buscando un punto medio",
+        "lineas": [
+          { "q": "A", "t": "I'm against working on Saturdays.", "es": "Estoy en contra de trabajar los sábados." },
+          { "q": "B", "t": "I see your point, but we have a serious deadline, don't we?", "es": "Entiendo tu punto, pero tenemos una fecha límite seria, ¿no?" },
+          { "q": "A", "t": "That's true. Let's find a compromise, shall we?", "es": "Es cierto. Busquemos un punto medio, ¿te parece?" },
+          { "q": "B", "t": "Fair enough. We can work half a day.", "es": "De acuerdo. Podemos trabajar medio día." },
+          { "q": "A", "t": "I think that's fair. You are open-minded, aren't you?", "es": "Creo que es justo. Eres flexible, ¿no?" }
+        ]
+      },
+      "nota": "Para cerrar un debate con elegancia: Let's agree to disagree (acordemos no estar de acuerdo) es muy común en inglés cuando nadie cambia de opinión."
+    }
+  ]
+}

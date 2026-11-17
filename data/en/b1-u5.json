@@ -1,0 +1,216 @@
+{
+  "id": "en-b1-u5",
+  "idioma": "en",
+  "nivel": "B1",
+  "n": 5,
+  "titulo": "Cómo se hace y quién lo hace",
+  "resumen": "Aprenderás la voz pasiva en presente, pasado y presente perfecto para describir procesos, hechos y lo que se hace en un lugar.",
+  "puedo": [
+    "Formar la pasiva en presente con is / are + participio.",
+    "Formar la pasiva en pasado con was / were + participio.",
+    "Usar la pasiva perfecta con has / have been + participio.",
+    "Decir quién hizo algo con by cuando es importante.",
+    "Describir cómo se produce o se hace algo."
+  ],
+  "gramatica": {
+    "titulo": "La voz pasiva: be + participio",
+    "texto": "En la voz pasiva lo importante es la cosa que recibe la acción, no quién la hace: English is spoken here (aquí se habla inglés). Se forma con el verbo be en el tiempo adecuado + participio.\nPresente: is / are + participio (Coffee is grown in Peru). Pasado: was / were + participio (The bridge was built in 1990). Presente perfecto: has / have been + participio (The room has been cleaned).\nSi quieres decir quién lo hizo, usa by: The song was written by Ana.\nTruco: la pasiva se usa cuando no sabemos quién lo hizo, no importa, o es obvio. En español muchas veces usamos «se» (se habla, se vende).",
+    "tabla": [
+      ["English is spoken here.", "Aquí se habla inglés.", "ínglish is spóucen jíar"],
+      ["Coffee is grown in Peru.", "El café se cultiva en el Perú.", "cófi is groun in perú"],
+      ["The bridge was built in 1990.", "El puente fue construido en 1990.", "da brich uas bilt in náintín náinti"],
+      ["My bag was stolen.", "Me robaron la mochila.", "mai bag uas stóulen"],
+      ["The room has been cleaned.", "El cuarto ya fue limpiado.", "da rum jas bin clínd"],
+      ["The song was written by Ana.", "La canción fue escrita por Ana.", "da song uas ríten bai ana"]
+    ],
+    "errores": [
+      "No uses el infinitivo después de be: es It is made in Peru, no «It is make in Peru».",
+      "No digas «It was happened»: happen, arrive, die y sleep no se pasan a pasiva. Dices It happened.",
+      "No traduzcas «se» con you: es English is spoken here, no «You speak English here» si quieres decir que se habla en general."
+    ]
+  },
+  "practica": [
+    "Mira 8 objetos a tu alrededor y di dónde se hacen con is / are made in...: This phone is made in... (6 minutos).",
+    "Escribe 6 oraciones en pasiva sobre tu ciudad: What is sold? What was built? (10 minutos).",
+    "Lee una noticia en inglés y subraya 5 oraciones en pasiva (10 minutos).",
+    "Explica en voz alta cómo se hace un plato peruano usando la pasiva: First, the potatoes are peeled... (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b1-u5-l1",
+      "n": 1,
+      "titulo": "Pasiva en presente",
+      "objetivo": "Describir lo que se hace, se vende o se habla con is / are + participio.",
+      "intro": "En la pasiva de presente usa is o are y el participio: Coffee is grown in Peru. Truco: es como el «se» del español: se cultiva, se habla, se vende. Los verbos de esta lección son muy frecuentes.",
+      "palabras": [
+        { "t": "grown", "es": "cultivado (de grow)", "pron": "groun", "ej": "Coffee is grown in the mountains.", "ejes": "El café se cultiva en las montañas.", "cog": false },
+        { "t": "made", "es": "hecho (de make)", "pron": "meid", "ej": "This bag is made of leather.", "ejes": "Esta bolsa está hecha de cuero.", "cog": false },
+        { "t": "sold", "es": "vendido (de sell)", "pron": "sould", "ej": "Fresh fish is sold here.", "ejes": "Aquí se vende pescado fresco.", "cog": false },
+        { "t": "spoken", "es": "hablado (de speak)", "pron": "spóuken", "ej": "English is spoken here.", "ejes": "Aquí se habla inglés.", "cog": false },
+        { "t": "used", "es": "usado (de use)", "pron": "iusd", "ej": "This tool is used for cutting wood.", "ejes": "Esta herramienta se usa para cortar madera.", "cog": false },
+        { "t": "called", "es": "llamado (de call)", "pron": "cold", "ej": "This dish is called ceviche.", "ejes": "Este plato se llama ceviche.", "cog": false },
+        { "t": "leather", "es": "cuero", "pron": "léder", "ej": "My shoes are made of leather.", "ejes": "Mis zapatos son de cuero.", "cog": false },
+        { "t": "export", "es": "exportar", "pron": "ekspórt", "ej": "Peru can export coffee.", "ejes": "El Perú puede exportar café.", "cog": true }
+      ],
+      "frases": [
+        { "t": "English is spoken here.", "es": "Aquí se habla inglés.", "pron": "ínglish is spóuken jíar" },
+        { "t": "Coffee is grown in the mountains.", "es": "El café se cultiva en las montañas.", "pron": "cófi is groun in da máuntens" },
+        { "t": "These shoes are made of leather.", "es": "Estos zapatos son de cuero.", "pron": "diz shuz ar meid ov léder" },
+        { "t": "Fresh fish is sold here.", "es": "Aquí se vende pescado fresco.", "pron": "fresh fish is sould jíar" },
+        { "t": "This dish is called ceviche.", "es": "Este plato se llama ceviche.", "pron": "dis dish is cold sevíche" }
+      ],
+      "dialogo": {
+        "titulo": "En el mercado",
+        "lineas": [
+          { "q": "A", "t": "Excuse me, where is this coffee grown?", "es": "Disculpe, ¿dónde se cultiva este café?" },
+          { "q": "B", "t": "It's grown in the mountains near Cusco.", "es": "Se cultiva en las montañas cerca de Cusco." },
+          { "q": "A", "t": "And are these bags made of leather?", "es": "¿Y estas bolsas son de cuero?" },
+          { "q": "B", "t": "Yes, they are. They're made by local artists.", "es": "Sí. Las hacen artistas locales." },
+          { "q": "A", "t": "Great. Is English spoken in this market?", "es": "Genial. ¿Se habla inglés en este mercado?" }
+        ]
+      },
+      "nota": "Para el plural usa are: Shoes are sold here. Para negar, pon not: Smoking is not allowed here."
+    },
+    {
+      "id": "en-b1-u5-l2",
+      "n": 2,
+      "titulo": "Pasiva en pasado",
+      "objetivo": "Contar hechos del pasado con was / were + participio.",
+      "intro": "En el pasado usa was o were + participio: The bridge was built in 1990. Truco: sirve para historia, noticias y robos: «lo robaron», «fue construido». Añade by si importa quién lo hizo.",
+      "palabras": [
+        { "t": "built", "es": "construido (de build)", "pron": "bilt", "ej": "The bridge was built in 1990.", "ejes": "El puente fue construido en 1990.", "cog": false },
+        { "t": "stolen", "es": "robado (de steal)", "pron": "stóulen", "ej": "My phone was stolen yesterday.", "ejes": "Ayer me robaron el celular.", "cog": false },
+        { "t": "invented", "es": "inventado", "pron": "invéntid", "ej": "The telephone was invented in 1876.", "ejes": "El teléfono fue inventado en 1876.", "cog": true },
+        { "t": "discovered", "es": "descubierto", "pron": "discóverd", "ej": "Machu Picchu was discovered in 1911.", "ejes": "Machu Picchu fue descubierto en 1911.", "cog": true },
+        { "t": "written", "es": "escrito (de write)", "pron": "ríten", "ej": "This book was written by a Peruvian author.", "ejes": "Este libro fue escrito por un autor peruano.", "cog": false },
+        { "t": "painted", "es": "pintado", "pron": "péintid", "ej": "The wall was painted blue.", "ejes": "La pared fue pintada de azul.", "cog": false },
+        { "t": "damaged", "es": "dañado", "pron": "dámichd", "ej": "The car was damaged in the accident.", "ejes": "El auto fue dañado en el accidente.", "cog": false },
+        { "t": "founded", "es": "fundado", "pron": "fáundid", "ej": "Lima was founded in 1535.", "ejes": "Lima fue fundada en 1535.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The bridge was built in 1990.", "es": "El puente fue construido en 1990.", "pron": "da brich uas bilt in náintín náinti" },
+        { "t": "My phone was stolen yesterday.", "es": "Ayer me robaron el celular.", "pron": "mai foun uas stóulen iésterdei" },
+        { "t": "Lima was founded in 1535.", "es": "Lima fue fundada en 1535.", "pron": "lima uas fáundid in fiftín zérti-faiv" },
+        { "t": "These photos were taken by my sister.", "es": "Estas fotos las tomó mi hermana.", "pron": "dis fóutos uer téiken bai mai síster" },
+        { "t": "Were you hurt in the accident?", "es": "¿Te lastimaste en el accidente?", "pron": "uer iu jert in di áxident" }
+      ],
+      "dialogo": {
+        "titulo": "En la comisaría",
+        "lineas": [
+          { "q": "A", "t": "What happened to your bag?", "es": "¿Qué pasó con tu bolsa?" },
+          { "q": "B", "t": "It was stolen on the bus yesterday.", "es": "Me la robaron en el bus ayer." },
+          { "q": "A", "t": "Was anything else taken?", "es": "¿Se llevaron algo más?" },
+          { "q": "B", "t": "Yes, my wallet and my keys were taken too.", "es": "Sí, también se llevaron mi billetera y mis llaves." },
+          { "q": "A", "t": "I'm sorry. I hope the thief is found soon.", "es": "Lo siento. Espero que encuentren pronto al ladrón." }
+        ]
+      },
+      "nota": "Para fechas de la historia la pasiva es muy común: It was built in 1990. Con by solo si el autor importa: The Mona Lisa was painted by Leonardo da Vinci."
+    },
+    {
+      "id": "en-b1-u5-l3",
+      "n": 3,
+      "titulo": "Pasiva perfecta",
+      "objetivo": "Hablar de lo que ya se ha hecho con has / have been + participio.",
+      "intro": "La pasiva perfecta es have / has been + participio: The room has been cleaned. Truco: es un resultado actual, parecido a «ya fue limpiado». Se usa mucho con already, yet, just y recently.",
+      "palabras": [
+        { "t": "cleaned", "es": "limpiado", "pron": "clínd", "ej": "The room has been cleaned.", "ejes": "El cuarto ya fue limpiado.", "cog": false },
+        { "t": "repaired", "es": "reparado", "pron": "ripérd", "ej": "My car has been repaired.", "ejes": "Mi auto ya fue reparado.", "cog": false },
+        { "t": "cancelled", "es": "cancelado", "pron": "cánseld", "ej": "The flight has been cancelled.", "ejes": "El vuelo ha sido cancelado.", "cog": true },
+        { "t": "delayed", "es": "retrasado", "pron": "diléid", "ej": "The train has been delayed.", "ejes": "El tren se ha retrasado.", "cog": false },
+        { "t": "approved", "es": "aprobado", "pron": "aprúvd", "ej": "Your request has been approved.", "ejes": "Su solicitud ha sido aprobada.", "cog": true },
+        { "t": "sent", "es": "enviado (de send)", "pron": "sent", "ej": "The package has been sent.", "ejes": "El paquete ha sido enviado.", "cog": false },
+        { "t": "announced", "es": "anunciado", "pron": "anáunsd", "ej": "The new schedule has been announced.", "ejes": "Se ha anunciado el nuevo horario.", "cog": false },
+        { "t": "fixed", "es": "arreglado", "pron": "fikst", "ej": "The problem has been fixed.", "ejes": "El problema fue arreglado.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The room has been cleaned.", "es": "El cuarto ya fue limpiado.", "pron": "da rum jas bin clínd" },
+        { "t": "The flight has been cancelled.", "es": "El vuelo ha sido cancelado.", "pron": "da flait jas bin cánseld" },
+        { "t": "Your request hasn't been approved yet.", "es": "Su solicitud aún no ha sido aprobada.", "pron": "ior ricuést jásent bin aprúvd iet" },
+        { "t": "Have the tickets been sent?", "es": "¿Ya fueron enviados los boletos?", "pron": "jav da tíkets bin sent" },
+        { "t": "The problem has already been fixed.", "es": "El problema ya fue arreglado.", "pron": "da próblem jas olrédi bin fikst" }
+      ],
+      "dialogo": {
+        "titulo": "En el hotel",
+        "lineas": [
+          { "q": "A", "t": "Excuse me, has my room been cleaned yet?", "es": "Disculpe, ¿ya limpiaron mi habitación?" },
+          { "q": "B", "t": "I'm sorry, it hasn't been cleaned yet. It will be done in ten minutes.", "es": "Lo siento, aún no la han limpiado. Estará lista en diez minutos." },
+          { "q": "A", "t": "Also, the air conditioner doesn't work.", "es": "Además, el aire acondicionado no funciona." },
+          { "q": "B", "t": "A technician has just been called. It will be fixed soon.", "es": "Acabamos de llamar a un técnico. Lo arreglarán pronto." },
+          { "q": "A", "t": "Thank you, I appreciate it.", "es": "Gracias, se lo agradezco." }
+        ]
+      },
+      "nota": "En avisos públicos se oye siempre la pasiva: Your flight has been delayed. Es un tono formal y neutro, ideal para servicio al cliente."
+    },
+    {
+      "id": "en-b1-u5-l4",
+      "n": 4,
+      "titulo": "Cómo se hace",
+      "objetivo": "Describir un proceso paso a paso con la pasiva.",
+      "intro": "La pasiva es perfecta para describir procesos: First, the potatoes are peeled. Then they are cut. Truco: combina la pasiva con first, then y finally, que viste en la unidad 1.",
+      "palabras": [
+        { "t": "peeled", "es": "pelado", "pron": "pild", "ej": "The potatoes are peeled first.", "ejes": "Primero se pelan las papas.", "cog": false },
+        { "t": "chopped", "es": "picado", "pron": "chopt", "ej": "The onions are chopped finely.", "ejes": "Las cebollas se pican finas.", "cog": false },
+        { "t": "boiled", "es": "hervido", "pron": "boild", "ej": "The eggs are boiled for ten minutes.", "ejes": "Los huevos se hierven diez minutos.", "cog": false },
+        { "t": "fried", "es": "frito", "pron": "fraid", "ej": "The fish is fried in oil.", "ejes": "El pescado se fríe en aceite.", "cog": false },
+        { "t": "served", "es": "servido", "pron": "servd", "ej": "The soup is served hot.", "ejes": "La sopa se sirve caliente.", "cog": false },
+        { "t": "add", "es": "añadir", "pron": "ad", "ej": "Add a little salt.", "ejes": "Añade un poco de sal.", "cog": false },
+        { "t": "ingredient", "es": "ingrediente", "pron": "ingrídient", "ej": "Salt is the main ingredient.", "ejes": "La sal es el ingrediente principal.", "cog": true },
+        { "t": "recipe", "es": "receta", "pron": "résipi", "ej": "This recipe is easy.", "ejes": "Esta receta es fácil.", "cog": false }
+      ],
+      "frases": [
+        { "t": "First, the potatoes are peeled.", "es": "Primero, se pelan las papas.", "pron": "ferst, da potéitos ar pild" },
+        { "t": "Then they are boiled for ten minutes.", "es": "Luego se hierven diez minutos.", "pron": "den dei ar boild for ten mínits" },
+        { "t": "The fish is fried in oil.", "es": "El pescado se fríe en aceite.", "pron": "da fish is fraid in oil" },
+        { "t": "The soup is served hot.", "es": "La sopa se sirve caliente.", "pron": "da sup is servd jot" },
+        { "t": "Finally, the dish is decorated with herbs.", "es": "Finalmente, el plato se decora con hierbas.", "pron": "fáinali, da dish is dékoreitid uid erbs" }
+      ],
+      "dialogo": {
+        "titulo": "Una receta peruana",
+        "lineas": [
+          { "q": "A", "t": "How is lomo saltado made?", "es": "¿Cómo se prepara el lomo saltado?" },
+          { "q": "B", "t": "First, the meat is cut into strips. Then the onions and tomatoes are chopped.", "es": "Primero, la carne se corta en tiras. Luego se pican las cebollas y los tomates." },
+          { "q": "A", "t": "And then?", "es": "¿Y luego?" },
+          { "q": "B", "t": "Everything is fried in a very hot pan. Finally, it is served with rice and fries.", "es": "Todo se fríe en una sartén muy caliente. Finalmente, se sirve con arroz y papas fritas." },
+          { "q": "A", "t": "Sounds delicious. Can I have the recipe?", "es": "Suena delicioso. ¿Me das la receta?" }
+        ]
+      },
+      "nota": "En recetas y manuales se usa tanto la pasiva (The meat is cut) como el imperativo (Cut the meat). La pasiva describe; el imperativo da órdenes."
+    },
+    {
+      "id": "en-b1-u5-l5",
+      "n": 5,
+      "titulo": "Repaso: noticias y lugares",
+      "objetivo": "Usar la pasiva en distintos tiempos para hablar de lugares y noticias.",
+      "intro": "Repasa la pasiva en presente, pasado y perfecto con el lenguaje de noticias y de lugares. Truco: cuando leas un titular, localiza el be: is, was o has been te dice el tiempo.",
+      "palabras": [
+        { "t": "news", "es": "noticias", "pron": "nius", "ej": "The news is on at nine.", "ejes": "Las noticias son a las nueve.", "cog": false, "truco": "News es singular: The news is good." },
+        { "t": "report", "es": "informar / informe", "pron": "ripórt", "ej": "I need to report a problem.", "ejes": "Necesito informar de un problema.", "cog": true },
+        { "t": "arrest", "es": "arrestar", "pron": "arrést", "ej": "The police will arrest him.", "ejes": "La policía lo arrestará.", "cog": true },
+        { "t": "injure", "es": "herir", "pron": "ínyer", "ej": "Be careful, you can injure yourself.", "ejes": "Cuidado, puedes lastimarte.", "cog": false },
+        { "t": "close", "es": "cerrar", "pron": "clous", "ej": "They close the museum at six.", "ejes": "Cierran el museo a las seis.", "cog": false },
+        { "t": "open", "es": "abrir", "pron": "óupen", "ej": "The shops open at nine.", "ejes": "Las tiendas abren a las nueve.", "cog": false },
+        { "t": "allow", "es": "permitir", "pron": "aláu", "ej": "They don't allow dogs here.", "ejes": "Aquí no permiten perros.", "cog": false },
+        { "t": "ban", "es": "prohibir", "pron": "ban", "ej": "They ban cars in the city center.", "ejes": "Prohíben los autos en el centro.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Dogs are not allowed in the museum.", "es": "No se permiten perros en el museo.", "pron": "dogs ar not aláud in da miusíum" },
+        { "t": "The museum was closed for repairs.", "es": "El museo fue cerrado por reparaciones.", "pron": "da miusíum uas clousd for ripérs" },
+        { "t": "Three people were injured in the accident.", "es": "Tres personas resultaron heridas en el accidente.", "pron": "zri pípol uer ínyerd in di áxident" },
+        { "t": "The road has been closed since Monday.", "es": "La carretera está cerrada desde el lunes.", "pron": "da roud jas bin clousd sins mándei" },
+        { "t": "The new bridge will be opened next week.", "es": "El nuevo puente será inaugurado la próxima semana.", "pron": "da niu brich uil bi óupend nekst uik" },
+        { "t": "The thief was arrested yesterday.", "es": "El ladrón fue arrestado ayer.", "pron": "da zif uas arréstid iésterdei" }
+      ],
+      "dialogo": {
+        "titulo": "Las noticias de la mañana",
+        "lineas": [
+          { "q": "A", "t": "Did you hear the news? The old bridge has been closed.", "es": "¿Escuchaste las noticias? Cerraron el puente viejo." },
+          { "q": "B", "t": "Really? Why was it closed?", "es": "¿En serio? ¿Por qué lo cerraron?" },
+          { "q": "A", "t": "It was damaged by the rain. It will be repaired in a month.", "es": "Fue dañado por la lluvia. Lo repararán en un mes." },
+          { "q": "B", "t": "That's bad. Cars are not allowed on the other road either.", "es": "Qué mal. Tampoco se permiten autos en la otra carretera." },
+          { "q": "A", "t": "I know. Everyone is advised to take the train.", "es": "Lo sé. Se aconseja a todos tomar el tren." }
+        ]
+      },
+      "nota": "News siempre es singular: The news is good. Y en inglés no se dice «the news are»."
+    }
+  ]
+}

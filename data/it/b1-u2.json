@@ -1,0 +1,224 @@
+{
+  "id": "it-b1-u2",
+  "idioma": "it",
+  "nivel": "B1",
+  "n": 2,
+  "titulo": "Lo que ha pasado y desde cuándo",
+  "resumen": "Aprenderás a decir desde cuándo y hace cuánto tiempo con «da» y «fa», a usar «già, ancora, mai» y a contar algo anterior con el trapassato prossimo.",
+  "puedo": [
+    "Decir desde cuándo hago algo con «da + presente».",
+    "Decir hace cuánto pasó algo con «fa».",
+    "Usar «già, ancora, non più, mai» en contextos nuevos.",
+    "Contar algo que pasó antes de otro hecho con el trapassato prossimo.",
+    "Hablar de cambios de vida con «da», «fa» y «negli ultimi anni»."
+  ],
+  "gramatica": {
+    "titulo": "«Da» y «fa»: desde cuándo y hace cuánto",
+    "texto": "Para hablar del tiempo hay dos palabras clave.\nDa + presente: algo que empezó en el pasado y sigue ahora. Studio italiano da due anni = estudio italiano desde hace dos años (y todavía estudio).\nTiempo + fa: algo que pasó y terminó hace un tiempo. Sono arrivato due anni fa = llegué hace dos años. Se usa con passato prossimo.\nTruco: da = sigue; fa = terminó.\nPara preguntar: Da quanto tempo...? = ¿desde hace cuánto...?\nBonus: el trapassato prossimo (avere o essere en imperfetto + participio: avevo mangiato = había comido) cuenta algo anterior a otro hecho pasado: Quando sei arrivato, avevo già mangiato.",
+    "tabla": [
+      ["da due anni", "desde hace dos años", "da dúe ánni"],
+      ["due anni fa", "hace dos años", "dúe ánni fa"],
+      ["da quanto tempo?", "¿desde hace cuánto?", "da cuánto témpo"],
+      ["non... più", "ya no", "non piú"],
+      ["avevo mangiato", "había comido", "avévo mandyáto"],
+      ["ero già uscito", "ya había salido", "éro yá ushíto"]
+    ],
+    "errores": [
+      "Con una acción que sigue se usa el presente: «Vivo qui da due anni», no «Ho vissuto qui da due anni».",
+      "«Fa» va después del tiempo: «due anni fa», no «fa due anni» como en español («hace dos años»).",
+      "«Già» y «mai» van entre el auxiliar y el participio: «avevo già mangiato», no «avevo mangiato già»."
+    ]
+  },
+  "practica": [
+    "Di en voz alta cinco cosas que haces desde hace tiempo con «da» (ej.: «Vivo a Lima da...») (4 minutos).",
+    "Escribe cinco hechos de tu vida con «... fa» (ej.: «Ho cambiato lavoro un anno fa») (5 minutos).",
+    "Pregunta a un amigo «Da quanto tempo...?» tres veces y anota sus respuestas en italiano (5 minutos).",
+    "Escribe tres frases con el trapassato: «Quando sono arrivato, ... avevo già...» (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b1-u2-l1",
+      "n": 1,
+      "titulo": "Da quanto tempo...?",
+      "objetivo": "Decir y preguntar desde cuándo hago algo.",
+      "intro": "«Da» + tiempo con verbo en presente dice desde cuándo algo continúa. Truco: en español usas «desde hace», en italiano solo «da».",
+      "palabras": [
+        { "t": "da", "es": "desde, desde hace", "pron": "da", "ej": "Studio italiano da due anni.", "ejes": "Estudio italiano desde hace dos años.", "cog": false },
+        { "t": "da quanto tempo", "es": "¿desde hace cuánto tiempo?", "pron": "da cuánto témpo", "ej": "Da quanto tempo studi italiano?", "ejes": "¿Desde hace cuánto tiempo estudias italiano?", "cog": false },
+        { "t": "da poco", "es": "desde hace poco", "pron": "da póco", "ej": "Lavoro in questa azienda da poco.", "ejes": "Trabajo en esta empresa desde hace poco.", "cog": false },
+        { "t": "da molto", "es": "desde hace mucho", "pron": "da mólto", "ej": "Ci conosciamo da molto.", "ejes": "Nos conocemos desde hace mucho.", "cog": false },
+        { "t": "da sempre", "es": "desde siempre", "pron": "da sémpre", "ej": "Conosco Marta da sempre.", "ejes": "Conozco a Marta desde siempre.", "cog": false },
+        { "t": "da quando", "es": "desde que", "pron": "da cuándo", "ej": "Da quando abito qui, dormo meglio.", "ejes": "Desde que vivo aquí, duermo mejor.", "cog": false },
+        { "t": "il collega", "es": "el colega, compañero de trabajo", "pron": "il colléga", "ej": "Il collega lavora qui da tre anni.", "ejes": "El colega trabaja aquí desde hace tres años.", "cog": false },
+        { "t": "l'esperienza", "es": "la experiencia", "pron": "lesperiéntsa", "ej": "L'esperienza è molto importante.", "ejes": "La experiencia es muy importante.", "cog": true },
+        { "t": "ormai", "es": "ya (a estas alturas)", "pron": "ormái", "ej": "Ormai parlo bene italiano.", "ejes": "Ya hablo bien italiano.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Da quanto tempo studi italiano?", "es": "¿Desde hace cuánto estudias italiano?", "pron": "da cuánto témpo stúdi italiáno" },
+        { "t": "Studio italiano da due anni.", "es": "Estudio italiano desde hace dos años.", "pron": "stúdio italiáno da dúe ánni" },
+        { "t": "Lavoro in questa azienda da poco.", "es": "Trabajo en esta empresa desde hace poco.", "pron": "lavóro in cuésta adsiénda da póco" },
+        { "t": "Conosco Marta da sempre.", "es": "Conozco a Marta desde siempre.", "pron": "conósco márta da sémpre" },
+        { "t": "Da quando abiti a Milano?", "es": "¿Desde cuándo vives en Milán?", "pron": "da cuándo ábiti a miláno" }
+      ],
+      "dialogo": {
+        "titulo": "Nuovi colleghi",
+        "lineas": [
+          { "q": "A", "t": "Da quanto tempo lavori in questa azienda?", "es": "¿Desde hace cuánto trabajas en esta empresa?" },
+          { "q": "B", "t": "Da tre anni. E tu?", "es": "Desde hace tres años. ¿Y tú?" },
+          { "q": "A", "t": "Io da pochi mesi.", "es": "Yo desde hace pocos meses." },
+          { "q": "B", "t": "Ti piace?", "es": "¿Te gusta?" },
+          { "q": "A", "t": "Molto, i colleghi sono simpatici.", "es": "Mucho, los colegas son simpáticos." },
+          { "q": "B", "t": "Ormai ti conoscono tutti!", "es": "¡Ya te conocen todos!" }
+        ]
+      },
+      "nota": "Con «da» el verbo va en presente: «Abito qui da due anni». Un error muy común es usar el passato prossimo porque en español a veces se dice «he vivido»."
+    },
+    {
+      "id": "it-b1-u2-l2",
+      "n": 2,
+      "titulo": "Hace tiempo: «fa»",
+      "objetivo": "Decir hace cuánto tiempo ocurrió algo.",
+      "intro": "«Fa» va después del tiempo y significa «hace». Truco: «tre giorni fa» suena igual de natural que «hace tres días», pero con el orden invertido.",
+      "palabras": [
+        { "t": "fa", "es": "hace (tiempo atrás)", "pron": "fa", "ej": "Ci siamo conosciuti tre anni fa.", "ejes": "Nos conocimos hace tres años.", "cog": false },
+        { "t": "poco fa", "es": "hace un rato, hace poco", "pron": "póco fa", "ej": "Ho parlato con lui poco fa.", "ejes": "Hablé con él hace un rato.", "cog": false },
+        { "t": "tempo fa", "es": "hace tiempo", "pron": "témpo fa", "ej": "Ho letto questo libro tempo fa.", "ejes": "Leí este libro hace tiempo.", "cog": false },
+        { "t": "un mese fa", "es": "hace un mes", "pron": "un mése fa", "ej": "Ho cambiato lavoro un mese fa.", "ejes": "Cambié de trabajo hace un mes.", "cog": false },
+        { "t": "due anni fa", "es": "hace dos años", "pron": "dúe ánni fa", "ej": "Mi sono trasferito a Lima due anni fa.", "ejes": "Me mudé a Lima hace dos años.", "cog": false },
+        { "t": "l'anno scorso", "es": "el año pasado", "pron": "lánno scórso", "ej": "L'anno scorso siamo andati in Italia.", "ejes": "El año pasado fuimos a Italia.", "cog": false },
+        { "t": "la settimana scorsa", "es": "la semana pasada", "pron": "la settimána scórsa", "ej": "La settimana scorsa ho avuto l'influenza.", "ejes": "La semana pasada tuve gripe.", "cog": false },
+        { "t": "qualche giorno fa", "es": "hace unos días", "pron": "cualque yórno fa", "ej": "Ho visto Paolo qualche giorno fa.", "ejes": "Vi a Paolo hace unos días.", "cog": false },
+        { "t": "tanto tempo fa", "es": "hace mucho tiempo", "pron": "tánto témpo fa", "ej": "È successo tanto tempo fa.", "ejes": "Pasó hace mucho tiempo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Mi sono trasferito a Lima due anni fa.", "es": "Me mudé a Lima hace dos años.", "pron": "mi sóno trasferíto a líma dúe ánni fa" },
+        { "t": "Ho parlato con lui poco fa.", "es": "Hablé con él hace un rato.", "pron": "o parláto con lúi póco fa" },
+        { "t": "L'anno scorso siamo andati in Italia.", "es": "El año pasado fuimos a Italia.", "pron": "lánno scórso siámo andáti in itália" },
+        { "t": "Ci siamo conosciuti tre anni fa.", "es": "Nos conocimos hace tres años.", "pron": "chi siámo conoshúti tré ánni fa" },
+        { "t": "Ho comprato questa casa qualche anno fa.", "es": "Compré esta casa hace unos años.", "pron": "o compráto cuésta cása cuálke ánno fa" }
+      ],
+      "dialogo": {
+        "titulo": "Un nuovo inizio",
+        "lineas": [
+          { "q": "A", "t": "Quando sei arrivato in Italia?", "es": "¿Cuándo llegaste a Italia?" },
+          { "q": "B", "t": "Due anni fa.", "es": "Hace dos años." },
+          { "q": "A", "t": "Allora vivi qui da due anni.", "es": "Entonces vives aquí desde hace dos años." },
+          { "q": "B", "t": "Esatto, e ho trovato lavoro un mese fa.", "es": "Exacto, y encontré trabajo hace un mes." },
+          { "q": "A", "t": "Complimenti!", "es": "¡Felicitaciones!" },
+          { "q": "B", "t": "Grazie, l'anno scorso era molto difficile.", "es": "Gracias, el año pasado era muy difícil." }
+        ]
+      },
+      "nota": "Compara: «Vivo qui da due anni» (sigo viviendo) y «Sono arrivato due anni fa» (llegué entonces). La misma historia, dos puntos de vista."
+    },
+    {
+      "id": "it-b1-u2-l3",
+      "n": 3,
+      "titulo": "Ya, todavía, ya no, nunca",
+      "objetivo": "Usar «ancora», «non più», «mai» y «finora» para hablar de cambios.",
+      "intro": "Estas palabras cuentan si algo sigue o cambió. Truco: «non... più» es lo contrario de «ancora»: ya no vs todavía.",
+      "palabras": [
+        { "t": "già", "es": "ya", "pron": "yá", "ej": "Hai già mangiato?", "ejes": "¿Ya comiste?", "cog": false },
+        { "t": "ancora", "es": "todavía (sí)", "pron": "ancóra", "ej": "Abiti ancora a Cusco?", "ejes": "¿Todavía vives en Cusco?", "cog": false },
+        { "t": "non più", "es": "ya no", "pron": "non piú", "ej": "Prima fumavo, ma adesso non più.", "ejes": "Antes fumaba, pero ahora ya no.", "cog": false },
+        { "t": "mai", "es": "alguna vez / nunca", "pron": "mái", "ej": "Sei mai stato in Brasile?", "ejes": "¿Has estado alguna vez en Brasil?", "cog": false },
+        { "t": "mai più", "es": "nunca más", "pron": "mái piú", "ej": "Non ci torno mai più.", "ejes": "No vuelvo nunca más.", "cog": false },
+        { "t": "finora", "es": "hasta ahora", "pron": "finóra", "ej": "Finora è andato tutto bene.", "ejes": "Hasta ahora todo ha ido bien.", "cog": false },
+        { "t": "di recente", "es": "recientemente", "pron": "di rechénte", "ej": "Ho visto un film bellissimo di recente.", "ejes": "Vi una película hermosísima recientemente.", "cog": false },
+        { "t": "ultimamente", "es": "últimamente", "pron": "ultimaménte", "ej": "Ultimamente dormo poco.", "ejes": "Últimamente duermo poco.", "cog": false },
+        { "t": "per ora", "es": "por ahora", "pron": "per óra", "ej": "Per ora non ho progetti.", "ejes": "Por ahora no tengo planes.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Abiti ancora a Cusco?", "es": "¿Todavía vives en Cusco?", "pron": "ábiti ancóra a cúsco" },
+        { "t": "No, non abito più lì.", "es": "No, ya no vivo allí.", "pron": "no non ábito piú lí" },
+        { "t": "Finora ho letto tre libri quest'anno.", "es": "Hasta ahora he leído tres libros este año.", "pron": "finóra o létto tré líbri cuestánno" },
+        { "t": "Di recente ho cambiato lavoro.", "es": "Recientemente cambié de trabajo.", "pron": "di rechénte o cambiáto lavóro" },
+        { "t": "Non ci torno mai più in quel ristorante.", "es": "No vuelvo nunca más a ese restaurante.", "pron": "non chi tórno mái piú in cuel ristoránte" }
+      ],
+      "dialogo": {
+        "titulo": "Cambi di vita",
+        "lineas": [
+          { "q": "A", "t": "Lavori ancora in banca?", "es": "¿Todavía trabajas en el banco?" },
+          { "q": "B", "t": "No, non lavoro più lì. Ho cambiato di recente.", "es": "No, ya no trabajo allí. Cambié recientemente." },
+          { "q": "A", "t": "E come va?", "es": "¿Y cómo va?" },
+          { "q": "B", "t": "Finora tutto bene.", "es": "Hasta ahora todo bien." },
+          { "q": "A", "t": "Hai già trovato casa?", "es": "¿Ya encontraste casa?" },
+          { "q": "B", "t": "Non ancora, ma sto cercando.", "es": "Todavía no, pero estoy buscando." }
+        ]
+      },
+      "nota": "Cuidado con «ancora»: significa «todavía» (Abiti ancora qui?) y «otra vez / más» (Vuoi ancora caffè?). Lo distinguirás por el contexto."
+    },
+    {
+      "id": "it-b1-u2-l4",
+      "n": 4,
+      "titulo": "Ya había pasado: el trapassato",
+      "objetivo": "Contar que algo ya había ocurrido antes de otro hecho pasado.",
+      "intro": "El trapassato prossimo = imperfetto de avere/essere + participio: avevo mangiato, ero uscito. Truco: equivale al «había comido» español.",
+      "palabras": [
+        { "t": "avevo già mangiato", "es": "ya había comido", "pron": "avévo yá mandyáto", "ej": "Quando sei arrivato, avevo già mangiato.", "ejes": "Cuando llegaste, ya había comido.", "cog": false },
+        { "t": "ero già uscito", "es": "ya había salido", "pron": "éro yá ushíto", "ej": "Ero già uscito quando hai chiamato.", "ejes": "Ya había salido cuando llamaste.", "cog": false },
+        { "t": "avevo finito", "es": "había terminado", "pron": "avévo finíto", "ej": "Alle sei avevo finito il lavoro.", "ejes": "A las seis había terminado el trabajo.", "cog": false },
+        { "t": "non avevo mai visto", "es": "nunca había visto", "pron": "non avévo mái vísto", "ej": "Non avevo mai visto un vulcano.", "ejes": "Nunca había visto un volcán.", "cog": false },
+        { "t": "era già partito", "es": "ya se había ido", "pron": "éra yá partíto", "ej": "Il treno era già partito.", "ejes": "El tren ya había partido.", "cog": false },
+        { "t": "avevamo prenotato", "es": "habíamos reservado", "pron": "avevámo prenotáto", "ej": "Avevamo prenotato un tavolo.", "ejes": "Habíamos reservado una mesa.", "cog": false },
+        { "t": "avevo dimenticato", "es": "había olvidado", "pron": "avévo dimenticáto", "ej": "Avevo dimenticato le chiavi a casa.", "ejes": "Había olvidado las llaves en casa.", "cog": false },
+        { "t": "prima di", "es": "antes de", "pron": "príma di", "ej": "Prima di uscire, ho chiuso la porta.", "ejes": "Antes de salir, cerré la puerta.", "cog": false },
+        { "t": "dopo che", "es": "después de que", "pron": "dópo ke", "ej": "Dopo che avevo mangiato, sono uscito.", "ejes": "Después de que había comido, salí.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Quando sei arrivato, avevo già mangiato.", "es": "Cuando llegaste, ya había comido.", "pron": "cuándo séi arrivato avévo yá mandyáto" },
+        { "t": "Il treno era già partito.", "es": "El tren ya había partido.", "pron": "il tréno éra yá partíto" },
+        { "t": "Non avevo mai visto un vulcano.", "es": "Nunca había visto un volcán.", "pron": "non avévo mái vísto un vulcáno" },
+        { "t": "Avevamo prenotato un tavolo, ma il ristorante era chiuso.", "es": "Habíamos reservado una mesa, pero el restaurante estaba cerrado.", "pron": "avevámo prenotáto un távolo ma il ristoránte éra chiúso" },
+        { "t": "Ho capito che avevo dimenticato le chiavi.", "es": "Me di cuenta de que había olvidado las llaves.", "pron": "o capíto ke avévo dimenticáto le quiávi" }
+      ],
+      "dialogo": {
+        "titulo": "Una festa persa",
+        "lineas": [
+          { "q": "A", "t": "Perché non sei venuto alla festa?", "es": "¿Por qué no viniste a la fiesta?" },
+          { "q": "B", "t": "Ero già uscito con Paolo quando mi hai scritto.", "es": "Ya había salido con Paolo cuando me escribiste." },
+          { "q": "A", "t": "Peccato, c'erano tutti.", "es": "Qué pena, estaban todos." },
+          { "q": "B", "t": "Non sapevo che avevi organizzato una festa.", "es": "No sabía que habías organizado una fiesta." },
+          { "q": "A", "t": "Avevo mandato un messaggio al gruppo.", "es": "Había mandado un mensaje al grupo." },
+          { "q": "B", "t": "Non l'avevo letto, scusa!", "es": "No lo había leído, ¡disculpa!" }
+        ]
+      },
+      "nota": "Se elige el auxiliar como en el passato prossimo: avere (avevo mangiato) o essere (ero uscito, era partito). Con essere, el participio concuerda: eravamo usciti, erano partite."
+    },
+    {
+      "id": "it-b1-u2-l5",
+      "n": 5,
+      "titulo": "Repaso: cambios de vida",
+      "objetivo": "Combinar «da», «fa» y el trapassato para contar cambios importantes.",
+      "intro": "Repasa lo aprendido contando cómo ha cambiado tu vida. Truco: «da» para lo que sigue, «fa» para lo que terminó y trapassato para lo anterior.",
+      "palabras": [
+        { "t": "trasferirsi", "es": "mudarse (de ciudad)", "pron": "trasferírsi", "ej": "È difficile trasferirsi in un altro paese.", "ejes": "Es difícil mudarse a otro país.", "cog": false },
+        { "t": "ci siamo trasferiti", "es": "nos mudamos", "pron": "chi siámo trasferíti", "ej": "Ci siamo trasferiti a Torino l'anno scorso.", "ejes": "Nos mudamos a Turín el año pasado.", "cog": false },
+        { "t": "ci conosciamo", "es": "nos conocemos", "pron": "chi conoshiámo", "ej": "Ci conosciamo da dieci anni.", "ejes": "Nos conocemos desde hace diez años.", "cog": false },
+        { "t": "da un po'", "es": "desde hace un rato / un tiempo", "pron": "da un pó", "ej": "Non ti vedo da un po'.", "ejes": "No te veo desde hace un tiempo.", "cog": false },
+        { "t": "negli ultimi anni", "es": "en los últimos años", "pron": "néli últimi ánni", "ej": "Negli ultimi anni è cambiato molto.", "ejes": "En los últimos años ha cambiado mucho.", "cog": false },
+        { "t": "il cambiamento", "es": "el cambio", "pron": "il cambiaménto", "ej": "Il cambiamento è stato grande.", "ejes": "El cambio fue grande.", "cog": false },
+        { "t": "l'amicizia", "es": "la amistad", "pron": "lamichítsia", "ej": "L'amicizia è importante per me.", "ejes": "La amistad es importante para mí.", "cog": false },
+        { "t": "fino a oggi", "es": "hasta hoy", "pron": "fíno a ódyi", "ej": "Fino a oggi non ho avuto problemi.", "ejes": "Hasta hoy no he tenido problemas.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Ci siamo trasferiti a Lima due anni fa.", "es": "Nos mudamos a Lima hace dos años.", "pron": "chi siámo trasferíti a líma dúe ánni fa" },
+        { "t": "Ci conosciamo da dieci anni.", "es": "Nos conocemos desde hace diez años.", "pron": "chi conoshiámo da diéchi ánni" },
+        { "t": "Negli ultimi anni la città è cambiata molto.", "es": "En los últimos años la ciudad ha cambiado mucho.", "pron": "néli últimi ánni la chittá e cambiáta mólto" },
+        { "t": "Non ti vedo da un po'!", "es": "¡No te veo desde hace un tiempo!", "pron": "non ti védo da un pó" },
+        { "t": "Fino a oggi non avevo mai pensato di cambiare città.", "es": "Hasta hoy nunca había pensado en cambiar de ciudad.", "pron": "fíno a ódyi non avévo mái pensáto di cambiáre chittá" }
+      ],
+      "dialogo": {
+        "titulo": "Un incontro dopo tanto tempo",
+        "lineas": [
+          { "q": "A", "t": "Non ti vedo da un po'! Come stai?", "es": "¡No te veo desde hace un tiempo! ¿Cómo estás?" },
+          { "q": "B", "t": "Bene! Mi sono trasferito a Torino un anno fa.", "es": "¡Bien! Me mudé a Turín hace un año." },
+          { "q": "A", "t": "Davvero? Da quanto tempo lavori lì?", "es": "¿En serio? ¿Desde hace cuánto trabajas allí?" },
+          { "q": "B", "t": "Da sei mesi. Prima avevo già lavorato a Milano.", "es": "Desde hace seis meses. Antes ya había trabajado en Milán." },
+          { "q": "A", "t": "Che cambiamento!", "es": "¡Qué cambio!" },
+          { "q": "B", "t": "Sì, ma sono contento.", "es": "Sí, pero estoy contento." }
+        ]
+      },
+      "nota": "«Non ti vedo da un po'» es una frase muy usada entre amigos. Una variante es «È da un sacco di tempo che non ci vediamo» (hace muchísimo que no nos vemos)."
+    }
+  ]
+}

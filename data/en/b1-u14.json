@@ -1,0 +1,217 @@
+{
+  "id": "en-b1-u14",
+  "idioma": "en",
+  "nivel": "B1",
+  "n": 14,
+  "titulo": "Correos formales y expresiones frecuentes",
+  "resumen": "Aprenderás a escribir correos formales en inglés con las fórmulas y los conectores adecuados (however, therefore, although...) y repasarás expresiones frecuentes de todo el nivel.",
+  "puedo": [
+    "Empezar y terminar un correo formal con las fórmulas correctas.",
+    "Explicar el motivo de mi correo con I am writing to...",
+    "Unir ideas con conectores: however, therefore, although, besides.",
+    "Usar expresiones frecuentes como by the way, in fact y as a result.",
+    "Repasar los tiempos y estructuras principales del nivel B1."
+  ],
+  "gramatica": {
+    "titulo": "Conectores: unir ideas con claridad",
+    "texto": "Los conectores unen frases e ideas y hacen que un texto fluya. Los más útiles en B1 son:\nContraste: however (sin embargo), although (aunque), but (pero). Causa: because (porque), because of (a causa de), since (ya que). Resultado: so (así que), therefore (por lo tanto), as a result (como resultado). Añadir: and, also, besides (además), in addition (además).\nTruco de puntuación: however y therefore suelen ir al inicio de una frase con coma: The price is high. However, the quality is excellent. Although va al inicio de una oración con coma: Although it was late, we kept working.\nDespués de because of va un sustantivo: because of the rain. Después de because va una frase completa: because it rained.",
+    "tabla": [
+      ["The price is high. However, it is worth it.", "El precio es alto. Sin embargo, vale la pena.", "da prais is jai. jauéver, it is uerz it"],
+      ["Although it rained, we went out.", "Aunque llovió, salimos.", "oldóu it reind, ui uent aut"],
+      ["I was late because of the traffic.", "Llegué tarde por el tráfico.", "ai uas leit bicós ov da tráfic"],
+      ["It is cheap. Besides, it is close.", "Es barato. Además, está cerca.", "it is chip. bisáids, it is clous"],
+      ["He studied hard. Therefore, he passed.", "Estudió mucho. Por lo tanto, aprobó.", "ji stádid jard. dérfor, ji past"],
+      ["We lost the order. As a result, we apologized.", "Perdimos el pedido. Como resultado, pedimos disculpas.", "ui lost di órder. as a risált, ui apólochaisd"]
+    ],
+    "errores": [
+      "No uses although y but juntos: es Although it was late, we kept working, no «Although it was late, but we kept working».",
+      "No uses because of con una frase completa: es because of the rain (sustantivo), no «because of it rained».",
+      "No pongas however en medio sin comas: es It is expensive. However, it is good, o It is, however, good."
+    ]
+  },
+  "practica": [
+    "Escribe un correo formal de 60 palabras pidiendo información sobre un curso, con I am writing to... y Kind regards (15 minutos).",
+    "Reescribe 8 frases con but o and usando however, although y besides (8 minutos).",
+    "Lee un correo formal en inglés de tu trabajo o de internet y subraya todos los conectores y fórmulas (8 minutos).",
+    "Cuéntate en voz alta tu semana usando by the way, in fact y as a result sin leer (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b1-u14-l1",
+      "n": 1,
+      "titulo": "Empezar un correo formal",
+      "objetivo": "Saludar y explicar el motivo de un correo formal.",
+      "intro": "Un correo formal empieza con Dear + título + apellido y explica pronto el motivo: I am writing to... Truco: usa Mr. para hombre, Ms. para mujer y Dr. si es médico o doctor.",
+      "palabras": [
+        { "t": "dear", "es": "estimado", "pron": "diar", "ej": "Dear Ms. Johnson,", "ejes": "Estimada Sra. Johnson:", "cog": false },
+        { "t": "regarding", "es": "con respecto a", "pron": "rigárdin", "ej": "I am writing regarding your invoice.", "ejes": "Le escribo con respecto a su factura.", "cog": false },
+        { "t": "inquire", "es": "consultar / preguntar", "pron": "inkuáier", "ej": "I would like to inquire about the course.", "ejes": "Quisiera consultar sobre el curso.", "cog": false },
+        { "t": "attached", "es": "adjunto", "pron": "atácht", "ej": "Please find attached my résumé.", "ejes": "Adjunto mi currículum.", "cog": false },
+        { "t": "request", "es": "solicitud / solicitar", "pron": "rikuést", "ej": "I would like to make a request.", "ejes": "Quisiera hacer una solicitud.", "cog": true },
+        { "t": "information", "es": "información", "pron": "informéishen", "ej": "Could you send me more information?", "ejes": "¿Podría enviarme más información?", "cog": true },
+        { "t": "purpose", "es": "propósito", "pron": "pérpos", "ej": "The purpose of this email is to confirm.", "ejes": "El propósito de este correo es confirmar.", "cog": false },
+        { "t": "confirm", "es": "confirmar", "pron": "confírm", "ej": "I'm writing to confirm the meeting.", "ejes": "Escribo para confirmar la reunión.", "cog": true },
+        { "t": "recipient", "es": "destinatario", "pron": "risípient", "ej": "The recipient did not answer.", "ejes": "El destinatario no respondió.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Dear Mr. Smith,", "es": "Estimado Sr. Smith:", "pron": "diar míster smiz" },
+        { "t": "I am writing to confirm the meeting.", "es": "Le escribo para confirmar la reunión.", "pron": "ai am ráitin tu confírm da mítin" },
+        { "t": "I am writing regarding your invoice.", "es": "Le escribo con respecto a su factura.", "pron": "ai am ráitin rigárdin iur ínvois" },
+        { "t": "I would like to inquire about the course.", "es": "Quisiera consultar sobre el curso.", "pron": "ai wud laik tu inkuáier abáut da cors" },
+        { "t": "Please find attached my résumé.", "es": "Adjunto mi currículum.", "pron": "plis faind atácht mai rézumei" }
+      ],
+      "dialogo": {
+        "titulo": "Preparando un correo",
+        "lineas": [
+          { "q": "A", "t": "How should I start the email?", "es": "¿Cómo debo empezar el correo?" },
+          { "q": "B", "t": "Start with Dear Ms. Lopez, and give the purpose.", "es": "Empieza con Dear Ms. Lopez, y da el propósito." },
+          { "q": "A", "t": "I am writing to inquire about the vacancy.", "es": "Le escribo para consultar sobre la vacante." },
+          { "q": "B", "t": "Perfect. Don't forget to say that your résumé is attached.", "es": "Perfecto. No olvides decir que tu currículum está adjunto." }
+        ]
+      },
+      "nota": "Si no conoces el nombre de la persona, usa Dear Sir or Madam, o Dear Hiring Manager si es una vacante. Después del nombre se usa coma en EE. UU."
+    },
+    {
+      "id": "en-b1-u14-l2",
+      "n": 2,
+      "titulo": "Cerrar un correo formal",
+      "objetivo": "Terminar un correo con las fórmulas de despedida correctas.",
+      "intro": "El final también tiene fórmulas fijas. Truco: Yours sincerely se usa si conoces el nombre (Dear Mr. Smith); Yours faithfully si no lo conoces (Dear Sir or Madam). En EE. UU. Sincerely o Best regards bastan.",
+      "palabras": [
+        { "t": "sincerely", "es": "atentamente", "pron": "sinsíarli", "ej": "Sincerely, Ana Torres", "ejes": "Atentamente, Ana Torres", "cog": true },
+        { "t": "regards", "es": "saludos", "pron": "rigárds", "ej": "Kind regards, Pedro", "ejes": "Saludos cordiales, Pedro", "cog": false },
+        { "t": "look forward to", "es": "esperar con interés", "pron": "luk fórguard tu", "ej": "I look forward to hearing from you.", "ejes": "Espero con interés su respuesta.", "cog": false },
+        { "t": "hesitate", "es": "dudar", "pron": "jésiteit", "ej": "Do not hesitate to contact me.", "ejes": "No dude en contactarme.", "cog": false },
+        { "t": "convenience", "es": "conveniencia / comodidad", "pron": "convíniens", "ej": "Reply at your earliest convenience.", "ejes": "Responda a la brevedad que le sea posible.", "cog": true },
+        { "t": "assistance", "es": "ayuda / asistencia", "pron": "asístans", "ej": "Thank you for your assistance.", "ejes": "Gracias por su ayuda.", "cog": true },
+        { "t": "contact", "es": "contactar", "pron": "cóntact", "ej": "Please contact me by phone.", "ejes": "Por favor, contácteme por teléfono.", "cog": true },
+        { "t": "reply", "es": "responder", "pron": "riplái", "ej": "I will reply tomorrow.", "ejes": "Responderé mañana.", "cog": false },
+        { "t": "enclosed", "es": "adjunto (en carta)", "pron": "inclóusd", "ej": "The documents are enclosed.", "ejes": "Los documentos están adjuntos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Thank you for your assistance.", "es": "Gracias por su ayuda.", "pron": "zank iu for iur asístans" },
+        { "t": "I look forward to hearing from you.", "es": "Espero con interés su respuesta.", "pron": "ai luk fórguard tu jíarin from iu" },
+        { "t": "Please do not hesitate to contact me.", "es": "Por favor, no dude en contactarme.", "pron": "plis du nat jésiteit tu cóntact mi" },
+        { "t": "Please reply at your earliest convenience.", "es": "Responda a la brevedad que le sea posible.", "pron": "plis riplái at iur érliest convíniens" },
+        { "t": "Kind regards, Ana Torres", "es": "Saludos cordiales, Ana Torres", "pron": "kaind rigárds, ána tórres" }
+      ],
+      "dialogo": {
+        "titulo": "El final del correo",
+        "lineas": [
+          { "q": "A", "t": "How do I finish the email?", "es": "¿Cómo termino el correo?" },
+          { "q": "B", "t": "Write: I look forward to hearing from you.", "es": "Escribe: Espero con interés su respuesta." },
+          { "q": "A", "t": "And then?", "es": "¿Y luego?" },
+          { "q": "B", "t": "Kind regards, and your name. Add: Please do not hesitate to contact me.", "es": "Saludos cordiales y tu nombre. Añade: No dude en contactarme." }
+        ]
+      },
+      "nota": "Yours sincerely es más británico; en EE. UU. se prefiere Sincerely, Best regards o Kind regards. Cierra siempre con tu nombre completo en un correo formal."
+    },
+    {
+      "id": "en-b1-u14-l3",
+      "n": 3,
+      "titulo": "Conectores de contraste y causa",
+      "objetivo": "Usar however, although, because of y besides.",
+      "intro": "Los conectores te ayudan a explicar razones y contrastes. Truco: however va al inicio de una frase y lleva coma; although empieza una oración con coma.",
+      "palabras": [
+        { "t": "however", "es": "sin embargo", "pron": "jauéver", "ej": "The price is high. However, it is worth it.", "ejes": "El precio es alto. Sin embargo, vale la pena.", "cog": false },
+        { "t": "although", "es": "aunque", "pron": "oldóu", "ej": "Although it rained, we went out.", "ejes": "Aunque llovió, salimos.", "cog": false },
+        { "t": "besides", "es": "además", "pron": "bisáids", "ej": "It is cheap. Besides, it is close.", "ejes": "Es barato. Además, está cerca.", "cog": false },
+        { "t": "therefore", "es": "por lo tanto", "pron": "dérfor", "ej": "He studied hard. Therefore, he passed.", "ejes": "Estudió mucho. Por lo tanto, aprobó.", "cog": false },
+        { "t": "because of", "es": "a causa de", "pron": "bicós ov", "ej": "We stayed home because of the rain.", "ejes": "Nos quedamos en casa por la lluvia.", "cog": false },
+        { "t": "in addition", "es": "además", "pron": "in adíshen", "ej": "In addition, the hotel has a pool.", "ejes": "Además, el hotel tiene piscina.", "cog": false },
+        { "t": "despite", "es": "a pesar de", "pron": "dispáit", "ej": "Despite the noise, I slept well.", "ejes": "A pesar del ruido, dormí bien.", "cog": false },
+        { "t": "as a result", "es": "como resultado", "pron": "as a risált", "ej": "As a result, prices went down.", "ejes": "Como resultado, los precios bajaron.", "cog": false },
+        { "t": "so that", "es": "para que", "pron": "so dat", "ej": "I wrote it so that everyone understands.", "ejes": "Lo escribí para que todos entiendan.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The price is high. However, it is worth it.", "es": "El precio es alto. Sin embargo, vale la pena.", "pron": "da prais is jai. jauéver, it is uerz it" },
+        { "t": "Although it rained, we went out.", "es": "Aunque llovió, salimos.", "pron": "oldóu it reind, ui uent aut" },
+        { "t": "I was late because of the traffic.", "es": "Llegué tarde por el tráfico.", "pron": "ai uas leit bicós ov da tráfic" },
+        { "t": "Despite the noise, I slept well.", "es": "A pesar del ruido, dormí bien.", "pron": "dispáit da nóis, ai slept uel" },
+        { "t": "It is cheap. Besides, it is close to my office.", "es": "Es barato. Además, está cerca de mi oficina.", "pron": "it is chip. bisáids, it is clous tu mai ófis" }
+      ],
+      "dialogo": {
+        "titulo": "Eligiendo un hotel",
+        "lineas": [
+          { "q": "A", "t": "The hotel is expensive. However, it has a great location.", "es": "El hotel es caro. Sin embargo, tiene una gran ubicación." },
+          { "q": "B", "t": "Besides, the breakfast is included.", "es": "Además, el desayuno está incluido." },
+          { "q": "A", "t": "Although it's pricey, I think we should book it.", "es": "Aunque es caro, creo que deberíamos reservarlo." },
+          { "q": "B", "t": "Agreed. Despite the price, it is the best option.", "es": "De acuerdo. A pesar del precio, es la mejor opción." }
+        ]
+      },
+      "nota": "Despite y in spite of significan lo mismo y van con sustantivo o -ing: Despite the rain / Despite being tired. Nunca lleva of: despite of es incorrecto."
+    },
+    {
+      "id": "en-b1-u14-l4",
+      "n": 4,
+      "titulo": "Expresiones frecuentes",
+      "objetivo": "Usar expresiones comunes para conversar con naturalidad.",
+      "intro": "Estas expresiones aparecen todo el tiempo en inglés y ayudan a sonar natural. Truco: apréndelas enteras, no palabra por palabra.",
+      "palabras": [
+        { "t": "by the way", "es": "por cierto", "pron": "bai da uei", "ej": "By the way, did you call Maria?", "ejes": "Por cierto, ¿llamaste a María?", "cog": false },
+        { "t": "in fact", "es": "de hecho", "pron": "in fact", "ej": "In fact, I have already finished.", "ejes": "De hecho, ya terminé.", "cog": false },
+        { "t": "as soon as possible", "es": "lo antes posible", "pron": "as sun as pósibol", "ej": "Please answer as soon as possible.", "ejes": "Responda lo antes posible.", "cog": false },
+        { "t": "on the other hand", "es": "por otro lado", "pron": "on di ódher jand", "ej": "On the other hand, it is very cheap.", "ejes": "Por otro lado, es muy barato.", "cog": false },
+        { "t": "for example", "es": "por ejemplo", "pron": "for egsámpol", "ej": "For example, I like pizza.", "ejes": "Por ejemplo, me gusta la pizza.", "cog": false },
+        { "t": "in conclusion", "es": "en conclusión", "pron": "in conclúshen", "ej": "In conclusion, the plan is good.", "ejes": "En conclusión, el plan es bueno.", "cog": false },
+        { "t": "as far as I know", "es": "hasta donde sé", "pron": "as far as ai nou", "ej": "As far as I know, he is on vacation.", "ejes": "Hasta donde sé, él está de vacaciones.", "cog": false },
+        { "t": "it turns out", "es": "resulta que", "pron": "it terns aut", "ej": "It turns out that she was right.", "ejes": "Resulta que ella tenía razón.", "cog": false },
+        { "t": "to be honest", "es": "para ser sincero", "pron": "tu bi ónest", "ej": "To be honest, I was worried.", "ejes": "Para ser sincero, estaba preocupado.", "cog": false }
+      ],
+      "frases": [
+        { "t": "By the way, did you call Maria?", "es": "Por cierto, ¿llamaste a María?", "pron": "bai da uei, did iu col maría" },
+        { "t": "Please answer as soon as possible.", "es": "Responda lo antes posible.", "pron": "plis ánser as sun as pósibol" },
+        { "t": "On the other hand, it is very cheap.", "es": "Por otro lado, es muy barato.", "pron": "on di ódher jand, it is véri chip" },
+        { "t": "As far as I know, he is on vacation.", "es": "Hasta donde sé, él está de vacaciones.", "pron": "as far as ai nou, ji is on veikéishen" },
+        { "t": "It turns out that she was right.", "es": "Resulta que ella tenía razón.", "pron": "it terns aut dat shi uas rait" }
+      ],
+      "dialogo": {
+        "titulo": "Una charla de oficina",
+        "lineas": [
+          { "q": "A", "t": "By the way, did you send the report?", "es": "Por cierto, ¿enviaste el informe?" },
+          { "q": "B", "t": "As far as I know, Pedro sent it yesterday.", "es": "Hasta donde sé, Pedro lo envió ayer." },
+          { "q": "A", "t": "In fact, I haven't received it.", "es": "De hecho, no lo he recibido." },
+          { "q": "B", "t": "It turns out he used the wrong address. I'll ask him as soon as possible.", "es": "Resulta que usó la dirección equivocada. Le preguntaré lo antes posible." }
+        ]
+      },
+      "nota": "In fact tiene dos usos: dar una prueba (In fact, I know him) y corregir (I thought it was easy; in fact, it was hard). No significa solo «de hecho» siempre, mira el contexto."
+    },
+    {
+      "id": "en-b1-u14-l5",
+      "n": 5,
+      "titulo": "Repaso general del nivel",
+      "objetivo": "Mezclar los tiempos y estructuras del nivel en un correo y en una conversación.",
+      "intro": "Cerramos B1 repasando todo: opiniones, reportes, gerundios, condicionales, present perfect continuous y peticiones. Truco: lee un correo formal y localiza cada estructura.",
+      "palabras": [
+        { "t": "schedule", "es": "horario / programar", "pron": "skédiul", "ej": "Let's schedule a meeting.", "ejes": "Programemos una reunión.", "cog": false },
+        { "t": "agenda", "es": "agenda / temas a tratar", "pron": "ayénda", "ej": "The agenda has three points.", "ejes": "La agenda tiene tres puntos.", "cog": true },
+        { "t": "deadline", "es": "fecha límite", "pron": "dédlain", "ej": "The deadline is on Friday.", "ejes": "La fecha límite es el viernes.", "cog": false },
+        { "t": "proposal", "es": "propuesta", "pron": "propóusal", "ej": "I sent my proposal yesterday.", "ejes": "Envié mi propuesta ayer.", "cog": true },
+        { "t": "feedback", "es": "comentarios / retroalimentación", "pron": "fídbak", "ej": "Thank you for your feedback.", "ejes": "Gracias por sus comentarios.", "cog": false },
+        { "t": "follow up", "es": "dar seguimiento", "pron": "fólou ap", "ej": "I want to follow up on my request.", "ejes": "Quiero dar seguimiento a mi solicitud.", "cog": false },
+        { "t": "postpone", "es": "posponer", "pron": "poustpóun", "ej": "We have to postpone the meeting.", "ejes": "Tenemos que posponer la reunión.", "cog": false },
+        { "t": "apologize", "es": "disculparse", "pron": "apólochaiz", "ej": "I apologize for the inconvenience.", "ejes": "Me disculpo por las molestias.", "cog": false },
+        { "t": "inconvenience", "es": "molestia / inconveniente", "pron": "inconvíniens", "ej": "Sorry for the inconvenience.", "ejes": "Disculpe el inconveniente.", "cog": true }
+      ],
+      "frases": [
+        { "t": "I have been working on this proposal for two weeks.", "es": "Llevo dos semanas trabajando en esta propuesta.", "pron": "ai jav bin uérkin on dis propóusal for tu uiks" },
+        { "t": "Would you mind sending me your feedback?", "es": "¿Le molestaría enviarme sus comentarios?", "pron": "wud iu maind séndin mi iur fídbak" },
+        { "t": "If we postponed the meeting, we would have more time.", "es": "Si pospusiéramos la reunión, tendríamos más tiempo.", "pron": "if ui poustpóund da mítin, ui wud jav mor taim" },
+        { "t": "The manager announced that the deadline will change.", "es": "El gerente anunció que la fecha límite cambiará.", "pron": "da mánayer anáunst dat da dédlain uil cheinch" },
+        { "t": "I apologize for the inconvenience.", "es": "Me disculpo por las molestias.", "pron": "ai apólochaiz for di inconvíniens" },
+        { "t": "I'm writing to follow up on my request.", "es": "Escribo para dar seguimiento a mi solicitud.", "pron": "aim ráitin tu fólou ap on mai rikuést" }
+      ],
+      "dialogo": {
+        "titulo": "Un correo para el jefe",
+        "lineas": [
+          { "q": "A", "t": "Dear Mr. Ramos, I am writing to follow up on my proposal.", "es": "Estimado Sr. Ramos, le escribo para dar seguimiento a mi propuesta." },
+          { "q": "B", "t": "Although it is a good plan, I need more feedback.", "es": "Aunque es un buen plan, necesito más comentarios." },
+          { "q": "A", "t": "Would you mind scheduling a meeting? I have been working on it for weeks.", "es": "¿Le molestaría programar una reunión? Llevo semanas trabajando en ello." },
+          { "q": "B", "t": "Of course. However, the agenda is full, so we can meet on Friday.", "es": "Claro. Sin embargo, la agenda está llena, así que podemos vernos el viernes." },
+          { "q": "A", "t": "Perfect. Thank you for your assistance. Kind regards, Ana.", "es": "Perfecto. Gracias por su ayuda. Saludos cordiales, Ana." }
+        ]
+      },
+      "nota": "Felicitaciones: terminaste B1. Con este nivel puedes escribir correos formales, dar opiniones, contar noticias y desenvolverte en reclamaciones. Sigue con B2 y repasa cada semana."
+    }
+  ]
+}

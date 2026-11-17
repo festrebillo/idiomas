@@ -1,0 +1,218 @@
+{
+  "id": "it-b1-u11",
+  "idioma": "it",
+  "nivel": "B1",
+  "n": 11,
+  "titulo": "Medio ambiente y sociedad",
+  "resumen": "Aprenderás a hablar del medio ambiente y a expresar deseos y necesidades con «è importante che» y «spero che» + congiuntivo.",
+  "puedo": [
+    "Nombrar problemas y soluciones ambientales.",
+    "Usar verbos como riciclare, risparmiare y proteggere.",
+    "Decir «è importante che...» con congiuntivo.",
+    "Expresar esperanza con «spero che...».",
+    "Hablar de la sociedad y del futuro."
+  ],
+  "gramatica": {
+    "titulo": "Congiuntivo con è importante che / spero che",
+    "texto": "Después de expresiones de necesidad o deseo se usa el congiuntivo: è importante che, è necessario che, bisogna che, spero che, voglio che.\nÈ importante che tutti riciclino. = Es importante que todos reciclen.\nSpero che il clima migliori. = Espero que el clima mejore.\nFormas: los verbos en -are usan -i (ricicli) y en plural -ino (riciclino); los verbos en -ere/-ire usan -a/-ano (scriva, scrivano); para noi es igual que el presente (che ricicliamo).\nLos irregulares ya conocidos: sia, abbia, faccia, vada.\nSi sujeto de las dos partes es el mismo, se usa infinitivo: Spero di vincere (no «spero che io vinca»).",
+    "tabla": [
+      ["è importante che ricicli", "es importante que recicle", "é importánte ke ríchikli"],
+      ["è importante che riciclino", "es importante que reciclen", "é importánte ke ríchiklino"],
+      ["è necessario che abbia", "es necesario que tenga", "é nechessário ke ábbia"],
+      ["spero che sia", "espero que sea", "spéro ke sía"],
+      ["spero che il clima migliori", "espero que el clima mejore", "spéro ke il clíma milióri"],
+      ["spero di vincere", "espero ganar (mismo sujeto)", "spéro di vinchére"]
+    ],
+    "errores": [
+      "No digas «è importante che tutti ricicla»: tras «è importante che» va congiuntivo, «che tutti riciclino».",
+      "Si quien espera y quien actúa es la misma persona, usa «di» + infinitivo: «spero di partire», no «spero che io parta».",
+      "No omitas «che» como se hace en inglés: en italiano es obligatorio, «penso che sia», no «penso sia» en esta etapa."
+    ]
+  },
+  "practica": [
+    "Escribe cinco frases con «È importante che...» sobre cómo cuidar tu ciudad (6 minutos).",
+    "Di en voz alta cinco deseos para el futuro con «Spero che...» (4 minutos).",
+    "Haz una lista de cinco hábitos ecológicos que ya tienes y cinco que quieres tener, en italiano (6 minutos).",
+    "Lee un artículo corto sobre clima en un sitio italiano y subraya cinco palabras del tema (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b1-u11-l1",
+      "n": 1,
+      "titulo": "El medio ambiente",
+      "objetivo": "Nombrar los problemas y elementos del ambiente.",
+      "intro": "Muchas palabras ambientales son cognados. Truco: «l'ambiente» (con apóstrofo) y «il clima» no cambian mucho del español.",
+      "palabras": [
+        { "t": "l'ambiente", "es": "el medio ambiente", "pron": "lambiénte", "ej": "L'ambiente è importante.", "ejes": "El medio ambiente es importante.", "cog": true },
+        { "t": "l'inquinamento", "es": "la contaminación", "pron": "linquinaménto", "ej": "L'inquinamento è un problema grave.", "ejes": "La contaminación es un problema grave.", "cog": false },
+        { "t": "il clima", "es": "el clima", "pron": "il clíma", "ej": "Il clima sta cambiando.", "ejes": "El clima está cambiando.", "cog": true },
+        { "t": "la natura", "es": "la naturaleza", "pron": "la natúra", "ej": "Amo la natura.", "ejes": "Amo la naturaleza.", "cog": true },
+        { "t": "i rifiuti", "es": "los residuos / la basura", "pron": "i rifiúti", "ej": "I rifiuti sono troppi.", "ejes": "Los residuos son demasiados.", "cog": false },
+        { "t": "la plastica", "es": "el plástico", "pron": "la plástica", "ej": "La plastica inquina il mare.", "ejes": "El plástico contamina el mar.", "cog": true },
+        { "t": "l'energia", "es": "la energía", "pron": "lenerdyía", "ej": "L'energia solare è pulita.", "ejes": "La energía solar es limpia.", "cog": true },
+        { "t": "l'aria", "es": "el aire", "pron": "lária", "ej": "L'aria di montagna è pulita.", "ejes": "El aire de montaña es limpio.", "cog": false },
+        { "t": "pulito", "es": "limpio", "pron": "pulíto", "ej": "Il mare è pulito.", "ejes": "El mar está limpio.", "cog": false }
+      ],
+      "frases": [
+        { "t": "L'inquinamento è un problema grave.", "es": "La contaminación es un problema grave.", "pron": "linquinaménto é un probléma gráve" },
+        { "t": "Il clima sta cambiando.", "es": "El clima está cambiando.", "pron": "il clíma sta cambiándo" },
+        { "t": "Ci sono troppi rifiuti in strada.", "es": "Hay demasiados residuos en la calle.", "pron": "chi sóno tróppi rifiúti in stráda" },
+        { "t": "L'energia solare è pulita.", "es": "La energía solar es limpia.", "pron": "lenerdyía soláre é pulíta" },
+        { "t": "La natura è bellissima in Perù.", "es": "La naturaleza es hermosísima en Perú.", "pron": "la natúra é bellíssima in perú" }
+      ],
+      "dialogo": {
+        "titulo": "Hablando del planeta",
+        "lineas": [
+          { "q": "A", "t": "Hai letto del clima?", "es": "¿Leíste sobre el clima?" },
+          { "q": "B", "t": "Sì, l'inquinamento è un problema grave.", "es": "Sí, la contaminación es un problema grave." },
+          { "q": "A", "t": "Ci sono troppi rifiuti di plastica.", "es": "Hay demasiados residuos de plástico." },
+          { "q": "B", "t": "Per fortuna l'energia solare è sempre più popolare.", "es": "Por suerte la energía solar es cada vez más popular." },
+          { "q": "A", "t": "Speriamo che l'aria sia più pulita.", "es": "Esperemos que el aire sea más limpio." }
+        ]
+      },
+      "nota": "«I rifiuti» es siempre plural en italiano (un rifiuto es un solo residuo). «Inquinamento» lleva doble n: in-qui-na-men-to. «Pulito» (limpio) es lo contrario de «sporco» (sucio)."
+    },
+    {
+      "id": "it-b1-u11-l2",
+      "n": 2,
+      "titulo": "Acciones ecológicas",
+      "objetivo": "Decir qué podemos hacer para cuidar el ambiente.",
+      "intro": "Estos verbos describen acciones concretas. Truco: «riciclare» y «riutilizzare» llevan «ri-» como en español «reciclar» y «reutilizar».",
+      "palabras": [
+        { "t": "riciclare", "es": "reciclar", "pron": "richiclare", "ej": "Dobbiamo riciclare la carta.", "ejes": "Debemos reciclar el papel.", "cog": true },
+        { "t": "risparmiare", "es": "ahorrar", "pron": "rispariamiáre", "ej": "Voglio risparmiare energia.", "ejes": "Quiero ahorrar energía.", "cog": false },
+        { "t": "inquinare", "es": "contaminar", "pron": "inquináre", "ej": "Le macchine possono inquinare.", "ejes": "Los autos pueden contaminar.", "cog": false },
+        { "t": "proteggere", "es": "proteger", "pron": "protéddyere", "ej": "Dobbiamo proteggere la natura.", "ejes": "Debemos proteger la naturaleza.", "cog": true, "truco": "Participio irregular: protetto." },
+        { "t": "ridurre", "es": "reducir", "pron": "ridúrre", "ej": "Vogliamo ridurre i rifiuti.", "ejes": "Queremos reducir los residuos.", "cog": true, "truco": "Irregular: riduco, riduci..." },
+        { "t": "sprecare", "es": "desperdiciar", "pron": "sprecáre", "ej": "Non bisogna sprecare acqua.", "ejes": "No hay que desperdiciar agua.", "cog": false },
+        { "t": "riutilizzare", "es": "reutilizar", "pron": "riutilizzáre", "ej": "Posso riutilizzare la bottiglia.", "ejes": "Puedo reutilizar la botella.", "cog": true },
+        { "t": "usare i mezzi pubblici", "es": "usar el transporte público", "pron": "usáre i métsi públichi", "ej": "Voglio usare i mezzi pubblici.", "ejes": "Quiero usar el transporte público.", "cog": false },
+        { "t": "spegnere la luce", "es": "apagar la luz", "pron": "spéñere la lúche", "ej": "Devi spegnere la luce.", "ejes": "Debes apagar la luz.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Dobbiamo riciclare la plastica.", "es": "Debemos reciclar el plástico.", "pron": "dobbiámo richiclare la plástica" },
+        { "t": "Non bisogna sprecare l'acqua.", "es": "No hay que desperdiciar el agua.", "pron": "non bisóña sprecáre lácua" },
+        { "t": "Uso i mezzi pubblici per risparmiare.", "es": "Uso el transporte público para ahorrar.", "pron": "úso i métsi públichi per rispariamiáre" },
+        { "t": "Spengo sempre la luce.", "es": "Siempre apago la luz.", "pron": "spéngo sémpre la lúche" },
+        { "t": "Vogliamo ridurre i rifiuti.", "es": "Queremos reducir los residuos.", "pron": "voliámo ridúrre i rifiúti" }
+      ],
+      "dialogo": {
+        "titulo": "Hábitos verdes",
+        "lineas": [
+          { "q": "A", "t": "Tu ricicli la plastica?", "es": "¿Tú reciclas el plástico?" },
+          { "q": "B", "t": "Sì, e uso i mezzi pubblici per andare al lavoro.", "es": "Sí, y uso el transporte público para ir al trabajo." },
+          { "q": "A", "t": "Io spengo sempre la luce quando esco.", "es": "Yo siempre apago la luz cuando salgo." },
+          { "q": "B", "t": "Anche io. Non bisogna sprecare niente.", "es": "Yo también. No hay que desperdiciar nada." },
+          { "q": "A", "t": "Dobbiamo proteggere il pianeta.", "es": "Debemos proteger el planeta." }
+        ]
+      },
+      "nota": "«Bisogna» + infinitivo = hay que: «bisogna riciclare». «Risparmiare» es ahorrar tiempo, dinero o energía. En Italia los residuos se separan en contenedores de colores: «la raccolta differenziata»."
+    },
+    {
+      "id": "it-b1-u11-l3",
+      "n": 3,
+      "titulo": "È importante che...",
+      "objetivo": "Decir qué es importante o necesario con congiuntivo.",
+      "intro": "Después de «è importante che» el verbo cambia de forma. Truco: en -are cambia -a a -i: ricicla → ricicli.",
+      "palabras": [
+        { "t": "è importante che", "es": "es importante que", "pron": "é importánte ke", "ej": "È importante che tutti riciclino.", "ejes": "Es importante que todos reciclen.", "cog": true },
+        { "t": "è necessario che", "es": "es necesario que", "pron": "é nechessário ke", "ej": "È necessario che tu venga.", "ejes": "Es necesario que vengas.", "cog": true },
+        { "t": "bisogna che", "es": "hace falta que", "pron": "bisóña ke", "ej": "Bisogna che tutti collaborino.", "ejes": "Hace falta que todos colaboren.", "cog": false },
+        { "t": "è meglio che", "es": "es mejor que", "pron": "é méllo ke", "ej": "È meglio che tu usi la bici.", "ejes": "Es mejor que uses la bici.", "cog": false },
+        { "t": "tutti", "es": "todos", "pron": "túti", "ej": "Tutti possono aiutare.", "ejes": "Todos pueden ayudar.", "cog": false },
+        { "t": "collaborare", "es": "colaborar", "pron": "collaboráre", "ej": "Dobbiamo collaborare.", "ejes": "Debemos colaborar.", "cog": true },
+        { "t": "la bici", "es": "la bici", "pron": "la bíchi", "ej": "La bici è comoda.", "ejes": "La bici es cómoda.", "cog": false },
+        { "t": "il governo", "es": "el gobierno", "pron": "il governo", "ej": "Il governo ha una nuova legge.", "ejes": "El gobierno tiene una nueva ley.", "cog": true }
+      ],
+      "frases": [
+        { "t": "È importante che tutti riciclino.", "es": "Es importante que todos reciclen.", "pron": "é importánte ke túti ríchiklino" },
+        { "t": "È necessario che il governo faccia qualcosa.", "es": "Es necesario que el gobierno haga algo.", "pron": "é nechessário ke il governo fáccha cualcósa" },
+        { "t": "Bisogna che tutti collaborino.", "es": "Hace falta que todos colaboren.", "pron": "bisóña ke túti collabórino" },
+        { "t": "È meglio che tu usi la bici.", "es": "Es mejor que uses la bici.", "pron": "é méllo ke tu úsi la bíchi" },
+        { "t": "È importante che l'aria sia pulita.", "es": "Es importante que el aire sea limpio.", "pron": "é importánte ke lária sía pulíta" }
+      ],
+      "dialogo": {
+        "titulo": "En una reunión de vecinos",
+        "lineas": [
+          { "q": "A", "t": "È importante che tutti riciclino.", "es": "Es importante que todos reciclen." },
+          { "q": "B", "t": "Sono d'accordo. È necessario che il governo faccia di più.", "es": "Estoy de acuerdo. Es necesario que el gobierno haga más." },
+          { "q": "A", "t": "Intanto è meglio che usiamo la bici.", "es": "Mientras tanto es mejor que usemos la bici." },
+          { "q": "B", "t": "Bisogna che tutti collaborino.", "es": "Hace falta que todos colaboren." },
+          { "q": "A", "t": "Esatto, ognuno deve fare la sua parte.", "es": "Exacto, cada uno debe hacer su parte." }
+        ]
+      },
+      "nota": "Con «tutti» (todos) el verbo va en plural: «tutti riciclino». Pronuncia bien: riciclino = ri-CHI-cli-no. Si el sujeto es general, también puedes decir «è importante riciclare» (con infinitivo, sin che)."
+    },
+    {
+      "id": "it-b1-u11-l4",
+      "n": 4,
+      "titulo": "Espero que...",
+      "objetivo": "Expresar esperanzas y deseos para el futuro.",
+      "intro": "«Spero che» (espero que) también pide congiuntivo. Truco: si quien espera y quien actúa son la misma persona, usa «spero di» + infinitivo: «spero di vincere».",
+      "palabras": [
+        { "t": "spero che", "es": "espero que", "pron": "spéro ke", "ej": "Spero che domani sia bel tempo.", "ejes": "Espero que mañana haga buen tiempo.", "cog": false },
+        { "t": "spero di", "es": "espero (mismo sujeto)", "pron": "spéro di", "ej": "Spero di partire presto.", "ejes": "Espero partir pronto.", "cog": false },
+        { "t": "il futuro", "es": "el futuro", "pron": "il futúro", "ej": "Il futuro è nelle nostre mani.", "ejes": "El futuro está en nuestras manos.", "cog": true },
+        { "t": "migliorare", "es": "mejorar", "pron": "milioráre", "ej": "Voglio migliorare il mio italiano.", "ejes": "Quiero mejorar mi italiano.", "cog": false },
+        { "t": "cambiare", "es": "cambiar", "pron": "cambiáre", "ej": "Le cose possono cambiare.", "ejes": "Las cosas pueden cambiar.", "cog": true },
+        { "t": "la società", "es": "la sociedad", "pron": "la sochietá", "ej": "La società cambia in fretta.", "ejes": "La sociedad cambia rápido.", "cog": true },
+        { "t": "i giovani", "es": "los jóvenes", "pron": "i yóvani", "ej": "I giovani hanno molte idee.", "ejes": "Los jóvenes tienen muchas ideas.", "cog": false },
+        { "t": "la legge", "es": "la ley", "pron": "la léddye", "ej": "La legge è nuova.", "ejes": "La ley es nueva.", "cog": false },
+        { "t": "la speranza", "es": "la esperanza", "pron": "la sperántsa", "ej": "La speranza è l'ultima a morire.", "ejes": "La esperanza es lo último que se pierde.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Spero che il clima migliori.", "es": "Espero que el clima mejore.", "pron": "spéro ke il clíma milióri" },
+        { "t": "Spero che i giovani abbiano più opportunità.", "es": "Espero que los jóvenes tengan más oportunidades.", "pron": "spéro ke i yóvani abbiáno piú opportunitá" },
+        { "t": "Spero che tutti stiano bene.", "es": "Espero que todos estén bien.", "pron": "spéro ke túti stiáno béne" },
+        { "t": "Spero di viaggiare in Europa un giorno.", "es": "Espero viajar por Europa algún día.", "pron": "spéro di viaddyáre in europa un yórno" },
+        { "t": "Spero che la società cambi.", "es": "Espero que la sociedad cambie.", "pron": "spéro ke la sochietá cámbi" }
+      ],
+      "dialogo": {
+        "titulo": "Sueños y esperanzas",
+        "lineas": [
+          { "q": "A", "t": "Che cosa speri per il futuro?", "es": "¿Qué esperas para el futuro?" },
+          { "q": "B", "t": "Spero che il clima migliori.", "es": "Espero que el clima mejore." },
+          { "q": "A", "t": "Io spero che i giovani abbiano più opportunità.", "es": "Yo espero que los jóvenes tengan más oportunidades." },
+          { "q": "B", "t": "E tu, che cosa vuoi fare?", "es": "¿Y tú, qué quieres hacer?" },
+          { "q": "A", "t": "Spero di vivere in un mondo più pulito.", "es": "Espero vivir en un mundo más limpio." }
+        ]
+      },
+      "nota": "«Spero di» solo con el mismo sujeto: «spero di partire» (yo espero, yo parto). «Spero che» con otro sujeto: «spero che tu parta». «La speranza è l'ultima a morire» es un dicho muy usado."
+    },
+    {
+      "id": "it-b1-u11-l5",
+      "n": 5,
+      "titulo": "Repaso: un mundo mejor",
+      "objetivo": "Combinar vocabulario y congiuntivo para hablar de soluciones y deseos.",
+      "intro": "Une lo aprendido: problemas, acciones, necesidades y esperanzas. Truco: después de «che» pregúntate: ¿es deseo, necesidad u opinión? Si sí, congiuntivo.",
+      "palabras": [
+        { "t": "il pianeta", "es": "el planeta", "pron": "il pianéta", "ej": "Il pianeta ha bisogno di noi.", "ejes": "El planeta nos necesita.", "cog": true },
+        { "t": "la soluzione", "es": "la solución", "pron": "la solutsióne", "ej": "La soluzione è semplice.", "ejes": "La solución es sencilla.", "cog": true },
+        { "t": "il problema", "es": "el problema", "pron": "il probléma", "ej": "Il problema è grave.", "ejes": "El problema es grave.", "cog": true },
+        { "t": "responsabile", "es": "responsable", "pron": "responsábile", "ej": "Ognuno è responsabile.", "ejes": "Cada uno es responsable.", "cog": true },
+        { "t": "il volontario", "es": "el voluntario", "pron": "il volontário", "ej": "Il volontario pulisce la spiaggia.", "ejes": "El voluntario limpia la playa.", "cog": true },
+        { "t": "la spiaggia", "es": "la playa", "pron": "la spiáddya", "ej": "La spiaggia è pulita.", "ejes": "La playa está limpia.", "cog": false },
+        { "t": "aiutare", "es": "ayudar", "pron": "aiutáre", "ej": "Voglio aiutare l'ambiente.", "ejes": "Quiero ayudar al medio ambiente.", "cog": false },
+        { "t": "insieme", "es": "juntos", "pron": "insiéme", "ej": "Insieme possiamo cambiare.", "ejes": "Juntos podemos cambiar.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Siamo tutti responsabili del pianeta.", "es": "Todos somos responsables del planeta.", "pron": "siámo túti responsábili del pianéta" },
+        { "t": "È importante che i volontari puliscano la spiaggia.", "es": "Es importante que los voluntarios limpien la playa.", "pron": "é importánte ke i volontári pulíscano la spiáddya" },
+        { "t": "Spero che trovino una soluzione.", "es": "Espero que encuentren una solución.", "pron": "spéro ke trovíno úna solutsióne" },
+        { "t": "Insieme possiamo aiutare l'ambiente.", "es": "Juntos podemos ayudar al medio ambiente.", "pron": "insiéme possiámo aiutáre lambiénte" },
+        { "t": "Bisogna che tutti facciano qualcosa.", "es": "Hace falta que todos hagan algo.", "pron": "bisóña ke túti fácchano cualcósa" }
+      ],
+      "dialogo": {
+        "titulo": "Un domingo de voluntariado",
+        "lineas": [
+          { "q": "A", "t": "Domenica puliamo la spiaggia, vieni?", "es": "El domingo limpiamos la playa, ¿vienes?" },
+          { "q": "B", "t": "Certo! È importante che tutti aiutino.", "es": "¡Claro! Es importante que todos ayuden." },
+          { "q": "A", "t": "Spero che vengano molti giovani.", "es": "Espero que vengan muchos jóvenes." },
+          { "q": "B", "t": "Bisogna che portiamo sacchetti e guanti.", "es": "Hace falta que llevemos bolsas y guantes." },
+          { "q": "A", "t": "Insieme possiamo cambiare le cose.", "es": "Juntos podemos cambiar las cosas." }
+        ]
+      },
+      "nota": "«Pulire» (limpiar) tiene congiuntivo «pulisca / puliscano». «Il volontario» se usa para quien hace voluntariado. «Insieme» también significa «junto con»."
+    }
+  ]
+}

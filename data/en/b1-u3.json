@@ -1,0 +1,216 @@
+{
+  "id": "en-b1-u3",
+  "idioma": "en",
+  "nivel": "B1",
+  "n": 3,
+  "titulo": "Planes y decisiones",
+  "resumen": "Aprenderás a hablar del futuro con will, going to, el presente continuo y be about to, eligiendo la forma según la situación.",
+  "puedo": [
+    "Tomar decisiones al momento y ofrecer ayuda con will.",
+    "Hablar de planes con be going to.",
+    "Hablar de citas ya acordadas con el presente continuo.",
+    "Decir que algo está a punto de pasar con be about to.",
+    "Elegir la forma de futuro adecuada en cada situación."
+  ],
+  "gramatica": {
+    "titulo": "Formas de futuro: will, going to y presente continuo",
+    "texto": "En inglés no hay una sola forma de futuro. Will se usa para decisiones en el momento, ofertas, promesas y predicciones: I'll help you (te ayudo). Be going to se usa para planes ya decididos o cuando hay señales: I'm going to study law. El presente continuo se usa para citas acordadas, con hora o lugar: I'm meeting Ana at six.\nBe about to + verbo significa «estar a punto de»: The movie is about to start.\nTruco: ¿lo decidiste ahora mismo? will. ¿Ya lo tenías pensado? going to. ¿Ya lo agendaste con otros? presente continuo.",
+    "tabla": [
+      ["I'll carry that for you.", "Te lo cargo yo.", "ail cári dat for iu"],
+      ["I'm going to study law.", "Voy a estudiar derecho.", "aim góin tu stádi lo"],
+      ["We're meeting at six.", "Nos vemos a las seis (quedamos).", "uir mítin at siks"],
+      ["Look at those clouds! It's going to rain.", "¡Mira esas nubes! Va a llover.", "luk at dous claudz! its góin tu rein"],
+      ["The train is about to leave.", "El tren está a punto de salir.", "da trein is abáut tu liv"],
+      ["I won't be late.", "No llegaré tarde.", "ai uount bi leit"]
+    ],
+    "errores": [
+      "No uses el presente simple para decisiones: es I'll call you, no «I call you tomorrow» (con will o going to).",
+      "No uses will para planes ya decididos: es I'm going to buy a car (ya lo pensé), no «I will buy a car» si ya tenías el plan.",
+      "No olvides el verbo en base tras will: es She will come, no «She will comes»."
+    ]
+  },
+  "practica": [
+    "Escribe 6 planes de tu semana: 3 con going to y 3 con el presente continuo con hora o lugar (10 minutos).",
+    "Mira tu casa y ofrece ayuda en voz alta con I'll... 6 veces: I'll open the window, I'll wash the dishes (5 minutos).",
+    "Piensa en tus metas del año y dilas con I'm going to... y I hope to... (6 minutos).",
+    "Escribe un mensaje de WhatsApp en inglés para quedar con alguien: propone día, hora y lugar con el presente continuo (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b1-u3-l1",
+      "n": 1,
+      "titulo": "Will: decisiones y ofertas",
+      "objetivo": "Usar will para decidir al momento, ofrecer ayuda y prometer.",
+      "intro": "Will + verbo es la forma para lo que decides ahora, ofreces o prometes. Truco: suele ir con I think, probably, maybe. La forma corta es 'll y la negativa es won't.",
+      "palabras": [
+        { "t": "promise", "es": "prometer / promesa", "pron": "prómis", "ej": "I promise I will call you.", "ejes": "Prometo que te llamaré.", "cog": false },
+        { "t": "offer", "es": "ofrecer / oferta", "pron": "ófer", "ej": "Can I offer you some tea?", "ejes": "¿Puedo ofrecerte un té?", "cog": true },
+        { "t": "probably", "es": "probablemente", "pron": "próbabli", "ej": "It will probably rain tomorrow.", "ejes": "Probablemente lloverá mañana.", "cog": true },
+        { "t": "maybe", "es": "quizás", "pron": "méibi", "ej": "Maybe I'll stay home.", "ejes": "Quizás me quede en casa.", "cog": false },
+        { "t": "carry", "es": "cargar / llevar", "pron": "cári", "ej": "I'll carry your bag.", "ejes": "Yo te cargo la bolsa.", "cog": false },
+        { "t": "borrow", "es": "pedir prestado", "pron": "bórou", "ej": "Can I borrow your pen?", "ejes": "¿Puedo pedirte prestado tu lapicero?", "cog": false },
+        { "t": "lend", "es": "prestar", "pron": "lend", "ej": "I'll lend you my umbrella.", "ejes": "Te presto mi paraguas.", "cog": false },
+        { "t": "decide", "es": "decidir", "pron": "disáid", "ej": "I can't decide what to eat.", "ejes": "No puedo decidir qué comer.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I'll carry that for you.", "es": "Te lo cargo yo.", "pron": "ail cári dat for iu" },
+        { "t": "I think I'll have the soup.", "es": "Creo que pediré la sopa.", "pron": "ai zink ail jav da sup" },
+        { "t": "I'll lend you my umbrella.", "es": "Te presto mi paraguas.", "pron": "ail lend iu mai ambréla" },
+        { "t": "I promise I won't be late.", "es": "Prometo que no llegaré tarde.", "pron": "ai prómis ai uount bi leit" },
+        { "t": "It will probably rain tomorrow.", "es": "Probablemente lloverá mañana.", "pron": "it uil próbabli rein tumórou" }
+      ],
+      "dialogo": {
+        "titulo": "En el restaurante",
+        "lineas": [
+          { "q": "A", "t": "Are you ready to order?", "es": "¿Están listos para pedir?" },
+          { "q": "B", "t": "I can't decide. Hmm, I think I'll have the chicken.", "es": "No puedo decidir. Mmm, creo que pediré el pollo." },
+          { "q": "A", "t": "Good choice. And what will your friend have?", "es": "Buena elección. ¿Y qué pedirá su amigo?" },
+          { "q": "B", "t": "He'll have the fish. And I'll pay for both.", "es": "Él pedirá el pescado. Y yo pago los dos." },
+          { "q": "A", "t": "Wonderful. I'll bring your drinks right away.", "es": "Estupendo. Les traeré las bebidas enseguida." }
+        ]
+      },
+      "nota": "Cuando alguien tiene un problema, ofrecer ayuda con I'll es muy natural: I'll help you, I'll check, I'll call him. Un pedido amable usa Can I...? o Could I...?"
+    },
+    {
+      "id": "en-b1-u3-l2",
+      "n": 2,
+      "titulo": "Going to: planes e indicios",
+      "objetivo": "Hablar de planes ya decididos y de cosas que van a pasar por señales claras.",
+      "intro": "Be going to + verbo sirve para planes que ya tenías en mente y para predicciones con evidencia. Truco: en habla rápida suena gonna: I'm gonna study. Aquí, escríbelo completo: going to.",
+      "palabras": [
+        { "t": "plan", "es": "plan / planear", "pron": "plan", "ej": "What is your plan for the weekend?", "ejes": "¿Cuál es tu plan para el fin de semana?", "cog": true },
+        { "t": "intend", "es": "tener la intención", "pron": "inténd", "ej": "I intend to study abroad.", "ejes": "Tengo la intención de estudiar en el extranjero.", "cog": false },
+        { "t": "save up", "es": "ahorrar", "pron": "seiv ap", "ej": "I want to save up for a trip.", "ejes": "Quiero ahorrar para un viaje.", "cog": false },
+        { "t": "apply for", "es": "postular a", "pron": "aplái for", "ej": "I'm going to apply for a new job.", "ejes": "Voy a postular a un nuevo trabajo.", "cog": false },
+        { "t": "sign up", "es": "inscribirse", "pron": "sain ap", "ej": "I'll sign up for a gym.", "ejes": "Me inscribiré en un gimnasio.", "cog": false },
+        { "t": "hopefully", "es": "ojalá / con suerte", "pron": "jóupfuli", "ej": "Hopefully, I'll pass the exam.", "ejes": "Ojalá apruebe el examen.", "cog": false },
+        { "t": "cloud", "es": "nube", "pron": "claud", "ej": "There is a big cloud in the sky.", "ejes": "Hay una nube grande en el cielo.", "cog": false },
+        { "t": "expect", "es": "esperar (algo)", "pron": "ekspéct", "ej": "I expect the bus to be late.", "ejes": "Espero que el bus llegue tarde.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I'm going to apply for a new job.", "es": "Voy a postular a un nuevo trabajo.", "pron": "aim góin tu aplái for a niu yob" },
+        { "t": "We're going to save up for a trip.", "es": "Vamos a ahorrar para un viaje.", "pron": "uir góin tu seiv ap for a trip" },
+        { "t": "Look at those clouds! It's going to rain.", "es": "¡Mira esas nubes! Va a llover.", "pron": "luk at dous claudz! its góin tu rein" },
+        { "t": "What are you going to do after college?", "es": "¿Qué vas a hacer después de la universidad?", "pron": "juat ar iu góin tu du áfter cólich" },
+        { "t": "She isn't going to sign up for the course.", "es": "Ella no va a inscribirse en el curso.", "pron": "shi ísent góin tu sain ap for da cors" }
+      ],
+      "dialogo": {
+        "titulo": "Después de graduarse",
+        "lineas": [
+          { "q": "A", "t": "What are you going to do after you graduate?", "es": "¿Qué vas a hacer cuando te gradúes?" },
+          { "q": "B", "t": "I'm going to apply for a job in marketing. I've already updated my resume.", "es": "Voy a postular a un trabajo de marketing. Ya actualicé mi currículum." },
+          { "q": "A", "t": "And are you going to stay in Lima?", "es": "¿Y te vas a quedar en Lima?" },
+          { "q": "B", "t": "Hopefully. But I also want to save up and travel for a month.", "es": "Ojalá. Pero también quiero ahorrar y viajar un mes." },
+          { "q": "A", "t": "Sounds like a great plan.", "es": "Suena a un gran plan." }
+        ]
+      },
+      "nota": "Con indicios visibles se usa going to, no will: Look out! You're going to fall. Con will sería una opinión sin evidencia: I think you'll fall."
+    },
+    {
+      "id": "en-b1-u3-l3",
+      "n": 3,
+      "titulo": "Citas y quedadas",
+      "objetivo": "Usar el presente continuo para citas ya acordadas.",
+      "intro": "Cuando ya acordaste con alguien una cita, el presente continuo es lo natural: I'm meeting Ana at six. Truco: suele llevar hora o lugar, y el verbo es de acción: meet, see, have dinner, fly.",
+      "palabras": [
+        { "t": "arrange", "es": "organizar / acordar", "pron": "aréinch", "ej": "I want to arrange a meeting.", "ejes": "Quiero organizar una reunión.", "cog": false },
+        { "t": "appointment", "es": "cita (médica, trámite)", "pron": "apóintment", "ej": "I have an appointment at four.", "ejes": "Tengo una cita a las cuatro.", "cog": false },
+        { "t": "meet up", "es": "quedar / encontrarse", "pron": "mit ap", "ej": "Let's meet up after work.", "ejes": "Quedemos después del trabajo.", "cog": false },
+        { "t": "pick up", "es": "recoger", "pron": "pik ap", "ej": "I'll pick up the kids at five.", "ejes": "Recogeré a los niños a las cinco.", "cog": false },
+        { "t": "drop off", "es": "dejar (a alguien o algo)", "pron": "drop of", "ej": "Can you drop off the package?", "ejes": "¿Puedes dejar el paquete?", "cog": false },
+        { "t": "reschedule", "es": "reprogramar", "pron": "riskédiul", "ej": "Can we reschedule the meeting?", "ejes": "¿Podemos reprogramar la reunión?", "cog": true },
+        { "t": "cancel", "es": "cancelar", "pron": "cánsel", "ej": "I have to cancel the dinner.", "ejes": "Tengo que cancelar la cena.", "cog": true },
+        { "t": "free", "es": "libre / gratis", "pron": "fri", "ej": "Are you free on Saturday?", "ejes": "¿Estás libre el sábado?", "cog": false }
+      ],
+      "frases": [
+        { "t": "I'm meeting Ana at six.", "es": "Me reúno con Ana a las seis.", "pron": "aim mítin ana at siks" },
+        { "t": "We're having dinner at eight.", "es": "Cenamos a las ocho.", "pron": "uir jávin díner at eit" },
+        { "t": "Are you free on Saturday?", "es": "¿Estás libre el sábado?", "pron": "ar iu fri on sáterdei" },
+        { "t": "She's flying to Mexico on Friday.", "es": "Ella vuela a México el viernes.", "pron": "shis fláiin tu méxico on fráidei" },
+        { "t": "Can we reschedule the meeting?", "es": "¿Podemos reprogramar la reunión?", "pron": "can ui riskédiul da mítin" }
+      ],
+      "dialogo": {
+        "titulo": "Buscando un día",
+        "lineas": [
+          { "q": "A", "t": "Are you free on Saturday? I want to arrange a lunch.", "es": "¿Estás libre el sábado? Quiero organizar un almuerzo." },
+          { "q": "B", "t": "Sorry, I'm having dinner with my parents that night. And in the morning I have an appointment at the dentist.", "es": "Lo siento, ceno con mis padres esa noche. Y en la mañana tengo cita con el dentista." },
+          { "q": "A", "t": "What about Sunday?", "es": "¿Y el domingo?" },
+          { "q": "B", "t": "Sunday works. I'm picking up my cousin at noon, but I can meet you at two.", "es": "El domingo me va bien. Recojo a mi primo al mediodía, pero puedo verte a las dos." },
+          { "q": "A", "t": "Perfect. I'll book a table.", "es": "Perfecto. Reservaré una mesa." }
+        ]
+      },
+      "nota": "Para citas acordadas no uses will: es I'm meeting her tomorrow, no «I will meet her tomorrow» si ya quedaron. Sunday works significa «el domingo me viene bien»."
+    },
+    {
+      "id": "en-b1-u3-l4",
+      "n": 4,
+      "titulo": "A punto de...",
+      "objetivo": "Decir que algo está a punto de pasar y hablar de horarios futuros.",
+      "intro": "Be about to + verbo significa «estar a punto de»: I'm about to leave. Truco: es un futuro inmediato; no lleva tiempo (no digas tomorrow). Para horarios fijos usamos el presente simple: The train leaves at six.",
+      "palabras": [
+        { "t": "about to", "es": "a punto de", "pron": "abáut tu", "ej": "The movie is about to start.", "ejes": "La película está a punto de empezar.", "cog": false },
+        { "t": "on the point of", "es": "a punto de (formal)", "pron": "on da point ov", "ej": "She was on the point of crying.", "ejes": "Estaba a punto de llorar.", "cog": false },
+        { "t": "timetable", "es": "horario (de transportes)", "pron": "táimteibol", "ej": "The bus timetable is on the wall.", "ejes": "El horario del bus está en la pared.", "cog": false },
+        { "t": "depart", "es": "partir / salir", "pron": "dipárt", "ej": "The flight will depart at noon.", "ejes": "El vuelo saldrá al mediodía.", "cog": false },
+        { "t": "board", "es": "abordar", "pron": "bord", "ej": "Passengers can board now.", "ejes": "Los pasajeros pueden abordar ahora.", "cog": false },
+        { "t": "check in", "es": "registrarse / hacer el check-in", "pron": "chek in", "ej": "I need to check in online.", "ejes": "Necesito hacer el check-in en línea.", "cog": false },
+        { "t": "gate", "es": "puerta de embarque", "pron": "gueit", "ej": "Our gate is number twelve.", "ejes": "Nuestra puerta es la número doce.", "cog": false },
+        { "t": "hurry up", "es": "apurarse", "pron": "jéri ap", "ej": "Hurry up, we're late!", "ejes": "¡Apúrate, estamos tarde!", "cog": false }
+      ],
+      "frases": [
+        { "t": "The movie is about to start.", "es": "La película está a punto de empezar.", "pron": "da múvi is abáut tu start" },
+        { "t": "I'm about to leave. Can I call you back?", "es": "Estoy a punto de salir. ¿Te llamo luego?", "pron": "aim abáut tu liv. can ai col iu bak" },
+        { "t": "The flight departs at noon.", "es": "El vuelo sale al mediodía.", "pron": "da flait dipárts at nun" },
+        { "t": "Our gate is number twelve.", "es": "Nuestra puerta es la número doce.", "pron": "áuer gueit is námber tuelv" },
+        { "t": "Hurry up, they're about to close the gate!", "es": "¡Apúrate, están a punto de cerrar la puerta!", "pron": "jéri ap, der abáut tu clous da gueit" }
+      ],
+      "dialogo": {
+        "titulo": "En el aeropuerto",
+        "lineas": [
+          { "q": "A", "t": "What time does our flight depart?", "es": "¿A qué hora sale nuestro vuelo?" },
+          { "q": "B", "t": "At 6:40. They're about to open the gate.", "es": "A las 6:40. Están a punto de abrir la puerta." },
+          { "q": "A", "t": "Did you check in online?", "es": "¿Hiciste el check-in en línea?" },
+          { "q": "B", "t": "Yes, I did it last night. Hurry up, the boarding is about to start.", "es": "Sí, lo hice anoche. Apúrate, el embarque está a punto de empezar." },
+          { "q": "A", "t": "Okay, I'm coming. I just need to find my passport.", "es": "Ya voy. Solo necesito encontrar mi pasaporte." }
+        ]
+      },
+      "nota": "Un horario fijo (tren, vuelo, clase) va en presente simple: The class starts at nine tomorrow. No se usa will ni going to."
+    },
+    {
+      "id": "en-b1-u3-l5",
+      "n": 5,
+      "titulo": "Repaso: decidir qué hacer",
+      "objetivo": "Elegir la forma de futuro adecuada para cada situación.",
+      "intro": "Repasa las cuatro formas: will (decido ahora), going to (planeado), presente continuo (cita acordada), about to (inminente). Truco: haz esta pregunta antes de hablar: ¿es plan, cita o decisión de ahora?",
+      "palabras": [
+        { "t": "weekend", "es": "fin de semana", "pron": "uíkend", "ej": "What are you doing this weekend?", "ejes": "¿Qué haces este fin de semana?", "cog": false },
+        { "t": "get together", "es": "juntarse / reunirse", "pron": "get tuguéder", "ej": "Let's get together on Sunday.", "ejes": "Juntémonos el domingo.", "cog": false },
+        { "t": "figure out", "es": "averiguar / resolver", "pron": "fíguer aut", "ej": "I'll figure out a solution.", "ejes": "Encontraré una solución.", "cog": false },
+        { "t": "go ahead", "es": "adelante / seguir", "pron": "gou ajéd", "ej": "Go ahead, I'm listening.", "ejes": "Adelante, te escucho.", "cog": false },
+        { "t": "count on", "es": "contar con", "pron": "caunt on", "ej": "You can count on me.", "ejes": "Puedes contar conmigo.", "cog": false },
+        { "t": "come up with", "es": "ocurrírsele / idear", "pron": "cam ap uid", "ej": "I need to come up with an idea.", "ejes": "Necesito idear algo.", "cog": false },
+        { "t": "no worries", "es": "no hay problema", "pron": "nou uóris", "ej": "No worries, it's fine.", "ejes": "No hay problema, está bien.", "cog": false },
+        { "t": "make up your mind", "es": "decidirse", "pron": "meik ap ior maind", "ej": "You need to make up your mind.", "ejes": "Tienes que decidirte.", "cog": false }
+      ],
+      "frases": [
+        { "t": "What are you doing this weekend?", "es": "¿Qué haces este fin de semana?", "pron": "juat ar iu dúin dis uíkend" },
+        { "t": "I'm going to visit my grandparents.", "es": "Voy a visitar a mis abuelos.", "pron": "aim góin tu vísit mai gránparents" },
+        { "t": "I'll figure out a solution.", "es": "Encontraré una solución.", "pron": "ail fíguer aut a solúshon" },
+        { "t": "You can count on me.", "es": "Puedes contar conmigo.", "pron": "iu can caunt on mi" },
+        { "t": "The party is about to start.", "es": "La fiesta está a punto de empezar.", "pron": "da párti is abáut tu start" },
+        { "t": "You need to make up your mind.", "es": "Tienes que decidirte.", "pron": "iu nid tu meik ap ior maind" }
+      ],
+      "dialogo": {
+        "titulo": "Plan para el fin de semana",
+        "lineas": [
+          { "q": "A", "t": "What are you doing this weekend?", "es": "¿Qué haces este fin de semana?" },
+          { "q": "B", "t": "On Saturday I'm meeting my cousins. On Sunday I'm going to relax at home.", "es": "El sábado me reúno con mis primos. El domingo voy a descansar en casa." },
+          { "q": "A", "t": "Do you want to get together on Sunday evening?", "es": "¿Quieres que nos juntemos el domingo por la tarde?" },
+          { "q": "B", "t": "Sure. Hmm, I'll cook dinner. You can count on me.", "es": "Claro. Mmm, yo cocinaré la cena. Puedes contar conmigo." },
+          { "q": "A", "t": "Perfect. I'll bring dessert.", "es": "Perfecto. Yo llevo el postre." }
+        ]
+      },
+      "nota": "No hay una sola respuesta correcta: a veces dos formas valen. Lo importante es que la elección cambia el matiz: plan, cita o decisión del momento."
+    }
+  ]
+}

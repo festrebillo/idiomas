@@ -1,0 +1,220 @@
+{
+  "id": "pt-b1-u10",
+  "idioma": "pt",
+  "nivel": "B1",
+  "n": 10,
+  "titulo": "Tecnología y redes",
+  "resumen": "Aprenderás vocabulario de tecnología y redes sociales, y cuándo usar el infinitivo (para trabalhar) y cuándo el gerundio (estou baixando).",
+  "puedo": [
+    "Nombrar dispositivos y partes de la tecnología.",
+    "Hablar de redes sociales: postar, seguir, curtir, compartilhar.",
+    "Usar el infinitivo tras para, sem, antes de y depois de.",
+    "Decir qué estoy haciendo con «estou + -ando/-endo».",
+    "Hablar de seguridad y privacidad en línea."
+  ],
+  "gramatica": {
+    "titulo": "Infinitivo y gerundio",
+    "texto": "El infinitivo (-ar, -er, -ir) se usa después de preposiciones como «para», «sem», «antes de», «depois de» y «de»: Uso o celular para trabalhar (Uso el celular para trabajar); Saí sem desligar o computador.\nEl gerundio (-ando, -endo, -indo) se usa con «estar» para lo que pasa ahora: Estou baixando um aplicativo. También con «ficar» o «passar» para algo que dura o se repite: Ele passa o dia postando fotos.\nTruco: tras una preposición, siempre infinitivo; para una acción en curso, estar + gerundio.",
+    "tabla": [
+      ["Uso o celular para trabalhar.", "Uso el celular para trabajar.", "úsu u selulár pára trabalyár"],
+      ["Saí sem desligar o computador.", "Salí sin apagar la computadora.", "saí séin desligár u komputadór"],
+      ["Antes de postar, eu penso.", "Antes de publicar, pienso.", "ántis dyi postár, éu pénsu"],
+      ["Depois de instalar, abro o app.", "Después de instalar, abro la app.", "depóis dyi instalár, ábru u áp"],
+      ["Estou baixando um aplicativo.", "Estoy descargando una aplicación.", "estóu baikándu ún aplikatívu"],
+      ["Ele passa o dia navegando.", "Él pasa el día navegando.", "éli pása u día navegándu"]
+    ],
+    "errores": [
+      "Tras una preposición no se usa gerundio: «sem ligar», no «sem ligando»; «para trabalhar», no «para trabalhando».",
+      "En Brasil se dice «estou baixando», no «estou a baixar» (esa forma es de Portugal).",
+      "«Baixar» significa descargar un archivo o aplicación: «baixar um aplicativo». No lo cambies por «descargar» copiando el español."
+    ]
+  },
+  "practica": [
+    "Escribe 6 frases con «para + infinitivo» sobre qué haces con el celular y la computadora (6 minutos).",
+    "Mientras usas tu celular, di en voz alta lo que haces: «Estou abrindo...», «Estou lendo...» (5 minutos).",
+    "Cambia el idioma de tu celular a portugués durante un día y anota 8 palabras nuevas (10 minutos).",
+    "Lee 3 posts de una cuenta brasileña y subraya los infinitivos y gerundios (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b1-u10-l1",
+      "n": 1,
+      "titulo": "Dispositivos y conexión",
+      "objetivo": "Nombrar tus dispositivos y decir si funcionan o no.",
+      "intro": "Empezamos por los objetos de cada día. Truco: «celular» es el teléfono móvil en Brasil, y «tela» es la pantalla (no tela de ropa).",
+      "palabras": [
+        { "t": "celular", "es": "celular / móvil", "pron": "selulár", "ej": "Meu celular é novo.", "ejes": "Mi celular es nuevo.", "cog": false },
+        { "t": "computador", "es": "computadora", "pron": "komputadór", "ej": "O computador está lento.", "ejes": "La computadora está lenta.", "cog": true },
+        { "t": "tela", "es": "pantalla", "pron": "téla", "ej": "A tela é grande.", "ejes": "La pantalla es grande.", "cog": false, "truco": "No es tela de ropa." },
+        { "t": "bateria", "es": "batería", "pron": "baterría", "ej": "A bateria acabou.", "ejes": "Se acabó la batería.", "cog": true },
+        { "t": "carregador", "es": "cargador", "pron": "kajegadór", "ej": "Esqueci o carregador em casa.", "ejes": "Olvidé el cargador en casa.", "cog": false },
+        { "t": "wi-fi", "es": "wifi", "pron": "uái fái", "ej": "O wi-fi está lento.", "ejes": "El wifi está lento.", "cog": true },
+        { "t": "internet", "es": "internet", "pron": "internétyi", "ej": "A internet caiu.", "ejes": "Se cayó el internet.", "cog": true },
+        { "t": "aplicativo", "es": "aplicación (app)", "pron": "aplikatívu", "ej": "Eu uso um aplicativo de mapas.", "ejes": "Uso una aplicación de mapas.", "cog": false },
+        { "t": "fone de ouvido", "es": "audífonos", "pron": "fóni dyi ovídu", "ej": "Eu uso fone de ouvido no ônibus.", "ejes": "Uso audífonos en el bus.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Meu celular está sem bateria.", "es": "Mi celular no tiene batería.", "pron": "méu selulár está séin baterría" },
+        { "t": "O wi-fi está muito lento hoje.", "es": "El wifi está muy lento hoy.", "pron": "u uái fái está múintu léntu óyi" },
+        { "t": "Esqueci o carregador em casa.", "es": "Olvidé el cargador en casa.", "pron": "eskesí u kajegadór éin káza" },
+        { "t": "Eu uso esse aplicativo todos os dias.", "es": "Uso esa aplicación todos los días.", "pron": "éu úsu ésyi aplikatívu tódus us días" },
+        { "t": "A tela do computador é grande.", "es": "La pantalla de la computadora es grande.", "pron": "a téla du komputadór é grándyi" }
+      ],
+      "dialogo": {
+        "titulo": "Sem bateria",
+        "lineas": [
+          { "q": "A", "t": "Meu celular está sem bateria!", "es": "¡Mi celular se quedó sin batería!" },
+          { "q": "B", "t": "Eu tenho um carregador na mochila.", "es": "Tengo un cargador en la mochila." },
+          { "q": "A", "t": "Obrigada! Preciso abrir o aplicativo do banco.", "es": "¡Gracias! Necesito abrir la aplicación del banco." },
+          { "q": "B", "t": "O wi-fi daqui está lento, cuidado.", "es": "El wifi de aquí está lento, cuidado." },
+          { "q": "A", "t": "Sem problema, uso a internet do celular.", "es": "Sin problema, uso el internet del celular." }
+        ]
+      },
+      "nota": "En Brasil se dice «celular» para el teléfono móvil, «computador» o «notebook» para la computadora y «aplicativo» o «app» para las aplicaciones."
+    },
+    {
+      "id": "pt-b1-u10-l2",
+      "n": 2,
+      "titulo": "Redes sociales",
+      "objetivo": "Hablar de lo que haces en las redes: postar, seguir, curtir y compartilhar.",
+      "intro": "Los verbos de redes son muy usados. Truco: «curtir» es dar «me gusta» y también disfrutar; «postar» es publicar.",
+      "palabras": [
+        { "t": "rede social", "es": "red social", "pron": "jédi sosiáu", "ej": "Eu uso uma rede social todos os dias.", "ejes": "Uso una red social todos los días.", "cog": true },
+        { "t": "perfil", "es": "perfil", "pron": "perfíu", "ej": "Meu perfil é privado.", "ejes": "Mi perfil es privado.", "cog": true },
+        { "t": "conta", "es": "cuenta", "pron": "kónta", "ej": "Eu criei uma conta nova.", "ejes": "Creé una cuenta nueva.", "cog": false },
+        { "t": "postar", "es": "publicar", "pron": "postár", "ej": "Vou postar uma foto.", "ejes": "Voy a publicar una foto.", "cog": false },
+        { "t": "seguir", "es": "seguir", "pron": "segír", "ej": "Eu quero seguir esse perfil.", "ejes": "Quiero seguir ese perfil.", "cog": true },
+        { "t": "curtir", "es": "dar me gusta / disfrutar", "pron": "kurtyír", "ej": "Eu gosto de curtir fotos.", "ejes": "Me gusta darle me gusta a las fotos.", "cog": false },
+        { "t": "compartilhar", "es": "compartir", "pron": "kompartilyár", "ej": "Vou compartilhar o vídeo.", "ejes": "Voy a compartir el video.", "cog": true },
+        { "t": "mensagem", "es": "mensaje", "pron": "mensáyein", "ej": "Recebi uma mensagem nova.", "ejes": "Recibí un mensaje nuevo.", "cog": true },
+        { "t": "seguidor", "es": "seguidor", "pron": "segidór", "ej": "Ele tem um seguidor novo.", "ejes": "Tiene un seguidor nuevo.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu postei uma foto na minha conta.", "es": "Publiqué una foto en mi cuenta.", "pron": "éu postéi úma fótu na míña kónta" },
+        { "t": "Ela tem muitos seguidores.", "es": "Ella tiene muchos seguidores.", "pron": "éla téin múintus segidóres" },
+        { "t": "Vou compartilhar esse vídeo com meus amigos.", "es": "Voy a compartir este video con mis amigos.", "pron": "vou kompartilyár ésyi vídyu kon méus amígus" },
+        { "t": "Eu curti a foto da Ana.", "es": "Le di me gusta a la foto de Ana.", "pron": "éu kurtyí a fótu da ána" },
+        { "t": "Recebi uma mensagem nova.", "es": "Recibí un mensaje nuevo.", "pron": "jesebí úma mensáyein nóva" }
+      ],
+      "dialogo": {
+        "titulo": "Nas redes",
+        "lineas": [
+          { "q": "A", "t": "Você postou a foto da viagem?", "es": "¿Publicaste la foto del viaje?" },
+          { "q": "B", "t": "Postei! Já tem muitos seguidores curtindo.", "es": "¡La publiqué! Ya tiene muchos seguidores dándole me gusta." },
+          { "q": "A", "t": "Eu vou seguir o seu perfil novo.", "es": "Voy a seguir tu perfil nuevo." },
+          { "q": "B", "t": "Pode compartilhar a foto também!", "es": "¡Puedes compartir la foto también!" },
+          { "q": "A", "t": "Já mandei uma mensagem para você.", "es": "Ya te mandé un mensaje." }
+        ]
+      },
+      "nota": "«Foto» es femenino: «a foto». «Vídeo» es masculino: «o vídeo». «Seguir» y «seguidor» vienen del mismo verbo."
+    },
+    {
+      "id": "pt-b1-u10-l3",
+      "n": 3,
+      "titulo": "Infinitivo con para, sem y antes de",
+      "objetivo": "Usar el infinitivo después de preposiciones con verbos de tecnología.",
+      "intro": "Después de «para», «sem», «antes de» y «depois de» el verbo va siempre en infinitivo. Truco: piensa en el español, donde también decimos «para trabajar», «sin apagar».",
+      "palabras": [
+        { "t": "baixar", "es": "descargar", "pron": "baikár", "ej": "Vou baixar o aplicativo.", "ejes": "Voy a descargar la aplicación.", "cog": false },
+        { "t": "instalar", "es": "instalar", "pron": "instalár", "ej": "Preciso instalar o programa.", "ejes": "Necesito instalar el programa.", "cog": true },
+        { "t": "atualizar", "es": "actualizar", "pron": "atualizár", "ej": "Eu vou atualizar o celular.", "ejes": "Voy a actualizar el celular.", "cog": true },
+        { "t": "conectar", "es": "conectar", "pron": "konektár", "ej": "Vou conectar ao wi-fi.", "ejes": "Voy a conectarme al wifi.", "cog": true },
+        { "t": "ligar", "es": "encender / llamar", "pron": "ligár", "ej": "Vou ligar o computador.", "ejes": "Voy a encender la computadora.", "cog": false },
+        { "t": "desligar", "es": "apagar", "pron": "desligár", "ej": "Não posso esquecer de desligar a tela.", "ejes": "No puedo olvidar apagar la pantalla.", "cog": false },
+        { "t": "senha", "es": "contraseña", "pron": "séña", "ej": "Esqueci a minha senha.", "ejes": "Olvidé mi contraseña.", "cog": false },
+        { "t": "arquivo", "es": "archivo", "pron": "arkívu", "ej": "Abri o arquivo.", "ejes": "Abrí el archivo.", "cog": false },
+        { "t": "salvar", "es": "guardar", "pron": "salvár", "ej": "Preciso salvar o trabalho.", "ejes": "Necesito guardar el trabajo.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu uso o celular para trabalhar.", "es": "Uso el celular para trabajar.", "pron": "éu úsu u selulár pára trabalyár" },
+        { "t": "Saí de casa sem levar o carregador.", "es": "Salí de casa sin llevar el cargador.", "pron": "saí dyi káza séin levár u kajegadór" },
+        { "t": "Antes de postar, eu penso bem.", "es": "Antes de publicar, pienso bien.", "pron": "ántis dyi postár, éu pénsu béin" },
+        { "t": "Depois de instalar, eu abro o aplicativo.", "es": "Después de instalar, abro la aplicación.", "pron": "depóis dyi instalár, éu ábru u aplikatívu" },
+        { "t": "Preciso salvar o arquivo antes de desligar.", "es": "Necesito guardar el archivo antes de apagar.", "pron": "presísu salvár u arkívu ántis dyi desligár" }
+      ],
+      "dialogo": {
+        "titulo": "No computador",
+        "lineas": [
+          { "q": "A", "t": "Preciso baixar um programa para estudar.", "es": "Necesito descargar un programa para estudiar." },
+          { "q": "B", "t": "Primeiro você tem que conectar ao wi-fi.", "es": "Primero tienes que conectarte al wifi." },
+          { "q": "A", "t": "Esqueci a senha do wi-fi.", "es": "Olvidé la contraseña del wifi." },
+          { "q": "B", "t": "Está aqui. Depois de instalar, você salva o arquivo.", "es": "Aquí está. Después de instalar, guardas el archivo." },
+          { "q": "A", "t": "Obrigado! Vou salvar sem esquecer.", "es": "¡Gracias! Voy a guardarlo sin olvidar." }
+        ]
+      },
+      "nota": "«Ligar» sirve para encender un aparato y también para llamar por teléfono: «Vou ligar para você» (te voy a llamar). «Desligar» es apagar."
+    },
+    {
+      "id": "pt-b1-u10-l4",
+      "n": 4,
+      "titulo": "Estoy haciendo: el gerundio",
+      "objetivo": "Decir qué estás haciendo ahora con tecnología usando estar + gerundio.",
+      "intro": "Para lo que pasa ahora usa «estar + -ando/-endo/-indo». Truco: quita la -r del infinitivo y añade -ndo: baixar → baixando, fazer → fazendo.",
+      "palabras": [
+        { "t": "navegar", "es": "navegar", "pron": "navegár", "ej": "Eu gosto de navegar na internet.", "ejes": "Me gusta navegar en internet.", "cog": true },
+        { "t": "pesquisar", "es": "buscar / investigar", "pron": "peskizár", "ej": "Vou pesquisar o preço.", "ejes": "Voy a buscar el precio.", "cog": false },
+        { "t": "jogar", "es": "jugar", "pron": "yogár", "ej": "Eles vão jogar online.", "ejes": "Van a jugar en línea.", "cog": false },
+        { "t": "videochamada", "es": "videollamada", "pron": "vidyoshamáda", "ej": "Tenho uma videochamada às três.", "ejes": "Tengo una videollamada a las tres.", "cog": false },
+        { "t": "vídeo", "es": "video", "pron": "vídyu", "ej": "Esse vídeo é engraçado.", "ejes": "Ese video es gracioso.", "cog": true },
+        { "t": "travar", "es": "trabarse / congelarse", "pron": "travár", "ej": "O aplicativo vai travar.", "ejes": "La aplicación se va a trabar.", "cog": false },
+        { "t": "carregar", "es": "cargar", "pron": "kajegár", "ej": "O celular demora para carregar.", "ejes": "El celular demora en cargar.", "cog": true },
+        { "t": "demorar", "es": "demorar", "pron": "demorár", "ej": "Não quero demorar.", "ejes": "No quiero demorar.", "cog": true },
+        { "t": "ficar", "es": "quedarse / pasar", "pron": "fikár", "ej": "Eu vou ficar em casa.", "ejes": "Me voy a quedar en casa.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Estou baixando um aplicativo novo.", "es": "Estoy descargando una aplicación nueva.", "pron": "estóu baikándu ún aplikatívu nóvu" },
+        { "t": "Ela está fazendo uma videochamada.", "es": "Ella está haciendo una videollamada.", "pron": "éla está fazéndu úma vidyoshamáda" },
+        { "t": "Eu fico navegando na internet de noite.", "es": "Me quedo navegando en internet de noche.", "pron": "éu fíku navegándu na internétyi dyi nóityi" },
+        { "t": "O aplicativo está travando de novo.", "es": "La aplicación se está trabando otra vez.", "pron": "u aplikatívu está travándu dyi nóvu" },
+        { "t": "Estamos pesquisando preços na internet.", "es": "Estamos buscando precios en internet.", "pron": "estámus peskizándu présus na internétyi" }
+      ],
+      "dialogo": {
+        "titulo": "O que você está fazendo?",
+        "lineas": [
+          { "q": "A", "t": "O que você está fazendo?", "es": "¿Qué estás haciendo?" },
+          { "q": "B", "t": "Estou baixando um vídeo, mas está demorando.", "es": "Estoy descargando un video, pero está demorando." },
+          { "q": "A", "t": "A internet está travando?", "es": "¿El internet se está trabando?" },
+          { "q": "B", "t": "Sim, e eu tenho uma videochamada agora.", "es": "Sí, y tengo una videollamada ahora." },
+          { "q": "A", "t": "Então eu fico esperando aqui.", "es": "Entonces me quedo esperando aquí." }
+        ]
+      },
+      "nota": "Gerundios útiles: baixando, travando, carregando, navegando, pesquisando. Los verbos en -er hacen -endo (fazendo, escrevendo) y los en -ir -indo (abrindo, assistindo)."
+    },
+    {
+      "id": "pt-b1-u10-l5",
+      "n": 5,
+      "titulo": "Repaso: seguridad y vida digital",
+      "objetivo": "Combinar vocabulario digital con infinitivo y gerundio.",
+      "intro": "Aquí mezclas todo: dispositivos, redes, infinitivo y gerundio. Truco: antes de hablar, decide si hay una preposición (infinitivo) o una acción en curso (gerundio).",
+      "palabras": [
+        { "t": "tecnologia", "es": "tecnología", "pron": "teknolóyia", "ej": "Eu gosto de tecnologia.", "ejes": "Me gusta la tecnología.", "cog": true },
+        { "t": "notificação", "es": "notificación", "pron": "notifikasáun", "ej": "Desliguei a notificação.", "ejes": "Apagué la notificación.", "cog": true },
+        { "t": "privacidade", "es": "privacidad", "pron": "privasidádi", "ej": "A privacidade é importante.", "ejes": "La privacidad es importante.", "cog": true },
+        { "t": "segurança", "es": "seguridad", "pron": "seguránsa", "ej": "A segurança dos dados é importante.", "ejes": "La seguridad de los datos es importante.", "cog": true },
+        { "t": "ferramenta", "es": "herramienta", "pron": "ferraménta", "ej": "Essa ferramenta ajuda muito.", "ejes": "Esa herramienta ayuda mucho.", "cog": true },
+        { "t": "online", "es": "en línea", "pron": "onláin", "ej": "Eu estudo online.", "ejes": "Estudio en línea.", "cog": true },
+        { "t": "usuário", "es": "usuario", "pron": "uzuáriu", "ej": "O usuário precisa de uma senha.", "ejes": "El usuario necesita una contraseña.", "cog": true },
+        { "t": "dados", "es": "datos", "pron": "dádus", "ej": "Meus dados são privados.", "ejes": "Mis datos son privados.", "cog": false },
+        { "t": "inteligência artificial", "es": "inteligencia artificial", "pron": "inteliyénsia artifisiáu", "ej": "A inteligência artificial muda o trabalho.", "ejes": "La inteligencia artificial cambia el trabajo.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu desligo a notificação para trabalhar.", "es": "Apago la notificación para trabajar.", "pron": "éu deslígu a notifikasáun pára trabalyár" },
+        { "t": "Antes de compartilhar, eu checo a fonte.", "es": "Antes de compartir, verifico la fuente.", "pron": "ántis dyi kompartilyár, éu shéku a fóntyi" },
+        { "t": "Estou atualizando o aplicativo agora.", "es": "Estoy actualizando la aplicación ahora.", "pron": "estóu atualizándu u aplikatívu agóra" },
+        { "t": "A privacidade dos meus dados é importante.", "es": "La privacidad de mis datos es importante.", "pron": "a privasidádi dus méus dádus é importántyi" },
+        { "t": "Ele passa o dia usando a internet.", "es": "Él pasa el día usando internet.", "pron": "éli pása u día uzándu a internétyi" }
+      ],
+      "dialogo": {
+        "titulo": "Vida digital",
+        "lineas": [
+          { "q": "A", "t": "Você passa muito tempo usando o celular?", "es": "¿Pasas mucho tiempo usando el celular?" },
+          { "q": "B", "t": "Sim, mas eu desligo a notificação para estudar.", "es": "Sí, pero apago la notificación para estudiar." },
+          { "q": "A", "t": "Eu estou aprendendo a proteger meus dados.", "es": "Estoy aprendiendo a proteger mis datos." },
+          { "q": "B", "t": "Boa! Antes de baixar, você precisa ler o que o aplicativo pede.", "es": "¡Bien! Antes de descargar, tienes que leer lo que pide la aplicación." },
+          { "q": "A", "t": "Pode deixar. A segurança é importante.", "es": "Déjamelo a mí. La seguridad es importante." }
+        ]
+      },
+      "nota": "«Online» se dice igual que en inglés, y «offline» también. «Dados» significa datos; no lo confundas con los dados de un juego (que también se llaman «dados»)."
+    }
+  ]
+}

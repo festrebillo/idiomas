@@ -1,0 +1,223 @@
+{
+  "id": "pt-b1-u12",
+  "idioma": "pt",
+  "nivel": "B1",
+  "n": 12,
+  "titulo": "Entrevista de trabajo y carrera",
+  "resumen": "Aprenderás vocabulario laboral y el presente perfeito composto («tenho trabalhado») para contar tu trayectoria en una entrevista.",
+  "puedo": [
+    "Hablar de vacantes, currículo, empresa y salario.",
+    "Describir mi formación, habilidades y puntos fuertes.",
+    "Contar mi trayectoria con «tenho trabalhado» y «tenho aprendido».",
+    "Entender y responder preguntas típicas de entrevista.",
+    "Hablar de horarios, contratos y beneficios."
+  ],
+  "gramatica": {
+    "titulo": "Presente perfeito composto: tenho + participio",
+    "texto": "Para decir que algo se ha repetido o continúa desde hace un tiempo hasta hoy, usa «ter» en presente + participio: Tenho trabalhado em vendas nos últimos anos (He estado trabajando en ventas en los últimos años).\nEl participio de los verbos en -ar termina en -ado (trabalhar → trabalhado) y el de los verbos en -er e -ir en -ido (aprender → aprendido, partir → partido). Algunos son irregulares: feito (fazer), dito (dizer), visto (ver), posto (pôr), aberto (abrir).\nEl participio de esta forma no cambia nunca: tenho feito, tem feito, temos feito.\nOjo: esta forma expresa algo repetido o continuo, no una experiencia única terminada: para eso usa el pasado simple («já trabalhei lá»).",
+    "tabla": [
+      ["Tenho trabalhado em vendas.", "He estado trabajando en ventas.", "téñu trabalyádu éin véndas"],
+      ["Tenho estudado inglês.", "He estado estudiando inglés.", "téñu estudádu inglés"],
+      ["Ela tem liderado a equipe.", "Ella ha liderado el equipo.", "éla téin liderádu a ekípi"],
+      ["Temos crescido muito.", "Hemos crecido mucho.", "témus kesídu múintu"],
+      ["Tenho feito cursos online.", "He estado haciendo cursos en línea.", "téñu féitu kúrsus onláin"],
+      ["Eles têm aprendido rápido.", "Ellos han aprendido rápido.", "éles téin aprendídu járipidu"]
+    ],
+    "errores": [
+      "El participio no cambia con el sujeto: «Ela tem feito», no «Ela tem feita».",
+      "No uses «tenho + participio» para una acción única y terminada: «Eu trabalhei lá em 2019», no «Tenho trabalhado lá em 2019».",
+      "«Ter» aquí no significa tener: es solo el auxiliar. Se conjuga (tenho, tem, temos, têm) y el participio queda fijo."
+    ]
+  },
+  "practica": [
+    "Escribe 6 frases sobre tu trayectoria con «Tenho trabalhado», «Tenho estudado», «Tenho aprendido» (7 minutos).",
+    "Prepara en voz alta una presentación de 1 minuto: nombre, formación, experiencia y objetivo (6 minutos).",
+    "Escribe respuestas a 5 preguntas típicas de entrevista en portugués (10 minutos).",
+    "Mira un video de «entrevista de emprego» en YouTube y anota 8 expresiones útiles (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b1-u12-l1",
+      "n": 1,
+      "titulo": "Buscar empleo",
+      "objetivo": "Hablar de vacantes, empresas y de buscar trabajo.",
+      "intro": "Empezamos con las palabras para buscar un empleo. Truco: «emprego» es el trabajo como empleo y «trabalho» es el trabajo como actividad; «vaga» es una vacante.",
+      "palabras": [
+        { "t": "vaga", "es": "vacante", "pron": "vága", "ej": "Tem uma vaga na empresa.", "ejes": "Hay una vacante en la empresa.", "cog": false },
+        { "t": "currículo", "es": "currículum", "pron": "kurríkulu", "ej": "Eu enviei meu currículo.", "ejes": "Envié mi currículum.", "cog": true },
+        { "t": "empresa", "es": "empresa", "pron": "empréza", "ej": "A empresa é grande.", "ejes": "La empresa es grande.", "cog": true },
+        { "t": "cargo", "es": "cargo / puesto", "pron": "kárgu", "ej": "Qual é o cargo?", "ejes": "¿Cuál es el puesto?", "cog": true },
+        { "t": "salário", "es": "sueldo", "pron": "saláriu", "ej": "O salário é bom.", "ejes": "El sueldo es bueno.", "cog": true },
+        { "t": "candidato", "es": "candidato", "pron": "kandidátu", "ej": "O candidato chegou.", "ejes": "El candidato llegó.", "cog": true },
+        { "t": "contratar", "es": "contratar", "pron": "kontratár", "ej": "Eles vão contratar dois.", "ejes": "Van a contratar a dos.", "cog": true },
+        { "t": "emprego", "es": "empleo", "pron": "emprégu", "ej": "Eu preciso de um emprego.", "ejes": "Necesito un empleo.", "cog": true },
+        { "t": "entrevista", "es": "entrevista", "pron": "entrevísta", "ej": "Tenho entrevista amanhã.", "ejes": "Tengo entrevista mañana.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu vi uma vaga na internet.", "es": "Vi una vacante en internet.", "pron": "éu ví úma vága na internétyi" },
+        { "t": "Enviei meu currículo para a empresa.", "es": "Envié mi currículum a la empresa.", "pron": "enviéi méu kurríkulu pára a empréza" },
+        { "t": "Tenho entrevista amanhã.", "es": "Tengo entrevista mañana.", "pron": "téñu entrevísta amañán" },
+        { "t": "O salário é bom?", "es": "¿El sueldo es bueno?", "pron": "u saláriu é bóm" },
+        { "t": "A empresa vai contratar duas pessoas.", "es": "La empresa va a contratar a dos personas.", "pron": "a empréza vai kontratár dúas pesóas" }
+      ],
+      "dialogo": {
+        "titulo": "Procurando emprego",
+        "lineas": [
+          { "q": "A", "t": "Você está procurando emprego?", "es": "¿Estás buscando empleo?" },
+          { "q": "B", "t": "Sim. Vi uma vaga numa empresa grande.", "es": "Sí. Vi una vacante en una empresa grande." },
+          { "q": "A", "t": "Você enviou o currículo?", "es": "¿Enviaste el currículum?" },
+          { "q": "B", "t": "Enviei ontem. Tenho entrevista amanhã.", "es": "Lo envié ayer. Tengo entrevista mañana." },
+          { "q": "A", "t": "Boa sorte! Espero que o salário seja bom.", "es": "¡Buena suerte! Espero que el sueldo sea bueno." }
+        ]
+      },
+      "nota": "«Currículo» se escribe con tilde y se pronuncia «kurríkulu». También se dice «CV» (se lee «sevê»). «Vaga» significa vacante y también espacio de estacionamiento."
+    },
+    {
+      "id": "pt-b1-u12-l2",
+      "n": 2,
+      "titulo": "Formación y habilidades",
+      "objetivo": "Hablar de tu formación, tus puntos fuertes y tus habilidades.",
+      "intro": "En una entrevista debes describirte bien. Truco: «ponto forte» (punto fuerte) y «ponto fraco» (punto débil) se usan tal cual en entrevistas brasileñas.",
+      "palabras": [
+        { "t": "formação", "es": "formación / estudios", "pron": "formasáun", "ej": "Tenho formação em administração.", "ejes": "Tengo formación en administración.", "cog": true },
+        { "t": "habilidade", "es": "habilidad", "pron": "abilidádi", "ej": "Comunicação é uma habilidade importante.", "ejes": "La comunicación es una habilidad importante.", "cog": true },
+        { "t": "equipe", "es": "equipo", "pron": "ekípi", "ej": "Gosto de trabalhar em equipe.", "ejes": "Me gusta trabajar en equipo.", "cog": false },
+        { "t": "desafio", "es": "desafío / reto", "pron": "dezafíu", "ej": "Esse desafio é grande.", "ejes": "Este desafío es grande.", "cog": true },
+        { "t": "referência", "es": "referencia", "pron": "jeferénsia", "ej": "Posso dar uma referência.", "ejes": "Puedo dar una referencia.", "cog": true },
+        { "t": "ponto forte", "es": "punto fuerte", "pron": "póntu fórtyi", "ej": "Meu ponto forte é a organização.", "ejes": "Mi punto fuerte es la organización.", "cog": false },
+        { "t": "ponto fraco", "es": "punto débil", "pron": "póntu fráku", "ej": "Meu ponto fraco é o inglês.", "ejes": "Mi punto débil es el inglés.", "cog": false },
+        { "t": "tempo integral", "es": "tiempo completo", "pron": "témpu integráu", "ej": "Eu trabalho em tempo integral.", "ejes": "Trabajo a tiempo completo.", "cog": false },
+        { "t": "meio período", "es": "medio tiempo", "pron": "méiu períodu", "ej": "Trabalho meio período.", "ejes": "Trabajo medio tiempo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Tenho formação em administração.", "es": "Tengo formación en administración.", "pron": "téñu formasáun éin administrasáun" },
+        { "t": "Meu ponto forte é trabalhar em equipe.", "es": "Mi punto fuerte es trabajar en equipo.", "pron": "méu póntu fórtyi é trabalyár éin ekípi" },
+        { "t": "Meu ponto fraco é falar em público.", "es": "Mi punto débil es hablar en público.", "pron": "méu póntu fráku é falár éin públiku" },
+        { "t": "Posso dar duas referências.", "es": "Puedo dar dos referencias.", "pron": "pósu dár dúas jeferénsias" },
+        { "t": "Procuro um trabalho de meio período.", "es": "Busco un trabajo de medio tiempo.", "pron": "prokúru ún trabályu dyi méiu períodu" }
+      ],
+      "dialogo": {
+        "titulo": "Falando de mim",
+        "lineas": [
+          { "q": "A", "t": "Qual é a sua formação?", "es": "¿Cuál es tu formación?" },
+          { "q": "B", "t": "Tenho formação em administração.", "es": "Tengo formación en administración." },
+          { "q": "A", "t": "Quais são seus pontos fortes?", "es": "¿Cuáles son tus puntos fuertes?" },
+          { "q": "B", "t": "Gosto de trabalhar em equipe e de desafios.", "es": "Me gusta trabajar en equipo y los desafíos." },
+          { "q": "A", "t": "E o seu ponto fraco?", "es": "¿Y tu punto débil?" },
+          { "q": "B", "t": "Às vezes demoro para decidir.", "es": "A veces demoro en decidir." }
+        ]
+      },
+      "nota": "«Equipe» es muy usada en el trabajo; «time» también se oye mucho en Brasil. «Meio período» se dice también «meio expediente»."
+    },
+    {
+      "id": "pt-b1-u12-l3",
+      "n": 3,
+      "titulo": "Mi trayectoria: tenho trabalhado",
+      "objetivo": "Contar lo que has hecho hasta hoy con el presente perfeito composto.",
+      "intro": "Con «tenho + participio» cuentas acciones que continúan o se repiten hasta ahora. Truco: -ar → -ado (trabalhado), -er/-ir → -ido (aprendido).",
+      "palabras": [
+        { "t": "tenho trabalhado", "es": "he estado trabajando", "pron": "téñu trabalyádu", "ej": "Nos últimos anos, tenho trabalhado em vendas.", "ejes": "En los últimos años, he estado trabajando en ventas.", "cog": false },
+        { "t": "tenho estudado", "es": "he estado estudiando", "pron": "téñu estudádu", "ej": "Ultimamente, tenho estudado inglês.", "ejes": "Últimamente, he estado estudiando inglés.", "cog": false },
+        { "t": "tenho aprendido", "es": "he estado aprendiendo", "pron": "téñu aprendídu", "ej": "Eu tenho aprendido muito aqui.", "ejes": "He aprendido mucho aquí.", "cog": false },
+        { "t": "tenho feito", "es": "he estado haciendo", "pron": "téñu féitu", "ej": "Eu tenho feito cursos online.", "ejes": "He estado haciendo cursos en línea.", "cog": false },
+        { "t": "tenho participado", "es": "he participado", "pron": "téñu partisipádu", "ej": "Eu tenho participado de projetos.", "ejes": "He participado en proyectos.", "cog": false },
+        { "t": "tenho procurado", "es": "he estado buscando", "pron": "téñu prokurádu", "ej": "Eu tenho procurado emprego.", "ejes": "He estado buscando empleo.", "cog": false },
+        { "t": "tem liderado", "es": "ha liderado", "pron": "téin liderádu", "ej": "Ela tem liderado a equipe.", "ejes": "Ella ha liderado el equipo.", "cog": false },
+        { "t": "temos crescido", "es": "hemos crecido", "pron": "témus kesídu", "ej": "Nós temos crescido muito.", "ejes": "Hemos crecido mucho.", "cog": false },
+        { "t": "ultimamente", "es": "últimamente", "pron": "ultimaméntyi", "ej": "Eu estou cansado ultimamente.", "ejes": "Estoy cansado últimamente.", "cog": true },
+        { "t": "nos últimos anos", "es": "en los últimos años", "pron": "nus últimus ánus", "ej": "Eu mudei muito nos últimos anos.", "ejes": "He cambiado mucho en los últimos años.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Tenho trabalhado em vendas nos últimos anos.", "es": "He estado trabajando en ventas en los últimos años.", "pron": "téñu trabalyádu éin véndas nus últimus ánus" },
+        { "t": "Eu tenho estudado inglês à noite.", "es": "He estado estudiando inglés por las noches.", "pron": "éu téñu estudádu inglés a nóityi" },
+        { "t": "Ela tem liderado a equipe com sucesso.", "es": "Ella ha liderado el equipo con éxito.", "pron": "éla téin liderádu a ekípi kon susésu" },
+        { "t": "Temos crescido muito este ano.", "es": "Hemos crecido mucho este año.", "pron": "témus kesídu múintu éstyi ánu" },
+        { "t": "Eu tenho aprendido muito nesta empresa.", "es": "He aprendido mucho en esta empresa.", "pron": "éu téñu aprendídu múintu néstyi empréza" }
+      ],
+      "dialogo": {
+        "titulo": "Minha trajetória",
+        "lineas": [
+          { "q": "A", "t": "O que você tem feito ultimamente?", "es": "¿Qué has estado haciendo últimamente?" },
+          { "q": "B", "t": "Tenho trabalhado em vendas e tenho estudado inglês.", "es": "He estado trabajando en ventas y estudiando inglés." },
+          { "q": "A", "t": "E a sua empresa, como está?", "es": "¿Y tu empresa, cómo está?" },
+          { "q": "B", "t": "Temos crescido muito e eu tenho aprendido bastante.", "es": "Hemos crecido mucho y he aprendido bastante." },
+          { "q": "A", "t": "Que bom! Eu tenho procurado emprego.", "es": "¡Qué bueno! Yo he estado buscando empleo." }
+        ]
+      },
+      "nota": "El presente perfeito composto brasileño expresa lo que se repite o continúa: «tenho estudado» = vengo estudiando. Para decir que algo ocurrió una vez usa el pasado simple."
+    },
+    {
+      "id": "pt-b1-u12-l4",
+      "n": 4,
+      "titulo": "Preguntas de entrevista",
+      "objetivo": "Entender y responder las preguntas típicas de una entrevista de trabajo.",
+      "intro": "Estas preguntas se repiten en casi todas las entrevistas. Truco: prepara una respuesta corta y clara para cada una y practica en voz alta.",
+      "palabras": [
+        { "t": "objetivo", "es": "objetivo", "pron": "obyetívu", "ej": "Meu objetivo é crescer.", "ejes": "Mi objetivo es crecer.", "cog": true },
+        { "t": "disponibilidade", "es": "disponibilidad", "pron": "disponibilidádi", "ej": "Tenho disponibilidade de horário.", "ejes": "Tengo disponibilidad de horario.", "cog": true },
+        { "t": "pretensão salarial", "es": "pretensión salarial", "pron": "pretensáun salariáu", "ej": "Qual é a sua pretensão salarial?", "ejes": "¿Cuál es tu pretensión salarial?", "cog": true },
+        { "t": "motivação", "es": "motivación", "pron": "motivasáun", "ej": "Minha motivação é aprender.", "ejes": "Mi motivación es aprender.", "cog": true },
+        { "t": "qualidade", "es": "cualidad", "pron": "kualidádi", "ej": "Qual é a sua melhor qualidade?", "ejes": "¿Cuál es tu mejor cualidad?", "cog": true },
+        { "t": "qualificação", "es": "calificación / formación", "pron": "kualifikasáun", "ej": "Tenho qualificação para o cargo.", "ejes": "Tengo calificación para el puesto.", "cog": true },
+        { "t": "proposta", "es": "propuesta / oferta", "pron": "propósta", "ej": "Recebi uma proposta.", "ejes": "Recibí una oferta.", "cog": true },
+        { "t": "plano de carreira", "es": "plan de carrera", "pron": "pláno dyi kajéira", "ej": "A empresa tem plano de carreira.", "ejes": "La empresa tiene plan de carrera.", "cog": true },
+        { "t": "me apresentar", "es": "presentarme", "pron": "mi aprezentár", "ej": "Vou me apresentar.", "ejes": "Voy a presentarme.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Pode falar um pouco sobre você?", "es": "¿Puede hablar un poco sobre usted?", "pron": "póde falár ún pókou sóbri vosé" },
+        { "t": "Por que você quer trabalhar aqui?", "es": "¿Por qué quiere trabajar aquí?", "pron": "pur kê vosé kér trabalyár akí" },
+        { "t": "Quais são os seus pontos fortes?", "es": "¿Cuáles son sus puntos fuertes?", "pron": "kuáis sáun us séus póntus fórtyis" },
+        { "t": "Qual é a sua pretensão salarial?", "es": "¿Cuál es su pretensión salarial?", "pron": "kuáu é a súa pretensáun salariáu" },
+        { "t": "Onde você trabalhou antes?", "es": "¿Dónde trabajó antes?", "pron": "ôndyi vosé trabalyóu ántis" }
+      ],
+      "dialogo": {
+        "titulo": "Na entrevista",
+        "lineas": [
+          { "q": "A", "t": "Pode falar um pouco sobre você?", "es": "¿Puede hablar un poco sobre usted?" },
+          { "q": "B", "t": "Claro. Tenho trabalhado em vendas há cinco anos.", "es": "Claro. He estado trabajando en ventas hace cinco años." },
+          { "q": "A", "t": "Por que você quer esta vaga?", "es": "¿Por qué quiere esta vacante?" },
+          { "q": "B", "t": "Minha motivação é crescer e aprender.", "es": "Mi motivación es crecer y aprender." },
+          { "q": "A", "t": "Qual é a sua pretensão salarial?", "es": "¿Cuál es su pretensión salarial?" },
+          { "q": "B", "t": "Prefiro conversar depois da proposta.", "es": "Prefiero conversar después de la propuesta." }
+        ]
+      },
+      "nota": "En entrevistas se trata de «o senhor / a senhora» al entrevistador, o simplemente «você» en empresas modernas. «Por que» al inicio de una pregunta se escribe separado: «Por que você quer...?»."
+    },
+    {
+      "id": "pt-b1-u12-l5",
+      "n": 5,
+      "titulo": "Repaso: mi primer día",
+      "objetivo": "Combinar vocabulario laboral y presente perfeito composto en situaciones del trabajo.",
+      "intro": "En esta lección mezclas todo: contrato, horario, jefe y colegas. Truco: usa «tenho + participio» para hablar de tu semana y el pasado simple para algo terminado.",
+      "palabras": [
+        { "t": "contrato", "es": "contrato", "pron": "kontrátu", "ej": "Assinei o contrato ontem.", "ejes": "Firmé el contrato ayer.", "cog": true },
+        { "t": "benefício", "es": "beneficio", "pron": "benefísiu", "ej": "O benefício principal é o seguro.", "ejes": "El beneficio principal es el seguro.", "cog": true },
+        { "t": "horário", "es": "horario", "pron": "orário", "ej": "O horário é das nove às seis.", "ejes": "El horario es de nueve a seis.", "cog": true },
+        { "t": "promoção", "es": "ascenso", "pron": "promosáun", "ej": "Ela recebeu uma promoção.", "ejes": "Ella recibió un ascenso.", "cog": true },
+        { "t": "chefe", "es": "jefe", "pron": "shéfi", "ej": "Meu chefe é simpático.", "ejes": "Mi jefe es simpático.", "cog": false },
+        { "t": "colega", "es": "compañero", "pron": "koléga", "ej": "Meu colega me ajudou.", "ejes": "Mi compañero me ayudó.", "cog": true },
+        { "t": "meta", "es": "meta / objetivo", "pron": "méta", "ej": "A meta do mês é alta.", "ejes": "La meta del mes es alta.", "cog": true },
+        { "t": "home office", "es": "trabajo remoto", "pron": "hóum ófis", "ej": "Eu trabalho em home office.", "ejes": "Trabajo en remoto.", "cog": false },
+        { "t": "reunião", "es": "reunión", "pron": "jeuniáun", "ej": "Tenho uma reunião às dez.", "ejes": "Tengo una reunión a las diez.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Assinei o contrato e começo na segunda.", "es": "Firmé el contrato y empiezo el lunes.", "pron": "asinéi u kontrátu i komésu na segúnda" },
+        { "t": "Eu tenho aprendido muito com os meus colegas.", "es": "He aprendido mucho con mis compañeros.", "pron": "éu téñu aprendídu múintu kon us méus kolégas" },
+        { "t": "Meu chefe tem sido muito gentil.", "es": "Mi jefe ha sido muy amable.", "pron": "méu shéfi téin sídu múintu yentíu" },
+        { "t": "Temos uma reunião para falar das metas.", "es": "Tenemos una reunión para hablar de las metas.", "pron": "témus úma jeuniáun pára falár das métas" },
+        { "t": "Eu trabalho em home office duas vezes por semana.", "es": "Trabajo remoto dos veces por semana.", "pron": "éu trabályu éin hóum ófis dúas vézis pur semána" }
+      ],
+      "dialogo": {
+        "titulo": "Primeiro mês de trabalho",
+        "lineas": [
+          { "q": "A", "t": "Como tem sido o seu primeiro mês?", "es": "¿Cómo ha sido tu primer mes?" },
+          { "q": "B", "t": "Ótimo! Tenho aprendido muito com a equipe.", "es": "¡Excelente! He aprendido mucho con el equipo." },
+          { "q": "A", "t": "E o horário? Você tem trabalhado em home office?", "es": "¿Y el horario? ¿Has trabajado en remoto?" },
+          { "q": "B", "t": "Sim, duas vezes por semana. O chefe permite.", "es": "Sí, dos veces por semana. El jefe lo permite." },
+          { "q": "A", "t": "Que bom! Parabéns pelo contrato.", "es": "¡Qué bueno! Felicitaciones por el contrato." }
+        ]
+      },
+      "nota": "«Tem sido» (ha sido) usa el participio irregular de «ser»: «sido». Es muy común: «Tem sido um mês difícil»."
+    }
+  ]
+}

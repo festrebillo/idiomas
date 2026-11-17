@@ -1,0 +1,216 @@
+{
+  "id": "en-b1-u1",
+  "idioma": "en",
+  "nivel": "B1",
+  "n": 1,
+  "titulo": "Contar historias",
+  "resumen": "Aprenderás a contar anécdotas en pasado con el pasado continuo, used to y secuenciadores como first, then y finally.",
+  "puedo": [
+    "Formar el pasado continuo con was / were + verbo con -ing.",
+    "Combinar pasado simple y pasado continuo en una historia.",
+    "Hablar de hábitos del pasado con used to.",
+    "Ordenar una historia con first, then, after that y finally.",
+    "Contar una anécdota con detalles y reacciones."
+  ],
+  "gramatica": {
+    "titulo": "Pasado continuo y pasado simple en una historia",
+    "texto": "El pasado continuo (was / were + verbo con -ing) describe una acción que estaba en progreso en un momento del pasado: I was walking home (iba caminando a casa). El pasado simple cuenta el hecho que interrumpió o avanzó la historia: I was walking home when it started to rain.\nUsa was con I, he, she, it y were con you, we, they. Pregunta: Were you sleeping? Negación: I wasn't listening.\nTruco: el continuo es el escenario (lo que estaba pasando); el simple es el suceso (lo que pasó de pronto). When introduce el suceso corto; while introduce la acción larga.",
+    "tabla": [
+      ["I was walking home.", "Yo iba caminando a casa.", "ai uas uókin joum"],
+      ["They were playing cards.", "Ellos estaban jugando cartas.", "dei uer pléiin cards"],
+      ["Was she working?", "¿Estaba ella trabajando?", "uas shi uérkin"],
+      ["We weren't sleeping.", "No estábamos durmiendo.", "ui uérent slípin"],
+      ["I was cooking when he called.", "Estaba cocinando cuando llamó.", "ai uas cúkin uen ji cold"],
+      ["While I was reading, it rained.", "Mientras leía, llovió.", "uail ai uas rídin, it reind"]
+    ],
+    "errores": [
+      "No uses el pasado simple para la acción de fondo: es I was walking when it rained, no «I walked when it rained» (cambia el sentido).",
+      "No olvides was / were: es She was cooking, no «She cooking».",
+      "Los verbos de estado (know, like, want) casi no llevan -ing: es I knew him, no «I was knowing him»."
+    ]
+  },
+  "practica": [
+    "Escribe una anécdota de 6 a 8 líneas combinando was / were + -ing con el pasado simple (12 minutos).",
+    "Cuenta en voz alta qué estabas haciendo ayer a las 8 de la noche, a las 3 de la tarde y a las 10 de la mañana (5 minutos).",
+    "Escribe 6 oraciones sobre cómo eras de niño con used to y léelas en voz alta (8 minutos).",
+    "Graba un audio de un minuto contando tu último viaje con first, then, after that y finally (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b1-u1-l1",
+      "n": 1,
+      "titulo": "Lo que estaba pasando",
+      "objetivo": "Usar el pasado continuo para describir acciones en progreso.",
+      "intro": "El pasado continuo lleva was o were y un verbo con -ing: I was waiting. Truco: piensa en una foto del pasado donde la acción aún está ocurriendo. Aquí practicas verbos muy usados para contar historias.",
+      "palabras": [
+        { "t": "wait", "es": "esperar", "pron": "ueit", "ej": "Please wait for me here.", "ejes": "Por favor, espérame aquí.", "cog": false },
+        { "t": "rain", "es": "llover / lluvia", "pron": "rein", "ej": "I think it will rain today.", "ejes": "Creo que lloverá hoy.", "cog": false },
+        { "t": "hurry", "es": "apurarse", "pron": "jéri", "ej": "We always hurry to the airport.", "ejes": "Siempre nos apuramos hacia el aeropuerto.", "cog": false },
+        { "t": "shout", "es": "gritar", "pron": "sháut", "ej": "Please don't shout at me.", "ejes": "Por favor, no me grites.", "cog": false },
+        { "t": "stare", "es": "mirar fijamente", "pron": "ster", "ej": "Don't stare at people.", "ejes": "No mires fijamente a la gente.", "cog": false },
+        { "t": "chat", "es": "charlar", "pron": "chat", "ej": "We like to chat after dinner.", "ejes": "Nos gusta charlar después de la cena.", "cog": false },
+        { "t": "suddenly", "es": "de repente", "pron": "sádenli", "ej": "Suddenly, the lights went out.", "ejes": "De repente, se apagaron las luces.", "cog": false },
+        { "t": "notice", "es": "notar / darse cuenta", "pron": "nóutis", "ej": "I didn't notice the time.", "ejes": "No me di cuenta de la hora.", "cog": true }
+      ],
+      "frases": [
+        { "t": "I was waiting for the bus.", "es": "Estaba esperando el bus.", "pron": "ai uas uéitin for da bas" },
+        { "t": "It was raining when I left.", "es": "Estaba lloviendo cuando salí.", "pron": "it uas réinin uen ai left" },
+        { "t": "They were chatting in the kitchen.", "es": "Estaban charlando en la cocina.", "pron": "dei uer chátin in da kítchen" },
+        { "t": "What were you doing at nine?", "es": "¿Qué estabas haciendo a las nueve?", "pron": "juat uer iu dúin at náin" },
+        { "t": "Suddenly, the lights went out.", "es": "De repente, se apagaron las luces.", "pron": "sádenli, da laits uent aut" }
+      ],
+      "dialogo": {
+        "titulo": "Una noche extraña",
+        "lineas": [
+          { "q": "A", "t": "What were you doing last night at ten?", "es": "¿Qué estabas haciendo anoche a las diez?" },
+          { "q": "B", "t": "I was watching a movie with my brother.", "es": "Estaba viendo una película con mi hermano." },
+          { "q": "A", "t": "Were you? I called you twice.", "es": "¿En serio? Te llamé dos veces." },
+          { "q": "B", "t": "Sorry, I didn't notice. It was raining and the TV was loud.", "es": "Perdón, no me di cuenta. Llovía y la tele estaba fuerte." },
+          { "q": "A", "t": "No problem. I was just wondering.", "es": "No hay problema. Solo me preguntaba." }
+        ]
+      },
+      "nota": "En español usamos «estaba» o el imperfecto (llovía). En inglés, para una acción en progreso concreta, lo natural es was / were + -ing."
+    },
+    {
+      "id": "en-b1-u1-l2",
+      "n": 2,
+      "titulo": "Mientras tanto y cuando",
+      "objetivo": "Unir una acción en progreso con un suceso usando when y while.",
+      "intro": "When introduce el suceso corto; while introduce la acción larga. Truco: while + -ing (acción larga), when + pasado simple (suceso). Con esto ya cuentas historias con interrupciones.",
+      "palabras": [
+        { "t": "while", "es": "mientras", "pron": "uail", "ej": "While I was cooking, he called.", "ejes": "Mientras cocinaba, él llamó.", "cog": false },
+        { "t": "meanwhile", "es": "mientras tanto", "pron": "mínuail", "ej": "Meanwhile, my sister was sleeping.", "ejes": "Mientras tanto, mi hermana dormía.", "cog": false },
+        { "t": "fall asleep", "es": "quedarse dormido", "pron": "fol aslíp", "ej": "I always fall asleep on the sofa.", "ejes": "Siempre me quedo dormido en el sofá.", "cog": false },
+        { "t": "break", "es": "romper(se)", "pron": "breik", "ej": "Be careful, you can break the glass.", "ejes": "Cuidado, puedes romper el vaso.", "cog": false },
+        { "t": "slip", "es": "resbalar", "pron": "slip", "ej": "Be careful, you can slip here.", "ejes": "Cuidado, puedes resbalar aquí.", "cog": false },
+        { "t": "arrive", "es": "llegar", "pron": "aráiv", "ej": "The taxi will arrive at six.", "ejes": "El taxi llegará a las seis.", "cog": false },
+        { "t": "lose", "es": "perder", "pron": "lus", "ej": "I don't want to lose my keys.", "ejes": "No quiero perder mis llaves.", "cog": false },
+        { "t": "scream", "es": "gritar (de susto)", "pron": "scrim", "ej": "Don't scream, the baby is sleeping.", "ejes": "No grites, el bebé está durmiendo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "While I was cooking, he called.", "es": "Mientras cocinaba, él llamó.", "pron": "uail ai uas cúkin, ji cold" },
+        { "t": "I was walking when I fell.", "es": "Iba caminando cuando me caí.", "pron": "ai uas uókin uen ai fel" },
+        { "t": "She slipped while she was running.", "es": "Resbaló mientras corría.", "pron": "shi slipt uail shi uas ránin" },
+        { "t": "We were eating when the lights went out.", "es": "Estábamos comiendo cuando se apagaron las luces.", "pron": "ui uer ítin uen da laits uent aut" },
+        { "t": "Meanwhile, my sister was sleeping.", "es": "Mientras tanto, mi hermana dormía.", "pron": "mínuail, mai síster uas slípin" }
+      ],
+      "dialogo": {
+        "titulo": "Una mala mañana",
+        "lineas": [
+          { "q": "A", "t": "You look tired. What happened?", "es": "Te ves cansado. ¿Qué pasó?" },
+          { "q": "B", "t": "I was making breakfast when the glass broke.", "es": "Estaba preparando el desayuno cuando se rompió el vaso." },
+          { "q": "A", "t": "Oh no. Did you cut yourself?", "es": "Ay no. ¿Te cortaste?" },
+          { "q": "B", "t": "No, but while I was cleaning, I lost my keys.", "es": "No, pero mientras limpiaba, perdí mis llaves." },
+          { "q": "A", "t": "What a morning!", "es": "¡Qué mañana!" }
+        ]
+      },
+      "nota": "Dos acciones largas a la vez se unen con while y dos continuos: While I was cooking, she was studying. Mucho ojo: «fall asleep» es un suceso corto, por eso va en pasado simple."
+    },
+    {
+      "id": "en-b1-u1-l3",
+      "n": 3,
+      "titulo": "Antes solía...",
+      "objetivo": "Hablar de hábitos y situaciones del pasado con used to.",
+      "intro": "Used to + verbo en base habla de hábitos que ya no tienes: I used to play football (jugaba / solía jugar). Truco: es como el imperfecto español de costumbre. En preguntas y negaciones se escribe use to: Did you use to...?",
+      "palabras": [
+        { "t": "used to", "es": "solía", "pron": "iust tu", "ej": "I used to live in Cusco.", "ejes": "Yo vivía en Cusco.", "cog": false },
+        { "t": "childhood", "es": "infancia", "pron": "cháildjud", "ej": "I had a happy childhood.", "ejes": "Tuve una infancia feliz.", "cog": false },
+        { "t": "grow up", "es": "crecer", "pron": "grou ap", "ej": "Children grow up fast.", "ejes": "Los niños crecen rápido.", "cog": false },
+        { "t": "neighborhood", "es": "barrio", "pron": "néiborjud", "ej": "Our neighborhood was very quiet.", "ejes": "Nuestro barrio era muy tranquilo.", "cog": false },
+        { "t": "habit", "es": "hábito", "pron": "jábit", "ej": "Biting nails is a bad habit.", "ejes": "Morderse las uñas es un mal hábito.", "cog": true },
+        { "t": "give up", "es": "dejar / rendirse", "pron": "guiv ap", "ej": "Please don't give up.", "ejes": "Por favor, no te rindas.", "cog": false },
+        { "t": "stay up", "es": "quedarse despierto", "pron": "stei ap", "ej": "I can't stay up late.", "ejes": "No puedo quedarme despierto hasta tarde.", "cog": false },
+        { "t": "anymore", "es": "ya no", "pron": "enimór", "ej": "I don't play anymore.", "ejes": "Ya no juego.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I used to live in Cusco.", "es": "Yo vivía en Cusco.", "pron": "ai iust tu liv in cúsco" },
+        { "t": "We used to stay up late.", "es": "Solíamos quedarnos despiertos hasta tarde.", "pron": "ui iust tu stei ap leit" },
+        { "t": "Did you use to play football?", "es": "¿Solías jugar fútbol?", "pron": "did iu ius tu plei fútbol" },
+        { "t": "She didn't use to like coffee.", "es": "Antes no le gustaba el café.", "pron": "shi dídent ius tu laik cófi" },
+        { "t": "I don't play anymore.", "es": "Ya no juego.", "pron": "ai dount plei enimór" }
+      ],
+      "dialogo": {
+        "titulo": "Cuando éramos niños",
+        "lineas": [
+          { "q": "A", "t": "Where did you grow up?", "es": "¿Dónde creciste?" },
+          { "q": "B", "t": "In a small town near Arequipa. I used to play in the street every afternoon.", "es": "En un pueblo cerca de Arequipa. Jugaba en la calle todas las tardes." },
+          { "q": "A", "t": "Did you use to have a bike?", "es": "¿Tenías una bicicleta?" },
+          { "q": "B", "t": "Yes, and I used to ride it to school. I don't do that anymore.", "es": "Sí, y solía ir en ella al colegio. Ya no lo hago." },
+          { "q": "A", "t": "I used to hate walking, but now I love it.", "es": "Antes odiaba caminar, pero ahora me encanta." }
+        ]
+      },
+      "nota": "Used to solo sirve para el pasado (no existe «I use to» para el presente). Con did, la d desaparece: I used to, pero Did you use to...? y I didn't use to..."
+    },
+    {
+      "id": "en-b1-u1-l4",
+      "n": 4,
+      "titulo": "Primero, luego y al final",
+      "objetivo": "Ordenar una historia con secuenciadores.",
+      "intro": "Para que tu historia se entienda, ordena los hechos: first, then, after that, finally. Truco: después de la coma, el verbo vuelve a su orden normal: First, I woke up. Then, I made coffee.",
+      "palabras": [
+        { "t": "first", "es": "primero", "pron": "ferst", "ej": "First, we bought the tickets.", "ejes": "Primero, compramos los boletos.", "cog": false },
+        { "t": "then", "es": "luego", "pron": "den", "ej": "Then, we went to the hotel.", "ejes": "Luego, fuimos al hotel.", "cog": false },
+        { "t": "after that", "es": "después de eso", "pron": "áfter dat", "ej": "After that, I took a nap.", "ejes": "Después de eso, tomé una siesta.", "cog": false },
+        { "t": "finally", "es": "finalmente", "pron": "fáinali", "ej": "Finally, we arrived home.", "ejes": "Finalmente, llegamos a casa.", "cog": true },
+        { "t": "at first", "es": "al principio", "pron": "at ferst", "ej": "At first, I was nervous.", "ejes": "Al principio, estaba nervioso.", "cog": false },
+        { "t": "in the end", "es": "al final", "pron": "in di end", "ej": "In the end, everything was fine.", "ejes": "Al final, todo salió bien.", "cog": false },
+        { "t": "later", "es": "más tarde", "pron": "léiter", "ej": "Later, we had dinner.", "ejes": "Más tarde, cenamos.", "cog": false },
+        { "t": "a few minutes later", "es": "unos minutos después", "pron": "a fiú mínits léiter", "ej": "A few minutes later, the bus came.", "ejes": "Unos minutos después, llegó el bus.", "cog": false }
+      ],
+      "frases": [
+        { "t": "First, I woke up late.", "es": "Primero, me desperté tarde.", "pron": "ferst, ai uouk ap leit" },
+        { "t": "Then I missed the bus.", "es": "Luego perdí el bus.", "pron": "den ai mist da bas" },
+        { "t": "After that, I took a taxi.", "es": "Después de eso, tomé un taxi.", "pron": "áfter dat, ai tuk a táksi" },
+        { "t": "At first, I was nervous.", "es": "Al principio, estaba nervioso.", "pron": "at ferst, ai uas nérvos" },
+        { "t": "In the end, I arrived on time.", "es": "Al final, llegué a tiempo.", "pron": "in di end, ai aráivd on taim" }
+      ],
+      "dialogo": {
+        "titulo": "Un día de locos",
+        "lineas": [
+          { "q": "A", "t": "Why are you so late?", "es": "¿Por qué llegas tan tarde?" },
+          { "q": "B", "t": "First, my alarm didn't ring. Then I missed the bus.", "es": "Primero, no sonó mi alarma. Luego perdí el bus." },
+          { "q": "A", "t": "And after that?", "es": "¿Y después de eso?" },
+          { "q": "B", "t": "I ran to the station, and a few minutes later the train left!", "es": "Corrí a la estación, ¡y unos minutos después se fue el tren!" },
+          { "q": "A", "t": "Finally you're here. Let's start.", "es": "Por fin estás aquí. Empecemos." }
+        ]
+      },
+      "nota": "Finally es el último hecho de una secuencia; at last (por fin) expresa alivio tras esperar mucho. No uses finally para «al fin y al cabo»."
+    },
+    {
+      "id": "en-b1-u1-l5",
+      "n": 5,
+      "titulo": "Repaso: mi mejor anécdota",
+      "objetivo": "Contar una anécdota completa con pasado continuo, used to y secuenciadores.",
+      "intro": "Repasa todo y suma expresiones para reaccionar a una historia. Truco: arma tu anécdota en tres partes: escenario (continuo), suceso (simple) y final (finally, in the end).",
+      "palabras": [
+        { "t": "story", "es": "historia", "pron": "stóri", "ej": "That's a funny story.", "ejes": "Esa es una historia divertida.", "cog": true },
+        { "t": "happen", "es": "ocurrir / pasar", "pron": "jápen", "ej": "Tell me what will happen next.", "ejes": "Dime qué pasará después.", "cog": false },
+        { "t": "luckily", "es": "por suerte", "pron": "lákili", "ej": "Luckily, nobody was hurt.", "ejes": "Por suerte, nadie salió herido.", "cog": false },
+        { "t": "embarrassed", "es": "avergonzado", "pron": "embárast", "ej": "I felt really embarrassed.", "ejes": "Me sentí muy avergonzado.", "cog": false },
+        { "t": "burst out laughing", "es": "echarse a reír", "pron": "berst aut láfin", "ej": "I could burst out laughing.", "ejes": "Podría echarme a reír.", "cog": false },
+        { "t": "run into", "es": "toparse con", "pron": "ran íntu", "ej": "I might run into an old friend.", "ejes": "Quizá me tope con un viejo amigo.", "cog": false },
+        { "t": "turn out", "es": "resultar", "pron": "tern aut", "ej": "Let's see how it will turn out.", "ejes": "Veamos cómo resulta.", "cog": false },
+        { "t": "no way", "es": "ni hablar / ¡no puede ser!", "pron": "nou uei", "ej": "No way! That's incredible.", "ejes": "¡No puede ser! Es increíble.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I was walking downtown when I ran into an old friend.", "es": "Iba caminando por el centro cuando me topé con un viejo amigo.", "pron": "ai uas uókin dáuntaun uen ai ran íntu an ould frend" },
+        { "t": "We used to be neighbors.", "es": "Antes éramos vecinos.", "pron": "ui iust tu bi néiborz" },
+        { "t": "What happened next?", "es": "¿Qué pasó después?", "pron": "juat jápend nekst" },
+        { "t": "It turned out to be a mistake.", "es": "Resultó ser un error.", "pron": "it ternd aut tu bi a mistéik" },
+        { "t": "Luckily, nobody was hurt.", "es": "Por suerte, nadie salió herido.", "pron": "lákili, nóubodi uas jert" },
+        { "t": "In the end, we burst out laughing.", "es": "Al final, nos echamos a reír.", "pron": "in di end, ui berst aut láfin" }
+      ],
+      "dialogo": {
+        "titulo": "Una coincidencia",
+        "lineas": [
+          { "q": "A", "t": "Guess what happened. I was waiting for the bus when I ran into my old teacher.", "es": "Adivina qué pasó. Estaba esperando el bus cuando me topé con mi antiguo profesor." },
+          { "q": "B", "t": "No way! Did he recognize you?", "es": "¡No puede ser! ¿Te reconoció?" },
+          { "q": "A", "t": "At first, no. Then he said, you used to sit in the front row!", "es": "Al principio, no. Luego dijo: ¡te sentabas en la primera fila!" },
+          { "q": "B", "t": "That's funny. What happened next?", "es": "Qué gracioso. ¿Qué pasó después?" },
+          { "q": "A", "t": "We had coffee. In the end, we talked for two hours.", "es": "Tomamos un café. Al final, hablamos dos horas." }
+        ]
+      },
+      "nota": "Para animar a quien cuenta una historia, usa Really?, No way! o What happened next? Es lo que hace un oyente natural en inglés."
+    }
+  ]
+}

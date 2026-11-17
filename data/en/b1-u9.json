@@ -1,0 +1,219 @@
+{
+  "id": "en-b1-u9",
+  "idioma": "en",
+  "nivel": "B1",
+  "n": 9,
+  "titulo": "Noticias y medios",
+  "resumen": "Aprenderás vocabulario de prensa, radio y televisión, y los verbos para contar lo que otros dicen: announce, claim, admit, promise, refuse...",
+  "puedo": [
+    "Hablar de periódicos, televisión y redes con vocabulario de medios.",
+    "Distinguir noticias fiables, rumores y fake news.",
+    "Usar verbos de reporte con that: announce, claim, admit, deny.",
+    "Usar verbos de reporte con to + verbo: promise, refuse, offer.",
+    "Contar una noticia con mis propias palabras."
+  ],
+  "gramatica": {
+    "titulo": "Verbos de reporte: that o to + verbo",
+    "texto": "Para contar lo que alguien dijo no siempre usamos say. Hay verbos más precisos, llamados verbos de reporte: announce (anunciar), claim (afirmar), admit (admitir), promise (prometer)...\nGrupo 1, con that (se puede omitir): The mayor announced that the bridge will close. She admitted that she was wrong.\nGrupo 2, con to + verbo: He promised to call. They refused to answer. She offered to help.\nTruco: los verbos de acción o decisión (promise, refuse, offer, agree) van con to + verbo; los de información (announce, claim, admit, explain) van con that.\nEl tiempo suele retroceder, como ya viste en el estilo indirecto: The minister said that the plan was ready.",
+    "tabla": [
+      ["He announced that he was leaving.", "Anunció que se iba.", "ji anáunst dat ji uas lívin"],
+      ["She claimed that it was true.", "Afirmó que era verdad.", "shi claimd dat it uas tru"],
+      ["He admitted that he made a mistake.", "Admitió que cometió un error.", "ji admítid dat ji meid a mistéik"],
+      ["They denied that it was their fault.", "Negaron que fuera su culpa.", "dei dinaid dat it uas der folt"],
+      ["She promised to write.", "Prometió escribir.", "shi prómist tu rait"],
+      ["He refused to comment.", "Se negó a comentar.", "ji rifiúsd tu cóment"]
+    ],
+    "errores": [
+      "No uses to + verbo con announce o claim: es He announced that he was leaving, no «He announced to leave».",
+      "No digas «She promised me that to call»: es She promised to call (o She promised that she would call).",
+      "No uses explain con persona directa: es He explained the problem to me, no «He explained me the problem»."
+    ]
+  },
+  "practica": [
+    "Lee 3 titulares de un periódico en inglés (BBC, CNN) y subraya los verbos de reporte que veas (10 minutos).",
+    "Escribe 6 frases contando noticias reales con announced that, claimed that y promised to (10 minutos).",
+    "Mira 5 minutos de un noticiero en inglés y anota 5 palabras de medios (headline, report, source...) (8 minutos).",
+    "Cuenta en voz alta una noticia del día como si fueras periodista, con 4 verbos de reporte distintos (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b1-u9-l1",
+      "n": 1,
+      "titulo": "Medios de comunicación",
+      "objetivo": "Nombrar las partes de un medio: titular, artículo, canal y fuente.",
+      "intro": "Empezamos con el vocabulario básico de los medios. Truco: muchas palabras se parecen al español (article, channel, journalist), pero cuidado con la pronunciación.",
+      "palabras": [
+        { "t": "headline", "es": "titular", "pron": "jédlain", "ej": "The headline caught my attention.", "ejes": "El titular me llamó la atención.", "cog": false },
+        { "t": "article", "es": "artículo", "pron": "árticol", "ej": "I read an article about health.", "ejes": "Leí un artículo sobre salud.", "cog": true },
+        { "t": "journalist", "es": "periodista", "pron": "yérnalist", "ej": "My cousin is a journalist.", "ejes": "Mi primo es periodista.", "cog": true },
+        { "t": "reporter", "es": "reportero", "pron": "ripórter", "ej": "The reporter asked three questions.", "ejes": "El reportero hizo tres preguntas.", "cog": true },
+        { "t": "channel", "es": "canal", "pron": "chánel", "ej": "Which channel do you watch?", "ejes": "¿Qué canal ves?", "cog": true },
+        { "t": "audience", "es": "audiencia / público", "pron": "ódiens", "ej": "The audience loved the show.", "ejes": "El público amó el programa.", "cog": true },
+        { "t": "source", "es": "fuente", "pron": "sors", "ej": "What is your source?", "ejes": "¿Cuál es tu fuente?", "cog": false },
+        { "t": "broadcast", "es": "transmitir / transmisión", "pron": "bródcast", "ej": "They broadcast the match live.", "ejes": "Transmiten el partido en vivo.", "cog": false },
+        { "t": "newspaper", "es": "periódico", "pron": "niúspeiper", "ej": "My father reads the newspaper every day.", "ejes": "Mi padre lee el periódico todos los días.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I read the newspaper every morning.", "es": "Leo el periódico cada mañana.", "pron": "ai red da niúspeiper évri mórnin" },
+        { "t": "The headline was very surprising.", "es": "El titular fue muy sorprendente.", "pron": "da jédlain uas véri sorpráisin" },
+        { "t": "The journalist interviewed the mayor.", "es": "La periodista entrevistó al alcalde.", "pron": "da yérnalist íntervíud da méior" },
+        { "t": "Which channel shows the news?", "es": "¿Qué canal pasa las noticias?", "pron": "uich chánel shous da niús" },
+        { "t": "What is the source of this article?", "es": "¿Cuál es la fuente de este artículo?", "pron": "uat is da sors ov dis árticol" }
+      ],
+      "dialogo": {
+        "titulo": "Leyendo el periódico",
+        "lineas": [
+          { "q": "A", "t": "Did you read the newspaper today?", "es": "¿Leíste el periódico hoy?" },
+          { "q": "B", "t": "Yes. The headline on page one was shocking.", "es": "Sí. El titular de la primera página fue impactante." },
+          { "q": "A", "t": "Which article do you mean?", "es": "¿A qué artículo te refieres?" },
+          { "q": "B", "t": "The one by the journalist from Lima.", "es": "El del periodista de Lima." },
+          { "q": "A", "t": "Let me check the source.", "es": "Déjame revisar la fuente." }
+        ]
+      },
+      "nota": "News (noticias) es incontable y va con verbo en singular: The news is good. Una noticia se dice a piece of news."
+    },
+    {
+      "id": "en-b1-u9-l2",
+      "n": 2,
+      "titulo": "Noticias fiables y rumores",
+      "objetivo": "Hablar de noticias verdaderas, falsas y rumores.",
+      "intro": "No todo lo que se lee es cierto. Aprende a hablar de noticias fiables y de fake news. Truco: reliable significa «fiable», es decir, que se puede confiar en ello.",
+      "palabras": [
+        { "t": "breaking news", "es": "noticia de último momento", "pron": "bréikin niús", "ej": "Breaking news: the airport is closed.", "ejes": "Última hora: el aeropuerto está cerrado.", "cog": false },
+        { "t": "fake news", "es": "noticias falsas", "pron": "feik niús", "ej": "That story is fake news.", "ejes": "Esa historia es una noticia falsa.", "cog": false },
+        { "t": "rumor", "es": "rumor", "pron": "rúmor", "ej": "I heard a rumor about the company.", "ejes": "Oí un rumor sobre la empresa.", "cog": true },
+        { "t": "interview", "es": "entrevista", "pron": "íntervíu", "ej": "The interview was on TV last night.", "ejes": "La entrevista salió en TV anoche.", "cog": true },
+        { "t": "press", "es": "prensa", "pron": "pres", "ej": "The press was outside the court.", "ejes": "La prensa estaba afuera del tribunal.", "cog": true },
+        { "t": "reliable", "es": "fiable", "pron": "riláiabol", "ej": "Is this website reliable?", "ejes": "¿Es fiable este sitio web?", "cog": false },
+        { "t": "accurate", "es": "preciso / exacto", "pron": "ákiurit", "ej": "The report was not accurate.", "ejes": "El informe no fue exacto.", "cog": true },
+        { "t": "latest", "es": "más reciente", "pron": "léitest", "ej": "Have you seen the latest news?", "ejes": "¿Has visto las últimas noticias?", "cog": false },
+        { "t": "true", "es": "cierto / verdadero", "pron": "tru", "ej": "Is the story true?", "ejes": "¿Es cierta la historia?", "cog": false }
+      ],
+      "frases": [
+        { "t": "That story is fake news.", "es": "Esa historia es una noticia falsa.", "pron": "dat stóri is feik niús" },
+        { "t": "Is this website reliable?", "es": "¿Es fiable este sitio web?", "pron": "is dis uébsait riláiabol" },
+        { "t": "I heard a rumor, but it isn't true.", "es": "Oí un rumor, pero no es cierto.", "pron": "ai jerd a rúmor, bat it ísent tru" },
+        { "t": "Breaking news: the bridge is closed.", "es": "Última hora: el puente está cerrado.", "pron": "bréikin niús: da brich is clousd" },
+        { "t": "The press wants an interview.", "es": "La prensa quiere una entrevista.", "pron": "da pres uonts an íntervíu" }
+      ],
+      "dialogo": {
+        "titulo": "¿Es cierto?",
+        "lineas": [
+          { "q": "A", "t": "Did you hear the rumor about the factory?", "es": "¿Oíste el rumor sobre la fábrica?" },
+          { "q": "B", "t": "Yes, but I think it's fake news.", "es": "Sí, pero creo que es una noticia falsa." },
+          { "q": "A", "t": "How do you know?", "es": "¿Cómo lo sabes?" },
+          { "q": "B", "t": "The latest report isn't accurate. The source isn't reliable.", "es": "El último informe no es preciso. La fuente no es fiable." }
+        ]
+      },
+      "nota": "Antes de compartir una noticia, mira tres cosas: la fuente (source), la fecha y si otros medios dicen lo mismo."
+    },
+    {
+      "id": "en-b1-u9-l3",
+      "n": 3,
+      "titulo": "Verbos de reporte con that",
+      "objetivo": "Contar lo que se dijo con announce, claim, admit y deny.",
+      "intro": "En vez de said that, usa un verbo más preciso. Truco: that se puede omitir: He admitted (that) he was late. Estos verbos informan, no ordenan ni prometen.",
+      "palabras": [
+        { "t": "announce", "es": "anunciar", "pron": "anáuns", "ej": "They announce the winner tomorrow.", "ejes": "Anuncian al ganador mañana.", "cog": true },
+        { "t": "claim", "es": "afirmar / alegar", "pron": "cleim", "ej": "They claim the money is theirs.", "ejes": "Afirman que el dinero es suyo.", "cog": false },
+        { "t": "admit", "es": "admitir", "pron": "admít", "ej": "I admit I was wrong.", "ejes": "Admito que me equivoqué.", "cog": true },
+        { "t": "deny", "es": "negar", "pron": "dinái", "ej": "She will deny everything.", "ejes": "Ella lo negará todo.", "cog": false },
+        { "t": "mention", "es": "mencionar", "pron": "ménshen", "ej": "He didn't mention the price.", "ejes": "No mencionó el precio.", "cog": true },
+        { "t": "explain", "es": "explicar", "pron": "eksplén", "ej": "Can you explain the problem?", "ejes": "¿Puedes explicar el problema?", "cog": true },
+        { "t": "warn", "es": "advertir", "pron": "uorn", "ej": "They warn people about the storm.", "ejes": "Advierten a la gente de la tormenta.", "cog": false },
+        { "t": "reveal", "es": "revelar", "pron": "rivíl", "ej": "The report will reveal the truth.", "ejes": "El informe revelará la verdad.", "cog": true },
+        { "t": "state", "es": "declarar / afirmar", "pron": "steit", "ej": "The police state that nobody was hurt.", "ejes": "La policía declara que nadie resultó herido.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The mayor announced that the bridge will close.", "es": "El alcalde anunció que el puente cerrará.", "pron": "da méior anáunst dat da brich uil clous" },
+        { "t": "She claimed that she saw nothing.", "es": "Afirmó que no vio nada.", "pron": "shi cleimd dat shi so názin" },
+        { "t": "He admitted that he made a mistake.", "es": "Admitió que cometió un error.", "pron": "ji admítid dat ji meid a mistéik" },
+        { "t": "They denied that it was their fault.", "es": "Negaron que fuera su culpa.", "pron": "dei dinaid dat it uas der folt" },
+        { "t": "The doctor warned that the flu was spreading.", "es": "El médico advirtió que la gripe se estaba extendiendo.", "pron": "da dóctor uornd dat da flu uas spréding" }
+      ],
+      "dialogo": {
+        "titulo": "Una conferencia de prensa",
+        "lineas": [
+          { "q": "A", "t": "What did the mayor announce?", "es": "¿Qué anunció el alcalde?" },
+          { "q": "B", "t": "He announced that the park will open in May.", "es": "Anunció que el parque abrirá en mayo." },
+          { "q": "A", "t": "Did he mention the cost?", "es": "¿Mencionó el costo?" },
+          { "q": "B", "t": "No. He admitted that it was very high.", "es": "No. Admitió que era muy alto." },
+          { "q": "A", "t": "And the opposition?", "es": "¿Y la oposición?" },
+          { "q": "B", "t": "They claimed that the money was wasted.", "es": "Afirmaron que el dinero se desperdició." }
+        ]
+      },
+      "nota": "Deny se usa con that o con -ing (He denied taking it). Si quieres sonar neutral, say that siempre es correcto."
+    },
+    {
+      "id": "en-b1-u9-l4",
+      "n": 4,
+      "titulo": "Verbos de reporte con to",
+      "objetivo": "Usar promise, refuse, offer, advise y threaten con to + verbo.",
+      "intro": "Estos verbos hablan de decisiones y acciones, y van con to + verbo. Truco: advise, warn y invite llevan primero a la persona: She advised me to rest.",
+      "palabras": [
+        { "t": "promise", "es": "prometer", "pron": "prómis", "ej": "I promise to call you.", "ejes": "Prometo llamarte.", "cog": false },
+        { "t": "refuse", "es": "negarse", "pron": "rifiús", "ej": "They refuse to pay.", "ejes": "Se niegan a pagar.", "cog": false },
+        { "t": "offer", "es": "ofrecer", "pron": "ófer", "ej": "They offer to drive us home.", "ejes": "Se ofrecen a llevarnos a casa.", "cog": true },
+        { "t": "advise", "es": "aconsejar", "pron": "adváis", "ej": "The doctor will advise you to rest.", "ejes": "El médico te aconsejará descansar.", "cog": true },
+        { "t": "threaten", "es": "amenazar", "pron": "zréten", "ej": "The workers threaten to strike.", "ejes": "Los trabajadores amenazan con hacer huelga.", "cog": false },
+        { "t": "urge", "es": "instar", "pron": "erch", "ej": "They urge people to stay home.", "ejes": "Instan a la gente a quedarse en casa.", "cog": false },
+        { "t": "invite", "es": "invitar", "pron": "inváit", "ej": "They invite everyone to the opening.", "ejes": "Invitan a todos a la inauguración.", "cog": true },
+        { "t": "suggest", "es": "sugerir", "pron": "sugyést", "ej": "I suggest that we wait.", "ejes": "Sugiero que esperemos.", "cog": true },
+        { "t": "decide", "es": "decidir", "pron": "disáid", "ej": "We decide on Monday.", "ejes": "Decidimos el lunes.", "cog": true }
+      ],
+      "frases": [
+        { "t": "He promised to call me back.", "es": "Prometió devolverme la llamada.", "pron": "ji prómist tu col mi bak" },
+        { "t": "She refused to answer the question.", "es": "Se negó a responder la pregunta.", "pron": "shi rifiúsd tu ánser da cuéschen" },
+        { "t": "The company offered to pay for the trip.", "es": "La empresa se ofreció a pagar el viaje.", "pron": "da cámpani ófert tu pei for da trip" },
+        { "t": "The doctor advised him to rest.", "es": "El médico le aconsejó descansar.", "pron": "da dóctor adváisd jim tu rest" },
+        { "t": "The workers threatened to strike.", "es": "Los trabajadores amenazaron con hacer huelga.", "pron": "da uérkers zrétend tu straik" }
+      ],
+      "dialogo": {
+        "titulo": "Una huelga",
+        "lineas": [
+          { "q": "A", "t": "The workers threatened to strike.", "es": "Los trabajadores amenazaron con hacer huelga." },
+          { "q": "B", "t": "Why? The company offered to raise their pay.", "es": "¿Por qué? La empresa se ofreció a subirles el sueldo." },
+          { "q": "A", "t": "But it refused to change the schedule.", "es": "Pero se negó a cambiar el horario." },
+          { "q": "B", "t": "The manager promised to talk to them tomorrow.", "es": "El gerente prometió hablar con ellos mañana." },
+          { "q": "A", "t": "Let's hope they decide to agree.", "es": "Esperemos que decidan ponerse de acuerdo." }
+        ]
+      },
+      "nota": "Suggest NO lleva to + verbo: es She suggested that we leave (o She suggested leaving). No digas «She suggested to leave»."
+    },
+    {
+      "id": "en-b1-u9-l5",
+      "n": 5,
+      "titulo": "Repaso: contar una noticia",
+      "objetivo": "Contar una noticia usando vocabulario de medios y verbos de reporte.",
+      "intro": "Juntamos todo para contar una noticia como un periodista. Truco: empieza con According to... (según...) y sigue con un verbo de reporte.",
+      "palabras": [
+        { "t": "according to", "es": "según", "pron": "acórding tu", "ej": "According to the report, prices will rise.", "ejes": "Según el informe, los precios subirán.", "cog": false },
+        { "t": "bias", "es": "sesgo / parcialidad", "pron": "báias", "ej": "Some media show political bias.", "ejes": "Algunos medios muestran sesgo político.", "cog": true },
+        { "t": "coverage", "es": "cobertura", "pron": "cóveridch", "ej": "The coverage of the election was long.", "ejes": "La cobertura de las elecciones fue larga.", "cog": false },
+        { "t": "publish", "es": "publicar", "pron": "páblish", "ej": "They publish the paper every day.", "ejes": "Publican el periódico todos los días.", "cog": true },
+        { "t": "subscribe", "es": "suscribirse", "pron": "sabscráib", "ej": "I want to subscribe to this magazine.", "ejes": "Quiero suscribirme a esta revista.", "cog": true },
+        { "t": "witness", "es": "testigo", "pron": "uítnes", "ej": "A witness described the accident.", "ejes": "Un testigo describió el accidente.", "cog": false },
+        { "t": "evidence", "es": "pruebas / evidencia", "pron": "évidens", "ej": "There is no evidence for that claim.", "ejes": "No hay pruebas para esa afirmación.", "cog": true },
+        { "t": "update", "es": "actualización / actualizar", "pron": "ápdeit", "ej": "Here is a quick update.", "ejes": "Aquí hay una actualización rápida.", "cog": false }
+      ],
+      "frases": [
+        { "t": "According to the report, prices will rise.", "es": "Según el informe, los precios subirán.", "pron": "acórding tu da ripórt, práisis uil raiz" },
+        { "t": "A witness claimed that he saw the car.", "es": "Un testigo afirmó que vio el carro.", "pron": "a uítnes cleimd dat ji so da car" },
+        { "t": "The newspaper refused to publish the story.", "es": "El periódico se negó a publicar la historia.", "pron": "da niúspeiper rifiúsd tu páblish da stóri" },
+        { "t": "There is no evidence for that claim.", "es": "No hay pruebas para esa afirmación.", "pron": "der is nou évidens for dat cleim" },
+        { "t": "I want to subscribe to this magazine.", "es": "Quiero suscribirme a esta revista.", "pron": "ai uont tu sabscráib tu dis mágasin" }
+      ],
+      "dialogo": {
+        "titulo": "Comentando las noticias",
+        "lineas": [
+          { "q": "A", "t": "According to the news, the airport will close.", "es": "Según las noticias, el aeropuerto cerrará." },
+          { "q": "B", "t": "Really? The press claimed that last year too.", "es": "¿En serio? La prensa afirmó eso también el año pasado." },
+          { "q": "A", "t": "This time the mayor announced it himself.", "es": "Esta vez lo anunció el propio alcalde." },
+          { "q": "B", "t": "Then it's probably true. Is there an update?", "es": "Entonces probablemente es cierto. ¿Hay alguna actualización?" },
+          { "q": "A", "t": "Yes, he promised to give more details tomorrow.", "es": "Sí, prometió dar más detalles mañana." }
+        ]
+      },
+      "nota": "Según el contexto, los medios reportan con the press, the media (el conjunto de medios) o the news. Media es plural: The media are..."
+    }
+  ]
+}

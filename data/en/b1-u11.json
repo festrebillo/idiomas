@@ -1,0 +1,217 @@
+{
+  "id": "en-b1-u11",
+  "idioma": "en",
+  "nivel": "B1",
+  "n": 11,
+  "titulo": "Medio ambiente y sociedad",
+  "resumen": "Aprenderás a hablar del medio ambiente y de problemas sociales, a usar los cuantificadores (much, many, enough...) y a imaginar situaciones con el second y el third conditional.",
+  "puedo": [
+    "Hablar de contaminación, reciclaje y energía.",
+    "Usar much, many, a few, a little, enough y too much / too many.",
+    "Imaginar situaciones presentes con If + pasado, would + verbo.",
+    "Hablar de arrepentimientos pasados con If + had + participio, would have + participio.",
+    "Opinar sobre problemas de la sociedad y del planeta."
+  ],
+  "gramatica": {
+    "titulo": "Condicionales imaginarios: If I had..., I would...",
+    "texto": "Usamos el second conditional para situaciones imaginarias o poco probables en el presente o el futuro: If + pasado simple, would + verbo. If I had more time, I would volunteer. (Si tuviera más tiempo, haría voluntariado.) Con I, he y she se usa a menudo were: If I were you, I would recycle.\nUsamos el third conditional para lo que no pasó en el pasado: If + had + participio, would have + participio. If we had saved water, we wouldn't have had a drought. (Si hubiéramos ahorrado agua, no habríamos tenido sequía.)\nTruco: nunca pongas would en la parte con if. Y la forma corta 'd puede ser would o had: If I'd known (had), I'd have helped (would).",
+    "tabla": [
+      ["If I had more money, I would donate.", "Si tuviera más dinero, donaría.", "if ai jad mor máni, ai wud dounéit"],
+      ["If I were you, I would recycle.", "Si yo fuera tú, reciclaría.", "if ai uer iu, ai wud risáicol"],
+      ["What would you do if you won?", "¿Qué harías si ganaras?", "uat wud iu du if iu uan"],
+      ["If it rained, we would stay home.", "Si lloviera, nos quedaríamos en casa.", "if it reind, ui wud stei joum"],
+      ["If I had known, I would have helped.", "Si lo hubiera sabido, habría ayudado.", "if ai jad noun, ai wud jav jelpt"],
+      ["She wouldn't have been late if she had left earlier.", "No habría llegado tarde si hubiera salido antes.", "shi wúdent jav bin leit if shi jad left érlier"]
+    ],
+    "errores": [
+      "No pongas would en la parte con if: es If I had time, I would help, no «If I would have time, I would help».",
+      "No uses el pasado simple en el third conditional: es If I had known, no «If I knew, I would have...».",
+      "No mezcles los dos tiempos al azar: second conditional = ahora; third conditional = ya pasó."
+    ]
+  },
+  "practica": [
+    "Escribe 6 frases con If I were... / If I had..., I would... sobre qué harías por el planeta (10 minutos).",
+    "Escribe 4 frases de third conditional sobre algo que hubieras hecho distinto este año (8 minutos).",
+    "Lee un artículo corto sobre cambio climático en inglés y subraya los cuantificadores (much, many, a lot of, too much) (10 minutos).",
+    "Cuenta en voz alta qué reciclas en tu casa y qué podrías reducir, con enough, too much y too many (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b1-u11-l1",
+      "n": 1,
+      "titulo": "Medio ambiente",
+      "objetivo": "Hablar de contaminación, reciclaje y energía.",
+      "intro": "Empezamos con las palabras básicas del medio ambiente. Truco: muchas se parecen al español (pollution, energy, planet), pero se pronuncian distinto.",
+      "palabras": [
+        { "t": "environment", "es": "medio ambiente", "pron": "enváironment", "ej": "We must protect the environment.", "ejes": "Debemos proteger el medio ambiente.", "cog": false },
+        { "t": "pollution", "es": "contaminación", "pron": "polúshen", "ej": "Pollution is a big problem in cities.", "ejes": "La contaminación es un gran problema en las ciudades.", "cog": true },
+        { "t": "recycle", "es": "reciclar", "pron": "risáicol", "ej": "We recycle glass and paper.", "ejes": "Reciclamos vidrio y papel.", "cog": true },
+        { "t": "waste", "es": "desperdicio / residuos", "pron": "ueist", "ej": "Plastic waste is everywhere.", "ejes": "Los residuos plásticos están en todas partes.", "cog": false },
+        { "t": "climate", "es": "clima", "pron": "cláimit", "ej": "The climate is changing fast.", "ejes": "El clima está cambiando rápido.", "cog": true },
+        { "t": "energy", "es": "energía", "pron": "énerchi", "ej": "Solar energy is clean.", "ejes": "La energía solar es limpia.", "cog": true },
+        { "t": "planet", "es": "planeta", "pron": "plánet", "ej": "We only have one planet.", "ejes": "Solo tenemos un planeta.", "cog": true },
+        { "t": "fuel", "es": "combustible", "pron": "fiúel", "ej": "Fuel is getting more expensive.", "ejes": "El combustible se está poniendo más caro.", "cog": false },
+        { "t": "nature", "es": "naturaleza", "pron": "néicher", "ej": "I love walking in nature.", "ejes": "Me encanta caminar en la naturaleza.", "cog": true }
+      ],
+      "frases": [
+        { "t": "We must protect the environment.", "es": "Debemos proteger el medio ambiente.", "pron": "ui mast protékt di enváironment" },
+        { "t": "Pollution is a serious problem here.", "es": "La contaminación es un problema serio aquí.", "pron": "polúshen is a síerios próblem jíar" },
+        { "t": "We recycle plastic and paper.", "es": "Reciclamos plástico y papel.", "pron": "ui risáicol plástic and péiper" },
+        { "t": "The climate is changing fast.", "es": "El clima está cambiando rápido.", "pron": "da cláimit is chéinchin fast" },
+        { "t": "We only have one planet.", "es": "Solo tenemos un planeta.", "pron": "ui ónli jav uan plánet" }
+      ],
+      "dialogo": {
+        "titulo": "Cuidar el planeta",
+        "lineas": [
+          { "q": "A", "t": "Do you recycle at home?", "es": "¿Reciclas en casa?" },
+          { "q": "B", "t": "Yes, we recycle paper, glass and plastic.", "es": "Sí, reciclamos papel, vidrio y plástico." },
+          { "q": "A", "t": "Pollution is a serious problem in Lima.", "es": "La contaminación es un problema serio en Lima." },
+          { "q": "B", "t": "I agree. We only have one planet.", "es": "Estoy de acuerdo. Solo tenemos un planeta." }
+        ]
+      },
+      "nota": "Environment es difícil de escribir: no olvides la «n» antes de la «m»: environ-ment. Y se pronuncia «enváironment»."
+    },
+    {
+      "id": "en-b1-u11-l2",
+      "n": 2,
+      "titulo": "Cuantificadores",
+      "objetivo": "Usar much, many, a few, a little, enough y too much / too many.",
+      "intro": "Los cuantificadores dicen cuánto hay. Truco: many y a few van con cosas que se cuentan (bottles); much y a little van con cosas que no se cuentan (water).",
+      "palabras": [
+        { "t": "too much", "es": "demasiado (incontable)", "pron": "tu mach", "ej": "There is too much traffic.", "ejes": "Hay demasiado tráfico.", "cog": false },
+        { "t": "too many", "es": "demasiados (contable)", "pron": "tu méni", "ej": "There are too many cars.", "ejes": "Hay demasiados autos.", "cog": false },
+        { "t": "enough", "es": "suficiente", "pron": "inóf", "ej": "We don't have enough trees.", "ejes": "No tenemos suficientes árboles.", "cog": false },
+        { "t": "a few", "es": "unos pocos", "pron": "a fiu", "ej": "I recycle a few bottles every week.", "ejes": "Reciclo unas pocas botellas cada semana.", "cog": false },
+        { "t": "a little", "es": "un poco", "pron": "a lítol", "ej": "I use a little water to wash it.", "ejes": "Uso un poco de agua para lavarlo.", "cog": false },
+        { "t": "plenty of", "es": "mucho / de sobra", "pron": "plénti ov", "ej": "We have plenty of sun in Peru.", "ejes": "Tenemos mucho sol en Perú.", "cog": false },
+        { "t": "several", "es": "varios", "pron": "séveral", "ej": "Several cities have this problem.", "ejes": "Varias ciudades tienen este problema.", "cog": false },
+        { "t": "a lot of", "es": "mucho(s)", "pron": "a lat ov", "ej": "I use a lot of paper.", "ejes": "Uso mucho papel.", "cog": false },
+        { "t": "fewer", "es": "menos (contable)", "pron": "fiúer", "ej": "We need fewer cars.", "ejes": "Necesitamos menos autos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "There is too much traffic downtown.", "es": "Hay demasiado tráfico en el centro.", "pron": "der is tu mach tráfic daúntaun" },
+        { "t": "There are too many cars in the city.", "es": "Hay demasiados autos en la ciudad.", "pron": "der ar tu méni cars in da síti" },
+        { "t": "We don't have enough trees.", "es": "No tenemos suficientes árboles.", "pron": "ui dount jav inóf tris" },
+        { "t": "I recycle a few bottles every week.", "es": "Reciclo unas pocas botellas cada semana.", "pron": "ai risáicol a fiu bótols évri uik" },
+        { "t": "We have plenty of sun in Peru.", "es": "Tenemos mucho sol en Perú.", "pron": "ui jav plénti ov san in perú" }
+      ],
+      "dialogo": {
+        "titulo": "Una ciudad llena",
+        "lineas": [
+          { "q": "A", "t": "There are too many cars in the city.", "es": "Hay demasiados autos en la ciudad." },
+          { "q": "B", "t": "And too much noise. We need fewer cars.", "es": "Y demasiado ruido. Necesitamos menos autos." },
+          { "q": "A", "t": "We don't have enough bike lanes.", "es": "No tenemos suficientes ciclovías." },
+          { "q": "B", "t": "A few cities have plenty of them already.", "es": "Algunas ciudades ya tienen muchas." }
+        ]
+      },
+      "nota": "A few y a little son positivos (hay algunos); few y little sin «a» son casi negativos (hay muy pocos): I have few friends = tengo muy pocos amigos."
+    },
+    {
+      "id": "en-b1-u11-l3",
+      "n": 3,
+      "titulo": "Si yo tuviera...",
+      "objetivo": "Imaginar situaciones con el second conditional.",
+      "intro": "Para soñar o imaginar, usa If + pasado simple, would + verbo. Truco: el pasado en if no habla del pasado, sino de algo irreal ahora. If I had money, I would help.",
+      "palabras": [
+        { "t": "poverty", "es": "pobreza", "pron": "póverti", "ej": "Poverty is a global problem.", "ejes": "La pobreza es un problema global.", "cog": true },
+        { "t": "volunteer", "es": "voluntario / ser voluntario", "pron": "volontíer", "ej": "I want to volunteer this summer.", "ejes": "Quiero ser voluntario este verano.", "cog": true },
+        { "t": "community", "es": "comunidad", "pron": "comiúniti", "ej": "Our community needs a new park.", "ejes": "Nuestra comunidad necesita un parque nuevo.", "cog": true },
+        { "t": "charity", "es": "obra benéfica", "pron": "chárity", "ej": "She works for a charity.", "ejes": "Ella trabaja en una obra benéfica.", "cog": false },
+        { "t": "donate", "es": "donar", "pron": "dounéit", "ej": "I donate clothes every year.", "ejes": "Dono ropa cada año.", "cog": true },
+        { "t": "government", "es": "gobierno", "pron": "góvernment", "ej": "The government should do more.", "ejes": "El gobierno debería hacer más.", "cog": false },
+        { "t": "citizen", "es": "ciudadano", "pron": "sítisen", "ej": "Every citizen can help.", "ejes": "Cada ciudadano puede ayudar.", "cog": true },
+        { "t": "rich", "es": "rico", "pron": "rich", "ej": "If I were rich, I would travel.", "ejes": "Si fuera rico, viajaría.", "cog": false },
+        { "t": "homeless", "es": "sin hogar", "pron": "jóumles", "ej": "Many homeless people need help.", "ejes": "Muchas personas sin hogar necesitan ayuda.", "cog": false }
+      ],
+      "frases": [
+        { "t": "If I had more time, I would volunteer.", "es": "Si tuviera más tiempo, haría voluntariado.", "pron": "if ai jad mor taim, ai wud volontíer" },
+        { "t": "If I were rich, I would donate money.", "es": "Si fuera rico, donaría dinero.", "pron": "if ai uer rich, ai wud dounéit máni" },
+        { "t": "What would you do if you won the lottery?", "es": "¿Qué harías si ganaras la lotería?", "pron": "uat wud iu du if iu uan da lótari" },
+        { "t": "If the government helped, poverty would drop.", "es": "Si el gobierno ayudara, la pobreza bajaría.", "pron": "if da góvernment jelpt, póverti wud drap" },
+        { "t": "I would recycle more if it were easier.", "es": "Reciclaría más si fuera más fácil.", "pron": "ai wud risáicol mor if it uer ísier" }
+      ],
+      "dialogo": {
+        "titulo": "Si fuéramos ricos",
+        "lineas": [
+          { "q": "A", "t": "What would you do if you were rich?", "es": "¿Qué harías si fueras rico?" },
+          { "q": "B", "t": "I would donate money to a charity.", "es": "Donaría dinero a una obra benéfica." },
+          { "q": "A", "t": "I would build a house for homeless people.", "es": "Yo construiría una casa para personas sin hogar." },
+          { "q": "B", "t": "That would help the community a lot.", "es": "Eso ayudaría mucho a la comunidad." }
+        ]
+      },
+      "nota": "Si piensas en un consejo, usa If I were you...: If I were you, I would volunteer. En inglés formal se prefiere were con todas las personas."
+    },
+    {
+      "id": "en-b1-u11-l4",
+      "n": 4,
+      "titulo": "Si hubiera...",
+      "objetivo": "Hablar de lo que no pasó con el third conditional.",
+      "intro": "Para lamentar el pasado usa If + had + participio, would have + participio. Truco: es la misma idea del español «si hubiera... habría...».",
+      "palabras": [
+        { "t": "reduce", "es": "reducir", "pron": "ridiús", "ej": "We can reduce plastic use.", "ejes": "Podemos reducir el uso de plástico.", "cog": true },
+        { "t": "protect", "es": "proteger", "pron": "protékt", "ej": "We should protect the forests.", "ejes": "Deberíamos proteger los bosques.", "cog": true },
+        { "t": "damage", "es": "daño / dañar", "pron": "dámich", "ej": "The storm did a lot of damage.", "ejes": "La tormenta hizo mucho daño.", "cog": false },
+        { "t": "save", "es": "ahorrar / salvar", "pron": "seiv", "ej": "Save water when you wash dishes.", "ejes": "Ahorra agua cuando laves los platos.", "cog": false },
+        { "t": "solar", "es": "solar", "pron": "sóular", "ej": "We installed solar panels.", "ejes": "Instalamos paneles solares.", "cog": true },
+        { "t": "renewable", "es": "renovable", "pron": "rinúabol", "ej": "Wind is a renewable source of energy.", "ejes": "El viento es una fuente renovable de energía.", "cog": true },
+        { "t": "disaster", "es": "desastre", "pron": "disáster", "ej": "The flood was a disaster.", "ejes": "La inundación fue un desastre.", "cog": true },
+        { "t": "global warming", "es": "calentamiento global", "pron": "glóubal uórmin", "ej": "Global warming melts glaciers.", "ejes": "El calentamiento global derrite los glaciares.", "cog": false },
+        { "t": "drought", "es": "sequía", "pron": "draut", "ej": "The drought lasted two years.", "ejes": "La sequía duró dos años.", "cog": false }
+      ],
+      "frases": [
+        { "t": "If we had saved water, we wouldn't have had a drought.", "es": "Si hubiéramos ahorrado agua, no habríamos tenido sequía.", "pron": "if ui jad seivd uóter, ui wúdent jav jad a draut" },
+        { "t": "If I had known, I would have helped.", "es": "Si lo hubiera sabido, habría ayudado.", "pron": "if ai jad noun, ai wud jav jelpt" },
+        { "t": "She would have protected the forest if she had had the chance.", "es": "Ella habría protegido el bosque si hubiera tenido la oportunidad.", "pron": "shi wud jav protéktid da fórest if shi jad jad da chans" },
+        { "t": "If they had reduced waste, the damage would have been smaller.", "es": "Si hubieran reducido los residuos, el daño habría sido menor.", "pron": "if dei jad ridiúst ueist, da dámich wud jav bin smóler" },
+        { "t": "We would have avoided the disaster.", "es": "Habríamos evitado el desastre.", "pron": "ui wud jav avóidid da disáster" }
+      ],
+      "dialogo": {
+        "titulo": "Lecciones aprendidas",
+        "lineas": [
+          { "q": "A", "t": "The drought was a disaster for the farmers.", "es": "La sequía fue un desastre para los agricultores." },
+          { "q": "B", "t": "If we had saved water, it wouldn't have been so bad.", "es": "Si hubiéramos ahorrado agua, no habría sido tan grave." },
+          { "q": "A", "t": "And if the government had invested in solar energy...", "es": "Y si el gobierno hubiera invertido en energía solar..." },
+          { "q": "B", "t": "We would have reduced the damage.", "es": "Habríamos reducido el daño." },
+          { "q": "A", "t": "It's not too late to protect the planet.", "es": "No es tarde para proteger el planeta." }
+        ]
+      },
+      "nota": "El third conditional puede dar un resultado en el presente: If I had studied, I would be a doctor now. Es un mix común en inglés cotidiano."
+    },
+    {
+      "id": "en-b1-u11-l5",
+      "n": 5,
+      "titulo": "Repaso: un mundo mejor",
+      "objetivo": "Hablar de problemas sociales y ambientales con cuantificadores y condicionales.",
+      "intro": "Repasamos cuantificadores y condicionales con vocabulario nuevo. Truco: para soluciones usa el second conditional; para lamentar errores, el third.",
+      "palabras": [
+        { "t": "sustainable", "es": "sostenible", "pron": "sosténabol", "ej": "We need a sustainable way of living.", "ejes": "Necesitamos una forma de vida sostenible.", "cog": true },
+        { "t": "endangered", "es": "en peligro de extinción", "pron": "indéinyerd", "ej": "The spectacled bear is endangered.", "ejes": "El oso de anteojos está en peligro de extinción.", "cog": false },
+        { "t": "plastic", "es": "plástico", "pron": "plástic", "ej": "Plastic bags pollute the sea.", "ejes": "Las bolsas de plástico contaminan el mar.", "cog": true },
+        { "t": "flood", "es": "inundación", "pron": "flad", "ej": "The flood destroyed many homes.", "ejes": "La inundación destruyó muchas casas.", "cog": false },
+        { "t": "awareness", "es": "conciencia", "pron": "auérnes", "ej": "We need to raise awareness.", "ejes": "Necesitamos crear conciencia.", "cog": false },
+        { "t": "take action", "es": "tomar medidas", "pron": "teik ákshen", "ej": "It's time to take action.", "ejes": "Es hora de tomar medidas.", "cog": false },
+        { "t": "make a difference", "es": "marcar la diferencia", "pron": "meik a dífrens", "ej": "One person can make a difference.", "ejes": "Una persona puede marcar la diferencia.", "cog": false },
+        { "t": "recycling", "es": "reciclaje", "pron": "risáiclin", "ej": "Recycling is easy at home.", "ejes": "El reciclaje es fácil en casa.", "cog": true },
+        { "t": "wildlife", "es": "fauna silvestre", "pron": "uáildlaif", "ej": "Wildlife needs protected areas.", "ejes": "La fauna silvestre necesita zonas protegidas.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Too much plastic pollutes the sea.", "es": "Demasiado plástico contamina el mar.", "pron": "tu mach plástic polúts da si" },
+        { "t": "If everyone recycled, we would have less waste.", "es": "Si todos reciclaran, tendríamos menos residuos.", "pron": "if évriuan risáicold, ui wud jav les ueist" },
+        { "t": "If we had acted earlier, the flood wouldn't have been so bad.", "es": "Si hubiéramos actuado antes, la inundación no habría sido tan grave.", "pron": "if ui jad áctid érlier, da flad wúdent jav bin so bad" },
+        { "t": "One person can make a difference.", "es": "Una persona puede marcar la diferencia.", "pron": "uan pérsen can meik a dífrens" },
+        { "t": "We need to raise awareness about wildlife.", "es": "Necesitamos crear conciencia sobre la fauna silvestre.", "pron": "ui nid tu reiz auérnes abáut uáildlaif" }
+      ],
+      "dialogo": {
+        "titulo": "Un proyecto para el barrio",
+        "lineas": [
+          { "q": "A", "t": "There is too much plastic in our neighborhood.", "es": "Hay demasiado plástico en nuestro barrio." },
+          { "q": "B", "t": "If we organized a cleanup, we would make a difference.", "es": "Si organizáramos una limpieza, marcaríamos la diferencia." },
+          { "q": "A", "t": "I'd volunteer. We have plenty of people who want to help.", "es": "Yo haría de voluntario. Tenemos mucha gente que quiere ayudar." },
+          { "q": "B", "t": "Let's raise awareness in the community first.", "es": "Primero creemos conciencia en la comunidad." },
+          { "q": "A", "t": "Good plan. It's time to take action.", "es": "Buen plan. Es hora de tomar medidas." }
+        ]
+      },
+      "nota": "Make a difference significa lograr un cambio positivo. La expresión opuesta es It makes no difference (da igual)."
+    }
+  ]
+}

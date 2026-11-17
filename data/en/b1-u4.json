@@ -1,0 +1,213 @@
+{
+  "id": "en-b1-u4",
+  "idioma": "en",
+  "nivel": "B1",
+  "n": 4,
+  "titulo": "Condiciones y consecuencias",
+  "resumen": "Aprenderás a expresar condiciones reales e imaginarias con if, los condicionales cero, primero y segundo, y unless.",
+  "puedo": [
+    "Decir verdades generales con el condicional cero.",
+    "Hablar de posibilidades reales con el primer condicional.",
+    "Imaginar situaciones con el segundo condicional.",
+    "Usar unless y as long as.",
+    "Dar consejos con If I were you..."
+  ],
+  "gramatica": {
+    "titulo": "Condicionales: cero, primero y segundo",
+    "texto": "Una oración condicional tiene dos partes: if + condición, y el resultado. Hay tres tipos básicos.\nCero (verdades generales): if + presente, presente. If you heat ice, it melts.\nPrimero (posible en el futuro): if + presente, will + verbo. If it rains, we'll stay home.\nSegundo (imaginario o poco probable): if + pasado, would + verbo. If I had more time, I would travel more.\nTruco: tras if no se usa will ni would; el tiempo verbal cambia: presente para lo real, pasado para lo irreal (aunque hablemos del presente). Unless significa «a menos que»: Unless it rains, we'll go (= if it doesn't rain).",
+    "tabla": [
+      ["If you heat ice, it melts.", "Si calientas el hielo, se derrite.", "if iu jit ais, it melts"],
+      ["If it rains, we'll stay home.", "Si llueve, nos quedaremos en casa.", "if it reins, uil stei joum"],
+      ["If I had time, I would travel.", "Si tuviera tiempo, viajaría.", "if ai jad taim, ai uud trável"],
+      ["If I were you, I'd go.", "Yo en tu lugar, iría.", "if ai uer iu, aid gou"],
+      ["Unless you hurry, you'll be late.", "A menos que te apures, llegarás tarde.", "anlés iu jéri, iul bi leit"],
+      ["What would you do if you won?", "¿Qué harías si ganaras?", "juat uud iu du if iu uan"]
+    ],
+    "errores": [
+      "No pongas will después de if: es If it rains, I'll stay, no «If it will rain, I will stay».",
+      "No uses would después de if: es If I had money, I would buy it, no «If I would have money...».",
+      "En el segundo condicional se dice If I were / If she were (no «was» en estilo cuidado): If I were you."
+    ]
+  },
+  "practica": [
+    "Escribe 5 oraciones con el primer condicional sobre tu semana: If I finish early, I'll... (8 minutos).",
+    "Completa 6 veces If I won the lottery, I would... con ideas distintas y léelas en voz alta (8 minutos).",
+    "Da consejos con If I were you... a tres personas imaginarias con problemas: poco sueño, poco dinero, estrés (6 minutos).",
+    "Mira una receta o instrucciones y reescribe 4 pasos como condiciones: If you add salt, ... (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b1-u4-l1",
+      "n": 1,
+      "titulo": "Si pasa A, pasa B",
+      "objetivo": "Decir verdades generales y reglas con el condicional cero.",
+      "intro": "En el condicional cero, if + presente, presente: describe verdades, rutinas y reglas. Truco: puedes cambiar if por when y casi no cambia el sentido: If / When you heat water, it boils.",
+      "palabras": [
+        { "t": "heat", "es": "calentar / calor", "pron": "jit", "ej": "If you heat ice, it melts.", "ejes": "Si calientas el hielo, se derrite.", "cog": false },
+        { "t": "melt", "es": "derretirse", "pron": "melt", "ej": "Ice will melt in the sun.", "ejes": "El hielo se derrite al sol.", "cog": false },
+        { "t": "freeze", "es": "congelar(se)", "pron": "fris", "ej": "Water will freeze at zero degrees.", "ejes": "El agua se congela a cero grados.", "cog": false },
+        { "t": "mix", "es": "mezclar", "pron": "miks", "ej": "If you mix red and white, you get pink.", "ejes": "Si mezclas rojo y blanco, sale rosado.", "cog": true },
+        { "t": "press", "es": "presionar / pulsar", "pron": "pres", "ej": "Press this button to start.", "ejes": "Pulsa este botón para empezar.", "cog": true },
+        { "t": "button", "es": "botón", "pron": "báton", "ej": "I pressed the wrong button.", "ejes": "Pulsé el botón equivocado.", "cog": false },
+        { "t": "get", "es": "obtener / recibir", "pron": "get", "ej": "If you get tired, rest.", "ejes": "Si te cansas, descansa.", "cog": false },
+        { "t": "always", "es": "siempre", "pron": "ólueis", "ej": "If I drink coffee at night, I always feel nervous.", "ejes": "Si tomo café de noche, siempre me pongo nervioso.", "cog": false }
+      ],
+      "frases": [
+        { "t": "If you heat ice, it melts.", "es": "Si calientas el hielo, se derrite.", "pron": "if iu jit ais, it melts" },
+        { "t": "If you mix red and white, you get pink.", "es": "Si mezclas rojo y blanco, sale rosado.", "pron": "if iu miks red and uait, iu get pink" },
+        { "t": "If I drink coffee at night, I can't sleep.", "es": "Si tomo café de noche, no puedo dormir.", "pron": "if ai drink cófi at nait, ai cant slip" },
+        { "t": "If you press this button, the door opens.", "es": "Si pulsas este botón, la puerta se abre.", "pron": "if iu pres dis báton, da dor óupens" },
+        { "t": "When I get tired, I take a break.", "es": "Cuando me canso, hago una pausa.", "pron": "uen ai get táierd, ai teik a breik" }
+      ],
+      "dialogo": {
+        "titulo": "Cómo funciona",
+        "lineas": [
+          { "q": "A", "t": "How does this machine work?", "es": "¿Cómo funciona esta máquina?" },
+          { "q": "B", "t": "If you press the green button, it starts. If you press the red one, it stops.", "es": "Si pulsas el botón verde, arranca. Si pulsas el rojo, se detiene." },
+          { "q": "A", "t": "And what happens if I press both?", "es": "¿Y qué pasa si pulso los dos?" },
+          { "q": "B", "t": "Nothing, but if you hold them, the alarm rings.", "es": "Nada, pero si los mantienes, suena la alarma." }
+        ]
+      },
+      "nota": "En el condicional cero los dos verbos van en presente: If you heat ice, it melts. No uses will aquí."
+    },
+    {
+      "id": "en-b1-u4-l2",
+      "n": 2,
+      "titulo": "Si pasa A, pasará B",
+      "objetivo": "Hablar de posibilidades futuras con el primer condicional.",
+      "intro": "Primer condicional: if + presente, will + verbo. Habla de algo que puede pasar de verdad. Truco: lo que pasa antes va en presente, aunque hablemos del futuro: If it rains tomorrow, we'll stay home.",
+      "palabras": [
+        { "t": "if", "es": "si", "pron": "if", "ej": "If you study, you'll pass.", "ejes": "Si estudias, aprobarás.", "cog": false },
+        { "t": "pass", "es": "aprobar", "pron": "pas", "ej": "I hope I pass the exam.", "ejes": "Espero aprobar el examen.", "cog": false },
+        { "t": "fail", "es": "desaprobar / fallar", "pron": "feil", "ej": "I don't want to fail.", "ejes": "No quiero desaprobar.", "cog": false },
+        { "t": "miss", "es": "perder (transporte) / extrañar", "pron": "mis", "ej": "If we miss the bus, we'll be late.", "ejes": "Si perdemos el bus, llegaremos tarde.", "cog": false },
+        { "t": "as soon as", "es": "tan pronto como", "pron": "as sun as", "ej": "I'll call you as soon as I arrive.", "ejes": "Te llamo tan pronto como llegue.", "cog": false },
+        { "t": "in case", "es": "por si acaso", "pron": "in keis", "ej": "Take an umbrella in case it rains.", "ejes": "Lleva un paraguas por si llueve.", "cog": false },
+        { "t": "refund", "es": "reembolso / reembolsar", "pron": "rífand", "ej": "They will give you a refund.", "ejes": "Te darán un reembolso.", "cog": false },
+        { "t": "traffic", "es": "tráfico", "pron": "tráfic", "ej": "If there is traffic, we'll be late.", "ejes": "Si hay tráfico, llegaremos tarde.", "cog": true }
+      ],
+      "frases": [
+        { "t": "If it rains, we'll stay home.", "es": "Si llueve, nos quedaremos en casa.", "pron": "if it reins, uil stei joum" },
+        { "t": "If you study, you'll pass the exam.", "es": "Si estudias, aprobarás el examen.", "pron": "if iu stádi, iul pas di egsám" },
+        { "t": "If we miss the bus, we'll be late.", "es": "Si perdemos el bus, llegaremos tarde.", "pron": "if ui mis da bas, uil bi leit" },
+        { "t": "I'll call you as soon as I arrive.", "es": "Te llamaré tan pronto como llegue.", "pron": "ail col iu as sun as ai aráiv" },
+        { "t": "Take an umbrella in case it rains.", "es": "Lleva un paraguas por si llueve.", "pron": "teik an ambréla in keis it reins" }
+      ],
+      "dialogo": {
+        "titulo": "Planes con lluvia",
+        "lineas": [
+          { "q": "A", "t": "What are we going to do if it rains on Saturday?", "es": "¿Qué haremos si llueve el sábado?" },
+          { "q": "B", "t": "If it rains, we'll go to the cinema instead.", "es": "Si llueve, iremos al cine en su lugar." },
+          { "q": "A", "t": "Good idea. And if there is a lot of traffic?", "es": "Buena idea. ¿Y si hay mucho tráfico?" },
+          { "q": "B", "t": "I'll call you as soon as I'm in the car. If I'm late, start without me.", "es": "Te llamo tan pronto como esté en el auto. Si me atraso, empiecen sin mí." }
+        ]
+      },
+      "nota": "Con as soon as, when, before y after también se usa el presente para el futuro: I'll call you when I get home (no «when I will get home»)."
+    },
+    {
+      "id": "en-b1-u4-l3",
+      "n": 3,
+      "titulo": "Si yo fuera...",
+      "objetivo": "Imaginar situaciones con el segundo condicional.",
+      "intro": "Segundo condicional: if + pasado, would + verbo. Se usa para situaciones imaginarias o poco probables. Truco: el pasado no habla del pasado, indica que es irreal: If I had a car, I would drive.",
+      "palabras": [
+        { "t": "would", "es": "(condicional) -ría", "pron": "uud", "ej": "I would travel more.", "ejes": "Viajaría más.", "cog": false },
+        { "t": "win", "es": "ganar", "pron": "uin", "ej": "I want to win the game.", "ejes": "Quiero ganar el partido.", "cog": false },
+        { "t": "lottery", "es": "lotería", "pron": "lóteri", "ej": "I buy a lottery ticket every week.", "ejes": "Compro un boleto de lotería cada semana.", "cog": true },
+        { "t": "quit", "es": "renunciar / dejar", "pron": "cuit", "ej": "I would never quit my job.", "ejes": "Nunca renunciaría a mi trabajo.", "cog": false },
+        { "t": "afford", "es": "permitirse (económicamente)", "pron": "afórd", "ej": "I can't afford a new car.", "ejes": "No puedo comprar un carro nuevo.", "cog": false },
+        { "t": "rich", "es": "rico / adinerado", "pron": "rich", "ej": "He is very rich.", "ejes": "Él es muy rico.", "cog": false },
+        { "t": "imagine", "es": "imaginar", "pron": "imáyin", "ej": "Imagine you were a bird.", "ejes": "Imagina que fueras un pájaro.", "cog": true },
+        { "t": "wish", "es": "desear", "pron": "uish", "ej": "I wish I had more time.", "ejes": "Ojalá tuviera más tiempo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "If I had more time, I would travel more.", "es": "Si tuviera más tiempo, viajaría más.", "pron": "if ai jad mor taim, ai uud trável mor" },
+        { "t": "What would you do if you won the lottery?", "es": "¿Qué harías si ganaras la lotería?", "pron": "juat uud iu du if iu uan da lóteri" },
+        { "t": "If I were you, I would talk to her.", "es": "Yo en tu lugar, hablaría con ella.", "pron": "if ai uer iu, ai uud tok tu jer" },
+        { "t": "If she lived closer, we would see her more.", "es": "Si ella viviera más cerca, la veríamos más.", "pron": "if shi livd clóuser, ui uud si jer mor" },
+        { "t": "I wouldn't quit my job.", "es": "Yo no renunciaría a mi trabajo.", "pron": "ai úudent cuit mai yob" }
+      ],
+      "dialogo": {
+        "titulo": "Si ganara la lotería",
+        "lineas": [
+          { "q": "A", "t": "What would you do if you won the lottery?", "es": "¿Qué harías si ganaras la lotería?" },
+          { "q": "B", "t": "I would buy a house near the beach. And I would travel the world.", "es": "Compraría una casa cerca de la playa. Y viajaría por el mundo." },
+          { "q": "A", "t": "Would you quit your job?", "es": "¿Renunciarías a tu trabajo?" },
+          { "q": "B", "t": "Probably not. I would still work, but only three days a week.", "es": "Probablemente no. Seguiría trabajando, pero solo tres días a la semana." },
+          { "q": "A", "t": "If I were rich, I would start my own café.", "es": "Si yo fuera rico, abriría mi propio café." }
+        ]
+      },
+      "nota": "Would es la forma corta 'd: I'd travel. No confundas I'd (I would) con I'd en pasado perfecto (I had), que verás más adelante."
+    },
+    {
+      "id": "en-b1-u4-l4",
+      "n": 4,
+      "titulo": "Unless y consejos",
+      "objetivo": "Usar unless, as long as y dar consejos con If I were you.",
+      "intro": "Unless = if not: Unless you hurry, you'll be late. As long as = «siempre que». Para consejos, If I were you, I'd... es muy natural. Truco: con unless no se usa otra negación.",
+      "palabras": [
+        { "t": "unless", "es": "a menos que", "pron": "anlés", "ej": "Unless you hurry, you'll be late.", "ejes": "A menos que te apures, llegarás tarde.", "cog": false },
+        { "t": "as long as", "es": "siempre que", "pron": "as long as", "ej": "You can go out as long as you are home by ten.", "ejes": "Puedes salir siempre que estés en casa a las diez.", "cog": false },
+        { "t": "otherwise", "es": "de lo contrario", "pron": "áderuais", "ej": "Hurry up, otherwise we'll miss it.", "ejes": "Apúrate, de lo contrario lo perderemos.", "cog": false },
+        { "t": "advice", "es": "consejo(s)", "pron": "adváis", "ej": "Can I give you some advice?", "ejes": "¿Puedo darte un consejo?", "cog": false, "truco": "Advice no tiene plural: some advice, a piece of advice." },
+        { "t": "should", "es": "debería", "pron": "shud", "ej": "You should rest more.", "ejes": "Deberías descansar más.", "cog": false },
+        { "t": "take care of", "es": "cuidar de", "pron": "teik ker ov", "ej": "You should take care of your health.", "ejes": "Deberías cuidar tu salud.", "cog": false },
+        { "t": "worry", "es": "preocuparse", "pron": "uóri", "ej": "Don't worry, it will be fine.", "ejes": "No te preocupes, estará bien.", "cog": false },
+        { "t": "reason", "es": "razón / motivo", "pron": "rísen", "ej": "What is the reason for the delay?", "ejes": "¿Cuál es el motivo del retraso?", "cog": false }
+      ],
+      "frases": [
+        { "t": "Unless you hurry, you'll be late.", "es": "A menos que te apures, llegarás tarde.", "pron": "anlés iu jéri, iul bi leit" },
+        { "t": "You can go out as long as you're home by ten.", "es": "Puedes salir siempre que estés en casa a las diez.", "pron": "iu can gou aut as long as iur joum bai ten" },
+        { "t": "If I were you, I'd rest more.", "es": "Yo en tu lugar, descansaría más.", "pron": "if ai uer iu, aid rest mor" },
+        { "t": "You should take care of your health.", "es": "Deberías cuidar tu salud.", "pron": "iu shud teik ker ov ior jelz" },
+        { "t": "Don't worry, it will be fine.", "es": "No te preocupes, estará bien.", "pron": "dount uóri, it uil bi fain" }
+      ],
+      "dialogo": {
+        "titulo": "Pidiendo consejo",
+        "lineas": [
+          { "q": "A", "t": "I feel exhausted. I never sleep enough.", "es": "Me siento agotado. Nunca duermo lo suficiente." },
+          { "q": "B", "t": "If I were you, I'd go to bed earlier. Unless you have an important reason to stay up.", "es": "Yo en tu lugar, me acostaría más temprano. A menos que tengas un motivo importante para quedarte despierto." },
+          { "q": "A", "t": "I watch series. I can stop, as long as my friends don't send me recommendations!", "es": "Veo series. Puedo dejarlo, ¡siempre que mis amigos no me manden recomendaciones!" },
+          { "q": "B", "t": "Ha! You should take care of your health, otherwise you'll get sick.", "es": "¡Ja! Deberías cuidar tu salud, de lo contrario te enfermarás." }
+        ]
+      },
+      "nota": "Unless ya es negativo: Unless it doesn't rain no existe. Di Unless it rains o If it doesn't rain."
+    },
+    {
+      "id": "en-b1-u4-l5",
+      "n": 5,
+      "titulo": "Repaso: ¿y si...?",
+      "objetivo": "Combinar los tres condicionales en conversaciones sobre decisiones.",
+      "intro": "Repasa los tres tipos: cero (regla), primero (posible), segundo (imaginario). Truco: pregúntate si es real (presente + will) o imaginario (pasado + would).",
+      "palabras": [
+        { "t": "choice", "es": "elección / opción", "pron": "chois", "ej": "It's a difficult choice.", "ejes": "Es una elección difícil.", "cog": false },
+        { "t": "consequence", "es": "consecuencia", "pron": "cónsecuens", "ej": "Every action has a consequence.", "ejes": "Cada acción tiene una consecuencia.", "cog": true },
+        { "t": "risk", "es": "riesgo / arriesgar", "pron": "risk", "ej": "It's a big risk.", "ejes": "Es un gran riesgo.", "cog": true },
+        { "t": "benefit", "es": "beneficio", "pron": "bénefit", "ej": "It has one big benefit.", "ejes": "Tiene un gran beneficio.", "cog": true },
+        { "t": "depend on", "es": "depender de", "pron": "dipénd on", "ej": "Success can depend on luck.", "ejes": "El éxito puede depender de la suerte.", "cog": false },
+        { "t": "turn down", "es": "rechazar", "pron": "tern daun", "ej": "I had to turn down the offer.", "ejes": "Tuve que rechazar la oferta.", "cog": false },
+        { "t": "take a chance", "es": "arriesgarse", "pron": "teik a chans", "ej": "Sometimes you have to take a chance.", "ejes": "A veces hay que arriesgarse.", "cog": false },
+        { "t": "regret", "es": "arrepentirse", "pron": "rigrét", "ej": "You will regret it later.", "ejes": "Te arrepentirás luego.", "cog": false }
+      ],
+      "frases": [
+        { "t": "It depends on the weather.", "es": "Depende del clima.", "pron": "it dipéndz on da uéder" },
+        { "t": "If you take a chance, you might win.", "es": "Si te arriesgas, podrías ganar.", "pron": "if iu teik a chans, iu mait uin" },
+        { "t": "If I got the job, I would move to Cusco.", "es": "Si consiguiera el trabajo, me mudaría a Cusco.", "pron": "if ai got da yob, ai uud muv tu cúsco" },
+        { "t": "Unless you try, you'll never know.", "es": "A menos que lo intentes, nunca lo sabrás.", "pron": "anlés iu trai, iul néver nou" },
+        { "t": "You will regret it if you turn it down.", "es": "Te arrepentirás si lo rechazas.", "pron": "iu uil rigrét it if iu tern it daun" },
+        { "t": "What would you do in my place?", "es": "¿Qué harías tú en mi lugar?", "pron": "juat uud iu du in mai pleis" }
+      ],
+      "dialogo": {
+        "titulo": "Una oferta de trabajo",
+        "lineas": [
+          { "q": "A", "t": "They offered me a job in Cusco, but I'm not sure.", "es": "Me ofrecieron un trabajo en Cusco, pero no estoy seguro." },
+          { "q": "B", "t": "Sounds exciting! If you took it, you would learn a lot.", "es": "¡Suena emocionante! Si lo aceptaras, aprenderías mucho." },
+          { "q": "A", "t": "True. And if I turn it down, I might regret it.", "es": "Cierto. Y si lo rechazo, quizás me arrepienta." },
+          { "q": "B", "t": "If I were you, I'd take a chance. Unless the salary is too low.", "es": "Yo en tu lugar, me arriesgaría. A menos que el sueldo sea muy bajo." },
+          { "q": "A", "t": "It depends on the contract. I'll read it tonight.", "es": "Depende del contrato. Lo leeré esta noche." }
+        ]
+      },
+      "nota": "Aunque mezcles tipos en una conversación es normal: pasas de lo imaginario (If I took it...) a lo real (If I turn it down...) según cómo lo veas."
+    }
+  ]
+}

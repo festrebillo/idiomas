@@ -1,0 +1,224 @@
+{
+  "id": "it-b1-u7",
+  "idioma": "it",
+  "nivel": "B1",
+  "n": 7,
+  "titulo": "Describir con precisión",
+  "resumen": "Aprenderás a unir frases con los pronombres relativos «che», «cui» y «il quale», y a colocar bien el adjetivo para describir personas y lugares con precisión.",
+  "puedo": [
+    "Unir frases con «che»: «il libro che leggo».",
+    "Usar «cui» con preposición: «la casa in cui abito».",
+    "Usar «il quale / la quale» en un registro más formal.",
+    "Colocar el adjetivo antes o después y entender el cambio de sentido.",
+    "Describir personas, lugares y cosas con frases largas y precisas."
+  ],
+  "gramatica": {
+    "titulo": "Relativos: che, cui, il quale",
+    "texto": "Los relativos unen dos frases en una: Ho un amico. Lui vive a Roma = Ho un amico che vive a Roma.\nChe sirve para el sujeto y el objeto directo, no cambia y nunca lleva preposición: il libro che leggo.\nCui se usa después de una preposición, tampoco cambia: la casa in cui abito, la persona con cui lavoro, il film di cui parli.\nIl quale / la quale / i quali / le quali es más formal y concuerda con el sustantivo; sirve cuando «che» confundiría: il direttore, il quale ha accettato...\nIl cui = cuyo: Ho un amico il cui padre è medico.\nTruco: si en español dices «el que / donde / con quien», en italiano «che» no lleva preposición y «cui» siempre la lleva.",
+    "tabla": [
+      ["il libro che leggo", "el libro que leo", "il líbro ke légo"],
+      ["la casa in cui abito", "la casa donde vivo", "la cása in cui abíto"],
+      ["la persona con cui lavoro", "la persona con quien trabajo", "la persóna con cui lavóro"],
+      ["il film di cui parli", "la película de la que hablas", "il film di cui párli"],
+      ["il direttore, il quale...", "el director, quien...", "il diretóre il cuále"],
+      ["un amico il cui padre...", "un amigo cuyo padre...", "un amíco il cui pádre"]
+    ],
+    "errores": [
+      "Después de preposición se usa «cui», no «che»: «la casa in cui abito», no «la casa in che abito».",
+      "No repitas el pronombre: «il libro che leggo», no «il libro che lo leggo».",
+      "«Cui» no cambia nunca y no lleva artículo (salvo «il cui»): «le persone con cui lavoro», no «con le cui persone lavoro»."
+    ]
+  },
+  "practica": [
+    "Une cinco pares de frases con «che» (ej.: «Ho un libro. Lo leggo.» = «Ho un libro che leggo.») (6 minutos).",
+    "Describe en voz alta tu casa, tu barrio y tu trabajo con «in cui» y «con cui» (5 minutos).",
+    "Escribe tres frases formales con «il quale / la quale» como en un correo de trabajo (5 minutos).",
+    "Describe a una persona con cuatro adjetivos, dos antes y dos después del sustantivo (4 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b1-u7-l1",
+      "n": 1,
+      "titulo": "Che: el relativo básico",
+      "objetivo": "Unir frases con «che» para describir personas y cosas.",
+      "intro": "«Che» une dos frases y significa «que». Truco: no cambia nunca (el libro que, la persona que, las cosas que) y no lleva preposición.",
+      "palabras": [
+        { "t": "che", "es": "que (relativo)", "pron": "ke", "ej": "Ho un amico che parla cinque lingue.", "ejes": "Tengo un amigo que habla cinco idiomas.", "cog": false },
+        { "t": "il libro che", "es": "el libro que", "pron": "il líbro ke", "ej": "Il libro che leggo è bellissimo.", "ejes": "El libro que leo es hermosísimo.", "cog": false },
+        { "t": "la persona che", "es": "la persona que", "pron": "la persóna ke", "ej": "La persona che parla è mio zio.", "ejes": "La persona que habla es mi tío.", "cog": false },
+        { "t": "l'amico che", "es": "el amigo que", "pron": "lamíco ke", "ej": "L'amico che vive a Roma arriva domani.", "ejes": "El amigo que vive en Roma llega mañana.", "cog": false },
+        { "t": "la ragazza che", "es": "la chica que", "pron": "la ragátsa ke", "ej": "La ragazza che ho conosciuto è peruviana.", "ejes": "La chica que conocí es peruana.", "cog": false },
+        { "t": "il film che", "es": "la película que", "pron": "il film ke", "ej": "Il film che abbiamo visto era lungo.", "ejes": "La película que vimos era larga.", "cog": false },
+        { "t": "la casa che", "es": "la casa que", "pron": "la cása ke", "ej": "La casa che compriamo ha un giardino.", "ejes": "La casa que compramos tiene un jardín.", "cog": false },
+        { "t": "il ristorante che", "es": "el restaurante que", "pron": "il ristoránte ke", "ej": "Il ristorante che consigli è chiuso.", "ejes": "El restaurante que recomiendas está cerrado.", "cog": false },
+        { "t": "quello che", "es": "lo que", "pron": "cuéllo ke", "ej": "Non capisco quello che dici.", "ejes": "No entiendo lo que dices.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il libro che leggo è bellissimo.", "es": "El libro que leo es hermosísimo.", "pron": "il líbro ke légo e bellíssimo" },
+        { "t": "La persona che parla è mio zio.", "es": "La persona que habla es mi tío.", "pron": "la persóna ke párla e mío tsío" },
+        { "t": "Il film che abbiamo visto era molto lungo.", "es": "La película que vimos era muy larga.", "pron": "il film ke abbiámo vísto éra mólto lúngo" },
+        { "t": "Non capisco quello che dici.", "es": "No entiendo lo que dices.", "pron": "non capísco cuéllo ke díchi" },
+        { "t": "Ho un amico che parla cinque lingue.", "es": "Tengo un amigo que habla cinco idiomas.", "pron": "o un amíco ke párla chínque língue" }
+      ],
+      "dialogo": {
+        "titulo": "Alla festa",
+        "lineas": [
+          { "q": "A", "t": "Chi è la ragazza che parla con Marco?", "es": "¿Quién es la chica que habla con Marco?" },
+          { "q": "B", "t": "È Elena, la collega che lavora con me.", "es": "Es Elena, la colega que trabaja conmigo." },
+          { "q": "A", "t": "E il ragazzo che porta gli occhiali?", "es": "¿Y el chico que lleva lentes?" },
+          { "q": "B", "t": "È suo fratello.", "es": "Es su hermano." },
+          { "q": "A", "t": "Quello che ha la giacca blu?", "es": "¿El que tiene la chaqueta azul?" },
+          { "q": "B", "t": "Sì, proprio lui.", "es": "Sí, justamente él." }
+        ]
+      },
+      "nota": "«Che» sirve para el sujeto («la ragazza che parla») y para el complemento directo («il libro che leggo»). Cuando es complemento, el participio concuerda a veces: «La ragazza che ho conosciuta» (también se acepta «conosciuto»)."
+    },
+    {
+      "id": "it-b1-u7-l2",
+      "n": 2,
+      "titulo": "Cui: con preposición",
+      "objetivo": "Usar «cui» después de una preposición para hablar de lugares, personas y razones.",
+      "intro": "Cuando hay preposición, «che» se transforma en «cui»: di cui, a cui, in cui, con cui. Truco: «in cui» equivale a «donde» y «con cui» a «con quien».",
+      "palabras": [
+        { "t": "di cui", "es": "del que, de quien", "pron": "di cui", "ej": "Il film di cui parli è bellissimo.", "ejes": "La película de la que hablas es hermosísima.", "cog": false },
+        { "t": "a cui", "es": "al que, a quien", "pron": "a cui", "ej": "Ecco l'amico a cui ho scritto.", "ejes": "Este es el amigo a quien escribí.", "cog": false },
+        { "t": "in cui", "es": "en el que, donde", "pron": "in cui", "ej": "La casa in cui abito è piccola.", "ejes": "La casa donde vivo es pequeña.", "cog": false },
+        { "t": "con cui", "es": "con el que, con quien", "pron": "con cui", "ej": "La persona con cui lavoro è gentile.", "ejes": "La persona con quien trabajo es amable.", "cog": false },
+        { "t": "da cui", "es": "de donde, del que", "pron": "da cui", "ej": "La città da cui vengo è piccola.", "ejes": "La ciudad de donde vengo es pequeña.", "cog": false },
+        { "t": "per cui", "es": "por lo que, por el que", "pron": "per cui", "ej": "Non so il motivo per cui è partito.", "ejes": "No sé el motivo por el que se fue.", "cog": false },
+        { "t": "la persona a cui", "es": "la persona a quien", "pron": "la persóna a cui", "ej": "La persona a cui ho scritto non ha risposto.", "ejes": "La persona a quien escribí no respondió.", "cog": false },
+        { "t": "il motivo per cui", "es": "el motivo por el que", "pron": "il motívo per cui", "ej": "Questo è il motivo per cui sono qui.", "ejes": "Este es el motivo por el que estoy aquí.", "cog": false },
+        { "t": "la città in cui", "es": "la ciudad donde", "pron": "la chittá in cui", "ej": "La città in cui vivo è tranquilla.", "ejes": "La ciudad donde vivo es tranquila.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il film di cui parli è bellissimo.", "es": "La película de la que hablas es hermosísima.", "pron": "il film di cui párli e bellíssimo" },
+        { "t": "La casa in cui abito è piccola.", "es": "La casa donde vivo es pequeña.", "pron": "la cása in cui ábito e píccola" },
+        { "t": "La persona con cui lavoro è gentile.", "es": "La persona con quien trabajo es amable.", "pron": "la persóna con cui lavóro e yentíle" },
+        { "t": "Non so il motivo per cui è partito.", "es": "No sé el motivo por el que se fue.", "pron": "non só il motívo per cui e partíto" },
+        { "t": "La città da cui vengo è molto piccola.", "es": "La ciudad de donde vengo es muy pequeña.", "pron": "la chittá da cui véngo e mólto píccola" }
+      ],
+      "dialogo": {
+        "titulo": "Il mio quartiere",
+        "lineas": [
+          { "q": "A", "t": "Com'è il quartiere in cui vivi?", "es": "¿Cómo es el barrio donde vives?" },
+          { "q": "B", "t": "È tranquillo. C'è un parco in cui giochiamo a calcio.", "es": "Es tranquilo. Hay un parque donde jugamos fútbol." },
+          { "q": "A", "t": "E i vicini?", "es": "¿Y los vecinos?" },
+          { "q": "B", "t": "La signora con cui parlo spesso è molto simpatica.", "es": "La señora con quien hablo a menudo es muy simpática." },
+          { "q": "A", "t": "È questo il motivo per cui ti piace?", "es": "¿Es este el motivo por el que te gusta?" },
+          { "q": "B", "t": "Sì, la gente è gentile.", "es": "Sí, la gente es amable." }
+        ]
+      },
+      "nota": "En el habla coloquial, «dove» sustituye a «in cui» para lugares: «la casa dove abito». Pero «in cui» es más correcto en la escritura."
+    },
+    {
+      "id": "it-b1-u7-l3",
+      "n": 3,
+      "titulo": "Il quale y il cui",
+      "objetivo": "Reconocer y usar «il quale» y «il cui» en registros formales.",
+      "intro": "«Il quale» concuerda con el sustantivo (il quale, la quale, i quali, le quali) y se usa en escritos formales. Truco: aclara de quién hablas cuando «che» sería ambiguo.",
+      "palabras": [
+        { "t": "il quale", "es": "el cual, quien", "pron": "il cuále", "ej": "Ho parlato con il direttore, il quale ha accettato.", "ejes": "Hablé con el director, quien aceptó.", "cog": false },
+        { "t": "la quale", "es": "la cual, quien", "pron": "la cuále", "ej": "Ho scritto alla dottoressa, la quale ha risposto subito.", "ejes": "Le escribí a la doctora, quien respondió de inmediato.", "cog": false },
+        { "t": "i quali", "es": "los cuales, quienes", "pron": "i cuáli", "ej": "Sono arrivati i clienti, i quali aspettavano da un'ora.", "ejes": "Llegaron los clientes, quienes esperaban desde hacía una hora.", "cog": false },
+        { "t": "le quali", "es": "las cuales, quienes", "pron": "le cuáli", "ej": "Ho conosciuto due ragazze, le quali studiano medicina.", "ejes": "Conocí a dos chicas, quienes estudian medicina.", "cog": false },
+        { "t": "nel quale", "es": "en el cual", "pron": "nel cuále", "ej": "Il palazzo nel quale lavoro è antico.", "ejes": "El edificio en el cual trabajo es antiguo.", "cog": false },
+        { "t": "al quale", "es": "al cual, a quien", "pron": "al cuále", "ej": "Il direttore al quale ho scritto è fuori.", "ejes": "El director a quien escribí está fuera.", "cog": false },
+        { "t": "con il quale", "es": "con el cual, con quien", "pron": "con il cuále", "ej": "Il collega con il quale lavoro è peruviano.", "ejes": "El colega con quien trabajo es peruano.", "cog": false },
+        { "t": "il cui", "es": "cuyo", "pron": "il cui", "ej": "Ho un amico il cui padre è medico.", "ejes": "Tengo un amigo cuyo padre es médico.", "cog": false },
+        { "t": "la cui", "es": "cuya", "pron": "la cui", "ej": "È una scrittrice la cui opera è famosa.", "ejes": "Es una escritora cuya obra es famosa.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Ho parlato con il direttore, il quale ha accettato.", "es": "Hablé con el director, quien aceptó.", "pron": "o parláto con il direttóre il cuále a accettáto" },
+        { "t": "Ho scritto alla dottoressa, la quale ha risposto subito.", "es": "Le escribí a la doctora, quien respondió de inmediato.", "pron": "o scrítto alla dottoréssa la cuále a rispósto súbito" },
+        { "t": "Il palazzo nel quale lavoro è molto antico.", "es": "El edificio en el cual trabajo es muy antiguo.", "pron": "il palátso nel cuále lavóro e mólto antíco" },
+        { "t": "Il collega con il quale lavoro è peruviano.", "es": "El colega con quien trabajo es peruano.", "pron": "il colléga con il cuále lavóro e peruviáno" },
+        { "t": "Ho un amico il cui padre è medico.", "es": "Tengo un amigo cuyo padre es médico.", "pron": "o un amíco il cui pádre e médico" }
+      ],
+      "dialogo": {
+        "titulo": "In ufficio",
+        "lineas": [
+          { "q": "A", "t": "Hai parlato con la direttrice?", "es": "¿Hablaste con la directora?" },
+          { "q": "B", "t": "Sì, la direttrice, la quale ha letto il progetto, è d'accordo.", "es": "Sí, la directora, quien leyó el proyecto, está de acuerdo." },
+          { "q": "A", "t": "Ottimo! E i clienti?", "es": "¡Excelente! ¿Y los clientes?" },
+          { "q": "B", "t": "I clienti, i quali sono arrivati stamattina, hanno firmato.", "es": "Los clientes, que llegaron esta mañana, firmaron." },
+          { "q": "A", "t": "Il progetto sul quale lavoriamo da mesi è finalmente pronto?", "es": "¿El proyecto en el que trabajamos desde hace meses por fin está listo?" },
+          { "q": "B", "t": "Sì, è sulla scrivania.", "es": "Sí, está sobre el escritorio." }
+        ]
+      },
+      "nota": "«Il quale» es más común en textos escritos, cartas y comunicados. En la conversación diaria usa «che» y «cui». Con preposición el artículo se une: nel quale, sul quale, al quale."
+    },
+    {
+      "id": "it-b1-u7-l4",
+      "n": 4,
+      "titulo": "El adjetivo: antes o después",
+      "objetivo": "Colocar el adjetivo antes o después del sustantivo y entender el cambio de sentido.",
+      "intro": "Normalmente el adjetivo va después (una casa nuova), pero adjetivos muy comunes como bello, brutto, buono, grande, vecchio pueden ir antes. Truco: antes expresa opinión; después describe un hecho.",
+      "palabras": [
+        { "t": "un vecchio amico", "es": "un viejo amigo (de hace años)", "pron": "un vécchio amíco", "ej": "Marco è un vecchio amico di famiglia.", "ejes": "Marco es un viejo amigo de la familia.", "cog": false },
+        { "t": "un amico vecchio", "es": "un amigo anciano", "pron": "un amíco vécchio", "ej": "Ho un amico vecchio, ha ottant'anni.", "ejes": "Tengo un amigo anciano, tiene ochenta años.", "cog": false },
+        { "t": "un povero uomo", "es": "un pobre hombre (lástima)", "pron": "un póvero uómo", "ej": "Ho visto un povero uomo senza casa.", "ejes": "Vi a un pobre hombre sin casa.", "cog": false },
+        { "t": "un uomo povero", "es": "un hombre sin dinero", "pron": "un uómo póvero", "ej": "È un uomo povero ma felice.", "ejes": "Es un hombre pobre pero feliz.", "cog": false },
+        { "t": "un grande scrittore", "es": "un gran escritor", "pron": "un gránde scrittóre", "ej": "Dante è un grande scrittore.", "ejes": "Dante es un gran escritor.", "cog": false },
+        { "t": "un bel posto", "es": "un lindo lugar", "pron": "un bel pósto", "ej": "È un bel posto per vivere.", "ejes": "Es un lindo lugar para vivir.", "cog": false },
+        { "t": "una brutta notizia", "es": "una mala noticia", "pron": "úna brútta notítsia", "ej": "Ho una brutta notizia.", "ejes": "Tengo una mala noticia.", "cog": false },
+        { "t": "una casa nuova", "es": "una casa nueva (recién construida)", "pron": "úna cása nuóva", "ej": "Abbiamo una casa nuova.", "ejes": "Tenemos una casa nueva.", "cog": false },
+        { "t": "un buon caffè", "es": "un buen café", "pron": "un buón caffé", "ej": "Qui fanno un buon caffè.", "ejes": "Aquí hacen un buen café.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Marco è un vecchio amico: lo conosco da vent'anni.", "es": "Marco es un viejo amigo: lo conozco desde hace veinte años.", "pron": "márco e un vécchio amíco lo conósco da ventánni" },
+        { "t": "Ho un amico vecchio, ha ottant'anni e vive solo.", "es": "Tengo un amigo anciano, tiene ochenta años y vive solo.", "pron": "o un amíco vécchio a ottantánni e víve sólo" },
+        { "t": "È un uomo povero, ma è felice.", "es": "Es un hombre pobre, pero es feliz.", "pron": "e un uómo póvero ma e felíche" },
+        { "t": "Ho una brutta notizia per te.", "es": "Tengo una mala noticia para ti.", "pron": "o úna brútta notítsia per te" },
+        { "t": "Qui fanno un buon caffè in un bel posto.", "es": "Aquí hacen un buen café en un lindo lugar.", "pron": "cui fánno un buón caffé in un bel pósto" }
+      ],
+      "dialogo": {
+        "titulo": "Chi è quel signore?",
+        "lineas": [
+          { "q": "A", "t": "Chi è quel signore?", "es": "¿Quién es ese señor?" },
+          { "q": "B", "t": "È un vecchio amico di mio padre.", "es": "Es un viejo amigo de mi papá." },
+          { "q": "A", "t": "Vecchio? Sembra giovane!", "es": "¿Viejo? ¡Parece joven!" },
+          { "q": "B", "t": "Vecchio nel senso che si conoscono da anni, non di età.", "es": "Viejo en el sentido de que se conocen desde hace años, no de edad." },
+          { "q": "A", "t": "Ah, capisco! È un uomo simpatico.", "es": "¡Ah, entiendo! Es un hombre simpático." },
+          { "q": "B", "t": "Sì, un buon amico per tutta la famiglia.", "es": "Sí, un buen amigo para toda la familia." }
+        ]
+      },
+      "nota": "Reglas útiles: colores, nacionalidades y formas van siempre después (una macchina rossa, un ragazzo peruviano). Los adjetivos bello, brutto, buono, cattivo, grande, piccolo, giovane, vecchio, nuovo suelen ir antes: un bel libro, un buon vino. Antes de un sustantivo masculino singular, «bello» pasa a «bel» y «buono» a «buon»."
+    },
+    {
+      "id": "it-b1-u7-l5",
+      "n": 5,
+      "titulo": "Repaso: describir con precisión",
+      "objetivo": "Combinar relativos y adjetivos para describir personas, lugares y cosas.",
+      "intro": "Repasa todo: che, cui, il quale y la posición del adjetivo. Truco: construye frases largas poco a poco: primero el sustantivo, luego el adjetivo, luego el relativo.",
+      "palabras": [
+        { "t": "descrivere", "es": "describir", "pron": "descrívere", "ej": "Puoi descrivere la tua casa?", "ejes": "¿Puedes describir tu casa?", "cog": true },
+        { "t": "la descrizione", "es": "la descripción", "pron": "la descritsióne", "ej": "La descrizione è molto precisa.", "ejes": "La descripción es muy precisa.", "cog": true },
+        { "t": "preciso", "es": "preciso, puntual", "pron": "prechíso", "ej": "Sii preciso: dove esattamente?", "ejes": "Sé preciso: ¿dónde exactamente?", "cog": true },
+        { "t": "il dettaglio", "es": "el detalle", "pron": "il dettálio", "ej": "Il dettaglio più importante è il prezzo.", "ejes": "El detalle más importante es el precio.", "cog": false },
+        { "t": "l'aspetto", "es": "el aspecto, la apariencia", "pron": "laspétto", "ej": "L'aspetto del posto è bellissimo.", "ejes": "El aspecto del lugar es hermosísimo.", "cog": true },
+        { "t": "il carattere", "es": "el carácter", "pron": "il caráttere", "ej": "Il carattere di Anna è dolce.", "ejes": "El carácter de Anna es dulce.", "cog": true },
+        { "t": "particolare", "es": "particular, especial", "pron": "particoláre", "ej": "È un posto molto particolare.", "ejes": "Es un lugar muy especial.", "cog": true },
+        { "t": "il modo in cui", "es": "la manera en que", "pron": "il módo in cui", "ej": "Mi piace il modo in cui parli.", "ejes": "Me gusta la manera en que hablas.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Puoi descrivere la persona con cui hai parlato?", "es": "¿Puedes describir a la persona con quien hablaste?", "pron": "puói descrivére la persóna con cui ái parláto" },
+        { "t": "È un posto molto particolare, in cui si mangia benissimo.", "es": "Es un lugar muy especial, donde se come muy bien.", "pron": "e un pósto mólto particoláre in cui si mándya benísimo" },
+        { "t": "Mi piace il modo in cui parli italiano.", "es": "Me gusta la manera en que hablas italiano.", "pron": "mi piáche il módo in cui párli italiáno" },
+        { "t": "Il ragazzo che ho conosciuto ha un carattere dolce.", "es": "El chico que conocí tiene un carácter dulce.", "pron": "il ragátso ke o conoshúto a un caráttere dólche" },
+        { "t": "Abbiamo visto un bel film di cui tutti parlano.", "es": "Vimos una linda película de la que todos hablan.", "pron": "abbiámo vísto un bel film di cui túti párlano" }
+      ],
+      "dialogo": {
+        "titulo": "Cerco casa",
+        "lineas": [
+          { "q": "A", "t": "Com'è la casa che hai visto?", "es": "¿Cómo es la casa que viste?" },
+          { "q": "B", "t": "È una bella casa nuova, con un grande giardino.", "es": "Es una linda casa nueva, con un jardín grande." },
+          { "q": "A", "t": "E il quartiere in cui si trova?", "es": "¿Y el barrio donde está?" },
+          { "q": "B", "t": "È tranquillo, con molti negozi.", "es": "Es tranquilo, con muchas tiendas." },
+          { "q": "A", "t": "Hai già parlato con l'agente con cui hai fatto l'appuntamento?", "es": "¿Ya hablaste con el agente con quien hiciste la cita?" },
+          { "q": "B", "t": "Sì, è una persona gentile e molto precisa.", "es": "Sí, es una persona amable y muy precisa." }
+        ]
+      },
+      "nota": "«Particolare» en italiano suele ser positivo («un posto particolare» = un lugar especial, con encanto). Como sustantivo, «il particolare» significa «el detalle»."
+    }
+  ]
+}
