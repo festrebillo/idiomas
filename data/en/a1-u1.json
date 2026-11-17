@@ -1,0 +1,230 @@
+{
+  "id": "en-a1-u1",
+  "idioma": "en",
+  "nivel": "A1",
+  "n": 1,
+  "titulo": "Saludos y presentaciones",
+  "resumen": "Aprenderás a saludar, despedirte, decir tu nombre y de dónde eres, usando el verbo to be (ser / estar).",
+  "puedo": [
+    "Saludar y despedirme según la hora del día.",
+    "Dar las gracias y pedir disculpas.",
+    "Decir mi nombre y preguntar el de otra persona.",
+    "Decir de qué país soy.",
+    "Usar I am, you are, he is, she is, we are y they are.",
+    "Responder preguntas con Yes, I am / No, I'm not."
+  ],
+  "gramatica": {
+    "titulo": "El verbo to be (ser / estar)",
+    "texto": "En inglés, «ser» y «estar» se dicen con una sola palabra: to be. Cambia según quién hace la acción:\nI am (yo soy / estoy), you are (tú eres / estás), he is (él es), she is (ella es), it is (eso es, para cosas), we are (nosotros somos) y they are (ellos son).\nTruco: en inglés NUNCA se omite el pronombre. En español decimos «Soy Ana», pero en inglés es I am Ana. En la conversación se acorta: I am = I'm, you are = you're, he is = he's, she is = she's, we are = we're, they are = they're.",
+    "tabla": [
+      ["I am (I'm)", "yo soy / estoy", "ai am (aim)"],
+      ["you are (you're)", "tú eres / estás", "iu ar (ior)"],
+      ["he is (he's)", "él es / está", "ji is (jis)"],
+      ["she is (she's)", "ella es / está", "shi is (shis)"],
+      ["it is (it's)", "eso es / está", "it is (its)"],
+      ["we are (we're)", "nosotros somos / estamos", "ui ar (uíer)"],
+      ["they are (they're)", "ellos son / están", "déi ar (déir)"]
+    ],
+    "errores": [
+      "No omitas el pronombre: «Am Ana» o «Is from Peru» está mal. Di siempre I am Ana / She is from Peru.",
+      "No digas «I am agree» ni inventes formas: con to be solo existen am, is y are. Para cada persona hay una sola forma correcta."
+    ]
+  },
+  "practica": [
+    "Durante 3 minutos, saluda en voz alta a tu espejo según la hora del día: Good morning, Good afternoon, Good evening.",
+    "Escribe 5 veces tu presentación completa: Hello! I'm (tu nombre). I'm from (tu país). Nice to meet you. Léela en voz alta (5 minutos).",
+    "Mira una escena de una serie en inglés con subtítulos (10 minutos) y anota cuántas veces oyes Hello, Hi y Thank you.",
+    "Di en voz alta 10 frases con I am, you are, he is, she is, we are y they are, cambiando el país o el nombre (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-a1-u1-l1",
+      "n": 1,
+      "titulo": "Hola y adiós",
+      "objetivo": "Saludar y despedirte según la hora del día, y dar las gracias o pedir disculpas.",
+      "intro": "En inglés los saludos cambian según la hora: morning (mañana), afternoon (tarde), evening (noche temprano) y night (para despedirse al dormir). Truco: good night NO es un saludo, solo se dice al irse a dormir.",
+      "palabras": [
+        { "t": "hello", "es": "hola", "pron": "jelóu", "ej": "Hello, Ana!", "ejes": "¡Hola, Ana!", "cog": false, "truco": "La «h» se pronuncia como una «j» suave de aire." },
+        { "t": "hi", "es": "hola (informal)", "pron": "jai", "ej": "Hi, Luis!", "ejes": "¡Hola, Luis!", "cog": false, "truco": "Es el «hola» corto entre amigos." },
+        { "t": "goodbye", "es": "adiós", "pron": "gudbái", "ej": "Goodbye, Maria!", "ejes": "¡Adiós, Maria!", "cog": false },
+        { "t": "good morning", "es": "buenos días", "pron": "gud mórnin", "ej": "Good morning, Carlos!", "ejes": "¡Buenos días, Carlos!", "cog": false, "truco": "Se usa desde que amanece hasta el mediodía." },
+        { "t": "good afternoon", "es": "buenas tardes", "pron": "gud afternún", "ej": "Good afternoon, Emma!", "ejes": "¡Buenas tardes, Emma!", "cog": false, "truco": "Desde el mediodía hasta las 5 o 6 de la tarde." },
+        { "t": "good evening", "es": "buenas noches (al llegar)", "pron": "gud ívnin", "ej": "Good evening, Sam!", "ejes": "¡Buenas noches, Sam!", "cog": false, "truco": "Es el saludo al llegar por la noche." },
+        { "t": "good night", "es": "buenas noches (al despedirse)", "pron": "gud nait", "ej": "Good night, Ana!", "ejes": "¡Buenas noches, Ana!", "cog": false, "truco": "Solo para despedirte, por ejemplo antes de dormir." },
+        { "t": "please", "es": "por favor", "pron": "plis", "ej": "Please, Luis.", "ejes": "Por favor, Luis.", "cog": false, "truco": "Suena «plis», como el inglés de «please» en los letreros." },
+        { "t": "thank you", "es": "gracias", "pron": "zank iú", "ej": "Thank you, Luis!", "ejes": "¡Gracias, Luis!", "cog": false, "truco": "En la «th» saca la lengua entre los dientes y sopla suave." },
+        { "t": "sorry", "es": "perdón / lo siento", "pron": "sóri", "ej": "Sorry, Ana!", "ejes": "¡Perdón, Ana!", "cog": false }
+      ],
+      "frases": [
+        { "t": "Good morning!", "es": "¡Buenos días!", "pron": "gud mórnin" },
+        { "t": "Good evening!", "es": "¡Buenas noches!", "pron": "gud ívnin" },
+        { "t": "Thank you, Carlos!", "es": "¡Gracias, Carlos!", "pron": "zank iú, cárlos" },
+        { "t": "You're welcome, Maria.", "es": "De nada, Maria.", "pron": "iór uélcam, marría" },
+        { "t": "Sorry, Ana!", "es": "¡Perdón, Ana!", "pron": "sóri, ána" },
+        { "t": "Goodbye and good night!", "es": "¡Adiós y buenas noches!", "pron": "gudbái an gud nait" }
+      ],
+      "dialogo": {
+        "titulo": "En la puerta",
+        "lineas": [
+          { "q": "A", "t": "Good evening, Emma!", "es": "¡Buenas noches, Emma!" },
+          { "q": "B", "t": "Hello, Sam!", "es": "¡Hola, Sam!" },
+          { "q": "A", "t": "Please, Emma.", "es": "Por favor, Emma (adelante)." },
+          { "q": "B", "t": "Thank you, Sam!", "es": "¡Gracias, Sam!" },
+          { "q": "A", "t": "You're welcome. Good night!", "es": "De nada. ¡Buenas noches!" }
+        ]
+      },
+      "nota": "You're welcome literalmente es «eres bienvenido», pero se usa para decir «de nada». Es lo que contestas a thank you. En EE. UU. suele decirse con una sonrisa."
+    },
+    {
+      "id": "en-a1-u1-l2",
+      "n": 2,
+      "titulo": "Me llamo...",
+      "objetivo": "Decir tu nombre y preguntar el nombre de otra persona.",
+      "intro": "Para presentarte tienes dos opciones: My name is... (Mi nombre es...) o I'm... (Soy...). Truco: my es «mi» y your es «tu». My name = mi nombre; your name = tu nombre.",
+      "palabras": [
+        { "t": "name", "es": "nombre", "pron": "neim", "ej": "My name is Luis.", "ejes": "Mi nombre es Luis.", "cog": false },
+        { "t": "my", "es": "mi", "pron": "mai", "ej": "My name is Ana.", "ejes": "Mi nombre es Ana.", "cog": false, "truco": "Suena como «mai», igual que «mi» en inglés de las canciones." },
+        { "t": "your", "es": "tu / su", "pron": "ior", "ej": "What's your name?", "ejes": "¿Cuál es tu nombre?", "cog": false },
+        { "t": "I'm", "es": "soy / estoy", "pron": "aim", "ej": "I'm Carlos.", "ejes": "Soy Carlos.", "cog": false, "truco": "I'm es la forma corta de I am." },
+        { "t": "what's", "es": "¿cuál es? / ¿qué es?", "pron": "juóts", "ej": "What's your name?", "ejes": "¿Cómo te llamas?", "cog": false, "truco": "What's es what is. Es la palabra de las preguntas." },
+        { "t": "Mr.", "es": "señor", "pron": "míster", "ej": "Hello, Mr. Smith!", "ejes": "¡Hola, señor Smith!", "cog": false, "truco": "Se escribe Mr. con punto en inglés americano." },
+        { "t": "Ms.", "es": "señora / señorita", "pron": "mis", "ej": "Hello, Ms. Garcia!", "ejes": "¡Hola, señora Garcia!", "cog": false, "truco": "Ms. sirve para cualquier mujer, casada o soltera." },
+        { "t": "nice", "es": "agradable / un gusto", "pron": "nais", "ej": "Nice to meet you.", "ejes": "Mucho gusto.", "cog": false },
+        { "t": "meet", "es": "conocer (a alguien)", "pron": "mit", "ej": "Nice to meet you, Sam.", "ejes": "Mucho gusto, Sam.", "cog": false, "truco": "meet suena como «mit»: la «ee» es una «i» larga." },
+        { "t": "you", "es": "tú / usted", "pron": "iú", "ej": "And you?", "ejes": "¿Y tú?", "cog": false, "truco": "You sirve para «tú» y para «usted»: en inglés no hay diferencia." }
+      ],
+      "frases": [
+        { "t": "My name is Ana.", "es": "Me llamo Ana.", "pron": "mai neim is ána" },
+        { "t": "What's your name?", "es": "¿Cómo te llamas?", "pron": "juóts ior neim" },
+        { "t": "I'm Luis.", "es": "Soy Luis.", "pron": "aim luís" },
+        { "t": "Nice to meet you.", "es": "Mucho gusto.", "pron": "nais tu mit iú" },
+        { "t": "Nice to meet you, too.", "es": "Igualmente, mucho gusto.", "pron": "nais tu mit iú, tu" },
+        { "t": "Hello, Mr. Smith.", "es": "Hola, señor Smith.", "pron": "jelóu, míster smiz" }
+      ],
+      "dialogo": {
+        "titulo": "Un primer encuentro",
+        "lineas": [
+          { "q": "A", "t": "Hello! I'm Carlos.", "es": "¡Hola! Soy Carlos." },
+          { "q": "B", "t": "Hi, Carlos! My name is Maria.", "es": "¡Hola, Carlos! Me llamo Maria." },
+          { "q": "A", "t": "Nice to meet you, Maria.", "es": "Mucho gusto, Maria." },
+          { "q": "B", "t": "Nice to meet you, too. Goodbye, Carlos!", "es": "Igualmente. ¡Adiós, Carlos!" },
+          { "q": "A", "t": "Goodbye, Maria!", "es": "¡Adiós, Maria!" }
+        ]
+      },
+      "nota": "Too al final de Nice to meet you, too significa «también» e indica «igualmente». Cuando alguien te dice Nice to meet you, contesta Nice to meet you, too. En el trabajo usa Mr. + apellido o Ms. + apellido, nunca el nombre de pila con el título."
+    },
+    {
+      "id": "en-a1-u1-l3",
+      "n": 3,
+      "titulo": "¿De dónde eres?",
+      "objetivo": "Decir de qué país eres y preguntar de dónde es otra persona.",
+      "intro": "Para decir de dónde eres usa I'm from + país. Truco: from es «de» (de dónde eres). Los países y las nacionalidades SIEMPRE llevan mayúscula en inglés, también Peruvian o Mexican.",
+      "palabras": [
+        { "t": "Peru", "es": "Perú", "pron": "perú", "ej": "I'm from Lima, Peru.", "ejes": "Soy de Lima, Perú.", "cog": true },
+        { "t": "Mexico", "es": "México", "pron": "méxicou", "ej": "I'm from Mexico City.", "ejes": "Soy de la Ciudad de México.", "cog": true, "truco": "En inglés se escribe con «x» y se pronuncia «méxicou»." },
+        { "t": "Spain", "es": "España", "pron": "spein", "ej": "I'm from Madrid, Spain.", "ejes": "Soy de Madrid, España.", "cog": false },
+        { "t": "Colombia", "es": "Colombia", "pron": "colómbia", "ej": "I'm from Bogotá, Colombia.", "ejes": "Soy de Bogotá, Colombia.", "cog": true },
+        { "t": "Brazil", "es": "Brasil", "pron": "brasíl", "ej": "I'm from Rio, Brazil.", "ejes": "Soy de Río, Brasil.", "cog": true, "truco": "Se escribe con «z», no con «s»." },
+        { "t": "the United States", "es": "Estados Unidos", "pron": "di iunáited stéits", "ej": "I'm from the United States.", "ejes": "Soy de Estados Unidos.", "cog": true, "truco": "Lleva siempre the delante, como en «los Estados Unidos»." },
+        { "t": "from", "es": "de (origen)", "pron": "fram", "ej": "I'm from Cusco.", "ejes": "Soy de Cusco.", "cog": false },
+        { "t": "where", "es": "dónde / de dónde", "pron": "juér", "ej": "Where are you from?", "ejes": "¿De dónde eres?", "cog": false, "truco": "Where abre la pregunta. Se pronuncia casi igual que «juér»." },
+        { "t": "Peruvian", "es": "peruano / peruana", "pron": "perúvian", "ej": "I'm Peruvian.", "ejes": "Soy peruano.", "cog": true },
+        { "t": "Mexican", "es": "mexicano / mexicana", "pron": "méxican", "ej": "I'm Mexican.", "ejes": "Soy mexicano.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Where are you from?", "es": "¿De dónde eres?", "pron": "juér ar iú fram" },
+        { "t": "I'm from Peru.", "es": "Soy de Perú.", "pron": "aim fram perú" },
+        { "t": "I'm from Argentina.", "es": "Soy de Argentina.", "pron": "aim fram arghentína" },
+        { "t": "I'm from Italy.", "es": "Soy de Italia.", "pron": "aim fram ítali" },
+        { "t": "I'm Colombian.", "es": "Soy colombiano.", "pron": "aim colómbian" },
+        { "t": "And you? I'm from Brazil.", "es": "¿Y tú? Yo soy de Brasil.", "pron": "an iú? aim fram brasíl" }
+      ],
+      "dialogo": {
+        "titulo": "De viaje",
+        "lineas": [
+          { "q": "A", "t": "Hi! Where are you from?", "es": "¡Hola! ¿De dónde eres?" },
+          { "q": "B", "t": "I'm from Mexico. And you?", "es": "Soy de México. ¿Y tú?" },
+          { "q": "A", "t": "I'm from Peru.", "es": "Soy de Perú." },
+          { "q": "B", "t": "Nice to meet you!", "es": "¡Mucho gusto!" },
+          { "q": "A", "t": "Nice to meet you, too.", "es": "Igualmente." }
+        ]
+      },
+      "nota": "Where are you from? significa «¿De dónde eres?». Para el país usa I'm from + país; para la nacionalidad usa I'm + nacionalidad (sin from). Por ejemplo: I'm from Peru = I'm Peruvian."
+    },
+    {
+      "id": "en-a1-u1-l4",
+      "n": 4,
+      "titulo": "I am, you are, he is...",
+      "objetivo": "Conjugar to be en afirmativo con todos los pronombres.",
+      "intro": "Ya usaste I'm y you are sin saberlo. Aquí ves toda la conjugación de to be. Truco: es como tener solo tres palabras: am (solo con I), is (he, she, it) y are (you, we, they).",
+      "palabras": [
+        { "t": "I", "es": "yo", "pron": "ai", "ej": "I am from Peru.", "ejes": "Yo soy de Perú.", "cog": false, "truco": "I siempre va con mayúscula, aunque esté en medio de la frase." },
+        { "t": "you", "es": "tú / usted / ustedes", "pron": "iú", "ej": "You are from Mexico.", "ejes": "Tú eres de México.", "cog": false },
+        { "t": "he", "es": "él", "pron": "ji", "ej": "He is from Spain.", "ejes": "Él es de España.", "cog": false },
+        { "t": "she", "es": "ella", "pron": "shi", "ej": "She is from Italy.", "ejes": "Ella es de Italia.", "cog": false, "truco": "Suena «shi», como cuando pides silencio: «shhh»." },
+        { "t": "it", "es": "eso (cosas y animales)", "pron": "it", "ej": "", "ejes": "", "cog": false, "truco": "it se usa para cosas y animales, nunca para personas." },
+        { "t": "we", "es": "nosotros", "pron": "ui", "ej": "We are from Peru.", "ejes": "Nosotros somos de Perú.", "cog": false },
+        { "t": "they", "es": "ellos / ellas", "pron": "déi", "ej": "They are from Brazil.", "ejes": "Ellos son de Brasil.", "cog": false, "truco": "En la «th» saca la lengua entre los dientes y hazla vibrar, como una «d» suave." },
+        { "t": "am", "es": "soy / estoy", "pron": "am", "ej": "I am Ana.", "ejes": "Yo soy Ana.", "cog": false, "truco": "am solo se usa con I." },
+        { "t": "is", "es": "es / está", "pron": "is", "ej": "She is Maria.", "ejes": "Ella es Maria.", "cog": false },
+        { "t": "are", "es": "eres / somos / son", "pron": "ar", "ej": "We are from Italy.", "ejes": "Nosotros somos de Italia.", "cog": false, "truco": "are sirve para you, we y they." }
+      ],
+      "frases": [
+        { "t": "I am Maria.", "es": "Yo soy Maria.", "pron": "ai am marría" },
+        { "t": "You are from Mexico.", "es": "Tú eres de México.", "pron": "iú ar fram méxicou" },
+        { "t": "He is Luis.", "es": "Él es Luis.", "pron": "ji is luís" },
+        { "t": "She is from Italy.", "es": "Ella es de Italia.", "pron": "shi is fram ítali" },
+        { "t": "We are from Peru.", "es": "Nosotros somos de Perú.", "pron": "ui ar fram perú" },
+        { "t": "They are from Brazil.", "es": "Ellos son de Brasil.", "pron": "déi ar fram brasíl" }
+      ],
+      "dialogo": {
+        "titulo": "Presentaciones",
+        "lineas": [
+          { "q": "A", "t": "Hello! I am Sam. I am from the United States.", "es": "¡Hola! Soy Sam. Soy de Estados Unidos." },
+          { "q": "B", "t": "Hi, Sam! I am Ana. I am from Colombia.", "es": "¡Hola, Sam! Soy Ana. Soy de Colombia." },
+          { "q": "A", "t": "Nice to meet you, Ana.", "es": "Mucho gusto, Ana." },
+          { "q": "B", "t": "Nice to meet you, too.", "es": "Igualmente." }
+        ]
+      },
+      "nota": "En la conversación diaria casi siempre se usan las formas cortas: I'm, you're, he's, she's, we're, they're. Escritas con apóstrofe, se leen como una sola palabra: I am Ana = I'm Ana. Ambas son correctas; la corta suena más natural al hablar."
+    },
+    {
+      "id": "en-a1-u1-l5",
+      "n": 5,
+      "titulo": "Preguntas y respuestas con to be",
+      "objetivo": "Hacer y responder preguntas con to be, y repasar toda la unidad.",
+      "intro": "Para preguntar con to be solo cambia el orden: en vez de You are Peruvian, di Are you Peruvian? Truco: pon el verbo (am, is, are) ANTES del pronombre. Para responder usa Yes, I am. o No, I'm not.",
+      "palabras": [
+        { "t": "yes", "es": "sí", "pron": "iés", "ej": "Yes, I am.", "ejes": "Sí, lo soy.", "cog": false },
+        { "t": "no", "es": "no", "pron": "nou", "ej": "No, I'm not.", "ejes": "No, no lo soy.", "cog": false, "truco": "Se pronuncia «nóu», con una «u» al final." },
+        { "t": "not", "es": "no (con verbos)", "pron": "nat", "ej": "I am not from Spain.", "ejes": "No soy de España.", "cog": false, "truco": "not va justo después de am, is o are." },
+        { "t": "how", "es": "cómo", "pron": "jau", "ej": "How are you?", "ejes": "¿Cómo estás?", "cog": false },
+        { "t": "fine", "es": "bien", "pron": "fain", "ej": "I'm fine, thanks.", "ejes": "Estoy bien, gracias.", "cog": false },
+        { "t": "thanks", "es": "gracias (informal)", "pron": "zanks", "ej": "Thanks, Ana!", "ejes": "¡Gracias, Ana!", "cog": false, "truco": "Es el thank you corto. En la «th» saca la lengua entre los dientes." },
+        { "t": "who", "es": "quién", "pron": "ju", "ej": "Who is he?", "ejes": "¿Quién es él?", "cog": false, "truco": "La «w» de who no suena; solo dices «ju»." },
+        { "t": "and", "es": "y", "pron": "an", "ej": "I'm Ana, and you?", "ejes": "Soy Ana, ¿y tú?", "cog": false },
+        { "t": "too", "es": "también", "pron": "tu", "ej": "I'm from Peru, too.", "ejes": "Yo también soy de Perú.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Are you Peruvian?", "es": "¿Eres peruano?", "pron": "ar iú perúvian" },
+        { "t": "Yes, I am.", "es": "Sí, lo soy.", "pron": "iés, ai am" },
+        { "t": "No, I'm not.", "es": "No, no lo soy.", "pron": "nóu, aim nat" },
+        { "t": "Is he from Spain?", "es": "¿Es él de España?", "pron": "is ji fram spein" },
+        { "t": "Are they from Brazil?", "es": "¿Son ellos de Brasil?", "pron": "ar déi fram brasíl" },
+        { "t": "How are you?", "es": "¿Cómo estás?", "pron": "jau ar iú" }
+      ],
+      "dialogo": {
+        "titulo": "En un evento",
+        "lineas": [
+          { "q": "A", "t": "Hello! Are you Ana?", "es": "¡Hola! ¿Eres Ana?" },
+          { "q": "B", "t": "Yes, I am. And you?", "es": "Sí, lo soy. ¿Y tú?" },
+          { "q": "A", "t": "I'm Luis. Nice to meet you.", "es": "Soy Luis. Mucho gusto." },
+          { "q": "B", "t": "Nice to meet you, too. Are you from Peru?", "es": "Igualmente. ¿Eres de Perú?" },
+          { "q": "A", "t": "No, I'm not. I'm from Mexico.", "es": "No, no lo soy. Soy de México." },
+          { "q": "B", "t": "Nice! How are you?", "es": "¡Qué bien! ¿Cómo estás?" }
+        ]
+      },
+      "nota": "En las respuestas cortas con Yes, no se acorta el verbo: se dice Yes, I am, nunca «Yes, I'm». Pero con No sí: No, I'm not, No, he isn't o No, he's not. Recuerda: Are you...? se responde con am/are, y Is he...? con is."
+    }
+  ]
+}

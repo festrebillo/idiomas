@@ -1,0 +1,229 @@
+{
+  "id": "pt-a1-u2",
+  "idioma": "pt",
+  "nivel": "A1",
+  "n": 2,
+  "titulo": "Números y datos personales",
+  "resumen": "Aprenderás los números del 0 al 100, a decir tu edad y teléfono con el verbo ter, a dar tus datos y a deletrear.",
+  "puedo": [
+    "Contar del 0 al 100 en portugués.",
+    "Decir mi edad con el verbo ter (Eu tenho 25 anos).",
+    "Dar y preguntar un número de teléfono.",
+    "Dar datos personales: apellido, ciudad, profesión y correo.",
+    "Deletrear mi nombre y pedir que me repitan algo."
+  ],
+  "gramatica": {
+    "titulo": "El verbo ter (tener) y la edad",
+    "texto": "Para decir la edad, el portugués usa «ter» (tener), igual que el español: Eu tenho 25 anos (Tengo 25 años). No se dice «eu sou 25 anos».\nEl verbo ter es regular en lo que importa: tenho, tem, temos, têm. Truco: la «nh» de «tenho» suena como la «ñ» española (téñu).\n«Você», «ele» y «ela» usan la misma forma: tem. En plural se escribe «têm» (con acento circunflejo) pero se pronuncia casi igual que «tem».\nPara preguntar la edad: Quantos anos você tem? (¿Cuántos años tienes?).",
+    "tabla": [
+      ["eu tenho", "yo tengo", "éu téñu"],
+      ["você tem", "tú tienes", "vosé téin"],
+      ["ele / ela tem", "él / ella tiene", "éli / éla téin"],
+      ["nós temos", "nosotros tenemos", "nós témus"],
+      ["eles / elas têm", "ellos / ellas tienen", "élis / élas téin"]
+    ],
+    "errores": [
+      "No digas «eu sou 25 anos»: para la edad se usa «ter». Correcto: Eu tenho 25 anos.",
+      "«Tenho» se escribe con «nh», no «tengo» ni «tenjo»: suena «téñu».",
+      "No olvides «anos» al final: «Eu tenho vinte» sin «anos» suena incompleto."
+    ]
+  },
+  "practica": [
+    "Cuenta en voz alta del 0 al 20 tres veces seguidas sin mirar (3 minutos).",
+    "Di tu edad y la de dos familiares: «Eu tenho... anos. Meu amigo tem... anos» (3 minutos).",
+    "Dicta tu número de teléfono en portugués, dígito por dígito, y escríbelo en palabras (5 minutos).",
+    "Mira un video corto de «números em português» en YouTube y repite junto con el hablante (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-a1-u2-l1",
+      "n": 1,
+      "titulo": "Números 0 a 10",
+      "objetivo": "Contar del 1 al 10 en portugués y usarlos en frases cortas.",
+      "intro": "Los números del 1 al 10 se parecen mucho al español. Truco: «dois» y «três» son las dos que más cambian; las demás son casi iguales (quatro, cinco, seis, sete, oito, nove, dez).",
+      "palabras": [
+        { "t": "um", "es": "uno", "pron": "ún", "ej": "Um café, por favor.", "ejes": "Un café, por favor.", "cog": true, "truco": "Termina en «m» nasal: ún." },
+        { "t": "dois", "es": "dos", "pron": "dois", "ej": "Dois cafés, por favor.", "ejes": "Dos cafés, por favor.", "cog": false },
+        { "t": "três", "es": "tres", "pron": "tréis", "ej": "Nós somos três.", "ejes": "Nosotros somos tres.", "cog": true },
+        { "t": "quatro", "es": "cuatro", "pron": "kuátru", "ej": "Eles são quatro.", "ejes": "Ellos son cuatro.", "cog": true },
+        { "t": "cinco", "es": "cinco", "pron": "sínku", "ej": "Nós somos cinco.", "ejes": "Nosotros somos cinco.", "cog": true },
+        { "t": "seis", "es": "seis", "pron": "séis", "ej": "Elas são seis.", "ejes": "Ellas son seis.", "cog": true },
+        { "t": "sete", "es": "siete", "pron": "sétchi", "ej": "Nós somos sete.", "ejes": "Nosotros somos siete.", "cog": true, "truco": "La «te» final suena «tchi»: sétchi." },
+        { "t": "oito", "es": "ocho", "pron": "óitu", "ej": "Eles são oito.", "ejes": "Ellos son ocho.", "cog": false },
+        { "t": "nove", "es": "nueve", "pron": "nóvi", "ej": "Nós somos nove.", "ejes": "Nosotros somos nueve.", "cog": true },
+        { "t": "dez", "es": "diez", "pron": "dés", "ej": "Nós somos dez.", "ejes": "Nosotros somos diez.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Um, dois, três!", "es": "¡Uno, dos, tres!", "pron": "ún, dois, tréis" },
+        { "t": "Quatro, cinco, seis.", "es": "Cuatro, cinco, seis.", "pron": "kuátru, sínku, séis" },
+        { "t": "Sete, oito, nove, dez.", "es": "Siete, ocho, nueve, diez.", "pron": "sétchi, óitu, nóvi, dés" },
+        { "t": "Dois cafés, por favor.", "es": "Dos cafés, por favor.", "pron": "dois kafés, por favór" },
+        { "t": "Nós somos dez amigos.", "es": "Nosotros somos diez amigos.", "pron": "nós sómus dés amígus" }
+      ],
+      "dialogo": {
+        "titulo": "Contamos juntos",
+        "lineas": [
+          { "q": "A", "t": "Oi, Luís! Um, dois, três...", "es": "¡Hola, Luís! Uno, dos, tres..." },
+          { "q": "B", "t": "Quatro, cinco, seis!", "es": "¡Cuatro, cinco, seis!" },
+          { "q": "A", "t": "Sete, oito, nove...", "es": "Siete, ocho, nueve..." },
+          { "q": "B", "t": "Dez! Nós somos dez amigos!", "es": "¡Diez! ¡Somos diez amigos!" },
+          { "q": "A", "t": "Obrigada, Luís! Até logo!", "es": "¡Gracias, Luís! ¡Hasta luego!" }
+        ]
+      },
+      "nota": "El cero se dice «zero» (zéru) y lo verás en la próxima lección. Pronunciación: la «s» final suena como una «s» suave o «sh» según la región (dois = dois / doish)."
+    },
+    {
+      "id": "pt-a1-u2-l2",
+      "n": 2,
+      "titulo": "Números 11 a 20 y decenas hasta 100",
+      "objetivo": "Contar hasta 100 con las decenas y leer números de dos cifras.",
+      "intro": "Del 11 al 15 se parecen al español (onze, doze, treze, quinze). Para los números compuestos se usa «e»: vinte e um (21), trinta e cinco (35). Truco: el patrón es decena + e + unidad.",
+      "palabras": [
+        { "t": "zero", "es": "cero", "pron": "zéru", "ej": "Zero, um, dois.", "ejes": "Cero, uno, dos.", "cog": true },
+        { "t": "onze", "es": "once", "pron": "ónzi", "ej": "Nós somos onze.", "ejes": "Nosotros somos once.", "cog": true },
+        { "t": "doze", "es": "doce", "pron": "dózi", "ej": "Eles são doze.", "ejes": "Ellos son doce.", "cog": true },
+        { "t": "treze", "es": "trece", "pron": "trézi", "ej": "Elas são treze.", "ejes": "Ellas son trece.", "cog": true },
+        { "t": "quinze", "es": "quince", "pron": "kínzi", "ej": "Nós somos quinze.", "ejes": "Nosotros somos quince.", "cog": true },
+        { "t": "vinte", "es": "veinte", "pron": "vínchi", "ej": "Eles são vinte.", "ejes": "Ellos son veinte.", "cog": true },
+        { "t": "trinta", "es": "treinta", "pron": "trínta", "ej": "São trinta.", "ejes": "Son treinta.", "cog": true },
+        { "t": "cinquenta", "es": "cincuenta", "pron": "sinkuénta", "ej": "São cinquenta.", "ejes": "Son cincuenta.", "cog": true },
+        { "t": "noventa", "es": "noventa", "pron": "novénta", "ej": "São noventa.", "ejes": "Son noventa.", "cog": true },
+        { "t": "cem", "es": "cien", "pron": "séin", "ej": "Cem por cento!", "ejes": "¡Cien por ciento!", "cog": true, "truco": "«cem» es nasal: séin. Con «um» después: cento e um (101)." }
+      ],
+      "frases": [
+        { "t": "Quatorze, quinze, dezesseis.", "es": "Catorce, quince, dieciséis.", "pron": "katórzi, kínzi, desiséis" },
+        { "t": "Dezessete, dezoito, dezenove.", "es": "Diecisiete, dieciocho, diecinueve.", "pron": "desisétchi, dezóitu, dezenóvi" },
+        { "t": "Vinte e um, vinte e dois.", "es": "Veintiuno, veintidós.", "pron": "vínchi i ún, vínchi i dois" },
+        { "t": "Trinta e cinco.", "es": "Treinta y cinco.", "pron": "trínta i sínku" },
+        { "t": "Quarenta, sessenta, oitenta.", "es": "Cuarenta, sesenta, ochenta.", "pron": "kuarénta, sesénta, oiténta" },
+        { "t": "Cem por cento!", "es": "¡Cien por ciento!", "pron": "séin por séntu" }
+      ],
+      "dialogo": {
+        "titulo": "Contando de diez en diez",
+        "lineas": [
+          { "q": "A", "t": "Dez, vinte, trinta!", "es": "¡Diez, veinte, treinta!" },
+          { "q": "B", "t": "Quarenta, cinquenta, sessenta!", "es": "¡Cuarenta, cincuenta, sesenta!" },
+          { "q": "A", "t": "Setenta, oitenta, noventa!", "es": "¡Setenta, ochenta, noventa!" },
+          { "q": "B", "t": "Cem! Cem por cento!", "es": "¡Cien! ¡Cien por ciento!" },
+          { "q": "A", "t": "Muito obrigada, Paula!", "es": "¡Muchas gracias, Paula!" }
+        ]
+      },
+      "nota": "Las decenas que faltan: quarenta (40), sessenta (60), setenta (70), oitenta (80). 14 = quatorze (también se oye catorze); 16 = dezesseis; 17 = dezessete; 18 = dezoito; 19 = dezenove. Pronunciación: la «z» entre vocales suena «z» sonora (doze = dózi)."
+    },
+    {
+      "id": "pt-a1-u2-l3",
+      "n": 3,
+      "titulo": "La edad y el teléfono",
+      "objetivo": "Decir tu edad con ter y dar o pedir un número de teléfono.",
+      "intro": "Aquí SÍ se usa «tener» como en español: Eu tenho 25 anos. Para el teléfono usarás «Qual é o seu telefone?». Truco: «o/a» antes de «seu/sua» es un artículo; por ahora apréndelo como parte de la frase.",
+      "palabras": [
+        { "t": "tenho", "es": "tengo", "pron": "téñu", "ej": "Eu tenho vinte anos.", "ejes": "Yo tengo veinte años.", "cog": false, "truco": "«nh» = ñ: tenho = téñu." },
+        { "t": "tem", "es": "tiene / tienes (con você)", "pron": "téin", "ej": "Ana tem trinta anos.", "ejes": "Ana tiene treinta años.", "cog": false },
+        { "t": "temos", "es": "tenemos", "pron": "témus", "ej": "Nós temos vinte anos.", "ejes": "Nosotros tenemos veinte años.", "cog": true },
+        { "t": "anos", "es": "años", "pron": "ánus", "ej": "Eu tenho quinze anos.", "ejes": "Yo tengo quince años.", "cog": true },
+        { "t": "idade", "es": "edad", "pron": "idádyi", "ej": "Qual é a sua idade?", "ejes": "¿Cuál es tu edad?", "cog": false },
+        { "t": "telefone", "es": "teléfono", "pron": "telefóni", "ej": "Meu telefone é nove, oito, sete.", "ejes": "Mi teléfono es nueve, ocho, siete.", "cog": true },
+        { "t": "número", "es": "número", "pron": "númeru", "ej": "Meu número é cinco.", "ejes": "Mi número es cinco.", "cog": true },
+        { "t": "quantos", "es": "cuántos", "pron": "kuántus", "ej": "Quantos anos você tem?", "ejes": "¿Cuántos años tienes?", "cog": true },
+        { "t": "qual", "es": "cuál", "pron": "kuáu", "ej": "Qual é o seu telefone?", "ejes": "¿Cuál es tu teléfono?", "cog": true, "truco": "La «l» final suena «u»: qual = kuáu." },
+        { "t": "seu", "es": "tu / su", "pron": "séu", "ej": "Qual é o seu número?", "ejes": "¿Cuál es tu número?", "cog": false, "truco": "Para algo femenino: sua (la sua idade)." }
+      ],
+      "frases": [
+        { "t": "Quantos anos você tem?", "es": "¿Cuántos años tienes?", "pron": "kuántus ánus vosé téin" },
+        { "t": "Eu tenho vinte e cinco anos.", "es": "Yo tengo veinticinco años.", "pron": "éu téñu vínchi i sínku ánus" },
+        { "t": "Qual é o seu telefone?", "es": "¿Cuál es tu teléfono?", "pron": "kuáu é u séu telefóni" },
+        { "t": "Meu telefone é nove, oito, sete.", "es": "Mi teléfono es nueve, ocho, siete.", "pron": "méu telefóni é nóvi, óitu, sétchi" },
+        { "t": "Ele tem trinta anos.", "es": "Él tiene treinta años.", "pron": "éli téin trínta ánus" },
+        { "t": "Ana e Paula têm vinte anos.", "es": "Ana y Paula tienen veinte años.", "pron": "ána i páula téin vínchi ánus" }
+      ],
+      "dialogo": {
+        "titulo": "Edad y teléfono",
+        "lineas": [
+          { "q": "A", "t": "Oi, Carlos! Quantos anos você tem?", "es": "¡Hola, Carlos! ¿Cuántos años tienes?" },
+          { "q": "B", "t": "Eu tenho trinta anos. E você?", "es": "Tengo treinta años. ¿Y tú?" },
+          { "q": "A", "t": "Eu tenho vinte e cinco anos.", "es": "Tengo veinticinco años." },
+          { "q": "B", "t": "Qual é o seu telefone?", "es": "¿Cuál es tu teléfono?" },
+          { "q": "A", "t": "Meu telefone é nove, oito, sete, seis, cinco.", "es": "Mi teléfono es nueve, ocho, siete, seis, cinco." },
+          { "q": "B", "t": "Obrigado, Ana! Até logo!", "es": "¡Gracias, Ana! ¡Hasta luego!" }
+        ]
+      },
+      "nota": "Con «seu/sua» se suele usar «o/a» delante: o seu telefone, a sua idade. En Brasil también se oye «Qual é seu telefone?». Los números de teléfono se dicen dígito por dígito o en parejas."
+    },
+    {
+      "id": "pt-a1-u2-l4",
+      "n": 4,
+      "titulo": "Datos personales",
+      "objetivo": "Dar y pedir apellido, dirección, correo, ciudad y profesión.",
+      "intro": "Con lo que ya sabes (Qual é o seu...? Meu... é...) puedes dar casi cualquier dato. Truco: muchas profesiones son cognados: professor, médico, engenheiro. Para mujer cambia -o por -a: médica, professora.",
+      "palabras": [
+        { "t": "sobrenome", "es": "apellido", "pron": "sobrenómi", "ej": "Meu sobrenome é Silva.", "ejes": "Mi apellido es Silva.", "cog": false, "truco": "«sobre» + «nome»: el nombre de «sobre» el nombre." },
+        { "t": "endereço", "es": "dirección (de domicilio)", "pron": "enderésu", "ej": "Qual é o seu endereço?", "ejes": "¿Cuál es tu dirección?", "cog": false, "truco": "La «ç» suena «s»: endereço = enderésu." },
+        { "t": "e-mail", "es": "correo electrónico", "pron": "iméiu", "ej": "Qual é o seu e-mail?", "ejes": "¿Cuál es tu correo electrónico?", "cog": true },
+        { "t": "cidade", "es": "ciudad", "pron": "sidádyi", "ej": "Eu sou da cidade de Lima.", "ejes": "Yo soy de la ciudad de Lima.", "cog": true },
+        { "t": "profissão", "es": "profesión", "pron": "profisáun", "ej": "Qual é a sua profissão?", "ejes": "¿Cuál es tu profesión?", "cog": true, "truco": "Los cognados en -ión del español terminan en -ão en portugués." },
+        { "t": "estudante", "es": "estudiante", "pron": "estudánchi", "ej": "Eu sou estudante.", "ejes": "Yo soy estudiante.", "cog": true },
+        { "t": "professor", "es": "profesor", "pron": "profesór", "ej": "Luís é professor.", "ejes": "Luís es profesor.", "cog": true, "truco": "Mujer: professora." },
+        { "t": "médico", "es": "médico", "pron": "médyiku", "ej": "Meu amigo é médico.", "ejes": "Mi amigo es médico.", "cog": true, "truco": "Mujer: médica." },
+        { "t": "engenheiro", "es": "ingeniero", "pron": "enjeñéiru", "ej": "Carlos é engenheiro.", "ejes": "Carlos es ingeniero.", "cog": true, "truco": "Mujer: engenheira." },
+        { "t": "advogado", "es": "abogado", "pron": "adyivogádu", "ej": "Meu amigo é advogado.", "ejes": "Mi amigo es abogado.", "cog": true, "truco": "Mujer: advogada." }
+      ],
+      "frases": [
+        { "t": "Qual é o seu sobrenome?", "es": "¿Cuál es tu apellido?", "pron": "kuáu é u séu sobrenómi" },
+        { "t": "Meu sobrenome é Silva.", "es": "Mi apellido es Silva.", "pron": "méu sobrenómi é sílva" },
+        { "t": "Qual é a sua profissão?", "es": "¿Cuál es tu profesión?", "pron": "kuáu é a súa profisáun" },
+        { "t": "Eu sou engenheira.", "es": "Yo soy ingeniera.", "pron": "éu sou enjeñéira" },
+        { "t": "Ela é professora.", "es": "Ella es profesora.", "pron": "éla é profesóra" },
+        { "t": "Qual é o seu endereço?", "es": "¿Cuál es tu dirección?", "pron": "kuáu é u séu enderésu" }
+      ],
+      "dialogo": {
+        "titulo": "Una ficha de datos",
+        "lineas": [
+          { "q": "A", "t": "Qual é o seu nome?", "es": "¿Cuál es tu nombre?" },
+          { "q": "B", "t": "Meu nome é João Pereira.", "es": "Mi nombre es João Pereira." },
+          { "q": "A", "t": "Qual é a sua profissão?", "es": "¿Cuál es tu profesión?" },
+          { "q": "B", "t": "Eu sou médico. E você?", "es": "Yo soy médico. ¿Y tú?" },
+          { "q": "A", "t": "Eu sou estudante. Obrigada!", "es": "Yo soy estudiante. ¡Gracias!" }
+        ]
+      },
+      "nota": "No digas «direção» para tu dirección de casa: «direção» significa dirección de un movimiento o la dirección de una empresa; para tu domicilio usa «endereço». «Estudante» sirve para hombre y mujer."
+    },
+    {
+      "id": "pt-a1-u2-l5",
+      "n": 5,
+      "titulo": "El alfabeto y deletrear",
+      "objetivo": "Deletrear nombres y pedir que te repitan algo, y repasar la unidad.",
+      "intro": "Deletrear es muy útil por teléfono o en un formulario. Truco: aprende el alfabeto en dos o tres tandas. Y con «Pode repetir?» puedes pedir ayuda cuando no entiendes.",
+      "palabras": [
+        { "t": "alfabeto", "es": "alfabeto", "pron": "alfabétu", "ej": "", "ejes": "", "cog": true },
+        { "t": "letra", "es": "letra", "pron": "létra", "ej": "A letra A.", "ejes": "La letra A.", "cog": true },
+        { "t": "soletrar", "es": "deletrear", "pron": "soletrár", "ej": "Pode soletrar seu sobrenome?", "ejes": "¿Puede deletrear su apellido?", "cog": false },
+        { "t": "escrever", "es": "escribir", "pron": "eskrevér", "ej": "Pode escrever seu nome?", "ejes": "¿Puede escribir su nombre?", "cog": true },
+        { "t": "repetir", "es": "repetir", "pron": "repetchír", "ej": "Você pode repetir?", "ejes": "¿Puedes repetir?", "cog": true },
+        { "t": "devagar", "es": "despacio", "pron": "dyivagár", "ej": "Devagar, por favor.", "ejes": "Despacio, por favor.", "cog": false },
+        { "t": "de novo", "es": "de nuevo", "pron": "dyi nóvu", "ej": "Pode soletrar de novo, por favor?", "ejes": "¿Puede deletrear de nuevo, por favor?", "cog": true },
+        { "t": "pode", "es": "puede / puedes", "pron": "pódi", "ej": "Pode repetir, por favor?", "ejes": "¿Puede repetir, por favor?", "cog": false },
+        { "t": "mais", "es": "más", "pron": "máis", "ej": "Mais devagar, por favor.", "ejes": "Más despacio, por favor.", "cog": false, "truco": "«mais» = más. No lo confundas con «mas» (pero)." }
+      ],
+      "frases": [
+        { "t": "Como se escreve?", "es": "¿Cómo se escribe?", "pron": "kómu si eskréve" },
+        { "t": "Pode repetir, por favor?", "es": "¿Puede repetir, por favor?", "pron": "pódi repetchír, por favór" },
+        { "t": "Mais devagar, por favor.", "es": "Más despacio, por favor.", "pron": "máis dyivagár, por favór" },
+        { "t": "Como se escreve seu sobrenome?", "es": "¿Cómo se escribe su apellido?", "pron": "kómu si eskréve séu sobrenómi" },
+        { "t": "Pode soletrar, por favor?", "es": "¿Puede deletrear, por favor?", "pron": "pódi soletrár, por favór" },
+        { "t": "Meu telefone é cinco, quatro, três, dois.", "es": "Mi teléfono es cinco, cuatro, tres, dos.", "pron": "méu telefóni é sínku, kuátru, tréis, dois" }
+      ],
+      "dialogo": {
+        "titulo": "Deletreamos un apellido",
+        "lineas": [
+          { "q": "A", "t": "Qual é o seu nome?", "es": "¿Cuál es tu nombre?" },
+          { "q": "B", "t": "Meu nome é Paula Souza.", "es": "Mi nombre es Paula Souza." },
+          { "q": "A", "t": "Como se escreve Souza?", "es": "¿Cómo se escribe Souza?" },
+          { "q": "B", "t": "S-O-U-Z-A.", "es": "S-O-U-Z-A." },
+          { "q": "A", "t": "Pode repetir mais devagar, por favor?", "es": "¿Puede repetir más despacio, por favor?" },
+          { "q": "B", "t": "Sim! S-O-U-Z-A. Obrigada!", "es": "¡Sí! S-O-U-Z-A. ¡Gracias!" }
+        ]
+      },
+      "nota": "Alfabeto: A (á), B (bê), C (cê), D (dê), E (ê), F (éfi), G (gê), H (agá), I (i), J (jóta), K (cá), L (éli), M (émi), N (éni), O (ó), P (pê), Q (quê), R (érre), S (ési), T (tê), U (u), V (vê), W (dáblio), X (xis), Y (ípsilon), Z (zê). La «j» suena como una «y» fuerte (como en «yo» argentino), nunca como la «j» española."
+    }
+  ]
+}

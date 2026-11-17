@@ -1,0 +1,231 @@
+{
+  "id": "pt-a1-u3",
+  "idioma": "pt",
+  "nivel": "A1",
+  "n": 3,
+  "titulo": "En el café",
+  "resumen": "Aprenderás a pedir bebidas y comida, preguntar precios, pagar y decir lo que te gusta, usando los artículos en portugués.",
+  "puedo": [
+    "Pedir una bebida o una comida en un café.",
+    "Usar los artículos o, a, os, as, um y uma.",
+    "Preguntar cuánto cuesta algo y entender el precio en reales.",
+    "Pedir la cuenta y elegir cómo pagar.",
+    "Decir lo que me gusta y lo que no me gusta."
+  ],
+  "gramatica": {
+    "titulo": "Los artículos (o, a, um, uma) y Eu quero / Eu gosto de",
+    "texto": "Un artículo es la palabra pequeña que va delante del sustantivo: «el café», «una sopa». En portugués hay dos tipos.\nDefinidos (el/la/los/las): o café, a água, os cafés, as frutas. Indefinidos (un/una): um café, uma água.\nLa regla es sencilla: las palabras en -o suelen ser masculinas (o bolo) y las en -a femeninas (a sopa). El plural se forma agregando -s: os bolos, as sopas.\nOjo: «água» es femenina en portugués (a água, uma água), no existe «el agua».\nPara pedir usa «Eu quero + um/uma...» (Yo quiero...). Para gustos: «Eu gosto de + sustantivo» (Me gusta...): Eu gosto de café. «Gosto» siempre lleva «de».",
+    "tabla": [
+      ["o café / os cafés", "el café / los cafés", "u kafé / us kafés"],
+      ["a sopa / as sopas", "la sopa / las sopas", "a sópa / as sópas"],
+      ["um suco", "un jugo", "ún súku"],
+      ["uma água", "una agua", "úma água"],
+      ["Eu quero um chá.", "Yo quiero un té.", "éu kéru ún shá"],
+      ["Eu gosto de bolo.", "Me gusta el pastel.", "éu góstu dyi bólu"]
+    ],
+    "errores": [
+      "No digas «el agua»: en portugués es «a água» (femenino) y «uma água».",
+      "Con «gosto» siempre va «de»: «Eu gosto de café», no «Eu gosto café».",
+      "«O» y «a» sueltos suenan «u» y «a»: «o café» = «u kafé»; no pronuncies «o» como en español."
+    ]
+  },
+  "practica": [
+    "Mira tu cocina o una carta de café y di en voz alta 10 cosas con su artículo: «o café, a sopa...» (5 minutos).",
+    "Simula en voz alta un pedido completo: «Eu queria um café e um pão de queijo, por favor» (3 minutos).",
+    "Escribe 5 frases con «Eu gosto de...» y 5 con «Eu não gosto de...» sobre comidas y bebidas (5 minutos).",
+    "Busca en YouTube «pedindo em uma cafeteria em português» y repite las frases del cliente (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-a1-u3-l1",
+      "n": 1,
+      "titulo": "Bebidas",
+      "objetivo": "Nombrar las bebidas más comunes y pedir una con «Eu quero».",
+      "intro": "En un café de Brasil lo primero que pides es una bebida. Truco: «café» es igual que en español; «chá» es el té y «suco» es el jugo. Recuerda: «água» es femenino (uma água).",
+      "palabras": [
+        { "t": "café", "es": "café", "pron": "kafé", "ej": "Eu quero um café.", "ejes": "Yo quiero un café.", "cog": true },
+        { "t": "chá", "es": "té", "pron": "shá", "ej": "Eu quero um chá.", "ejes": "Yo quiero un té.", "cog": false, "truco": "«ch» suena «sh»: chá = shá." },
+        { "t": "água", "es": "agua", "pron": "água", "ej": "Eu quero uma água.", "ejes": "Yo quiero un agua.", "cog": true, "truco": "Es femenina: uma água, a água." },
+        { "t": "suco", "es": "jugo (de fruta)", "pron": "súku", "ej": "Eu quero um suco.", "ejes": "Yo quiero un jugo.", "cog": false },
+        { "t": "leite", "es": "leche", "pron": "léichi", "ej": "Eu quero leite.", "ejes": "Yo quiero leche.", "cog": false, "truco": "«te» al final suena «chi»: leite = léichi." },
+        { "t": "refrigerante", "es": "gaseosa", "pron": "refrijeránchi", "ej": "Eu quero um refrigerante.", "ejes": "Yo quiero una gaseosa.", "cog": true },
+        { "t": "cerveja", "es": "cerveza", "pron": "servéya", "ej": "Eu quero uma cerveja.", "ejes": "Yo quiero una cerveza.", "cog": false, "truco": "«j» suena como «y» fuerte: servéya." },
+        { "t": "quero", "es": "quiero", "pron": "kéru", "ej": "Eu quero um chá, por favor.", "ejes": "Quiero un té, por favor.", "cog": false },
+        { "t": "um", "es": "un (masculino)", "pron": "ún", "ej": "Eu quero um suco.", "ejes": "Yo quiero un jugo.", "cog": true },
+        { "t": "uma", "es": "una (femenino)", "pron": "úma", "ej": "Eu quero uma cerveja.", "ejes": "Yo quiero una cerveza.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu quero um café.", "es": "Yo quiero un café.", "pron": "éu kéru ún kafé" },
+        { "t": "Eu quero uma água, por favor.", "es": "Quiero un agua, por favor.", "pron": "éu kéru úma água, por favór" },
+        { "t": "O café e o chá.", "es": "El café y el té.", "pron": "u kafé i u shá" },
+        { "t": "Eu quero um café e um suco.", "es": "Quiero un café y un jugo.", "pron": "éu kéru ún kafé i ún súku" },
+        { "t": "Uma água e um refrigerante, por favor.", "es": "Un agua y una gaseosa, por favor.", "pron": "úma água i ún refrijeránchi, por favór" }
+      ],
+      "dialogo": {
+        "titulo": "Pedimos bebidas",
+        "lineas": [
+          { "q": "A", "t": "Boa tarde, Paula! Eu quero um café.", "es": "¡Buenas tardes, Paula! Yo quiero un café." },
+          { "q": "B", "t": "Eu quero um chá, por favor.", "es": "Yo quiero un té, por favor." },
+          { "q": "A", "t": "Um café e um chá. E uma água?", "es": "Un café y un té. ¿Y un agua?" },
+          { "q": "B", "t": "Sim, uma água também. Obrigada!", "es": "Sí, un agua también. ¡Gracias!" },
+          { "q": "A", "t": "De nada!", "es": "¡De nada!" }
+        ]
+      },
+      "nota": "Falso amigo suave: «suco» es el jugo de fruta natural. En Brasil el «café» es fuerte y pequeño, y «café com leite» es café con leche. Además, «refrigerante» es toda gaseosa, no un refrigerio."
+    },
+    {
+      "id": "pt-a1-u3-l2",
+      "n": 2,
+      "titulo": "Comidas",
+      "objetivo": "Nombrar comidas comunes de un café y pedirlas con un/uma.",
+      "intro": "La comida en un café brasileño incluye el famoso pão de queijo. Truco: «pão» (pan) es nasal, suena «páun». Y su plural es irregular: pães.",
+      "palabras": [
+        { "t": "sanduíche", "es": "sándwich", "pron": "sanduíshi", "ej": "Eu quero um sanduíche.", "ejes": "Yo quiero un sándwich.", "cog": true },
+        { "t": "bolo", "es": "pastel / torta", "pron": "bólu", "ej": "Eu quero um bolo.", "ejes": "Yo quiero un pastel.", "cog": false },
+        { "t": "pão", "es": "pan", "pron": "páun", "ej": "Eu quero um pão, por favor.", "ejes": "Quiero un pan, por favor.", "cog": false, "truco": "«ão» es nasal: páun. Plural: pães (páins)." },
+        { "t": "ovos", "es": "huevos", "pron": "óvus", "ej": "Eu quero dois ovos.", "ejes": "Quiero dos huevos.", "cog": false, "truco": "Singular: o ovo. Plural: os ovos." },
+        { "t": "salada", "es": "ensalada", "pron": "saláda", "ej": "Eu quero uma salada.", "ejes": "Quiero una ensalada.", "cog": true },
+        { "t": "sopa", "es": "sopa", "pron": "sópa", "ej": "Uma sopa, por favor.", "ejes": "Una sopa, por favor.", "cog": true },
+        { "t": "fruta", "es": "fruta", "pron": "frúta", "ej": "Eu quero uma fruta.", "ejes": "Quiero una fruta.", "cog": true },
+        { "t": "queijo", "es": "queso", "pron": "kéiyu", "ej": "Eu quero queijo.", "ejes": "Quiero queso.", "cog": false, "truco": "«j» = «y» fuerte: kéiyu." },
+        { "t": "pão de queijo", "es": "pan de queso (bolita típica brasileña)", "pron": "páun dyi kéiyu", "ej": "Um pão de queijo, por favor.", "ejes": "Un pan de queso, por favor.", "cog": false },
+        { "t": "presunto", "es": "jamón", "pron": "prezúntu", "ej": "Um sanduíche de presunto.", "ejes": "Un sándwich de jamón.", "cog": false, "truco": "No es «presunto» en español (supuesto): aquí es el jamón." }
+      ],
+      "frases": [
+        { "t": "Eu quero um sanduíche e uma fruta.", "es": "Quiero un sándwich y una fruta.", "pron": "éu kéru ún sanduíshi i úma frúta" },
+        { "t": "Eu quero dois pães de queijo.", "es": "Quiero dos panes de queso.", "pron": "éu kéru dois páins dyi kéiyu" },
+        { "t": "Um bolo e um café, por favor.", "es": "Un pastel y un café, por favor.", "pron": "ún bólu i ún kafé, por favór" },
+        { "t": "O pão de queijo é do Brasil.", "es": "El pan de queso es de Brasil.", "pron": "u páun dyi kéiyu é du brasíu" },
+        { "t": "A salada e a sopa.", "es": "La ensalada y la sopa.", "pron": "a saláda i a sópa" },
+        { "t": "Eu quero ovos e pão.", "es": "Quiero huevos y pan.", "pron": "éu kéru óvus i páun" }
+      ],
+      "dialogo": {
+        "titulo": "Pedimos algo de comer",
+        "lineas": [
+          { "q": "A", "t": "Oi, Maria! Eu quero um sanduíche de presunto.", "es": "¡Hola, Maria! Quiero un sándwich de jamón." },
+          { "q": "B", "t": "Eu quero uma salada e um pão de queijo.", "es": "Yo quiero una ensalada y un pan de queso." },
+          { "q": "A", "t": "O pão de queijo é do Brasil?", "es": "¿El pan de queso es de Brasil?" },
+          { "q": "B", "t": "Sim! É do Brasil.", "es": "¡Sí! Es de Brasil." },
+          { "q": "A", "t": "Eu também quero um pão de queijo!", "es": "¡Yo también quiero un pan de queso!" }
+        ]
+      },
+      "nota": "Pronunciación: «ão» (pão) es nasal y «qu» antes de e/i suena «k» (queijo = kéiyu, la «u» no se oye). Falso amigo: «presunto» es jamón, no «presunto» (supuesto). Para la torta de cumpleaños se dice «bolo»."
+    },
+    {
+      "id": "pt-a1-u3-l3",
+      "n": 3,
+      "titulo": "Pedir",
+      "objetivo": "Pedir con cortesía y entender lo que dice el mozo.",
+      "intro": "Para pedir con más cortesía se usa «Eu queria...» (Quisiera...) o «Pode me dar...?» (¿Me puede dar...?). Truco: «queria» suena más amable que «quero», como «quisiera» en español.",
+      "palabras": [
+        { "t": "queria", "es": "quisiera", "pron": "kería", "ej": "Eu queria um café, por favor.", "ejes": "Quisiera un café, por favor.", "cog": false },
+        { "t": "pode", "es": "puede / puedes", "pron": "pódi", "ej": "Pode me dar uma água?", "ejes": "¿Me puede dar un agua?", "cog": false },
+        { "t": "me", "es": "me", "pron": "mi", "ej": "Pode me dar um bolo?", "ejes": "¿Me puede dar un pastel?", "cog": true, "truco": "«me» suena «mi»." },
+        { "t": "dar", "es": "dar", "pron": "dár", "ej": "Pode me dar um suco?", "ejes": "¿Me puede dar un jugo?", "cog": true },
+        { "t": "aqui", "es": "aquí", "pron": "akí", "ej": "Para comer aqui, por favor.", "ejes": "Para comer aquí, por favor.", "cog": true },
+        { "t": "está", "es": "está", "pron": "está", "ej": "Aqui está o seu café.", "ejes": "Aquí está su café.", "cog": true, "truco": "En «Aqui está» es una frase hecha: «aquí tiene»." },
+        { "t": "alguma coisa", "es": "alguna cosa / algo", "pron": "algúma kóiza", "ej": "Mais alguma coisa?", "ejes": "¿Algo más?", "cog": false },
+        { "t": "comer", "es": "comer", "pron": "komér", "ej": "Para comer aqui ou levar?", "ejes": "¿Para comer aquí o para llevar?", "cog": true },
+        { "t": "levar", "es": "llevar", "pron": "levár", "ej": "Para levar, por favor.", "ejes": "Para llevar, por favor.", "cog": true },
+        { "t": "garçom", "es": "mozo / mesero", "pron": "garsón", "ej": "Garçom, uma água, por favor!", "ejes": "¡Mozo, un agua, por favor!", "cog": false, "truco": "La «ç» suena «s»: garsón. Mujer: garçonete." }
+      ],
+      "frases": [
+        { "t": "Eu queria um café, por favor.", "es": "Quisiera un café, por favor.", "pron": "éu kería ún kafé, por favór" },
+        { "t": "Pode me dar uma água?", "es": "¿Me puede dar un agua?", "pron": "pódi mi dár úma água" },
+        { "t": "Aqui está!", "es": "¡Aquí tiene!", "pron": "akí está" },
+        { "t": "Mais alguma coisa?", "es": "¿Algo más?", "pron": "máis algúma kóiza" },
+        { "t": "Para comer aqui ou levar?", "es": "¿Para comer aquí o para llevar?", "pron": "pára komér akí ou levár" },
+        { "t": "Não, obrigado.", "es": "No, gracias.", "pron": "náun, obrigádu" }
+      ],
+      "dialogo": {
+        "titulo": "En el mostrador",
+        "lineas": [
+          { "q": "A", "t": "Boa tarde! Eu queria um café, por favor.", "es": "¡Buenas tardes! Quisiera un café, por favor." },
+          { "q": "B", "t": "Um café. Mais alguma coisa?", "es": "Un café. ¿Algo más?" },
+          { "q": "A", "t": "Sim, um pão de queijo.", "es": "Sí, un pan de queso." },
+          { "q": "B", "t": "Para comer aqui ou levar?", "es": "¿Para comer aquí o para llevar?" },
+          { "q": "A", "t": "Para comer aqui. Obrigada!", "es": "Para comer aquí. ¡Gracias!" },
+          { "q": "B", "t": "Aqui está! De nada!", "es": "¡Aquí tiene! ¡De nada!" }
+        ]
+      },
+      "nota": "Cuidado: «aqui está» no usa «estar» como en «estoy»; en el café significa «aquí tiene». Y «queria» (imperfecto) se usa como cortesía, no como «yo quería» del pasado. «Garçom» es la palabra común para el mozo; en el café también se dice «atendente»."
+    },
+    {
+      "id": "pt-a1-u3-l4",
+      "n": 4,
+      "titulo": "¿Cuánto cuesta?",
+      "objetivo": "Preguntar precios, entender cantidades en reales y pagar.",
+      "intro": "La moneda de Brasil es el real (plural: reais). Para precios usas los números que ya sabes. Truco: singular «É um real», plural «São dois reais».",
+      "palabras": [
+        { "t": "quanto", "es": "cuánto", "pron": "kuántu", "ej": "Quanto custa o café?", "ejes": "¿Cuánto cuesta el café?", "cog": true },
+        { "t": "custa", "es": "cuesta", "pron": "kústa", "ej": "O pão custa dois reais.", "ejes": "El pan cuesta dos reales.", "cog": true },
+        { "t": "real", "es": "real (moneda de Brasil)", "pron": "rreáu", "ej": "É um real.", "ejes": "Es un real.", "cog": true, "truco": "La «l» final suena «u»: real = rreáu." },
+        { "t": "reais", "es": "reales (plural)", "pron": "rreáis", "ej": "São cinco reais.", "ejes": "Son cinco reales.", "cog": false, "truco": "Plural irregular: real, reais." },
+        { "t": "conta", "es": "cuenta", "pron": "kónta", "ej": "A conta, por favor.", "ejes": "La cuenta, por favor.", "cog": true },
+        { "t": "dinheiro", "es": "dinero / efectivo", "pron": "dyiñéiru", "ej": "Eu tenho dinheiro.", "ejes": "Tengo dinero.", "cog": false, "truco": "«nh» = ñ: dyiñéiru." },
+        { "t": "cartão", "es": "tarjeta", "pron": "kartáun", "ej": "Você tem cartão?", "ejes": "¿Tienes tarjeta?", "cog": true },
+        { "t": "barato", "es": "barato", "pron": "barátu", "ej": "O café é barato.", "ejes": "El café es barato.", "cog": true },
+        { "t": "caro", "es": "caro", "pron": "káru", "ej": "O sanduíche é caro.", "ejes": "El sándwich es caro.", "cog": true },
+        { "t": "pagar", "es": "pagar", "pron": "pagár", "ej": "Eu quero pagar, por favor.", "ejes": "Quiero pagar, por favor.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Quanto custa o sanduíche?", "es": "¿Cuánto cuesta el sándwich?", "pron": "kuántu kústa u sanduíshi" },
+        { "t": "O sanduíche custa doze reais.", "es": "El sándwich cuesta doce reales.", "pron": "u sanduíshi kústa dózi rreáis" },
+        { "t": "São vinte e cinco reais.", "es": "Son veinticinco reales.", "pron": "sáun vínchi i sínku rreáis" },
+        { "t": "A conta, por favor.", "es": "La cuenta, por favor.", "pron": "a kónta, por favór" },
+        { "t": "Dinheiro ou cartão?", "es": "¿Efectivo o tarjeta?", "pron": "dyiñéiru ou kartáun" },
+        { "t": "Eu quero pagar com cartão.", "es": "Quiero pagar con tarjeta.", "pron": "éu kéru pagár kon kartáun" }
+      ],
+      "dialogo": {
+        "titulo": "Pagamos la cuenta",
+        "lineas": [
+          { "q": "A", "t": "Quanto custa o café?", "es": "¿Cuánto cuesta el café?" },
+          { "q": "B", "t": "O café custa quatro reais.", "es": "El café cuesta cuatro reales." },
+          { "q": "A", "t": "E o pão de queijo?", "es": "¿Y el pan de queso?" },
+          { "q": "B", "t": "Custa cinco reais. São nove reais.", "es": "Cuesta cinco reales. Son nueve reales." },
+          { "q": "A", "t": "Eu quero pagar com cartão.", "es": "Quiero pagar con tarjeta." },
+          { "q": "B", "t": "Aqui está! Obrigado!", "es": "¡Aquí tiene! ¡Gracias!" }
+        ]
+      },
+      "nota": "Los centavos se dicen con «e»: 4,50 = quatro reais e cinquenta. Los precios hasta 100 usan los números de la unidad 2: vinte e cinco, trinta e nove, noventa e nove, cem. «Com» es «con»: com cartão = con tarjeta."
+    },
+    {
+      "id": "pt-a1-u3-l5",
+      "n": 5,
+      "titulo": "Gustos y repaso",
+      "objetivo": "Decir lo que te gusta y repasar todo lo aprendido en el café.",
+      "intro": "«Gostar de» es el verbo del gusto: Eu gosto de café, Eu não gosto de cerveja. Truco: siempre lleva «de» después. Para ofrecer, el mozo pregunta: «O que você gostaria?».",
+      "palabras": [
+        { "t": "gosto", "es": "me gusta", "pron": "góstu", "ej": "Eu gosto de café.", "ejes": "Me gusta el café.", "cog": false, "truco": "Siempre con «de»: gosto de + sustantivo." },
+        { "t": "gosta", "es": "le gusta / te gusta", "pron": "gósta", "ej": "Ana gosta de chá.", "ejes": "A Ana le gusta el té.", "cog": false },
+        { "t": "gostaria", "es": "le gustaría / quisiera", "pron": "gostaría", "ej": "Eu gostaria de um suco.", "ejes": "Me gustaría un jugo.", "cog": false },
+        { "t": "o que", "es": "qué", "pron": "u ke", "ej": "O que você gostaria?", "ejes": "¿Qué quisiera?", "cog": false },
+        { "t": "muito", "es": "mucho / muy", "pron": "múintu", "ej": "Eu gosto muito de pão de queijo.", "ejes": "Me gusta mucho el pan de queso.", "cog": false, "truco": "«ui» nasal: múintu." },
+        { "t": "delicioso", "es": "delicioso", "pron": "delisiózu", "ej": "O bolo é delicioso.", "ejes": "El pastel es delicioso.", "cog": true },
+        { "t": "doce", "es": "dulce", "pron": "dósi", "ej": "O suco é doce.", "ejes": "El jugo es dulce.", "cog": true },
+        { "t": "quente", "es": "caliente", "pron": "kénchi", "ej": "O chá é quente.", "ejes": "El té es caliente.", "cog": false },
+        { "t": "frio", "es": "frío", "pron": "fríu", "ej": "O suco é frio.", "ejes": "El jugo es frío.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu gosto de café.", "es": "Me gusta el café.", "pron": "éu góstu dyi kafé" },
+        { "t": "Eu não gosto de cerveja.", "es": "No me gusta la cerveza.", "pron": "éu náun góstu dyi servéya" },
+        { "t": "Ana gosta de chá quente.", "es": "A Ana le gusta el té caliente.", "pron": "ána gósta dyi shá kénchi" },
+        { "t": "O que você gostaria?", "es": "¿Qué le gustaría?", "pron": "u ke vosé gostaría" },
+        { "t": "Eu gosto muito de pão de queijo.", "es": "Me gusta mucho el pan de queso.", "pron": "éu góstu múintu dyi páun dyi kéiyu" },
+        { "t": "Eu gostaria de uma sopa.", "es": "Me gustaría una sopa.", "pron": "éu gostaría dyi úma sópa" }
+      ],
+      "dialogo": {
+        "titulo": "Pedimos y pagamos",
+        "lineas": [
+          { "q": "A", "t": "Boa tarde! O que você gostaria?", "es": "¡Buenas tardes! ¿Qué quisiera?" },
+          { "q": "B", "t": "Eu gostaria de um café e um bolo.", "es": "Quisiera un café y un pastel." },
+          { "q": "A", "t": "Aqui está! Mais alguma coisa?", "es": "¡Aquí tiene! ¿Algo más?" },
+          { "q": "B", "t": "Não, obrigado. Eu gosto muito de bolo!", "es": "No, gracias. ¡Me gusta mucho el pastel!" },
+          { "q": "A", "t": "São nove reais. Dinheiro ou cartão?", "es": "Son nueve reales. ¿Efectivo o tarjeta?" },
+          { "q": "B", "t": "Cartão, por favor.", "es": "Tarjeta, por favor." }
+        ]
+      },
+      "nota": "Para decir «me gusta el café» en general, di «Eu gosto de café». Con artículo cambia a «Eu gosto do café» (de + o = do), que ya habla de un café concreto. Falso amigo: «gostoso» NO es «gustoso» sino «sabroso»."
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "id": "pt-a1-u1",
+  "idioma": "pt",
+  "nivel": "A1",
+  "n": 1,
+  "titulo": "Saludos y presentaciones",
+  "resumen": "Aprenderás a saludar, despedirte, decir tu nombre y de dónde eres, y a usar el verbo ser en portugués de Brasil.",
+  "puedo": [
+    "Saludar y despedirme según la hora del día.",
+    "Dar las gracias y pedir disculpas con educación.",
+    "Decir mi nombre y preguntar el de otra persona.",
+    "Decir de qué país soy y preguntar de dónde es alguien.",
+    "Usar el verbo ser con eu, você, ele, ela, nós y eles."
+  ],
+  "gramatica": {
+    "titulo": "El verbo ser (sou, é, somos, são)",
+    "texto": "El verbo «ser» sirve, igual que en español, para decir quién eres, de dónde eres y qué eres: Eu sou Ana (Yo soy Ana).\nEn Brasil, para decir «tú» se usa «você» y el verbo va como con «ele/ela»: você é. «Tu» existe, pero solo en algunas regiones (y suele decirse «tu é»). Para ti, empieza siempre con «você».\nPlural: nós somos (nosotros somos), vocês/eles/elas são (ustedes/ellos/ellas son). Ojo: «são» es nasal, suena casi «sáun».\nTruco: ele é, ela é, você é... ¡las tres personas usan la misma forma «é»! Solo hay que memorizar sou, é, somos, são.",
+    "tabla": [
+      ["eu sou", "yo soy", "éu sou"],
+      ["você é", "tú eres (en Brasil)", "vosé é"],
+      ["ele é / ela é", "él es / ella es", "éli é / éla é"],
+      ["nós somos", "nosotros somos", "nós sómus"],
+      ["vocês são", "ustedes son", "vosés sáun"],
+      ["eles são / elas são", "ellos son / ellas son", "élis sáun / élas sáun"]
+    ],
+    "errores": [
+      "No digas «eu é» ni «você sou»: cada persona tiene su forma. Yo = sou, él/ella/você = é.",
+      "«São» no se lee «san»: es nasal, con sonido final parecido a «un» (sáun). Lo mismo en «não» (náun).",
+      "En Brasil no uses «tu és» (eso es de Portugal): usa «você é»."
+    ]
+  },
+  "practica": [
+    "Di en voz alta 5 veces: «Bom dia! Meu nome é...» con tu nombre (2 minutos).",
+    "Presenta a tres personas de tu familia en voz alta: «Ele é... Ela é...» (3 minutos).",
+    "Escribe en un cuaderno la conjugación sou, é, somos, são y cúbrela para repetirla de memoria (5 minutos).",
+    "Escucha en YouTube una presentación en portugués de Brasil (busca «apresentação pessoal») y anota cuántas veces oyes «sou» y «é» (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-a1-u1-l1",
+      "n": 1,
+      "titulo": "Hola y adiós",
+      "objetivo": "Saludar, despedirte y dar las gracias en portugués de Brasil.",
+      "intro": "Los saludos son lo primero. Bom dia, boa tarde y boa noite funcionan igual que en español. Truco: en portugués, «boa» es femenino (boa tarde, boa noite) porque tarde y noite son femeninas.",
+      "palabras": [
+        { "t": "oi", "es": "hola (informal)", "pron": "oi", "ej": "Oi, Ana!", "ejes": "¡Hola, Ana!", "cog": false, "truco": "Es el saludo más común en Brasil entre amigos." },
+        { "t": "olá", "es": "hola", "pron": "olá", "ej": "Olá, Carlos!", "ejes": "¡Hola, Carlos!", "cog": true },
+        { "t": "bom dia", "es": "buenos días", "pron": "bon yía", "ej": "Bom dia, Ana!", "ejes": "¡Buenos días, Ana!", "cog": true, "truco": "La «d» antes de «i» suena como «y» o «dy»: dia = «yía»." },
+        { "t": "boa tarde", "es": "buenas tardes", "pron": "bóa tárchi", "ej": "Boa tarde, Luís!", "ejes": "¡Buenas tardes, Luís!", "cog": true, "truco": "La «e» final casi no se oye: tarde = «tárchi»." },
+        { "t": "boa noite", "es": "buenas noches", "pron": "bóa nóichi", "ej": "Boa noite, Paula!", "ejes": "¡Buenas noches, Paula!", "cog": true },
+        { "t": "tchau", "es": "chao / adiós", "pron": "chau", "ej": "Tchau, Maria!", "ejes": "¡Chao, Maria!", "cog": false, "truco": "Se escribe «tchau» y suena «chau», como en español." },
+        { "t": "até logo", "es": "hasta luego", "pron": "até lógu", "ej": "Até logo, João!", "ejes": "¡Hasta luego, João!", "cog": true },
+        { "t": "por favor", "es": "por favor", "pron": "por favór", "ej": "Um café, por favor.", "ejes": "Un café, por favor.", "cog": true },
+        { "t": "obrigado", "es": "gracias (dicho por un hombre)", "pron": "obrigádu", "ej": "Obrigado, Luís!", "ejes": "¡Gracias, Luís!", "cog": false, "truco": "Una mujer dice «obrigada»: es como «obligado/a», te quedas «obligado» a agradecer." },
+        { "t": "desculpe", "es": "disculpe / perdón", "pron": "deskúlpi", "ej": "Desculpe, Ana!", "ejes": "¡Disculpa, Ana!", "cog": true }
+      ],
+      "frases": [
+        { "t": "Bom dia, Ana!", "es": "¡Buenos días, Ana!", "pron": "bon yía, ána" },
+        { "t": "Boa tarde, Luís!", "es": "¡Buenas tardes, Luís!", "pron": "bóa tárchi, luís" },
+        { "t": "Boa noite e até logo!", "es": "¡Buenas noches y hasta luego!", "pron": "bóa nóichi i até lógu" },
+        { "t": "Obrigada, Carlos!", "es": "¡Gracias, Carlos! (dicho por una mujer)", "pron": "obrigáda, kárlus" },
+        { "t": "De nada!", "es": "¡De nada!", "pron": "yi náda" },
+        { "t": "Desculpe, por favor.", "es": "Disculpe, por favor.", "pron": "deskúlpi, por favór" }
+      ],
+      "dialogo": {
+        "titulo": "Un saludo en la mañana",
+        "lineas": [
+          { "q": "A", "t": "Bom dia, Luís!", "es": "¡Buenos días, Luís!" },
+          { "q": "B", "t": "Oi, Ana! Bom dia!", "es": "¡Hola, Ana! ¡Buenos días!" },
+          { "q": "A", "t": "Um café, por favor.", "es": "Un café, por favor." },
+          { "q": "B", "t": "Obrigado! Até logo!", "es": "¡Gracias! ¡Hasta luego!" },
+          { "q": "A", "t": "De nada! Tchau!", "es": "¡De nada! ¡Chao!" }
+        ]
+      },
+      "nota": "Pronunciación clave: la «d» antes de «i» suena «y» (dia = yía) y la «t» antes de «i» o «e» final suena «ch» (tarde = tárchi, noite = nóichi). Los hombres dicen «obrigado» y las mujeres «obrigada»."
+    },
+    {
+      "id": "pt-a1-u1-l2",
+      "n": 2,
+      "titulo": "Me llamo...",
+      "objetivo": "Decir tu nombre y preguntar el nombre de otra persona.",
+      "intro": "Para presentarte usas «Meu nome é...» o simplemente «Eu sou...». Truco: «nome» se parece a «nombre» y «meu» a «mi». Para preguntar: «Como você se chama?».",
+      "palabras": [
+        { "t": "nome", "es": "nombre", "pron": "nómi", "ej": "Meu nome é Ana.", "ejes": "Mi nombre es Ana.", "cog": true },
+        { "t": "meu", "es": "mi (con nombre masculino)", "pron": "méu", "ej": "Meu nome é Carlos.", "ejes": "Mi nombre es Carlos.", "cog": false },
+        { "t": "eu", "es": "yo", "pron": "éu", "ej": "Eu sou Paula.", "ejes": "Yo soy Paula.", "cog": false },
+        { "t": "sou", "es": "soy", "pron": "sou", "ej": "Sou Luís.", "ejes": "Soy Luís.", "cog": false, "truco": "Es del verbo ser: sou = «soy»." },
+        { "t": "você", "es": "tú / usted", "pron": "vosé", "ej": "E você, Maria?", "ejes": "¿Y tú, Maria?", "cog": false, "truco": "En Brasil «você» es el «tú» de todos los días." },
+        { "t": "e", "es": "y", "pron": "i", "ej": "Eu sou Ana, e você?", "ejes": "Yo soy Ana, ¿y tú?", "cog": false, "truco": "La «e» sola se pronuncia «i»." },
+        { "t": "como", "es": "cómo", "pron": "kómu", "ej": "Como você se chama?", "ejes": "¿Cómo te llamas?", "cog": true },
+        { "t": "senhor", "es": "señor", "pron": "señór", "ej": "Bom dia, senhor Silva.", "ejes": "Buenos días, señor Silva.", "cog": true, "truco": "«nh» suena como la «ñ» española: senhor = señór." },
+        { "t": "senhora", "es": "señora", "pron": "señóra", "ej": "Boa tarde, senhora Souza.", "ejes": "Buenas tardes, señora Souza.", "cog": true },
+        { "t": "prazer", "es": "gusto / placer", "pron": "prazér", "ej": "Prazer, Carlos!", "ejes": "¡Mucho gusto, Carlos!", "cog": true }
+      ],
+      "frases": [
+        { "t": "Meu nome é Ana.", "es": "Mi nombre es Ana.", "pron": "méu nómi é ána" },
+        { "t": "Como você se chama?", "es": "¿Cómo te llamas?", "pron": "kómu vosé si shá-ma" },
+        { "t": "Eu sou Carlos.", "es": "Yo soy Carlos.", "pron": "éu sou kárlus" },
+        { "t": "Prazer em conhecer!", "es": "¡Gusto en conocerte!", "pron": "prazér ein koñesér" },
+        { "t": "Muito prazer, senhora Silva.", "es": "Mucho gusto, señora Silva.", "pron": "múintu prazér, señóra sílva" }
+      ],
+      "dialogo": {
+        "titulo": "Nos presentamos",
+        "lineas": [
+          { "q": "A", "t": "Oi! Meu nome é Ana. Como você se chama?", "es": "¡Hola! Mi nombre es Ana. ¿Cómo te llamas?" },
+          { "q": "B", "t": "Oi, Ana! Eu sou Carlos.", "es": "¡Hola, Ana! Yo soy Carlos." },
+          { "q": "A", "t": "Prazer em conhecer, Carlos!", "es": "¡Gusto en conocerte, Carlos!" },
+          { "q": "B", "t": "Prazer, Ana! E você?", "es": "¡Gusto, Ana! ¿Y tú?" }
+        ]
+      },
+      "nota": "Pronunciación: «ch» en portugués suena «sh» (chama = shá-ma). «nh» suena «ñ» (conhecer = koñesér) y «lh» suena como «li» fuerte (lia). El «se» de «se chama» significa literalmente «¿cómo te llamas a ti mismo?», pero tú solo apréndelo como una frase hecha."
+    },
+    {
+      "id": "pt-a1-u1-l3",
+      "n": 3,
+      "titulo": "¿De dónde eres?",
+      "objetivo": "Decir de qué país eres y preguntar de dónde es otra persona.",
+      "intro": "Para decir de dónde eres usas «Eu sou do/da...». Truco: los países en portugués llevan artículo, así que «de + o» se junta en «do» y «de + a» en «da» (do Peru, da Colômbia).",
+      "palabras": [
+        { "t": "Peru", "es": "Perú", "pron": "perú", "ej": "Eu sou do Peru.", "ejes": "Yo soy del Perú.", "cog": true },
+        { "t": "México", "es": "México", "pron": "méksiku", "ej": "Eu sou do México.", "ejes": "Yo soy de México.", "cog": true, "truco": "La «x» aquí suena «ks»: méksiku, no «méjico»." },
+        { "t": "Espanha", "es": "España", "pron": "espáña", "ej": "Maria é da Espanha.", "ejes": "Maria es de España.", "cog": true },
+        { "t": "Colômbia", "es": "Colombia", "pron": "kolómbia", "ej": "Eu sou da Colômbia.", "ejes": "Yo soy de Colombia.", "cog": true },
+        { "t": "Argentina", "es": "Argentina", "pron": "arjentína", "ej": "Paula é da Argentina.", "ejes": "Paula es de Argentina.", "cog": true },
+        { "t": "Brasil", "es": "Brasil", "pron": "brasíu", "ej": "Eu sou do Brasil.", "ejes": "Yo soy de Brasil.", "cog": true, "truco": "La «l» final suena «u»: Brasil = brasíu." },
+        { "t": "Itália", "es": "Italia", "pron": "itália", "ej": "Luís é da Itália.", "ejes": "Luís es de Italia.", "cog": true },
+        { "t": "Estados Unidos", "es": "Estados Unidos", "pron": "estádus unídus", "ej": "Eu sou dos Estados Unidos.", "ejes": "Yo soy de los Estados Unidos.", "cog": true },
+        { "t": "peruano", "es": "peruano", "pron": "peruánu", "ej": "Carlos é peruano.", "ejes": "Carlos es peruano.", "cog": true, "truco": "Mujer: peruana. Igual que en español." },
+        { "t": "brasileiro", "es": "brasileño", "pron": "brasiléiru", "ej": "João é brasileiro.", "ejes": "João es brasileño.", "cog": true, "truco": "Termina en -eiro: brasileiro, brasileira (¡no «brasileño»!)." }
+      ],
+      "frases": [
+        { "t": "De onde você é?", "es": "¿De dónde eres?", "pron": "dyi ónyi vosé é" },
+        { "t": "Eu sou do Peru.", "es": "Yo soy del Perú.", "pron": "éu sou du perú" },
+        { "t": "Eu sou da Colômbia.", "es": "Yo soy de Colombia.", "pron": "éu sou da kolómbia" },
+        { "t": "Eu sou dos Estados Unidos.", "es": "Yo soy de los Estados Unidos.", "pron": "éu sou dus estádus unídus" },
+        { "t": "Sou peruana.", "es": "Soy peruana.", "pron": "sou peruána" },
+        { "t": "Eu sou da Itália.", "es": "Yo soy de Italia.", "pron": "éu sou da itália" }
+      ],
+      "dialogo": {
+        "titulo": "¿De dónde eres?",
+        "lineas": [
+          { "q": "A", "t": "De onde você é, Paula?", "es": "¿De dónde eres, Paula?" },
+          { "q": "B", "t": "Eu sou do Brasil. E você?", "es": "Yo soy de Brasil. ¿Y tú?" },
+          { "q": "A", "t": "Eu sou da Colômbia.", "es": "Yo soy de Colombia." },
+          { "q": "B", "t": "Prazer em conhecer!", "es": "¡Gusto en conocerte!" },
+          { "q": "A", "t": "Prazer! Até logo, Paula!", "es": "¡Gusto! ¡Hasta luego, Paula!" }
+        ]
+      },
+      "nota": "Con países: o Peru, o México, o Brasil (masculinos: do) y a Espanha, a Colômbia, a Argentina, a Itália (femeninos: da). Los Estados Unidos es plural: dos Estados Unidos. Para decir nacionalidad basta cambiar la última letra: peruano/peruana, brasileiro/brasileira."
+    },
+    {
+      "id": "pt-a1-u1-l4",
+      "n": 4,
+      "titulo": "Eu sou, você é, nós somos...",
+      "objetivo": "Conjugar el verbo ser completo y usar los pronombres eu, você, ele, ela, nós, eles.",
+      "intro": "Hoy completas el verbo ser: sou, é, somos, são. Truco: ele, ela y você usan la misma forma «é», así que solo tienes 4 formas que memorizar.",
+      "palabras": [
+        { "t": "ele", "es": "él", "pron": "éli", "ej": "Ele é italiano.", "ejes": "Él es italiano.", "cog": true },
+        { "t": "ela", "es": "ella", "pron": "éla", "ej": "Ela é colombiana.", "ejes": "Ella es colombiana.", "cog": true },
+        { "t": "nós", "es": "nosotros", "pron": "nós", "ej": "Nós somos brasileiros.", "ejes": "Nosotros somos brasileños.", "cog": false },
+        { "t": "eles", "es": "ellos", "pron": "élis", "ej": "Eles são mexicanos.", "ejes": "Ellos son mexicanos.", "cog": true },
+        { "t": "elas", "es": "ellas", "pron": "élas", "ej": "Elas são peruanas.", "ejes": "Ellas son peruanas.", "cog": true },
+        { "t": "tu", "es": "tú (solo en algunas regiones)", "pron": "tu", "ej": "Tu é brasileiro?", "ejes": "¿Eres brasileño? (regional)", "cog": true, "truco": "Existe, pero en la mayor parte de Brasil se usa «você»." },
+        { "t": "vocês", "es": "ustedes", "pron": "vosés", "ej": "Vocês são peruanos.", "ejes": "Ustedes son peruanos.", "cog": false },
+        { "t": "somos", "es": "somos", "pron": "sómus", "ej": "Nós somos do Peru.", "ejes": "Nosotros somos del Perú.", "cog": true },
+        { "t": "são", "es": "son", "pron": "sáun", "ej": "Eles são do Brasil.", "ejes": "Ellos son de Brasil.", "cog": false, "truco": "«ão» es un sonido nasal: «sáun», sin pronunciar la «n» con fuerza." },
+        { "t": "é", "es": "es / eres", "pron": "é", "ej": "Ele é Carlos.", "ejes": "Él es Carlos.", "cog": false, "truco": "Con tilde, «é» = es. Sin tilde, «e» = y." }
+      ],
+      "frases": [
+        { "t": "Eu sou peruano.", "es": "Yo soy peruano.", "pron": "éu sou peruánu" },
+        { "t": "Você é argentina.", "es": "Tú eres argentina.", "pron": "vosé é arjentína" },
+        { "t": "Ele é italiano.", "es": "Él es italiano.", "pron": "éli é italiánu" },
+        { "t": "Nós somos brasileiros.", "es": "Nosotros somos brasileños.", "pron": "nós sómus brasiléirus" },
+        { "t": "Eles são mexicanos.", "es": "Ellos son mexicanos.", "pron": "élis sáun meksikánus" },
+        { "t": "Ela é colombiana.", "es": "Ella es colombiana.", "pron": "éla é kolombiána" }
+      ],
+      "dialogo": {
+        "titulo": "Amigos de varios países",
+        "lineas": [
+          { "q": "A", "t": "Oi, eu sou Ana. Eu sou do Peru.", "es": "Hola, yo soy Ana. Yo soy del Perú." },
+          { "q": "B", "t": "Prazer, Ana! Nós somos colombianos.", "es": "¡Gusto, Ana! Nosotros somos colombianos." },
+          { "q": "A", "t": "Ele é Carlos?", "es": "¿Él es Carlos?" },
+          { "q": "B", "t": "Sim, ele é Carlos e ela é Maria.", "es": "Sí, él es Carlos y ella es Maria." },
+          { "q": "A", "t": "Eles são da Colômbia também?", "es": "¿Ellos también son de Colombia?" }
+        ]
+      },
+      "nota": "No hace falta decir siempre el pronombre: «Sou peruano» y «Eu sou peruano» son correctos, pero en portugués se suele decir «eu». Plural de «você» = «vocês»."
+    },
+    {
+      "id": "pt-a1-u1-l5",
+      "n": 5,
+      "titulo": "Preguntas y respuestas con ser",
+      "objetivo": "Hacer y contestar preguntas con ser, y repasar todo lo de la unidad.",
+      "intro": "Para preguntar con ser solo cambias la entonación: «Você é peruano?». Para contestar: «Sim, eu sou» o «Não, não sou». Aquí repasas saludos, nombres, países y el verbo ser.",
+      "palabras": [
+        { "t": "sim", "es": "sí", "pron": "sín", "ej": "Sim, eu sou Ana.", "ejes": "Sí, yo soy Ana.", "cog": true, "truco": "Termina en «m» nasal: sín." },
+        { "t": "não", "es": "no", "pron": "náun", "ej": "Não, eu não sou argentino.", "ejes": "No, yo no soy argentino.", "cog": false, "truco": "Es la misma «ão» nasal de «são»: náun." },
+        { "t": "também", "es": "también", "pron": "tambéin", "ej": "Ela também é peruana.", "ejes": "Ella también es peruana.", "cog": true },
+        { "t": "amigo", "es": "amigo", "pron": "amígu", "ej": "Carlos é meu amigo.", "ejes": "Carlos es mi amigo.", "cog": true },
+        { "t": "amiga", "es": "amiga", "pron": "amíga", "ej": "Ana é amiga de Paula.", "ejes": "Ana es amiga de Paula.", "cog": true },
+        { "t": "ou", "es": "o", "pron": "ou", "ej": "Você é peruano ou colombiano?", "ejes": "¿Eres peruano o colombiano?", "cog": false },
+        { "t": "mas", "es": "pero", "pron": "mas", "ej": "Ele é peruano, mas ela é brasileira.", "ejes": "Él es peruano, pero ella es brasileña.", "cog": false, "truco": "«mas» en portugués = «pero». No significa «más»." },
+        { "t": "quem", "es": "quién", "pron": "kéin", "ej": "Quem é ele?", "ejes": "¿Quién es él?", "cog": false },
+        { "t": "onde", "es": "dónde", "pron": "ónyi", "ej": "De onde você é?", "ejes": "¿De dónde eres?", "cog": false }
+      ],
+      "frases": [
+        { "t": "Você é brasileiro?", "es": "¿Eres brasileño?", "pron": "vosé é brasiléiru" },
+        { "t": "Sim, eu sou brasileiro.", "es": "Sí, soy brasileño.", "pron": "sín, éu sou brasiléiru" },
+        { "t": "Não, eu não sou argentino.", "es": "No, yo no soy argentino.", "pron": "náun, éu náun sou arjentínu" },
+        { "t": "Você é peruano ou colombiano?", "es": "¿Eres peruano o colombiano?", "pron": "vosé é peruánu ou kolombiánu" },
+        { "t": "Ela também é peruana.", "es": "Ella también es peruana.", "pron": "éla tambéin é peruána" },
+        { "t": "Quem é ele?", "es": "¿Quién es él?", "pron": "kéin é éli" }
+      ],
+      "dialogo": {
+        "titulo": "¿Eres de México?",
+        "lineas": [
+          { "q": "A", "t": "Oi, Carlos! Você é do México?", "es": "¡Hola, Carlos! ¿Eres de México?" },
+          { "q": "B", "t": "Não, eu não sou do México. Sou da Colômbia. E você?", "es": "No, no soy de México. Soy de Colombia. ¿Y tú?" },
+          { "q": "A", "t": "Eu sou do Peru. Ana também é peruana.", "es": "Yo soy del Perú. Ana también es peruana." },
+          { "q": "B", "t": "Quem é Ana?", "es": "¿Quién es Ana?" },
+          { "q": "A", "t": "Ela é amiga de Paula. Prazer em conhecer!", "es": "Ella es amiga de Paula. ¡Gusto en conocerte!" }
+        ]
+      },
+      "nota": "Para negar, pones «não» antes del verbo: «Eu não sou peruano». Y con «sim» o «não» al inicio puedes contestar: «Sim, sou» o «Não, não sou». Falso amigo: «mas» (pero) NO es «más»; «más» se dice «mais»."
+    }
+  ]
+}

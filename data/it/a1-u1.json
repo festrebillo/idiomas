@@ -1,0 +1,229 @@
+{
+  "id": "it-a1-u1",
+  "idioma": "it",
+  "nivel": "A1",
+  "n": 1,
+  "titulo": "Saludos y presentaciones",
+  "resumen": "Aprenderás a saludar, despedirte, decir tu nombre y de dónde eres, y a usar el verbo essere (ser/estar).",
+  "puedo": [
+    "Saludar y despedirme según la hora del día.",
+    "Dar las gracias y pedir las cosas con educación.",
+    "Decir mi nombre y preguntar el de otra persona.",
+    "Decir de qué país soy y mi nacionalidad.",
+    "Usar el verbo essere con io, tu, lui, lei, noi, voi y loro."
+  ],
+  "gramatica": {
+    "titulo": "El verbo essere (ser / estar)",
+    "texto": "Essere significa ser y también estar. Cambia según la persona: sono, sei, è, siamo, siete, sono. Ojo: «sono» vale para «yo soy» y para «ellos son»; el contexto te dice cuál.\nEn italiano casi nunca se dice el pronombre, igual que en español: «Sono Ana» basta. Los pronombres son io (yo), tu (tú), lui (él), lei (ella), noi (nosotros), voi (ustedes) y loro (ellos/ellas). Se usan solo para contrastar: «Io sono di Lima, lui è di Roma».\nTruco: la «è» con tilde es el verbo (es); la «e» sin tilde significa «y».",
+    "tabla": [
+      ["io sono", "yo soy", "ío sóno"],
+      ["tu sei", "tú eres", "tu séi"],
+      ["lui / lei è", "él / ella es", "lui / léi è"],
+      ["noi siamo", "nosotros somos", "nói siámo"],
+      ["voi siete", "ustedes son", "vói siéte"],
+      ["loro sono", "ellos son", "lóro sóno"]
+    ],
+    "errores": [
+      "No pongas siempre el pronombre: di «Sono Carlos», no «Io sono Carlos» (se entiende, pero suena enfático).",
+      "«è» (es) y «e» (y) son distintas: Marco è italiano e Giulia è italiana.",
+      "«Sono» sirve para «yo soy» y «ellos son»: Sono peruviano (yo) / Loro sono peruviani (ellos)."
+    ]
+  },
+  "practica": [
+    "Di en voz alta durante 3 minutos: ciao, buongiorno, buonasera, buonanotte, arrivederci. Exagera la «ci» como «chi» de «chino».",
+    "Escribe 5 veces tu presentación completa: «Ciao, mi chiamo ... Sono del Perù.» (5 minutos).",
+    "Conjuga en voz alta sono, sei, è, siamo, siete, sono de memoria, 3 veces seguidas (2 minutos).",
+    "Escucha el audio de cada palabra de la unidad y repítelo en voz alta (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-a1-u1-l1",
+      "n": 1,
+      "titulo": "Hola y adiós",
+      "objetivo": "Saludar, despedirte y dar las gracias en italiano.",
+      "intro": "Empezamos por lo más útil: saludar. Truco: «ciao» se escribe con «c» pero suena «chao»; ¡es la palabra italiana más famosa del mundo!",
+      "palabras": [
+        { "t": "ciao", "es": "hola / chao", "pron": "chao", "ej": "Ciao, Luca!", "ejes": "¡Hola, Luca!", "cog": false, "truco": "Sirve para saludar y para despedirse, como «chao»." },
+        { "t": "salve", "es": "hola (neutro)", "pron": "sálve", "ej": "Salve, Maria!", "ejes": "¡Hola, Maria!", "cog": true, "truco": "Es un «hola» educado y neutro, ni muy formal ni muy amistoso." },
+        { "t": "buongiorno", "es": "buenos días", "pron": "buonyórno", "ej": "Buongiorno, Carlos!", "ejes": "¡Buenos días, Carlos!", "cog": false, "truco": "Buon + giorno (día). Se usa hasta el mediodía y a veces toda la tarde." },
+        { "t": "buonasera", "es": "buenas tardes / buenas noches", "pron": "buonaséra", "ej": "Buonasera, Giulia!", "ejes": "¡Buenas tardes, Giulia!", "cog": false, "truco": "Se dice desde la tarde en adelante." },
+        { "t": "buonanotte", "es": "buenas noches (al dormir)", "pron": "buonanóte", "ej": "Buonanotte, Marco!", "ejes": "¡Buenas noches, Marco!", "cog": false, "truco": "Solo cuando alguien se va a dormir." },
+        { "t": "arrivederci", "es": "adiós / hasta luego", "pron": "arrivedérchi", "ej": "Arrivederci, Ana!", "ejes": "¡Adiós, Ana!", "cog": false },
+        { "t": "a presto", "es": "hasta pronto", "pron": "a présto", "ej": "Ciao, a presto!", "ejes": "¡Chao, hasta pronto!", "cog": true },
+        { "t": "per favore", "es": "por favor", "pron": "per favóre", "ej": "", "ejes": "", "cog": true, "truco": "Per = por; favore = favor." },
+        { "t": "grazie", "es": "gracias", "pron": "grátsie", "ej": "Grazie, Marco!", "ejes": "¡Gracias, Marco!", "cog": false, "truco": "La «zie» suena «tsie». Nunca «grasie»." },
+        { "t": "prego", "es": "de nada / adelante", "pron": "prégo", "ej": "Prego, Ana!", "ejes": "¡De nada, Ana!", "cog": false, "truco": "Es la respuesta a «grazie»." }
+      ],
+      "frases": [
+        { "t": "Ciao, a presto!", "es": "¡Chao, hasta pronto!", "pron": "chao, a présto" },
+        { "t": "Buongiorno e grazie!", "es": "¡Buenos días y gracias!", "pron": "buonyórno e grátsie" },
+        { "t": "Grazie, arrivederci!", "es": "¡Gracias, adiós!", "pron": "grátsie, arrivedérchi" },
+        { "t": "Buonasera, scusi!", "es": "¡Buenas tardes, disculpe!", "pron": "buonaséra, scúsi" },
+        { "t": "Per favore, grazie.", "es": "Por favor, gracias.", "pron": "per favóre, grátsie" },
+        { "t": "Buonanotte, a presto!", "es": "¡Buenas noches, hasta pronto!", "pron": "buonanóte, a présto" }
+      ],
+      "dialogo": {
+        "titulo": "Un saludo entre amigos",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Marco!", "es": "¡Hola, Marco!" },
+          { "q": "B", "t": "Ciao, Giulia!", "es": "¡Hola, Giulia!" },
+          { "q": "A", "t": "Grazie, Marco!", "es": "¡Gracias, Marco!" },
+          { "q": "B", "t": "Prego, Giulia! Arrivederci!", "es": "¡De nada, Giulia! ¡Adiós!" },
+          { "q": "A", "t": "A presto!", "es": "¡Hasta pronto!" }
+        ]
+      },
+      "nota": "La «c» ante e / i suena «ch» (ciao, arrivederci). Para pedir perdón o llamar la atención se dice «scusi» (a una persona que tratas de usted) o «scusa» (a un amigo): suena scúsi / scúsa. Una «s» seguida de «c» y «u» se lee tal cual: s-c-u."
+    },
+    {
+      "id": "it-a1-u1-l2",
+      "n": 2,
+      "titulo": "Me llamo...",
+      "objetivo": "Decir tu nombre, preguntar el de otra persona y responder «mucho gusto».",
+      "intro": "Para decir tu nombre usarás «Mi chiamo...» (literalmente «me llamo»), casi igual que en español. Truco: «chi» suena «qui» (como en «quien»), no «chi» de «chino».",
+      "palabras": [
+        { "t": "mi chiamo", "es": "me llamo", "pron": "mi quiámo", "ej": "Mi chiamo Ana.", "ejes": "Me llamo Ana.", "cog": true, "truco": "Casi igual que «me llamo»; la «ch» ante i suena «qu»." },
+        { "t": "ti chiami", "es": "te llamas", "pron": "ti quiámi", "ej": "Come ti chiami?", "ejes": "¿Cómo te llamas?", "cog": true },
+        { "t": "come", "es": "cómo", "pron": "cóme", "ej": "Come ti chiami?", "ejes": "¿Cómo te llamas?", "cog": true, "truco": "Idéntico a «como»." },
+        { "t": "piacere", "es": "mucho gusto", "pron": "piachére", "ej": "Piacere, Luca!", "ejes": "¡Mucho gusto, Luca!", "cog": false, "truco": "Literal: «placer». «ce» suena «che»." },
+        { "t": "sono", "es": "soy", "pron": "sóno", "ej": "Sono Carlos.", "ejes": "Soy Carlos.", "cog": true, "truco": "Verbo essere: «yo soy»." },
+        { "t": "signor", "es": "señor", "pron": "siñór", "ej": "Buongiorno, signor Rossi!", "ejes": "¡Buenos días, señor Rossi!", "cog": true, "truco": "Delante de un apellido se dice «signor»; solo es «signore» si va sin apellido." },
+        { "t": "signora", "es": "señora", "pron": "siñóra", "ej": "Buonasera, signora Bianchi!", "ejes": "¡Buenas tardes, señora Bianchi!", "cog": true, "truco": "«gn» = «ñ»." },
+        { "t": "sì", "es": "sí", "pron": "sí", "ej": "Sì, grazie.", "ejes": "Sí, gracias.", "cog": true, "truco": "Con tilde. Sin tilde, «si» es otra palabra." },
+        { "t": "no", "es": "no", "pron": "no", "ej": "No, grazie.", "ejes": "No, gracias.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Mi chiamo Carlos.", "es": "Me llamo Carlos.", "pron": "mi quiámo cárlos" },
+        { "t": "Come ti chiami?", "es": "¿Cómo te llamas?", "pron": "cóme ti quiámi" },
+        { "t": "Piacere, sono Giulia.", "es": "Mucho gusto, soy Giulia.", "pron": "piachére, sóno yúlia" },
+        { "t": "Mi chiamo Luca, piacere!", "es": "Me llamo Luca, ¡mucho gusto!", "pron": "mi quiámo lúca, piachére" },
+        { "t": "Buongiorno, signora!", "es": "¡Buenos días, señora!", "pron": "buonyórno, siñóra" },
+        { "t": "Come si chiama, signora?", "es": "¿Cómo se llama, señora?", "pron": "cóme si quiáma, siñóra" }
+      ],
+      "dialogo": {
+        "titulo": "Nos presentamos",
+        "lineas": [
+          { "q": "A", "t": "Ciao! Come ti chiami?", "es": "¡Hola! ¿Cómo te llamas?" },
+          { "q": "B", "t": "Mi chiamo Marco. Come ti chiami?", "es": "Me llamo Marco. ¿Cómo te llamas?" },
+          { "q": "A", "t": "Mi chiamo Giulia. Piacere!", "es": "Me llamo Giulia. ¡Mucho gusto!" },
+          { "q": "B", "t": "Piacere, Giulia!", "es": "¡Mucho gusto, Giulia!" },
+          { "q": "A", "t": "Arrivederci, Marco!", "es": "¡Adiós, Marco!" }
+        ]
+      },
+      "nota": "A un adulto desconocido o a un superior se le dice «Come si chiama?» (usted); a amigos y gente de tu edad, «Come ti chiami?». «Ch» + e/i suena «k» (chiamo = quiámo); en cambio «c» + e/i suena «ch» (piacere = piachére)."
+    },
+    {
+      "id": "it-a1-u1-l3",
+      "n": 3,
+      "titulo": "¿De dónde eres?",
+      "objetivo": "Decir de dónde eres y tu nacionalidad.",
+      "intro": "Los países se parecen mucho al español. Truco: las nacionalidades terminan en -o si es hombre y en -a si es mujer: peruviano / peruviana.",
+      "palabras": [
+        { "t": "Perù", "es": "Perú", "pron": "perú", "ej": "Sono del Perù.", "ejes": "Soy del Perú.", "cog": true, "truco": "En italiano lleva tilde grave en la ù." },
+        { "t": "Messico", "es": "México", "pron": "méssico", "ej": "Sono del Messico.", "ejes": "Soy de México.", "cog": true, "truco": "Se escribe con «ss» y sin «x»." },
+        { "t": "Spagna", "es": "España", "pron": "spáña", "ej": "", "ejes": "", "cog": true, "truco": "«gn» = «ñ»." },
+        { "t": "Colombia", "es": "Colombia", "pron": "colómbia", "ej": "Sono della Colombia.", "ejes": "Soy de Colombia.", "cog": true },
+        { "t": "Argentina", "es": "Argentina", "pron": "aryentína", "ej": "Sono dell'Argentina.", "ejes": "Soy de Argentina.", "cog": true, "truco": "La «g» antes de «e/i» suena «y»; aquí va ante «e»: ar-yen-tí-na." },
+        { "t": "Stati Uniti", "es": "Estados Unidos", "pron": "státi uníti", "ej": "Sono degli Stati Uniti.", "ejes": "Soy de Estados Unidos.", "cog": true, "truco": "Es plural: «degli» = de los." },
+        { "t": "Brasile", "es": "Brasil", "pron": "brasíle", "ej": "Sono del Brasile.", "ejes": "Soy de Brasil.", "cog": true },
+        { "t": "Italia", "es": "Italia", "pron": "itália", "ej": "", "ejes": "", "cog": true },
+        { "t": "peruviano", "es": "peruano", "pron": "peruviáno", "ej": "Sono peruviano.", "ejes": "Soy peruano.", "cog": true, "truco": "Hombre: -o." },
+        { "t": "peruviana", "es": "peruana", "pron": "peruviána", "ej": "Sono peruviana.", "ejes": "Soy peruana.", "cog": true, "truco": "Mujer: -a." }
+      ],
+      "frases": [
+        { "t": "Di dove sei?", "es": "¿De dónde eres?", "pron": "di dóve séi" },
+        { "t": "Sono di Lima.", "es": "Soy de Lima.", "pron": "sóno di líma" },
+        { "t": "Sono del Perù.", "es": "Soy del Perú.", "pron": "sóno del perú" },
+        { "t": "Sono peruviana.", "es": "Soy peruana.", "pron": "sóno peruviána" },
+        { "t": "Sono della Colombia.", "es": "Soy de Colombia.", "pron": "sóno déla colómbia" },
+        { "t": "Sono degli Stati Uniti.", "es": "Soy de Estados Unidos.", "pron": "sóno déli státi uníti" }
+      ],
+      "dialogo": {
+        "titulo": "En una fiesta",
+        "lineas": [
+          { "q": "A", "t": "Ciao, mi chiamo Carlos. Di dove sei?", "es": "Hola, me llamo Carlos. ¿De dónde eres?" },
+          { "q": "B", "t": "Piacere, Carlos! Sono di Roma.", "es": "¡Mucho gusto, Carlos! Soy de Roma." },
+          { "q": "A", "t": "Sono peruviano, di Lima.", "es": "Soy peruano, de Lima." },
+          { "q": "B", "t": "Ah, sei del Perù! Mi chiamo Giulia.", "es": "¡Ah, eres del Perú! Me llamo Giulia." },
+          { "q": "A", "t": "Piacere, Giulia!", "es": "¡Mucho gusto, Giulia!" }
+        ]
+      },
+      "nota": "Con ciudades se dice «di»: Sono di Lima. Con países, «di» se junta con el artículo: del Perù, della Colombia, dell'Argentina, degli Stati Uniti (en español no necesitamos el artículo; no lo traduzcas). Pronunciación: «gn» es «ñ», como en gnocchi (ñóki). En «ia» como en Italia la «i» se oye ligera: itália."
+    },
+    {
+      "id": "it-a1-u1-l4",
+      "n": 4,
+      "titulo": "Yo soy, tú eres...",
+      "objetivo": "Conjugar essere con todas las personas y usar los pronombres.",
+      "intro": "Ahora completamos la conjugación de essere. Ya conoces sono y sei; faltan è, siamo y siete. Truco: «siamo» y «siete» suenan casi como «somos» y «sois».",
+      "palabras": [
+        { "t": "io", "es": "yo", "pron": "ío", "ej": "Io sono Luca.", "ejes": "Yo soy Luca.", "cog": false },
+        { "t": "tu", "es": "tú", "pron": "tu", "ej": "Tu sei di Lima.", "ejes": "Tú eres de Lima.", "cog": true },
+        { "t": "lui", "es": "él", "pron": "lui", "ej": "Lui è Marco.", "ejes": "Él es Marco.", "cog": false },
+        { "t": "lei", "es": "ella", "pron": "léi", "ej": "Lei è Giulia.", "ejes": "Ella es Giulia.", "cog": false, "truco": "Ojo: con mayúscula, «Lei» es también «usted»." },
+        { "t": "noi", "es": "nosotros", "pron": "nói", "ej": "Noi siamo di Roma.", "ejes": "Nosotros somos de Roma.", "cog": false },
+        { "t": "voi", "es": "ustedes", "pron": "vói", "ej": "Voi siete di Lima.", "ejes": "Ustedes son de Lima.", "cog": false },
+        { "t": "loro", "es": "ellos / ellas", "pron": "lóro", "ej": "Loro sono peruviani.", "ejes": "Ellos son peruanos.", "cog": false },
+        { "t": "è", "es": "es / está", "pron": "è", "ej": "Marco è italiano.", "ejes": "Marco es italiano.", "cog": true, "truco": "Con tilde. Sin tilde, «e» significa «y»." },
+        { "t": "siamo", "es": "somos / estamos", "pron": "siámo", "ej": "Siamo di Roma.", "ejes": "Somos de Roma.", "cog": true },
+        { "t": "siete", "es": "son / están (ustedes)", "pron": "siéte", "ej": "Siete del Perù?", "ejes": "¿Son del Perú?", "cog": false, "truco": "No es el número siete en italiano: eso es «sette»." }
+      ],
+      "frases": [
+        { "t": "Io sono Carlos.", "es": "Yo soy Carlos.", "pron": "ío sóno cárlos" },
+        { "t": "Tu sei di Lima.", "es": "Tú eres de Lima.", "pron": "tu séi di líma" },
+        { "t": "Lui è Marco e lei è Giulia.", "es": "Él es Marco y ella es Giulia.", "pron": "lui è márco e léi è yúlia" },
+        { "t": "Noi siamo di Roma.", "es": "Nosotros somos de Roma.", "pron": "nói siámo di róma" },
+        { "t": "Voi siete peruviani.", "es": "Ustedes son peruanos.", "pron": "vói siéte peruviáni" },
+        { "t": "Loro sono italiani.", "es": "Ellos son italianos.", "pron": "lóro sóno italiáni" }
+      ],
+      "dialogo": {
+        "titulo": "Una presentación en grupo",
+        "lineas": [
+          { "q": "A", "t": "Buonasera! Voi siete italiani?", "es": "¡Buenas tardes! ¿Ustedes son italianos?" },
+          { "q": "B", "t": "No, noi siamo peruviani.", "es": "No, nosotros somos peruanos." },
+          { "q": "A", "t": "Io sono Luca. Lei è Giulia.", "es": "Yo soy Luca. Ella es Giulia." },
+          { "q": "B", "t": "Piacere! Io sono Carlos. Lei è Ana.", "es": "¡Mucho gusto! Yo soy Carlos. Ella es Ana." },
+          { "q": "A", "t": "Piacere!", "es": "¡Mucho gusto!" }
+        ]
+      },
+      "nota": "La «e» sin tilde significa «y» (Lui è Marco e lei è Giulia). Los plurales de nacionalidad cambian: italiano / italiani (hombres, o grupo mixto), italiana / italiane (solo mujeres). El pronombre se omite: «Siamo di Roma» es perfecto."
+    },
+    {
+      "id": "it-a1-u1-l5",
+      "n": 5,
+      "titulo": "Preguntas y respuestas",
+      "objetivo": "Hacer y responder preguntas con essere, afirmando y negando.",
+      "intro": "Repasamos todo. En italiano una pregunta suena igual que la afirmación, solo que sube la voz: «Sei italiano?». Para negar basta poner «non» antes del verbo: «Non sono italiano».",
+      "palabras": [
+        { "t": "sei", "es": "eres / estás", "pron": "séi", "ej": "Sei di Lima?", "ejes": "¿Eres de Lima?", "cog": false },
+        { "t": "non", "es": "no (delante del verbo)", "pron": "non", "ej": "Non sono italiano.", "ejes": "No soy italiano.", "cog": true, "truco": "«Non» va justo antes del verbo." },
+        { "t": "anche", "es": "también", "pron": "ánque", "ej": "Anche io sono di Lima.", "ejes": "Yo también soy de Lima.", "cog": false, "truco": "«ch» + e = «k»: án-ke." },
+        { "t": "dove", "es": "dónde", "pron": "dóve", "ej": "Dove sei?", "ejes": "¿Dónde estás?", "cog": false },
+        { "t": "italiano", "es": "italiano", "pron": "italiáno", "ej": "Marco è italiano.", "ejes": "Marco es italiano.", "cog": true },
+        { "t": "italiana", "es": "italiana", "pron": "italiána", "ej": "Giulia è italiana.", "ejes": "Giulia es italiana.", "cog": true },
+        { "t": "messicano", "es": "mexicano", "pron": "messicáno", "ej": "Carlos non è messicano.", "ejes": "Carlos no es mexicano.", "cog": true },
+        { "t": "messicana", "es": "mexicana", "pron": "messicána", "ej": "Maria è messicana.", "ejes": "Maria es mexicana.", "cog": true },
+        { "t": "spagnolo", "es": "español", "pron": "spañólo", "ej": "Luca non è spagnolo.", "ejes": "Luca no es español.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Sei italiano?", "es": "¿Eres italiano?", "pron": "séi italiáno" },
+        { "t": "Sì, sono italiano.", "es": "Sí, soy italiano.", "pron": "sí, sóno italiáno" },
+        { "t": "No, non sono messicana.", "es": "No, no soy mexicana.", "pron": "no, non sóno messicána" },
+        { "t": "Di dove siete?", "es": "¿De dónde son ustedes?", "pron": "di dóve siéte" },
+        { "t": "Non siamo di Roma.", "es": "No somos de Roma.", "pron": "non siámo di róma" },
+        { "t": "Anche io sono peruviano.", "es": "Yo también soy peruano.", "pron": "ánque ío sóno peruviáno" }
+      ],
+      "dialogo": {
+        "titulo": "¿Eres mexicana?",
+        "lineas": [
+          { "q": "A", "t": "Buongiorno! Sei messicana?", "es": "¡Buenos días! ¿Eres mexicana?" },
+          { "q": "B", "t": "No, non sono messicana. Sono colombiana.", "es": "No, no soy mexicana. Soy colombiana." },
+          { "q": "A", "t": "Piacere! Mi chiamo Luca.", "es": "¡Mucho gusto! Me llamo Luca." },
+          { "q": "B", "t": "Piacere, Luca! Sono Maria.", "es": "¡Mucho gusto, Luca! Soy Maria." },
+          { "q": "A", "t": "Sono italiano. Di dove sei, Maria?", "es": "Soy italiano. ¿De dónde eres, Maria?" },
+          { "q": "B", "t": "Sono di Bogotà.", "es": "Soy de Bogotá." }
+        ]
+      },
+      "nota": "Recuerda: «sei» es «tú eres» (sei italiano?) y también será «seis» (número) en la unidad 2; el contexto lo aclara. En respuestas cortas puedes decir solo «Sì» o «No, non sono...» sin repetir el pronombre."
+    }
+  ]
+}

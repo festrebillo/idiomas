@@ -1,0 +1,14 @@
+{
+  "name": "Idiomas",
+  "short_name": "Idiomas",
+  "description": "Cursos de inglés, portugués e italiano desde cero",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F1FAF9",
+  "theme_color": "#F1FAF9",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

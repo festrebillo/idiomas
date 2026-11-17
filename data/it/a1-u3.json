@@ -1,0 +1,230 @@
+{
+  "id": "it-a1-u3",
+  "idioma": "it",
+  "nivel": "A1",
+  "n": 3,
+  "titulo": "En el café",
+  "resumen": "Aprenderás a pedir bebidas y comida, preguntar precios, pagar y decir lo que te gusta, usando los artículos italianos.",
+  "puedo": [
+    "Nombrar bebidas y comidas habituales de un café.",
+    "Pedir algo con cortesía usando «Vorrei...» y «Posso avere...?».",
+    "Preguntar cuánto cuesta y entender precios hasta 100 euros.",
+    "Pagar y pedir la cuenta.",
+    "Decir lo que me gusta y lo que no me gusta."
+  ],
+  "gramatica": {
+    "titulo": "Los artículos: il, lo, la, l', un, una",
+    "texto": "En italiano cada sustantivo es masculino o femenino y casi siempre lleva artículo. Truco: casi siempre -o es masculino y -a es femenino.\nEl (definido): il (masculino: il caffè), lo (masculino ante z o s+consonante: lo zucchero), la (femenino: la birra) y l' (ante vocal, masculino o femenino: l'acqua, l'uovo).\nUn / una (indefinido): un (un panino), uno (uno zucchero), una (una torta) y un' (ante vocal femenina: un'acqua).\nPlural básico: -o pasa a -i (il panino, i panini), -a pasa a -e (la birra, le birre). Las palabras con tilde final no cambian: il caffè, i caffè.\nPara pedir con cortesía: Vorrei... (quisiera...).",
+    "tabla": [
+      ["il caffè / un caffè", "el café / un café", "il cafè / un cafè"],
+      ["lo zucchero / uno zucchero", "el azúcar / un azúcar", "lo dsúquero / úno dsúquero"],
+      ["la birra / una birra", "la cerveza / una cerveza", "la bírra / úna bírra"],
+      ["l'acqua / un'acqua", "el agua / un agua", "lákua / un ákua"],
+      ["i panini / le birre", "los sándwiches / las cervezas", "i paníni / le bírre"]
+    ],
+    "errores": [
+      "No pongas «il» delante de todo: ante vocal se dice «l'acqua» y ante z o s+consonante «lo zucchero».",
+      "Con femenino ante vocal se escribe «un'acqua» con apóstrofo, nunca «un acqua».",
+      "No uses «una» con masculinos: es «un caffè» (no «una caffè»), aunque termine en vocal acentuada."
+    ]
+  },
+  "practica": [
+    "Mira tu cocina o tu mesa y di en voz alta 10 cosas con su artículo: «il caffè, la birra, l'acqua...» (5 minutos).",
+    "Escribe un pedido completo en italiano: «Vorrei un cappuccino e un cornetto, per favore» (3 minutos).",
+    "Practica los precios: di en voz alta cuánto cuesta algo que compraste hoy, en euros (3 minutos).",
+    "Dile a alguien tres cosas que te gustan y tres que no, con «Mi piace...» y «Non mi piace...» (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-a1-u3-l1",
+      "n": 1,
+      "titulo": "Bebidas",
+      "objetivo": "Nombrar las bebidas más comunes con su artículo.",
+      "intro": "Lo primero que se aprende en un café italiano: las bebidas. Fíjate en el artículo: va pegado a la palabra. Truco: aprende siempre «il caffè», no solo «caffè».",
+      "palabras": [
+        { "t": "il caffè", "es": "el café", "pron": "il cafè", "ej": "Il caffè, per favore.", "ejes": "El café, por favor.", "cog": true, "truco": "Termina en è: la tilde indica la sílaba fuerte." },
+        { "t": "il tè", "es": "el té", "pron": "il tè", "ej": "Il tè, grazie.", "ejes": "El té, gracias.", "cog": true },
+        { "t": "l'acqua", "es": "el agua", "pron": "lákua", "ej": "L'acqua, per favore.", "ejes": "El agua, por favor.", "cog": false, "truco": "«cqu» suena como una «k» fuerte: ák-kua." },
+        { "t": "il succo", "es": "el jugo", "pron": "il súco", "ej": "Il succo, grazie.", "ejes": "El jugo, gracias.", "cog": false },
+        { "t": "il latte", "es": "la leche", "pron": "il láte", "ej": "Il latte, per favore.", "ejes": "La leche, por favor.", "cog": false, "truco": "Ojo: «latte» es masculino; en español, «la leche»." },
+        { "t": "il vino", "es": "el vino", "pron": "il víno", "ej": "Il vino, grazie.", "ejes": "El vino, gracias.", "cog": true },
+        { "t": "la birra", "es": "la cerveza", "pron": "la bírra", "ej": "La birra, per favore.", "ejes": "La cerveza, por favor.", "cog": false },
+        { "t": "il cappuccino", "es": "el capuchino", "pron": "il capuchíno", "ej": "Il cappuccino, grazie!", "ejes": "El capuchino, gracias.", "cog": true, "truco": "«cc» antes de i suena «tch»: capu-chí-no." },
+        { "t": "la limonata", "es": "la limonada", "pron": "la limonáta", "ej": "La limonata, per favore.", "ejes": "La limonada, por favor.", "cog": true },
+        { "t": "lo zucchero", "es": "el azúcar", "pron": "lo dsúquero", "ej": "Lo zucchero, grazie.", "ejes": "El azúcar, gracias.", "cog": false, "truco": "Delante de «z» se usa «lo», no «il». «cch» = k." }
+      ],
+      "frases": [
+        { "t": "Un caffè, per favore.", "es": "Un café, por favor.", "pron": "un cafè, per favóre" },
+        { "t": "Un tè, grazie.", "es": "Un té, gracias.", "pron": "un tè, grátsie" },
+        { "t": "Un'acqua, per favore.", "es": "Un agua, por favor.", "pron": "un ákua, per favóre" },
+        { "t": "Un cappuccino, grazie.", "es": "Un capuchino, gracias.", "pron": "un capuchíno, grátsie" },
+        { "t": "Il latte e il caffè.", "es": "La leche y el café.", "pron": "il láte e il cafè" },
+        { "t": "Una birra e un succo.", "es": "Una cerveza y un jugo.", "pron": "úna bírra e un súco" }
+      ],
+      "dialogo": {
+        "titulo": "Un café con una amiga",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Giulia! Un caffè?", "es": "¡Hola, Giulia! ¿Un café?" },
+          { "q": "B", "t": "No, grazie. Un'acqua, per favore.", "es": "No, gracias. Un agua, por favor." },
+          { "q": "A", "t": "Prego!", "es": "¡De nada!" },
+          { "q": "B", "t": "Grazie, Marco!", "es": "¡Gracias, Marco!" },
+          { "q": "A", "t": "A presto, Giulia!", "es": "¡Hasta pronto, Giulia!" }
+        ]
+      },
+      "nota": "Italia tiene sus propias formas de pedir café: «un caffè» es siempre un espresso corto y fuerte; el «cappuccino» se toma solo por la mañana. Recuerda: «cc» + i suena «ch» (cappuccino), pero «ch» + i suena «qu» (chi = qui)."
+    },
+    {
+      "id": "it-a1-u3-l2",
+      "n": 2,
+      "titulo": "Comidas",
+      "objetivo": "Nombrar comidas básicas con su artículo.",
+      "intro": "Ahora, qué comer. Muchas palabras te sonarán por la comida italiana que conoces: pizza, pasta, insalata. Truco: «zz» suena «ts» (pizza = pítsa), no «s».",
+      "palabras": [
+        { "t": "il panino", "es": "el sándwich", "pron": "il paníno", "ej": "Il panino, per favore.", "ejes": "El sándwich, por favor.", "cog": false, "truco": "«Panino» es un pan pequeño relleno; viene de «pane»." },
+        { "t": "la torta", "es": "el pastel / la tarta", "pron": "la tórta", "ej": "La torta, grazie.", "ejes": "El pastel, gracias.", "cog": true },
+        { "t": "il pane", "es": "el pan", "pron": "il páne", "ej": "Il pane e il latte.", "ejes": "El pan y la leche.", "cog": true },
+        { "t": "l'uovo", "es": "el huevo", "pron": "luóvo", "ej": "L'uovo, per favore.", "ejes": "El huevo, por favor.", "cog": false, "truco": "Plural irregular: l'uovo, le uova." },
+        { "t": "l'insalata", "es": "la ensalada", "pron": "linsaláta", "ej": "L'insalata, grazie.", "ejes": "La ensalada, gracias.", "cog": true },
+        { "t": "la zuppa", "es": "la sopa", "pron": "la dsúpa", "ej": "La zuppa, per favore.", "ejes": "La sopa, por favor.", "cog": false },
+        { "t": "la frutta", "es": "la fruta", "pron": "la frúta", "ej": "La frutta, grazie.", "ejes": "La fruta, gracias.", "cog": true },
+        { "t": "il cornetto", "es": "el croissant", "pron": "il cornéto", "ej": "Il cornetto e il cappuccino.", "ejes": "El croissant y el capuchino.", "cog": false, "truco": "En Italia el desayuno típico es cornetto + cappuccino." },
+        { "t": "la pizza", "es": "la pizza", "pron": "la pítsa", "ej": "La pizza, per favore.", "ejes": "La pizza, por favor.", "cog": true },
+        { "t": "la pasta", "es": "la pasta", "pron": "la pásta", "ej": "La pasta, grazie.", "ejes": "La pasta, gracias.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Un panino e un caffè.", "es": "Un sándwich y un café.", "pron": "un paníno e un cafè" },
+        { "t": "Una zuppa, per favore.", "es": "Una sopa, por favor.", "pron": "úna dsúpa, per favóre" },
+        { "t": "Una pizza, grazie.", "es": "Una pizza, gracias.", "pron": "úna pítsa, grátsie" },
+        { "t": "Il pane e la frutta.", "es": "El pan y la fruta.", "pron": "il páne e la frúta" },
+        { "t": "Un cornetto e un cappuccino.", "es": "Un croissant y un capuchino.", "pron": "un cornéto e un capuchíno" },
+        { "t": "Le uova, per favore.", "es": "Los huevos, por favor.", "pron": "le uóva, per favóre" }
+      ],
+      "dialogo": {
+        "titulo": "El desayuno",
+        "lineas": [
+          { "q": "A", "t": "Buongiorno, Luca! Un cornetto?", "es": "¡Buenos días, Luca! ¿Un croissant?" },
+          { "q": "B", "t": "Sì, grazie. E un cappuccino, per favore.", "es": "Sí, gracias. Y un capuchino, por favor." },
+          { "q": "A", "t": "Il panino, Luca?", "es": "¿Un sándwich, Luca?" },
+          { "q": "B", "t": "No, grazie. La torta!", "es": "No, gracias. ¡El pastel!" },
+          { "q": "A", "t": "Prego!", "es": "¡De nada!" }
+        ]
+      },
+      "nota": "Falso amigo: «zuppa» es sopa; no es «zupa». «Uovo» es masculino en singular (l'uovo) y femenino en plural (le uova). Pronunciación: «zz» = ts (pizza, pítsa); «pp» y «tt» dobles se pronuncian con más fuerza."
+    },
+    {
+      "id": "it-a1-u3-l3",
+      "n": 3,
+      "titulo": "Pedir en el café",
+      "objetivo": "Pedir cortésmente con «Vorrei» y «Posso avere» y entender al camarero.",
+      "intro": "Para pedir con educación se usa «Vorrei...» (quisiera...), nunca «Voglio» (quiero), que suena brusco. Truco: «Vorrei» = «quisiera»; ¡memoriza la frase completa!",
+      "palabras": [
+        { "t": "vorrei", "es": "quisiera", "pron": "vorréi", "ej": "Vorrei un caffè, per favore.", "ejes": "Quisiera un café, por favor.", "cog": false, "truco": "Es la forma cortés de pedir." },
+        { "t": "posso avere", "es": "¿puedo tener? / ¿me da?", "pron": "pósso avére", "ej": "Posso avere il menù, per favore?", "ejes": "¿Me da el menú, por favor?", "cog": false },
+        { "t": "ecco", "es": "aquí tiene / aquí está", "pron": "éko", "ej": "Ecco il caffè!", "ejes": "¡Aquí tiene el café!", "cog": false },
+        { "t": "a lei", "es": "a usted", "pron": "a léi", "ej": "Ecco il tè, a lei.", "ejes": "Aquí tiene el té, usted.", "cog": false, "truco": "«Ecco a lei» = aquí tiene (a usted)." },
+        { "t": "altro", "es": "algo más / otro", "pron": "áltro", "ej": "Altro, signora?", "ejes": "¿Algo más, señora?", "cog": true },
+        { "t": "qui", "es": "aquí", "pron": "cuí", "ej": "Un caffè qui, per favore.", "ejes": "Un café aquí, por favor.", "cog": false, "truco": "«qui» suena «cuí»." },
+        { "t": "da portare via", "es": "para llevar", "pron": "da portáre vía", "ej": "Un cappuccino da portare via.", "ejes": "Un capuchino para llevar.", "cog": false },
+        { "t": "il menù", "es": "el menú", "pron": "il menú", "ej": "Il menù, per favore.", "ejes": "El menú, por favor.", "cog": true },
+        { "t": "il cameriere", "es": "el camarero / mesero", "pron": "il cameriére", "ej": "Il cameriere, per favore.", "ejes": "El mesero, por favor.", "cog": false },
+        { "t": "la cameriera", "es": "la camarera / mesera", "pron": "la cameriéra", "ej": "La cameriera è Giulia.", "ejes": "La mesera es Giulia.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Vorrei un caffè, per favore.", "es": "Quisiera un café, por favor.", "pron": "vorréi un cafè, per favóre" },
+        { "t": "Posso avere un'acqua?", "es": "¿Me da un agua?", "pron": "pósso avére un ákua" },
+        { "t": "Ecco a lei!", "es": "¡Aquí tiene!", "pron": "éko a léi" },
+        { "t": "Altro, signora?", "es": "¿Algo más, señora?", "pron": "áltro, siñóra" },
+        { "t": "Qui o da portare via?", "es": "¿Aquí o para llevar?", "pron": "cuí o da portáre vía" },
+        { "t": "Vorrei una pizza e una birra.", "es": "Quisiera una pizza y una cerveza.", "pron": "vorréi úna pítsa e úna bírra" }
+      ],
+      "dialogo": {
+        "titulo": "Pedir en el mostrador",
+        "lineas": [
+          { "q": "A", "t": "Buongiorno, signora! Prego?", "es": "¡Buenos días, señora! ¿Dígame?" },
+          { "q": "B", "t": "Vorrei un cappuccino e un cornetto, per favore.", "es": "Quisiera un capuchino y un croissant, por favor." },
+          { "q": "A", "t": "Ecco a lei! Altro?", "es": "¡Aquí tiene! ¿Algo más?" },
+          { "q": "B", "t": "No, grazie.", "es": "No, gracias." },
+          { "q": "A", "t": "Qui o da portare via?", "es": "¿Aquí o para llevar?" },
+          { "q": "B", "t": "Qui, grazie.", "es": "Aquí, gracias." }
+        ]
+      },
+      "nota": "«Prego?» al inicio del pedido significa «¿dígame?». «Posso avere...?» es otra forma educada: literalmente «¿puedo tener?». «Voglio» (quiero) se usa poco al pedir porque suena muy directo. En la barra de un bar italiano el café se bebe de pie y es más barato que sentado."
+    },
+    {
+      "id": "it-a1-u3-l4",
+      "n": 4,
+      "titulo": "¿Cuánto cuesta?",
+      "objetivo": "Preguntar precios, entenderlos hasta 100 euros y pagar.",
+      "intro": "Para preguntar el precio se dice «Quanto costa?» y para responder «Costa... euro». Truco: ya sabes los números; solo juntas decena + unidad (venti + tre = ventitré).",
+      "palabras": [
+        { "t": "quanto", "es": "cuánto", "pron": "cuánto", "ej": "Quanto costa il caffè?", "ejes": "¿Cuánto cuesta el café?", "cog": true },
+        { "t": "costa", "es": "cuesta", "pron": "cósta", "ej": "Il caffè costa un euro.", "ejes": "El café cuesta un euro.", "cog": true, "truco": "Con singular: costa." },
+        { "t": "costano", "es": "cuestan", "pron": "cóstano", "ej": "I panini costano due euro.", "ejes": "Los sándwiches cuestan dos euros.", "cog": true, "truco": "Con plural: costano." },
+        { "t": "euro", "es": "euro", "pron": "éuro", "ej": "Il tè costa due euro.", "ejes": "El té cuesta dos euros.", "cog": true, "truco": "No cambia en plural: un euro, due euro." },
+        { "t": "il conto", "es": "la cuenta", "pron": "il cónto", "ej": "Il conto, per favore.", "ejes": "La cuenta, por favor.", "cog": false, "truco": "Falso amigo: «conto» es la cuenta, no «cuento»." },
+        { "t": "contanti", "es": "efectivo", "pron": "contánti", "ej": "In contanti, grazie.", "ejes": "En efectivo, gracias.", "cog": false },
+        { "t": "carta", "es": "tarjeta", "pron": "cárta", "ej": "Carta o contanti?", "ejes": "¿Tarjeta o efectivo?", "cog": false, "truco": "Ojo: «carta» también es papel o carta; aquí es la tarjeta de pago." },
+        { "t": "il prezzo", "es": "el precio", "pron": "il prétso", "ej": "Il prezzo è tre euro.", "ejes": "El precio es tres euros.", "cog": true },
+        { "t": "pagare", "es": "pagar", "pron": "pagáre", "ej": "Posso pagare, per favore?", "ejes": "¿Puedo pagar, por favor?", "cog": true }
+      ],
+      "frases": [
+        { "t": "Quanto costa il caffè?", "es": "¿Cuánto cuesta el café?", "pron": "cuánto cósta il cafè" },
+        { "t": "Costa un euro.", "es": "Cuesta un euro.", "pron": "cósta un éuro" },
+        { "t": "I panini costano due euro.", "es": "Los sándwiches cuestan dos euros.", "pron": "i paníni cóstano dúe éuro" },
+        { "t": "La pizza costa dieci euro.", "es": "La pizza cuesta diez euros.", "pron": "la pítsa cósta diéchi éuro" },
+        { "t": "Contanti o carta?", "es": "¿Efectivo o tarjeta?", "pron": "contánti o cárta" },
+        { "t": "Il conto, per favore.", "es": "La cuenta, por favor.", "pron": "il cónto, per favóre" }
+      ],
+      "dialogo": {
+        "titulo": "Pagar la cuenta",
+        "lineas": [
+          { "q": "A", "t": "Scusi, quanto costa la pizza?", "es": "Disculpe, ¿cuánto cuesta la pizza?" },
+          { "q": "B", "t": "La pizza costa dodici euro.", "es": "La pizza cuesta doce euros." },
+          { "q": "A", "t": "E la birra?", "es": "¿Y la cerveza?" },
+          { "q": "B", "t": "La birra costa cinque euro.", "es": "La cerveza cuesta cinco euros." },
+          { "q": "A", "t": "Il conto, per favore.", "es": "La cuenta, por favor." },
+          { "q": "B", "t": "Ecco il conto. Contanti o carta?", "es": "Aquí tiene la cuenta. ¿Efectivo o tarjeta?" }
+        ]
+      },
+      "nota": "Para los precios hasta 100: decena + unidad (ventitré, quarantacinque, novantotto). Con uno y otto la decena pierde la vocal final: ventuno, trentotto. Un euro se dice «un euro»; más de uno, «due euro» (sin -s). Los céntimos se llaman «centesimi»."
+    },
+    {
+      "id": "it-a1-u3-l5",
+      "n": 5,
+      "titulo": "Gustos y repaso",
+      "objetivo": "Decir lo que te gusta y repasar cómo pedir en un café.",
+      "intro": "Para decir que algo te gusta usa «Mi piace» seguido del artículo: «Mi piace il caffè». Truco: literalmente es «me agrada el café» y funciona con un solo objeto; con varios (mi piacciono i panini) cambia.",
+      "palabras": [
+        { "t": "mi piace", "es": "me gusta", "pron": "mi piáche", "ej": "Mi piace il caffè.", "ejes": "Me gusta el café.", "cog": false, "truco": "«ce» suena «che»: piá-che." },
+        { "t": "non mi piace", "es": "no me gusta", "pron": "non mi piáche", "ej": "Non mi piace la birra.", "ejes": "No me gusta la cerveza.", "cog": false },
+        { "t": "molto", "es": "mucho / muy", "pron": "mólto", "ej": "Mi piace molto la pizza.", "ejes": "Me gusta mucho la pizza.", "cog": true },
+        { "t": "buono", "es": "rico / bueno (masculino)", "pron": "buóno", "ej": "Il panino è buono.", "ejes": "El sándwich está rico.", "cog": true },
+        { "t": "buona", "es": "rica / buena (femenino)", "pron": "buóna", "ej": "La torta è buona.", "ejes": "El pastel está rico.", "cog": true },
+        { "t": "che cosa", "es": "qué", "pron": "que cósa", "ej": "Che cosa desidera?", "ejes": "¿Qué desea?", "cog": false, "truco": "Che = que (con «ch» = k)." },
+        { "t": "desidera", "es": "desea (usted)", "pron": "desídera", "ej": "Che cosa desidera, signora?", "ejes": "¿Qué desea, señora?", "cog": true },
+        { "t": "per me", "es": "para mí", "pron": "per me", "ej": "Per me un tè, grazie.", "ejes": "Para mí un té, gracias.", "cog": true },
+        { "t": "dolce", "es": "dulce", "pron": "dólche", "ej": "La torta è dolce.", "ejes": "El pastel es dulce.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Mi piace il caffè.", "es": "Me gusta el café.", "pron": "mi piáche il cafè" },
+        { "t": "Non mi piace la birra.", "es": "No me gusta la cerveza.", "pron": "non mi piáche la bírra" },
+        { "t": "Mi piace molto la pizza.", "es": "Me gusta mucho la pizza.", "pron": "mi piáche mólto la pítsa" },
+        { "t": "Che cosa desidera?", "es": "¿Qué desea?", "pron": "que cósa desídera" },
+        { "t": "Per me un tè, grazie.", "es": "Para mí un té, gracias.", "pron": "per me un tè, grátsie" },
+        { "t": "Il panino è buono.", "es": "El sándwich está rico.", "pron": "il paníno è buóno" }
+      ],
+      "dialogo": {
+        "titulo": "Pedir y opinar",
+        "lineas": [
+          { "q": "A", "t": "Buongiorno! Che cosa desidera?", "es": "¡Buenos días! ¿Qué desea?" },
+          { "q": "B", "t": "Per me un cappuccino. Mi piace molto!", "es": "Para mí un capuchino. ¡Me gusta mucho!" },
+          { "q": "A", "t": "Il cornetto?", "es": "¿Un croissant?" },
+          { "q": "B", "t": "No, grazie. Non mi piace.", "es": "No, gracias. No me gusta." },
+          { "q": "A", "t": "Ecco a lei! Il conto?", "es": "¡Aquí tiene! ¿La cuenta?" },
+          { "q": "B", "t": "Sì, per favore. Grazie!", "es": "Sí, por favor. ¡Gracias!" }
+        ]
+      },
+      "nota": "Con varios objetos se usa «mi piacciono»: Mi piacciono i panini. Pronunciación: «gli» (artículo plural masculino ante vocal o s+consonante, p. ej. gli spaghetti) suena como la «ll» andina de «llave»; si no la distingues, di «li» y te entenderán. «Gn» = ñ (gnocchi = ñóki). Repasa: Vorrei..., Posso avere...?, Quanto costa?, Il conto, per favore."
+    }
+  ]
+}

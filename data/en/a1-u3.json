@@ -1,0 +1,229 @@
+{
+  "id": "en-a1-u3",
+  "idioma": "en",
+  "nivel": "A1",
+  "n": 3,
+  "titulo": "En el café",
+  "resumen": "Aprenderás a pedir bebidas y comidas, preguntar precios y decir lo que te gusta, usando I'd like, I like, a/an y el plural con -s.",
+  "puedo": [
+    "Nombrar bebidas y comidas habituales de un café.",
+    "Pedir con I'd like y Can I have...?",
+    "Usar a y an correctamente.",
+    "Formar el plural con -s.",
+    "Preguntar el precio con How much...? y pagar.",
+    "Decir lo que me gusta y lo que no me gusta."
+  ],
+  "gramatica": {
+    "titulo": "I'd like, I like, a/an y el plural con -s",
+    "texto": "Para pedir con cortesía se dice I'd like... (quisiera...). Para decir lo que te gusta se dice I like... (me gusta...). Truco: I'd like es «quisiera» (un pedido), I like es «me gusta» (un gusto). Cuidado: I want suena muy brusco al pedir.\nA/an significa «un/una»: se usa a antes de sonido de consonante (a coffee) y an antes de sonido de vocal (an egg, an apple).\nPlural: normalmente se añade -s (a cake, two cakes). Si acaba en -ch, -sh, -s o -x, se añade -es (a sandwich, two sandwiches).",
+    "tabla": [
+      ["I'd like a coffee", "quisiera un café", "aid laik a cófi"],
+      ["I like coffee", "me gusta el café", "ai laik cófi"],
+      ["a cake / an egg", "un pastel / un huevo", "a keik / an eg"],
+      ["two cakes", "dos pasteles", "tu keiks"],
+      ["two sandwiches", "dos sándwiches", "tu sánduichis"]
+    ],
+    "errores": [
+      "No pidas con I want: suena brusco. Usa I'd like o Can I have...? para ser amable.",
+      "No uses a delante de vocal: es an egg, an apple y an orange juice, no «a egg».",
+      "No olvides el plural: two coffees (dos cafés), no «two coffee»."
+    ]
+  },
+  "practica": [
+    "Mira el menú de una cafetería (en papel o en internet) y di en voz alta 5 pedidos con I'd like... (5 minutos).",
+    "Escribe en un papel cuánto cuestan 5 cosas de tu casa en inglés, por ejemplo It's ten dollars (5 minutos).",
+    "Ordena tu desayuno de mañana en inglés: I'd like a coffee and a sandwich, please. Dilo 5 veces en voz alta (3 minutos).",
+    "Escribe 5 frases con I like y I don't like sobre comidas y bebidas, y léelas en voz alta (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-a1-u3-l1",
+      "n": 1,
+      "titulo": "Bebidas",
+      "objetivo": "Reconocer y pedir las bebidas más comunes de un café.",
+      "intro": "Empecemos por lo básico: ¿qué tomas? Muchas bebidas se parecen al español (coffee, chocolate). Truco: la «ee» de coffee y tea es una «i» larga: cófi, ti.",
+      "palabras": [
+        { "t": "coffee", "es": "café", "pron": "cófi", "ej": "A coffee, please.", "ejes": "Un café, por favor.", "cog": true },
+        { "t": "tea", "es": "té", "pron": "ti", "ej": "Tea, please.", "ejes": "Un té, por favor.", "cog": false, "truco": "tea se pronuncia igual que la letra «t»: «ti»." },
+        { "t": "water", "es": "agua", "pron": "uóter", "ej": "Water, please, Sam.", "ejes": "Agua, por favor, Sam.", "cog": false },
+        { "t": "juice", "es": "jugo", "pron": "yus", "ej": "Juice, please.", "ejes": "Un jugo, por favor.", "cog": false },
+        { "t": "milk", "es": "leche", "pron": "milk", "ej": "Coffee and milk, please.", "ejes": "Café con leche, por favor.", "cog": false },
+        { "t": "soda", "es": "gaseosa / refresco", "pron": "sóuda", "ej": "A soda, please.", "ejes": "Una gaseosa, por favor.", "cog": false },
+        { "t": "orange juice", "es": "jugo de naranja", "pron": "órinsh yus", "ej": "Orange juice, please.", "ejes": "Un jugo de naranja, por favor.", "cog": false },
+        { "t": "hot chocolate", "es": "chocolate caliente", "pron": "jat chóclet", "ej": "A hot chocolate, please.", "ejes": "Un chocolate caliente, por favor.", "cog": true, "truco": "hot es «caliente»; chocolate es casi igual al español." },
+        { "t": "cup", "es": "taza", "pron": "cap", "ej": "A cup of tea.", "ejes": "Una taza de té.", "cog": false, "truco": "cup suena «cap», no «cup» como se lee." },
+        { "t": "glass", "es": "vaso", "pron": "glas", "ej": "A glass of water.", "ejes": "Un vaso de agua.", "cog": false }
+      ],
+      "frases": [
+        { "t": "A coffee, please.", "es": "Un café, por favor.", "pron": "a cófi, plis" },
+        { "t": "I'd like a tea, please.", "es": "Quisiera un té, por favor.", "pron": "aid laik a ti, plis" },
+        { "t": "Water, please.", "es": "Agua, por favor.", "pron": "uóter, plis" },
+        { "t": "Coffee and milk, please.", "es": "Café con leche, por favor.", "pron": "cófi an milk, plis" },
+        { "t": "A glass of orange juice, please.", "es": "Un vaso de jugo de naranja, por favor.", "pron": "a glas of órinsh yus, plis" }
+      ],
+      "dialogo": {
+        "titulo": "Primer pedido",
+        "lineas": [
+          { "q": "A", "t": "Good morning!", "es": "¡Buenos días!" },
+          { "q": "B", "t": "Good morning! A coffee, please.", "es": "¡Buenos días! Un café, por favor." },
+          { "q": "A", "t": "Coffee and milk?", "es": "¿Café con leche?" },
+          { "q": "B", "t": "Yes, please. Thank you!", "es": "Sí, por favor. ¡Gracias!" },
+          { "q": "A", "t": "You're welcome.", "es": "De nada." }
+        ]
+      },
+      "nota": "Con of se mide la bebida: a cup of tea (una taza de té), a glass of water (un vaso de agua). En EE. UU. soda es la palabra habitual para la gaseosa."
+    },
+    {
+      "id": "en-a1-u3-l2",
+      "n": 2,
+      "titulo": "Comidas",
+      "objetivo": "Nombrar comidas comunes y usar a o an delante.",
+      "intro": "Aquí aparece a/an (un/una). Truco: a va delante de sonido de consonante (a sandwich, a cake) y an delante de sonido de vocal (an egg, an apple). Es una regla de sonido, no de letras.",
+      "palabras": [
+        { "t": "sandwich", "es": "sándwich", "pron": "sánduich", "ej": "A sandwich and a coffee, please.", "ejes": "Un sándwich y un café, por favor.", "cog": true, "truco": "La «w» de sandwich no suena: «sánduich» (como «sánguche» en Perú)." },
+        { "t": "cake", "es": "pastel / torta", "pron": "keik", "ej": "A chocolate cake, please.", "ejes": "Un pastel de chocolate, por favor.", "cog": false },
+        { "t": "bread", "es": "pan", "pron": "bred", "ej": "Bread and cheese, please.", "ejes": "Pan y queso, por favor.", "cog": false },
+        { "t": "egg", "es": "huevo", "pron": "eg", "ej": "An egg, please.", "ejes": "Un huevo, por favor.", "cog": false, "truco": "egg empieza con vocal, por eso lleva an." },
+        { "t": "salad", "es": "ensalada", "pron": "sálad", "ej": "A salad and water, please.", "ejes": "Una ensalada y agua, por favor.", "cog": false },
+        { "t": "soup", "es": "sopa", "pron": "sup", "ej": "Soup and bread, please.", "ejes": "Sopa y pan, por favor.", "cog": false },
+        { "t": "fruit", "es": "fruta", "pron": "frut", "ej": "Fruit and juice, please.", "ejes": "Fruta y jugo, por favor.", "cog": true },
+        { "t": "cheese", "es": "queso", "pron": "chis", "ej": "A cheese sandwich, please.", "ejes": "Un sándwich de queso, por favor.", "cog": false, "truco": "cheese suena «chis», como al sacar una foto: say cheese." },
+        { "t": "pizza", "es": "pizza", "pron": "pítsa", "ej": "A pizza, please.", "ejes": "Una pizza, por favor.", "cog": true, "truco": "La «zz» de pizza suena «ts»: «pítsa»." },
+        { "t": "apple", "es": "manzana", "pron": "ápol", "ej": "An apple and a tea, please.", "ejes": "Una manzana y un té, por favor.", "cog": false }
+      ],
+      "frases": [
+        { "t": "A sandwich, please.", "es": "Un sándwich, por favor.", "pron": "a sánduich, plis" },
+        { "t": "An egg and bread, please.", "es": "Un huevo y pan, por favor.", "pron": "an eg an bred, plis" },
+        { "t": "Soup and salad, please.", "es": "Sopa y ensalada, por favor.", "pron": "sup an sálad, plis" },
+        { "t": "I'd like an apple.", "es": "Quisiera una manzana.", "pron": "aid laik an ápol" },
+        { "t": "A pizza and a juice, please.", "es": "Una pizza y un jugo, por favor.", "pron": "a pítsa an a yus, plis" },
+        { "t": "Bread and cheese, please.", "es": "Pan y queso, por favor.", "pron": "bred an chis, plis" }
+      ],
+      "dialogo": {
+        "titulo": "Un almuerzo rápido",
+        "lineas": [
+          { "q": "A", "t": "Good afternoon! Soup or salad?", "es": "¡Buenas tardes! ¿Sopa o ensalada?" },
+          { "q": "B", "t": "Soup, please. And bread.", "es": "Sopa, por favor. Y pan." },
+          { "q": "A", "t": "A cheese sandwich?", "es": "¿Un sándwich de queso?" },
+          { "q": "B", "t": "Yes, please. And an apple.", "es": "Sí, por favor. Y una manzana." },
+          { "q": "A", "t": "Thank you, Emma!", "es": "¡Gracias, Emma!" }
+        ]
+      },
+      "nota": "Or significa «o»: Soup or salad? (¿Sopa o ensalada?). Y no hace falta decir «un» delante de cosas que no se cuentan, como bread, soup o fruit: se dice simplemente Bread, please. Para contarlas se usa a piece of bread."
+    },
+    {
+      "id": "en-a1-u3-l3",
+      "n": 3,
+      "titulo": "Pedir",
+      "objetivo": "Pedir con cortesía y responder a las preguntas típicas del mesero.",
+      "intro": "Para pedir con cortesía tienes I'd like... y Can I have...? Truco: I'd like significa «quisiera»; Can I have...? significa «¿me da...?». Las dos suenan amables. Evita I want, que suena a orden.",
+      "palabras": [
+        { "t": "I'd like", "es": "quisiera", "pron": "aid laik", "ej": "I'd like a coffee, please.", "ejes": "Quisiera un café, por favor.", "cog": false, "truco": "I'd = I would. Es la forma educada de pedir." },
+        { "t": "can", "es": "poder / ¿puedo?", "pron": "kan", "ej": "Can I have a tea?", "ejes": "¿Me da un té?", "cog": false },
+        { "t": "have", "es": "tener / tomar", "pron": "jav", "ej": "Can I have a cake, please?", "ejes": "¿Me da un pastel, por favor?", "cog": false },
+        { "t": "menu", "es": "menú / carta", "pron": "mén-iu", "ej": "The menu, please.", "ejes": "La carta, por favor.", "cog": true },
+        { "t": "here you are", "es": "aquí tiene", "pron": "jíar iú ar", "ej": "Here you are, Sam.", "ejes": "Aquí tiene, Sam.", "cog": false, "truco": "Lo dices al entregar algo: el café, el dinero..." },
+        { "t": "anything else", "es": "¿algo más?", "pron": "énizin els", "ej": "Anything else?", "ejes": "¿Algo más?", "cog": false },
+        { "t": "to go", "es": "para llevar", "pron": "tu góu", "ej": "A coffee to go, please.", "ejes": "Un café para llevar, por favor.", "cog": false },
+        { "t": "for here", "es": "para tomar aquí", "pron": "for jíar", "ej": "For here, please.", "ejes": "Para tomar aquí, por favor.", "cog": false },
+        { "t": "that's all", "es": "eso es todo", "pron": "dats ol", "ej": "That's all, thank you.", "ejes": "Eso es todo, gracias.", "cog": false, "truco": "En that's, la «th» es una «d» suave con la lengua entre los dientes." }
+      ],
+      "frases": [
+        { "t": "I'd like a sandwich, please.", "es": "Quisiera un sándwich, por favor.", "pron": "aid laik a sánduich, plis" },
+        { "t": "Can I have a coffee, please?", "es": "¿Me da un café, por favor?", "pron": "kan ai jav a cófi, plis" },
+        { "t": "Here you are.", "es": "Aquí tiene.", "pron": "jíar iú ar" },
+        { "t": "Anything else?", "es": "¿Algo más?", "pron": "énizin els" },
+        { "t": "For here or to go?", "es": "¿Para tomar aquí o para llevar?", "pron": "for jíar or tu góu" },
+        { "t": "That's all, thank you.", "es": "Eso es todo, gracias.", "pron": "dats ol, zank iú" }
+      ],
+      "dialogo": {
+        "titulo": "En el mostrador",
+        "lineas": [
+          { "q": "A", "t": "Good afternoon, Emma!", "es": "¡Buenas tardes, Emma!" },
+          { "q": "B", "t": "Hi! I'd like a pizza, please.", "es": "¡Hola! Quisiera una pizza, por favor." },
+          { "q": "A", "t": "Anything else?", "es": "¿Algo más?" },
+          { "q": "B", "t": "Can I have a juice, please?", "es": "¿Me da un jugo, por favor?" },
+          { "q": "A", "t": "For here or to go?", "es": "¿Para tomar aquí o para llevar?" },
+          { "q": "B", "t": "To go, please.", "es": "Para llevar, por favor." }
+        ]
+      },
+      "nota": "For here or to go? es la pregunta clásica en EE. UU. cuando pides comida: ¿lo comes allí (for here) o te lo llevas (to go)? Si dices To go, te lo dan en bolsa o en vaso con tapa."
+    },
+    {
+      "id": "en-a1-u3-l4",
+      "n": 4,
+      "titulo": "¿Cuánto cuesta?",
+      "objetivo": "Preguntar precios, entenderlos y pagar la cuenta.",
+      "intro": "Para preguntar un precio se dice How much is it? (para una cosa) y How much are they? (para varias). Truco: el precio se responde con It's... (una cosa) o They're... (varias) + dollars.",
+      "palabras": [
+        { "t": "how much", "es": "cuánto cuesta", "pron": "jau mach", "ej": "How much is the soup?", "ejes": "¿Cuánto cuesta la sopa?", "cog": false },
+        { "t": "it's", "es": "es / cuesta", "pron": "its", "ej": "It's ten dollars.", "ejes": "Cuesta diez dólares.", "cog": false, "truco": "It's = it is. Úsalo con una sola cosa." },
+        { "t": "they're", "es": "son / cuestan", "pron": "déir", "ej": "They're two dollars.", "ejes": "Cuestan dos dólares.", "cog": false, "truco": "They're = they are. Úsalo con varias cosas." },
+        { "t": "dollar", "es": "dólar", "pron": "dólar", "ej": "It's one dollar.", "ejes": "Cuesta un dólar.", "cog": true },
+        { "t": "dollars", "es": "dólares", "pron": "dólars", "ej": "It's five dollars.", "ejes": "Cuesta cinco dólares.", "cog": true, "truco": "Del dos en adelante lleva -s: two dollars." },
+        { "t": "bill", "es": "la cuenta", "pron": "bil", "ej": "The bill, please.", "ejes": "La cuenta, por favor.", "cog": false },
+        { "t": "cash", "es": "efectivo", "pron": "cash", "ej": "Cash, please.", "ejes": "Efectivo, por favor.", "cog": false },
+        { "t": "card", "es": "tarjeta", "pron": "card", "ej": "Card, please.", "ejes": "Con tarjeta, por favor.", "cog": false },
+        { "t": "total", "es": "total", "pron": "tóudal", "ej": "The total is twelve dollars.", "ejes": "El total es doce dólares.", "cog": true }
+      ],
+      "frases": [
+        { "t": "How much is it?", "es": "¿Cuánto cuesta?", "pron": "jau mach is it" },
+        { "t": "It's four dollars.", "es": "Cuesta cuatro dólares.", "pron": "its for dólars" },
+        { "t": "How much are they?", "es": "¿Cuánto cuestan?", "pron": "jau mach ar déi" },
+        { "t": "They're twelve dollars.", "es": "Cuestan doce dólares.", "pron": "déir tuélv dólars" },
+        { "t": "The bill, please.", "es": "La cuenta, por favor.", "pron": "da bil, plis" },
+        { "t": "Cash or card?", "es": "¿Efectivo o tarjeta?", "pron": "cash or card" }
+      ],
+      "dialogo": {
+        "titulo": "Pagando",
+        "lineas": [
+          { "q": "A", "t": "How much is the soup?", "es": "¿Cuánto cuesta la sopa?" },
+          { "q": "B", "t": "It's seven dollars.", "es": "Cuesta siete dólares." },
+          { "q": "A", "t": "And how much are the sandwiches?", "es": "¿Y cuánto cuestan los sándwiches?" },
+          { "q": "B", "t": "They're twelve dollars.", "es": "Cuestan doce dólares." },
+          { "q": "A", "t": "Thank you. The bill, please.", "es": "Gracias. La cuenta, por favor." },
+          { "q": "B", "t": "Cash or card?", "es": "¿Efectivo o tarjeta?" }
+        ]
+      },
+      "nota": "Hasta los precios de 100 dólares, usa los números que ya sabes: ninety-nine dollars. Para decir $12.50, se dice twelve fifty (doce cincuenta). En EE. UU. se deja propina (tip) en los restaurantes, normalmente entre el 15 % y el 20 % de la cuenta."
+    },
+    {
+      "id": "en-a1-u3-l5",
+      "n": 5,
+      "titulo": "Gustos y repaso",
+      "objetivo": "Decir lo que te gusta y lo que no, y repasar toda la unidad.",
+      "intro": "Para gustos usa I like... (me gusta) e I don't like... (no me gusta). Truco: don't es do not, la forma corta que se usa siempre al hablar. Y para ofrecer algo, la pregunta amable es What would you like? (¿Qué quisiera?).",
+      "palabras": [
+        { "t": "like", "es": "gustar / me gusta", "pron": "laik", "ej": "I like coffee.", "ejes": "Me gusta el café.", "cog": false },
+        { "t": "don't", "es": "no (con verbos)", "pron": "dount", "ej": "I don't like soda.", "ejes": "No me gusta la gaseosa.", "cog": false },
+        { "t": "love", "es": "encantar / amar", "pron": "lov", "ej": "I love pizza!", "ejes": "¡Me encanta la pizza!", "cog": false },
+        { "t": "what", "es": "qué", "pron": "juat", "ej": "What would you like?", "ejes": "¿Qué quisiera?", "cog": false },
+        { "t": "would", "es": "(auxiliar de cortesía)", "pron": "uud", "ej": "Would you like a tea?", "ejes": "¿Quisiera un té?", "cog": false, "truco": "would suena «uud»; la «l» no se pronuncia." },
+        { "t": "or", "es": "o", "pron": "or", "ej": "Coffee or tea?", "ejes": "¿Café o té?", "cog": false },
+        { "t": "with", "es": "con", "pron": "uiz", "ej": "Tea with milk, please.", "ejes": "Té con leche, por favor.", "cog": false, "truco": "En la «th» saca la lengua entre los dientes." },
+        { "t": "but", "es": "pero", "pron": "bat", "ej": "I like tea, but I don't like coffee.", "ejes": "Me gusta el té, pero no me gusta el café.", "cog": false },
+        { "t": "good", "es": "bueno / rico", "pron": "gud", "ej": "The cake is good.", "ejes": "El pastel está rico.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I like coffee.", "es": "Me gusta el café.", "pron": "ai laik cófi" },
+        { "t": "I don't like tea.", "es": "No me gusta el té.", "pron": "ai dount laik ti" },
+        { "t": "What would you like?", "es": "¿Qué quisiera?", "pron": "juat uud iú laik" },
+        { "t": "I'd like a tea with milk, please.", "es": "Quisiera un té con leche, por favor.", "pron": "aid laik a ti uiz milk, plis" },
+        { "t": "Would you like a cake?", "es": "¿Quisiera un pastel?", "pron": "uud iú laik a keik" },
+        { "t": "No, thank you.", "es": "No, gracias.", "pron": "nóu, zank iú" }
+      ],
+      "dialogo": {
+        "titulo": "Un café con una amiga",
+        "lineas": [
+          { "q": "A", "t": "Hello, Maria! What would you like?", "es": "¡Hola, Maria! ¿Qué quisieras?" },
+          { "q": "B", "t": "I'd like a coffee with milk, please.", "es": "Quisiera un café con leche, por favor." },
+          { "q": "A", "t": "Anything else?", "es": "¿Algo más?" },
+          { "q": "B", "t": "Yes, a cake. I love chocolate cake!", "es": "Sí, un pastel. ¡Me encanta el pastel de chocolate!" },
+          { "q": "A", "t": "It's nine dollars.", "es": "Son nueve dólares." },
+          { "q": "B", "t": "Here you are. Thank you!", "es": "Aquí tiene. ¡Gracias!" }
+        ]
+      },
+      "nota": "Diferencia clave: I'd like sirve para pedir (Quisiera...) e I like para gustos (Me gusta...). Una sola letra cambia todo: I'd like a coffee (pido un café) frente a I like coffee (me gusta el café). Para el plural, recuerda -s: two coffees, y -es en sandwich: two sandwiches."
+    }
+  ]
+}

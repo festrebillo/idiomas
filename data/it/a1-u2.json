@@ -1,0 +1,233 @@
+{
+  "id": "it-a1-u2",
+  "idioma": "it",
+  "nivel": "A1",
+  "n": 2,
+  "titulo": "Números y datos personales",
+  "resumen": "Aprenderás los números del 0 al 100, a decir tu edad y teléfono, tus datos personales y a deletrear.",
+  "puedo": [
+    "Contar del 0 al 100.",
+    "Decir mi edad y preguntar la de otra persona.",
+    "Dar mi número de teléfono.",
+    "Dar mis datos personales: nombre, apellido, ciudad y profesión.",
+    "Deletrear mi nombre con el alfabeto italiano."
+  ],
+  "gramatica": {
+    "titulo": "La edad con avere (tener)",
+    "texto": "En italiano la edad se dice con avere («tener»), igual que en español: Ho venti anni = Tengo veinte años. Nunca uses essere para la edad.\nAvere se conjuga así: ho, hai, ha, abbiamo, avete, hanno. La «h» es muda: ho suena «o», hai suena «ái» y ha suena «a». Solo se escribe para distinguir estas palabras de otras.\nFórmula para la edad: ho + número + anni. Para preguntar: Quanti anni hai? (¿Cuántos años tienes?).",
+    "tabla": [
+      ["io ho", "yo tengo", "ío o"],
+      ["tu hai", "tú tienes", "tu ái"],
+      ["lui / lei ha", "él / ella tiene", "lui / léi a"],
+      ["noi abbiamo", "nosotros tenemos", "nói abbiámo"],
+      ["voi avete", "ustedes tienen", "vói avéte"],
+      ["loro hanno", "ellos tienen", "lóro ánno"]
+    ],
+    "errores": [
+      "No uses essere para la edad: se dice «Ho venti anni», no «Sono venti anni».",
+      "No pronuncies la «h»: «ho» suena «o», no «jo».",
+      "No olvides «anni» (años): «Ho venti» solo no basta."
+    ]
+  },
+  "practica": [
+    "Cuenta en voz alta del 0 al 20 tres veces, cada vez más rápido (3 minutos).",
+    "Di tu edad y tu número de teléfono en italiano, cifra por cifra, y escríbelos en un papel (5 minutos).",
+    "Deletrea en voz alta tu nombre y tu apellido con las letras italianas (3 minutos).",
+    "Pide a un amigo o familiar que te diga números al azar del 1 al 100 y escríbelos en palabras (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-a1-u2-l1",
+      "n": 1,
+      "titulo": "Números de 1 a 10",
+      "objetivo": "Contar del 1 al 10 y hacer sumas sencillas.",
+      "intro": "Los números del 1 al 10 son la base de todo. Truco: «tre, quattro, cinque, sei» se parecen a «tres, cuatro, cinco, seis» y «sette, otto, nove» a «siete, ocho, nueve».",
+      "palabras": [
+        { "t": "uno", "es": "uno", "pron": "úno", "ej": "Uno, due, tre!", "ejes": "¡Uno, dos, tres!", "cog": true },
+        { "t": "due", "es": "dos", "pron": "dúe", "ej": "Uno, due, tre!", "ejes": "¡Uno, dos, tres!", "cog": true, "truco": "Parecido a «duo»." },
+        { "t": "tre", "es": "tres", "pron": "tre", "ej": "Due, tre, quattro!", "ejes": "¡Dos, tres, cuatro!", "cog": true },
+        { "t": "quattro", "es": "cuatro", "pron": "cuátro", "ej": "Tre, quattro, cinque!", "ejes": "¡Tres, cuatro, cinco!", "cog": true, "truco": "«qu» + a suena «cu»; la «tt» se pronuncia doble y fuerte." },
+        { "t": "cinque", "es": "cinco", "pron": "chínque", "ej": "Quattro, cinque, sei!", "ejes": "¡Cuatro, cinco, seis!", "cog": true, "truco": "La «c» ante i suena «ch»: chín-cue." },
+        { "t": "sei", "es": "seis", "pron": "séi", "ej": "Cinque, sei, sette!", "ejes": "¡Cinco, seis, siete!", "cog": true, "truco": "Ojo: «sei» también es «tú eres»." },
+        { "t": "sette", "es": "siete", "pron": "sétte", "ej": "Sei, sette, otto!", "ejes": "¡Seis, siete, ocho!", "cog": true },
+        { "t": "otto", "es": "ocho", "pron": "ótto", "ej": "Sette, otto, nove!", "ejes": "¡Siete, ocho, nueve!", "cog": true },
+        { "t": "nove", "es": "nueve", "pron": "nóve", "ej": "Otto, nove, dieci!", "ejes": "¡Ocho, nueve, diez!", "cog": true },
+        { "t": "dieci", "es": "diez", "pron": "diéchi", "ej": "Nove, dieci!", "ejes": "¡Nueve, diez!", "cog": true, "truco": "«ci» suena «chi»: dié-chi." }
+      ],
+      "frases": [
+        { "t": "Uno, due, tre, quattro, cinque.", "es": "Uno, dos, tres, cuatro, cinco.", "pron": "úno, dúe, tre, cuátro, chínque" },
+        { "t": "Tre più due fa cinque.", "es": "Tres más dos son cinco.", "pron": "tre piú dúe fa chínque" },
+        { "t": "Sette più tre fa dieci.", "es": "Siete más tres son diez.", "pron": "sétte piú tre fa diéchi" },
+        { "t": "Quattro più quattro fa otto.", "es": "Cuatro más cuatro son ocho.", "pron": "cuátro piú cuátro fa ótto" },
+        { "t": "Cinque più quattro fa nove.", "es": "Cinco más cuatro son nueve.", "pron": "chínque piú cuátro fa nóve" },
+        { "t": "Uno più cinque fa sei.", "es": "Uno más cinco son seis.", "pron": "úno piú chínque fa séi" }
+      ],
+      "dialogo": {
+        "titulo": "Un juego de sumas",
+        "lineas": [
+          { "q": "A", "t": "Quanto fa due più tre?", "es": "¿Cuánto es dos más tres?" },
+          { "q": "B", "t": "Fa cinque.", "es": "Son cinco." },
+          { "q": "A", "t": "E quattro più quattro?", "es": "¿Y cuatro más cuatro?" },
+          { "q": "B", "t": "Fa otto.", "es": "Son ocho." },
+          { "q": "A", "t": "Bravo!", "es": "¡Bien hecho!" },
+          { "q": "B", "t": "Grazie!", "es": "¡Gracias!" }
+        ]
+      },
+      "nota": "«più» = más; «fa» = hace/da: «tre più due fa cinque». «Quanto fa?» = ¿cuánto es? Las consonantes dobles (sette, otto, quattro) se pronuncian con más fuerza y un instante de pausa; «uno» pasa a ser «un» delante de un sustantivo masculino (un caffè)."
+    },
+    {
+      "id": "it-a1-u2-l2",
+      "n": 2,
+      "titulo": "Del 11 al 20 y las decenas",
+      "objetivo": "Contar hasta 100 de diez en diez y decir los números del 11 al 20.",
+      "intro": "Del 11 al 16 los números terminan en «-ici» (undici, dodici, tredici...). Truco: son los mismos del 1 al 6 más «-dici»: tre + dici = tredici.",
+      "palabras": [
+        { "t": "undici", "es": "once", "pron": "úndichi", "ej": "Dieci, undici!", "ejes": "¡Diez, once!", "cog": true, "truco": "Parece «undécimo»." },
+        { "t": "dodici", "es": "doce", "pron": "dódichi", "ej": "Undici, dodici!", "ejes": "¡Once, doce!", "cog": true },
+        { "t": "tredici", "es": "trece", "pron": "trédichi", "ej": "Dodici, tredici!", "ejes": "¡Doce, trece!", "cog": true },
+        { "t": "quindici", "es": "quince", "pron": "cuíndichi", "ej": "Quattordici, quindici!", "ejes": "¡Catorce, quince!", "cog": true },
+        { "t": "venti", "es": "veinte", "pron": "vénti", "ej": "Diciannove, venti!", "ejes": "¡Diecinueve, veinte!", "cog": true, "truco": "Como «viente»; suena «vénti»." },
+        { "t": "trenta", "es": "treinta", "pron": "trénta", "ej": "Venti, trenta!", "ejes": "¡Veinte, treinta!", "cog": true },
+        { "t": "quaranta", "es": "cuarenta", "pron": "cuaránta", "ej": "Trenta, quaranta!", "ejes": "¡Treinta, cuarenta!", "cog": true },
+        { "t": "cinquanta", "es": "cincuenta", "pron": "chincuánta", "ej": "Quaranta, cinquanta!", "ejes": "¡Cuarenta, cincuenta!", "cog": true },
+        { "t": "sessanta", "es": "sesenta", "pron": "sesánta", "ej": "Cinquanta, sessanta!", "ejes": "¡Cincuenta, sesenta!", "cog": true },
+        { "t": "cento", "es": "cien", "pron": "chénto", "ej": "Novanta, cento!", "ejes": "¡Noventa, cien!", "cog": true, "truco": "Como «centenario»: chén-to." }
+      ],
+      "frases": [
+        { "t": "Undici, dodici, tredici, quattordici, quindici.", "es": "Once, doce, trece, catorce, quince.", "pron": "úndichi, dódichi, trédichi, cuattórdichi, cuíndichi" },
+        { "t": "Sedici, diciassette, diciotto, diciannove, venti.", "es": "Dieciséis, diecisiete, dieciocho, diecinueve, veinte.", "pron": "sédichi, dichassétte, dichótto, dichannóve, vénti" },
+        { "t": "Venti, trenta, quaranta, cinquanta.", "es": "Veinte, treinta, cuarenta, cincuenta.", "pron": "vénti, trénta, cuaránta, chincuánta" },
+        { "t": "Sessanta, settanta, ottanta, novanta, cento.", "es": "Sesenta, setenta, ochenta, noventa, cien.", "pron": "sesánta, settánta, ottánta, novánta, chénto" },
+        { "t": "Ventuno, ventidue, ventitré.", "es": "Veintiuno, veintidós, veintitrés.", "pron": "ventúno, ventidúe, ventitré" }
+      ],
+      "dialogo": {
+        "titulo": "Sumas más grandes",
+        "lineas": [
+          { "q": "A", "t": "Quanto fa dieci più dieci?", "es": "¿Cuánto es diez más diez?" },
+          { "q": "B", "t": "Fa venti.", "es": "Son veinte." },
+          { "q": "A", "t": "Quanto fa venti più venti?", "es": "¿Cuánto es veinte más veinte?" },
+          { "q": "B", "t": "Fa quaranta.", "es": "Son cuarenta." },
+          { "q": "A", "t": "Bravo! Quanto fa cinquanta più cinquanta?", "es": "¡Muy bien! ¿Cuánto es cincuenta más cincuenta?" },
+          { "q": "B", "t": "Fa cento!", "es": "¡Son cien!" }
+        ]
+      },
+      "nota": "Para el 21, 22... se suma la unidad a la decena: venti + uno = ventuno, venti + due = ventidue. Con uno y otto la decena pierde su última vocal: ventuno, ventotto, trentuno, trentotto. El 3 final lleva tilde: ventitré, trentatré. Los números de decena terminan en -anta (trenta... novanta), como el español «-enta»."
+    },
+    {
+      "id": "it-a1-u2-l3",
+      "n": 3,
+      "titulo": "La edad y el teléfono",
+      "objetivo": "Preguntar y decir la edad y dar un número de teléfono.",
+      "intro": "La edad se dice con «avere» (tener), igual que en español: «Ho venti anni». Truco: la «h» de ho, hai, ha no suena, ¡es muda!",
+      "palabras": [
+        { "t": "zero", "es": "cero", "pron": "dséro", "ej": "Zero, uno, due, tre!", "ejes": "¡Cero, uno, dos, tres!", "cog": true, "truco": "La «z» italiana suena «ds» al inicio de zero." },
+        { "t": "anni", "es": "años", "pron": "ánni", "ej": "Ho trenta anni.", "ejes": "Tengo treinta años.", "cog": true, "truco": "Como «anual»; la «nn» suena doble." },
+        { "t": "quanti", "es": "cuántos", "pron": "cuánti", "ej": "Quanti anni hai?", "ejes": "¿Cuántos años tienes?", "cog": true },
+        { "t": "ho", "es": "tengo", "pron": "o", "ej": "Ho venti anni.", "ejes": "Tengo veinte años.", "cog": false, "truco": "La «h» es muda: suena solo «o»." },
+        { "t": "hai", "es": "tienes", "pron": "ái", "ej": "Hai venti anni?", "ejes": "¿Tienes veinte años?", "cog": false },
+        { "t": "ha", "es": "tiene", "pron": "a", "ej": "Giulia ha quaranta anni.", "ejes": "Giulia tiene cuarenta años.", "cog": false },
+        { "t": "numero", "es": "número", "pron": "número", "ej": "Il numero è sette, otto, nove.", "ejes": "El número es siete, ocho, nueve.", "cog": true },
+        { "t": "telefono", "es": "teléfono", "pron": "teléfono", "ej": "Il numero di telefono è nove, due, tre.", "ejes": "El número de teléfono es nueve, dos, tres.", "cog": true },
+        { "t": "mio", "es": "mi (masculino)", "pron": "mío", "ej": "Il mio numero è sette, otto.", "ejes": "Mi número es siete, ocho.", "cog": false, "truco": "Il mio numero = mi número." },
+        { "t": "tuo", "es": "tu (masculino)", "pron": "túo", "ej": "Qual è il tuo numero?", "ejes": "¿Cuál es tu número?", "cog": false }
+      ],
+      "frases": [
+        { "t": "Quanti anni hai?", "es": "¿Cuántos años tienes?", "pron": "cuánti ánni ái" },
+        { "t": "Ho venti anni.", "es": "Tengo veinte años.", "pron": "o vénti ánni" },
+        { "t": "Marco ha trenta anni.", "es": "Marco tiene treinta años.", "pron": "márco a trénta ánni" },
+        { "t": "Qual è il tuo numero di telefono?", "es": "¿Cuál es tu número de teléfono?", "pron": "cual è il túo número di teléfono" },
+        { "t": "Il mio numero è nove, due, tre.", "es": "Mi número es nueve, dos, tres.", "pron": "il mío número è nóve, dúe, tre" },
+        { "t": "Quanti anni ha, signora?", "es": "¿Cuántos años tiene, señora?", "pron": "cuánti ánni a, siñóra" }
+      ],
+      "dialogo": {
+        "titulo": "Un número de teléfono",
+        "lineas": [
+          { "q": "A", "t": "Ciao, mi chiamo Luca. Quanti anni hai?", "es": "Hola, me llamo Luca. ¿Cuántos años tienes?" },
+          { "q": "B", "t": "Ho venti anni. Piacere, Luca!", "es": "Tengo veinte años. ¡Mucho gusto, Luca!" },
+          { "q": "A", "t": "Qual è il tuo numero di telefono?", "es": "¿Cuál es tu número de teléfono?" },
+          { "q": "B", "t": "Il mio numero è sette, otto, nove.", "es": "Mi número es siete, ocho, nueve." },
+          { "q": "A", "t": "Grazie!", "es": "¡Gracias!" },
+          { "q": "B", "t": "Prego!", "es": "¡De nada!" }
+        ]
+      },
+      "nota": "Literalmente «Ho venti anni» es «tengo veinte años», sin necesidad de «tener» extra. «Il mio / il tuo» (mi / tu) llevan «il» delante: lo estudiarás en la unidad 3. El teléfono se dice cifra por cifra, o en pares si prefieres. «Quanti anni ha?» (con «ha») es la forma de usted."
+    },
+    {
+      "id": "it-a1-u2-l4",
+      "n": 4,
+      "titulo": "Datos personales",
+      "objetivo": "Dar y pedir nombre, apellido, dirección, correo, ciudad y profesión.",
+      "intro": "En un formulario o en un hotel te piden tus datos. Muchas palabras se parecen al español (nome, città, ingegnere), pero ¡cuidado con los falsos amigos!",
+      "palabras": [
+        { "t": "nome", "es": "nombre", "pron": "nóme", "ej": "Il mio nome è Ana.", "ejes": "Mi nombre es Ana.", "cog": true },
+        { "t": "cognome", "es": "apellido", "pron": "coñóme", "ej": "Il mio cognome è Rossi.", "ejes": "Mi apellido es Rossi.", "cog": false, "truco": "Falso amigo: «cognome» no es «cognomen»; significa apellido." },
+        { "t": "indirizzo", "es": "dirección (domicilio)", "pron": "indiríttso", "ej": "", "ejes": "", "cog": false, "truco": "«zz» suena «ts»." },
+        { "t": "e-mail", "es": "correo electrónico", "pron": "ímeil", "ej": "", "ejes": "", "cog": true, "truco": "Se pronuncia casi como en inglés." },
+        { "t": "città", "es": "ciudad", "pron": "chitá", "ej": "", "ejes": "", "cog": true, "truco": "Termina en -à: la sílaba final es la fuerte." },
+        { "t": "lavoro", "es": "trabajo", "pron": "lavóro", "ej": "", "ejes": "", "cog": false, "truco": "Lavoro = labor. Piensa en «laborioso»." },
+        { "t": "studente", "es": "estudiante", "pron": "studénte", "ej": "Sono studente.", "ejes": "Soy estudiante.", "cog": true },
+        { "t": "insegnante", "es": "profesor / profesora", "pron": "inseñánte", "ej": "Maria è insegnante.", "ejes": "Maria es profesora.", "cog": false, "truco": "Sirve para hombre y mujer. «gn» = ñ." },
+        { "t": "medico", "es": "médico", "pron": "médico", "ej": "Giulia è medico.", "ejes": "Giulia es médica.", "cog": true },
+        { "t": "ingegnere", "es": "ingeniero / ingeniera", "pron": "inyeñére", "ej": "Marco è ingegnere.", "ejes": "Marco es ingeniero.", "cog": true, "truco": "Sirve para hombre y mujer. «ge» = ye; «gn» = ñ." }
+      ],
+      "frases": [
+        { "t": "Qual è il tuo nome?", "es": "¿Cuál es tu nombre?", "pron": "cual è il túo nóme" },
+        { "t": "Il mio cognome è Rossi.", "es": "Mi apellido es Rossi.", "pron": "il mío coñóme è rósi" },
+        { "t": "Qual è il tuo lavoro?", "es": "¿Cuál es tu trabajo?", "pron": "cual è il túo lavóro" },
+        { "t": "Sono studente.", "es": "Soy estudiante.", "pron": "sóno studénte" },
+        { "t": "Marco è ingegnere.", "es": "Marco es ingeniero.", "pron": "márco è inyeñére" },
+        { "t": "Maria è insegnante.", "es": "Maria es profesora.", "pron": "maría è inseñánte" }
+      ],
+      "dialogo": {
+        "titulo": "Datos en un hotel",
+        "lineas": [
+          { "q": "A", "t": "Qual è il tuo nome?", "es": "¿Cuál es tu nombre?" },
+          { "q": "B", "t": "Il mio nome è Carlos.", "es": "Mi nombre es Carlos." },
+          { "q": "A", "t": "Qual è il tuo cognome?", "es": "¿Cuál es tu apellido?" },
+          { "q": "B", "t": "Il mio cognome è Mendoza.", "es": "Mi apellido es Mendoza." },
+          { "q": "A", "t": "Qual è il tuo lavoro?", "es": "¿Cuál es tu trabajo?" },
+          { "q": "B", "t": "Sono ingegnere.", "es": "Soy ingeniero." }
+        ]
+      },
+      "nota": "Con profesiones no se usa artículo: «Sono studente», «Marco è ingegnere» (no «un ingegnere»). Las mujeres pueden decir «studentessa» (alumna); «insegnante» e «ingegnere» no cambian. Falso amigo: «cognome» es apellido, no «cognado» (cuñado = cognato). La pronunciación del «e-mail» es ímeil."
+    },
+    {
+      "id": "it-a1-u2-l5",
+      "n": 5,
+      "titulo": "El alfabeto y deletrear",
+      "objetivo": "Deletrear nombres y pedir que repitan; repasar todo lo de la unidad.",
+      "intro": "Cuando alguien no entiende tu nombre, lo deletreas. El alfabeto italiano tiene 21 letras, con nombres propios. Truco: aprende primero las que cambian respecto al español (ci, gi, acca, vu, zeta).",
+      "palabras": [
+        { "t": "alfabeto", "es": "alfabeto", "pron": "alfabéto", "ej": "", "ejes": "", "cog": true },
+        { "t": "lettera", "es": "letra", "pron": "léttera", "ej": "", "ejes": "", "cog": true, "truco": "Como «letra»." },
+        { "t": "si scrive", "es": "se escribe", "pron": "si scríve", "ej": "Come si scrive Rossi?", "ejes": "¿Cómo se escribe Rossi?", "cog": false },
+        { "t": "ripeti", "es": "repite", "pron": "ripéti", "ej": "Ripeti, per favore.", "ejes": "Repite, por favor.", "cog": true },
+        { "t": "più piano", "es": "más despacio", "pron": "piú piáno", "ej": "Più piano, per favore.", "ejes": "Más despacio, por favor.", "cog": false },
+        { "t": "doppia", "es": "doble", "pron": "dóppia", "ej": "R, o, doppia s, i.", "ejes": "R, o, doble s, i.", "cog": true, "truco": "Doppia s = doble s." },
+        { "t": "di nuovo", "es": "de nuevo", "pron": "di nuóvo", "ej": "Di nuovo, per favore.", "ejes": "De nuevo, por favor.", "cog": true },
+        { "t": "nome", "es": "nombre", "pron": "nóme", "ej": "Il mio nome è Giulia.", "ejes": "Mi nombre es Giulia.", "cog": true },
+        { "t": "cognome", "es": "apellido", "pron": "coñóme", "ej": "Il mio cognome è Bianchi.", "ejes": "Mi apellido es Bianchi.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Come si scrive il tuo nome?", "es": "¿Cómo se escribe tu nombre?", "pron": "cóme si scríve il túo nóme" },
+        { "t": "Il mio nome si scrive L, U, C, A.", "es": "Mi nombre se escribe L, U, C, A.", "pron": "il mío nóme si scríve éle, u, chi, a" },
+        { "t": "Ripeti, per favore.", "es": "Repite, por favor.", "pron": "ripéti, per favóre" },
+        { "t": "Più piano, per favore.", "es": "Más despacio, por favor.", "pron": "piú piáno, per favóre" },
+        { "t": "Sono studente e ho venti anni.", "es": "Soy estudiante y tengo veinte años.", "pron": "sóno studénte e o vénti ánni" },
+        { "t": "Il mio numero di telefono è nove, zero, uno.", "es": "Mi número de teléfono es nueve, cero, uno.", "pron": "il mío número di teléfono è nóve, dséro, úno" }
+      ],
+      "dialogo": {
+        "titulo": "Deletrear un apellido",
+        "lineas": [
+          { "q": "A", "t": "Come ti chiami?", "es": "¿Cómo te llamas?" },
+          { "q": "B", "t": "Mi chiamo Giulia Bianchi.", "es": "Me llamo Giulia Bianchi." },
+          { "q": "A", "t": "Come si scrive il tuo cognome?", "es": "¿Cómo se escribe tu apellido?" },
+          { "q": "B", "t": "Si scrive B, I, A, N, C, H, I.", "es": "Se escribe B, I, A, N, C, H, I." },
+          { "q": "A", "t": "Più piano, per favore.", "es": "Más despacio, por favor." },
+          { "q": "B", "t": "B, I, A, N, C, H, I.", "es": "B, I, A, N, C, H, I." }
+        ]
+      },
+      "nota": "Nombres de las letras: A (a), B (bi), C (chi), D (di), E (e), F (éfe), G (yi), H (áca), I (i), L (éle), M (éme), N (éne), O (o), P (pi), Q (cu), R (ére), S (ése), T (ti), U (u), V (vu), Z (dséta). J, K, W, X, Y solo se usan en palabras extranjeras. La «h» (acca) no suena, pero endurece c y g: «ch» = k (Bianchi = biánqui), «gh» = g."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "en": { "nombre": "Inglés", "unidades": ["a1-u1", "a1-u2", "a1-u3"], "proximas": ["Mi familia", "La hora, los días y mi rutina", "La casa", "La ciudad y direcciones", "Compras y dinero", "Gustos y pasatiempos", "Ahora y planes"] },
+  "pt": { "nombre": "Portugués", "unidades": ["a1-u1", "a1-u2", "a1-u3"], "proximas": ["Mi familia", "La hora, los días y mi rutina", "La casa", "La ciudad y direcciones", "Compras y dinero", "Gustos y pasatiempos", "Ahora y planes"] },
+  "it": { "nombre": "Italiano", "unidades": ["a1-u1", "a1-u2", "a1-u3"], "proximas": ["Mi familia", "La hora, los días y mi rutina", "La casa", "La ciudad y direcciones", "Compras y dinero", "Gustos y pasatiempos", "Ahora y planes"] }
+}
