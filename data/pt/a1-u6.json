@@ -1,0 +1,231 @@
+{
+  "id": "pt-a1-u6",
+  "idioma": "pt",
+  "nivel": "A1",
+  "n": 6,
+  "titulo": "La casa",
+  "resumen": "Aprenderás las habitaciones y los muebles, a decir lo que hay en una casa con «tem», a decir dónde está cada cosa y a describir tu casa.",
+  "puedo": [
+    "Nombrar las habitaciones de una casa.",
+    "Nombrar los muebles y objetos más comunes.",
+    "Decir lo que hay en un lugar con «tem».",
+    "Decir dónde está algo con no, na, em cima de, ao lado de...",
+    "Describir mi casa: grande, pequena, nova, bonita."
+  ],
+  "gramatica": {
+    "titulo": "Tem = hay, y las preposiciones de lugar",
+    "texto": "En Brasil, para decir «hay» se usa «tem» (de ter): Tem uma cama (Hay una cama). Sirve igual para singular y plural: Tem dois quartos. Pregunta: Tem banheiro? Negación: Não tem.\nPara decir dónde está algo usas «estar» + lugar. «Em» (en) se junta con el artículo: em + o = no, em + a = na, em + os = nos, em + as = nas. Igual pasa con de + o = do y de + a = da.\nOtras palabras de lugar: em cima de (encima de), embaixo de (debajo de), ao lado de (al lado de), atrás de (detrás de), na frente de (frente a). Ejemplo: O gato está em cima do sofá.",
+    "tabla": [
+      ["Tem uma cama.", "Hay una cama.", "téin úma káma"],
+      ["Tem dois quartos.", "Hay dos habitaciones.", "téin dois kuártus"],
+      ["no quarto / na sala", "en el cuarto / en la sala", "nu kuártu / na sála"],
+      ["em cima do sofá", "encima del sofá", "ein síma du sofá"],
+      ["ao lado da mesa", "al lado de la mesa", "au ládu da méza"],
+      ["na frente da porta", "frente a la puerta", "na fréntchi da pórta"]
+    ],
+    "errores": [
+      "No uses «têm» para «hay»: se dice «Tem dois quartos», con «tem» también en plural.",
+      "No digas «em o» ni «em a»: se juntan en «no» y «na» (no quarto, na sala).",
+      "«No» (en el) no es «não» (negación): no quarto = en el cuarto; não = no."
+    ]
+  },
+  "practica": [
+    "Recorre tu casa y di en voz alta el nombre de cada habitación y 3 objetos de cada una (6 minutos).",
+    "Escribe 6 frases con «Tem...» sobre tu casa: «Tem uma cozinha. Tem dois quartos...» (5 minutos).",
+    "Mueve un objeto y di dónde está: «O livro está em cima da mesa» (4 minutos).",
+    "Mira en YouTube un «tour pela casa» en portugués y anota 5 objetos con su lugar (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-a1-u6-l1",
+      "n": 1,
+      "titulo": "Las habitaciones",
+      "objetivo": "Nombrar las habitaciones de la casa y decir dónde vives.",
+      "intro": "Muchas habitaciones se parecen al español. Truco: «quarto» es la habitación (no el cuarto de la fracción) y «banheiro» es el cuarto de baño. «Morar» es «vivir» en una casa.",
+      "palabras": [
+        { "t": "casa", "es": "casa", "pron": "káza", "ej": "Eu gosto da casa.", "ejes": "Me gusta la casa.", "cog": true, "truco": "La «s» entre vocales suena «z»: káza." },
+        { "t": "apartamento", "es": "departamento", "pron": "apartaméntu", "ej": "Meu apartamento tem dois quartos.", "ejes": "Mi departamento tiene dos cuartos.", "cog": true },
+        { "t": "cozinha", "es": "cocina", "pron": "kosíña", "ej": "Minha mãe gosta da cozinha.", "ejes": "A mi mamá le gusta la cocina.", "cog": false, "truco": "«nh» = ñ: kosíña." },
+        { "t": "quarto", "es": "habitación / dormitorio", "pron": "kuártu", "ej": "O quarto é bonito.", "ejes": "La habitación es bonita.", "cog": false, "truco": "Falso amigo: «quarto» es el dormitorio." },
+        { "t": "banheiro", "es": "baño", "pron": "bañéiru", "ej": "Onde é o banheiro?", "ejes": "¿Dónde está el baño?", "cog": false },
+        { "t": "sala", "es": "sala", "pron": "sála", "ej": "A sala é bonita.", "ejes": "La sala es bonita.", "cog": true },
+        { "t": "jardim", "es": "jardín", "pron": "yardín", "ej": "Ana gosta do jardim.", "ejes": "A Ana le gusta el jardín.", "cog": true, "truco": "«j» suena «y» y «im» es nasal: yardín." },
+        { "t": "garagem", "es": "garaje / cochera", "pron": "garáyein", "ej": "A garagem é do meu tio.", "ejes": "La cochera es de mi tío.", "cog": true },
+        { "t": "morar", "es": "vivir (en un lugar)", "pron": "morár", "ej": "Eu gosto de morar aqui.", "ejes": "Me gusta vivir aquí.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Eu moro em um apartamento.", "es": "Yo vivo en un departamento.", "pron": "éu móru ein ún apartaméntu" },
+        { "t": "A casa tem uma cozinha e uma sala.", "es": "La casa tiene una cocina y una sala.", "pron": "a káza téin úma kosíña i úma sála" },
+        { "t": "Onde é o banheiro?", "es": "¿Dónde está el baño?", "pron": "ónyi é u bañéiru" },
+        { "t": "Ana e Luís moram em uma casa.", "es": "Ana y Luís viven en una casa.", "pron": "ána i luís móraun ein úma káza" },
+        { "t": "A casa tem jardim e garagem.", "es": "La casa tiene jardín y cochera.", "pron": "a káza téin yardín i garáyein" },
+        { "t": "Meu quarto é bonito.", "es": "Mi habitación es bonita.", "pron": "méu kuártu é bonítu" }
+      ],
+      "dialogo": {
+        "titulo": "¿Dónde vives?",
+        "lineas": [
+          { "q": "A", "t": "Oi, Paula! Você mora em uma casa?", "es": "¡Hola, Paula! ¿Vives en una casa?" },
+          { "q": "B", "t": "Não, eu moro em um apartamento.", "es": "No, yo vivo en un departamento." },
+          { "q": "A", "t": "O apartamento tem quantos quartos?", "es": "¿Cuántas habitaciones tiene el departamento?" },
+          { "q": "B", "t": "Tem dois quartos e uma sala.", "es": "Tiene dos habitaciones y una sala." },
+          { "q": "A", "t": "Eu moro em uma casa com jardim e garagem.", "es": "Yo vivo en una casa con jardín y cochera." }
+        ]
+      },
+      "nota": "«Quarto» es la habitación o dormitorio (no es «cuarto» de fracción). «Banheiro» es el baño de la casa; «toalete» y «lavabo» son el baño pequeño de visitas. «Sala» es la sala de estar. «Morar» se usa para donde vives; «viver» es más para «estar vivo»."
+    },
+    {
+      "id": "pt-a1-u6-l2",
+      "n": 2,
+      "titulo": "Muebles y objetos",
+      "objetivo": "Nombrar los muebles y objetos más comunes de una casa.",
+      "intro": "Estos objetos te servirán todos los días. Cuidado con los falsos amigos: «cadeira» es la silla (no la cadera) y «lâmpada» es el foco o bombilla. «TV» se dice «tevê» en portugués.",
+      "palabras": [
+        { "t": "cama", "es": "cama", "pron": "káma", "ej": "Eu gosto da minha cama.", "ejes": "Me gusta mi cama.", "cog": true },
+        { "t": "mesa", "es": "mesa", "pron": "méza", "ej": "A mesa é do meu avô.", "ejes": "La mesa es de mi abuelo.", "cog": true },
+        { "t": "cadeira", "es": "silla", "pron": "kadéira", "ej": "Eu quero uma cadeira.", "ejes": "Quiero una silla.", "cog": false, "truco": "Falso amigo: «cadeira» es la silla, no la cadera." },
+        { "t": "sofá", "es": "sofá", "pron": "sofá", "ej": "O sofá é bonito.", "ejes": "El sofá es bonito.", "cog": true },
+        { "t": "TV", "es": "televisión", "pron": "tevê", "ej": "A TV é do meu pai.", "ejes": "La televisión es de mi papá.", "cog": true, "truco": "Se pronuncia «tê-vê»: tevê." },
+        { "t": "lâmpada", "es": "foco / bombilla", "pron": "lámpada", "ej": "A lâmpada é do quarto.", "ejes": "El foco es del dormitorio.", "cog": false, "truco": "Falso amigo suave: «lâmpada» es el foco; la lámpara de mesa es «abajur»." },
+        { "t": "janela", "es": "ventana", "pron": "yanéla", "ej": "A janela é bonita.", "ejes": "La ventana es bonita.", "cog": false },
+        { "t": "porta", "es": "puerta", "pron": "pórta", "ej": "A porta é da cozinha.", "ejes": "La puerta es de la cocina.", "cog": true },
+        { "t": "geladeira", "es": "refrigeradora / nevera", "pron": "yeladéira", "ej": "Eu quero uma geladeira.", "ejes": "Quiero una refrigeradora.", "cog": false },
+        { "t": "armário", "es": "armario / ropero", "pron": "armáriu", "ej": "O armário é do meu irmão.", "ejes": "El ropero es de mi hermano.", "cog": true }
+      ],
+      "frases": [
+        { "t": "A cama e a mesa.", "es": "La cama y la mesa.", "pron": "a káma i a méza" },
+        { "t": "Eu quero uma cadeira.", "es": "Quiero una silla.", "pron": "éu kéru úma kadéira" },
+        { "t": "O sofá é bonito.", "es": "El sofá es bonito.", "pron": "u sofá é bonítu" },
+        { "t": "A TV é do meu pai.", "es": "La televisión es de mi papá.", "pron": "a tevê é du méu pái" },
+        { "t": "A janela e a porta.", "es": "La ventana y la puerta.", "pron": "a yanéla i a pórta" },
+        { "t": "Eu quero uma lâmpada para o quarto.", "es": "Quiero un foco para la habitación.", "pron": "éu kéru úma lámpada pára u kuártu" }
+      ],
+      "dialogo": {
+        "titulo": "En una tienda de muebles",
+        "lineas": [
+          { "q": "A", "t": "Boa tarde! Eu quero uma mesa e quatro cadeiras.", "es": "¡Buenas tardes! Quiero una mesa y cuatro sillas." },
+          { "q": "B", "t": "Para a cozinha ou para a sala?", "es": "¿Para la cocina o para la sala?" },
+          { "q": "A", "t": "Para a sala. Quanto custa a mesa?", "es": "Para la sala. ¿Cuánto cuesta la mesa?" },
+          { "q": "B", "t": "A mesa custa cem reais.", "es": "La mesa cuesta cien reales." },
+          { "q": "A", "t": "E o sofá? É caro?", "es": "¿Y el sofá? ¿Es caro?" },
+          { "q": "B", "t": "O sofá custa noventa reais. É barato!", "es": "El sofá cuesta noventa reales. ¡Es barato!" }
+        ]
+      },
+      "nota": "«Cadeira» es silla, y «cadera» se dice «quadril». «Lâmpada» es el foco o bombilla; «janela» es ventana, no «jaula». «Geladeira» es la nevera o refrigeradora, y «armário» es un mueble para guardar (ropero, aparador o gabinete)."
+    },
+    {
+      "id": "pt-a1-u6-l3",
+      "n": 3,
+      "titulo": "Tem... (hay)",
+      "objetivo": "Decir qué hay en una casa y preguntar si hay algo, con singular y plural.",
+      "intro": "En Brasil «hay» se dice «tem». Truco: siempre «tem», aunque sea plural: Tem um livro, Tem dois livros. Para preguntar solo sube la voz: «Tem banheiro?». Para negar: «Não tem».",
+      "palabras": [
+        { "t": "livro", "es": "libro", "pron": "lívru", "ej": "Tem um livro aqui.", "ejes": "Hay un libro aquí.", "cog": false, "truco": "Cuidado: «livro» es el libro; «libre» se dice «livre»." },
+        { "t": "quadro", "es": "cuadro", "pron": "kuádru", "ej": "Tem um quadro bonito.", "ejes": "Hay un cuadro bonito.", "cog": true },
+        { "t": "planta", "es": "planta", "pron": "plánta", "ej": "Tem uma planta lá.", "ejes": "Hay una planta allá.", "cog": true },
+        { "t": "espelho", "es": "espejo", "pron": "espélyu", "ej": "Tem um espelho aqui.", "ejes": "Hay un espejo aquí.", "cog": false, "truco": "«lh» suena «ly»: espélyu." },
+        { "t": "computador", "es": "computadora", "pron": "komputadór", "ej": "Tem um computador na sala.", "ejes": "Hay una computadora en la sala.", "cog": true },
+        { "t": "tapete", "es": "alfombra", "pron": "tapétchi", "ej": "Tem um tapete lá.", "ejes": "Hay una alfombra allá.", "cog": false, "truco": "Falso amigo: «tapete» es la alfombra, no el tapete." },
+        { "t": "lá", "es": "allá / allí", "pron": "lá", "ej": "Tem uma mesa lá.", "ejes": "Hay una mesa allá.", "cog": false },
+        { "t": "muitos", "es": "muchos", "pron": "múintus", "ej": "Tem muitos livros.", "ejes": "Hay muchos libros.", "cog": false, "truco": "Con femenino: muitas (múintas)." },
+        { "t": "poucos", "es": "pocos", "pron": "pókus", "ej": "Tem poucos quadros.", "ejes": "Hay pocos cuadros.", "cog": false, "truco": "«ou» suena «o»: pókus." },
+        { "t": "nenhum", "es": "ningún / ninguno", "pron": "neñún", "ej": "Não tem nenhum livro.", "ejes": "No hay ningún libro.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Tem uma cama aqui.", "es": "Hay una cama aquí.", "pron": "téin úma káma akí" },
+        { "t": "Tem dois quartos.", "es": "Hay dos habitaciones.", "pron": "téin dois kuártus" },
+        { "t": "Tem muitos livros.", "es": "Hay muchos libros.", "pron": "téin múintus lívrus" },
+        { "t": "Não tem janela.", "es": "No hay ventana.", "pron": "náun téin yanéla" },
+        { "t": "Tem uma mesa e quatro cadeiras.", "es": "Hay una mesa y cuatro sillas.", "pron": "téin úma méza i kuátru kadéiras" },
+        { "t": "Tem banheiro aqui?", "es": "¿Hay baño aquí?", "pron": "téin bañéiru akí" }
+      ],
+      "dialogo": {
+        "titulo": "Buscamos un departamento",
+        "lineas": [
+          { "q": "A", "t": "Oi, João! O apartamento tem quantos quartos?", "es": "¡Hola, João! ¿Cuántas habitaciones tiene el departamento?" },
+          { "q": "B", "t": "Tem dois quartos e um banheiro.", "es": "Tiene dos habitaciones y un baño." },
+          { "q": "A", "t": "Tem sala?", "es": "¿Hay sala?" },
+          { "q": "B", "t": "Tem uma sala e uma cozinha.", "es": "Hay una sala y una cocina." },
+          { "q": "A", "t": "Tem garagem?", "es": "¿Hay cochera?" },
+          { "q": "B", "t": "Não, não tem garagem.", "es": "No, no hay cochera." }
+        ]
+      },
+      "nota": "«Tem» sirve para «hay» (Tem uma cama) y también para «tiene» (Ana tem um gato). El contexto lo aclara. En Portugal y en textos formales se usa «há», pero en la conversación de Brasil lo normal es «tem». Y con plural sigue siendo «tem»: «Tem dois quartos»."
+    },
+    {
+      "id": "pt-a1-u6-l4",
+      "n": 4,
+      "titulo": "¿Dónde está?",
+      "objetivo": "Preguntar y decir dónde está algo con no, na, em cima de, atrás de y más.",
+      "intro": "Para ubicar algo usas «estar» + lugar. Truco: «em» se junta con el artículo: em + o = no, em + a = na. Y con «de»: de + o = do, de + a = da. Es como en español «de + el = del».",
+      "palabras": [
+        { "t": "estão", "es": "están", "pron": "estáun", "ej": "Os livros estão na mesa.", "ejes": "Los libros están en la mesa.", "cog": false, "truco": "Plural de «está»: estão." },
+        { "t": "no", "es": "en el", "pron": "nu", "ej": "O livro está no quarto.", "ejes": "El libro está en el cuarto.", "cog": false, "truco": "No es «no» de negación: aquí suena «nu» y significa «en el»." },
+        { "t": "na", "es": "en la", "pron": "na", "ej": "A TV está na sala.", "ejes": "La televisión está en la sala.", "cog": false },
+        { "t": "em cima de", "es": "encima de", "pron": "ein síma dyi", "ej": "O gato está em cima de uma cadeira.", "ejes": "El gato está encima de una silla.", "cog": false },
+        { "t": "embaixo de", "es": "debajo de", "pron": "embáishu dyi", "ej": "O cachorro está embaixo de uma mesa.", "ejes": "El perro está debajo de una mesa.", "cog": false },
+        { "t": "ao lado de", "es": "al lado de", "pron": "au ládu dyi", "ej": "O sofá está ao lado de uma planta.", "ejes": "El sofá está al lado de una planta.", "cog": false },
+        { "t": "atrás de", "es": "detrás de", "pron": "atrás dyi", "ej": "O gato está atrás de uma porta.", "ejes": "El gato está detrás de una puerta.", "cog": true },
+        { "t": "na frente de", "es": "delante de / frente a", "pron": "na fréntchi dyi", "ej": "A planta está na frente de uma janela.", "ejes": "La planta está delante de una ventana.", "cog": false },
+        { "t": "dentro de", "es": "dentro de", "pron": "déntru dyi", "ej": "O gato está dentro de um armário.", "ejes": "El gato está dentro de un ropero.", "cog": true },
+        { "t": "perto de", "es": "cerca de", "pron": "pértu dyi", "ej": "A cozinha está perto de uma sala.", "ejes": "La cocina está cerca de una sala.", "cog": false, "truco": "No es «perto» de pertenecer: es «cerca»." }
+      ],
+      "frases": [
+        { "t": "Onde está o gato?", "es": "¿Dónde está el gato?", "pron": "ónyi está u gátu" },
+        { "t": "O gato está em cima do sofá.", "es": "El gato está encima del sofá.", "pron": "u gátu está ein síma du sofá" },
+        { "t": "O livro está na mesa.", "es": "El libro está en la mesa.", "pron": "u lívru está na méza" },
+        { "t": "O cachorro está embaixo da mesa.", "es": "El perro está debajo de la mesa.", "pron": "u kashórru está embáishu da méza" },
+        { "t": "A TV está na frente do sofá.", "es": "La televisión está frente al sofá.", "pron": "a tevê está na fréntchi du sofá" },
+        { "t": "Os livros estão ao lado da lâmpada.", "es": "Los libros están al lado del foco.", "pron": "us lívrus estáun au ládu da lámpada" }
+      ],
+      "dialogo": {
+        "titulo": "Buscamos al gato",
+        "lineas": [
+          { "q": "A", "t": "Onde está o gato?", "es": "¿Dónde está el gato?" },
+          { "q": "B", "t": "O gato está em cima do sofá.", "es": "El gato está encima del sofá." },
+          { "q": "A", "t": "E o cachorro?", "es": "¿Y el perro?" },
+          { "q": "B", "t": "Está embaixo da mesa.", "es": "Está debajo de la mesa." },
+          { "q": "A", "t": "Onde estão meus livros?", "es": "¿Dónde están mis libros?" },
+          { "q": "B", "t": "Estão na sala, ao lado da TV.", "es": "Están en la sala, al lado de la televisión." }
+        ]
+      },
+      "nota": "Cuidado: «no» (em + o) significa «en el» y suena «nu»; «não» es el «no» de negación (náun). Con estas palabras el artículo se junta: em cima do sofá, ao lado da mesa, na frente do sofá. «Atrás de» y «dentro de» son casi como en español."
+    },
+    {
+      "id": "pt-a1-u6-l5",
+      "n": 5,
+      "titulo": "Describir mi casa",
+      "objetivo": "Describir tu casa y sus habitaciones y repasar toda la unidad.",
+      "intro": "Para describir tu casa usa «ser» + adjetivo: A casa é grande. Truco: el adjetivo cambia -o por -a si la palabra es femenina: casa nova, quarto novo. Y para decir cómo está algo ahora, se usa «está»: está limpo.",
+      "palabras": [
+        { "t": "grande", "es": "grande", "pron": "grándyi", "ej": "Minha casa é grande.", "ejes": "Mi casa es grande.", "cog": true, "truco": "No cambia: casa grande, quarto grande." },
+        { "t": "pequeno", "es": "pequeño", "pron": "pekénu", "ej": "Meu quarto é pequeno.", "ejes": "Mi habitación es pequeña.", "cog": true, "truco": "Mujer: pequena." },
+        { "t": "novo", "es": "nuevo", "pron": "nóvu", "ej": "O sofá é novo.", "ejes": "El sofá es nuevo.", "cog": true, "truco": "Mujer: nova." },
+        { "t": "moderno", "es": "moderno", "pron": "modérnu", "ej": "O apartamento é moderno.", "ejes": "El departamento es moderno.", "cog": true },
+        { "t": "confortável", "es": "cómodo", "pron": "konfortáveu", "ej": "A cama é confortável.", "ejes": "La cama es cómoda.", "cog": true, "truco": "La «l» final suena «u». Falso amigo suave: significa «cómodo»." },
+        { "t": "claro", "es": "claro / luminoso", "pron": "kláru", "ej": "O quarto é claro.", "ejes": "La habitación es luminosa.", "cog": true },
+        { "t": "escuro", "es": "oscuro", "pron": "eskúru", "ej": "O banheiro é escuro.", "ejes": "El baño es oscuro.", "cog": false },
+        { "t": "limpo", "es": "limpio", "pron": "límpu", "ej": "O quarto está limpo.", "ejes": "La habitación está limpia.", "cog": true, "truco": "Mujer: limpa." }
+      ],
+      "frases": [
+        { "t": "Minha casa é grande e bonita.", "es": "Mi casa es grande y bonita.", "pron": "míña káza é grándyi i boníta" },
+        { "t": "O meu quarto é pequeno, mas confortável.", "es": "Mi habitación es pequeña, pero cómoda.", "pron": "u méu kuártu é pekénu, mas konfortáveu" },
+        { "t": "A sala é clara e moderna.", "es": "La sala es luminosa y moderna.", "pron": "a sála é kláru i modérna" },
+        { "t": "O banheiro é escuro, mas está limpo.", "es": "El baño es oscuro, pero está limpio.", "pron": "u bañéiru é eskúru, mas está límpu" },
+        { "t": "O sofá é novo e a mesa é velha.", "es": "El sofá es nuevo y la mesa es vieja.", "pron": "u sofá é nóvu i a méza é vélya" },
+        { "t": "Eu moro em uma casa com jardim.", "es": "Yo vivo en una casa con jardín.", "pron": "éu móru ein úma káza kon yardín" }
+      ],
+      "dialogo": {
+        "titulo": "Mi casa nueva",
+        "lineas": [
+          { "q": "A", "t": "Maria, como é a sua casa?", "es": "Maria, ¿cómo es tu casa?" },
+          { "q": "B", "t": "É grande e muito clara.", "es": "Es grande y muy luminosa." },
+          { "q": "A", "t": "Tem jardim?", "es": "¿Hay jardín?" },
+          { "q": "B", "t": "Tem. O jardim é pequeno, mas bonito.", "es": "Sí. El jardín es pequeño, pero bonito." },
+          { "q": "A", "t": "E a cozinha?", "es": "¿Y la cocina?" },
+          { "q": "B", "t": "A cozinha é nova e moderna.", "es": "La cocina es nueva y moderna." }
+        ]
+      },
+      "nota": "Los adjetivos concuerdan: casa nova, quarto novo, sala clara, banheiro escuro. «Grande» no cambia. «Pequeno» (no «pequeño») lleva «qu» antes de «e». Y «claro» se usa también para decir «¡claro!» cuando estás de acuerdo."
+    }
+  ]
+}

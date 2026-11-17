@@ -1,0 +1,229 @@
+{
+  "id": "pt-a1-u7",
+  "idioma": "pt",
+  "nivel": "A1",
+  "n": 7,
+  "titulo": "La ciudad y direcciones",
+  "resumen": "Aprenderás los lugares de la ciudad, los transportes y a pedir y dar direcciones con el imperativo (vire, siga).",
+  "puedo": [
+    "Nombrar los lugares principales de una ciudad.",
+    "Decir cómo me muevo: de ônibus, de táxi, de metrô.",
+    "Preguntar cómo llegar a un lugar.",
+    "Entender y dar direcciones simples: esquerda, direita, em frente.",
+    "Decir dónde queda un lugar: perto, longe, ao lado de."
+  ],
+  "gramatica": {
+    "titulo": "El imperativo para direcciones (vire, siga)",
+    "texto": "Para dar una orden o una indicación se usa el imperativo. Es muy fácil: toma el verbo en forma «você» y cámbiale la vocal final.\nLos verbos en -ar terminan en -e: virar → vire (gira), parar → pare (pare). Los verbos en -er o -ir terminan en -a: seguir → siga (siga), ir → vá.\nAsí, las indicaciones suenan: «Vire à esquerda», «Siga em frente», «Pare aqui». No se usa «tú», se usa «você» (como «usted» de cortesía), por eso suena amable.\nSi quieres suavizar, añade «por favor» o empieza con «Com licença» (Con permiso).",
+    "tabla": [
+      ["Vire à esquerda.", "Gire a la izquierda.", "víri a eskérda"],
+      ["Vire à direita.", "Gire a la derecha.", "víri a dyiréita"],
+      ["Siga em frente.", "Siga derecho.", "síga ein frénchi"],
+      ["Pare aqui.", "Pare aquí.", "pári akí"],
+      ["Com licença, onde fica o banco?", "Con permiso, ¿dónde queda el banco?", "kon lisénsa, ónyi fíka u bánku"]
+    ],
+    "errores": [
+      "No uses la forma «tú» (gira, sigue): en Brasil se dice «vire» y «siga» (forma «você»).",
+      "Para «dónde queda» di «onde fica», no «onde queda»: «queda» en portugués significa «caída».",
+      "«À esquerda» lleva «à» (a + a): «vire à esquerda», no «vire a esquerda»."
+    ]
+  },
+  "practica": [
+    "Mira un mapa de tu barrio y di en voz alta 8 lugares con su nombre en portugués: «o banco, a farmácia...» (5 minutos).",
+    "Camina por tu casa y da órdenes a un amigo imaginario: «Siga em frente», «Vire à esquerda», «Pare aqui» (5 minutos).",
+    "Escribe cómo llegar de tu casa al supermercado en 5 frases con vire/siga (5 minutos).",
+    "Busca en YouTube «como pedir direções em português» y repite las frases de quien pregunta (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-a1-u7-l1",
+      "n": 1,
+      "titulo": "Lugares de la ciudad",
+      "objetivo": "Nombrar los lugares más comunes de una ciudad.",
+      "intro": "Muchos lugares de la ciudad se parecen al español, ¡es una lección fácil! Truco: «ti» y «di» suenan «chi» y «yi» (hospital suena «ospitáu»: la «l» final es «u»).",
+      "palabras": [
+        { "t": "banco", "es": "banco", "pron": "bánku", "ej": "O banco é aqui.", "ejes": "El banco es aquí.", "cog": true },
+        { "t": "farmácia", "es": "farmacia", "pron": "farmásia", "ej": "Eu trabalho na farmácia.", "ejes": "Trabajo en la farmacia.", "cog": true, "truco": "«ci» suena «si»: farmásia." },
+        { "t": "supermercado", "es": "supermercado", "pron": "supermerkádu", "ej": "Eu gosto do supermercado.", "ejes": "Me gusta el supermercado.", "cog": true },
+        { "t": "hospital", "es": "hospital", "pron": "ospitáu", "ej": "O hospital é aqui.", "ejes": "El hospital es aquí.", "cog": true, "truco": "La «h» no suena y la «l» final es «u»: ospitáu." },
+        { "t": "parque", "es": "parque", "pron": "párki", "ej": "Eu gosto do parque.", "ejes": "Me gusta el parque.", "cog": true },
+        { "t": "escola", "es": "escuela", "pron": "eskóla", "ej": "Eu estudo na escola.", "ejes": "Estudio en la escuela.", "cog": false },
+        { "t": "restaurante", "es": "restaurante", "pron": "rrestauránchi", "ej": "Eu como no restaurante.", "ejes": "Como en el restaurante.", "cog": true, "truco": "«te» final suena «chi»: rrestauránchi." },
+        { "t": "estação", "es": "estación", "pron": "estasáun", "ej": "A estação é aqui.", "ejes": "La estación es aquí.", "cog": false, "truco": "«ção» = «sáun»: igual que «ción» en español, pero nasal." },
+        { "t": "rua", "es": "calle", "pron": "rrúa", "ej": "Eu moro na rua Lima.", "ejes": "Vivo en la calle Lima.", "cog": false },
+        { "t": "praça", "es": "plaza", "pron": "prása", "ej": "A praça é aqui.", "ejes": "La plaza es aquí.", "cog": false, "truco": "«ç» suena «s»: prása." }
+      ],
+      "frases": [
+        { "t": "O banco é aqui.", "es": "El banco es aquí.", "pron": "u bánku é akí" },
+        { "t": "A farmácia e o supermercado.", "es": "La farmacia y el supermercado.", "pron": "a farmásia i u supermerkádu" },
+        { "t": "Eu trabalho no hospital.", "es": "Trabajo en el hospital.", "pron": "éu trabálu nu ospitáu" },
+        { "t": "Eu gosto do parque e da praça.", "es": "Me gustan el parque y la plaza.", "pron": "éu góstu du párki i da prása" },
+        { "t": "A escola e a estação.", "es": "La escuela y la estación.", "pron": "a eskóla i a estasáun" }
+      ],
+      "dialogo": {
+        "titulo": "En la plaza",
+        "lineas": [
+          { "q": "A", "t": "Oi, Pedro! Eu gosto da praça.", "es": "¡Hola, Pedro! Me gusta la plaza." },
+          { "q": "B", "t": "Eu gosto do parque.", "es": "A mí me gusta el parque." },
+          { "q": "A", "t": "A escola é aqui?", "es": "¿La escuela es aquí?" },
+          { "q": "B", "t": "Sim, a escola é aqui.", "es": "Sí, la escuela es aquí." },
+          { "q": "A", "t": "E o banco?", "es": "¿Y el banco?" },
+          { "q": "B", "t": "O banco é aqui também.", "es": "El banco también es aquí." }
+        ]
+      },
+      "nota": "«No», «na», «do», «da» son contracciones: em + o = no, em + a = na, de + o = do, de + a = da. Por eso «Eu trabalho no hospital» (en el hospital) y «Eu gosto da praça» (de la plaza). Falso amigo suave: «escola» es la escuela, también para el colegio."
+    },
+    {
+      "id": "pt-a1-u7-l2",
+      "n": 2,
+      "titulo": "Transporte",
+      "objetivo": "Nombrar los medios de transporte y decir cuál usas.",
+      "intro": "En Brasil no se «toma» el bus, se «pega» (pegar = coger). Truco: «Eu pego o ônibus» es la frase clave. Cuidado con «trem»: es el tren, y «metrô» es el metro.",
+      "palabras": [
+        { "t": "ônibus", "es": "bus / autobús", "pron": "ónibus", "ej": "Eu pego o ônibus.", "ejes": "Yo cojo el bus.", "cog": false, "truco": "Singular y plural son iguales: o ônibus, os ônibus." },
+        { "t": "táxi", "es": "taxi", "pron": "táksi", "ej": "Eu quero um táxi.", "ejes": "Quiero un taxi.", "cog": true },
+        { "t": "trem", "es": "tren", "pron": "tréin", "ej": "Eu pego o trem.", "ejes": "Yo cojo el tren.", "cog": false, "truco": "«em» al final es nasal: tréin." },
+        { "t": "metrô", "es": "metro", "pron": "metró", "ej": "O metrô é rápido.", "ejes": "El metro es rápido.", "cog": true },
+        { "t": "bicicleta", "es": "bicicleta", "pron": "bisikléta", "ej": "Eu tenho uma bicicleta.", "ejes": "Tengo una bicicleta.", "cog": true },
+        { "t": "carro", "es": "carro / auto", "pron": "kárru", "ej": "Eu tenho um carro.", "ejes": "Tengo un auto.", "cog": false },
+        { "t": "avião", "es": "avión", "pron": "aviáun", "ej": "Eu pego o avião.", "ejes": "Yo cojo el avión.", "cog": true },
+        { "t": "barco", "es": "barco", "pron": "bárku", "ej": "O barco é azul.", "ejes": "El barco es azul.", "cog": true },
+        { "t": "passagem", "es": "pasaje / boleto", "pron": "pasáyein", "ej": "Quanto custa a passagem?", "ejes": "¿Cuánto cuesta el pasaje?", "cog": false, "truco": "«g» antes de e suena «y»: pasáyein." },
+        { "t": "pego", "es": "yo cojo / tomo", "pron": "pégu", "ej": "Eu pego o metrô.", "ejes": "Yo cojo el metro.", "cog": false, "truco": "Pegar = coger/tomar un transporte. Con el bus: pegar o ônibus." }
+      ],
+      "frases": [
+        { "t": "Eu pego o ônibus.", "es": "Yo cojo el bus.", "pron": "éu pégu u ónibus" },
+        { "t": "Quanto custa a passagem?", "es": "¿Cuánto cuesta el pasaje?", "pron": "kuántu kústa a pasáyein" },
+        { "t": "Eu tenho uma bicicleta.", "es": "Tengo una bicicleta.", "pron": "éu téñu úma bisikléta" },
+        { "t": "O metrô e o trem.", "es": "El metro y el tren.", "pron": "u metró i u tréin" },
+        { "t": "Eu quero um táxi, por favor.", "es": "Quiero un taxi, por favor.", "pron": "éu kéru ún táksi, por favór" }
+      ],
+      "dialogo": {
+        "titulo": "¿Cómo vienes?",
+        "lineas": [
+          { "q": "A", "t": "Você tem carro?", "es": "¿Tienes auto?" },
+          { "q": "B", "t": "Não, eu tenho bicicleta. E você?", "es": "No, tengo bicicleta. ¿Y tú?" },
+          { "q": "A", "t": "Eu pego o ônibus.", "es": "Yo cojo el bus." },
+          { "q": "B", "t": "Quanto custa a passagem?", "es": "¿Cuánto cuesta el pasaje?" },
+          { "q": "A", "t": "Custa cinco reais.", "es": "Cuesta cinco reales." }
+        ]
+      },
+      "nota": "Cuidado: «pegar» en Brasil se usa para tomar un transporte (pegar o ônibus). «Carro» es el auto; «passagem» es el pasaje o boleto del bus, tren o avión. «Trem» también se usa a veces para «cosa» en Minas Gerais, pero eso es otro tema."
+    },
+    {
+      "id": "pt-a1-u7-l3",
+      "n": 3,
+      "titulo": "Pedir y dar direcciones",
+      "objetivo": "Preguntar cómo llegar y entender indicaciones simples.",
+      "intro": "Para pedir ayuda empieza con «Com licença» (Con permiso). Truco: esquerda y direita se parecen a «izquierda» y «derecha»; y recuerda que «vire» y «siga» son órdenes.",
+      "palabras": [
+        { "t": "esquerda", "es": "izquierda", "pron": "eskérda", "ej": "Vire à esquerda.", "ejes": "Gire a la izquierda.", "cog": true },
+        { "t": "direita", "es": "derecha", "pron": "dyiréita", "ej": "Vire à direita.", "ejes": "Gire a la derecha.", "cog": true, "truco": "«di» suena «dyi»." },
+        { "t": "em frente", "es": "derecho / adelante", "pron": "ein frénchi", "ej": "Siga em frente.", "ejes": "Siga derecho.", "cog": false },
+        { "t": "esquina", "es": "esquina", "pron": "eskína", "ej": "Vire na esquina.", "ejes": "Gire en la esquina.", "cog": true },
+        { "t": "quarteirão", "es": "cuadra", "pron": "kuarteiráun", "ej": "Siga um quarteirão.", "ejes": "Siga una cuadra.", "cog": false },
+        { "t": "vire", "es": "gire", "pron": "víri", "ej": "Vire aqui, por favor.", "ejes": "Gire aquí, por favor.", "cog": false, "truco": "Del verbo virar. «e» final suena «i»: víri." },
+        { "t": "siga", "es": "siga", "pron": "síga", "ej": "Siga a rua.", "ejes": "Siga la calle.", "cog": false, "truco": "Del verbo seguir." },
+        { "t": "com licença", "es": "con permiso", "pron": "kon lisénsa", "ej": "Com licença, onde é o banco?", "ejes": "Con permiso, ¿dónde es el banco?", "cog": false, "truco": "«ç» suena «s»: lisénsa." },
+        { "t": "onde", "es": "dónde", "pron": "ónyi", "ej": "Onde é a estação?", "ejes": "¿Dónde está la estación?", "cog": false, "truco": "«de» suena «yi»: ónyi." },
+        { "t": "até", "es": "hasta", "pron": "até", "ej": "Siga até a praça.", "ejes": "Siga hasta la plaza.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Com licença, onde é a farmácia?", "es": "Con permiso, ¿dónde está la farmacia?", "pron": "kon lisénsa, ónyi é a farmásia" },
+        { "t": "Como chego ao parque?", "es": "¿Cómo llego al parque?", "pron": "kómu shégu au párki" },
+        { "t": "Siga em frente.", "es": "Siga derecho.", "pron": "síga ein frénchi" },
+        { "t": "Vire à esquerda na esquina.", "es": "Gire a la izquierda en la esquina.", "pron": "víri a eskérda na eskína" },
+        { "t": "Vire à direita.", "es": "Gire a la derecha.", "pron": "víri a dyiréita" },
+        { "t": "Siga um quarteirão.", "es": "Siga una cuadra.", "pron": "síga ún kuarteiráun" }
+      ],
+      "dialogo": {
+        "titulo": "Preguntamos el camino",
+        "lineas": [
+          { "q": "A", "t": "Com licença! Como chego ao hospital?", "es": "¡Con permiso! ¿Cómo llego al hospital?" },
+          { "q": "B", "t": "Siga em frente até a praça.", "es": "Siga derecho hasta la plaza." },
+          { "q": "A", "t": "Até a praça. E depois?", "es": "Hasta la plaza. ¿Y después?" },
+          { "q": "B", "t": "Vire à direita. É um quarteirão.", "es": "Gire a la derecha. Es una cuadra." },
+          { "q": "A", "t": "Muito obrigado!", "es": "¡Muchas gracias!" },
+          { "q": "B", "t": "De nada!", "es": "¡De nada!" }
+        ]
+      },
+      "nota": "«Como chego a...?» es la pregunta clave («¿Cómo llego a...?»): chego (shégu) viene de «chegar» (llegar). La «a» se junta con el artículo: a + o = ao (ao parque), a + a = à (à praça). «Desculpe» también sirve para llamar la atención."
+    },
+    {
+      "id": "pt-a1-u7-l4",
+      "n": 4,
+      "titulo": "¿Dónde queda?",
+      "objetivo": "Decir dónde queda un lugar usando perto, longe, ao lado de y entre.",
+      "intro": "Atención: en portugués de Brasil NO se dice «queda», se dice «fica» (ficar). Truco: «Onde fica...?» es «¿Dónde queda...?». Además «queda» aquí significa «caída».",
+      "palabras": [
+        { "t": "fica", "es": "queda / está ubicado", "pron": "fíka", "ej": "Onde fica o banco?", "ejes": "¿Dónde queda el banco?", "cog": false, "truco": "Falso amigo: «queda» en portugués es «caída». «Fica» = queda (ubicación)." },
+        { "t": "perto", "es": "cerca", "pron": "pértu", "ej": "A escola fica perto.", "ejes": "La escuela queda cerca.", "cog": false },
+        { "t": "longe", "es": "lejos", "pron": "lónyi", "ej": "A estação fica longe.", "ejes": "La estación queda lejos.", "cog": false, "truco": "«g» suena «y»: lónyi." },
+        { "t": "ao lado de", "es": "al lado de", "pron": "au ládu dyi", "ej": "O banco fica ao lado de uma farmácia.", "ejes": "El banco queda al lado de una farmacia.", "cog": false },
+        { "t": "em frente a", "es": "frente a / enfrente de", "pron": "ein frénchi a", "ej": "O hospital fica em frente a um parque.", "ejes": "El hospital queda frente a un parque.", "cog": false },
+        { "t": "entre", "es": "entre", "pron": "éntri", "ej": "A farmácia fica entre o banco e a escola.", "ejes": "La farmacia queda entre el banco y la escuela.", "cog": true },
+        { "t": "atrás de", "es": "detrás de", "pron": "atrás dyi", "ej": "O parque fica atrás de um hospital.", "ejes": "El parque queda detrás de un hospital.", "cog": false },
+        { "t": "ali", "es": "allí", "pron": "alí", "ej": "O metrô é ali.", "ejes": "El metro es allí.", "cog": false },
+        { "t": "lá", "es": "allá", "pron": "lá", "ej": "O restaurante fica lá.", "ejes": "El restaurante queda allá.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Onde fica o banco?", "es": "¿Dónde queda el banco?", "pron": "ónyi fíka u bánku" },
+        { "t": "O banco fica perto da praça.", "es": "El banco queda cerca de la plaza.", "pron": "u bánku fíka pértu da prása" },
+        { "t": "A estação fica longe daqui.", "es": "La estación queda lejos de aquí.", "pron": "a estasáun fíka lónyi dakí" },
+        { "t": "A farmácia fica ao lado do supermercado.", "es": "La farmacia queda al lado del supermercado.", "pron": "a farmásia fíka au ládu du supermerkádu" },
+        { "t": "O parque fica em frente à escola.", "es": "El parque queda frente a la escuela.", "pron": "u párki fíka ein frénchi a eskóla" },
+        { "t": "O hospital fica entre a escola e o parque.", "es": "El hospital queda entre la escuela y el parque.", "pron": "u ospitáu fíka éntri a eskóla i u párki" }
+      ],
+      "dialogo": {
+        "titulo": "¿Dónde queda la farmacia?",
+        "lineas": [
+          { "q": "A", "t": "Com licença, onde fica a farmácia?", "es": "Con permiso, ¿dónde queda la farmacia?" },
+          { "q": "B", "t": "Fica ao lado do banco.", "es": "Queda al lado del banco." },
+          { "q": "A", "t": "O banco fica perto?", "es": "¿El banco queda cerca?" },
+          { "q": "B", "t": "Sim, é ali, em frente à praça.", "es": "Sí, es allí, frente a la plaza." },
+          { "q": "A", "t": "Obrigada!", "es": "¡Gracias!" },
+          { "q": "B", "t": "De nada!", "es": "¡De nada!" }
+        ]
+      },
+      "nota": "«Ficar» sirve para decir dónde queda un lugar (fica) y también significa «quedarse». «Daqui» es «de aquí» (de + aqui); «ao lado do» es «al lado del». Con «em frente a» + artículo femenino aparece la «à»: em frente à escola."
+    },
+    {
+      "id": "pt-a1-u7-l5",
+      "n": 5,
+      "titulo": "Moverse por la ciudad",
+      "objetivo": "Repasar lugares, transporte y direcciones en situaciones reales.",
+      "intro": "Juntemos todo: pides ayuda, entiendes direcciones y dices cómo llegas. Truco: si no entiendes algo, di «Pode repetir, por favor?» y respira, ¡ya sabes mucho!",
+      "palabras": [
+        { "t": "chego", "es": "llego", "pron": "shégu", "ej": "Eu chego à estação.", "ejes": "Yo llego a la estación.", "cog": false, "truco": "«ch» suena «sh»: shégu." },
+        { "t": "parada", "es": "parada", "pron": "paráda", "ej": "A parada fica perto.", "ejes": "La parada queda cerca.", "cog": true },
+        { "t": "ponto de ônibus", "es": "paradero de bus", "pron": "póntu dyi ónibus", "ej": "O ponto de ônibus fica ali.", "ejes": "El paradero de bus queda allí.", "cog": false },
+        { "t": "mapa", "es": "mapa", "pron": "mápa", "ej": "Eu tenho um mapa.", "ejes": "Tengo un mapa.", "cog": true },
+        { "t": "turista", "es": "turista", "pron": "turísta", "ej": "Eu sou turista.", "ejes": "Soy turista.", "cog": true },
+        { "t": "perdido", "es": "perdido", "pron": "perdídu", "ej": "Estou perdido.", "ejes": "Estoy perdido.", "cog": true, "truco": "Mujer: perdida." },
+        { "t": "ajudar", "es": "ayudar", "pron": "ayudár", "ej": "Pode me ajudar?", "ejes": "¿Me puede ayudar?", "cog": false },
+        { "t": "a pé", "es": "a pie", "pron": "a pé", "ej": "Eu chego a pé.", "ejes": "Yo llego a pie.", "cog": false },
+        { "t": "depois", "es": "después", "pron": "depóis", "ej": "Siga em frente e depois vire à direita.", "ejes": "Siga derecho y después gire a la derecha.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Estou perdido. Pode me ajudar?", "es": "Estoy perdido. ¿Me puede ayudar?", "pron": "estóu perdídu. pódi mi ayudár" },
+        { "t": "Como chego ao ponto de ônibus?", "es": "¿Cómo llego al paradero de bus?", "pron": "kómu shégu au póntu dyi ónibus" },
+        { "t": "Siga em frente e depois vire à esquerda.", "es": "Siga derecho y después gire a la izquierda.", "pron": "síga ein frénchi i depóis víri a eskérda" },
+        { "t": "Eu chego a pé.", "es": "Yo llego a pie.", "pron": "éu shégu a pé" },
+        { "t": "Eu sou turista e tenho um mapa.", "es": "Soy turista y tengo un mapa.", "pron": "éu sóu turísta i téñu ún mápa" },
+        { "t": "O metrô fica longe. Pego o ônibus.", "es": "El metro queda lejos. Cojo el bus.", "pron": "u metró fíka lónyi. pégu u ónibus" }
+      ],
+      "dialogo": {
+        "titulo": "Una turista perdida",
+        "lineas": [
+          { "q": "A", "t": "Com licença, estou perdida. Pode me ajudar?", "es": "Con permiso, estoy perdida. ¿Me puede ayudar?" },
+          { "q": "B", "t": "Claro! Você quer a estação?", "es": "¡Claro! ¿Quiere la estación?" },
+          { "q": "A", "t": "Sim. Como chego?", "es": "Sí. ¿Cómo llego?" },
+          { "q": "B", "t": "Siga em frente e depois vire à direita.", "es": "Siga derecho y después gire a la derecha." },
+          { "q": "A", "t": "É longe?", "es": "¿Queda lejos?" },
+          { "q": "B", "t": "Não, fica perto. Você chega a pé.", "es": "No, queda cerca. Usted llega a pie." }
+        ]
+      },
+      "nota": "Si no entiendes la indicación, pide: «Pode repetir, por favor?» (¿Puede repetir, por favor?). Y para ir más despacio: «Mais devagar, por favor» (Más despacio, por favor). Los brasileños suelen ser muy amables al dar direcciones."
+    }
+  ]
+}

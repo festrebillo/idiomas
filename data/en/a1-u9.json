@@ -1,0 +1,226 @@
+{
+  "id": "en-a1-u9",
+  "idioma": "en",
+  "nivel": "A1",
+  "n": 9,
+  "titulo": "Gustos y pasatiempos",
+  "resumen": "Aprenderás a hablar de pasatiempos, deportes y música, a decir lo que te gusta con like/love/hate + -ing y lo que sabes hacer con can y can't.",
+  "puedo": [
+    "Nombrar pasatiempos como read, cook, dance y travel.",
+    "Hablar de deportes y de instrumentos: soccer, guitar, piano.",
+    "Decir lo que me gusta o no me gusta con like, love, hate y enjoy + -ing.",
+    "Decir lo que puedo y no puedo hacer con can y can't.",
+    "Preguntar a alguien si quiere hacer algo: Do you want to...?",
+    "Proponer y aceptar un plan con Let's... y Sounds great!"
+  ],
+  "gramatica": {
+    "titulo": "like + verbo con -ing y can / can't",
+    "texto": "Para hablar de gustos, después de like, love, hate y enjoy el verbo lleva -ing: I like reading (me gusta leer), I love dancing (me encanta bailar), I hate cooking (odio cocinar). No se dice «I like read».\nPara hablar de lo que puedes o sabes hacer usa can + verbo SIN to y SIN -ing: I can swim (sé nadar), She can't dance (ella no sabe bailar). Can es igual para todas las personas: he can, she can, sin -s. Truco: can't se dice «kant».",
+    "tabla": [
+      ["I like reading", "me gusta leer", "ai laik rídin"],
+      ["I love dancing", "me encanta bailar", "ai lov dánsin"],
+      ["I hate cooking", "odio cocinar", "ai jeit cúkin"],
+      ["I can swim", "sé nadar / puedo nadar", "ai kan suim"],
+      ["She can't dance", "ella no sabe bailar", "shi kant dans"]
+    ],
+    "errores": [
+      "No digas «I like read»: después de like va el verbo con -ing, I like reading.",
+      "No agregues -s a can: He can swim, no «he cans swim».",
+      "Después de can no uses to: I can swim, no «I can to swim»."
+    ]
+  },
+  "practica": [
+    "Escribe 6 frases con I like, I love y I hate + -ing sobre tus pasatiempos, y léelas en voz alta (8 minutos).",
+    "Di en voz alta 5 cosas que puedes hacer y 5 que no puedes hacer, con I can y I can't (6 minutos).",
+    "Escucha una canción en inglés y escribe 3 verbos que reconozcas (6 minutos).",
+    "Invita a un amigo (o a tu espejo) a hacer algo con Do you want to...? Let's... y responde Sounds great! (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-a1-u9-l1",
+      "n": 1,
+      "titulo": "Pasatiempos",
+      "objetivo": "Nombrar actividades de tiempo libre.",
+      "intro": "Un pasatiempo en inglés es un hobby. Hoy aprendes los verbos básicos del tiempo libre. Truco: son verbos, así que se usan con I y con you tal cual: I read, I cook.",
+      "palabras": [
+        { "t": "read", "es": "leer", "pron": "rid", "ej": "I read in the evening.", "ejes": "Leo por la noche.", "cog": false, "truco": "En presente read suena «rid»; en pasado se escribe igual pero suena «red»." },
+        { "t": "cook", "es": "cocinar", "pron": "cuk", "ej": "I cook with my mother.", "ejes": "Cocino con mi mamá.", "cog": false },
+        { "t": "dance", "es": "bailar", "pron": "dans", "ej": "We dance on Saturdays.", "ejes": "Bailamos los sábados.", "cog": true },
+        { "t": "draw", "es": "dibujar", "pron": "dro", "ej": "I draw with my brother.", "ejes": "Dibujo con mi hermano.", "cog": false },
+        { "t": "travel", "es": "viajar", "pron": "trável", "ej": "I travel with my family.", "ejes": "Viajo con mi familia.", "cog": true },
+        { "t": "watch movies", "es": "ver películas", "pron": "uatch múvis", "ej": "I watch movies at night.", "ejes": "Veo películas por la noche.", "cog": false },
+        { "t": "take photos", "es": "tomar fotos", "pron": "teik fóutos", "ej": "I take photos in the park.", "ejes": "Tomo fotos en el parque.", "cog": true },
+        { "t": "listen to music", "es": "escuchar música", "pron": "lísen tu miúsik", "ej": "I listen to music on the bus.", "ejes": "Escucho música en el bus.", "cog": true, "truco": "En listen la «t» no suena: «lísen»." },
+        { "t": "write", "es": "escribir", "pron": "rait", "ej": "I write in English every day.", "ejes": "Escribo en inglés todos los días.", "cog": false, "truco": "La «w» no suena: write suena igual que right." },
+        { "t": "paint", "es": "pintar", "pron": "peint", "ej": "I paint on Sundays.", "ejes": "Pinto los domingos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I read every day.", "es": "Leo todos los días.", "pron": "ai rid évri dei" },
+        { "t": "My mother cooks on Sundays.", "es": "Mi mamá cocina los domingos.", "pron": "mai móder cuks on sándeis" },
+        { "t": "We dance on Saturdays.", "es": "Bailamos los sábados.", "pron": "uí dans on sáterdeis" },
+        { "t": "I watch movies with my friends.", "es": "Veo películas con mis amigos.", "pron": "ai uatch múvis uiz mai frends" },
+        { "t": "I take photos when I travel.", "es": "Tomo fotos cuando viajo.", "pron": "ai teik fóutos juen ai trável" }
+      ],
+      "dialogo": {
+        "titulo": "¿Qué haces en tu tiempo libre?",
+        "lineas": [
+          { "q": "A", "t": "What do you do in your free time, Sofia?", "es": "¿Qué haces en tu tiempo libre, Sofia?" },
+          { "q": "B", "t": "I read and I draw. And you?", "es": "Leo y dibujo. ¿Y tú?" },
+          { "q": "A", "t": "I cook and I watch movies.", "es": "Yo cocino y veo películas." },
+          { "q": "B", "t": "Do you travel?", "es": "¿Viajas?" },
+          { "q": "A", "t": "Yes, I travel with my family.", "es": "Sí, viajo con mi familia." }
+        ]
+      },
+      "nota": "Hobby es un pasatiempo y free time es el tiempo libre. Para preguntar, usa What do you do in your free time? o What are your hobbies? (¿Cuáles son tus pasatiempos?)."
+    },
+    {
+      "id": "en-a1-u9-l2",
+      "n": 2,
+      "titulo": "Deportes y música",
+      "objetivo": "Hablar de deportes e instrumentos con play y otros verbos.",
+      "intro": "Con deportes se usa play: play soccer, play tennis. Con instrumentos también, pero con the: play the guitar. Truco: swim y run son verbos; sing es cantar.",
+      "palabras": [
+        { "t": "soccer", "es": "fútbol", "pron": "sáker", "ej": "I play soccer on Sundays.", "ejes": "Juego fútbol los domingos.", "cog": false, "truco": "En EE. UU. soccer es el fútbol; football es el fútbol americano." },
+        { "t": "basketball", "es": "básquet", "pron": "báskebol", "ej": "My brother plays basketball.", "ejes": "Mi hermano juega básquet.", "cog": true },
+        { "t": "tennis", "es": "tenis", "pron": "ténis", "ej": "She plays tennis.", "ejes": "Ella juega tenis.", "cog": true },
+        { "t": "swim", "es": "nadar", "pron": "suim", "ej": "I swim in the summer.", "ejes": "Nado en el verano.", "cog": false },
+        { "t": "run", "es": "correr", "pron": "ran", "ej": "I run in the park.", "ejes": "Corro en el parque.", "cog": false },
+        { "t": "play", "es": "jugar / tocar", "pron": "plei", "ej": "We play on Saturdays.", "ejes": "Jugamos los sábados.", "cog": false },
+        { "t": "guitar", "es": "guitarra", "pron": "guitár", "ej": "My father plays the guitar.", "ejes": "Mi papá toca la guitarra.", "cog": true },
+        { "t": "piano", "es": "piano", "pron": "piáno", "ej": "I play the piano.", "ejes": "Toco el piano.", "cog": true },
+        { "t": "sing", "es": "cantar", "pron": "sing", "ej": "I sing in the shower.", "ejes": "Canto en la ducha.", "cog": false },
+        { "t": "song", "es": "canción", "pron": "song", "ej": "This song is good.", "ejes": "Esta canción es buena.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I play soccer on Sundays.", "es": "Juego fútbol los domingos.", "pron": "ai plei sáker on sándeis" },
+        { "t": "She plays tennis.", "es": "Ella juega tenis.", "pron": "shi pleis ténis" },
+        { "t": "He plays the guitar.", "es": "Él toca la guitarra.", "pron": "ji pleis da guitár" },
+        { "t": "We swim in the summer.", "es": "Nadamos en el verano.", "pron": "uí suim in da sámer" },
+        { "t": "I like this song.", "es": "Me gusta esta canción.", "pron": "ai laik dis song" }
+      ],
+      "dialogo": {
+        "titulo": "Después del colegio",
+        "lineas": [
+          { "q": "A", "t": "Do you play soccer?", "es": "¿Juegas fútbol?" },
+          { "q": "B", "t": "Yes, and my sister plays basketball.", "es": "Sí, y mi hermana juega básquet." },
+          { "q": "A", "t": "Cool! I play the guitar.", "es": "¡Genial! Yo toco la guitarra." },
+          { "q": "B", "t": "Do you sing too?", "es": "¿También cantas?" },
+          { "q": "A", "t": "Yes, I sing in the shower!", "es": "¡Sí, canto en la ducha!" }
+        ]
+      },
+      "nota": "Con deportes: play soccer (sin the). Con instrumentos: play the guitar (con the). Y recuerda: soccer es el fútbol en EE. UU.; football es el fútbol americano."
+    },
+    {
+      "id": "en-a1-u9-l3",
+      "n": 3,
+      "titulo": "Me gusta / no me gusta",
+      "objetivo": "Decir lo que te gusta y lo que no con like, love, hate y enjoy + -ing.",
+      "intro": "Ya conoces like y love. Ahora suma hate (odiar) y enjoy (disfrutar). Truco: después de estos verbos el segundo verbo lleva -ing: I like dancing. Si el verbo acaba en -e, se quita la e: dance, dancing.",
+      "palabras": [
+        { "t": "hate", "es": "odiar / no soportar", "pron": "jeit", "ej": "I hate cooking.", "ejes": "Odio cocinar.", "cog": false },
+        { "t": "enjoy", "es": "disfrutar", "pron": "enyói", "ej": "I enjoy swimming.", "ejes": "Disfruto nadar.", "cog": false },
+        { "t": "really", "es": "de verdad / muy", "pron": "ríli", "ej": "I really like soccer.", "ejes": "Me gusta mucho el fútbol.", "cog": false },
+        { "t": "a lot", "es": "mucho", "pron": "a lat", "ej": "I like it a lot.", "ejes": "Me gusta mucho.", "cog": false },
+        { "t": "fun", "es": "divertido", "pron": "fan", "ej": "Dancing is fun.", "ejes": "Bailar es divertido.", "cog": false },
+        { "t": "boring", "es": "aburrido", "pron": "bórin", "ej": "Reading is boring for me.", "ejes": "Leer me parece aburrido.", "cog": false },
+        { "t": "interesting", "es": "interesante", "pron": "íntrestin", "ej": "Traveling is interesting.", "ejes": "Viajar es interesante.", "cog": true },
+        { "t": "relax", "es": "relajarse", "pron": "rilák", "ej": "I relax on Sundays.", "ejes": "Me relajo los domingos.", "cog": true },
+        { "t": "with friends", "es": "con amigos", "pron": "uiz frends", "ej": "I play soccer with friends.", "ejes": "Juego fútbol con amigos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I like reading.", "es": "Me gusta leer.", "pron": "ai laik rídin" },
+        { "t": "I love dancing with friends.", "es": "Me encanta bailar con amigos.", "pron": "ai lov dánsin uiz frends" },
+        { "t": "I hate cooking.", "es": "Odio cocinar.", "pron": "ai jeit cúkin" },
+        { "t": "I enjoy listening to music.", "es": "Disfruto escuchar música.", "pron": "ai enyói lísenin tu miúsik" },
+        { "t": "She doesn't like running.", "es": "A ella no le gusta correr.", "pron": "shi dásent laik ránin" },
+        { "t": "Swimming is really fun!", "es": "¡Nadar es muy divertido!", "pron": "suímin is ríli fan" }
+      ],
+      "dialogo": {
+        "titulo": "¿Te gusta cocinar?",
+        "lineas": [
+          { "q": "A", "t": "Do you like cooking, Tom?", "es": "¿Te gusta cocinar, Tom?" },
+          { "q": "B", "t": "No, I hate cooking! But I love eating.", "es": "No, ¡odio cocinar! Pero me encanta comer." },
+          { "q": "A", "t": "What do you enjoy?", "es": "¿Qué disfrutas?" },
+          { "q": "B", "t": "I enjoy playing soccer with friends.", "es": "Disfruto jugar fútbol con amigos." },
+          { "q": "A", "t": "That sounds fun!", "es": "¡Eso suena divertido!" }
+        ]
+      },
+      "nota": "Hate es una palabra fuerte: en una charla amable puedes decir I don't really like... (no me gusta mucho...). Con él/ella usa doesn't: She doesn't like running."
+    },
+    {
+      "id": "en-a1-u9-l4",
+      "n": 4,
+      "titulo": "Puedo / no puedo",
+      "objetivo": "Decir lo que sabes o puedes hacer y lo que no, con can y can't.",
+      "intro": "Ya viste Can I have...? para pedir. Can también significa «saber / poder»: I can swim. Truco: can no cambia nunca (he can, she can) y el verbo que sigue va sin to y sin -ing. Para negar: can't (kant).",
+      "palabras": [
+        { "t": "can't", "es": "no puedo / no sé", "pron": "kant", "ej": "I can't swim.", "ejes": "No sé nadar.", "cog": false, "truco": "can't = cannot. Suena «kant», con «a» larga." },
+        { "t": "well", "es": "bien", "pron": "uel", "ej": "She sings well.", "ejes": "Ella canta bien.", "cog": false },
+        { "t": "speak", "es": "hablar", "pron": "spik", "ej": "I can speak English a little.", "ejes": "Puedo hablar un poco de inglés.", "cog": false },
+        { "t": "drive", "es": "manejar / conducir", "pron": "draiv", "ej": "My father can drive.", "ejes": "Mi papá sabe manejar.", "cog": false },
+        { "t": "ride a bike", "es": "andar en bicicleta", "pron": "raid a baik", "ej": "I can ride a bike.", "ejes": "Sé andar en bicicleta.", "cog": false },
+        { "t": "a little", "es": "un poco", "pron": "a lítol", "ej": "I can cook a little.", "ejes": "Sé cocinar un poco.", "cog": false },
+        { "t": "fast", "es": "rápido", "pron": "fast", "ej": "He runs fast.", "ejes": "Él corre rápido.", "cog": false },
+        { "t": "of course", "es": "claro / por supuesto", "pron": "of cors", "ej": "Of course I can!", "ejes": "¡Claro que puedo!", "cog": false },
+        { "t": "me too", "es": "yo también", "pron": "mi tu", "ej": "I can swim. Me too!", "ejes": "Sé nadar. ¡Yo también!", "cog": false }
+      ],
+      "frases": [
+        { "t": "I can swim.", "es": "Sé nadar.", "pron": "ai kan suim" },
+        { "t": "I can't swim.", "es": "No sé nadar.", "pron": "ai kant suim" },
+        { "t": "She can sing very well.", "es": "Ella canta muy bien.", "pron": "shi kan sing véri uel" },
+        { "t": "Can you ride a bike?", "es": "¿Sabes andar en bicicleta?", "pron": "kan iú raid a baik" },
+        { "t": "He can't drive yet.", "es": "Él todavía no sabe manejar.", "pron": "ji kant draiv yet" },
+        { "t": "I can speak English a little.", "es": "Hablo un poco de inglés.", "pron": "ai kan spik ínglish a lítol" }
+      ],
+      "dialogo": {
+        "titulo": "Un entrenador nuevo",
+        "lineas": [
+          { "q": "A", "t": "Can you swim?", "es": "¿Sabes nadar?" },
+          { "q": "B", "t": "Yes, I can. I swim very well.", "es": "Sí, sé. Nado muy bien." },
+          { "q": "A", "t": "Can you play tennis?", "es": "¿Sabes jugar tenis?" },
+          { "q": "B", "t": "No, I can't. But I can play soccer.", "es": "No. Pero sé jugar fútbol." },
+          { "q": "A", "t": "Me too! Let's play soccer.", "es": "¡Yo también! Juguemos fútbol." }
+        ]
+      },
+      "nota": "Can sirve para dos ideas: habilidad (I can swim = sé nadar) y permiso/petición (Can I have a coffee? = ¿me da un café?). La respuesta corta es Yes, I can o No, I can't. Nunca se dice «I can to swim»."
+    },
+    {
+      "id": "en-a1-u9-l5",
+      "n": 5,
+      "titulo": "Proponer un plan",
+      "objetivo": "Invitar a alguien a hacer algo y aceptar o rechazar con amabilidad.",
+      "intro": "Para invitar: Do you want to...? (¿quieres...?) o Let's... (vamos a... / hagamos...). Truco: Let's es let us y siempre va con el verbo solo: Let's play soccer. Para aceptar: Sounds great!",
+      "palabras": [
+        { "t": "want", "es": "querer", "pron": "uant", "ej": "Do you want to dance?", "ejes": "¿Quieres bailar?", "cog": false, "truco": "Después de want se pone to + verbo: want to dance." },
+        { "t": "let's", "es": "vamos a / hagamos", "pron": "lets", "ej": "Let's go to the park.", "ejes": "Vamos al parque.", "cog": false },
+        { "t": "sounds great", "es": "suena genial", "pron": "saunds greit", "ej": "Sounds great, thanks!", "ejes": "¡Suena genial, gracias!", "cog": false },
+        { "t": "maybe", "es": "quizás / tal vez", "pron": "méibi", "ej": "Maybe on Saturday.", "ejes": "Tal vez el sábado.", "cog": false },
+        { "t": "free", "es": "libre / sin planes", "pron": "fri", "ej": "I'm free on Sunday.", "ejes": "Estoy libre el domingo.", "cog": false },
+        { "t": "busy", "es": "ocupado", "pron": "bízi", "ej": "Sorry, I'm busy today.", "ejes": "Perdón, hoy estoy ocupado.", "cog": false },
+        { "t": "come", "es": "venir", "pron": "cam", "ej": "Come with me!", "ejes": "¡Ven conmigo!", "cog": false },
+        { "t": "together", "es": "juntos", "pron": "tuguéder", "ej": "Let's cook together.", "ejes": "Cocinemos juntos.", "cog": false },
+        { "t": "why not", "es": "¿por qué no? / claro", "pron": "uai nat", "ej": "Why not? Let's go.", "ejes": "¿Por qué no? Vamos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Do you want to play soccer?", "es": "¿Quieres jugar fútbol?", "pron": "du iú uant tu plei sáker" },
+        { "t": "Let's watch a movie.", "es": "Veamos una película.", "pron": "lets uatch a múvi" },
+        { "t": "Sounds great!", "es": "¡Suena genial!", "pron": "saunds greit" },
+        { "t": "Sorry, I can't. I'm busy.", "es": "Lo siento, no puedo. Estoy ocupado.", "pron": "sári, ai kant. aim bízi" },
+        { "t": "Are you free on Saturday?", "es": "¿Estás libre el sábado?", "pron": "ar iú fri on sáterdei" },
+        { "t": "Maybe next time.", "es": "Tal vez la próxima vez.", "pron": "méibi next taim" }
+      ],
+      "dialogo": {
+        "titulo": "Un plan para el sábado",
+        "lineas": [
+          { "q": "A", "t": "Are you free on Saturday, Ana?", "es": "¿Estás libre el sábado, Ana?" },
+          { "q": "B", "t": "Yes, I am. Why?", "es": "Sí. ¿Por qué?" },
+          { "q": "A", "t": "Do you want to play tennis with me?", "es": "¿Quieres jugar tenis conmigo?" },
+          { "q": "B", "t": "Sounds great! I love playing tennis.", "es": "¡Suena genial! Me encanta jugar tenis." },
+          { "q": "A", "t": "Let's go to the park at ten.", "es": "Vamos al parque a las diez." },
+          { "q": "B", "t": "Perfect. See you there!", "es": "Perfecto. ¡Nos vemos allá!" }
+        ]
+      },
+      "nota": "Para rechazar con amabilidad: Sorry, I can't. I'm busy. Maybe next time! En inglés suena mejor dar una razón y proponer otra opción que decir solo No."
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "it-a1-u6",
+  "idioma": "it",
+  "nivel": "A1",
+  "n": 6,
+  "titulo": "La casa",
+  "resumen": "Aprenderás las habitaciones y los muebles, a decir qué hay en una casa con c'è y ci sono, a decir dónde está algo y a describir tu casa.",
+  "puedo": [
+    "Nombrar las habitaciones de una casa.",
+    "Nombrar los muebles y objetos más comunes.",
+    "Decir qué hay y qué no hay con c'è y ci sono.",
+    "Decir dónde está una cosa con in, su, sotto, accanto a, dietro y davanti a.",
+    "Describir mi casa con adjetivos sencillos: grande, piccola, nuova, bella."
+  ],
+  "gramatica": {
+    "titulo": "C'è / ci sono y las preposiciones de lugar",
+    "texto": "Para decir que algo existe («hay») se usa c'è con una cosa (C'è un tavolo) y ci sono con varias (Ci sono due sedie). Para negar: non c'è y non ci sono. Para preguntar solo sube la voz: C'è un balcone?\nPara decir dónde está algo se usa el verbo essere (è, sono) y una preposición: in (en), su (sobre), sotto (debajo de), accanto a (al lado de), dietro (detrás de), davanti a (delante de). Con in y su se pegan al artículo: in + il = nel, in + la = nella, su + il = sul, su + la = sulla. Con a también: a + il = al, a + la = alla (accanto alla finestra). Con sotto y dietro no cambia: sotto il tavolo, dietro la porta.",
+    "tabla": [
+      ["c'è un tavolo", "hay una mesa", "ché un távolo"],
+      ["ci sono due sedie", "hay dos sillas", "chi sóno dúe sédie"],
+      ["non c'è / non ci sono", "no hay (una / varias)", "non ché / non chi sóno"],
+      ["in cucina / nel soggiorno", "en la cocina / en la sala", "in cuchína / nel sodyórno"],
+      ["sul tavolo", "sobre la mesa", "sul távolo"],
+      ["sotto il letto", "debajo de la cama", "sótto il létto"],
+      ["accanto alla finestra", "al lado de la ventana", "acánto ála finéstra"],
+      ["dietro la porta", "detrás de la puerta", "diétro la pórta"],
+      ["davanti al divano", "delante del sofá", "davánti al diváno"]
+    ],
+    "errores": [
+      "No uses «c'è» con plural: se dice «ci sono due sedie», no «c'è due sedie».",
+      "No confundas «c'è» (hay) con «è» (es / está): «C'è un tavolo» = hay una mesa; «Il tavolo è grande» = la mesa es grande.",
+      "Después de «in», «su» y «a» el artículo se pega: «nel soggiorno», no «in il soggiorno»."
+    ]
+  },
+  "practica": [
+    "Camina por tu casa y di en voz alta el nombre de cada habitación y de 10 objetos: «la cucina, il bagno, il letto, la sedia...» (8 minutos).",
+    "Describe tu cuarto con 5 frases usando «C'è...» y «Ci sono...»: «Nella mia camera c'è un letto e ci sono due sedie» (6 minutos).",
+    "Pon una taza, un libro y un lápiz en lugares distintos y di dónde está cada uno: «La tazza è sul tavolo» (5 minutos).",
+    "Escribe un párrafo corto sobre tu casa con grande, piccola, nuova, vecchia y bella, y léelo en voz alta (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-a1-u6-l1",
+      "n": 1,
+      "titulo": "Las habitaciones",
+      "objetivo": "Nombrar las habitaciones y partes de una casa.",
+      "intro": "Empezamos por las habitaciones. Algunas se parecen al español (giardino, balcone) y otras no tanto (cucina, soggiorno). Truco: aprende siempre la palabra con su artículo.",
+      "palabras": [
+        { "t": "la casa", "es": "la casa", "pron": "la cása", "ej": "Ecco la casa!", "ejes": "¡Aquí está la casa!", "cog": true },
+        { "t": "l'appartamento", "es": "el departamento", "pron": "lapartaménto", "ej": "Ecco l'appartamento!", "ejes": "¡Aquí está el departamento!", "cog": true, "truco": "En Perú decimos «departamento»; en otros países, «apartamento»." },
+        { "t": "la cucina", "es": "la cocina", "pron": "la cuchína", "ej": "Mi piace la cucina.", "ejes": "Me gusta la cocina.", "cog": false, "truco": "«ci» suena «chi»: cuchína. También es «la cocina» como arte culinario." },
+        { "t": "la camera da letto", "es": "el dormitorio", "pron": "la cámera da létto", "ej": "Ecco la camera da letto!", "ejes": "¡Aquí está el dormitorio!", "cog": false, "truco": "Literal: «cuarto de cama». Falso amigo: «camera» es un cuarto, no una cámara." },
+        { "t": "il bagno", "es": "el baño", "pron": "il báño", "ej": "Il bagno, per favore?", "ejes": "¿El baño, por favor?", "cog": false, "truco": "«gn» = ñ." },
+        { "t": "il soggiorno", "es": "la sala", "pron": "il sodyórno", "ej": "Ecco il soggiorno!", "ejes": "¡Aquí está la sala!", "cog": false, "truco": "«gg» + i suena «dy»." },
+        { "t": "il giardino", "es": "el jardín", "pron": "il yardíno", "ej": "Mi piace molto il giardino.", "ejes": "Me gusta mucho el jardín.", "cog": true },
+        { "t": "il balcone", "es": "el balcón", "pron": "il balcóne", "ej": "Ecco il balcone!", "ejes": "¡Aquí está el balcón!", "cog": true },
+        { "t": "la terrazza", "es": "la terraza", "pron": "la terrátsa", "ej": "Ecco la terrazza!", "ejes": "¡Aquí está la terraza!", "cog": true, "truco": "«zz» suena «ts»." },
+        { "t": "la sala da pranzo", "es": "el comedor", "pron": "la sála da prándso", "ej": "Ecco la sala da pranzo!", "ejes": "¡Aquí está el comedor!", "cog": false, "truco": "«Pranzo» = almuerzo; literal: «sala de almuerzo»." }
+      ],
+      "frases": [
+        { "t": "Ecco la mia casa!", "es": "¡Aquí está mi casa!", "pron": "éko la mía cása" },
+        { "t": "Dov'è il bagno, per favore?", "es": "¿Dónde está el baño, por favor?", "pron": "dovè il báño, per favóre" },
+        { "t": "Faccio colazione in cucina.", "es": "Desayuno en la cocina.", "pron": "fácho colatsióne in cuchína" },
+        { "t": "Studio in soggiorno.", "es": "Estudio en la sala.", "pron": "stúdio in sodyórno" },
+        { "t": "Mi piace molto il giardino.", "es": "Me gusta mucho el jardín.", "pron": "mi piáche mólto il yardíno" },
+        { "t": "Dormo in camera da letto.", "es": "Duermo en el dormitorio.", "pron": "dórmo in cámera da létto" }
+      ],
+      "dialogo": {
+        "titulo": "Una visita a casa de Luca",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Ana! Ecco la mia casa.", "es": "¡Hola, Ana! Aquí está mi casa." },
+          { "q": "B", "t": "Mi piace molto il giardino, Luca!", "es": "¡Me gusta mucho el jardín, Luca!" },
+          { "q": "A", "t": "Grazie! Ecco la cucina e il soggiorno.", "es": "¡Gracias! Aquí están la cocina y la sala." },
+          { "q": "B", "t": "Dov'è il bagno, per favore?", "es": "¿Dónde está el baño, por favor?" },
+          { "q": "A", "t": "Ecco il bagno, Ana.", "es": "Aquí está el baño, Ana." }
+        ]
+      },
+      "nota": "«Dov'è» es «dove è» (¿dónde está?) y suena dovè. Para «el dormitorio» se dice «la camera da letto» o simplemente «la camera»; «la stanza» es cualquier cuarto. «In cucina», «in bagno», «in soggiorno» se dicen sin artículo cuando indicas el lugar. Pronunciación: «gn» = ñ (bagno = báño), «gg» + i = dy (soggiorno), «zz» = ts (terrazza)."
+    },
+    {
+      "id": "it-a1-u6-l2",
+      "n": 2,
+      "titulo": "Muebles y objetos",
+      "objetivo": "Nombrar los muebles y objetos más comunes de la casa.",
+      "intro": "Ahora el interior: cama, mesa, silla, sofá... Truco: «letto» y «tavolo» no se parecen mucho a «lecho» y «tabla»; ¡pero «divano», «lampada» y «armadio» sí te sonarán!",
+      "palabras": [
+        { "t": "il letto", "es": "la cama", "pron": "il létto", "ej": "Ecco il letto di Luca.", "ejes": "Aquí está la cama de Luca.", "cog": false, "truco": "Como «lecho». La «tt» suena doble." },
+        { "t": "il tavolo", "es": "la mesa", "pron": "il távolo", "ej": "Il tavolo costa cento euro.", "ejes": "La mesa cuesta cien euros.", "cog": false },
+        { "t": "la sedia", "es": "la silla", "pron": "la sédia", "ej": "La sedia costa venti euro.", "ejes": "La silla cuesta veinte euros.", "cog": false },
+        { "t": "il divano", "es": "el sofá", "pron": "il diváno", "ej": "Il divano è di Marco.", "ejes": "El sofá es de Marco.", "cog": true, "truco": "Como «diván»." },
+        { "t": "la TV", "es": "la tele", "pron": "la tivú", "ej": "Mi piace la TV.", "ejes": "Me gusta la tele.", "cog": true, "truco": "Se lee «ti-vu»; también se dice «la televisione»." },
+        { "t": "la lampada", "es": "la lámpara", "pron": "la lámpada", "ej": "Quanto costa la lampada?", "ejes": "¿Cuánto cuesta la lámpara?", "cog": true },
+        { "t": "la finestra", "es": "la ventana", "pron": "la finéstra", "ej": "La finestra e la porta.", "ejes": "La ventana y la puerta.", "cog": false, "truco": "Parecida a «fenestra» latina." },
+        { "t": "la porta", "es": "la puerta", "pron": "la pórta", "ej": "Ecco la porta!", "ejes": "¡Aquí está la puerta!", "cog": true },
+        { "t": "l'armadio", "es": "el armario", "pron": "larmádio", "ej": "L'armadio costa cento euro.", "ejes": "El armario cuesta cien euros.", "cog": true },
+        { "t": "il frigorifero", "es": "el refrigerador", "pron": "il frigorífero", "ej": "Il frigorifero è in cucina.", "ejes": "El refrigerador está en la cocina.", "cog": true, "truco": "Se abrevia: «il frigo»." }
+      ],
+      "frases": [
+        { "t": "Il letto è in camera da letto.", "es": "La cama está en el dormitorio.", "pron": "il létto è in cámera da létto" },
+        { "t": "Il frigorifero è in cucina.", "es": "El refrigerador está en la cocina.", "pron": "il frigorífero è in cuchína" },
+        { "t": "Il divano e la TV sono in soggiorno.", "es": "El sofá y la tele están en la sala.", "pron": "il diváno e la tivú sóno in sodyórno" },
+        { "t": "Quanto costa il tavolo?", "es": "¿Cuánto cuesta la mesa?", "pron": "cuánto cósta il távolo" },
+        { "t": "Il tavolo costa cento euro.", "es": "La mesa cuesta cien euros.", "pron": "il távolo cósta chénto éuro" },
+        { "t": "Mi piace molto la lampada.", "es": "Me gusta mucho la lámpara.", "pron": "mi piáche mólto la lámpada" }
+      ],
+      "dialogo": {
+        "titulo": "En una tienda de muebles",
+        "lineas": [
+          { "q": "A", "t": "Buongiorno, signora! Prego?", "es": "¡Buenos días, señora! ¿Dígame?" },
+          { "q": "B", "t": "Scusi, quanto costa il divano?", "es": "Disculpe, ¿cuánto cuesta el sofá?" },
+          { "q": "A", "t": "Il divano costa novanta euro.", "es": "El sofá cuesta noventa euros." },
+          { "q": "B", "t": "E la lampada?", "es": "¿Y la lámpara?" },
+          { "q": "A", "t": "La lampada costa venti euro.", "es": "La lámpara cuesta veinte euros." },
+          { "q": "B", "t": "Prendo il divano e la lampada, grazie.", "es": "Me llevo el sofá y la lámpara, gracias." }
+        ]
+      },
+      "nota": "«La TV» se pronuncia tivú. «L'armadio» es el armario donde guardas la ropa; «lo specchio» es el espejo (lo verás en la siguiente lección). Con «costa» (singular) y «costano» (plural) ya sabes preguntar el precio de cada mueble. «Frigorifero» se acorta mucho: «il frigo»."
+    },
+    {
+      "id": "it-a1-u6-l3",
+      "n": 3,
+      "titulo": "C'è / ci sono",
+      "objetivo": "Decir qué hay (y qué no hay) en una casa con c'è y ci sono.",
+      "intro": "Para decir «hay» el italiano usa «c'è» (una cosa) y «ci sono» (varias). Truco: «c'è» es «ci + è», suena «ché»; «ci sono» suena «chi sóno» y vale para cualquier plural.",
+      "palabras": [
+        { "t": "c'è", "es": "hay (una cosa)", "pron": "ché", "ej": "C'è un tavolo in cucina.", "ejes": "Hay una mesa en la cocina.", "cog": false, "truco": "Singular: c'è un letto, c'è una finestra." },
+        { "t": "ci sono", "es": "hay (varias cosas)", "pron": "chi sóno", "ej": "Ci sono due sedie in soggiorno.", "ejes": "Hay dos sillas en la sala.", "cog": false, "truco": "Plural: ci sono due letti, ci sono tre finestre." },
+        { "t": "non c'è", "es": "no hay (una cosa)", "pron": "non ché", "ej": "Non c'è un balcone.", "ejes": "No hay un balcón.", "cog": false },
+        { "t": "non ci sono", "es": "no hay (varias cosas)", "pron": "non chi sóno", "ej": "Non ci sono sedie in soggiorno.", "ejes": "No hay sillas en la sala.", "cog": false },
+        { "t": "la stanza", "es": "el cuarto / la habitación", "pron": "la stántsa", "ej": "La stanza di Luca ha una finestra.", "ejes": "El cuarto de Luca tiene una ventana.", "cog": false, "truco": "«Stanza» es cualquier cuarto o habitación." },
+        { "t": "l'ascensore", "es": "el ascensor", "pron": "lashensóre", "ej": "C'è l'ascensore?", "ejes": "¿Hay ascensor?", "cog": true, "truco": "«sc» + e suena «sh»." },
+        { "t": "la scala", "es": "la escalera", "pron": "la scála", "ej": "C'è la scala e c'è l'ascensore.", "ejes": "Hay escalera y hay ascensor.", "cog": true, "truco": "«scala» como «escala»." },
+        { "t": "lo specchio", "es": "el espejo", "pron": "lo spéquio", "ej": "Lo specchio è in bagno.", "ejes": "El espejo está en el baño.", "cog": false, "truco": "Delante de s + consonante se usa «lo». «cchi» suena «qui»." },
+        { "t": "il tappeto", "es": "la alfombra", "pron": "il tapéto", "ej": "Mi piace il tappeto.", "ejes": "Me gusta la alfombra.", "cog": false, "truco": "«Tappeto» es la alfombra o el tapete." },
+        { "t": "il quadro", "es": "el cuadro", "pron": "il cuádro", "ej": "Ecco il quadro di Ana.", "ejes": "Aquí está el cuadro de Ana.", "cog": true }
+      ],
+      "frases": [
+        { "t": "In cucina c'è un tavolo.", "es": "En la cocina hay una mesa.", "pron": "in cuchína ché un távolo" },
+        { "t": "In soggiorno ci sono due sedie.", "es": "En la sala hay dos sillas.", "pron": "in sodyórno chi sóno dúe sédie" },
+        { "t": "C'è un balcone?", "es": "¿Hay un balcón?", "pron": "ché un balcóne" },
+        { "t": "Sì, c'è un balcone.", "es": "Sí, hay un balcón.", "pron": "sí, ché un balcóne" },
+        { "t": "Non c'è l'ascensore.", "es": "No hay ascensor.", "pron": "non ché lashensóre" },
+        { "t": "Non ci sono finestre in bagno.", "es": "No hay ventanas en el baño.", "pron": "non chi sóno finéstre in báño" }
+      ],
+      "dialogo": {
+        "titulo": "Buscando un departamento",
+        "lineas": [
+          { "q": "A", "t": "Ecco l'appartamento, signora.", "es": "Aquí está el departamento, señora." },
+          { "q": "B", "t": "Mi piace! C'è un balcone?", "es": "¡Me gusta! ¿Hay un balcón?" },
+          { "q": "A", "t": "Sì, c'è un balcone e c'è un giardino.", "es": "Sí, hay un balcón y hay un jardín." },
+          { "q": "B", "t": "E c'è l'ascensore?", "es": "¿Y hay ascensor?" },
+          { "q": "A", "t": "No, non c'è l'ascensore.", "es": "No, no hay ascensor." },
+          { "q": "B", "t": "Ci sono due camere da letto?", "es": "¿Hay dos dormitorios?" }
+        ]
+      },
+      "nota": "«C'è» (hay) no es lo mismo que «ecco» (aquí está, para mostrar) ni que «è» (es / está). «Ecco il bagno» muestra el baño; «C'è un bagno» dice que existe. Con dos cosas singulares se acepta «c'è un letto e un armadio»; con una lista corta de cosas plurales, «ci sono». Plurales: camera → camere, sedia → sedie, finestra → finestre. Pronunciación: «ci» = chi, «c'è» = ché."
+    },
+    {
+      "id": "it-a1-u6-l4",
+      "n": 4,
+      "titulo": "¿Dónde está?",
+      "objetivo": "Preguntar y decir dónde está algo con preposiciones de lugar.",
+      "intro": "Para decir dónde está algo usas essere («è», «sono») y una preposición de lugar. Truco: «in» + el artículo se pegan: in + il = nel, in + la = nella; su + il = sul, su + la = sulla.",
+      "palabras": [
+        { "t": "dov'è", "es": "dónde está", "pron": "dovè", "ej": "Dov'è la lampada?", "ejes": "¿Dónde está la lámpara?", "cog": false, "truco": "Dove + è. Plural: «dove sono»." },
+        { "t": "in", "es": "en / dentro de", "pron": "in", "ej": "La TV è in soggiorno.", "ejes": "La tele está en la sala.", "cog": true, "truco": "Con el nombre de una habitación suele ir sin artículo: in cucina." },
+        { "t": "nel", "es": "en el", "pron": "nel", "ej": "Il divano è nel soggiorno.", "ejes": "El sofá está en la sala.", "cog": false, "truco": "in + il = nel." },
+        { "t": "nella", "es": "en la", "pron": "néla", "ej": "La lampada è nella camera da letto.", "ejes": "La lámpara está en el dormitorio.", "cog": false, "truco": "in + la = nella." },
+        { "t": "sul", "es": "sobre el", "pron": "sul", "ej": "La lampada è sul tavolo.", "ejes": "La lámpara está sobre la mesa.", "cog": false, "truco": "su + il = sul." },
+        { "t": "sulla", "es": "sobre la", "pron": "súla", "ej": "Il gatto è sulla sedia.", "ejes": "El gato está sobre la silla.", "cog": false, "truco": "su + la = sulla." },
+        { "t": "sotto", "es": "debajo de", "pron": "sótto", "ej": "Il cane è sotto il tavolo.", "ejes": "El perro está debajo de la mesa.", "cog": false, "truco": "Como «subterráneo»; no cambia con el artículo." },
+        { "t": "accanto a", "es": "al lado de", "pron": "acánto a", "ej": "Giulia è accanto a Marco.", "ejes": "Giulia está al lado de Marco.", "cog": false, "truco": "Con artículo: accanto al, accanto alla." },
+        { "t": "dietro", "es": "detrás de", "pron": "diétro", "ej": "Il cane è dietro la porta.", "ejes": "El perro está detrás de la puerta.", "cog": false, "truco": "Como «retro»." },
+        { "t": "davanti a", "es": "delante de", "pron": "davánti a", "ej": "Luca è davanti a me.", "ejes": "Luca está delante de mí.", "cog": false, "truco": "Con artículo: davanti al, davanti alla." }
+      ],
+      "frases": [
+        { "t": "Dov'è la lampada?", "es": "¿Dónde está la lámpara?", "pron": "dovè la lámpada" },
+        { "t": "La lampada è sul tavolo.", "es": "La lámpara está sobre la mesa.", "pron": "la lámpada è sul távolo" },
+        { "t": "Il cane è sotto il tavolo.", "es": "El perro está debajo de la mesa.", "pron": "il cáne è sótto il távolo" },
+        { "t": "Il divano è accanto alla finestra.", "es": "El sofá está al lado de la ventana.", "pron": "il diváno è acánto ála finéstra" },
+        { "t": "Il gatto è dietro la porta.", "es": "El gato está detrás de la puerta.", "pron": "il gátto è diétro la pórta" },
+        { "t": "La TV è davanti al divano.", "es": "La tele está delante del sofá.", "pron": "la tivú è davánti al diváno" }
+      ],
+      "dialogo": {
+        "titulo": "¿Dónde está todo?",
+        "lineas": [
+          { "q": "A", "t": "Ana, dov'è la lampada?", "es": "Ana, ¿dónde está la lámpara?" },
+          { "q": "B", "t": "La lampada è sul tavolo.", "es": "La lámpara está sobre la mesa." },
+          { "q": "A", "t": "E dov'è il gatto?", "es": "¿Y dónde está el gato?" },
+          { "q": "B", "t": "Il gatto è sotto il divano.", "es": "El gato está debajo del sofá." },
+          { "q": "A", "t": "E il cane?", "es": "¿Y el perro?" },
+          { "q": "B", "t": "Il cane è nel giardino.", "es": "El perro está en el jardín." }
+        ]
+      },
+      "nota": "Las preposiciones se pegan al artículo solo con in, su y a: nel, nella, sul, sulla, al, alla. Con sotto, dietro y accanto/davanti sin «a» no cambia nada: sotto il tavolo. Plural: «Dove sono le sedie? Le sedie sono in cucina.» «Su» sola también significa «sobre»: «su un tavolo». Pronunciación: «nel» = nel, «nella» = néla, «sulla» = súla (las dobles se pronuncian algo más largas)."
+    },
+    {
+      "id": "it-a1-u6-l5",
+      "n": 5,
+      "titulo": "Describir mi casa",
+      "objetivo": "Describir tu casa con adjetivos sencillos y repasar la unidad.",
+      "intro": "Para describir la casa usas «è» + adjetivo. Truco: el adjetivo concuerda con la palabra: la casa es femenina, así que «grande» (igual para los dos), «piccola», «nuova», «bella». Con un sustantivo masculino: piccolo, nuovo, bello.",
+      "palabras": [
+        { "t": "grande", "es": "grande", "pron": "gránde", "ej": "La casa è grande.", "ejes": "La casa es grande.", "cog": true, "truco": "Termina en -e: igual para masculino y femenino." },
+        { "t": "piccola", "es": "pequeña", "pron": "pícola", "ej": "La cucina è piccola.", "ejes": "La cocina es pequeña.", "cog": false, "truco": "Masculino: piccolo. La «cc» suena k: pícola." },
+        { "t": "nuova", "es": "nueva", "pron": "nuóva", "ej": "La casa di Marco è nuova.", "ejes": "La casa de Marco es nueva.", "cog": true, "truco": "Masculino: nuovo." },
+        { "t": "vecchia", "es": "vieja", "pron": "vécquia", "ej": "La casa di mia nonna è vecchia.", "ejes": "La casa de mi abuela es vieja.", "cog": false, "truco": "Masculino: vecchio. «cch» + i suena «qu»: vé-quia." },
+        { "t": "bella", "es": "bonita / hermosa", "pron": "béla", "ej": "La camera da letto è bella.", "ejes": "El dormitorio es bonito.", "cog": true, "truco": "Masculino: bello." },
+        { "t": "comoda", "es": "cómoda", "pron": "cómoda", "ej": "La sedia è comoda.", "ejes": "La silla es cómoda.", "cog": true, "truco": "Masculino: comodo." },
+        { "t": "luminosa", "es": "luminosa", "pron": "luminósa", "ej": "La cucina è luminosa.", "ejes": "La cocina es luminosa.", "cog": true, "truco": "Masculino: luminoso." },
+        { "t": "tranquilla", "es": "tranquila", "pron": "tranquíla", "ej": "La casa è tranquilla.", "ejes": "La casa es tranquila.", "cog": true, "truco": "Masculino: tranquillo. «ll» se pronuncia doble." },
+        { "t": "con", "es": "con", "pron": "con", "ej": "Ho una casa con un giardino.", "ejes": "Tengo una casa con un jardín.", "cog": true },
+        { "t": "ma", "es": "pero", "pron": "ma", "ej": "La cucina è piccola, ma luminosa.", "ejes": "La cocina es pequeña, pero luminosa.", "cog": false, "truco": "No es «más»; es «pero». Se escribe «ma», sin tilde." }
+      ],
+      "frases": [
+        { "t": "La mia casa è grande e luminosa.", "es": "Mi casa es grande y luminosa.", "pron": "la mía cása è gránde e luminósa" },
+        { "t": "La cucina è piccola, ma comoda.", "es": "La cocina es pequeña, pero cómoda.", "pron": "la cuchína è pícola, ma cómoda" },
+        { "t": "La casa di mia nonna è vecchia, ma bella.", "es": "La casa de mi abuela es vieja, pero bonita.", "pron": "la cása di mía nónna è vécquia, ma béla" },
+        { "t": "Ho un appartamento nuovo con un balcone.", "es": "Tengo un departamento nuevo con un balcón.", "pron": "o un apartaménto nuóvo con un balcóne" },
+        { "t": "Nel soggiorno ci sono un divano e una TV.", "es": "En la sala hay un sofá y una tele.", "pron": "nel sodyórno chi sóno un diváno e úna tivú" },
+        { "t": "Mi piace molto la mia casa.", "es": "Me gusta mucho mi casa.", "pron": "mi piáche mólto la mía cása" }
+      ],
+      "dialogo": {
+        "titulo": "¿Cómo es tu casa?",
+        "lineas": [
+          { "q": "A", "t": "Marco, com'è la tua casa?", "es": "Marco, ¿cómo es tu casa?" },
+          { "q": "B", "t": "È piccola, ma molto comoda. È nuova e luminosa.", "es": "Es pequeña, pero muy cómoda. Es nueva y luminosa." },
+          { "q": "A", "t": "C'è un giardino?", "es": "¿Hay un jardín?" },
+          { "q": "B", "t": "No, non c'è un giardino, ma c'è un balcone.", "es": "No, no hay jardín, pero hay un balcón." },
+          { "q": "A", "t": "E la cucina?", "es": "¿Y la cocina?" },
+          { "q": "B", "t": "La cucina è grande! Mi piace molto.", "es": "¡La cocina es grande! Me gusta mucho." }
+        ]
+      },
+      "nota": "Para personas mayores se dice «anziano»; para cosas, «vecchio / vecchia». «Bello» y «bella» van tanto con personas como con cosas. Con «ma» (pero) unes dos ideas contrarias: «piccola, ma comoda». Repaso de la unidad: la cucina, il bagno, il letto, c'è / ci sono, nel soggiorno, sul tavolo, accanto a, grande, piccola, bella."
+    }
+  ]
+}

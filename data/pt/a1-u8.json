@@ -1,0 +1,232 @@
+{
+  "id": "pt-a1-u8",
+  "idioma": "pt",
+  "nivel": "A1",
+  "n": 8,
+  "titulo": "Compras y dinero",
+  "resumen": "Aprenderás la ropa, los colores y las tallas, a señalar con este/esse/aquele y a preguntar precios y pagar en una tienda.",
+  "puedo": [
+    "Nombrar prendas de ropa y sus colores.",
+    "Decir mi talla: pequeno, médio, grande.",
+    "Señalar algo con este, esse y aquele.",
+    "Pedir probarme algo y decir si me queda grande o pequeño.",
+    "Preguntar precios y elegir cómo pagar."
+  ],
+  "gramatica": {
+    "titulo": "Este, esse, aquele y Quanto custa / Quantos",
+    "texto": "Para señalar cosas se usan tres palabras según la distancia. Este / esta: cerca de mí. Esse / essa: cerca de ti. Aquele / aquela: lejos de los dos. Cambian según el género: este vestido, esta camisa; esse chapéu, essa calça; aquele sapato, aquela jaqueta. Plural: estes, estas, esses, essas, aqueles, aquelas.\nPara el precio: «Quanto custa?» con una cosa y «Quanto custam?» con varias: Quanto custa esta camisa? / Quanto custam estes sapatos?\nPara cantidades: «Quantos?» (masculino) y «Quantas?» (femenino): Quantos reais? Quantas camisas?\nSin sustantivo, di «isso» (eso): Quanto custa isso?",
+    "tabla": [
+      ["este vestido / esta camisa", "este vestido / esta camisa", "éschi vestídu / ésta kamíza"],
+      ["esse chapéu / essa calça", "ese sombrero / esa calza", "ési shapéu / ésa kálsa"],
+      ["aquele sapato / aquela jaqueta", "aquel zapato / aquella chaqueta", "akéli sapátu / akéla yakéta"],
+      ["Quanto custa esta camisa?", "¿Cuánto cuesta esta camisa?", "kuántu kústa ésta kamíza"],
+      ["Quanto custam estes sapatos?", "¿Cuánto cuestan estos zapatos?", "kuántu kústan éschis sapátus"],
+      ["Quantas camisas?", "¿Cuántas camisas?", "kuántas kamízas"]
+    ],
+    "errores": [
+      "Con plural di «custam»: «Quanto custam os sapatos?», no «Quanto custa os sapatos?».",
+      "«Aquele» no lleva «l» final: no es «aquel», es «aquele» (akéli).",
+      "Concuerda con el género: «esta camisa» (femenino), «este vestido» (masculino)."
+    ]
+  },
+  "practica": [
+    "Mira tu ropa y di en voz alta 10 prendas con su color: «a camisa azul, o chapéu preto...» (5 minutos).",
+    "Señala objetos de tu casa y di «este», «esse» o «aquele» según la distancia (5 minutos).",
+    "Simula en voz alta una compra completa: «Posso experimentar? Quanto custa? Eu levo.» (5 minutos).",
+    "Busca en YouTube «comprando roupa em português» y repite las frases del cliente (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-a1-u8-l1",
+      "n": 1,
+      "titulo": "Ropa",
+      "objetivo": "Nombrar las prendas de ropa más comunes.",
+      "intro": "La ropa se llama «roupa» (rrópa). Truco: «calça» (pantalón) viene de «calza» pero se usa para el pantalón entero. Y «camisa» es la camisa de vestir, mientras que la polera es la «camiseta».",
+      "palabras": [
+        { "t": "roupa", "es": "ropa", "pron": "rrópa", "ej": "Eu gosto de roupa.", "ejes": "Me gusta la ropa.", "cog": false, "truco": "«ou» suena «o»: rrópa." },
+        { "t": "camisa", "es": "camisa", "pron": "kamíza", "ej": "Eu gosto da camisa.", "ejes": "Me gusta la camisa.", "cog": true, "truco": "«s» entre vocales suena «z»: kamíza." },
+        { "t": "camiseta", "es": "polera / camiseta", "pron": "kamizéta", "ej": "Eu quero uma camiseta.", "ejes": "Quiero una polera.", "cog": true },
+        { "t": "calça", "es": "pantalón", "pron": "kálsa", "ej": "Eu quero uma calça.", "ejes": "Quiero un pantalón.", "cog": false, "truco": "Falso amigo: calça es pantalón (también se dice calças)." },
+        { "t": "vestido", "es": "vestido", "pron": "vestídu", "ej": "Eu gosto do vestido.", "ejes": "Me gusta el vestido.", "cog": true },
+        { "t": "saia", "es": "falda", "pron": "sáia", "ej": "Eu gosto da saia.", "ejes": "Me gusta la falda.", "cog": false },
+        { "t": "sapatos", "es": "zapatos", "pron": "sapátus", "ej": "Eu quero sapatos.", "ejes": "Quiero zapatos.", "cog": false, "truco": "Singular: o sapato. Plural: os sapatos." },
+        { "t": "jaqueta", "es": "chaqueta / casaca", "pron": "yakéta", "ej": "Eu tenho uma jaqueta.", "ejes": "Tengo una chaqueta.", "cog": true, "truco": "«j» suena «y» fuerte: yakéta." },
+        { "t": "chapéu", "es": "sombrero", "pron": "shapéu", "ej": "Eu tenho um chapéu.", "ejes": "Tengo un sombrero.", "cog": false, "truco": "«ch» = «sh»: shapéu. No es «chapéu = chapeo»." },
+        { "t": "meias", "es": "medias / calcetines", "pron": "méias", "ej": "Eu quero meias, por favor.", "ejes": "Quiero calcetines, por favor.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Eu quero uma calça e uma camisa.", "es": "Quiero un pantalón y una camisa.", "pron": "éu kéru úma kálsa i úma kamíza" },
+        { "t": "Ela tem um vestido.", "es": "Ella tiene un vestido.", "pron": "éla téin ún vestídu" },
+        { "t": "Eu gosto dos sapatos.", "es": "Me gustan los zapatos.", "pron": "éu góstu dus sapátus" },
+        { "t": "Eu tenho uma jaqueta e um chapéu.", "es": "Tengo una chaqueta y un sombrero.", "pron": "éu téñu úma yakéta i ún shapéu" },
+        { "t": "Eu quero meias, por favor.", "es": "Quiero calcetines, por favor.", "pron": "éu kéru méias, por favór" }
+      ],
+      "dialogo": {
+        "titulo": "Miramos ropa",
+        "lineas": [
+          { "q": "A", "t": "Boa tarde! Eu quero uma camisa e uma calça.", "es": "¡Buenas tardes! Quiero una camisa y un pantalón." },
+          { "q": "B", "t": "Eu quero sapatos e meias.", "es": "Yo quiero zapatos y calcetines." },
+          { "q": "A", "t": "Eu gosto da jaqueta.", "es": "Me gusta la chaqueta." },
+          { "q": "B", "t": "Eu também gosto!", "es": "¡A mí también me gusta!" },
+          { "q": "A", "t": "E o chapéu?", "es": "¿Y el sombrero?" },
+          { "q": "B", "t": "Eu tenho um chapéu.", "es": "Yo tengo un sombrero." }
+        ]
+      },
+      "nota": "«Calça» (pantalón) y «meias» (medias) suelen decirse en singular o plural sin gran diferencia, pero «meias» es siempre plural. «Roupa» es un sustantivo singular: «a roupa é nova». Falso amigo: «chapéu» no es «chapeo», es sombrero."
+    },
+    {
+      "id": "pt-a1-u8-l2",
+      "n": 2,
+      "titulo": "Colores y tallas",
+      "objetivo": "Decir colores y tallas y describir una prenda.",
+      "intro": "Los colores cambian con el género: o vestido vermelho, a camisa vermelha. Truco: «azul», «verde» y «grande» no cambian nunca. Y «lh» suena «ly»: vermelho = vermélyu.",
+      "palabras": [
+        { "t": "vermelho", "es": "rojo", "pron": "vermélyu", "ej": "O vestido é vermelho.", "ejes": "El vestido es rojo.", "cog": false, "truco": "Femenino: vermelha (vermélya)." },
+        { "t": "azul", "es": "azul", "pron": "azúu", "ej": "A camisa é azul.", "ejes": "La camisa es azul.", "cog": true, "truco": "La «l» final suena «u»: azúu. No cambia con el género." },
+        { "t": "verde", "es": "verde", "pron": "vérdyi", "ej": "A jaqueta é verde.", "ejes": "La chaqueta es verde.", "cog": true },
+        { "t": "amarelo", "es": "amarillo", "pron": "amarélu", "ej": "O chapéu é amarelo.", "ejes": "El sombrero es amarillo.", "cog": false, "truco": "Femenino: amarela." },
+        { "t": "preto", "es": "negro", "pron": "prétu", "ej": "O chapéu é preto.", "ejes": "El sombrero es negro.", "cog": false, "truco": "Femenino: preta." },
+        { "t": "branco", "es": "blanco", "pron": "bránku", "ej": "O vestido é branco.", "ejes": "El vestido es blanco.", "cog": false, "truco": "Femenino: branca." },
+        { "t": "pequeno", "es": "pequeño", "pron": "pekénu", "ej": "O chapéu é pequeno.", "ejes": "El sombrero es pequeño.", "cog": true, "truco": "Femenino: pequena." },
+        { "t": "médio", "es": "mediano", "pron": "médyu", "ej": "Eu uso tamanho médio.", "ejes": "Uso talla mediana.", "cog": true },
+        { "t": "grande", "es": "grande", "pron": "grándyi", "ej": "A calça é grande.", "ejes": "El pantalón es grande.", "cog": true },
+        { "t": "tamanho", "es": "talla / tamaño", "pron": "tamáñu", "ej": "Qual é o tamanho?", "ejes": "¿Cuál es la talla?", "cog": false, "truco": "«nh» = ñ: tamáñu." }
+      ],
+      "frases": [
+        { "t": "A camisa é azul.", "es": "La camisa es azul.", "pron": "a kamíza é azúu" },
+        { "t": "Eu quero a calça preta.", "es": "Quiero el pantalón negro.", "pron": "éu kéru a kálsa préta" },
+        { "t": "O vestido é vermelho e branco.", "es": "El vestido es rojo y blanco.", "pron": "u vestídu é vermélyu i bránku" },
+        { "t": "Qual é o seu tamanho?", "es": "¿Cuál es su talla?", "pron": "kuáu é u séu tamáñu" },
+        { "t": "Eu uso tamanho médio.", "es": "Uso talla mediana.", "pron": "éu úzu tamáñu médyu" },
+        { "t": "A jaqueta é grande.", "es": "La chaqueta es grande.", "pron": "a yakéta é grándyi" }
+      ],
+      "dialogo": {
+        "titulo": "Elegimos color y talla",
+        "lineas": [
+          { "q": "A", "t": "Eu quero uma camisa azul.", "es": "Quiero una camisa azul." },
+          { "q": "B", "t": "Qual é o seu tamanho?", "es": "¿Cuál es su talla?" },
+          { "q": "A", "t": "Eu uso tamanho médio.", "es": "Uso talla mediana." },
+          { "q": "B", "t": "Aqui está a camisa azul, tamanho médio.", "es": "Aquí tiene la camisa azul, talla mediana." },
+          { "q": "A", "t": "Eu também gosto da verde.", "es": "También me gusta la verde." },
+          { "q": "B", "t": "A verde é muito bonita!", "es": "¡La verde es muy bonita!" }
+        ]
+      },
+      "nota": "Las tallas en Brasil suelen ser P (pequeno), M (médio) y G (grande); para más grande, GG. Al preguntar: «Qual é o seu tamanho?» o «Que tamanho você usa?». Falso amigo: «médio» también significa «promedio»."
+    },
+    {
+      "id": "pt-a1-u8-l3",
+      "n": 3,
+      "titulo": "En la tienda",
+      "objetivo": "Pedir probarte algo, decir si te queda bien y decidir si te lo llevas.",
+      "intro": "Frase estrella: «Posso experimentar?» (¿Puedo probármelo?). Truco: «experimentar» es probarse. Y para decidir, «Eu levo» (me lo llevo). En la unidad 9 verás mejor «posso».",
+      "palabras": [
+        { "t": "experimentar", "es": "probarse (ropa)", "pron": "esperimentár", "ej": "Posso experimentar?", "ejes": "¿Puedo probármelo?", "cog": true, "truco": "Experimentar ropa = probarse ropa." },
+        { "t": "provador", "es": "probador", "pron": "provadór", "ej": "Onde fica o provador?", "ejes": "¿Dónde queda el probador?", "cog": true },
+        { "t": "levo", "es": "yo llevo / me lo llevo", "pron": "lévu", "ej": "Eu levo esta calça.", "ejes": "Me llevo este pantalón.", "cog": false },
+        { "t": "têm", "es": "tienen", "pron": "téin", "ej": "Vocês têm outro tamanho?", "ejes": "¿Tienen otra talla?", "cog": false, "truco": "Se escribe «têm» (plural) y «tem» (singular); suenan igual." },
+        { "t": "isso", "es": "eso", "pron": "ísu", "ej": "Eu quero isso.", "ejes": "Quiero eso.", "cog": false },
+        { "t": "outro", "es": "otro", "pron": "ótru", "ej": "Vocês têm outro tamanho?", "ejes": "¿Tienen otra talla?", "cog": false, "truco": "«ou» suena «o»: ótru. Femenino: outra." },
+        { "t": "mais", "es": "más", "pron": "máis", "ej": "Eu quero mais uma camisa.", "ejes": "Quiero una camisa más.", "cog": false },
+        { "t": "menos", "es": "menos", "pron": "ménus", "ej": "Esta calça custa menos.", "ejes": "Este pantalón cuesta menos.", "cog": true },
+        { "t": "apertado", "es": "ajustado / apretado", "pron": "apertádu", "ej": "O sapato está apertado.", "ejes": "El zapato está apretado.", "cog": true },
+        { "t": "largo", "es": "ancho / holgado", "pron": "lárgu", "ej": "O vestido está largo.", "ejes": "El vestido está holgado.", "cog": false, "truco": "Falso amigo: largo es «ancho/holgado», no «largo»." }
+      ],
+      "frases": [
+        { "t": "Posso experimentar?", "es": "¿Puedo probármelo?", "pron": "pósu esperimentár" },
+        { "t": "Onde fica o provador?", "es": "¿Dónde queda el probador?", "pron": "ónyi fíka u provadór" },
+        { "t": "A calça está muito grande.", "es": "El pantalón me queda muy grande.", "pron": "a kálsa está múintu grándyi" },
+        { "t": "A camisa está muito pequena.", "es": "La camisa me queda muy pequeña.", "pron": "a kamíza está múintu pekéna" },
+        { "t": "Vocês têm outro tamanho?", "es": "¿Tienen otra talla?", "pron": "vosés téin ótru tamáñu" },
+        { "t": "Eu levo esta camisa.", "es": "Me llevo esta camisa.", "pron": "éu lévu ésta kamíza" }
+      ],
+      "dialogo": {
+        "titulo": "Probando una camisa",
+        "lineas": [
+          { "q": "A", "t": "Boa tarde! Posso experimentar esta camisa?", "es": "¡Buenas tardes! ¿Puedo probarme esta camisa?" },
+          { "q": "B", "t": "Claro! O provador fica ali.", "es": "¡Claro! El probador queda allí." },
+          { "q": "A", "t": "Está muito grande. Vocês têm tamanho pequeno?", "es": "Me queda muy grande. ¿Tienen talla pequeña?" },
+          { "q": "B", "t": "Sim, aqui está.", "es": "Sí, aquí tiene." },
+          { "q": "A", "t": "Perfeito! Eu levo.", "es": "¡Perfecto! Me la llevo." }
+        ]
+      },
+      "nota": "Para decir que algo «queda» grande o pequeño usa «estar» (está): «Está muito grande». «Vocês» es «ustedes» (muy usado en tiendas). «Posso» viene de «poder» y se verá bien en la unidad 9; por ahora aprende la frase completa."
+    },
+    {
+      "id": "pt-a1-u8-l4",
+      "n": 4,
+      "titulo": "Precios y pagar",
+      "objetivo": "Preguntar el precio, pedir descuento y elegir cómo pagar.",
+      "intro": "Ya sabes decir el precio con quanto custa. Ahora añade «desconto» (descuento) y los medios de pago. Truco: «Pix» es el pago por celular, súper común en Brasil.",
+      "palabras": [
+        { "t": "desconto", "es": "descuento", "pron": "deskóntu", "ej": "Tem desconto?", "ejes": "¿Hay descuento?", "cog": true },
+        { "t": "recibo", "es": "recibo / boleta", "pron": "rresíbu", "ej": "O recibo, por favor.", "ejes": "La boleta, por favor.", "cog": true },
+        { "t": "troco", "es": "vuelto / cambio", "pron": "tróku", "ej": "Aqui está o seu troco.", "ejes": "Aquí tiene su vuelto.", "cog": false },
+        { "t": "promoção", "es": "promoción / oferta", "pron": "promosáun", "ej": "Hoje tem promoção.", "ejes": "Hoy hay promoción.", "cog": true },
+        { "t": "caixa", "es": "caja / cajero", "pron": "káisha", "ej": "O caixa fica ali.", "ejes": "La caja queda allí.", "cog": false, "truco": "«x» suena «sh»: káisha." },
+        { "t": "preço", "es": "precio", "pron": "présu", "ej": "Qual é o preço?", "ejes": "¿Cuál es el precio?", "cog": true },
+        { "t": "pix", "es": "Pix (pago instantáneo por celular)", "pron": "píks", "ej": "Eu pago com Pix.", "ejes": "Pago con Pix.", "cog": false },
+        { "t": "vezes", "es": "veces / cuotas", "pron": "vézis", "ej": "Eu pago em três vezes.", "ejes": "Pago en tres cuotas.", "cog": false, "truco": "«Em duas vezes» = en dos cuotas." },
+        { "t": "crédito", "es": "crédito", "pron": "krédyitu", "ej": "Eu pago no crédito.", "ejes": "Pago con crédito.", "cog": true },
+        { "t": "débito", "es": "débito", "pron": "débyitu", "ej": "Eu pago no débito.", "ejes": "Pago con débito.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Quanto custa isso?", "es": "¿Cuánto cuesta eso?", "pron": "kuántu kústa ísu" },
+        { "t": "Tem desconto?", "es": "¿Hay descuento?", "pron": "téin deskóntu" },
+        { "t": "Eu pago com cartão de crédito.", "es": "Pago con tarjeta de crédito.", "pron": "éu págu kon kartáun dyi krédyitu" },
+        { "t": "Posso pagar em duas vezes?", "es": "¿Puedo pagar en dos cuotas?", "pron": "pósu pagár ein dúas vézis" },
+        { "t": "O recibo, por favor.", "es": "La boleta, por favor.", "pron": "u rresíbu, por favór" },
+        { "t": "Aqui está o seu troco.", "es": "Aquí tiene su vuelto.", "pron": "akí está u séu tróku" }
+      ],
+      "dialogo": {
+        "titulo": "Pagando una jaqueta",
+        "lineas": [
+          { "q": "A", "t": "Quanto custa esta jaqueta?", "es": "¿Cuánto cuesta esta chaqueta?" },
+          { "q": "B", "t": "Custa oitenta reais. Hoje tem promoção!", "es": "Cuesta ochenta reales. ¡Hoy hay promoción!" },
+          { "q": "A", "t": "Eu pago em dinheiro. Aqui estão cem reais.", "es": "Pago en efectivo. Aquí tiene cien reales." },
+          { "q": "B", "t": "Aqui está o seu troco: vinte reais.", "es": "Aquí tiene su vuelto: veinte reales." },
+          { "q": "A", "t": "O recibo, por favor.", "es": "La boleta, por favor." },
+          { "q": "B", "t": "Claro! Aqui está.", "es": "¡Claro! Aquí tiene." }
+        ]
+      },
+      "nota": "En el pago con tarjeta, el cajero suele preguntar «Débito ou crédito?». «À vista» significa pagar de una vez; «parcelado» es en cuotas. «Troco» es el vuelto en efectivo. Cuidado: «recibo» es el comprobante de pago, no un «recibido»."
+    },
+    {
+      "id": "pt-a1-u8-l5",
+      "n": 5,
+      "titulo": "Comprar con confianza",
+      "objetivo": "Repasar y comprar con seguridad en una tienda.",
+      "intro": "Ya puedes comprar ropa de principio a fin. Truco: si solo quieres mirar, di «Só estou olhando, obrigado» y listo. Y recuerda: este, esse, aquele según la distancia.",
+      "palabras": [
+        { "t": "loja", "es": "tienda", "pron": "lóya", "ej": "A loja fica perto.", "ejes": "La tienda queda cerca.", "cog": false, "truco": "«j» suena «y»: lóya." },
+        { "t": "vendedor", "es": "vendedor", "pron": "vendedór", "ej": "O vendedor é simpático.", "ejes": "El vendedor es simpático.", "cog": true, "truco": "Mujer: vendedora." },
+        { "t": "cliente", "es": "cliente", "pron": "kliénchi", "ej": "A cliente quer um vestido.", "ejes": "La clienta quiere un vestido.", "cog": true, "truco": "«te» suena «chi»: kliénchi." },
+        { "t": "sacola", "es": "bolsa (de la tienda)", "pron": "sakóla", "ej": "Uma sacola, por favor.", "ejes": "Una bolsa, por favor.", "cog": false },
+        { "t": "liquidação", "es": "liquidación / rebajas", "pron": "likidasáun", "ej": "A loja está em liquidação.", "ejes": "La tienda está en liquidación.", "cog": true },
+        { "t": "trocar", "es": "cambiar / devolver por otro", "pron": "trokár", "ej": "Posso trocar?", "ejes": "¿Puedo cambiarlo?", "cog": false },
+        { "t": "devolver", "es": "devolver", "pron": "devolvér", "ej": "Eu quero devolver esta camisa.", "ejes": "Quiero devolver esta camisa.", "cog": true },
+        { "t": "bonito", "es": "bonito / lindo", "pron": "bonítu", "ej": "Esse vestido é muito bonito.", "ejes": "Ese vestido es muy bonito.", "cog": true },
+        { "t": "shopping", "es": "centro comercial", "pron": "shópin", "ej": "O shopping fica longe.", "ejes": "El centro comercial queda lejos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Só estou olhando, obrigada.", "es": "Solo estoy mirando, gracias.", "pron": "só estóu olyándu, obrigáda" },
+        { "t": "Esse vestido é muito bonito.", "es": "Ese vestido es muy bonito.", "pron": "ési vestídu é múintu bonítu" },
+        { "t": "Aquele chapéu é caro.", "es": "Aquel sombrero es caro.", "pron": "akéli shapéu é káru" },
+        { "t": "Vocês têm esta calça em azul?", "es": "¿Tienen este pantalón en azul?", "pron": "vosés téin ésta kálsa ein azúu" },
+        { "t": "Eu quero devolver esta camisa.", "es": "Quiero devolver esta camisa.", "pron": "éu kéru devolvér ésta kamíza" },
+        { "t": "Posso trocar?", "es": "¿Puedo cambiarlo?", "pron": "pósu trokár" }
+      ],
+      "dialogo": {
+        "titulo": "En la tienda del shopping",
+        "lineas": [
+          { "q": "A", "t": "Boa tarde! Posso ajudar?", "es": "¡Buenas tardes! ¿Puedo ayudarle?" },
+          { "q": "B", "t": "Só estou olhando, obrigada. Quanto custa aquele vestido?", "es": "Solo estoy mirando, gracias. ¿Cuánto cuesta aquel vestido?" },
+          { "q": "A", "t": "Custa cem reais, mas hoje tem liquidação.", "es": "Cuesta cien reales, pero hoy hay liquidación." },
+          { "q": "B", "t": "Que bom! Posso experimentar?", "es": "¡Qué bueno! ¿Puedo probármelo?" },
+          { "q": "A", "t": "Claro! O provador fica ali.", "es": "¡Claro! El probador queda allí." },
+          { "q": "B", "t": "Eu levo. Eu pago com cartão.", "es": "Me lo llevo. Pago con tarjeta." }
+        ]
+      },
+      "nota": "«Só estou olhando» (solo estoy mirando) es la respuesta perfecta al vendedor; lo verás mejor en la unidad 10 (estou + -ando). Falso amigo: «vendedor» es el que vende en la tienda, y «cliente» se usa para ambos géneros (o cliente, a cliente)."
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "id": "en-a1-u6",
+  "idioma": "en",
+  "nivel": "A1",
+  "n": 6,
+  "titulo": "La casa",
+  "resumen": "Aprenderás las habitaciones y los muebles de una casa, a decir qué hay con there is / there are y dónde está cada cosa con in, on, under, next to y más.",
+  "puedo": [
+    "Nombrar las habitaciones de una casa.",
+    "Nombrar los muebles y objetos principales.",
+    "Decir qué hay con there is y there are.",
+    "Preguntar y decir dónde está algo.",
+    "Usar in, on, under, next to, behind e in front of.",
+    "Describir mi casa con adjetivos simples."
+  ],
+  "gramatica": {
+    "titulo": "There is / there are y las preposiciones de lugar",
+    "texto": "Para decir «hay» en inglés se usa there is (una sola cosa) o there are (varias cosas). Truco: there is = hay uno, there are = hay varios. There is a sofa, there are two chairs. La forma corta es there's.\nPara decir «no hay» se usa there isn't (un solo) o there aren't (varios). Para preguntar: Is there a garden? Are there any chairs?\nLas preposiciones dicen dónde está algo: in (dentro de), on (encima de, apoyado en), under (debajo de), next to (al lado de), behind (detrás de), in front of (delante de). Responde a Where is...? (¿Dónde está...?): The lamp is on the table.",
+    "tabla": [
+      ["There is a sofa.", "Hay un sofá.", "déir is a sóufa"],
+      ["There are two chairs.", "Hay dos sillas.", "déir ar tu cherz"],
+      ["There isn't a TV.", "No hay un televisor.", "déir ísnt a ti-ví"],
+      ["Is there a garden?", "¿Hay un jardín?", "is déir a gárden"],
+      ["in / on / under", "dentro de / encima de / debajo de", "in / an / ánder"],
+      ["next to / behind / in front of", "al lado de / detrás de / delante de", "nekst tu / bijáind / in frant of"]
+    ],
+    "errores": [
+      "No uses has/have para «hay»: In my house there is a garden, no «In my house has a garden».",
+      "Con varias cosas usa there are: There are two chairs, no «There is two chairs».",
+      "No olvides there: There is a lamp, no «Is a lamp»."
+    ]
+  },
+  "practica": [
+    "Recorre tu casa y di en voz alta el nombre de 10 cosas que ves: This is the kitchen. This is a chair. (5 minutos).",
+    "Mira una habitación y di 6 frases con There is y There are: There is a lamp. There are two windows. (6 minutos).",
+    "Elige 5 objetos de tu cuarto y di dónde están: The phone is on the bed. The shoes are under the bed. (5 minutos).",
+    "Dibuja el plano de tu casa y escribe debajo de cada habitación una frase con There is / There are. Léelas en voz alta (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-a1-u6-l1",
+      "n": 1,
+      "titulo": "Las habitaciones",
+      "objetivo": "Nombrar las habitaciones de una casa y decir dónde estás.",
+      "intro": "Empezamos por las habitaciones. Truco: casi todas terminan en -room (cuarto): bedroom, bathroom. Y para decir dónde está alguien usa in: I'm in the kitchen.",
+      "palabras": [
+        { "t": "house", "es": "casa", "pron": "jaus", "ej": "This is my house.", "ejes": "Esta es mi casa.", "cog": false },
+        { "t": "apartment", "es": "departamento", "pron": "apártment", "ej": "My apartment is nice.", "ejes": "Mi departamento es bonito.", "cog": true, "truco": "En EE. UU. apartment es «departamento»; en Reino Unido, flat." },
+        { "t": "room", "es": "cuarto / habitación", "pron": "rum", "ej": "This is my room.", "ejes": "Este es mi cuarto.", "cog": false },
+        { "t": "kitchen", "es": "cocina", "pron": "kíchen", "ej": "Mom is in the kitchen.", "ejes": "Mamá está en la cocina.", "cog": false },
+        { "t": "bedroom", "es": "dormitorio", "pron": "bédrum", "ej": "The bedroom is nice.", "ejes": "El dormitorio es bonito.", "cog": false },
+        { "t": "bathroom", "es": "baño", "pron": "bázrum", "ej": "The bathroom is nice.", "ejes": "El baño es bonito.", "cog": false, "truco": "bathroom es el baño de la casa, con ducha o tina." },
+        { "t": "living room", "es": "sala", "pron": "lívin rum", "ej": "The living room is nice.", "ejes": "La sala es bonita.", "cog": false },
+        { "t": "dining room", "es": "comedor", "pron": "dáinin rum", "ej": "The dining room is nice.", "ejes": "El comedor es bonito.", "cog": false },
+        { "t": "garden", "es": "jardín", "pron": "gárden", "ej": "Dad is in the garden.", "ejes": "Papá está en el jardín.", "cog": false },
+        { "t": "garage", "es": "garaje", "pron": "garásh", "ej": "Sam is in the garage.", "ejes": "Sam está en el garaje.", "cog": true }
+      ],
+      "frases": [
+        { "t": "This is my house.", "es": "Esta es mi casa.", "pron": "dis is mai jaus" },
+        { "t": "Mom is in the kitchen.", "es": "Mamá está en la cocina.", "pron": "mam is in da kíchen" },
+        { "t": "I'm in the bedroom.", "es": "Estoy en el dormitorio.", "pron": "aim in da bédrum" },
+        { "t": "Where is Dad?", "es": "¿Dónde está papá?", "pron": "juér is dad" },
+        { "t": "He is in the garden.", "es": "Él está en el jardín.", "pron": "ji is in da gárden" },
+        { "t": "I am in the living room.", "es": "Estoy en la sala.", "pron": "ai am in da lívin rum" }
+      ],
+      "dialogo": {
+        "titulo": "Un paseo por la casa",
+        "lineas": [
+          { "q": "A", "t": "Welcome to my house, Sam!", "es": "¡Bienvenido a mi casa, Sam!" },
+          { "q": "B", "t": "Thanks! This is nice.", "es": "¡Gracias! Es bonita." },
+          { "q": "A", "t": "This is the living room. This is the kitchen.", "es": "Esta es la sala. Esta es la cocina." },
+          { "q": "B", "t": "Where is the bathroom?", "es": "¿Dónde está el baño?" },
+          { "q": "A", "t": "The bathroom is here.", "es": "El baño está aquí." },
+          { "q": "B", "t": "Great, thank you!", "es": "¡Genial, gracias!" }
+        ]
+      },
+      "nota": "En EE. UU. restroom es el baño público (restaurante, tienda); bathroom es el de la casa. House es el edificio; home es el hogar y también significa «casa»: I'm at home (estoy en casa). Con garage, los hispanohablantes dicen «garaje» y los angloparlantes «garásh»."
+    },
+    {
+      "id": "en-a1-u6-l2",
+      "n": 2,
+      "titulo": "Muebles y objetos",
+      "objetivo": "Nombrar los muebles y objetos de una casa.",
+      "intro": "Ahora llenamos las habitaciones. Truco: sofa, lamp, TV y computer se parecen mucho al español, así que ya sabes casi la mitad. Recuerda: a delante de consonante, an delante de vocal (a table, an armchair).",
+      "palabras": [
+        { "t": "bed", "es": "cama", "pron": "bed", "ej": "This is my bed.", "ejes": "Esta es mi cama.", "cog": false },
+        { "t": "table", "es": "mesa", "pron": "téibol", "ej": "The table is in the kitchen.", "ejes": "La mesa está en la cocina.", "cog": false },
+        { "t": "chair", "es": "silla", "pron": "cher", "ej": "The chair is nice.", "ejes": "La silla es bonita.", "cog": false },
+        { "t": "sofa", "es": "sofá", "pron": "sóufa", "ej": "The sofa is in the living room.", "ejes": "El sofá está en la sala.", "cog": true },
+        { "t": "TV", "es": "televisor", "pron": "ti-ví", "ej": "The TV is in the living room.", "ejes": "El televisor está en la sala.", "cog": true, "truco": "TV se dice letra por letra: «ti-ví»." },
+        { "t": "lamp", "es": "lámpara", "pron": "lamp", "ej": "The lamp is nice.", "ejes": "La lámpara es bonita.", "cog": true },
+        { "t": "window", "es": "ventana", "pron": "uíndou", "ej": "The window is in the bedroom.", "ejes": "La ventana está en el dormitorio.", "cog": false },
+        { "t": "door", "es": "puerta", "pron": "dor", "ej": "The door is next to the window.", "ejes": "La puerta está al lado de la ventana.", "cog": false },
+        { "t": "desk", "es": "escritorio", "pron": "desk", "ej": "My desk is in my bedroom.", "ejes": "Mi escritorio está en mi dormitorio.", "cog": false },
+        { "t": "computer", "es": "computadora", "pron": "compiúter", "ej": "The computer is in my room.", "ejes": "La computadora está en mi cuarto.", "cog": true }
+      ],
+      "frases": [
+        { "t": "This is my bed.", "es": "Esta es mi cama.", "pron": "dis is mai bed" },
+        { "t": "The sofa is in the living room.", "es": "El sofá está en la sala.", "pron": "da sóufa is in da lívin rum" },
+        { "t": "I have a desk and a computer.", "es": "Tengo un escritorio y una computadora.", "pron": "ai jav a desk an a compiúter" },
+        { "t": "The table and the chairs are in the kitchen.", "es": "La mesa y las sillas están en la cocina.", "pron": "da téibol an da chers ar in da kíchen" },
+        { "t": "The window is in the bedroom.", "es": "La ventana está en el dormitorio.", "pron": "da uíndou is in da bédrum" },
+        { "t": "The TV is nice.", "es": "El televisor es bonito.", "pron": "da ti-ví is nais" }
+      ],
+      "dialogo": {
+        "titulo": "Mi cuarto",
+        "lineas": [
+          { "q": "A", "t": "This is my bedroom.", "es": "Este es mi dormitorio." },
+          { "q": "B", "t": "It's nice!", "es": "¡Es bonito!" },
+          { "q": "A", "t": "Thanks. I have a bed, a desk and a lamp.", "es": "Gracias. Tengo una cama, un escritorio y una lámpara." },
+          { "q": "B", "t": "And the computer?", "es": "¿Y la computadora?" },
+          { "q": "A", "t": "The computer is in the living room.", "es": "La computadora está en la sala." }
+        ]
+      },
+      "nota": "The se usa para algo que ya conocemos: The TV is nice (el televisor que vemos). Para plural de table, chair y lamp solo añade -s: tables, chairs, lamps."
+    },
+    {
+      "id": "en-a1-u6-l3",
+      "n": 3,
+      "titulo": "There is / there are",
+      "objetivo": "Decir qué hay en una casa, en singular y en plural.",
+      "intro": "En español decimos «hay» para uno o para varios. En inglés cambia: there is (uno) y there are (varios). Truco: mira lo que viene después: a sofa (uno) = there is; two chairs (varios) = there are.",
+      "palabras": [
+        { "t": "there is", "es": "hay (uno)", "pron": "déir is", "ej": "There is a sofa in the living room.", "ejes": "Hay un sofá en la sala.", "cog": false },
+        { "t": "there are", "es": "hay (varios)", "pron": "déir ar", "ej": "There are two beds in the bedroom.", "ejes": "Hay dos camas en el dormitorio.", "cog": false },
+        { "t": "there's", "es": "hay (forma corta)", "pron": "déirs", "ej": "There's a lamp next to the bed.", "ejes": "Hay una lámpara al lado de la cama.", "cog": false, "truco": "there's = there is. Se usa mucho al hablar." },
+        { "t": "there isn't", "es": "no hay (uno)", "pron": "déir ísnt", "ej": "There isn't a TV in my bedroom.", "ejes": "No hay un televisor en mi dormitorio.", "cog": false },
+        { "t": "there aren't", "es": "no hay (varios)", "pron": "déir arnt", "ej": "There aren't any chairs.", "ejes": "No hay sillas.", "cog": false },
+        { "t": "some", "es": "algunos / unos", "pron": "sam", "ej": "There are some chairs.", "ejes": "Hay algunas sillas.", "cog": false },
+        { "t": "any", "es": "ninguno / alguno", "pron": "éni", "ej": "Are there any windows?", "ejes": "¿Hay ventanas?", "cog": false, "truco": "any se usa en preguntas y negativas; some, en afirmaciones." },
+        { "t": "many", "es": "muchos", "pron": "méni", "ej": "There are many windows.", "ejes": "Hay muchas ventanas.", "cog": false },
+        { "t": "a lot of", "es": "muchos / mucho", "pron": "a lat of", "ej": "There are a lot of chairs.", "ejes": "Hay muchas sillas.", "cog": false }
+      ],
+      "frases": [
+        { "t": "There is a sofa in the living room.", "es": "Hay un sofá en la sala.", "pron": "déir is a sóufa in da lívin rum" },
+        { "t": "There are two beds in the bedroom.", "es": "Hay dos camas en el dormitorio.", "pron": "déir ar tu beds in da bédrum" },
+        { "t": "There isn't a TV in my bedroom.", "es": "No hay un televisor en mi dormitorio.", "pron": "déir ísnt a ti-ví in mai bédrum" },
+        { "t": "Is there a garden?", "es": "¿Hay un jardín?", "pron": "is déir a gárden" },
+        { "t": "Are there any chairs?", "es": "¿Hay sillas?", "pron": "ar déir éni chers" },
+        { "t": "There are many windows.", "es": "Hay muchas ventanas.", "pron": "déir ar méni uíndous" }
+      ],
+      "dialogo": {
+        "titulo": "Visitando un departamento",
+        "lineas": [
+          { "q": "A", "t": "Welcome! Is there a living room?", "es": "¡Bienvenida! ¿Hay una sala?" },
+          { "q": "B", "t": "Yes, there is. There's a sofa and a TV.", "es": "Sí, hay. Hay un sofá y un televisor." },
+          { "q": "A", "t": "Are there two bedrooms?", "es": "¿Hay dos dormitorios?" },
+          { "q": "B", "t": "Yes, there are. And there are many windows.", "es": "Sí, hay. Y hay muchas ventanas." },
+          { "q": "A", "t": "Is there a garden?", "es": "¿Hay un jardín?" },
+          { "q": "B", "t": "No, there isn't.", "es": "No, no hay." }
+        ]
+      },
+      "nota": "Para responder a Is there...? / Are there...? se usa Yes, there is. / No, there isn't. y Yes, there are. / No, there aren't. Y recuerda: «hay» NO se traduce con have. Plural irregular: window, windows; bed, beds; sofa, sofas."
+    },
+    {
+      "id": "en-a1-u6-l4",
+      "n": 4,
+      "titulo": "¿Dónde está?",
+      "objetivo": "Preguntar y decir dónde está algo con las preposiciones de lugar.",
+      "intro": "Para preguntar dónde está algo: Where is...? (uno) o Where are...? (varios). Truco con las manos: in = dentro (en una caja), on = encima (sobre la mesa), under = debajo, next to = al lado.",
+      "palabras": [
+        { "t": "on", "es": "sobre / encima de", "pron": "an", "ej": "The lamp is on the table.", "ejes": "La lámpara está sobre la mesa.", "cog": false },
+        { "t": "under", "es": "debajo de", "pron": "ánder", "ej": "The cat is under the table.", "ejes": "El gato está debajo de la mesa.", "cog": false },
+        { "t": "next to", "es": "al lado de", "pron": "nekst tu", "ej": "The TV is next to the window.", "ejes": "El televisor está al lado de la ventana.", "cog": false },
+        { "t": "behind", "es": "detrás de", "pron": "bijáind", "ej": "The dog is behind the door.", "ejes": "El perro está detrás de la puerta.", "cog": false },
+        { "t": "in front of", "es": "delante de / frente a", "pron": "in frant of", "ej": "The sofa is in front of the TV.", "ejes": "El sofá está frente al televisor.", "cog": false },
+        { "t": "between", "es": "entre", "pron": "bitúin", "ej": "The lamp is between the bed and the desk.", "ejes": "La lámpara está entre la cama y el escritorio.", "cog": false },
+        { "t": "near", "es": "cerca de", "pron": "nir", "ej": "The bathroom is near the bedroom.", "ejes": "El baño está cerca del dormitorio.", "cog": false },
+        { "t": "inside", "es": "dentro", "pron": "insáid", "ej": "The cat is inside the house.", "ejes": "El gato está dentro de la casa.", "cog": false },
+        { "t": "outside", "es": "fuera", "pron": "autsáid", "ej": "The dog is outside.", "ejes": "El perro está afuera.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Where is the cat?", "es": "¿Dónde está el gato?", "pron": "juér is da cat" },
+        { "t": "It's under the table.", "es": "Está debajo de la mesa.", "pron": "its ánder da téibol" },
+        { "t": "The lamp is on the desk.", "es": "La lámpara está sobre el escritorio.", "pron": "da lamp is an da desk" },
+        { "t": "The TV is next to the window.", "es": "El televisor está al lado de la ventana.", "pron": "da ti-ví is nekst tu da uíndou" },
+        { "t": "The chair is behind the door.", "es": "La silla está detrás de la puerta.", "pron": "da cher is bijáind da dor" },
+        { "t": "The garden is in front of the house.", "es": "El jardín está frente a la casa.", "pron": "da gárden is in frant of da jaus" }
+      ],
+      "dialogo": {
+        "titulo": "¿Dónde está mi teléfono?",
+        "lineas": [
+          { "q": "A", "t": "Where is my phone?", "es": "¿Dónde está mi teléfono?" },
+          { "q": "B", "t": "It's on the table.", "es": "Está sobre la mesa." },
+          { "q": "A", "t": "Where? I don't see it.", "es": "¿Dónde? No lo veo." },
+          { "q": "B", "t": "Next to the lamp.", "es": "Al lado de la lámpara." },
+          { "q": "A", "t": "Oh, yes! Thank you.", "es": "¡Ah, sí! Gracias." }
+        ]
+      },
+      "nota": "In y on parecen iguales en español («en»), pero no: in es dentro de (in the kitchen), on es encima de (on the table). Con it e they: It's on the table. They're under the bed. Para varias cosas se pregunta Where are...?: Where are the chairs?"
+    },
+    {
+      "id": "en-a1-u6-l5",
+      "n": 5,
+      "titulo": "Describir mi casa",
+      "objetivo": "Describir tu casa con adjetivos y repasar toda la unidad.",
+      "intro": "Los adjetivos van antes del nombre y no cambian: a big house, two big houses. Truco: se dice a big house (un adjetivo, luego el nombre), nunca «a house big». Y ya conoces old y nice de otras unidades.",
+      "palabras": [
+        { "t": "big", "es": "grande", "pron": "big", "ej": "My house is big.", "ejes": "Mi casa es grande.", "cog": false },
+        { "t": "small", "es": "pequeño", "pron": "smol", "ej": "The bathroom is small.", "ejes": "El baño es pequeño.", "cog": false },
+        { "t": "new", "es": "nuevo", "pron": "niu", "ej": "It's a new apartment.", "ejes": "Es un departamento nuevo.", "cog": false },
+        { "t": "beautiful", "es": "hermoso / bonito", "pron": "biútiful", "ej": "The garden is beautiful.", "ejes": "El jardín es hermoso.", "cog": false },
+        { "t": "clean", "es": "limpio", "pron": "clin", "ej": "The kitchen is clean.", "ejes": "La cocina está limpia.", "cog": false },
+        { "t": "comfortable", "es": "cómodo", "pron": "cómfortabol", "ej": "The sofa is comfortable.", "ejes": "El sofá es cómodo.", "cog": true },
+        { "t": "quiet", "es": "tranquilo / silencioso", "pron": "cuáiet", "ej": "The street is quiet.", "ejes": "La calle es tranquila.", "cog": false },
+        { "t": "upstairs", "es": "arriba (en el piso de arriba)", "pron": "apsters", "ej": "The bedrooms are upstairs.", "ejes": "Los dormitorios están arriba.", "cog": false },
+        { "t": "downstairs", "es": "abajo (en el piso de abajo)", "pron": "daunsters", "ej": "The kitchen is downstairs.", "ejes": "La cocina está abajo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I have a big house.", "es": "Tengo una casa grande.", "pron": "ai jav a big jaus" },
+        { "t": "My apartment is small, but it's very nice.", "es": "Mi departamento es pequeño, pero es muy bonito.", "pron": "mai apártment is smol, bat its véri nais" },
+        { "t": "There are three bedrooms upstairs.", "es": "Hay tres dormitorios arriba.", "pron": "déir ar zri bédrums apsters" },
+        { "t": "The kitchen is downstairs.", "es": "La cocina está abajo.", "pron": "da kíchen is daunsters" },
+        { "t": "My bedroom is quiet and comfortable.", "es": "Mi dormitorio es tranquilo y cómodo.", "pron": "mai bédrum is cuáiet an cómfortabol" },
+        { "t": "There is a beautiful garden in front of the house.", "es": "Hay un jardín hermoso frente a la casa.", "pron": "déir is a biútiful gárden in frant of da jaus" }
+      ],
+      "dialogo": {
+        "titulo": "Mi casa nueva",
+        "lineas": [
+          { "q": "A", "t": "Is your new house big?", "es": "¿Tu casa nueva es grande?" },
+          { "q": "B", "t": "Yes, it's big. There are four bedrooms.", "es": "Sí, es grande. Hay cuatro dormitorios." },
+          { "q": "A", "t": "Is there a garden?", "es": "¿Hay un jardín?" },
+          { "q": "B", "t": "Yes, there's a beautiful garden behind the house.", "es": "Sí, hay un jardín hermoso detrás de la casa." },
+          { "q": "A", "t": "Nice! I have a small apartment.", "es": "¡Qué bien! Yo tengo un departamento pequeño." },
+          { "q": "B", "t": "Small apartments are comfortable too!", "es": "¡Los departamentos pequeños también son cómodos!" }
+        ]
+      },
+      "nota": "Para la ubicación recuerda: in (dentro), on (encima), under (debajo), next to (al lado), behind (detrás), in front of (frente a). Y con adjetivos usa is/are: The house is big, The houses are big. Con cosas usa The para la cosa conocida y a/an para algo nuevo: There is a lamp. The lamp is new."
+    }
+  ]
+}

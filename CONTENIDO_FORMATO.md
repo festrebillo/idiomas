@@ -1,6 +1,6 @@
 # Formato del contenido del curso (idiomas-app/data)
 
-Cada **unidad** es un archivo JSON: `data/<idioma>/a1-u<N>.json` (idiomas: `en` inglés, `pt` portugués de Brasil, `it` italiano). El alumno es **hispanohablante (español de Perú)**; todas las explicaciones, traducciones y trucos van en **español**.
+Cada **unidad** es un archivo JSON: `data/<idioma>/<nivel>-u<N>.json` (nivel en minúscula: `a1`, `a2`, `b1`, `b2`, `c1`) (idiomas: `en` inglés, `pt` portugués de Brasil, `it` italiano). El alumno es **hispanohablante (español de Perú)**; todas las explicaciones, traducciones y trucos van en **español**.
 
 El motor genera los ejercicios solo (elegir significado, escuchar, emparejar, ordenar frase, completar hueco, escribir, dictado), así que el contenido debe ser **claro, correcto y muy pedagógico**: lo que se escriba aquí es lo que el alumno aprende.
 
@@ -8,7 +8,7 @@ El motor genera los ejercicios solo (elegir significado, escuchar, emparejar, or
 
 ```json
 {
-  "id": "en-a1-u1",
+  "id": "en-a1-u1",   // <idioma>-<nivel>-u<N>
   "idioma": "en",
   "nivel": "A1",
   "n": 1,

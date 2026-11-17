@@ -1,0 +1,232 @@
+{
+  "id": "en-a1-u5",
+  "idioma": "en",
+  "nivel": "A1",
+  "n": 5,
+  "titulo": "La hora, los días y mi rutina",
+  "resumen": "Aprenderás los días, los meses y la hora, y a contar tu rutina diaria con el presente simple: I work, she works.",
+  "puedo": [
+    "Decir y entender los días de la semana.",
+    "Preguntar y decir la hora.",
+    "Describir mi rutina de la mañana.",
+    "Describir lo que hago durante el día y la noche.",
+    "Usar la -s con he, she e it.",
+    "Decir con qué frecuencia hago algo."
+  ],
+  "gramatica": {
+    "titulo": "El presente simple: I work, she works",
+    "texto": "Para hablar de lo que haces siempre (tu rutina) se usa el verbo sin cambios: I work, you work, we work, they work. Con he, she e it se añade -s: he works, she works. Truco: solo la tercera persona (él, ella, eso) lleva -s.\nSi el verbo acaba en -o, -ch, -sh, -s o -x se añade -es: go → she goes, watch → he watches. Los casos raros: have → she has, study → he studies.\nPara preguntar se usa una palabra ayuda: do con I, you, we y they (Do you work?) y does con he, she e it (Does she work?). Esa palabra ya lleva la -s, por eso el verbo vuelve a su forma simple: Does she work? (no «Does she works?»).",
+    "tabla": [
+      ["I work", "yo trabajo", "ai uérk"],
+      ["you work / we work / they work", "tú trabajas / trabajamos / trabajan", "iú uérk / uí uérk / déi uérk"],
+      ["he works / she works", "él trabaja / ella trabaja", "ji uérks / shi uérks"],
+      ["she goes / he watches", "ella va / él mira", "shi góus / ji uáchis"],
+      ["she has / he studies", "ella tiene / él estudia", "shi jas / ji stádis"],
+      ["Do you work? / Does she work?", "¿trabajas? / ¿trabaja ella?", "du iú uérk / das shi uérk"]
+    ],
+    "errores": [
+      "Con he, she e it falta la -s: she works, no «she work». Es el error más común, ¡vigílala!",
+      "En preguntas con does el verbo no lleva -s: Does she work?, no «Does she works?».",
+      "No uses am/is/are con un verbo de acción: I work at eight, no «I am work at eight»."
+    ]
+  },
+  "practica": [
+    "Di en voz alta los 7 días de la semana, de lunes a domingo, 3 veces seguidas (3 minutos).",
+    "Mira un reloj y di la hora en inglés cada hora durante un día: It's three o'clock, It's half past four (5 minutos en total).",
+    "Escribe 6 frases sobre tu rutina de hoy: I wake up at six. I take a shower. Léelas en voz alta (8 minutos).",
+    "Escribe 5 frases sobre la rutina de otra persona de tu familia, con -s: My mother gets up at five. Léelas en voz alta (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-a1-u5-l1",
+      "n": 1,
+      "titulo": "Los días y los meses",
+      "objetivo": "Decir los días de la semana y preguntar qué día es hoy.",
+      "intro": "En inglés los días siempre se escriben con mayúscula inicial: Monday, Friday. La semana empieza el domingo en los calendarios de EE. UU. Truco: casi todos terminan en -day, que suena «dei».",
+      "palabras": [
+        { "t": "Monday", "es": "lunes", "pron": "mándei", "ej": "Today is Monday.", "ejes": "Hoy es lunes.", "cog": false },
+        { "t": "Tuesday", "es": "martes", "pron": "tiúsdei", "ej": "Tomorrow is Tuesday.", "ejes": "Mañana es martes.", "cog": false },
+        { "t": "Wednesday", "es": "miércoles", "pron": "uénsdei", "ej": "It's Wednesday.", "ejes": "Es miércoles.", "cog": false, "truco": "La primera «d» no se pronuncia: «uénsdei»." },
+        { "t": "Thursday", "es": "jueves", "pron": "zérsdei", "ej": "Thursday is a good day.", "ejes": "El jueves es un buen día.", "cog": false },
+        { "t": "Friday", "es": "viernes", "pron": "fráidei", "ej": "See you on Friday!", "ejes": "¡Nos vemos el viernes!", "cog": false },
+        { "t": "Saturday", "es": "sábado", "pron": "sáterdei", "ej": "Saturday is the weekend.", "ejes": "El sábado es fin de semana.", "cog": false },
+        { "t": "Sunday", "es": "domingo", "pron": "sándei", "ej": "Sunday is my day.", "ejes": "El domingo es mi día.", "cog": false },
+        { "t": "today", "es": "hoy", "pron": "tudéi", "ej": "Today is Monday.", "ejes": "Hoy es lunes.", "cog": false },
+        { "t": "tomorrow", "es": "mañana (el día siguiente)", "pron": "tumórou", "ej": "Tomorrow is Tuesday.", "ejes": "Mañana es martes.", "cog": false, "truco": "Mañana (día siguiente) es tomorrow; mañana (por la mañana) es morning." },
+        { "t": "weekend", "es": "fin de semana", "pron": "uíkend", "ej": "The weekend is Saturday and Sunday.", "ejes": "El fin de semana es sábado y domingo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "What day is it today?", "es": "¿Qué día es hoy?", "pron": "juat dei is it tudéi" },
+        { "t": "It's Wednesday.", "es": "Es miércoles.", "pron": "its uénsdei" },
+        { "t": "Tomorrow is Thursday.", "es": "Mañana es jueves.", "pron": "tumórou is zérsdei" },
+        { "t": "See you on Friday!", "es": "¡Nos vemos el viernes!", "pron": "si iú on fráidei" },
+        { "t": "The weekend is Saturday and Sunday.", "es": "El fin de semana es sábado y domingo.", "pron": "da uíkend is sáterdei an sándei" },
+        { "t": "My birthday is in May.", "es": "Mi cumpleaños es en mayo.", "pron": "mai bérzdei is in mei" }
+      ],
+      "dialogo": {
+        "titulo": "¿Qué día es?",
+        "lineas": [
+          { "q": "A", "t": "Hi, Sam! What day is it today?", "es": "¡Hola, Sam! ¿Qué día es hoy?" },
+          { "q": "B", "t": "It's Thursday.", "es": "Es jueves." },
+          { "q": "A", "t": "Thursday? Is tomorrow Friday?", "es": "¿Jueves? ¿Mañana es viernes?" },
+          { "q": "B", "t": "Yes, and then it's the weekend!", "es": "¡Sí, y luego es fin de semana!" },
+          { "q": "A", "t": "Great! See you on Monday.", "es": "¡Genial! Nos vemos el lunes." }
+        ]
+      },
+      "nota": "Los meses en inglés (también con mayúscula): January (yánuari), February (fébruari), March (march), April (éiprol), May (mei), June (yun), July (yulái), August (ógost), September (septémber), October (octóuber), November (nouvémber), December (disémber). Para un día se usa on (on Monday) y para un mes, in (in May)."
+    },
+    {
+      "id": "en-a1-u5-l2",
+      "n": 2,
+      "titulo": "La hora",
+      "objetivo": "Preguntar y decir la hora con o'clock, half past y quarter.",
+      "intro": "Para preguntar la hora se dice What time is it? y se responde It's... + la hora. Truco: o'clock es «en punto», half es «media» y quarter es «cuarto» (15 minutos).",
+      "palabras": [
+        { "t": "time", "es": "hora / tiempo", "pron": "taim", "ej": "What time is it?", "ejes": "¿Qué hora es?", "cog": false },
+        { "t": "o'clock", "es": "en punto", "pron": "oklák", "ej": "It's three o'clock.", "ejes": "Son las tres en punto.", "cog": false, "truco": "o'clock solo se usa con horas exactas: five o'clock." },
+        { "t": "half past", "es": "y media", "pron": "jaf past", "ej": "It's half past four.", "ejes": "Son las cuatro y media.", "cog": false },
+        { "t": "quarter past", "es": "y cuarto", "pron": "cuórter past", "ej": "It's quarter past five.", "ejes": "Son las cinco y cuarto.", "cog": false },
+        { "t": "quarter to", "es": "menos cuarto", "pron": "cuórter tu", "ej": "It's quarter to six.", "ejes": "Son las seis menos cuarto.", "cog": false },
+        { "t": "a.m.", "es": "de la mañana", "pron": "ei em", "ej": "It's seven a.m.", "ejes": "Son las siete de la mañana.", "cog": false, "truco": "a.m. es de la medianoche hasta antes del mediodía." },
+        { "t": "p.m.", "es": "de la tarde / noche", "pron": "pi em", "ej": "It's eight p.m.", "ejes": "Son las ocho de la noche.", "cog": false, "truco": "p.m. es del mediodía hasta antes de la medianoche." },
+        { "t": "noon", "es": "mediodía", "pron": "nun", "ej": "It's noon.", "ejes": "Es mediodía.", "cog": false },
+        { "t": "midnight", "es": "medianoche", "pron": "mídnait", "ej": "It's midnight.", "ejes": "Es medianoche.", "cog": false },
+        { "t": "at", "es": "a (una hora)", "pron": "at", "ej": "See you at six o'clock.", "ejes": "Nos vemos a las seis en punto.", "cog": false, "truco": "at + hora responde a «¿a qué hora?»: at six." }
+      ],
+      "frases": [
+        { "t": "What time is it?", "es": "¿Qué hora es?", "pron": "juat taim is it" },
+        { "t": "It's three o'clock.", "es": "Son las tres en punto.", "pron": "its zri oklák" },
+        { "t": "It's half past eight.", "es": "Son las ocho y media.", "pron": "its jaf past eit" },
+        { "t": "It's quarter past nine.", "es": "Son las nueve y cuarto.", "pron": "its cuórter past nain" },
+        { "t": "It's quarter to ten.", "es": "Son las diez menos cuarto.", "pron": "its cuórter tu ten" },
+        { "t": "It's seven thirty a.m.", "es": "Son las siete y treinta de la mañana.", "pron": "its séven zérti ei em" }
+      ],
+      "dialogo": {
+        "titulo": "Preguntando la hora",
+        "lineas": [
+          { "q": "A", "t": "Excuse me, what time is it?", "es": "Disculpe, ¿qué hora es?" },
+          { "q": "B", "t": "It's half past two.", "es": "Son las dos y media." },
+          { "q": "A", "t": "Two thirty p.m.?", "es": "¿Dos y treinta de la tarde?" },
+          { "q": "B", "t": "Yes, p.m.", "es": "Sí, de la tarde." },
+          { "q": "A", "t": "Thank you!", "es": "¡Gracias!" },
+          { "q": "B", "t": "You're welcome.", "es": "De nada." }
+        ]
+      },
+      "nota": "En la vida diaria se dice mucho la hora como la lee un reloj digital: 7:30 es seven thirty, 8:15 es eight fifteen. En EE. UU. para «y cuarto» se oye mucho quarter after (quarter past también se entiende) y para «menos cuarto», quarter to. En inglés no se usa el reloj de 24 horas: se usa a.m. y p.m."
+    },
+    {
+      "id": "en-a1-u5-l3",
+      "n": 3,
+      "titulo": "Rutina de la mañana",
+      "objetivo": "Contar qué haces por la mañana, con la -s en he y she.",
+      "intro": "Aquí usamos el presente simple. Con I el verbo no cambia: I wake up. Con she o he se añade -s: she wakes up. Truco: con go, brush y take hay una pequeña regla: goes, brushes, takes. Y have es irregular: she has.",
+      "palabras": [
+        { "t": "wake up", "es": "despertarse", "pron": "ueik ap", "ej": "I wake up at six.", "ejes": "Me despierto a las seis.", "cog": false, "truco": "Con he/she: wakes up." },
+        { "t": "get up", "es": "levantarse", "pron": "get ap", "ej": "I get up at six thirty.", "ejes": "Me levanto a las seis y treinta.", "cog": false, "truco": "Con he/she: gets up." },
+        { "t": "take a shower", "es": "ducharse", "pron": "teik a sháuer", "ej": "I take a shower at seven.", "ejes": "Me ducho a las siete.", "cog": false, "truco": "Con he/she: takes a shower." },
+        { "t": "brush my teeth", "es": "lavarme los dientes", "pron": "brash mai tiz", "ej": "I brush my teeth.", "ejes": "Me lavo los dientes.", "cog": false, "truco": "Con he/she: brushes his/her teeth." },
+        { "t": "get dressed", "es": "vestirse", "pron": "get drest", "ej": "I get dressed at seven.", "ejes": "Me visto a las siete.", "cog": false },
+        { "t": "have breakfast", "es": "desayunar", "pron": "jav brékfast", "ej": "We have breakfast at seven.", "ejes": "Desayunamos a las siete.", "cog": false, "truco": "Con he/she: has breakfast." },
+        { "t": "go to work", "es": "ir al trabajo", "pron": "góu tu uérk", "ej": "I go to work at eight.", "ejes": "Voy al trabajo a las ocho.", "cog": false, "truco": "Con he/she: goes to work." },
+        { "t": "go to school", "es": "ir a la escuela", "pron": "góu tu scul", "ej": "I go to school at eight.", "ejes": "Voy a la escuela a las ocho.", "cog": false },
+        { "t": "every day", "es": "todos los días", "pron": "évri dei", "ej": "I wake up at six every day.", "ejes": "Me despierto a las seis todos los días.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I wake up at six every day.", "es": "Me despierto a las seis todos los días.", "pron": "ai ueik ap at six évri dei" },
+        { "t": "She gets up at seven.", "es": "Ella se levanta a las siete.", "pron": "shi gets ap at séven" },
+        { "t": "He takes a shower.", "es": "Él se ducha.", "pron": "ji teiks a sháuer" },
+        { "t": "I brush my teeth.", "es": "Me lavo los dientes.", "pron": "ai brash mai tiz" },
+        { "t": "We have breakfast at seven.", "es": "Desayunamos a las siete.", "pron": "uí jav brékfast at séven" },
+        { "t": "My son goes to school at eight.", "es": "Mi hijo va a la escuela a las ocho.", "pron": "mai san góus tu scul at eit" }
+      ],
+      "dialogo": {
+        "titulo": "Una mañana normal",
+        "lineas": [
+          { "q": "A", "t": "What time do you wake up?", "es": "¿A qué hora te despiertas?" },
+          { "q": "B", "t": "I wake up at six, and I get up at six thirty.", "es": "Me despierto a las seis y me levanto a las seis y treinta." },
+          { "q": "A", "t": "Do you have breakfast?", "es": "¿Desayunas?" },
+          { "q": "B", "t": "Yes, I have breakfast at seven.", "es": "Sí, desayuno a las siete." },
+          { "q": "A", "t": "And then you go to work?", "es": "¿Y luego vas al trabajo?" },
+          { "q": "B", "t": "Yes, I go to work at eight.", "es": "Sí, voy al trabajo a las ocho." }
+        ]
+      },
+      "nota": "Para decir «por la mañana» se usa in the morning. En inglés no se dice «voy a la escuela» con the: es go to school, go to work (sin the), una expresión fija. Y con he/she recuerda: wakes up, gets up, takes a shower, brushes, has, goes."
+    },
+    {
+      "id": "en-a1-u5-l4",
+      "n": 4,
+      "titulo": "Rutina del día y la noche",
+      "objetivo": "Contar lo que haces durante la tarde y la noche, con at + hora.",
+      "intro": "Para decir a qué hora haces algo se usa at + la hora: I work at nine. Truco: cuando preguntas, la palabra do/does ayuda: What time do you work? Con he/she se cambia a does: What time does she work?",
+      "palabras": [
+        { "t": "work", "es": "trabajar", "pron": "uérk", "ej": "I work at nine.", "ejes": "Trabajo a las nueve.", "cog": false, "truco": "Con he/she: works." },
+        { "t": "study", "es": "estudiar", "pron": "stádi", "ej": "I study at night.", "ejes": "Estudio por la noche.", "cog": false, "truco": "Con he/she: studies (la y cambia a ies)." },
+        { "t": "have lunch", "es": "almorzar", "pron": "jav lanch", "ej": "We have lunch at one o'clock.", "ejes": "Almorzamos a la una en punto.", "cog": false, "truco": "Con he/she: has lunch." },
+        { "t": "come home", "es": "llegar a casa", "pron": "cam joum", "ej": "I come home at six.", "ejes": "Llego a casa a las seis.", "cog": false, "truco": "Con he/she: comes home." },
+        { "t": "cook", "es": "cocinar", "pron": "cuk", "ej": "I cook dinner at seven.", "ejes": "Cocino la cena a las siete.", "cog": false, "truco": "cook suena «cuk»." },
+        { "t": "have dinner", "es": "cenar", "pron": "jav díner", "ej": "They have dinner at eight.", "ejes": "Ellos cenan a las ocho.", "cog": false, "truco": "Con he/she: has dinner." },
+        { "t": "read", "es": "leer", "pron": "rid", "ej": "I read at night.", "ejes": "Leo por la noche.", "cog": false, "truco": "read se escribe igual en presente, pero suena «rid»." },
+        { "t": "go to bed", "es": "irse a la cama", "pron": "góu tu bed", "ej": "I go to bed at ten.", "ejes": "Me voy a la cama a las diez.", "cog": false, "truco": "Con he/she: goes to bed." },
+        { "t": "sleep", "es": "dormir", "pron": "slip", "ej": "I sleep eight hours.", "ejes": "Duermo ocho horas.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I work at nine.", "es": "Trabajo a las nueve.", "pron": "ai uérk at nain" },
+        { "t": "He studies at night.", "es": "Él estudia por la noche.", "pron": "ji stádis at nait" },
+        { "t": "We have lunch at one o'clock.", "es": "Almorzamos a la una en punto.", "pron": "uí jav lanch at uan oklák" },
+        { "t": "I come home at six.", "es": "Llego a casa a las seis.", "pron": "ai cam joum at six" },
+        { "t": "Do you have dinner at seven?", "es": "¿Cenas a las siete?", "pron": "du iú jav díner at séven" },
+        { "t": "She goes to bed at ten.", "es": "Ella se va a la cama a las diez.", "pron": "shi góus tu bed at ten" }
+      ],
+      "dialogo": {
+        "titulo": "¿A qué hora?",
+        "lineas": [
+          { "q": "A", "t": "What time do you have lunch?", "es": "¿A qué hora almuerzas?" },
+          { "q": "B", "t": "I have lunch at one o'clock. And you?", "es": "Almuerzo a la una en punto. ¿Y tú?" },
+          { "q": "A", "t": "At twelve thirty.", "es": "A las doce y treinta." },
+          { "q": "B", "t": "Do you cook dinner?", "es": "¿Cocinas la cena?" },
+          { "q": "A", "t": "Yes. We have dinner at seven.", "es": "Sí. Cenamos a las siete." },
+          { "q": "B", "t": "Great! I go to bed at ten.", "es": "¡Genial! Yo me voy a la cama a las diez." }
+        ]
+      },
+      "nota": "Para el momento del día usa: in the morning (por la mañana), in the afternoon (por la tarde), in the evening (por la tarde-noche) y at night (por la noche). Fíjate: con night se usa at, no in. Para estudiar con he/she: study cambia a studies."
+    },
+    {
+      "id": "en-a1-u5-l5",
+      "n": 5,
+      "titulo": "¿Con qué frecuencia?",
+      "objetivo": "Decir con qué frecuencia haces algo y repasar la rutina.",
+      "intro": "Las palabras de frecuencia dicen cuántas veces haces algo. Truco: van antes del verbo: I always have breakfast. Pero después de am/is/are: I am never late. Y la pregunta es How often...? (¿con qué frecuencia?).",
+      "palabras": [
+        { "t": "always", "es": "siempre", "pron": "ólueis", "ej": "I always have breakfast.", "ejes": "Siempre desayuno.", "cog": false },
+        { "t": "usually", "es": "normalmente", "pron": "iúyuali", "ej": "She usually goes to work at eight.", "ejes": "Ella normalmente va al trabajo a las ocho.", "cog": false },
+        { "t": "often", "es": "a menudo", "pron": "ófen", "ej": "I often read at night.", "ejes": "A menudo leo por la noche.", "cog": false },
+        { "t": "sometimes", "es": "a veces", "pron": "sámtaims", "ej": "We sometimes have dinner at nine.", "ejes": "A veces cenamos a las nueve.", "cog": false },
+        { "t": "never", "es": "nunca", "pron": "néver", "ej": "He never gets up early.", "ejes": "Él nunca se levanta temprano.", "cog": false, "truco": "never ya es negativo: no pongas don't." },
+        { "t": "how often", "es": "¿con qué frecuencia?", "pron": "jau ófen", "ej": "How often do you study?", "ejes": "¿Con qué frecuencia estudias?", "cog": false },
+        { "t": "early", "es": "temprano", "pron": "érli", "ej": "I get up early.", "ejes": "Me levanto temprano.", "cog": false },
+        { "t": "late", "es": "tarde (no a tiempo)", "pron": "leit", "ej": "I am never late.", "ejes": "Nunca llego tarde.", "cog": false, "truco": "late es «tarde» como «llegar tarde»; afternoon es «tarde» como parte del día." },
+        { "t": "on weekends", "es": "los fines de semana", "pron": "on uíkends", "ej": "I relax on weekends.", "ejes": "Descanso los fines de semana.", "cog": false },
+        { "t": "once a week", "es": "una vez por semana", "pron": "uans a uik", "ej": "I cook once a week.", "ejes": "Cocino una vez por semana.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I always have breakfast at seven.", "es": "Siempre desayuno a las siete.", "pron": "ai ólueis jav brékfast at séven" },
+        { "t": "She usually goes to work at eight.", "es": "Ella normalmente va al trabajo a las ocho.", "pron": "shi iúyuali góus tu uérk at eit" },
+        { "t": "We sometimes have dinner at nine.", "es": "A veces cenamos a las nueve.", "pron": "uí sámtaims jav díner at nain" },
+        { "t": "He never gets up early.", "es": "Él nunca se levanta temprano.", "pron": "ji néver gets ap érli" },
+        { "t": "How often do you study?", "es": "¿Con qué frecuencia estudias?", "pron": "jau ófen du iú stádi" },
+        { "t": "I study once a week.", "es": "Estudio una vez por semana.", "pron": "ai stádi uans a uik" }
+      ],
+      "dialogo": {
+        "titulo": "¿Con qué frecuencia?",
+        "lineas": [
+          { "q": "A", "t": "How often do you cook?", "es": "¿Con qué frecuencia cocinas?" },
+          { "q": "B", "t": "I cook on weekends. And you?", "es": "Cocino los fines de semana. ¿Y tú?" },
+          { "q": "A", "t": "I often cook dinner at night.", "es": "A menudo cocino la cena por la noche." },
+          { "q": "B", "t": "Do you always have breakfast?", "es": "¿Siempre desayunas?" },
+          { "q": "A", "t": "No, I never have breakfast. I get up late!", "es": "No, nunca desayuno. ¡Me levanto tarde!" }
+        ]
+      },
+      "nota": "Posición de la palabra: antes del verbo de acción (I always work) y después de am/is/are (I am always late). Never y always no necesitan don't: nunca digas «I don't never». Sometimes también puede ir al inicio: Sometimes I read at night."
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "id": "it-a1-u7",
+  "idioma": "it",
+  "nivel": "A1",
+  "n": 7,
+  "titulo": "La ciudad y direcciones",
+  "resumen": "Aprenderás los lugares de la ciudad, los transportes, y a preguntar y dar direcciones usando el imperativo.",
+  "puedo": [
+    "Nombrar los lugares principales de una ciudad.",
+    "Nombrar los medios de transporte y pedir un billete.",
+    "Preguntar por un lugar con «Scusi, dov'è...?».",
+    "Entender y dar direcciones sencillas: a sinistra, a destra, dritto.",
+    "Decir si un lugar está cerca o lejos y qué tiene al lado."
+  ],
+  "gramatica": {
+    "titulo": "El imperativo para dar direcciones",
+    "texto": "Para decir a alguien qué hacer se usa el imperativo. En italiano hay dos formas: informal (tu, para amigos y gente joven) y formal (lei, para desconocidos y mayores). En la calle, con un desconocido, usa la forma formal.\nEn los verbos en -are (girare, continuare, attraversare) la forma informal termina en -a y la formal en -i: gira / giri. En los verbos en -ere (prendere) pasa al revés: prendi (tú) / prenda (usted).\nAndare es irregular: vai (tú) / vada (usted).\nTruco: si dudas, usa la forma formal; nadie se ofende.",
+    "tabla": [
+      ["Gira / Giri a sinistra", "Gira (tú) / Gire (usted) a la izquierda", "yíra / yíri a sinístra"],
+      ["Vai / Vada dritto", "Ve (tú) / Vaya (usted) derecho", "vái / váda drítto"],
+      ["Prendi / Prenda la strada", "Toma (tú) / Tome (usted) la calle", "préndi / prénda la stráda"],
+      ["Continua / Continui", "Sigue (tú) / Siga (usted)", "continúa / continúi"],
+      ["Attraversa / Attraversi la piazza", "Cruza (tú) / Cruce (usted) la plaza", "atravérsa / atravérsi la piátsa"],
+      ["Scusa / Scusi", "Disculpa (tú) / Disculpe (usted)", "scúsa / scúsi"]
+    ],
+    "errores": [
+      "No uses la forma de tú (gira) con un desconocido: di «Giri a sinistra», no «Gira a sinistra».",
+      "«Dritto» significa derecho (recto), no «a la derecha»; a la derecha se dice «a destra».",
+      "Recuerda el «a»: se dice «Giri a sinistra» y «a destra», no «Giri sinistra»."
+    ]
+  },
+  "practica": [
+    "Mira un mapa de tu barrio y di en voz alta cinco direcciones: «Vada dritto, giri a destra...» (5 minutos).",
+    "Escribe los nombres de diez lugares de tu ciudad en italiano, con su artículo (5 minutos).",
+    "Pide a un familiar que te guíe con los ojos cerrados por la casa usando solo «a sinistra, a destra, dritto» (5 minutos).",
+    "Repite en voz alta la frase «Scusi, dov'è la stazione?» diez veces, cada vez más rápido y sin trabarte (3 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-a1-u7-l1",
+      "n": 1,
+      "titulo": "Lugares de la ciudad",
+      "objetivo": "Nombrar diez lugares importantes de una ciudad con su artículo.",
+      "intro": "Casi todas estas palabras te sonarán: la mayoría se parece al español. Truco: «-zione» suena «tsióne» (stazione = statsióne) y «sc» ante a, o, u suena como una «sk».",
+      "palabras": [
+        { "t": "la città", "es": "la ciudad", "pron": "la chitá", "ej": "Ecco la città!", "ejes": "¡Aquí está la ciudad!", "cog": true, "truco": "La tilde final marca la sílaba fuerte: chi-TÁ." },
+        { "t": "la banca", "es": "el banco", "pron": "la bánca", "ej": "La banca è qui.", "ejes": "El banco está aquí.", "cog": true, "truco": "En italiano es femenino: la banca." },
+        { "t": "la farmacia", "es": "la farmacia", "pron": "la farmachía", "ej": "La farmacia è qui.", "ejes": "La farmacia está aquí.", "cog": true, "truco": "«cia» suena «chía», con la fuerza en la «i»." },
+        { "t": "il supermercato", "es": "el supermercado", "pron": "il supermercáto", "ej": "Ecco il supermercato.", "ejes": "Aquí está el supermercado.", "cog": true },
+        { "t": "l'ospedale", "es": "el hospital", "pron": "lospedále", "ej": "L'ospedale è qui.", "ejes": "El hospital está aquí.", "cog": true, "truco": "No se escribe con «h» y es masculino: l'ospedale." },
+        { "t": "il parco", "es": "el parque", "pron": "il párco", "ej": "Mi piace il parco.", "ejes": "Me gusta el parque.", "cog": true },
+        { "t": "la scuola", "es": "la escuela / el colegio", "pron": "la scuóla", "ej": "La scuola è qui.", "ejes": "La escuela está aquí.", "cog": true, "truco": "«sc» + u suena «sk»: scuóla." },
+        { "t": "il ristorante", "es": "el restaurante", "pron": "il ristoránte", "ej": "Il ristorante è buono.", "ejes": "El restaurante es bueno.", "cog": true },
+        { "t": "la stazione", "es": "la estación", "pron": "la statsióne", "ej": "Ecco la stazione.", "ejes": "Aquí está la estación.", "cog": true, "truco": "«zione» = tsióne, no «sione»." },
+        { "t": "la piazza", "es": "la plaza", "pron": "la piátsa", "ej": "Mi piace molto la piazza.", "ejes": "Me gusta mucho la plaza.", "cog": true, "truco": "«zz» suena «ts», como en pizza." }
+      ],
+      "frases": [
+        { "t": "Ecco la banca.", "es": "Aquí está el banco.", "pron": "éko la bánca" },
+        { "t": "La farmacia è qui.", "es": "La farmacia está aquí.", "pron": "la farmachía è cuí" },
+        { "t": "Mi piace il parco.", "es": "Me gusta el parque.", "pron": "mi piáche il párco" },
+        { "t": "Il ristorante è buono.", "es": "El restaurante es bueno.", "pron": "il ristoránte è buóno" },
+        { "t": "La scuola e la stazione.", "es": "La escuela y la estación.", "pron": "la scuóla e la statsióne" },
+        { "t": "L'ospedale è qui.", "es": "El hospital está aquí.", "pron": "lospedále è cuí" }
+      ],
+      "dialogo": {
+        "titulo": "Una turista en la ciudad",
+        "lineas": [
+          { "q": "A", "t": "Buongiorno! La stazione è qui?", "es": "¡Buenos días! ¿La estación está aquí?" },
+          { "q": "B", "t": "Sì, la stazione è qui.", "es": "Sí, la estación está aquí." },
+          { "q": "A", "t": "E la banca?", "es": "¿Y el banco?" },
+          { "q": "B", "t": "Ecco la banca!", "es": "¡Aquí está el banco!" },
+          { "q": "A", "t": "Grazie! Mi piace molto la città.", "es": "¡Gracias! Me gusta mucho la ciudad." },
+          { "q": "B", "t": "Prego!", "es": "¡De nada!" }
+        ]
+      },
+      "nota": "Falso amigo: «scuola» es escuela o colegio, y «farmacia» es la tienda donde compras medicinas (en Perú, botica). Las dobles consonantes (como la «tt» de «città») se pronuncian más largas y fuertes."
+    },
+    {
+      "id": "it-a1-u7-l2",
+      "n": 2,
+      "titulo": "Transporte",
+      "objetivo": "Nombrar los medios de transporte y pedir un billete.",
+      "intro": "Con estas palabras podrás moverte por Italia. Para decir que tomas un transporte usa «prendo» (yo tomo): «Prendo il treno» = Tomo el tren. Truco: «prendere» es «tomar/coger», como en «tomar el bus».",
+      "palabras": [
+        { "t": "l'autobus", "es": "el autobús / el bus", "pron": "lautóbus", "ej": "Prendo l'autobus.", "ejes": "Tomo el bus.", "cog": true },
+        { "t": "il taxi", "es": "el taxi", "pron": "il táxi", "ej": "Il taxi è qui.", "ejes": "El taxi está aquí.", "cog": true, "truco": "No cambia en plural: i taxi." },
+        { "t": "il treno", "es": "el tren", "pron": "il tréno", "ej": "Ecco il treno!", "ejes": "¡Aquí está el tren!", "cog": true },
+        { "t": "la metro", "es": "el metro", "pron": "la métro", "ej": "Prendo la metro.", "ejes": "Tomo el metro.", "cog": true, "truco": "Ojo: en italiano es femenino, «la metro»." },
+        { "t": "la bicicletta", "es": "la bicicleta", "pron": "la bichicléta", "ej": "Mi piace la bicicletta.", "ejes": "Me gusta la bicicleta.", "cog": true, "truco": "«ci» suena «chi»: bi-chi-clé-ta." },
+        { "t": "la macchina", "es": "el carro / el auto", "pron": "la mákina", "ej": "La macchina è qui.", "ejes": "El carro está aquí.", "cog": false, "truco": "«cch» antes de i suena «k»: mákina. No se parece a «máquina»... ¡aunque es la misma raíz!" },
+        { "t": "l'aereo", "es": "el avión", "pron": "laéreo", "ej": "Prendo l'aereo.", "ejes": "Tomo el avión.", "cog": true, "truco": "De «aéreo»: es el avión." },
+        { "t": "il biglietto", "es": "el boleto / el pasaje", "pron": "il biliéto", "ej": "Ecco il biglietto.", "ejes": "Aquí está el boleto.", "cog": false, "truco": "«gli» suena como la «ll» andina de «llave»: bi-LIÉ-to." },
+        { "t": "l'aeroporto", "es": "el aeropuerto", "pron": "laeropórto", "ej": "L'aeroporto è qui.", "ejes": "El aeropuerto está aquí.", "cog": true },
+        { "t": "la fermata", "es": "la parada", "pron": "la fermáta", "ej": "La fermata è qui.", "ejes": "La parada está aquí.", "cog": false, "truco": "Viene de «fermare» (detener)." }
+      ],
+      "frases": [
+        { "t": "Prendo il treno.", "es": "Tomo el tren.", "pron": "préndo il tréno" },
+        { "t": "Prendo la metro.", "es": "Tomo el metro.", "pron": "préndo la métro" },
+        { "t": "Un biglietto per Roma, per favore.", "es": "Un boleto a Roma, por favor.", "pron": "un biliéto per róma, per favóre" },
+        { "t": "Il taxi, per favore.", "es": "El taxi, por favor.", "pron": "il táxi, per favóre" },
+        { "t": "Mi piace la bicicletta.", "es": "Me gusta la bicicleta.", "pron": "mi piáche la bichicléta" },
+        { "t": "Prendi l'autobus?", "es": "¿Tomas el bus?", "pron": "préndi lautóbus" }
+      ],
+      "dialogo": {
+        "titulo": "Camino a la estación",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Anna! Prendi l'autobus?", "es": "¡Hola, Anna! ¿Tomas el bus?" },
+          { "q": "B", "t": "No, prendo il treno. Ecco la stazione!", "es": "No, tomo el tren. ¡Aquí está la estación!" },
+          { "q": "A", "t": "Hai il biglietto?", "es": "¿Tienes el boleto?" },
+          { "q": "B", "t": "Sì, ho il biglietto. Ciao!", "es": "Sí, tengo el boleto. ¡Chao!" },
+          { "q": "A", "t": "A presto, Anna!", "es": "¡Hasta pronto, Anna!" }
+        ]
+      },
+      "nota": "En Italia el biglietto del bus suele comprarse antes de subir (en un tabaccaio o en una máquina) y hay que validarlo dentro. «Metro» es la forma corta de «metropolitana». «Autobus», «taxi» y «metro» no cambian en plural."
+    },
+    {
+      "id": "it-a1-u7-l3",
+      "n": 3,
+      "titulo": "Pedir y dar direcciones",
+      "objetivo": "Preguntar dónde está un lugar y entender las direcciones básicas.",
+      "intro": "Para preguntar a un desconocido empieza con «Scusi» (disculpe) y luego «Dov'è...?» (¿dónde está...?). Truco: «dov'è» es «dove» (dónde) + «è» (está), unidos con apóstrofo. Con desconocidos se usa la forma formal: «giri», «vada».",
+      "palabras": [
+        { "t": "scusi", "es": "disculpe", "pron": "scúsi", "ej": "Scusi, signora!", "ejes": "¡Disculpe, señora!", "cog": false, "truco": "Para un amigo se dice «scusa». «sc» + u = sk." },
+        { "t": "dov'è", "es": "¿dónde está?", "pron": "dové", "ej": "Dov'è la farmacia?", "ejes": "¿Dónde está la farmacia?", "cog": false, "truco": "Con plural: «dove sono...?»" },
+        { "t": "a sinistra", "es": "a la izquierda", "pron": "a sinístra", "ej": "Giri a sinistra, signore.", "ejes": "Gire a la izquierda, señor.", "cog": false },
+        { "t": "a destra", "es": "a la derecha", "pron": "a déstra", "ej": "Giri a destra, per favore.", "ejes": "Gire a la derecha, por favor.", "cog": true, "truco": "Parece «diestra»: a destra." },
+        { "t": "dritto", "es": "derecho / recto", "pron": "drítto", "ej": "Vada dritto, signora.", "ejes": "Siga derecho, señora.", "cog": false, "truco": "No es «derecha»: es seguir de frente." },
+        { "t": "vada", "es": "vaya (usted)", "pron": "váda", "ej": "Vada a destra, per favore.", "ejes": "Vaya a la derecha, por favor.", "cog": false, "truco": "Es la forma formal de «andare» (ir)." },
+        { "t": "giri", "es": "gire / doble (usted)", "pron": "yíri", "ej": "Giri a sinistra, signore.", "ejes": "Gire a la izquierda, señor.", "cog": false, "truco": "«gi» suena como una «y» suave: yíri." },
+        { "t": "l'angolo", "es": "la esquina", "pron": "lángolo", "ej": "Ecco l'angolo, giri a destra.", "ejes": "Aquí está la esquina, gire a la derecha.", "cog": true, "truco": "Parece «ángulo»." },
+        { "t": "l'isolato", "es": "la cuadra / la manzana", "pron": "lisoláto", "ej": "", "ejes": "", "cog": false, "truco": "Literalmente es «el aislado»: un bloque de edificios." },
+        { "t": "la strada", "es": "la calle", "pron": "la stráda", "ej": "La strada è qui.", "ejes": "La calle está aquí.", "cog": false, "truco": "Parece «estrada»; es la calle o el camino." }
+      ],
+      "frases": [
+        { "t": "Scusi, dov'è la stazione?", "es": "Disculpe, ¿dónde está la estación?", "pron": "scúsi, dové la statsióne" },
+        { "t": "Come arrivo alla stazione?", "es": "¿Cómo llego a la estación?", "pron": "cóme arrívo alla statsióne" },
+        { "t": "Vada dritto.", "es": "Siga derecho.", "pron": "váda drítto" },
+        { "t": "Giri a sinistra.", "es": "Gire a la izquierda.", "pron": "yíri a sinístra" },
+        { "t": "Giri a destra all'angolo.", "es": "Gire a la derecha en la esquina.", "pron": "yíri a déstra allángolo" },
+        { "t": "Vada dritto per un isolato.", "es": "Siga derecho por una cuadra.", "pron": "váda drítto per un isoláto" }
+      ],
+      "dialogo": {
+        "titulo": "Preguntar por el banco",
+        "lineas": [
+          { "q": "A", "t": "Scusi, dov'è la banca?", "es": "Disculpe, ¿dónde está el banco?" },
+          { "q": "B", "t": "Vada dritto per un isolato.", "es": "Siga derecho una cuadra." },
+          { "q": "A", "t": "A sinistra o a destra?", "es": "¿A la izquierda o a la derecha?" },
+          { "q": "B", "t": "Giri a sinistra all'angolo.", "es": "Gire a la izquierda en la esquina." },
+          { "q": "A", "t": "Grazie, signora!", "es": "¡Gracias, señora!" },
+          { "q": "B", "t": "Prego!", "es": "¡De nada!" }
+        ]
+      },
+      "nota": "«Come arrivo a...?» significa ¿cómo llego a...? Con «a» + artículo se contrae: a + la = alla (alla stazione), a + il = al (al parco). Con un amigo usarías «scusa» y «gira». En una calle italiana verás que el nombre empieza con «via» (calle), «piazza» o «viale» (avenida)."
+    },
+    {
+      "id": "it-a1-u7-l4",
+      "n": 4,
+      "titulo": "¿Dónde queda?",
+      "objetivo": "Decir si un lugar está cerca o lejos y qué tiene al lado o enfrente.",
+      "intro": "Ahora aprendes a describir dónde queda un lugar. Truco: «vicino» (cerca) empieza como «vecino», y «lontano» (lejos) se parece a «lontananza»; son fáciles de recordar.",
+      "palabras": [
+        { "t": "vicino", "es": "cerca", "pron": "vicíno", "ej": "Il parco è vicino.", "ejes": "El parque está cerca.", "cog": true, "truco": "Como adjetivo cambia: il parco è vicino, la stazione è vicina." },
+        { "t": "lontano", "es": "lejos", "pron": "lontáno", "ej": "Il supermercato è lontano.", "ejes": "El supermercado está lejos.", "cog": false, "truco": "Cambia como adjetivo: lontano / lontana." },
+        { "t": "accanto a", "es": "al lado de", "pron": "acánto a", "ej": "La banca è accanto a un parco.", "ejes": "El banco está al lado de un parque.", "cog": false },
+        { "t": "di fronte a", "es": "frente a / enfrente de", "pron": "di frónte a", "ej": "La scuola è di fronte a un ospedale.", "ejes": "La escuela está frente a un hospital.", "cog": true, "truco": "«fronte» = frente." },
+        { "t": "tra", "es": "entre", "pron": "tra", "ej": "La farmacia è tra la banca e la scuola.", "ejes": "La farmacia está entre el banco y la escuela.", "cog": true },
+        { "t": "lì", "es": "allí", "pron": "lì", "ej": "Il ristorante è lì.", "ejes": "El restaurante está allí.", "cog": false, "truco": "Tiene tilde grave para no confundirse con «li» (los)." },
+        { "t": "a piedi", "es": "a pie", "pron": "a piédi", "ej": "La scuola è a dieci minuti a piedi.", "ejes": "La escuela está a diez minutos a pie.", "cog": true },
+        { "t": "minuti", "es": "minutos", "pron": "minúti", "ej": "Il parco è a cinque minuti.", "ejes": "El parque está a cinco minutos.", "cog": true, "truco": "Singular: un minuto." },
+        { "t": "il semaforo", "es": "el semáforo", "pron": "il semáforo", "ej": "Dov'è il semaforo?", "ejes": "¿Dónde está el semáforo?", "cog": true },
+        { "t": "l'incrocio", "es": "el cruce", "pron": "lincrócho", "ej": "Ecco l'incrocio, giri a destra.", "ejes": "Aquí está el cruce, gire a la derecha.", "cog": true, "truco": "«cio» suena «chó»: incrócho." }
+      ],
+      "frases": [
+        { "t": "Il parco è vicino alla scuola.", "es": "El parque está cerca de la escuela.", "pron": "il párco è vicíno alla scuóla" },
+        { "t": "La stazione è lontana.", "es": "La estación está lejos.", "pron": "la statsióne è lontána" },
+        { "t": "La farmacia è accanto al supermercato.", "es": "La farmacia está al lado del supermercado.", "pron": "la farmachía è acánto al supermercáto" },
+        { "t": "Il ristorante è di fronte alla banca.", "es": "El restaurante está frente al banco.", "pron": "il ristoránte è di frónte alla bánca" },
+        { "t": "La scuola è a dieci minuti a piedi.", "es": "La escuela está a diez minutos a pie.", "pron": "la scuóla è a diéchi minúti a piédi" },
+        { "t": "Il parco è tra l'ospedale e la scuola.", "es": "El parque está entre el hospital y la escuela.", "pron": "il párco è tra lospedále e la scuóla" }
+      ],
+      "dialogo": {
+        "titulo": "Buscando la farmacia",
+        "lineas": [
+          { "q": "A", "t": "Scusi, la farmacia è lontana?", "es": "Disculpe, ¿la farmacia está lejos?" },
+          { "q": "B", "t": "No, è qui vicino.", "es": "No, está aquí cerca." },
+          { "q": "A", "t": "Dov'è?", "es": "¿Dónde está?" },
+          { "q": "B", "t": "È accanto alla banca, di fronte al parco.", "es": "Está al lado del banco, frente al parque." },
+          { "q": "A", "t": "Grazie!", "es": "¡Gracias!" },
+          { "q": "B", "t": "Prego!", "es": "¡De nada!" }
+        ]
+      },
+      "nota": "«Qui vicino» significa por aquí cerca y no cambia. Tras «accanto a», «di fronte a» y «vicino a» se unen las palabras: a + il = al, a + la = alla (accanto alla banca). Las distancias se dan en minutos: «a cinque minuti a piedi»."
+    },
+    {
+      "id": "it-a1-u7-l5",
+      "n": 5,
+      "titulo": "Moverse por la ciudad",
+      "objetivo": "Seguir y dar indicaciones completas combinando lo aprendido.",
+      "intro": "Ahora unes todo: lugares, transporte y direcciones. Para ordenar los pasos usa «prima» (primero), «poi» (luego) y «dopo» (después). Truco: «poi» suena casi como «y luego».",
+      "palabras": [
+        { "t": "prima", "es": "primera (calle)", "pron": "príma", "ej": "La prima strada a destra.", "ejes": "La primera calle a la derecha.", "cog": true, "truco": "Con nombres masculinos es «primo»: il primo semaforo." },
+        { "t": "seconda", "es": "segunda", "pron": "secónda", "ej": "La seconda strada a sinistra.", "ejes": "La segunda calle a la izquierda.", "cog": true },
+        { "t": "dopo", "es": "después de", "pron": "dópo", "ej": "Dopo il semaforo, a destra.", "ejes": "Después del semáforo, a la derecha.", "cog": false },
+        { "t": "poi", "es": "luego / después", "pron": "poi", "ej": "Dritto, poi a sinistra.", "ejes": "Derecho, luego a la izquierda.", "cog": false },
+        { "t": "fino a", "es": "hasta", "pron": "fíno a", "ej": "Vada dritto fino a un semaforo.", "ejes": "Siga derecho hasta un semáforo.", "cog": false },
+        { "t": "attraversi", "es": "cruce (usted)", "pron": "atravérsi", "ej": "Attraversi la piazza, per favore.", "ejes": "Cruce la plaza, por favor.", "cog": true, "truco": "Parece «atraviese»." },
+        { "t": "continui", "es": "siga / continúe (usted)", "pron": "continúi", "ej": "Continui dritto, per favore.", "ejes": "Continúe derecho, por favor.", "cog": true },
+        { "t": "mi sono perso", "es": "me perdí / estoy perdido", "pron": "mi sóno pérso", "ej": "Scusi, mi sono perso.", "ejes": "Disculpe, estoy perdido.", "cog": false, "truco": "Una mujer dice «mi sono persa»." },
+        { "t": "grazie mille", "es": "muchas gracias", "pron": "grátsie mílle", "ej": "Grazie mille, signora!", "ejes": "¡Muchas gracias, señora!", "cog": false, "truco": "Literalmente «gracias mil»." },
+        { "t": "di niente", "es": "de nada", "pron": "di niénte", "ej": "Grazie! Di niente.", "ejes": "¡Gracias! De nada.", "cog": false, "truco": "Otra forma de decir «prego»." }
+      ],
+      "frases": [
+        { "t": "Mi sono perso. Dov'è la stazione?", "es": "Me perdí. ¿Dónde está la estación?", "pron": "mi sóno pérso. dové la statsióne" },
+        { "t": "Vada dritto fino al semaforo, poi giri a destra.", "es": "Siga derecho hasta el semáforo, luego gire a la derecha.", "pron": "váda drítto fíno al semáforo, poi yíri a déstra" },
+        { "t": "Prenda la seconda strada a sinistra.", "es": "Tome la segunda calle a la izquierda.", "pron": "prénda la secónda stráda a sinístra" },
+        { "t": "Continui dritto, è a cinque minuti a piedi.", "es": "Siga derecho, está a cinco minutos a pie.", "pron": "continúi drítto, è a chínque minúti a piédi" },
+        { "t": "Prendo l'autobus fino alla piazza.", "es": "Tomo el bus hasta la plaza.", "pron": "préndo lautóbus fíno alla piátsa" },
+        { "t": "Grazie mille! Di niente!", "es": "¡Muchas gracias! ¡De nada!", "pron": "grátsie mílle! di niénte" }
+      ],
+      "dialogo": {
+        "titulo": "Perdido en la ciudad",
+        "lineas": [
+          { "q": "A", "t": "Scusi, mi sono perso. Dov'è la stazione?", "es": "Disculpe, estoy perdido. ¿Dónde está la estación?" },
+          { "q": "B", "t": "Vada dritto fino al semaforo, poi giri a sinistra.", "es": "Siga derecho hasta el semáforo, luego gire a la izquierda." },
+          { "q": "A", "t": "È lontano?", "es": "¿Está lejos?" },
+          { "q": "B", "t": "No, è a cinque minuti a piedi.", "es": "No, está a cinco minutos a pie." },
+          { "q": "A", "t": "Grazie mille!", "es": "¡Muchas gracias!" },
+          { "q": "B", "t": "Di niente!", "es": "¡De nada!" }
+        ]
+      },
+      "nota": "Repaso de la unidad: Scusi, dov'è...?, Vada dritto, Giri a sinistra / a destra, È vicino / lontano. «Prima» y «seconda» concuerdan con el sustantivo: la prima strada, il primo semaforo. «Prenda» (de prendere) es la forma formal: prenda la seconda strada."
+    }
+  ]
+}

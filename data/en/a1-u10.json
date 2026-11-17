@@ -1,0 +1,225 @@
+{
+  "id": "en-a1-u10",
+  "idioma": "en",
+  "nivel": "A1",
+  "n": 10,
+  "titulo": "Ahora y planes",
+  "resumen": "Aprenderás a hablar del clima, de lo que estás haciendo ahora con el presente continuo y de tus planes con going to, y cerrarás el nivel A1 con un repaso final.",
+  "puedo": [
+    "Describir el clima: It's sunny, It's raining, It's cold.",
+    "Decir lo que estoy haciendo ahora: I'm studying.",
+    "Preguntar a alguien: What are you doing?",
+    "Hablar de mis planes con I'm going to...",
+    "Hablar de un fin de semana o de unas vacaciones.",
+    "Mantener conversaciones sencillas combinando todo lo aprendido en A1."
+  ],
+  "gramatica": {
+    "titulo": "El presente continuo (am/is/are + -ing) y going to",
+    "texto": "Para decir lo que pasa AHORA usa am/is/are + verbo con -ing: I'm studying (estoy estudiando), She's cooking (ella está cocinando), They're waiting (están esperando). Para preguntar: What are you doing? (¿qué estás haciendo?).\nPara planes futuros usa am/is/are + going to + verbo: I'm going to visit my aunt (voy a visitar a mi tía). Truco: es igual que el español «voy a + verbo». Después de going to el verbo va solo, sin -ing: going to visit, no «going to visiting».",
+    "tabla": [
+      ["I'm studying", "estoy estudiando", "aim stádiin"],
+      ["She's cooking", "ella está cocinando", "shis cúkin"],
+      ["They're waiting", "están esperando", "deir uéitin"],
+      ["I'm going to visit", "voy a visitar", "aim góuin tu vísit"],
+      ["He's going to buy", "él va a comprar", "jis góuin tu bai"]
+    ],
+    "errores": [
+      "No olvides am/is/are: I'm studying, no «I studying».",
+      "No uses el presente simple para lo que haces ahora: di I'm eating now, no «I eat now».",
+      "Después de going to no pongas -ing: I'm going to travel, no «going to traveling»."
+    ]
+  },
+  "practica": [
+    "Mira por la ventana y di en voz alta 5 frases sobre el clima de hoy y lo que ves hacer a la gente: It's sunny. A man is walking (6 minutos).",
+    "Escribe 5 cosas que estás haciendo ahora mismo con I'm... y 5 cosas que vas a hacer mañana con I'm going to... (8 minutos).",
+    "Lee 5 veces el diálogo de la lección 5 haciendo los dos papeles, cada vez más rápido (6 minutos).",
+    "Graba en tu celular un audio de 1 minuto presentándote: nombre, familia, gustos y planes de este fin de semana (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-a1-u10-l1",
+      "n": 1,
+      "titulo": "El clima",
+      "objetivo": "Describir el clima de hoy y de tu ciudad.",
+      "intro": "Para hablar del tiempo se usa It's + adjetivo: It's sunny, It's cold. Truco: en inglés se dice «it», no «he» ni «she», porque el clima no tiene sujeto. Para lluvia y nieve también: It's raining, It's snowing.",
+      "palabras": [
+        { "t": "weather", "es": "clima / tiempo", "pron": "uéder", "ej": "The weather is nice today.", "ejes": "Hoy el clima está lindo.", "cog": false, "truco": "La «th» suena como una «d» suave: «uéder»." },
+        { "t": "sunny", "es": "soleado", "pron": "sáni", "ej": "It's sunny in Lima.", "ejes": "Está soleado en Lima.", "cog": false },
+        { "t": "rainy", "es": "lluvioso", "pron": "réini", "ej": "It's a rainy day.", "ejes": "Es un día lluvioso.", "cog": false },
+        { "t": "cloudy", "es": "nublado", "pron": "cláudi", "ej": "It's cloudy today.", "ejes": "Hoy está nublado.", "cog": false },
+        { "t": "windy", "es": "con viento", "pron": "uíndi", "ej": "It's windy on the beach.", "ejes": "Hay viento en la playa.", "cog": false },
+        { "t": "hot", "es": "calor / caliente", "pron": "jat", "ej": "It's hot in summer.", "ejes": "Hace calor en verano.", "cog": false },
+        { "t": "cold", "es": "frío", "pron": "cóuld", "ej": "It's cold in the morning.", "ejes": "Hace frío por la mañana.", "cog": false },
+        { "t": "warm", "es": "templado / cálido", "pron": "uarm", "ej": "It's warm today.", "ejes": "Hoy está templado.", "cog": false },
+        { "t": "it's raining", "es": "está lloviendo", "pron": "its réinin", "ej": "It's raining. Take a jacket.", "ejes": "Está lloviendo. Lleva una chaqueta.", "cog": false },
+        { "t": "it's snowing", "es": "está nevando", "pron": "its snóuin", "ej": "It's snowing in the mountains.", "ejes": "Está nevando en las montañas.", "cog": false }
+      ],
+      "frases": [
+        { "t": "How's the weather?", "es": "¿Cómo está el clima?", "pron": "jaus da uéder" },
+        { "t": "It's sunny and warm.", "es": "Está soleado y templado.", "pron": "its sáni an uarm" },
+        { "t": "It's cold and windy today.", "es": "Hoy hace frío y viento.", "pron": "its cóuld an uíndi tudéi" },
+        { "t": "It's raining. I need my jacket.", "es": "Está lloviendo. Necesito mi chaqueta.", "pron": "its réinin. ai nid mai yáket" },
+        { "t": "It's snowing in New York.", "es": "Está nevando en Nueva York.", "pron": "its snóuin in niu york" }
+      ],
+      "dialogo": {
+        "titulo": "Una llamada entre ciudades",
+        "lineas": [
+          { "q": "A", "t": "Hi, Lucia! How's the weather in Lima?", "es": "¡Hola, Lucia! ¿Cómo está el clima en Lima?" },
+          { "q": "B", "t": "It's cloudy and a little cold. And in New York?", "es": "Está nublado y un poco frío. ¿Y en Nueva York?" },
+          { "q": "A", "t": "It's snowing! It's very cold.", "es": "¡Está nevando! Hace mucho frío." },
+          { "q": "B", "t": "Wow! Here it's not snowing, but it's windy.", "es": "¡Guau! Aquí no nieva, pero hay viento." },
+          { "q": "A", "t": "Take a jacket and a hat!", "es": "¡Lleva una chaqueta y un sombrero!" }
+        ]
+      },
+      "nota": "Para preguntar por el clima se dice How's the weather? o What's the weather like? Ojo: en EE. UU. la temperatura se da en grados Fahrenheit: 70 °F son unos 21 °C, un día agradable."
+    },
+    {
+      "id": "en-a1-u10-l2",
+      "n": 2,
+      "titulo": "¿Qué estás haciendo?",
+      "objetivo": "Decir y preguntar lo que está pasando ahora con el presente continuo.",
+      "intro": "El presente continuo es am/is/are + verbo con -ing. Truco: I'm cooking, she's reading, they're waiting. Si el verbo acaba en -e se quita la e (make, making); y en verbos cortos se duplica la última letra (run, running).",
+      "palabras": [
+        { "t": "now", "es": "ahora", "pron": "nau", "ej": "I'm studying now.", "ejes": "Ahora estoy estudiando.", "cog": false },
+        { "t": "right now", "es": "ahora mismo", "pron": "rait nau", "ej": "I'm busy right now.", "ejes": "Estoy ocupado ahora mismo.", "cog": false },
+        { "t": "eat", "es": "comer", "pron": "it", "ej": "We eat lunch at noon.", "ejes": "Almorzamos al mediodía.", "cog": false },
+        { "t": "drink", "es": "beber / tomar", "pron": "drink", "ej": "I drink water every day.", "ejes": "Tomo agua todos los días.", "cog": false },
+        { "t": "sleep", "es": "dormir", "pron": "slip", "ej": "The baby can sleep.", "ejes": "El bebé puede dormir.", "cog": false },
+        { "t": "study", "es": "estudiar", "pron": "stádi", "ej": "I study English at night.", "ejes": "Estudio inglés por la noche.", "cog": false },
+        { "t": "wait", "es": "esperar", "pron": "ueit", "ej": "Wait here, please.", "ejes": "Espere aquí, por favor.", "cog": false },
+        { "t": "talk", "es": "hablar / conversar", "pron": "tok", "ej": "I like to talk with friends.", "ejes": "Me gusta conversar con amigos.", "cog": false, "truco": "La «l» no suena: «tok»." },
+        { "t": "call", "es": "llamar", "pron": "col", "ej": "I call my mother on Sundays.", "ejes": "Llamo a mi mamá los domingos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "What are you doing?", "es": "¿Qué estás haciendo?", "pron": "juat ar iú dúin" },
+        { "t": "I'm studying English.", "es": "Estoy estudiando inglés.", "pron": "aim stádiin ínglish" },
+        { "t": "She's cooking dinner.", "es": "Ella está preparando la cena.", "pron": "shis cúkin díner" },
+        { "t": "They're waiting for the bus.", "es": "Están esperando el bus.", "pron": "deir uéitin for da bas" },
+        { "t": "He's calling his mother now.", "es": "Ahora él está llamando a su mamá.", "pron": "jis cólin jis móder nau" },
+        { "t": "I'm eating right now. Call me later.", "es": "Estoy comiendo ahora mismo. Llámame después.", "pron": "aim ítin rait nau. col mi léiter" }
+      ],
+      "dialogo": {
+        "titulo": "Una llamada por teléfono",
+        "lineas": [
+          { "q": "A", "t": "Hi, Tom! What are you doing?", "es": "¡Hola, Tom! ¿Qué estás haciendo?" },
+          { "q": "B", "t": "I'm studying. And you?", "es": "Estoy estudiando. ¿Y tú?" },
+          { "q": "A", "t": "I'm waiting for the bus.", "es": "Estoy esperando el bus." },
+          { "q": "B", "t": "Is Ana with you?", "es": "¿Ana está contigo?" },
+          { "q": "A", "t": "Yes, she's talking to her friend.", "es": "Sí, está hablando con su amiga." }
+        ]
+      },
+      "nota": "Con verbos como know, like o want normalmente NO se usa el continuo: se dice I like pizza, no «I'm liking pizza». El continuo es para acciones que se están haciendo ahora."
+    },
+    {
+      "id": "en-a1-u10-l3",
+      "n": 3,
+      "titulo": "Planes con going to",
+      "objetivo": "Decir lo que vas a hacer en el futuro con going to.",
+      "intro": "Para planes usa I'm going to + verbo: I'm going to visit my aunt. Es igual que el español «voy a». Truco: en la conversación suena «guóna»: I'm gonna visit... Por escrito, mejor going to.",
+      "palabras": [
+        { "t": "going to", "es": "voy a / va a", "pron": "góuin tu", "ej": "I'm going to study tonight.", "ejes": "Voy a estudiar esta noche.", "cog": false },
+        { "t": "tomorrow", "es": "mañana", "pron": "tumórou", "ej": "I'm busy tomorrow.", "ejes": "Mañana estoy ocupado.", "cog": false },
+        { "t": "next week", "es": "la próxima semana", "pron": "next uik", "ej": "We travel next week.", "ejes": "Viajamos la próxima semana.", "cog": false },
+        { "t": "next month", "es": "el próximo mes", "pron": "next manz", "ej": "I'm free next month.", "ejes": "El próximo mes estoy libre.", "cog": false },
+        { "t": "visit", "es": "visitar", "pron": "vísit", "ej": "I visit my aunt on Sundays.", "ejes": "Visito a mi tía los domingos.", "cog": true },
+        { "t": "buy", "es": "comprar", "pron": "bai", "ej": "I buy a gift for my mother.", "ejes": "Compro un regalo para mi mamá.", "cog": false, "truco": "buy suena igual que by (en / por)." },
+        { "t": "meet", "es": "encontrarse con / conocer", "pron": "mit", "ej": "I meet my friends at the park.", "ejes": "Me encuentro con mis amigos en el parque.", "cog": false },
+        { "t": "plan", "es": "plan", "pron": "plan", "ej": "What's your plan?", "ejes": "¿Cuál es tu plan?", "cog": true },
+        { "t": "soon", "es": "pronto", "pron": "sun", "ej": "See you soon!", "ejes": "¡Nos vemos pronto!", "cog": false },
+        { "t": "later", "es": "más tarde / después", "pron": "léiter", "ej": "Call me later.", "ejes": "Llámame más tarde.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I'm going to visit my aunt tomorrow.", "es": "Mañana voy a visitar a mi tía.", "pron": "aim góuin tu vísit mai ant tumórou" },
+        { "t": "She's going to buy a new jacket.", "es": "Ella va a comprar una chaqueta nueva.", "pron": "shis góuin tu bai a niu yáket" },
+        { "t": "We're going to meet at the station.", "es": "Nos vamos a encontrar en la estación.", "pron": "uír góuin tu mit at da stéishon" },
+        { "t": "What are you going to do next week?", "es": "¿Qué vas a hacer la próxima semana?", "pron": "juat ar iú góuin tu du next uik" },
+        { "t": "I'm not going to cook tonight.", "es": "Esta noche no voy a cocinar.", "pron": "aim nat góuin tu cuk tunáit" }
+      ],
+      "dialogo": {
+        "titulo": "Planes para la semana",
+        "lineas": [
+          { "q": "A", "t": "What are you going to do tomorrow?", "es": "¿Qué vas a hacer mañana?" },
+          { "q": "B", "t": "I'm going to visit my aunt. And you?", "es": "Voy a visitar a mi tía. ¿Y tú?" },
+          { "q": "A", "t": "I'm going to buy a gift for my sister.", "es": "Voy a comprar un regalo para mi hermana." },
+          { "q": "B", "t": "Are you going to meet your friends later?", "es": "¿Te vas a encontrar con tus amigos más tarde?" },
+          { "q": "A", "t": "Yes, we're going to play soccer.", "es": "Sí, vamos a jugar fútbol." }
+        ]
+      },
+      "nota": "Para la negación se pone not después de am/is/are: I'm not going to cook, She isn't going to buy... Y para preguntas se invierte: Are you going to come? (¿Vas a venir?)."
+    },
+    {
+      "id": "en-a1-u10-l4",
+      "n": 4,
+      "titulo": "Fin de semana y vacaciones",
+      "objetivo": "Hablar de un viaje o de un fin de semana y preparar la maleta.",
+      "intro": "Aquí juntas el clima, los planes y el transporte. Truco: en EE. UU. vacaciones es vacation; en Inglaterra es holiday. Y in the weekend casi nunca se usa: se dice on the weekend o this weekend.",
+      "palabras": [
+        { "t": "weekend", "es": "fin de semana", "pron": "uíkend", "ej": "I'm free this weekend.", "ejes": "Estoy libre este fin de semana.", "cog": false },
+        { "t": "vacation", "es": "vacaciones", "pron": "veikéishon", "ej": "We're on vacation.", "ejes": "Estamos de vacaciones.", "cog": true },
+        { "t": "trip", "es": "viaje", "pron": "trip", "ej": "It's a short trip.", "ejes": "Es un viaje corto.", "cog": false },
+        { "t": "beach", "es": "playa", "pron": "bich", "ej": "We're going to the beach.", "ejes": "Vamos a la playa.", "cog": false },
+        { "t": "hotel", "es": "hotel", "pron": "joutél", "ej": "The hotel is near the beach.", "ejes": "El hotel queda cerca de la playa.", "cog": true },
+        { "t": "pack", "es": "empacar / hacer la maleta", "pron": "pak", "ej": "I pack my shirts and shoes.", "ejes": "Empaco mis camisas y zapatos.", "cog": false },
+        { "t": "suitcase", "es": "maleta", "pron": "sútkeis", "ej": "My suitcase is blue.", "ejes": "Mi maleta es azul.", "cog": false },
+        { "t": "passport", "es": "pasaporte", "pron": "pásport", "ej": "I have my passport.", "ejes": "Tengo mi pasaporte.", "cog": true },
+        { "t": "flight", "es": "vuelo", "pron": "flait", "ej": "My flight is at ten.", "ejes": "Mi vuelo es a las diez.", "cog": false, "truco": "La «gh» no suena: flight rima con night." }
+      ],
+      "frases": [
+        { "t": "What are you going to do this weekend?", "es": "¿Qué vas a hacer este fin de semana?", "pron": "juat ar iú góuin tu du dis uíkend" },
+        { "t": "I'm going to the beach with my family.", "es": "Voy a la playa con mi familia.", "pron": "aim góuin tu da bich uiz mai fámili" },
+        { "t": "We're going to stay in a hotel.", "es": "Nos vamos a quedar en un hotel.", "pron": "uír góuin tu stei in a joutél" },
+        { "t": "I'm packing my suitcase.", "es": "Estoy haciendo mi maleta.", "pron": "aim pákin mai sútkeis" },
+        { "t": "Don't forget your passport and your ticket!", "es": "¡No olvides tu pasaporte ni tu boleto!", "pron": "dount forguét ior pásport an ior tíket" }
+      ],
+      "dialogo": {
+        "titulo": "Vacaciones en la playa",
+        "lineas": [
+          { "q": "A", "t": "Hi, Sofia! Are you ready for your trip?", "es": "¡Hola, Sofia! ¿Estás lista para tu viaje?" },
+          { "q": "B", "t": "Almost! I'm packing my suitcase now.", "es": "¡Casi! Ahora estoy haciendo mi maleta." },
+          { "q": "A", "t": "Where are you going to stay?", "es": "¿Dónde te vas a quedar?" },
+          { "q": "B", "t": "In a hotel near the beach.", "es": "En un hotel cerca de la playa." },
+          { "q": "A", "t": "How's the weather there?", "es": "¿Cómo está el clima allá?" },
+          { "q": "B", "t": "It's sunny and hot. I'm going to swim every day!", "es": "Está soleado y hace calor. ¡Voy a nadar todos los días!" }
+        ]
+      },
+      "nota": "Se dice on the weekend o this weekend, no «in the weekend». Y para el verbo de viaje: take a trip (hacer un viaje) o go on vacation (irse de vacaciones)."
+    },
+    {
+      "id": "en-a1-u10-l5",
+      "n": 5,
+      "titulo": "Repaso final del nivel A1",
+      "objetivo": "Usar lo más importante de las 10 unidades en conversaciones reales y cerrar el nivel A1.",
+      "intro": "¡Llegaste al final de A1! Ya puedes presentarte, hablar de tu familia, pedir comida, dar direcciones, comprar, hablar de gustos y de planes. Hoy lo juntamos todo en conversaciones completas.",
+      "palabras": [
+        { "t": "because", "es": "porque", "pron": "bikós", "ej": "I like it because it's fun.", "ejes": "Me gusta porque es divertido.", "cog": false },
+        { "t": "tired", "es": "cansado", "pron": "táiod", "ej": "I'm tired today.", "ejes": "Hoy estoy cansado.", "cog": false },
+        { "t": "hungry", "es": "con hambre", "pron": "jángri", "ej": "I'm hungry. Let's eat.", "ejes": "Tengo hambre. Comamos.", "cog": false, "truco": "En inglés se usa to be: I'm hungry (soy/estoy hambriento), no «I have hunger»." },
+        { "t": "happy", "es": "feliz / contento", "pron": "jápi", "ej": "I'm happy today.", "ejes": "Hoy estoy feliz.", "cog": false },
+        { "t": "feel", "es": "sentirse", "pron": "fil", "ej": "I feel good.", "ejes": "Me siento bien.", "cog": false },
+        { "t": "hope", "es": "esperar / ojalá", "pron": "jóup", "ej": "I hope you like it.", "ejes": "Espero que te guste.", "cog": false, "truco": "hope es esperar una esperanza; wait es esperar a alguien." },
+        { "t": "perfect", "es": "perfecto", "pron": "pérfekt", "ej": "That's perfect!", "ejes": "¡Eso es perfecto!", "cog": true },
+        { "t": "see you", "es": "nos vemos", "pron": "si iú", "ej": "See you tomorrow!", "ejes": "¡Nos vemos mañana!", "cog": false }
+      ],
+      "frases": [
+        { "t": "Hi! My name is Carlos. I'm from Peru.", "es": "¡Hola! Me llamo Carlos. Soy de Perú.", "pron": "jai! mai neim is cárlos. aim from perú" },
+        { "t": "I'd like a coffee, please. How much is it?", "es": "Quisiera un café, por favor. ¿Cuánto cuesta?", "pron": "aid laik a cófi, plis. jau mach is it" },
+        { "t": "Excuse me, how do I get to the station?", "es": "Disculpe, ¿cómo llego a la estación?", "pron": "ikskiús mi, jau du ai guet tu da stéishon" },
+        { "t": "I love dancing, but I can't sing.", "es": "Me encanta bailar, pero no sé cantar.", "pron": "ai lov dánsin, bat ai kant sing" },
+        { "t": "I'm tired because I'm studying a lot.", "es": "Estoy cansado porque estoy estudiando mucho.", "pron": "aim táiod bikós aim stádiin a lat" },
+        { "t": "See you soon! Have a great weekend!", "es": "¡Nos vemos pronto! ¡Que tengas un gran fin de semana!", "pron": "si iú sun! jav a greit uíkend" }
+      ],
+      "dialogo": {
+        "titulo": "Conversación de despedida",
+        "lineas": [
+          { "q": "A", "t": "Hi, Emma! How are you?", "es": "¡Hola, Emma! ¿Cómo estás?" },
+          { "q": "B", "t": "I'm fine, thanks. A little tired because I'm packing.", "es": "Bien, gracias. Un poco cansada porque estoy empacando." },
+          { "q": "A", "t": "Are you going to travel?", "es": "¿Vas a viajar?" },
+          { "q": "B", "t": "Yes! I'm going to visit my sister in Cusco next week.", "es": "¡Sí! Voy a visitar a mi hermana en Cusco la próxima semana." },
+          { "q": "A", "t": "Sounds great! I hope the weather is nice.", "es": "¡Suena genial! Espero que el clima esté lindo." },
+          { "q": "B", "t": "Thanks! See you soon!", "es": "¡Gracias! ¡Nos vemos pronto!" }
+        ]
+      },
+      "nota": "¡Felicidades! Con A1 ya puedes sobrevivir en inglés: saludar, pedir, preguntar y hacer planes. Sigue practicando todos los días, aunque sean 10 minutos: la constancia pesa más que las horas largas."
+    }
+  ]
+}

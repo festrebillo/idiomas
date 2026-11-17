@@ -1,0 +1,226 @@
+{
+  "id": "pt-a1-u9",
+  "idioma": "pt",
+  "nivel": "A1",
+  "n": 9,
+  "titulo": "Gustos y pasatiempos",
+  "resumen": "Aprenderás a hablar de pasatiempos, deportes y música, a decir lo que te gusta y lo que sabes o puedes hacer, y a proponer un plan.",
+  "puedo": [
+    "Decir mis pasatiempos con «gostar de» + verbo.",
+    "Hablar de deportes y de música.",
+    "Expresar gustos: gosto, adoro, odeio, curto.",
+    "Distinguir «posso» (puedo) de «sei» (sé hacer).",
+    "Proponer un plan: Quer...? Vamos...!"
+  ],
+  "gramatica": {
+    "titulo": "Gostar de + verbo y la diferencia entre posso y sei",
+    "texto": "Con «gostar de» se puede poner un sustantivo o un verbo en infinitivo (el verbo sin conjugar: cantar, ler, dançar): Eu gosto de música. Eu gosto de cantar. Siempre lleva «de».\nPara hablar de poder, el portugués tiene dos ideas distintas.\n«Posso» (poder): permiso o posibilidad hoy. Hoje eu posso jogar. (Hoy puedo jugar.)\n«Sei» (saber): una habilidad aprendida. Eu sei nadar. (Sé nadar.)\nTambién existe «consigo» (conseguir): lograr algo con esfuerzo: Eu não consigo correr. (No logro correr.)\nEl infinitivo va justo después: posso ir, sei cantar, consigo ler.",
+    "tabla": [
+      ["Eu gosto de música.", "Me gusta la música.", "éu góstu dyi músika"],
+      ["Eu gosto de cantar.", "Me gusta cantar.", "éu góstu dyi kantár"],
+      ["Eu posso jogar hoje.", "Puedo jugar hoy.", "éu pósu yogár óyi"],
+      ["Eu sei nadar.", "Sé nadar.", "éu séi nadár"],
+      ["Eu não consigo correr.", "No logro correr.", "éu náun konsígu korrér"]
+    ],
+    "errores": [
+      "«Gostar» siempre lleva «de»: «Eu gosto de dançar», no «Eu gosto dançar».",
+      "No uses «posso nadar» para decir «sé nadar»: «Eu sei nadar» es la habilidad; «posso nadar» es el permiso.",
+      "Después de «gostar de», el verbo queda en infinitivo (cantar), no conjugado: no digas «gosto de canto» si quieres decir «me gusta cantar»."
+    ]
+  },
+  "practica": [
+    "Escribe 8 frases con «Eu gosto de + verbo» sobre tus pasatiempos y léelas en voz alta (6 minutos).",
+    "Piensa en 5 cosas que sabes hacer y 5 que no: «Eu sei...», «Eu não sei...» (5 minutos).",
+    "Invita en voz alta a un amigo imaginario: «Quer jogar futebol? Vamos!» (3 minutos).",
+    "Escucha una canción brasileña y busca 5 palabras de esta unidad en la letra (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-a1-u9-l1",
+      "n": 1,
+      "titulo": "Pasatiempos",
+      "objetivo": "Nombrar pasatiempos y decir cuál te gusta con «gostar de».",
+      "intro": "Muchos verbos de pasatiempos terminan en -ar o -ir, igual que en español. Truco: «nh» suena «ñ» (cozinhar = kuziñár) y «assistir» significa ver una película o serie, no asistir.",
+      "palabras": [
+        { "t": "passatempo", "es": "pasatiempo", "pron": "pasatémpu", "ej": "Meu passatempo é ler.", "ejes": "Mi pasatiempo es leer.", "cog": true },
+        { "t": "ler", "es": "leer", "pron": "lér", "ej": "Eu gosto de ler.", "ejes": "Me gusta leer.", "cog": false },
+        { "t": "cozinhar", "es": "cocinar", "pron": "kuziñár", "ej": "Eu gosto de cozinhar.", "ejes": "Me gusta cocinar.", "cog": false, "truco": "«nh» = ñ: kuziñár." },
+        { "t": "dançar", "es": "bailar", "pron": "dansár", "ej": "Ela gosta de dançar.", "ejes": "A ella le gusta bailar.", "cog": false, "truco": "«ç» suena «s»: dansár." },
+        { "t": "desenhar", "es": "dibujar", "pron": "dezeñár", "ej": "Eu gosto de desenhar.", "ejes": "Me gusta dibujar.", "cog": false },
+        { "t": "viajar", "es": "viajar", "pron": "viayár", "ej": "Eu gosto de viajar.", "ejes": "Me gusta viajar.", "cog": true, "truco": "«j» suena «y»: viayár." },
+        { "t": "assistir", "es": "ver (película o serie)", "pron": "asistír", "ej": "Eu gosto de assistir filmes.", "ejes": "Me gusta ver películas.", "cog": false, "truco": "Falso amigo: assistir = ver, no «asistir»." },
+        { "t": "filme", "es": "película", "pron": "fíumi", "ej": "O filme é longo.", "ejes": "La película es larga.", "cog": false, "truco": "La «l» antes de consonante suena «u»: fíumi." },
+        { "t": "pintar", "es": "pintar", "pron": "pintár", "ej": "Eu gosto de pintar.", "ejes": "Me gusta pintar.", "cog": true },
+        { "t": "caminhar", "es": "caminar", "pron": "kamiñár", "ej": "Ele gosta de caminhar.", "ejes": "A él le gusta caminar.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Meu passatempo é ler.", "es": "Mi pasatiempo es leer.", "pron": "méu pasatémpu é lér" },
+        { "t": "Eu gosto de cozinhar e dançar.", "es": "Me gusta cocinar y bailar.", "pron": "éu góstu dyi kuziñár i dansár" },
+        { "t": "Ela gosta de viajar.", "es": "A ella le gusta viajar.", "pron": "éla gósta dyi viayár" },
+        { "t": "Eu gosto de assistir filmes.", "es": "Me gusta ver películas.", "pron": "éu góstu dyi asistír fíumis" },
+        { "t": "Ele gosta de desenhar e pintar.", "es": "A él le gusta dibujar y pintar.", "pron": "éli gósta dyi dezeñár i pintár" }
+      ],
+      "dialogo": {
+        "titulo": "¿Cuál es tu pasatiempo?",
+        "lineas": [
+          { "q": "A", "t": "Qual é o seu passatempo?", "es": "¿Cuál es tu pasatiempo?" },
+          { "q": "B", "t": "Eu gosto de ler e cozinhar. E você?", "es": "Me gusta leer y cocinar. ¿Y tú?" },
+          { "q": "A", "t": "Eu gosto de dançar.", "es": "A mí me gusta bailar." },
+          { "q": "B", "t": "Eu também gosto de assistir filmes.", "es": "A mí también me gusta ver películas." },
+          { "q": "A", "t": "Eu gosto de viajar!", "es": "¡A mí me gusta viajar!" }
+        ]
+      },
+      "nota": "Falso amigo: «assistir» en Brasil es ver (assistir TV, assistir a um filme). Para «ayudar» se dice «ajudar». «Ver» (ver) también existe, pero «assistir» es lo más natural para pelis y series. «Passatempo» y «hobby» se usan ambos."
+    },
+    {
+      "id": "pt-a1-u9-l2",
+      "n": 2,
+      "titulo": "Deportes y música",
+      "objetivo": "Hablar de deportes y de música con jogar, tocar, cantar y correr.",
+      "intro": "Truco clave: los deportes se «juegan» (jogar futebol) y los instrumentos se «tocan» (tocar violão). El «violão» es la guitarra acústica; la eléctrica es «guitarra».",
+      "palabras": [
+        { "t": "esporte", "es": "deporte", "pron": "espórchi", "ej": "Eu gosto de esporte.", "ejes": "Me gusta el deporte.", "cog": true, "truco": "«te» final suena «chi»: espórchi." },
+        { "t": "futebol", "es": "fútbol", "pron": "futchibóu", "ej": "Eu gosto de futebol.", "ejes": "Me gusta el fútbol.", "cog": true, "truco": "«te» suena «chi» y la «l» final «u»: futchibóu." },
+        { "t": "nadar", "es": "nadar", "pron": "nadár", "ej": "Eu gosto de nadar.", "ejes": "Me gusta nadar.", "cog": true },
+        { "t": "correr", "es": "correr", "pron": "korrér", "ej": "Eu gosto de correr.", "ejes": "Me gusta correr.", "cog": true, "truco": "«rr» fuerte: korrér." },
+        { "t": "jogar", "es": "jugar", "pron": "yogár", "ej": "Eu gosto de jogar futebol.", "ejes": "Me gusta jugar fútbol.", "cog": false, "truco": "«j» = «y»: yogár." },
+        { "t": "bola", "es": "pelota / balón", "pron": "bóla", "ej": "A bola é azul.", "ejes": "La pelota es azul.", "cog": false },
+        { "t": "música", "es": "música", "pron": "músika", "ej": "Eu gosto de música.", "ejes": "Me gusta la música.", "cog": true },
+        { "t": "violão", "es": "guitarra (acústica)", "pron": "violáun", "ej": "Eu gosto de violão.", "ejes": "Me gusta la guitarra.", "cog": false, "truco": "«ão» nasal: violáun." },
+        { "t": "cantar", "es": "cantar", "pron": "kantár", "ej": "Ela gosta de cantar.", "ejes": "A ella le gusta cantar.", "cog": true },
+        { "t": "tocar", "es": "tocar (instrumento)", "pron": "tokár", "ej": "Ele gosta de tocar violão.", "ejes": "A él le gusta tocar guitarra.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu jogo futebol.", "es": "Yo juego fútbol.", "pron": "éu yógu futchibóu" },
+        { "t": "Ela nada muito bem.", "es": "Ella nada muy bien.", "pron": "éla náda múintu béin" },
+        { "t": "Eu corro no parque.", "es": "Yo corro en el parque.", "pron": "éu kórru nu párki" },
+        { "t": "Ele toca violão.", "es": "Él toca guitarra.", "pron": "éli tóka violáun" },
+        { "t": "Eu gosto de cantar música brasileira.", "es": "Me gusta cantar música brasileña.", "pron": "éu góstu dyi kantár músika brasiléira" },
+        { "t": "Eu gosto de esporte.", "es": "Me gusta el deporte.", "pron": "éu góstu dyi espórchi" }
+      ],
+      "dialogo": {
+        "titulo": "Deportes y música",
+        "lineas": [
+          { "q": "A", "t": "Você gosta de esporte?", "es": "¿Te gusta el deporte?" },
+          { "q": "B", "t": "Sim! Eu jogo futebol.", "es": "¡Sí! Yo juego fútbol." },
+          { "q": "A", "t": "Eu gosto de correr no parque.", "es": "A mí me gusta correr en el parque." },
+          { "q": "B", "t": "E você gosta de música?", "es": "¿Y te gusta la música?" },
+          { "q": "A", "t": "Sim, eu toco violão.", "es": "Sí, toco guitarra." }
+        ]
+      },
+      "nota": "«Jogar» es para deportes y juegos (jogar futebol); «tocar» para instrumentos (tocar violão). «Violão» es la guitarra de madera; «guitarra» en Brasil es la eléctrica. El fútbol es casi una religión: se dice «futebol», sin «ball»."
+    },
+    {
+      "id": "pt-a1-u9-l3",
+      "n": 3,
+      "titulo": "Me gusta / no me gusta",
+      "objetivo": "Expresar gustos fuertes y suaves: adoro, curto, prefiro, odeio.",
+      "intro": "Además de «gosto», hay verbos más fuertes para tus gustos. Truco: «adoro» y «amo» son muy positivos, «odeio» es muy negativo. «Curto» es informal y muy usado por los jóvenes brasileños.",
+      "palabras": [
+        { "t": "adoro", "es": "adoro / me encanta", "pron": "adóru", "ej": "Eu adoro chocolate.", "ejes": "Me encanta el chocolate.", "cog": true },
+        { "t": "amo", "es": "amo", "pron": "ámu", "ej": "Eu amo viajar.", "ejes": "Amo viajar.", "cog": true },
+        { "t": "odeio", "es": "odio", "pron": "odéiu", "ej": "Eu odeio cozinhar.", "ejes": "Odio cocinar.", "cog": false, "truco": "Muy fuerte: úsalo con humor." },
+        { "t": "curto", "es": "me gusta / disfruto (informal)", "pron": "kúrtu", "ej": "Eu curto música brasileira.", "ejes": "Disfruto la música brasileña.", "cog": false, "truco": "Informal: «curtir» = disfrutar." },
+        { "t": "prefiro", "es": "prefiero", "pron": "prefíru", "ej": "Eu prefiro nadar.", "ejes": "Prefiero nadar.", "cog": true },
+        { "t": "legal", "es": "genial / chévere", "pron": "legáu", "ej": "O filme é legal.", "ejes": "La película es genial.", "cog": false, "truco": "Ojo: en la conversación significa «genial», no «legal» de ley." },
+        { "t": "chato", "es": "aburrido / pesado", "pron": "shátu", "ej": "O filme é chato.", "ejes": "La película es aburrida.", "cog": false, "truco": "«ch» = «sh»: shátu." },
+        { "t": "divertido", "es": "divertido", "pron": "dyivertídu", "ej": "Dançar é divertido.", "ejes": "Bailar es divertido.", "cog": true },
+        { "t": "interessante", "es": "interesante", "pron": "interesánchi", "ej": "A música é interessante.", "ejes": "La música es interesante.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu adoro música.", "es": "Me encanta la música.", "pron": "éu adóru músika" },
+        { "t": "Eu odeio cozinhar.", "es": "Odio cocinar.", "pron": "éu odéiu kuziñár" },
+        { "t": "Eu curto futebol.", "es": "Me gusta el fútbol.", "pron": "éu kúrtu futchibóu" },
+        { "t": "Eu prefiro nadar.", "es": "Prefiero nadar.", "pron": "éu prefíru nadár" },
+        { "t": "Eu não gosto de correr.", "es": "No me gusta correr.", "pron": "éu náun góstu dyi korrér" },
+        { "t": "Você gosta de dançar?", "es": "¿Te gusta bailar?", "pron": "vosé gósta dyi dansár" }
+      ],
+      "dialogo": {
+        "titulo": "Gustos de viaje",
+        "lineas": [
+          { "q": "A", "t": "Você gosta de viajar?", "es": "¿Te gusta viajar?" },
+          { "q": "B", "t": "Eu adoro! E você?", "es": "¡Me encanta! ¿Y a ti?" },
+          { "q": "A", "t": "Eu amo viajar, mas não gosto de avião.", "es": "Amo viajar, pero no me gusta el avión." },
+          { "q": "B", "t": "Eu prefiro o trem.", "es": "Yo prefiero el tren." },
+          { "q": "A", "t": "O trem é legal!", "es": "¡El tren es genial!" }
+        ]
+      },
+      "nota": "«Legal» es uno de los adjetivos más usados en Brasil: «Que legal!» = ¡Qué genial! En la calle casi nunca habla de la ley: es «genial». «Chato» es aburrido o pesado (una película chata, una persona chata), no «plano»."
+    },
+    {
+      "id": "pt-a1-u9-l4",
+      "n": 4,
+      "titulo": "Puedo / no puedo",
+      "objetivo": "Decir lo que puedes, sabes o logras hacer con posso, sei y consigo.",
+      "intro": "Tres ideas: «posso» (permiso o posibilidad), «sei» (habilidad: sé hacerlo) y «consigo» (lo logro). Truco: «sei nadar» (sé nadar) pero «posso nadar hoje» (hoy puedo nadar).",
+      "palabras": [
+        { "t": "posso", "es": "puedo", "pron": "pósu", "ej": "Eu posso jogar hoje.", "ejes": "Hoy puedo jugar.", "cog": false },
+        { "t": "consigo", "es": "logro / consigo", "pron": "konsígu", "ej": "Eu não consigo correr.", "ejes": "No logro correr.", "cog": false, "truco": "Del verbo conseguir." },
+        { "t": "sei", "es": "sé (saber hacer)", "pron": "séi", "ej": "Eu sei nadar.", "ejes": "Sé nadar.", "cog": false },
+        { "t": "um pouco", "es": "un poco", "pron": "ún póuku", "ej": "Eu falo um pouco de inglês.", "ejes": "Hablo un poco de inglés.", "cog": false },
+        { "t": "bem", "es": "bien", "pron": "béin", "ej": "Ela canta bem.", "ejes": "Ella canta bien.", "cog": false },
+        { "t": "mal", "es": "mal", "pron": "máu", "ej": "Ele dança mal.", "ejes": "Él baila mal.", "cog": true, "truco": "La «l» final suena «u»: máu." },
+        { "t": "tempo", "es": "tiempo (para hacer algo)", "pron": "témpu", "ej": "Eu não tenho tempo.", "ejes": "No tengo tiempo.", "cog": true },
+        { "t": "hoje", "es": "hoy", "pron": "óyi", "ej": "Hoje eu posso.", "ejes": "Hoy puedo.", "cog": false, "truco": "«h» no suena y «j» = «y»: óyi." },
+        { "t": "amanhã", "es": "mañana", "pron": "amañán", "ej": "Amanhã eu posso.", "ejes": "Mañana puedo.", "cog": false, "truco": "«nh» = ñ." },
+        { "t": "agora", "es": "ahora", "pron": "agóra", "ej": "Eu não posso agora.", "ejes": "No puedo ahora.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Eu sei nadar.", "es": "Sé nadar.", "pron": "éu séi nadár" },
+        { "t": "Eu não sei dançar.", "es": "No sé bailar.", "pron": "éu náun séi dansár" },
+        { "t": "Eu posso jogar amanhã.", "es": "Mañana puedo jugar.", "pron": "éu pósu yogár amañán" },
+        { "t": "Eu não consigo correr agora.", "es": "No logro correr ahora.", "pron": "éu náun konsígu korrér agóra" },
+        { "t": "Eu toco violão um pouco.", "es": "Toco guitarra un poco.", "pron": "éu tóku violáun ún póuku" },
+        { "t": "Ela canta bem.", "es": "Ella canta bien.", "pron": "éla kánta béin" }
+      ],
+      "dialogo": {
+        "titulo": "¿Sabes tocar guitarra?",
+        "lineas": [
+          { "q": "A", "t": "Você sabe tocar violão?", "es": "¿Sabes tocar guitarra?" },
+          { "q": "B", "t": "Sei um pouco. E você?", "es": "Sé un poco. ¿Y tú?" },
+          { "q": "A", "t": "Eu não sei, mas canto bem.", "es": "Yo no sé, pero canto bien." },
+          { "q": "B", "t": "Você pode cantar hoje?", "es": "¿Puedes cantar hoy?" },
+          { "q": "A", "t": "Hoje não posso, mas amanhã posso.", "es": "Hoy no puedo, pero mañana puedo." }
+        ]
+      },
+      "nota": "«Saber» + infinitivo significa «saber hacer algo»: sei nadar, sabe tocar. «Poder» es permiso o posibilidad: posso, pode. En una pregunta amable, «Pode...?» o «Posso...?» sirven para pedir permiso: «Posso entrar?» (¿Puedo entrar?)."
+    },
+    {
+      "id": "pt-a1-u9-l5",
+      "n": 5,
+      "titulo": "Proponer un plan",
+      "objetivo": "Invitar, aceptar o posponer un plan con Quer...?, Vamos... y Combinado.",
+      "intro": "Para invitar basta con «Quer...?» (¿Quieres...?) o «Vamos...!» (¡Vamos...!). Truco: «Combinado!» es la forma brasileña de decir «¡Trato hecho!» y «Boa ideia!» es perfecta para aceptar.",
+      "palabras": [
+        { "t": "quer", "es": "quiere / quieres", "pron": "kér", "ej": "Você quer dançar?", "ejes": "¿Quieres bailar?", "cog": false },
+        { "t": "vamos", "es": "vamos", "pron": "vámus", "ej": "Vamos jogar futebol!", "ejes": "¡Vamos a jugar fútbol!", "cog": true },
+        { "t": "combinado", "es": "trato hecho / de acuerdo", "pron": "kombinádu", "ej": "Combinado!", "ejes": "¡Trato hecho!", "cog": false },
+        { "t": "boa ideia", "es": "buena idea", "pron": "bóa idéia", "ej": "Boa ideia!", "ejes": "¡Buena idea!", "cog": true },
+        { "t": "claro", "es": "claro / por supuesto", "pron": "kláru", "ej": "Claro, eu quero!", "ejes": "¡Claro, quiero!", "cog": true },
+        { "t": "que tal", "es": "¿qué tal?", "pron": "ke táu", "ej": "Que tal um café?", "ejes": "¿Qué tal un café?", "cog": true },
+        { "t": "talvez", "es": "quizás", "pron": "tauvés", "ej": "Talvez amanhã.", "ejes": "Quizás mañana.", "cog": false },
+        { "t": "juntos", "es": "juntos", "pron": "yúntus", "ej": "Vamos cantar juntos!", "ejes": "¡Vamos a cantar juntos!", "cog": true },
+        { "t": "amigo", "es": "amigo", "pron": "amígu", "ej": "Meu amigo toca violão.", "ejes": "Mi amigo toca guitarra.", "cog": true, "truco": "Mujer: amiga." }
+      ],
+      "frases": [
+        { "t": "Você quer jogar futebol?", "es": "¿Quieres jugar fútbol?", "pron": "vosé kér yogár futchibóu" },
+        { "t": "Vamos ao cinema!", "es": "¡Vamos al cine!", "pron": "vámus au sinéma" },
+        { "t": "Que tal um café?", "es": "¿Qué tal un café?", "pron": "ke táu ún kafé" },
+        { "t": "Combinado, até amanhã!", "es": "¡Trato hecho, hasta mañana!", "pron": "kombinádu, até amañán" },
+        { "t": "Boa ideia! Vamos!", "es": "¡Buena idea! ¡Vamos!", "pron": "bóa idéia! vámus" },
+        { "t": "Talvez amanhã, hoje não posso.", "es": "Quizás mañana, hoy no puedo.", "pron": "tauvés amañán, óyi náun pósu" }
+      ],
+      "dialogo": {
+        "titulo": "Un plan entre amigos",
+        "lineas": [
+          { "q": "A", "t": "Oi, Rafael! Você quer jogar futebol hoje?", "es": "¡Hola, Rafael! ¿Quieres jugar fútbol hoy?" },
+          { "q": "B", "t": "Hoje não posso. Talvez amanhã?", "es": "Hoy no puedo. ¿Quizás mañana?" },
+          { "q": "A", "t": "Combinado! E depois, que tal um café?", "es": "¡Trato hecho! Y después, ¿qué tal un café?" },
+          { "q": "B", "t": "Boa ideia! Vamos juntos.", "es": "¡Buena idea! Vamos juntos." },
+          { "q": "A", "t": "Claro! Até amanhã!", "es": "¡Claro! ¡Hasta mañana!" }
+        ]
+      },
+      "nota": "«Vamos» sirve para proponer: «Vamos jogar!» (¡Juguemos!). Respuestas útiles: «Claro!», «Boa ideia!», «Combinado!» (acepto) o «Não posso» (no puedo) y «Talvez» (quizás). En Brasil se cierra un plan con «Combinado!»."
+    }
+  ]
+}

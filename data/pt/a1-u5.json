@@ -1,0 +1,230 @@
+{
+  "id": "pt-a1-u5",
+  "idioma": "pt",
+  "nivel": "A1",
+  "n": 5,
+  "titulo": "La hora, los días y mi rutina",
+  "resumen": "Aprenderás los días y los meses, a decir la hora, a contar tu rutina diaria con el presente de los verbos regulares y a decir con qué frecuencia haces las cosas.",
+  "puedo": [
+    "Decir los días de la semana y los meses del año.",
+    "Preguntar y decir la hora: Que horas são?",
+    "Contar mi rutina de la mañana, del día y de la noche.",
+    "Usar el presente de los verbos en -ar, -er e -ir.",
+    "Decir con qué frecuencia hago algo: sempre, às vezes, nunca."
+  ],
+  "gramatica": {
+    "titulo": "El presente de los verbos regulares y los reflexivos",
+    "texto": "Los verbos terminan en -ar, -er o -ir. Se quita esa terminación y se agrega la de cada persona. Con -ar: eu trabalho, você/ele/ela trabalha, nós trabalhamos, eles trabalham. Con -er: como, come, comemos, comem. Con -ir: abro, abre, abrimos, abrem.\nEl truco: eu siempre termina en -o, você/ele/ela cambia la última letra por -a o -e, y eles termina en -m.\nLos reflexivos llevan «me, se, nos» antes del verbo: eu me levanto, ele se levanta, nós nos levantamos. Ojo: «acordar» (despertar) y «tomar banho» no llevan «me/se» en portugués: eu acordo, eu tomo banho.\nEl verbo «ir» (ir) es irregular; por ahora aprende «eu vou» y «ele vai».",
+    "tabla": [
+      ["eu trabalho", "yo trabajo", "éu trabályu"],
+      ["você / ele trabalha", "tú / él trabaja", "vosé / éli trabálya"],
+      ["nós trabalhamos", "nosotros trabajamos", "nós trabalyámus"],
+      ["eles trabalham", "ellos trabajan", "élis trabályaun"],
+      ["eu como / ele come", "yo como / él come", "éu kómu / éli kómi"],
+      ["eu abro / nós abrimos", "yo abro / nosotros abrimos", "éu ábru / nós abrímus"],
+      ["eu me levanto", "yo me levanto", "éu mi levántu"],
+      ["ele se levanta", "él se levanta", "éli si levánta"]
+    ],
+    "errores": [
+      "No digas «eu me acordo»: en portugués «acordar» no lleva «me». Correcto: eu acordo.",
+      "No digas «eu trabalha» ni «ele trabalho»: yo = trabalho (-o), él = trabalha (-a).",
+      "No olvides la «m» final del plural: «eles trabalham», no «eles trabalha»."
+    ]
+  },
+  "practica": [
+    "Recita en voz alta los días de la semana y los 12 meses sin mirar, tres veces (5 minutos).",
+    "Mira el reloj cada hora y di en voz alta: «São duas e meia» o «É meio-dia» (5 minutos).",
+    "Escribe 6 frases con tu rutina de hoy: «Eu acordo às... Eu tomo café da manhã...» (6 minutos).",
+    "Busca en YouTube «rotina diária em português» y repite tres frases que oigas (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-a1-u5-l1",
+      "n": 1,
+      "titulo": "Los días y los meses",
+      "objetivo": "Decir los días de la semana y los meses del año.",
+      "intro": "Los días de lunes a viernes terminan en «-feira» (feria). Sábado y domingo son como en español. Truco: «segunda-feira» es el segundo día, «terça» el tercero, y así hasta «sexta».",
+      "palabras": [
+        { "t": "segunda-feira", "es": "lunes", "pron": "segúnda-féira", "ej": "Hoje é segunda-feira.", "ejes": "Hoy es lunes.", "cog": false, "truco": "En la conversación basta decir «segunda»." },
+        { "t": "terça-feira", "es": "martes", "pron": "térsa-féira", "ej": "Amanhã é terça-feira.", "ejes": "Mañana es martes.", "cog": false, "truco": "«ç» suena «s»." },
+        { "t": "quarta-feira", "es": "miércoles", "pron": "kuárta-féira", "ej": "Hoje é quarta-feira.", "ejes": "Hoy es miércoles.", "cog": false },
+        { "t": "quinta-feira", "es": "jueves", "pron": "kínta-féira", "ej": "Amanhã é quinta-feira.", "ejes": "Mañana es jueves.", "cog": false },
+        { "t": "sexta-feira", "es": "viernes", "pron": "séista-féira", "ej": "Hoje é sexta-feira.", "ejes": "Hoy es viernes.", "cog": false },
+        { "t": "sábado", "es": "sábado", "pron": "sábadu", "ej": "Amanhã é sábado.", "ejes": "Mañana es sábado.", "cog": true },
+        { "t": "domingo", "es": "domingo", "pron": "domíngu", "ej": "Hoje é domingo.", "ejes": "Hoy es domingo.", "cog": true },
+        { "t": "hoje", "es": "hoy", "pron": "óyi", "ej": "Que dia é hoje?", "ejes": "¿Qué día es hoy?", "cog": false, "truco": "«j» suena «y»: óyi." },
+        { "t": "amanhã", "es": "mañana (el día siguiente)", "pron": "amañá", "ej": "Amanhã é sábado.", "ejes": "Mañana es sábado.", "cog": false, "truco": "«nh» = ñ. Es nasal: amañá." },
+        { "t": "mês", "es": "mes", "pron": "méis", "ej": "O mês de maio tem trinta e um dias.", "ejes": "El mes de mayo tiene treinta y un días.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Que dia é hoje?", "es": "¿Qué día es hoy?", "pron": "ke yía é óyi" },
+        { "t": "Hoje é segunda-feira.", "es": "Hoy es lunes.", "pron": "óyi é segúnda-féira" },
+        { "t": "Amanhã é sábado.", "es": "Mañana es sábado.", "pron": "amañá é sábadu" },
+        { "t": "Janeiro, fevereiro, março, abril.", "es": "Enero, febrero, marzo, abril.", "pron": "yanéiru, feveréiru, mársu, abríu" },
+        { "t": "Maio, junho, julho, agosto.", "es": "Mayo, junio, julio, agosto.", "pron": "máiu, yúñu, yúlyu, agóstu" },
+        { "t": "Setembro, outubro, novembro, dezembro.", "es": "Septiembre, octubre, noviembre, diciembre.", "pron": "setémbru, outúbru, novémbru, dezémbru" }
+      ],
+      "dialogo": {
+        "titulo": "¿Qué día es hoy?",
+        "lineas": [
+          { "q": "A", "t": "Oi, Paula! Que dia é hoje?", "es": "¡Hola, Paula! ¿Qué día es hoy?" },
+          { "q": "B", "t": "Hoje é quarta-feira.", "es": "Hoy es miércoles." },
+          { "q": "A", "t": "E amanhã?", "es": "¿Y mañana?" },
+          { "q": "B", "t": "Amanhã é quinta-feira.", "es": "Mañana es jueves." },
+          { "q": "A", "t": "Eu gosto de sexta-feira!", "es": "¡A mí me gusta el viernes!" },
+          { "q": "B", "t": "Eu também!", "es": "¡A mí también!" }
+        ]
+      },
+      "nota": "Los días no llevan mayúscula en portugués (segunda-feira, sábado), ni los meses (janeiro, março). El fin de semana es «fim de semana» (sábado y domingo). «Feira» también significa «feria o mercado», pero en los días solo indica el orden."
+    },
+    {
+      "id": "pt-a1-u5-l2",
+      "n": 2,
+      "titulo": "La hora",
+      "objetivo": "Preguntar y decir la hora, incluyendo la media hora y los cuartos.",
+      "intro": "Para preguntar: «Que horas são?» (en plural). Para responder: «É uma hora» (singular) y «São duas horas» (plural). Truco: solo la una (y el mediodía y la medianoche) usan «é».",
+      "palabras": [
+        { "t": "hora", "es": "hora", "pron": "óra", "ej": "É uma hora.", "ejes": "Es la una.", "cog": true, "truco": "La «h» no se pronuncia." },
+        { "t": "horas", "es": "horas", "pron": "óras", "ej": "Que horas são?", "ejes": "¿Qué hora es?", "cog": true },
+        { "t": "minuto", "es": "minuto", "pron": "minútu", "ej": "Um minuto, por favor.", "ejes": "Un minuto, por favor.", "cog": true },
+        { "t": "meio-dia", "es": "mediodía (las doce)", "pron": "méiu-yía", "ej": "É meio-dia.", "ejes": "Es mediodía.", "cog": false },
+        { "t": "meia-noite", "es": "medianoche", "pron": "méia-nóichi", "ej": "É meia-noite.", "ejes": "Es medianoche.", "cog": false },
+        { "t": "meia", "es": "media (la media hora)", "pron": "méia", "ej": "São três e meia.", "ejes": "Son las tres y media.", "cog": false },
+        { "t": "em ponto", "es": "en punto", "pron": "ein póntu", "ej": "São quatro horas em ponto.", "ejes": "Son las cuatro en punto.", "cog": false },
+        { "t": "para", "es": "para (faltan... para)", "pron": "pára", "ej": "São quinze para as cinco.", "ejes": "Son quince para las cinco.", "cog": true },
+        { "t": "cedo", "es": "temprano", "pron": "sédu", "ej": "Seis horas é muito cedo.", "ejes": "Las seis es muy temprano.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Que horas são?", "es": "¿Qué hora es?", "pron": "ke óras sáun" },
+        { "t": "É uma hora.", "es": "Es la una.", "pron": "é úma óra" },
+        { "t": "São três e meia.", "es": "Son las tres y media.", "pron": "sáun tréis i méia" },
+        { "t": "São quinze para as cinco.", "es": "Son quince para las cinco (4:45).", "pron": "sáun kínzi pára as sínku" },
+        { "t": "É meio-dia e quinze.", "es": "Es mediodía y cuarto (12:15).", "pron": "é méiu-yía i kínzi" },
+        { "t": "São dez e vinte.", "es": "Son las diez y veinte.", "pron": "sáun dés i vínchi" }
+      ],
+      "dialogo": {
+        "titulo": "Preguntamos la hora",
+        "lineas": [
+          { "q": "A", "t": "Desculpe, que horas são?", "es": "Disculpa, ¿qué hora es?" },
+          { "q": "B", "t": "São quatro e meia.", "es": "Son las cuatro y media." },
+          { "q": "A", "t": "Quatro e meia? Obrigada!", "es": "¿Las cuatro y media? ¡Gracias!" },
+          { "q": "B", "t": "De nada! São quatro e meia em ponto.", "es": "¡De nada! Son las cuatro y media en punto." },
+          { "q": "A", "t": "Muito obrigada! Tchau!", "es": "¡Muchas gracias! ¡Chao!" }
+        ]
+      },
+      "nota": "Se dice «É uma hora», «É meio-dia» y «É meia-noite» (singular), pero «São duas, três... horas». Para el cuarto se usa «e quinze» (después) o «quinze para» (antes). Para precisar: da manhã, da tarde, da noite."
+    },
+    {
+      "id": "pt-a1-u5-l3",
+      "n": 3,
+      "titulo": "La rutina de la mañana",
+      "objetivo": "Contar qué haces desde que despiertas hasta que sales a trabajar.",
+      "intro": "Aprenderás los verbos de la mañana. Truco: «acordar» (despertar) y «tomar banho» (bañarse) NO llevan «me»; solo «levantar-se» (levantarse) usa «me levanto». Y «ir trabalhar» es «ir a trabajar».",
+      "palabras": [
+        { "t": "acordar", "es": "despertar", "pron": "akordár", "ej": "Eu quero acordar cedo.", "ejes": "Yo quiero despertar temprano.", "cog": false, "truco": "No es reflexivo: eu acordo (yo me despierto)." },
+        { "t": "levantar-se", "es": "levantarse", "pron": "levantár-si", "ej": "Ana não gosta de levantar-se cedo.", "ejes": "A Ana no le gusta levantarse temprano.", "cog": true, "truco": "En la conversación se dice «eu me levanto»." },
+        { "t": "tomar banho", "es": "bañarse / ducharse", "pron": "tomár báñu", "ej": "Eu gosto de tomar banho de manhã.", "ejes": "Me gusta bañarme por la mañana.", "cog": false, "truco": "Se dice «tomar banho», no «se bañar»." },
+        { "t": "escovar os dentes", "es": "cepillarse los dientes", "pron": "eskovár us déntchis", "ej": "Eu quero escovar os dentes.", "ejes": "Quiero cepillarme los dientes.", "cog": false },
+        { "t": "tomar café da manhã", "es": "desayunar", "pron": "tomár kafé da mañá", "ej": "Eu gosto de tomar café da manhã.", "ejes": "Me gusta desayunar.", "cog": false, "truco": "Literal: «tomar café de la mañana»." },
+        { "t": "ir", "es": "ir", "pron": "ír", "ej": "Eu quero ir trabalhar.", "ejes": "Yo quiero ir a trabajar.", "cog": true, "truco": "Es irregular: eu vou, ele vai." },
+        { "t": "manhã", "es": "mañana (parte del día)", "pron": "mañá", "ej": "De manhã eu tomo banho.", "ejes": "Por la mañana me baño.", "cog": false },
+        { "t": "depois", "es": "después", "pron": "depóis", "ej": "Depois eu tomo café.", "ejes": "Después tomo café.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu acordo cedo.", "es": "Yo me despierto temprano.", "pron": "éu akórdu sédu" },
+        { "t": "Eu me levanto.", "es": "Yo me levanto.", "pron": "éu mi levántu" },
+        { "t": "De manhã eu tomo banho.", "es": "Por la mañana me baño.", "pron": "dyi mañá éu tómu báñu" },
+        { "t": "Eu escovo os dentes.", "es": "Me cepillo los dientes.", "pron": "éu eskóvu us déntchis" },
+        { "t": "Depois eu tomo café da manhã.", "es": "Después desayuno.", "pron": "depóis éu tómu kafé da mañá" },
+        { "t": "Eu vou trabalhar.", "es": "Yo voy a trabajar.", "pron": "éu vou trabalyár" }
+      ],
+      "dialogo": {
+        "titulo": "Una mañana normal",
+        "lineas": [
+          { "q": "A", "t": "Bom dia, Carlos! Você acorda cedo?", "es": "¡Buenos días, Carlos! ¿Te despiertas temprano?" },
+          { "q": "B", "t": "Sim, eu acordo cedo e me levanto.", "es": "Sí, me despierto temprano y me levanto." },
+          { "q": "A", "t": "E depois?", "es": "¿Y después?" },
+          { "q": "B", "t": "Depois eu tomo banho e tomo café da manhã.", "es": "Después me baño y desayuno." },
+          { "q": "A", "t": "E depois você vai trabalhar?", "es": "¿Y después vas a trabajar?" },
+          { "q": "B", "t": "Sim, eu vou trabalhar.", "es": "Sí, voy a trabajar." }
+        ]
+      },
+      "nota": "Cuidado: «acordar» no lleva «me» (eu acordo) y «tomar banho» tampoco; en cambio «me levanto» sí. «Café da manhã» es el desayuno completo; en Brasil «tomar banho» es bañarse o ducharse, y se dice también «tomar um banho»."
+    },
+    {
+      "id": "pt-a1-u5-l4",
+      "n": 4,
+      "titulo": "La rutina del día y la noche",
+      "objetivo": "Decir qué haces durante el día y a qué hora, con «às» más la hora.",
+      "intro": "Para decir a qué hora, usa «às» + la hora: às oito (a las ocho). Truco: «às» viene de «a + as horas». Con la una se dice «à uma» y con el mediodía, «ao meio-dia».",
+      "palabras": [
+        { "t": "trabalhar", "es": "trabajar", "pron": "trabalyár", "ej": "Eu quero trabalhar.", "ejes": "Quiero trabajar.", "cog": false, "truco": "«lh» suena «ly»: trabalyár." },
+        { "t": "estudar", "es": "estudiar", "pron": "estudár", "ej": "Eu gosto de estudar.", "ejes": "Me gusta estudiar.", "cog": true },
+        { "t": "almoçar", "es": "almorzar", "pron": "almosár", "ej": "Eu quero almoçar com Ana.", "ejes": "Quiero almorzar con Ana.", "cog": false, "truco": "«ç» suena «s»: almosár." },
+        { "t": "jantar", "es": "cenar", "pron": "yantár", "ej": "Eu quero jantar às oito.", "ejes": "Quiero cenar a las ocho.", "cog": false, "truco": "«jantar» también es «la cena». «Cena» significa «escena» en portugués." },
+        { "t": "dormir", "es": "dormir", "pron": "dormír", "ej": "Eu gosto de dormir.", "ejes": "Me gusta dormir.", "cog": true },
+        { "t": "às", "es": "a las (con la hora)", "pron": "as", "ej": "Eu almoço às doze.", "ejes": "Yo almuerzo a las doce.", "cog": false },
+        { "t": "tarde", "es": "tarde (parte del día)", "pron": "tárchi", "ej": "À tarde eu estudo.", "ejes": "Por la tarde estudio.", "cog": true },
+        { "t": "noite", "es": "noche", "pron": "nóichi", "ej": "À noite eu janto com minha família.", "ejes": "Por la noche ceno con mi familia.", "cog": false },
+        { "t": "almoço", "es": "almuerzo / yo almuerzo", "pron": "almósu", "ej": "O almoço é às doze.", "ejes": "El almuerzo es a las doce.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Eu trabalho às oito.", "es": "Yo trabajo a las ocho.", "pron": "éu trabályu as óitu" },
+        { "t": "Eu almoço ao meio-dia.", "es": "Yo almuerzo al mediodía.", "pron": "éu almósu au méiu-yía" },
+        { "t": "À tarde eu estudo.", "es": "Por la tarde estudio.", "pron": "a tárchi éu estúdu" },
+        { "t": "Nós jantamos às oito.", "es": "Nosotros cenamos a las ocho.", "pron": "nós yantámus as óitu" },
+        { "t": "Ana dorme às onze.", "es": "Ana duerme a las once.", "pron": "ána dórmi as ónzi" },
+        { "t": "Que horas você almoça?", "es": "¿A qué hora almuerzas?", "pron": "ke óras vosé almósa" }
+      ],
+      "dialogo": {
+        "titulo": "¿A qué hora almuerzas?",
+        "lineas": [
+          { "q": "A", "t": "Que horas você almoça, João?", "es": "¿A qué hora almuerzas, João?" },
+          { "q": "B", "t": "Eu almoço ao meio-dia. E você?", "es": "Yo almuerzo al mediodía. ¿Y tú?" },
+          { "q": "A", "t": "Eu almoço às duas.", "es": "Yo almuerzo a las dos." },
+          { "q": "B", "t": "Você estuda de manhã?", "es": "¿Estudias por la mañana?" },
+          { "q": "A", "t": "Sim, de manhã eu estudo.", "es": "Sí, por la mañana estudio." },
+          { "q": "B", "t": "Eu estudo à noite.", "es": "Yo estudio por la noche." }
+        ]
+      },
+      "nota": "Con la hora: «às oito» (a las ocho), «à uma» (a la una), «ao meio-dia» y «à meia-noite». Cuidado: «cena» en portugués es «escena de teatro», no la comida; la cena se dice «jantar». Y para el desayuno se dice «café da manhã»."
+    },
+    {
+      "id": "pt-a1-u5-l5",
+      "n": 5,
+      "titulo": "¿Con qué frecuencia?",
+      "objetivo": "Decir con qué frecuencia haces algo y repasar toda la unidad.",
+      "intro": "Estas palabras dicen cada cuánto haces algo: sempre (siempre), às vezes (a veces), nunca (nunca). Truco: suelen ir justo antes del verbo: Eu sempre acordo cedo.",
+      "palabras": [
+        { "t": "sempre", "es": "siempre", "pron": "sémpri", "ej": "Eu sempre tomo café da manhã.", "ejes": "Yo siempre desayuno.", "cog": true },
+        { "t": "geralmente", "es": "generalmente", "pron": "yerauméntchi", "ej": "Geralmente eu almoço ao meio-dia.", "ejes": "Generalmente almuerzo al mediodía.", "cog": true, "truco": "La «l» suena «u»: yerauméntchi." },
+        { "t": "quase sempre", "es": "casi siempre", "pron": "kuázi sémpri", "ej": "Ana quase sempre janta com a família.", "ejes": "Ana casi siempre cena con la familia.", "cog": true },
+        { "t": "às vezes", "es": "a veces", "pron": "as vézis", "ej": "Às vezes eu estudo à noite.", "ejes": "A veces estudio por la noche.", "cog": false },
+        { "t": "raramente", "es": "rara vez", "pron": "raraménchi", "ej": "Raramente eu tomo cerveja.", "ejes": "Rara vez tomo cerveza.", "cog": true },
+        { "t": "nunca", "es": "nunca", "pron": "núnka", "ej": "Eu nunca tomo café à noite.", "ejes": "Yo nunca tomo café por la noche.", "cog": true, "truco": "No hace falta «não»: Eu nunca tomo (no «eu não nunca»)." },
+        { "t": "todos os dias", "es": "todos los días", "pron": "tódus us yías", "ej": "Eu estudo todos os dias.", "ejes": "Yo estudio todos los días.", "cog": false },
+        { "t": "semana", "es": "semana", "pron": "semána", "ej": "Eu trabalho cinco dias por semana.", "ejes": "Yo trabajo cinco días por semana.", "cog": true },
+        { "t": "fim de semana", "es": "fin de semana", "pron": "fín dyi semána", "ej": "O fim de semana é sábado e domingo.", "ejes": "El fin de semana es sábado y domingo.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu sempre acordo cedo.", "es": "Yo siempre me despierto temprano.", "pron": "éu sémpri akórdu sédu" },
+        { "t": "Geralmente eu almoço ao meio-dia.", "es": "Generalmente almuerzo al mediodía.", "pron": "yerauméntchi éu almósu au méiu-yía" },
+        { "t": "Às vezes eu estudo à noite.", "es": "A veces estudio por la noche.", "pron": "as vézis éu estúdu a nóichi" },
+        { "t": "Eu nunca tomo cerveja de manhã.", "es": "Yo nunca tomo cerveza por la mañana.", "pron": "éu núnka tómu servéya dyi mañá" },
+        { "t": "Eu trabalho todos os dias.", "es": "Yo trabajo todos los días.", "pron": "éu trabályu tódus us yías" },
+        { "t": "Ele sempre se levanta cedo.", "es": "Él siempre se levanta temprano.", "pron": "éli sémpri si levánta sédu" }
+      ],
+      "dialogo": {
+        "titulo": "Hablamos de la rutina",
+        "lineas": [
+          { "q": "A", "t": "Luís, você acorda cedo todos os dias?", "es": "Luís, ¿te despiertas temprano todos los días?" },
+          { "q": "B", "t": "Sim, eu sempre acordo às seis e me levanto.", "es": "Sí, siempre me despierto a las seis y me levanto." },
+          { "q": "A", "t": "Eu não! Às vezes eu acordo às oito.", "es": "¡Yo no! A veces me despierto a las ocho." },
+          { "q": "B", "t": "Você nunca acorda cedo?", "es": "¿Nunca te despiertas temprano?" },
+          { "q": "A", "t": "Geralmente eu acordo às sete.", "es": "Generalmente me despierto a las siete." }
+        ]
+      },
+      "nota": "Estas palabras van antes del verbo: «Eu sempre acordo». Con «nunca» no se agrega «não»: «Eu nunca tomo café». «Todos os dias» puede ir al inicio o al final: «Eu estudo todos os dias» = «Todos os dias eu estudo». Y recuerda que «às vezes» lleva tilde en «às»."
+    }
+  ]
+}

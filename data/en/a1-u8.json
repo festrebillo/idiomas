@@ -1,0 +1,229 @@
+{
+  "id": "en-a1-u8",
+  "idioma": "en",
+  "nivel": "A1",
+  "n": 8,
+  "titulo": "Compras y dinero",
+  "resumen": "Aprenderás ropa, colores y tallas, y a comprar y pagar usando this, that, these, those y las preguntas how much y how many.",
+  "puedo": [
+    "Nombrar prendas de ropa como shirt, shoes y jacket.",
+    "Decir colores y tallas: red, blue, small, large.",
+    "Señalar cosas con this, that, these y those.",
+    "Pedir algo en una tienda: Do you have...? Can I try it on?",
+    "Preguntar precios y pagar con cash o card.",
+    "Preguntar cantidades con How much...? y How many...?"
+  ],
+  "gramatica": {
+    "titulo": "this / that / these / those y how much / how many",
+    "texto": "This y that señalan UNA cosa: this (esto/este) está cerca de ti; that (eso/ese) está lejos. These y those son el plural: these (estos) cerca, those (esos) lejos. Truco: la «i» corta de this pasa a larga en these.\nHow much? se usa para precios y cosas que no se cuentan (How much is this?). How many? se usa con cosas que se cuentan, en plural (How many shirts?).",
+    "tabla": [
+      ["this shirt", "esta camisa (aquí)", "dis shert"],
+      ["that hat", "ese sombrero (allá)", "dat jat"],
+      ["these shoes", "estos zapatos (aquí)", "diz shus"],
+      ["those socks", "esas medias (allá)", "dous saks"],
+      ["How much is it?", "¿cuánto cuesta?", "jau mach is it"],
+      ["How many shirts?", "¿cuántas camisas?", "jau méni sherts"]
+    ],
+    "errores": [
+      "No digas «this shoes»: con plural se usa these shoes.",
+      "Para precios usa How much, no «How many»: How much is this jacket?",
+      "Pants, jeans, shoes y socks son plurales: these pants, no «this pants»."
+    ]
+  },
+  "practica": [
+    "Abre tu armario y señala 6 prendas diciendo this o these, con su color: this red shirt, these black shoes (6 minutos).",
+    "Mira una tienda en línea y di en voz alta el precio de 5 cosas con It's... dollars (6 minutos).",
+    "Lee 5 veces el diálogo de la lección 3 haciendo los dos papeles (5 minutos).",
+    "Escribe 5 frases con how much y how many sobre tus compras de esta semana (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-a1-u8-l1",
+      "n": 1,
+      "titulo": "Ropa",
+      "objetivo": "Nombrar las prendas de ropa más comunes.",
+      "intro": "Empecemos con lo que te pones cada día. Cuidado: pants, jeans, shoes y socks siempre están en plural. Truco: shoes se dice «shus», como shu pero con s final.",
+      "palabras": [
+        { "t": "shirt", "es": "camisa", "pron": "shert", "ej": "I like your shirt.", "ejes": "Me gusta tu camisa.", "cog": false },
+        { "t": "pants", "es": "pantalón", "pron": "pants", "ej": "My pants are new.", "ejes": "Mi pantalón es nuevo.", "cog": false, "truco": "pants siempre es plural en inglés: my pants are..." },
+        { "t": "dress", "es": "vestido", "pron": "dres", "ej": "She has a beautiful dress.", "ejes": "Ella tiene un vestido hermoso.", "cog": false },
+        { "t": "shoes", "es": "zapatos", "pron": "shus", "ej": "Your shoes are good.", "ejes": "Tus zapatos son buenos.", "cog": false },
+        { "t": "jacket", "es": "chaqueta / casaca", "pron": "yáket", "ej": "It's cold. I have a jacket.", "ejes": "Hace frío. Tengo una chaqueta.", "cog": true },
+        { "t": "hat", "es": "sombrero / gorro", "pron": "jat", "ej": "The hat is for my brother.", "ejes": "El sombrero es para mi hermano.", "cog": false },
+        { "t": "socks", "es": "medias / calcetines", "pron": "saks", "ej": "I need socks.", "ejes": "Necesito medias.", "cog": false },
+        { "t": "jeans", "es": "jeans / pantalón de mezclilla", "pron": "yins", "ej": "I wear jeans every day.", "ejes": "Uso jeans todos los días.", "cog": false },
+        { "t": "skirt", "es": "falda", "pron": "skert", "ej": "My sister has a skirt.", "ejes": "Mi hermana tiene una falda.", "cog": false },
+        { "t": "sweater", "es": "suéter / chompa", "pron": "suéter", "ej": "My mother has a sweater.", "ejes": "Mi mamá tiene un suéter.", "cog": true }
+      ],
+      "frases": [
+        { "t": "I like your shirt.", "es": "Me gusta tu camisa.", "pron": "ai laik ior shert" },
+        { "t": "My shoes are new.", "es": "Mis zapatos son nuevos.", "pron": "mai shus ar niu" },
+        { "t": "She has a blue dress.", "es": "Ella tiene un vestido azul.", "pron": "shi jas a blu dres" },
+        { "t": "I need a jacket.", "es": "Necesito una chaqueta.", "pron": "ai nid a yáket" },
+        { "t": "His socks are black.", "es": "Sus medias son negras.", "pron": "jis saks ar blak" }
+      ],
+      "dialogo": {
+        "titulo": "Preparando la maleta",
+        "lineas": [
+          { "q": "A", "t": "I have jeans, shirts and socks.", "es": "Tengo jeans, camisas y medias." },
+          { "q": "B", "t": "Do you have a jacket?", "es": "¿Tienes una chaqueta?" },
+          { "q": "A", "t": "Yes, it's here. And a hat.", "es": "Sí, está aquí. Y un sombrero." },
+          { "q": "B", "t": "I have two skirts and a dress.", "es": "Yo tengo dos faldas y un vestido." },
+          { "q": "A", "t": "And your shoes?", "es": "¿Y tus zapatos?" }
+        ]
+      },
+      "nota": "Pants, jeans y shoes son plurales: se dice a pair of pants / jeans / shoes (un pantalón, un par de zapatos). En Perú se dice «chompa» o «casaca»; en inglés son sweater y jacket."
+    },
+    {
+      "id": "en-a1-u8-l2",
+      "n": 2,
+      "titulo": "Colores y tallas",
+      "objetivo": "Decir el color y la talla de una prenda.",
+      "intro": "En inglés el color va antes del nombre: a red shirt (una camisa roja), no «a shirt red». Truco: no cambia por género ni plural: red shirt, red shoes.",
+      "palabras": [
+        { "t": "red", "es": "rojo", "pron": "red", "ej": "I have a red dress.", "ejes": "Tengo un vestido rojo.", "cog": false },
+        { "t": "blue", "es": "azul", "pron": "blu", "ej": "My jacket is blue.", "ejes": "Mi chaqueta es azul.", "cog": false },
+        { "t": "green", "es": "verde", "pron": "grin", "ej": "I like the green hat.", "ejes": "Me gusta el sombrero verde.", "cog": false },
+        { "t": "yellow", "es": "amarillo", "pron": "yélou", "ej": "She has a yellow shirt.", "ejes": "Ella tiene una camisa amarilla.", "cog": false },
+        { "t": "black", "es": "negro", "pron": "blak", "ej": "My shoes are black.", "ejes": "Mis zapatos son negros.", "cog": false },
+        { "t": "white", "es": "blanco", "pron": "juait", "ej": "I need white socks.", "ejes": "Necesito medias blancas.", "cog": false },
+        { "t": "small", "es": "pequeño / talla S", "pron": "smol", "ej": "This shirt is small.", "ejes": "Esta camisa es pequeña.", "cog": false },
+        { "t": "medium", "es": "mediano / talla M", "pron": "mídiom", "ej": "I'm a medium.", "ejes": "Soy talla M.", "cog": true },
+        { "t": "large", "es": "grande / talla L", "pron": "larch", "ej": "Do you have a large?", "ejes": "¿Tiene una talla L?", "cog": false },
+        { "t": "size", "es": "talla / tamaño", "pron": "sais", "ej": "What size are you?", "ejes": "¿Qué talla eres?", "cog": false }
+      ],
+      "frases": [
+        { "t": "I have a red shirt.", "es": "Tengo una camisa roja.", "pron": "ai jav a red shert" },
+        { "t": "The jacket is blue.", "es": "La chaqueta es azul.", "pron": "da yáket is blu" },
+        { "t": "What size are you?", "es": "¿Qué talla eres?", "pron": "juat sais ar iú" },
+        { "t": "I'm a medium.", "es": "Soy talla M.", "pron": "aim a mídiom" },
+        { "t": "Black or white?", "es": "¿Negro o blanco?", "pron": "blak or juait" },
+        { "t": "I like the green dress.", "es": "Me gusta el vestido verde.", "pron": "ai laik da grin dres" }
+      ],
+      "dialogo": {
+        "titulo": "Eligiendo una camisa",
+        "lineas": [
+          { "q": "A", "t": "I like this shirt. Do you have it in blue?", "es": "Me gusta esta camisa. ¿La tiene en azul?" },
+          { "q": "B", "t": "Yes. What size are you?", "es": "Sí. ¿Qué talla es usted?" },
+          { "q": "A", "t": "I'm a medium.", "es": "Soy talla M." },
+          { "q": "B", "t": "Here you are. Blue, medium.", "es": "Aquí tiene. Azul, talla M." },
+          { "q": "A", "t": "Thank you!", "es": "¡Gracias!" }
+        ]
+      },
+      "nota": "Las tallas en EE. UU. son S (small), M (medium), L (large). Los números de zapatos son distintos a los de Perú: pregunta What's the size in Peru? o mira una tabla de conversión."
+    },
+    {
+      "id": "en-a1-u8-l3",
+      "n": 3,
+      "titulo": "En la tienda",
+      "objetivo": "Señalar prendas y pedir lo que necesitas en una tienda.",
+      "intro": "Aquí llegan this, that, these y those. Truco: this y these están cerca de ti (la «i» corta se alarga en these); that y those están lejos. Para una cosa: this/that; para varias: these/those.",
+      "palabras": [
+        { "t": "this", "es": "esto / este / esta", "pron": "dis", "ej": "I like this shirt.", "ejes": "Me gusta esta camisa.", "cog": false },
+        { "t": "that", "es": "eso / ese / esa", "pron": "dat", "ej": "I like that hat.", "ejes": "Me gusta ese sombrero.", "cog": false },
+        { "t": "these", "es": "estos / estas", "pron": "diz", "ej": "I like these shoes.", "ejes": "Me gustan estos zapatos.", "cog": false, "truco": "these se pronuncia «diz» (la «e» final no suena)." },
+        { "t": "those", "es": "esos / esas", "pron": "dous", "ej": "I like those socks.", "ejes": "Me gustan esas medias.", "cog": false },
+        { "t": "try on", "es": "probarse", "pron": "trai on", "ej": "Can I try on this jacket?", "ejes": "¿Me puedo probar esta chaqueta?", "cog": false },
+        { "t": "fitting room", "es": "probador", "pron": "fítin rum", "ej": "The fitting room is there.", "ejes": "El probador está allá.", "cog": false },
+        { "t": "do you have", "es": "¿tiene...?", "pron": "du iú jav", "ej": "Do you have this in blue?", "ejes": "¿Tiene esto en azul?", "cog": false },
+        { "t": "I'll take it", "es": "me lo llevo", "pron": "ail teik it", "ej": "It's good. I'll take it.", "ejes": "Está bien. Me lo llevo.", "cog": false, "truco": "I'll = I will. Sirve para decidir una compra." },
+        { "t": "I'm just looking", "es": "solo estoy mirando", "pron": "aim yast lúkin", "ej": "No, thanks. I'm just looking.", "ejes": "No, gracias. Solo estoy mirando.", "cog": false },
+        { "t": "too", "es": "demasiado", "pron": "tu", "ej": "This shirt is too small.", "ejes": "Esta camisa es demasiado pequeña.", "cog": false, "truco": "too va antes del adjetivo: too big, too small." }
+      ],
+      "frases": [
+        { "t": "Can I try it on?", "es": "¿Me lo puedo probar?", "pron": "kan ai trai it on" },
+        { "t": "Do you have this in a large?", "es": "¿Tiene esto en talla L?", "pron": "du iú jav dis in a larch" },
+        { "t": "It's too small.", "es": "Es demasiado pequeño.", "pron": "its tu smol" },
+        { "t": "These shoes are too big.", "es": "Estos zapatos son demasiado grandes.", "pron": "diz shus ar tu big" },
+        { "t": "I'll take it.", "es": "Me lo llevo.", "pron": "ail teik it" },
+        { "t": "I'm just looking, thanks.", "es": "Solo estoy mirando, gracias.", "pron": "aim yast lúkin, zanks" }
+      ],
+      "dialogo": {
+        "titulo": "En el probador",
+        "lineas": [
+          { "q": "A", "t": "Can I help you?", "es": "¿Puedo ayudarle?" },
+          { "q": "B", "t": "Yes, can I try on this jacket?", "es": "Sí, ¿me puedo probar esta chaqueta?" },
+          { "q": "A", "t": "Of course. The fitting room is there.", "es": "Claro. El probador está allá." },
+          { "q": "B", "t": "It's too big. Do you have a medium?", "es": "Es demasiado grande. ¿Tiene una talla M?" },
+          { "q": "A", "t": "Yes. Here you are.", "es": "Sí. Aquí tiene." },
+          { "q": "B", "t": "It's perfect. I'll take it!", "es": "Es perfecta. ¡Me la llevo!" }
+        ]
+      },
+      "nota": "En EE. UU. los vendedores preguntan Can I help you? o Are you finding everything OK? Si no quieres ayuda, di con una sonrisa: I'm just looking, thanks."
+    },
+    {
+      "id": "en-a1-u8-l4",
+      "n": 4,
+      "titulo": "Precios y pagar",
+      "objetivo": "Preguntar precios, hablar de descuentos y pagar.",
+      "intro": "Para precios ya conoces How much is it? / How much are they?. Ahora suma palabras para pagar: discount, receipt, change. Truco: receipt se escribe con «p» pero no suena: «risít».",
+      "palabras": [
+        { "t": "price", "es": "precio", "pron": "prais", "ej": "What's the price?", "ejes": "¿Cuál es el precio?", "cog": false },
+        { "t": "expensive", "es": "caro", "pron": "ikspénsiv", "ej": "This dress is expensive.", "ejes": "Este vestido es caro.", "cog": false },
+        { "t": "cheap", "es": "barato", "pron": "chip", "ej": "These socks are cheap.", "ejes": "Estas medias son baratas.", "cog": false },
+        { "t": "sale", "es": "oferta / liquidación", "pron": "seil", "ej": "The jackets are on sale.", "ejes": "Las chaquetas están en oferta.", "cog": false, "truco": "on sale = en oferta. Ojo: sale no es «salida»." },
+        { "t": "discount", "es": "descuento", "pron": "dískaunt", "ej": "Is there a discount?", "ejes": "¿Hay descuento?", "cog": true },
+        { "t": "pay", "es": "pagar", "pron": "pei", "ej": "I pay by card.", "ejes": "Pago con tarjeta.", "cog": false },
+        { "t": "receipt", "es": "boleta / recibo", "pron": "risít", "ej": "The receipt, please.", "ejes": "La boleta, por favor.", "cog": true, "truco": "La «p» no suena: «risít»." },
+        { "t": "change", "es": "vuelto / cambio", "pron": "cheinch", "ej": "Here is your change.", "ejes": "Aquí está su vuelto.", "cog": false },
+        { "t": "bag", "es": "bolsa", "pron": "bag", "ej": "Do you need a bag?", "ejes": "¿Necesita una bolsa?", "cog": false }
+      ],
+      "frases": [
+        { "t": "How much is this jacket?", "es": "¿Cuánto cuesta esta chaqueta?", "pron": "jau mach is dis yáket" },
+        { "t": "It's too expensive.", "es": "Es demasiado caro.", "pron": "its tu ikspénsiv" },
+        { "t": "Is there a discount?", "es": "¿Hay descuento?", "pron": "is der a dískaunt" },
+        { "t": "Cash or card?", "es": "¿Efectivo o tarjeta?", "pron": "cash or card" },
+        { "t": "Here is your change and your receipt.", "es": "Aquí tiene su vuelto y su boleta.", "pron": "jir is ior cheinch an ior risít" },
+        { "t": "Everything is on sale today.", "es": "Todo está en oferta hoy.", "pron": "évrizin is on seil tudéi" }
+      ],
+      "dialogo": {
+        "titulo": "En la caja",
+        "lineas": [
+          { "q": "A", "t": "How much are these shoes?", "es": "¿Cuánto cuestan estos zapatos?" },
+          { "q": "B", "t": "They're forty dollars, but they're on sale.", "es": "Cuestan cuarenta dólares, pero están en oferta." },
+          { "q": "A", "t": "Great! How much is the discount?", "es": "¡Genial! ¿Cuánto es el descuento?" },
+          { "q": "B", "t": "Ten dollars. The price is thirty.", "es": "Diez dólares. El precio es treinta." },
+          { "q": "A", "t": "I'll take them. Card, please.", "es": "Me los llevo. Con tarjeta, por favor." },
+          { "q": "B", "t": "Here is your receipt.", "es": "Aquí tiene su boleta." }
+        ]
+      },
+      "nota": "En EE. UU. el impuesto (tax) casi nunca está incluido en la etiqueta: al pagar verás un total un poco mayor. Y en la caja es común oír Do you need a bag? (¿Necesita una bolsa?)."
+    },
+    {
+      "id": "en-a1-u8-l5",
+      "n": 5,
+      "titulo": "Comprar con confianza",
+      "objetivo": "Combinar todo lo de la unidad en una compra completa y usar how many.",
+      "intro": "Ahora todo junto: señalar, pedir talla, preguntar precio y pagar. Aquí añadimos How many...? para contar cosas: How many shirts? Truco: how many va con plural, how much con precios y cosas sin contar.",
+      "palabras": [
+        { "t": "how many", "es": "cuántos / cuántas", "pron": "jau méni", "ej": "How many socks do you need?", "ejes": "¿Cuántas medias necesitas?", "cog": false },
+        { "t": "pair", "es": "par", "pron": "per", "ej": "I need a pair of shoes.", "ejes": "Necesito un par de zapatos.", "cog": false, "truco": "pair suena igual que pear (pera en inglés): «per»." },
+        { "t": "nice", "es": "lindo / bonito", "pron": "nais", "ej": "That's a nice hat.", "ejes": "Ese es un lindo sombrero.", "cog": false },
+        { "t": "new", "es": "nuevo", "pron": "niu", "ej": "I want a new jacket.", "ejes": "Quiero una chaqueta nueva.", "cog": false },
+        { "t": "gift", "es": "regalo", "pron": "guift", "ej": "This is a gift for my mother.", "ejes": "Esto es un regalo para mi mamá.", "cog": false, "truco": "gift es «regalo»; en alemán gift significa veneno: ¡no confundir!" },
+        { "t": "favorite", "es": "favorito", "pron": "féivorit", "ej": "Blue is my favorite color.", "ejes": "El azul es mi color favorito.", "cog": true },
+        { "t": "wear", "es": "usar / llevar puesto", "pron": "uer", "ej": "I wear jeans every day.", "ejes": "Uso jeans todos los días.", "cog": false },
+        { "t": "which", "es": "cuál / cuáles", "pron": "uich", "ej": "Which jacket do you like?", "ejes": "¿Qué chaqueta te gusta?", "cog": false }
+      ],
+      "frases": [
+        { "t": "How many shirts do you need?", "es": "¿Cuántas camisas necesitas?", "pron": "jau méni sherts du iú nid" },
+        { "t": "I need two pairs of socks.", "es": "Necesito dos pares de medias.", "pron": "ai nid tu pers of saks" },
+        { "t": "Which one do you like?", "es": "¿Cuál te gusta?", "pron": "uich uan du iú laik" },
+        { "t": "This is a gift for my sister.", "es": "Esto es un regalo para mi hermana.", "pron": "dis is a guift for mai síster" },
+        { "t": "Blue is my favorite color.", "es": "El azul es mi color favorito.", "pron": "blu is mai féivorit cólor" }
+      ],
+      "dialogo": {
+        "titulo": "Un regalo de cumpleaños",
+        "lineas": [
+          { "q": "A", "t": "I need a gift for my sister.", "es": "Necesito un regalo para mi hermana." },
+          { "q": "B", "t": "How about this red sweater?", "es": "¿Qué tal este suéter rojo?" },
+          { "q": "A", "t": "It's nice! How much is it?", "es": "¡Es lindo! ¿Cuánto cuesta?" },
+          { "q": "B", "t": "It's thirty dollars. Those are on sale.", "es": "Cuesta treinta dólares. Esos están en oferta." },
+          { "q": "A", "t": "Do you have a small? I'll take it.", "es": "¿Tiene talla S? Me lo llevo." },
+          { "q": "B", "t": "Yes. Cash or card?", "es": "Sí. ¿Efectivo o tarjeta?" }
+        ]
+      },
+      "nota": "How much y how many: How much is it? (precio) y How many shirts? (cantidad). Si olvidas la diferencia, recuerda: much para precio o cosas que no se cuentan, many para cosas que sí se cuentan."
+    }
+  ]
+}

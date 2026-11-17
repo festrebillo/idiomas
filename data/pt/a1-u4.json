@@ -1,0 +1,227 @@
+{
+  "id": "pt-a1-u4",
+  "idioma": "pt",
+  "nivel": "A1",
+  "n": 4,
+  "titulo": "Mi familia",
+  "resumen": "Aprenderás a nombrar a tu familia, a decir de quién es algo con meu, minha, seu y sua, a usar el verbo ter y a describir a las personas.",
+  "puedo": [
+    "Nombrar a mi familia cercana y a mi familia extendida.",
+    "Decir de quién es algo con meu, minha, seu, sua y nosso.",
+    "Decir cuántos hermanos o hijos tengo con el verbo ter.",
+    "Presentar a un familiar o a un amigo.",
+    "Describir a una persona: alto, baixo, jovem, simpático..."
+  ],
+  "gramatica": {
+    "titulo": "Los posesivos (meu, minha, seu, sua) y el verbo ter",
+    "texto": "Los posesivos dicen de quién es algo: meu, minha, seu, sua, nosso, nossa. Cambian según la cosa poseída, no según quién la tiene: meu pai (masculino), minha mãe (femenino).\nEn Brasil es muy habitual poner el artículo delante: «a minha mãe», «o meu pai». Significa lo mismo que «minha mãe» y suena natural; las dos formas son correctas.\n«Seu/sua» significa «tu» (con você) y también «su». Para aclarar de quién es, se usa «dele» (de él), «dela» (de ella), «deles» (de ellos): a mãe dela.\nEl verbo «ter» (tener) ya lo viste: eu tenho, você/ele/ela tem, nós temos, eles têm.",
+    "tabla": [
+      ["meu pai / minha mãe", "mi papá / mi mamá", "méu pái / míña máin"],
+      ["o seu irmão / a sua irmã", "tu hermano / tu hermana", "u séu irmáun / a súa irmá"],
+      ["nosso filho / nossa filha", "nuestro hijo / nuestra hija", "nósu fílyu / nósa fílya"],
+      ["a mãe dele / a mãe dela", "la mamá de él / la mamá de ella", "a máin déli / a máin déla"],
+      ["Eu tenho dois irmãos.", "Tengo dos hermanos.", "éu téñu dois irmáus"],
+      ["Nós temos um filho.", "Tenemos un hijo.", "nós témus ún fílyu"]
+    ],
+    "errores": [
+      "No digas «meu mãe»: «mãe» es femenina, así que va «minha mãe». El posesivo concuerda con la cosa poseída (mãe), no con quien la tiene.",
+      "«O seu pai» puede ser «tu papá» o «su papá». Si hay duda, usa «o pai dele» o «o pai dela».",
+      "No digas «eu tem»: cada persona tiene su forma. Yo = tenho, él/ella/você = tem, nosotros = temos."
+    ]
+  },
+  "practica": [
+    "Mira una foto de tu familia y di en voz alta quién es cada persona: «Ela é minha mãe. Ele é meu irmão» (4 minutos).",
+    "Escribe 6 frases sobre tu familia con meu/minha y con dele/dela (5 minutos).",
+    "Pregunta en voz alta a un amigo (real o imaginario): «Quantos irmãos você tem?» y responde tú también (3 minutos).",
+    "Describe en voz alta a tres personas de tu familia con alto, baixo, simpático, engraçado... (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-a1-u4-l1",
+      "n": 1,
+      "titulo": "Familia cercana",
+      "objetivo": "Nombrar a papá, mamá, hermanos e hijos y presentar a un familiar.",
+      "intro": "La familia cercana se parece mucho al español. Truco: «mãe» y «pai» se pronuncian casi «máin» y «pái». Cuidado con «pais»: significa «padres» (papá y mamá), no «países».",
+      "palabras": [
+        { "t": "família", "es": "familia", "pron": "família", "ej": "A família de Ana é do Peru.", "ejes": "La familia de Ana es de Perú.", "cog": true },
+        { "t": "mãe", "es": "mamá / madre", "pron": "máin", "ej": "A mãe de Ana é professora.", "ejes": "La mamá de Ana es profesora.", "cog": false, "truco": "«ãe» es nasal: suena casi «máin»." },
+        { "t": "pai", "es": "papá / padre", "pron": "pái", "ej": "O pai de Carlos é médico.", "ejes": "El papá de Carlos es médico.", "cog": false },
+        { "t": "pais", "es": "padres (papá y mamá)", "pron": "páis", "ej": "Os pais de Paula são do Brasil.", "ejes": "Los padres de Paula son de Brasil.", "cog": false, "truco": "Falso amigo: «pais» son los padres. El país (nación) se escribe «país», con tilde." },
+        { "t": "irmão", "es": "hermano", "pron": "irmáun", "ej": "Luís é irmão de Paula.", "ejes": "Luís es hermano de Paula.", "cog": false, "truco": "Plural: irmãos (irmáus)." },
+        { "t": "irmã", "es": "hermana", "pron": "irmá", "ej": "Maria é irmã de João.", "ejes": "Maria es hermana de João.", "cog": false, "truco": "«ã» es nasal: suena casi «irmá» con la nariz." },
+        { "t": "filho", "es": "hijo", "pron": "fílyu", "ej": "João é filho de Maria.", "ejes": "João es hijo de Maria.", "cog": false, "truco": "«lh» suena como «ly»: fílyu." },
+        { "t": "filha", "es": "hija", "pron": "fílya", "ej": "Ana é filha de Carlos.", "ejes": "Ana es hija de Carlos.", "cog": false },
+        { "t": "bebê", "es": "bebé", "pron": "bebé", "ej": "O bebê é filho de Paula.", "ejes": "El bebé es hijo de Paula.", "cog": true, "truco": "Se escribe con acento circunflejo: bebê." }
+      ],
+      "frases": [
+        { "t": "A mãe de Ana é professora.", "es": "La mamá de Ana es profesora.", "pron": "a máin dyi ána é profesóra" },
+        { "t": "O pai de Carlos é médico.", "es": "El papá de Carlos es médico.", "pron": "u pái dyi kárlus é médyiku" },
+        { "t": "Luís é irmão de Paula.", "es": "Luís es hermano de Paula.", "pron": "luís é irmáun dyi páula" },
+        { "t": "Ana é filha de Maria e Carlos.", "es": "Ana es hija de Maria y Carlos.", "pron": "ána é fílya dyi maría i kárlus" },
+        { "t": "Eu sou filho de Carlos.", "es": "Yo soy hijo de Carlos.", "pron": "éu sou fílyu dyi kárlus" }
+      ],
+      "dialogo": {
+        "titulo": "Una foto de familia",
+        "lineas": [
+          { "q": "A", "t": "Oi, Paula! Quem é ele?", "es": "¡Hola, Paula! ¿Quién es él?" },
+          { "q": "B", "t": "Ele é João. É meu irmão.", "es": "Él es João. Es mi hermano." },
+          { "q": "A", "t": "E ela?", "es": "¿Y ella?" },
+          { "q": "B", "t": "Ela é Maria, mãe de João.", "es": "Ella es Maria, la mamá de João." },
+          { "q": "A", "t": "Prazer, Maria!", "es": "¡Mucho gusto, Maria!" }
+        ]
+      },
+      "nota": "«Pais» = padres (papá y mamá) y «país» = nación: se parecen, pero son distintos. Los hermanos en conjunto son «irmãos» y los padres, «pais». «Filhos» puede ser «hijos» o «hijos e hijas»."
+    },
+    {
+      "id": "pt-a1-u4-l2",
+      "n": 2,
+      "titulo": "Familia extendida y amigos",
+      "objetivo": "Nombrar a abuelos, tíos, primos y pareja, y hablar de tus amigos.",
+      "intro": "La familia grande también se parece mucho al español. Truco: «avô» (abuelo) y «avó» (abuela) se distinguen solo por el acento. Y recuerda «amigo/amiga» de la unidad 1.",
+      "palabras": [
+        { "t": "avó", "es": "abuela", "pron": "avó", "ej": "A avó de Ana é peruana.", "ejes": "La abuela de Ana es peruana.", "cog": false, "truco": "«avó» (acento agudo) es la abuela; «avô» (circunflejo) es el abuelo." },
+        { "t": "avós", "es": "abuelos (abuelo y abuela)", "pron": "avós", "ej": "Os avós de Luís são médicos.", "ejes": "Los abuelos de Luís son médicos.", "cog": false, "truco": "Con acento agudo, como «avó». El abuelo solo es «avô»." },
+        { "t": "tio", "es": "tío", "pron": "chíu", "ej": "Carlos é tio de Paula.", "ejes": "Carlos es tío de Paula.", "cog": true, "truco": "«ti» suena «chi»: tio = chíu." },
+        { "t": "tia", "es": "tía", "pron": "chía", "ej": "Maria é tia de João.", "ejes": "Maria es tía de João.", "cog": true },
+        { "t": "primo", "es": "primo", "pron": "prímu", "ej": "Luís é primo de Ana.", "ejes": "Luís es primo de Ana.", "cog": true },
+        { "t": "prima", "es": "prima", "pron": "príma", "ej": "Paula é prima de Carlos.", "ejes": "Paula es prima de Carlos.", "cog": true },
+        { "t": "marido", "es": "esposo / marido", "pron": "marídu", "ej": "O marido de Maria é engenheiro.", "ejes": "El esposo de Maria es ingeniero.", "cog": true },
+        { "t": "esposa", "es": "esposa", "pron": "espósa", "ej": "A esposa de Carlos é professora.", "ejes": "La esposa de Carlos es profesora.", "cog": true },
+        { "t": "mulher", "es": "mujer / esposa", "pron": "mulyér", "ej": "A mulher de João é médica.", "ejes": "La esposa de João es médica.", "cog": false, "truco": "Significa «mujer» y también «esposa». «lh» suena «ly»." }
+      ],
+      "frases": [
+        { "t": "O avô de Ana tem setenta anos.", "es": "El abuelo de Ana tiene setenta años.", "pron": "u avô dyi ána téin seténta ánus" },
+        { "t": "A tia de Paula é médica.", "es": "La tía de Paula es médica.", "pron": "a chía dyi páula é médyika" },
+        { "t": "Luís é primo de Carlos.", "es": "Luís es primo de Carlos.", "pron": "luís é prímu dyi kárlus" },
+        { "t": "Maria é esposa de João.", "es": "Maria es esposa de João.", "pron": "maría é espósa dyi yoáun" },
+        { "t": "A avó de Carlos é peruana.", "es": "La abuela de Carlos es peruana.", "pron": "a avó dyi kárlus é peruána" }
+      ],
+      "dialogo": {
+        "titulo": "Una reunión familiar",
+        "lineas": [
+          { "q": "A", "t": "Ana, quem é ele?", "es": "Ana, ¿quién es él?" },
+          { "q": "B", "t": "É o Luís, meu primo.", "es": "Es Luís, mi primo." },
+          { "q": "A", "t": "E ela? É prima de Luís também?", "es": "¿Y ella? ¿También es prima de Luís?" },
+          { "q": "B", "t": "Não, é a esposa de Carlos.", "es": "No, es la esposa de Carlos." },
+          { "q": "A", "t": "E ele? É seu amigo?", "es": "¿Y él? ¿Es tu amigo?" },
+          { "q": "B", "t": "Sim, é meu amigo João.", "es": "Sí, es mi amigo João." }
+        ]
+      },
+      "nota": "Plural: «tios» puede ser «tíos» (hombres) o «tíos y tías». Lo mismo con «avós» (abuelos en general) y «primos». «Mulher» es «mujer» y también «esposa»; para decir «novia» se dice «namorada»."
+    },
+    {
+      "id": "pt-a1-u4-l3",
+      "n": 3,
+      "titulo": "Meu, minha, seu, sua",
+      "objetivo": "Decir de quién es algo con los posesivos y aclarar con dele, dela y deles.",
+      "intro": "Ya conoces «meu» y «seu». Hoy llegan «minha», «sua», «nosso» y los plurales. Truco: elige masculino o femenino según la cosa poseída: meu pai, minha mãe. Y ojo: es muy habitual decir «a minha mãe».",
+      "palabras": [
+        { "t": "minha", "es": "mi (con algo femenino)", "pron": "míña", "ej": "A minha mãe é professora.", "ejes": "Mi mamá es profesora.", "cog": false, "truco": "«nh» = ñ: míña." },
+        { "t": "meus", "es": "mis (masculino plural)", "pron": "méus", "ej": "Meus pais são do Peru.", "ejes": "Mis padres son de Perú.", "cog": false },
+        { "t": "minhas", "es": "mis (femenino plural)", "pron": "míñas", "ej": "Minhas tias são médicas.", "ejes": "Mis tías son médicas.", "cog": false },
+        { "t": "sua", "es": "tu / su (femenino)", "pron": "súa", "ej": "Sua irmã é professora?", "ejes": "¿Tu hermana es profesora?", "cog": false },
+        { "t": "seus", "es": "tus / sus (masculino plural)", "pron": "séus", "ej": "Seus pais são peruanos?", "ejes": "¿Tus padres son peruanos?", "cog": false },
+        { "t": "nosso", "es": "nuestro", "pron": "nósu", "ej": "Nosso filho tem dois anos.", "ejes": "Nuestro hijo tiene dos años.", "cog": false },
+        { "t": "nossa", "es": "nuestra", "pron": "nósa", "ej": "Nossa avó tem oitenta anos.", "ejes": "Nuestra abuela tiene ochenta años.", "cog": false },
+        { "t": "dele", "es": "de él / su (de él)", "pron": "déli", "ej": "A mãe dele é médica.", "ejes": "La mamá de él es médica.", "cog": false },
+        { "t": "dela", "es": "de ella / su (de ella)", "pron": "déla", "ej": "O pai dela é engenheiro.", "ejes": "El papá de ella es ingeniero.", "cog": false },
+        { "t": "deles", "es": "de ellos / su (de ellos)", "pron": "délis", "ej": "A família deles é do Brasil.", "ejes": "La familia de ellos es de Brasil.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Minha mãe é médica.", "es": "Mi mamá es médica.", "pron": "míña máin é médyika" },
+        { "t": "Meus pais são do Peru.", "es": "Mis padres son de Perú.", "pron": "méus páis sáun du perú" },
+        { "t": "Qual é o nome da sua mãe?", "es": "¿Cuál es el nombre de tu mamá?", "pron": "kuáu é u nómi da súa máin" },
+        { "t": "A mãe dele é professora.", "es": "La mamá de él es profesora.", "pron": "a máin déli é profesóra" },
+        { "t": "Nosso filho tem dois anos.", "es": "Nuestro hijo tiene dos años.", "pron": "nósu fílyu téin dois ánus" },
+        { "t": "Seus pais são brasileiros?", "es": "¿Tus padres son brasileños?", "pron": "séus páis sáun brasiléirus" }
+      ],
+      "dialogo": {
+        "titulo": "Hablamos de nuestros padres",
+        "lineas": [
+          { "q": "A", "t": "Ana, qual é o nome da sua mãe?", "es": "Ana, ¿cuál es el nombre de tu mamá?" },
+          { "q": "B", "t": "A minha mãe é Maria. E o seu pai?", "es": "Mi mamá es Maria. ¿Y tu papá?" },
+          { "q": "A", "t": "Meu pai é Carlos. Meus pais são do Peru.", "es": "Mi papá es Carlos. Mis padres son de Perú." },
+          { "q": "B", "t": "Os meus pais são do Brasil.", "es": "Mis padres son de Brasil." },
+          { "q": "A", "t": "E os seus avós?", "es": "¿Y tus abuelos?" }
+        ]
+      },
+      "nota": "Con «o/a» delante (a minha mãe, o meu pai) suena muy natural en Brasil; sin él (minha mãe) también está bien. Para aclarar «su» usa «dele» (de él), «dela» (de ella) y «deles» (de ellos): estas palabras no cambian."
+    },
+    {
+      "id": "pt-a1-u4-l4",
+      "n": 4,
+      "titulo": "Ter: ¿cuántos hermanos tienes?",
+      "objetivo": "Decir cuántos hermanos e hijos tienes, si estás casado y si tienes mascotas.",
+      "intro": "Ya conoces tenho, tem, temos y têm. Hoy los usas para hablar de tu familia. Truco: para preguntar cantidades siempre empieza con «Quantos...?». Si no tienes hermanos, eres «filho único».",
+      "palabras": [
+        { "t": "ter", "es": "tener", "pron": "ter", "ej": "Eu quero ter um cachorro.", "ejes": "Yo quiero tener un perro.", "cog": true },
+        { "t": "têm", "es": "tienen", "pron": "téin", "ej": "Meus pais têm três filhos.", "ejes": "Mis padres tienen tres hijos.", "cog": false, "truco": "Con acento circunflejo: têm = ellos tienen. Suena igual que «tem»." },
+        { "t": "irmãos", "es": "hermanos", "pron": "irmáus", "ej": "Eu tenho dois irmãos.", "ejes": "Yo tengo dos hermanos.", "cog": false },
+        { "t": "filhos", "es": "hijos", "pron": "fílyus", "ej": "Carlos tem três filhos.", "ejes": "Carlos tiene tres hijos.", "cog": false },
+        { "t": "só", "es": "solo / solamente", "pron": "só", "ej": "Eu só tenho uma irmã.", "ejes": "Yo solo tengo una hermana.", "cog": false },
+        { "t": "único", "es": "único", "pron": "únicu", "ej": "Eu sou filho único.", "ejes": "Yo soy hijo único.", "cog": true, "truco": "Mujer: filha única." },
+        { "t": "casado", "es": "casado", "pron": "kazádu", "ej": "Carlos é casado.", "ejes": "Carlos es casado.", "cog": true, "truco": "Mujer: casada." },
+        { "t": "solteiro", "es": "soltero", "pron": "soltéiru", "ej": "Luís é solteiro.", "ejes": "Luís es soltero.", "cog": true, "truco": "Mujer: solteira." },
+        { "t": "gato", "es": "gato", "pron": "gátu", "ej": "Eu tenho um gato.", "ejes": "Yo tengo un gato.", "cog": true },
+        { "t": "cachorro", "es": "perro", "pron": "kashórru", "ej": "Ana tem um cachorro.", "ejes": "Ana tiene un perro.", "cog": false, "truco": "Falso amigo: «cachorro» es el perro (no el cachorro); «ch» suena «sh»." }
+      ],
+      "frases": [
+        { "t": "Quantos irmãos você tem?", "es": "¿Cuántos hermanos tienes?", "pron": "kuántus irmáus vosé téin" },
+        { "t": "Eu tenho dois irmãos e uma irmã.", "es": "Yo tengo dos hermanos y una hermana.", "pron": "éu téñu dois irmáus i úma irmá" },
+        { "t": "Eu sou filho único.", "es": "Yo soy hijo único.", "pron": "éu sou fílyu únicu" },
+        { "t": "Meus pais têm três filhos.", "es": "Mis padres tienen tres hijos.", "pron": "méus páis téin tréis fílyus" },
+        { "t": "Ana tem um cachorro e um gato.", "es": "Ana tiene un perro y un gato.", "pron": "ána téin ún kashórru i ún gátu" },
+        { "t": "Eu sou casado e tenho um filho.", "es": "Yo soy casado y tengo un hijo.", "pron": "éu sou kazádu i téñu ún fílyu" }
+      ],
+      "dialogo": {
+        "titulo": "¿Tienes hermanos?",
+        "lineas": [
+          { "q": "A", "t": "Carlos, quantos irmãos você tem?", "es": "Carlos, ¿cuántos hermanos tienes?" },
+          { "q": "B", "t": "Eu tenho dois irmãos e uma irmã. E você?", "es": "Tengo dos hermanos y una hermana. ¿Y tú?" },
+          { "q": "A", "t": "Eu sou filha única.", "es": "Yo soy hija única." },
+          { "q": "B", "t": "Você tem um cachorro?", "es": "¿Tienes un perro?" },
+          { "q": "A", "t": "Não, eu só tenho um gato.", "es": "No, yo solo tengo un gato." },
+          { "q": "B", "t": "Eu também tenho um gato!", "es": "¡Yo también tengo un gato!" }
+        ]
+      },
+      "nota": "Para negar, pon «não» antes del verbo: «Eu não tenho irmãos». «Cachorro» es el animal perro en Brasil; el perro joven es «filhote». Para «hermanos y hermanas» se dice simplemente «irmãos»."
+    },
+    {
+      "id": "pt-a1-u4-l5",
+      "n": 5,
+      "titulo": "Describir a la familia",
+      "objetivo": "Describir cómo son tus familiares y repasar todo lo de la unidad.",
+      "intro": "Para describir usa «ser» + adjetivo: Meu pai é alto. Truco: los adjetivos cambian -o por -a si hablas de una mujer (alto, alta), pero «jovem» e «inteligente» no cambian.",
+      "palabras": [
+        { "t": "alto", "es": "alto", "pron": "áltu", "ej": "Meu pai é alto.", "ejes": "Mi papá es alto.", "cog": true, "truco": "Mujer: alta." },
+        { "t": "baixo", "es": "bajo (de estatura)", "pron": "báishu", "ej": "Meu avô é baixo.", "ejes": "Mi abuelo es bajo.", "cog": false, "truco": "«x» suena «sh»: báishu." },
+        { "t": "jovem", "es": "joven", "pron": "yóvein", "ej": "Minha tia é jovem.", "ejes": "Mi tía es joven.", "cog": true, "truco": "«j» suena como «y» fuerte. Sirve para hombre y mujer." },
+        { "t": "velho", "es": "viejo / mayor", "pron": "vélyu", "ej": "O cachorro de Ana é velho.", "ejes": "El perro de Ana es viejo.", "cog": false, "truco": "Para personas mayores es más amable decir «idoso/idosa»." },
+        { "t": "simpático", "es": "simpático / amable", "pron": "simpáchiku", "ej": "Meu tio é muito simpático.", "ejes": "Mi tío es muy simpático.", "cog": true },
+        { "t": "engraçado", "es": "gracioso / divertido", "pron": "engrasádu", "ej": "Meu primo é muito engraçado.", "ejes": "Mi primo es muy gracioso.", "cog": false, "truco": "Falso amigo: «engraçado» es gracioso, no «engrasado». «ç» suena «s»." },
+        { "t": "bonito", "es": "lindo / bonito", "pron": "bonítu", "ej": "O bebê é muito bonito.", "ejes": "El bebé es muy lindo.", "cog": true, "truco": "Mujer: bonita." },
+        { "t": "inteligente", "es": "inteligente", "pron": "inteliyénchi", "ej": "Minha prima é inteligente.", "ejes": "Mi prima es inteligente.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Meu pai é alto e simpático.", "es": "Mi papá es alto y simpático.", "pron": "méu pái é áltu i simpáchiku" },
+        { "t": "Minha mãe é baixa e muito bonita.", "es": "Mi mamá es baja y muy bonita.", "pron": "míña máin é báisha i múintu boníta" },
+        { "t": "Meu primo é muito engraçado.", "es": "Mi primo es muy gracioso.", "pron": "méu prímu é múintu engrasádu" },
+        { "t": "Ana é jovem e inteligente.", "es": "Ana es joven e inteligente.", "pron": "ána é yóvein i inteliyénchi" },
+        { "t": "Como é o seu irmão?", "es": "¿Cómo es tu hermano?", "pron": "kómu é u séu irmáun" },
+        { "t": "Meus avós são velhos, mas muito simpáticos.", "es": "Mis abuelos son mayores, pero muy simpáticos.", "pron": "méus avós sáun vélyus, mas múintu simpáchikus" }
+      ],
+      "dialogo": {
+        "titulo": "Hablamos de la familia",
+        "lineas": [
+          { "q": "A", "t": "Como é a sua irmã, Paula?", "es": "¿Cómo es tu hermana, Paula?" },
+          { "q": "B", "t": "Ela é alta e muito simpática.", "es": "Ella es alta y muy simpática." },
+          { "q": "A", "t": "Quantos anos ela tem?", "es": "¿Cuántos años tiene?" },
+          { "q": "B", "t": "Ela tem vinte anos. E o seu irmão?", "es": "Tiene veinte años. ¿Y tu hermano?" },
+          { "q": "A", "t": "Ele é baixo e muito engraçado.", "es": "Él es bajo y muy gracioso." },
+          { "q": "B", "t": "Meu irmão também é muito engraçado!", "es": "¡Mi hermano también es muy gracioso!" }
+        ]
+      },
+      "nota": "Con adjetivos recuerda: alto/alta, baixo/baixa, bonito/bonita; «jovem» e «inteligente» no cambian. «Velho» para una persona puede sonar duro: es más amable «idoso». «Muito» antes del adjetivo es «muy»: muito simpático."
+    }
+  ]
+}

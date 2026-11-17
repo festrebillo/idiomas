@@ -1,0 +1,226 @@
+{
+  "id": "en-a1-u7",
+  "idioma": "en",
+  "nivel": "A1",
+  "n": 7,
+  "titulo": "La ciudad y direcciones",
+  "resumen": "Aprenderás los lugares de la ciudad, los medios de transporte y a pedir y dar direcciones usando el imperativo (turn left, go straight) y preposiciones de lugar.",
+  "puedo": [
+    "Nombrar lugares de la ciudad como bank, pharmacy y station.",
+    "Decir cómo me muevo: by bus, by train, by taxi.",
+    "Pedir direcciones con Excuse me, how do I get to...?",
+    "Dar direcciones con turn left, turn right y go straight.",
+    "Decir dónde queda algo: near, far, next to, across from, between.",
+    "Entender un diálogo completo para llegar a un lugar."
+  ],
+  "gramatica": {
+    "titulo": "El imperativo y las preposiciones de lugar",
+    "texto": "Para dar una indicación en inglés se usa el imperativo: el verbo solo, sin I ni you. Turn left (gira a la izquierda), Go straight (sigue derecho). Para decir «no», pon Don't delante: Don't turn right.\nPara ubicar lugares usa preposiciones: near (cerca de), next to (al lado de), across from (frente a), between (entre). Truco: near no lleva of: near the bank, no «near of».\nPara sonar amable, termina con please o thank you.",
+    "tabla": [
+      ["Turn left", "gira a la izquierda", "tern left"],
+      ["Go straight", "sigue derecho", "góu streit"],
+      ["Don't turn right", "no gires a la derecha", "dount tern rait"],
+      ["next to the bank", "al lado del banco", "next tu da bank"],
+      ["across from the park", "frente al parque", "acrós fram da park"]
+    ],
+    "errores": [
+      "No digas «You turn left» al dar una indicación: usa solo el verbo, Turn left.",
+      "No digas «near of the bank»: en inglés es near the bank, sin of.",
+      "Para una esquina se dice on the corner, no «in the corner»."
+    ]
+  },
+  "practica": [
+    "Mira un mapa de tu ciudad y di en voz alta cómo ir de tu casa a 3 lugares, con turn left, turn right y go straight (8 minutos).",
+    "Escribe 5 frases con near, next to y across from sobre lugares de tu barrio (6 minutos).",
+    "Lee en voz alta 5 veces el diálogo de la lección 3, haciendo los dos papeles (5 minutos).",
+    "Cuando salgas a la calle, nombra en inglés todos los lugares y transportes que veas (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-a1-u7-l1",
+      "n": 1,
+      "titulo": "Lugares de la ciudad",
+      "objetivo": "Nombrar los lugares más comunes de una ciudad.",
+      "intro": "Muchos lugares se parecen al español: bank, hospital, pharmacy, restaurant. Truco: en inglés la «r» final suena suave, y la «a» de park y bank se dice como «a» normal.",
+      "palabras": [
+        { "t": "bank", "es": "banco", "pron": "bank", "ej": "The bank is on this street.", "ejes": "El banco está en esta calle.", "cog": true },
+        { "t": "pharmacy", "es": "farmacia", "pron": "fármasi", "ej": "I'm at the pharmacy.", "ejes": "Estoy en la farmacia.", "cog": true, "truco": "La «ph» suena como «f»: fármasi." },
+        { "t": "supermarket", "es": "supermercado", "pron": "súper-márket", "ej": "The supermarket is big.", "ejes": "El supermercado es grande.", "cog": true },
+        { "t": "hospital", "es": "hospital", "pron": "jóspital", "ej": "My mother works at the hospital.", "ejes": "Mi mamá trabaja en el hospital.", "cog": true, "truco": "La «h» se pronuncia con una «j» suave: jóspital." },
+        { "t": "park", "es": "parque", "pron": "park", "ej": "We walk in the park.", "ejes": "Caminamos en el parque.", "cog": true },
+        { "t": "school", "es": "escuela / colegio", "pron": "scul", "ej": "The school is near my house.", "ejes": "La escuela queda cerca de mi casa.", "cog": false, "truco": "school suena «scul»: la «ch» es una «c»." },
+        { "t": "restaurant", "es": "restaurante", "pron": "réstorant", "ej": "The restaurant is very good.", "ejes": "El restaurante es muy bueno.", "cog": true },
+        { "t": "station", "es": "estación", "pron": "stéishon", "ej": "The station is open.", "ejes": "La estación está abierta.", "cog": true, "truco": "La terminación -tion suena «shon»." },
+        { "t": "street", "es": "calle", "pron": "strit", "ej": "My street is long.", "ejes": "Mi calle es larga.", "cog": false },
+        { "t": "post office", "es": "oficina de correos", "pron": "póust ófis", "ej": "The post office is closed.", "ejes": "La oficina de correos está cerrada.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Where is the bank?", "es": "¿Dónde está el banco?", "pron": "juér is da bank" },
+        { "t": "The pharmacy is open.", "es": "La farmacia está abierta.", "pron": "da fármasi is óupen" },
+        { "t": "I like the park.", "es": "Me gusta el parque.", "pron": "ai laik da park" },
+        { "t": "The hospital is big.", "es": "El hospital es grande.", "pron": "da jóspital is big" },
+        { "t": "The restaurant is on Main Street.", "es": "El restaurante está en la calle Main.", "pron": "da réstorant is on mein strit" }
+      ],
+      "dialogo": {
+        "titulo": "Un barrio nuevo",
+        "lineas": [
+          { "q": "A", "t": "Hi, Carlos! Is this your street?", "es": "¡Hola, Carlos! ¿Esta es tu calle?" },
+          { "q": "B", "t": "Yes. The school is here, and the park is there.", "es": "Sí. La escuela está aquí, y el parque está allá." },
+          { "q": "A", "t": "Is there a supermarket?", "es": "¿Hay un supermercado?" },
+          { "q": "B", "t": "Yes, and a pharmacy and a restaurant.", "es": "Sí, y una farmacia y un restaurante." },
+          { "q": "A", "t": "I like your street!", "es": "¡Me gusta tu calle!" }
+        ]
+      },
+      "nota": "En EE. UU. se dice drugstore o pharmacy para la farmacia, y la oficina de correos es the post office. Main Street (calle principal) es un nombre de calle muy común en pueblos y ciudades."
+    },
+    {
+      "id": "en-a1-u7-l2",
+      "n": 2,
+      "titulo": "Transporte",
+      "objetivo": "Nombrar medios de transporte y decir cómo viajas.",
+      "intro": "Para decir cómo te mueves usa by + el transporte: by bus, by train, by car. Truco: con «a pie» es distinto, se dice on foot o con el verbo walk.",
+      "palabras": [
+        { "t": "bus", "es": "autobús / bus", "pron": "bas", "ej": "I take the bus to work.", "ejes": "Tomo el bus al trabajo.", "cog": false, "truco": "bus suena «bas», con «a» corta." },
+        { "t": "taxi", "es": "taxi", "pron": "táksi", "ej": "A taxi is here.", "ejes": "Ya llegó un taxi.", "cog": true },
+        { "t": "train", "es": "tren", "pron": "trein", "ej": "The train is late.", "ejes": "El tren está atrasado.", "cog": true },
+        { "t": "subway", "es": "metro", "pron": "sábuei", "ej": "The subway is fast.", "ejes": "El metro es rápido.", "cog": false, "truco": "En EE. UU. el metro es the subway; en Inglaterra, the underground." },
+        { "t": "bike", "es": "bicicleta", "pron": "baik", "ej": "I like my bike.", "ejes": "Me gusta mi bicicleta.", "cog": false },
+        { "t": "car", "es": "carro / auto", "pron": "car", "ej": "My car is blue.", "ejes": "Mi carro es azul.", "cog": false },
+        { "t": "plane", "es": "avión", "pron": "plein", "ej": "The plane is big.", "ejes": "El avión es grande.", "cog": false },
+        { "t": "ticket", "es": "boleto / pasaje", "pron": "tíket", "ej": "I have a ticket.", "ejes": "Tengo un boleto.", "cog": false },
+        { "t": "by", "es": "en / por (medio de)", "pron": "bai", "ej": "I go to school by bus.", "ejes": "Voy a la escuela en bus.", "cog": false, "truco": "by + transporte, sin the: by bus, by train." },
+        { "t": "walk", "es": "caminar", "pron": "uok", "ej": "I walk to the park.", "ejes": "Camino al parque.", "cog": false, "truco": "La «l» no suena: «uok»." }
+      ],
+      "frases": [
+        { "t": "I go to work by bus.", "es": "Voy al trabajo en bus.", "pron": "ai góu tu uérk bai bas" },
+        { "t": "She goes by train.", "es": "Ella va en tren.", "pron": "shi góus bai trein" },
+        { "t": "We go by taxi.", "es": "Vamos en taxi.", "pron": "uí góu bai táksi" },
+        { "t": "I walk to school.", "es": "Camino a la escuela.", "pron": "ai uok tu scul" },
+        { "t": "One ticket, please.", "es": "Un boleto, por favor.", "pron": "uan tíket, plis" },
+        { "t": "The plane is fast.", "es": "El avión es rápido.", "pron": "da plein is fast" }
+      ],
+      "dialogo": {
+        "titulo": "¿Cómo vas al trabajo?",
+        "lineas": [
+          { "q": "A", "t": "How do you go to work, Lucia?", "es": "¿Cómo vas al trabajo, Lucia?" },
+          { "q": "B", "t": "I go by subway. And you?", "es": "Voy en metro. ¿Y tú?" },
+          { "q": "A", "t": "I go by bike. It is fast.", "es": "Voy en bicicleta. Es rápido." },
+          { "q": "B", "t": "My brother goes by car.", "es": "Mi hermano va en carro." },
+          { "q": "A", "t": "I like the bus, but the train is better.", "es": "Me gusta el bus, pero el tren es mejor." }
+        ]
+      },
+      "nota": "Con by no se pone the: by bus, by train, by plane. Pero si hablas de un bus en concreto, sí: I take the bus (tomo el bus)."
+    },
+    {
+      "id": "en-a1-u7-l3",
+      "n": 3,
+      "titulo": "Pedir y dar direcciones",
+      "objetivo": "Pedir direcciones con cortesía y darlas con turn y go straight.",
+      "intro": "Empieza siempre con Excuse me para llamar la atención con amabilidad. Para indicar, usa el verbo solo: Turn left, Go straight. Truco: right significa «derecha», pero también «correcto».",
+      "palabras": [
+        { "t": "excuse me", "es": "disculpe / con permiso", "pron": "ikskiús mi", "ej": "Excuse me, where is the bank?", "ejes": "Disculpe, ¿dónde está el banco?", "cog": false },
+        { "t": "how do I get to", "es": "cómo llego a", "pron": "jau du ai guet tu", "ej": "How do I get to the station?", "ejes": "¿Cómo llego a la estación?", "cog": false },
+        { "t": "left", "es": "izquierda", "pron": "left", "ej": "Turn left at the corner.", "ejes": "Gira a la izquierda en la esquina.", "cog": false },
+        { "t": "right", "es": "derecha", "pron": "rait", "ej": "Turn right here.", "ejes": "Gira a la derecha aquí.", "cog": false, "truco": "right se pronuncia «rait»: la «gh» no suena." },
+        { "t": "straight", "es": "derecho / recto", "pron": "streit", "ej": "Go straight for two blocks.", "ejes": "Sigue derecho por dos cuadras.", "cog": false },
+        { "t": "turn", "es": "girar / doblar", "pron": "tern", "ej": "Turn here, please.", "ejes": "Gira aquí, por favor.", "cog": false },
+        { "t": "block", "es": "cuadra", "pron": "blak", "ej": "It's one block from here.", "ejes": "Queda a una cuadra de aquí.", "cog": false },
+        { "t": "corner", "es": "esquina", "pron": "córner", "ej": "The bank is on the corner.", "ejes": "El banco está en la esquina.", "cog": false },
+        { "t": "go", "es": "ir / seguir", "pron": "góu", "ej": "Go to the corner.", "ejes": "Ve hasta la esquina.", "cog": false },
+        { "t": "then", "es": "luego / después", "pron": "den", "ej": "Go straight, then turn left.", "ejes": "Sigue derecho, luego gira a la izquierda.", "cog": false, "truco": "En then la «th» es una «d» suave con la lengua entre los dientes." }
+      ],
+      "frases": [
+        { "t": "Excuse me, how do I get to the park?", "es": "Disculpe, ¿cómo llego al parque?", "pron": "ikskiús mi, jau du ai guet tu da park" },
+        { "t": "Go straight.", "es": "Siga derecho.", "pron": "góu streit" },
+        { "t": "Turn left at the corner.", "es": "Gire a la izquierda en la esquina.", "pron": "tern left at da córner" },
+        { "t": "Turn right, then go straight.", "es": "Gire a la derecha y luego siga derecho.", "pron": "tern rait, den góu streit" },
+        { "t": "It's two blocks from here.", "es": "Queda a dos cuadras de aquí.", "pron": "its tu blaks fram jir" }
+      ],
+      "dialogo": {
+        "titulo": "¿Cómo llego a la farmacia?",
+        "lineas": [
+          { "q": "A", "t": "Excuse me, how do I get to the pharmacy?", "es": "Disculpe, ¿cómo llego a la farmacia?" },
+          { "q": "B", "t": "Go straight for two blocks.", "es": "Siga derecho por dos cuadras." },
+          { "q": "A", "t": "Two blocks. And then?", "es": "Dos cuadras. ¿Y luego?" },
+          { "q": "B", "t": "Turn left at the corner.", "es": "Gire a la izquierda en la esquina." },
+          { "q": "A", "t": "Thank you very much!", "es": "¡Muchas gracias!" },
+          { "q": "B", "t": "You're welcome.", "es": "De nada." }
+        ]
+      },
+      "nota": "Para pedir ayuda siempre empieza con Excuse me. Si no entiendes, puedes decir Sorry, can you repeat that, please? (Perdón, ¿puede repetirlo, por favor?)."
+    },
+    {
+      "id": "en-a1-u7-l4",
+      "n": 4,
+      "titulo": "¿Dónde queda?",
+      "objetivo": "Decir dónde queda un lugar usando near, next to, across from y between.",
+      "intro": "Para decir la ubicación usa preposiciones: next to (al lado de), across from (frente a), between (entre). Truco: se usan igual que en español, pero fíjate en que near no lleva of.",
+      "palabras": [
+        { "t": "near", "es": "cerca de", "pron": "nir", "ej": "The bank is near the park.", "ejes": "El banco queda cerca del parque.", "cog": false },
+        { "t": "far", "es": "lejos", "pron": "far", "ej": "The station is far.", "ejes": "La estación queda lejos.", "cog": false },
+        { "t": "next to", "es": "al lado de", "pron": "next tu", "ej": "The bank is next to the school.", "ejes": "El banco está al lado de la escuela.", "cog": false },
+        { "t": "across from", "es": "frente a", "pron": "acrós fram", "ej": "The park is across from the hospital.", "ejes": "El parque está frente al hospital.", "cog": false },
+        { "t": "between", "es": "entre", "pron": "bituín", "ej": "The bank is between the school and the park.", "ejes": "El banco está entre la escuela y el parque.", "cog": false },
+        { "t": "in front of", "es": "delante de", "pron": "in frant of", "ej": "The taxi is in front of the hotel.", "ejes": "El taxi está delante del hotel.", "cog": false },
+        { "t": "behind", "es": "detrás de", "pron": "bijáind", "ej": "The park is behind the school.", "ejes": "El parque está detrás de la escuela.", "cog": false },
+        { "t": "where", "es": "dónde", "pron": "juér", "ej": "Where is the pharmacy?", "ejes": "¿Dónde está la farmacia?", "cog": false },
+        { "t": "on the corner", "es": "en la esquina", "pron": "on da córner", "ej": "The restaurant is on the corner.", "ejes": "El restaurante está en la esquina.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The bank is near the station.", "es": "El banco queda cerca de la estación.", "pron": "da bank is nir da stéishon" },
+        { "t": "The park is not far.", "es": "El parque no queda lejos.", "pron": "da park is nat far" },
+        { "t": "The pharmacy is next to the supermarket.", "es": "La farmacia está al lado del supermercado.", "pron": "da fármasi is next tu da súper-márket" },
+        { "t": "The school is across from the park.", "es": "La escuela está frente al parque.", "pron": "da scul is acrós fram da park" },
+        { "t": "The restaurant is between the bank and the hotel.", "es": "El restaurante está entre el banco y el hotel.", "pron": "da réstorant is bituín da bank an da joutél" }
+      ],
+      "dialogo": {
+        "titulo": "¿Dónde queda el hospital?",
+        "lineas": [
+          { "q": "A", "t": "Where is the hospital?", "es": "¿Dónde queda el hospital?" },
+          { "q": "B", "t": "It's near the station.", "es": "Queda cerca de la estación." },
+          { "q": "A", "t": "Is it far?", "es": "¿Queda lejos?" },
+          { "q": "B", "t": "No, it's across from the park.", "es": "No, queda frente al parque." },
+          { "q": "A", "t": "Thank you!", "es": "¡Gracias!" }
+        ]
+      },
+      "nota": "Next to y near no significan lo mismo: next to es pegado (al lado), near es cerca (a unos pasos). Across from es frente a frente, al otro lado de la calle."
+    },
+    {
+      "id": "en-a1-u7-l5",
+      "n": 5,
+      "titulo": "Moverse por la ciudad",
+      "objetivo": "Combinar lugares, transporte y direcciones en situaciones reales y repasar la unidad.",
+      "intro": "Hoy juntas todo: preguntas, indicas y usas el transporte. Truco: si te pierdes, di I'm lost y enseña un map; casi siempre alguien te ayudará.",
+      "palabras": [
+        { "t": "map", "es": "mapa", "pron": "map", "ej": "I have a map.", "ejes": "Tengo un mapa.", "cog": true },
+        { "t": "lost", "es": "perdido/a", "pron": "lost", "ej": "I'm lost.", "ejes": "Estoy perdido.", "cog": false, "truco": "I'm lost es la frase clave cuando no sabes dónde estás." },
+        { "t": "bus stop", "es": "parada de bus", "pron": "bas stap", "ej": "The bus stop is on the corner.", "ejes": "La parada de bus está en la esquina.", "cog": false },
+        { "t": "traffic light", "es": "semáforo", "pron": "tráfik lait", "ej": "Turn left at the traffic light.", "ejes": "Gira a la izquierda en el semáforo.", "cog": false },
+        { "t": "minute", "es": "minuto", "pron": "mínit", "ej": "It's one minute by bus.", "ejes": "Es un minuto en bus.", "cog": true },
+        { "t": "take", "es": "tomar (un transporte)", "pron": "teik", "ej": "Take the train to the station.", "ejes": "Toma el tren a la estación.", "cog": false },
+        { "t": "here", "es": "aquí", "pron": "jir", "ej": "I'm here.", "ejes": "Estoy aquí.", "cog": false },
+        { "t": "there", "es": "allá / allí", "pron": "der", "ej": "The bank is there.", "ejes": "El banco está allá.", "cog": false },
+        { "t": "from here", "es": "desde aquí", "pron": "fram jir", "ej": "It's ten minutes from here.", "ejes": "Queda a diez minutos de aquí.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Excuse me, I'm lost.", "es": "Disculpe, estoy perdido.", "pron": "ikskiús mi, aim lost" },
+        { "t": "Take the bus to the station.", "es": "Toma el bus a la estación.", "pron": "teik da bas tu da stéishon" },
+        { "t": "Go straight, then turn right at the traffic light.", "es": "Sigue derecho y luego gira a la derecha en el semáforo.", "pron": "góu streit, den tern rait at da tráfik lait" },
+        { "t": "Is it far from here?", "es": "¿Queda lejos de aquí?", "pron": "is it far fram jir" },
+        { "t": "It's five minutes on foot.", "es": "Son cinco minutos a pie.", "pron": "its faiv mínits on fut" }
+      ],
+      "dialogo": {
+        "titulo": "Una turista perdida",
+        "lineas": [
+          { "q": "A", "t": "Excuse me! I'm lost. How do I get to the museum?", "es": "¡Disculpe! Estoy perdida. ¿Cómo llego al museo?" },
+          { "q": "B", "t": "It's not far. Take the bus here.", "es": "No queda lejos. Tome el bus aquí." },
+          { "q": "A", "t": "Where is the bus stop?", "es": "¿Dónde está la parada?" },
+          { "q": "B", "t": "It's on the corner, next to the pharmacy.", "es": "Está en la esquina, al lado de la farmacia." },
+          { "q": "A", "t": "Thank you! Is it ten minutes?", "es": "¡Gracias! ¿Son diez minutos?" },
+          { "q": "B", "t": "Yes, ten minutes. The museum is across from the park.", "es": "Diez minutos. El museo queda frente al parque." }
+        ]
+      },
+      "nota": "Para decir «a pie» se dice on foot o simplemente I walk. Los estadounidenses miden distancias en cuadras (blocks) y en minutos más que en metros."
+    }
+  ]
+}

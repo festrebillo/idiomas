@@ -1,0 +1,231 @@
+{
+  "id": "it-a1-u10",
+  "idioma": "it",
+  "nivel": "A1",
+  "n": 10,
+  "titulo": "Ahora y planes",
+  "resumen": "Aprenderás a hablar del clima, de lo que estás haciendo ahora y de tus planes y vacaciones, y repasarás todo el nivel A1.",
+  "puedo": [
+    "Describir el clima: fa caldo, fa freddo, piove.",
+    "Decir lo que estoy haciendo ahora con «sto + gerundio».",
+    "Hablar de planes con «domani vado a...» y «vado a visitare...».",
+    "Hablar del fin de semana y de las vacaciones: spiaggia, albergo, valigia.",
+    "Despedirme y desear cosas con «buon viaggio», «buona giornata» y «tanti auguri»."
+  ],
+  "gramatica": {
+    "titulo": "Stare + gerundio y planes con andare",
+    "texto": "Para decir lo que haces ahora mismo usa stare + gerundio, como «estar + -ando/-iendo». Sto studiando = estoy estudiando. Stare: sto, stai, sta, stiamo, state, stanno.\nEl gerundio: verbos en -are → -ando (studiare → studiando); verbos en -ere / -ire → -endo (leggere → leggendo, dormire → dormendo). Irregulares: fare → facendo, bere → bevendo.\nPara planes se usa el presente con una palabra de tiempo (domani vado a Roma = mañana voy a Roma) o «andare a + infinitivo»: vado a visitare Roma = voy a visitar Roma. Andare: vado, vai, va, andiamo, andate, vanno.\nTruco: ¡funciona igual que en español! Solo cambian las terminaciones.",
+    "tabla": [
+      ["sto studiando", "estoy estudiando", "sto studiándo"],
+      ["stai mangiando", "estás comiendo", "stái manyándo"],
+      ["sta leggendo", "está leyendo", "sta leyéndo"],
+      ["stiamo lavorando", "estamos trabajando", "stiámo lavorándo"],
+      ["domani vado a Roma", "mañana voy a Roma", "dománi vádo a róma"],
+      ["vado a visitare Roma", "voy a visitar Roma", "vádo a visitáre róma"]
+    ],
+    "errores": [
+      "No digas «sto studio» para algo que haces ahora: es «sto studiando» (stare + gerundio).",
+      "Para el futuro no uses «sto andando» (estoy yendo): se dice «domani vado» o «vado a visitare».",
+      "En verbos -ere / -ire el gerundio es «-endo», no «-iendo»: leggendo, dormendo."
+    ]
+  },
+  "practica": [
+    "Cada mañana, mira por la ventana y di en voz alta el tiempo: «Oggi fa caldo / piove / è nuvoloso» (1 minuto, durante una semana).",
+    "Narra en voz alta lo que haces en este momento con «Sto + gerundio»: «Sto studiando, sto bevendo un tè...» (3 minutos).",
+    "Escribe cinco planes para esta semana con «Domani vado a...» y «Vado a visitare...» (5 minutos).",
+    "Repaso final: grábate 2 minutos presentándote, hablando de tu familia, tus gustos y tus planes del fin de semana (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-a1-u10-l1",
+      "n": 1,
+      "titulo": "El clima",
+      "objetivo": "Describir el clima de hoy y preguntar cómo está.",
+      "intro": "Para preguntar por el clima se dice «Che tempo fa?» (¿qué tiempo hace?). Truco: «fa» viene de «fare» (hacer): fa caldo, fa freddo, como «hace calor, hace frío». Para hoy se usa «oggi».",
+      "palabras": [
+        { "t": "il tempo", "es": "el tiempo / el clima", "pron": "il témpo", "ej": "Il tempo è bello.", "ejes": "El tiempo es bonito.", "cog": true, "truco": "«Tempo» sirve para «clima» y también para «tiempo» de reloj." },
+        { "t": "il sole", "es": "el sol", "pron": "il sóle", "ej": "Il sole è caldo.", "ejes": "El sol es caliente.", "cog": true },
+        { "t": "soleggiato", "es": "soleado", "pron": "soleyáto", "ej": "Oggi è soleggiato.", "ejes": "Hoy está soleado.", "cog": true, "truco": "Sole + -ggiato: «gg» suena «y»." },
+        { "t": "nuvoloso", "es": "nublado", "pron": "nuvolóso", "ej": "A Lima è nuvoloso.", "ejes": "En Lima está nublado.", "cog": true, "truco": "De «nuvola» (nube)." },
+        { "t": "piovoso", "es": "lluvioso", "pron": "piovóso", "ej": "A Milano è piovoso.", "ejes": "En Milán está lluvioso.", "cog": true },
+        { "t": "ventoso", "es": "ventoso", "pron": "ventóso", "ej": "A Roma è ventoso oggi.", "ejes": "En Roma hoy hay viento.", "cog": true },
+        { "t": "caldo", "es": "calor / caliente", "pron": "cáldo", "ej": "Oggi fa caldo.", "ejes": "Hoy hace calor.", "cog": true, "truco": "Se dice «fa caldo» (hace calor), no «è caldo» para el clima." },
+        { "t": "freddo", "es": "frío", "pron": "frédo", "ej": "A Milano fa freddo.", "ejes": "En Milán hace frío.", "cog": true, "truco": "Se dice «fa freddo» (hace frío)." },
+        { "t": "piove", "es": "llueve", "pron": "pióve", "ej": "Oggi piove.", "ejes": "Hoy llueve.", "cog": true, "truco": "Parece «llueve»: pióve." },
+        { "t": "nevica", "es": "nieva", "pron": "névica", "ej": "A Milano nevica.", "ejes": "En Milán nieva.", "cog": true, "truco": "Parece «nieva»: névica." }
+      ],
+      "frases": [
+        { "t": "Che tempo fa?", "es": "¿Qué tiempo hace?", "pron": "que témpo fa" },
+        { "t": "Fa caldo.", "es": "Hace calor.", "pron": "fa cáldo" },
+        { "t": "Fa freddo.", "es": "Hace frío.", "pron": "fa frédo" },
+        { "t": "Oggi piove.", "es": "Hoy llueve.", "pron": "ódyi pióve" },
+        { "t": "Oggi è soleggiato.", "es": "Hoy está soleado.", "pron": "ódyi è soleyáto" },
+        { "t": "A Lima è nuvoloso.", "es": "En Lima está nublado.", "pron": "a líma è nuvolóso" }
+      ],
+      "dialogo": {
+        "titulo": "El tiempo en dos ciudades",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Marco! Che tempo fa a Milano?", "es": "¡Hola, Marco! ¿Qué tiempo hace en Milán?" },
+          { "q": "B", "t": "Oggi piove e fa freddo. E a Roma?", "es": "Hoy llueve y hace frío. ¿Y en Roma?" },
+          { "q": "A", "t": "A Roma è soleggiato e fa caldo.", "es": "En Roma está soleado y hace calor." },
+          { "q": "B", "t": "Che bello!", "es": "¡Qué bien!" },
+          { "q": "A", "t": "A presto, Marco!", "es": "¡Hasta pronto, Marco!" }
+        ]
+      },
+      "nota": "Con el clima se usa «fare»: fa caldo, fa freddo, fa molto caldo. Para llover y nevar hay verbos propios: piove, nevica. Cuando describes una ciudad, usa el adjetivo con «è»: «A Lima è nuvoloso». «Oggi» (hoy) se pronuncia «ódyi»."
+    },
+    {
+      "id": "it-a1-u10-l2",
+      "n": 2,
+      "titulo": "¿Qué estás haciendo?",
+      "objetivo": "Decir y preguntar qué estás haciendo ahora mismo.",
+      "intro": "Para decir lo que haces ahora, usa «stare» (estar) + el verbo terminado en -ando o -endo: «sto studiando» = estoy estudiando. Truco: es igual que en español: estar + gerundio.",
+      "palabras": [
+        { "t": "sto", "es": "estoy", "pron": "sto", "ej": "Sto lavorando oggi.", "ejes": "Hoy estoy trabajando.", "cog": false, "truco": "De «stare»: sto, stai, sta, stiamo, state, stanno." },
+        { "t": "stai", "es": "estás", "pron": "stái", "ej": "Stai lavorando?", "ejes": "¿Estás trabajando?", "cog": false },
+        { "t": "sta", "es": "está", "pron": "sta", "ej": "Luca sta lavorando.", "ejes": "Luca está trabajando.", "cog": false, "truco": "Para él y ella; también para usted." },
+        { "t": "stiamo", "es": "estamos", "pron": "stiámo", "ej": "Stiamo mangiando una pizza.", "ejes": "Estamos comiendo una pizza.", "cog": false },
+        { "t": "studiando", "es": "estudiando", "pron": "studiándo", "ej": "Sto studiando italiano.", "ejes": "Estoy estudiando italiano.", "cog": true, "truco": "Studiare → studiando (-are → -ando)." },
+        { "t": "mangiando", "es": "comiendo", "pron": "manyándo", "ej": "Sta mangiando un panino.", "ejes": "Está comiendo un sándwich.", "cog": false, "truco": "«gia» suena «ya»: manyándo." },
+        { "t": "lavorando", "es": "trabajando", "pron": "lavorándo", "ej": "Sto lavorando.", "ejes": "Estoy trabajando.", "cog": false, "truco": "De «lavorare» (trabajar); parece «laborando»." },
+        { "t": "leggendo", "es": "leyendo", "pron": "leyéndo", "ej": "Giulia sta leggendo un libro.", "ejes": "Giulia está leyendo un libro.", "cog": true, "truco": "Leggere → leggendo (-ere → -endo)." },
+        { "t": "bevendo", "es": "bebiendo", "pron": "bevéndo", "ej": "Sto bevendo un tè.", "ejes": "Estoy bebiendo un té.", "cog": true, "truco": "Irregular: bere → bevendo." },
+        { "t": "facendo", "es": "haciendo", "pron": "fachéndo", "ej": "Che cosa sta facendo Luca?", "ejes": "¿Qué está haciendo Luca?", "cog": true, "truco": "Irregular: fare → facendo." }
+      ],
+      "frases": [
+        { "t": "Che cosa stai facendo?", "es": "¿Qué estás haciendo?", "pron": "que cósa stái fachéndo" },
+        { "t": "Sto studiando italiano.", "es": "Estoy estudiando italiano.", "pron": "sto studiándo italiáno" },
+        { "t": "Luca sta lavorando.", "es": "Luca está trabajando.", "pron": "lúca sta lavorándo" },
+        { "t": "Stiamo mangiando una pizza.", "es": "Estamos comiendo una pizza.", "pron": "stiámo manyándo úna pítsa" },
+        { "t": "Giulia sta leggendo un libro.", "es": "Giulia está leyendo un libro.", "pron": "yúlia sta leyéndo un líbro" },
+        { "t": "Sto bevendo un caffè.", "es": "Estoy tomando un café.", "pron": "sto bevéndo un cafè" }
+      ],
+      "dialogo": {
+        "titulo": "Una llamada",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Anna! Che cosa stai facendo?", "es": "¡Hola, Anna! ¿Qué estás haciendo?" },
+          { "q": "B", "t": "Sto studiando italiano. E tu?", "es": "Estoy estudiando italiano. ¿Y tú?" },
+          { "q": "A", "t": "Sto guardando un film.", "es": "Estoy viendo una película." },
+          { "q": "B", "t": "Che film?", "es": "¿Qué película?" },
+          { "q": "A", "t": "Un film italiano!", "es": "¡Una película italiana!" }
+        ]
+      },
+      "nota": "El gerundio italiano: -are → -ando (studiare → studiando) y -ere / -ire → -endo (leggere → leggendo, dormire → dormendo). Irregulares comunes: fare → facendo, bere → bevendo. Esta forma se usa solo para lo que pasa ahora mismo; para hábitos usa el presente normal (studio ogni giorno)."
+    },
+    {
+      "id": "it-a1-u10-l3",
+      "n": 3,
+      "titulo": "Planes",
+      "objetivo": "Hablar de planes cercanos con «domani vado a...» y «vado a + infinitivo».",
+      "intro": "En italiano se habla del futuro cercano con el presente: «domani vado a Roma» = mañana voy a Roma. Truco: «andare a + infinitivo» es «ir a + infinitivo» igual que en español: «vado a visitare» = voy a visitar. Con ciudades se dice «a Roma»; con países, «in Italia».",
+      "palabras": [
+        { "t": "domani", "es": "mañana", "pron": "dománi", "ej": "Domani vado a Roma.", "ejes": "Mañana voy a Roma.", "cog": false, "truco": "No es «demani»: es dománi." },
+        { "t": "dopodomani", "es": "pasado mañana", "pron": "dopodománi", "ej": "Dopodomani vado a Milano.", "ejes": "Pasado mañana voy a Milán.", "cog": false, "truco": "Dopo + domani: «después de mañana»." },
+        { "t": "la prossima settimana", "es": "la próxima semana", "pron": "la prósima setimána", "ej": "La prossima settimana vado a Lima.", "ejes": "La próxima semana voy a Lima.", "cog": true },
+        { "t": "questo weekend", "es": "este fin de semana", "pron": "cuésto uíkend", "ej": "Questo weekend vado al parco.", "ejes": "Este fin de semana voy al parque.", "cog": true, "truco": "En italiano se usa también la palabra inglesa «weekend»." },
+        { "t": "vado", "es": "voy", "pron": "vádo", "ej": "Vado a Roma.", "ejes": "Voy a Roma.", "cog": false, "truco": "De «andare»: vado, vai, va, andiamo, andate, vanno." },
+        { "t": "vai", "es": "vas", "pron": "vai", "ej": "Dove vai domani?", "ejes": "¿Adónde vas mañana?", "cog": false },
+        { "t": "va", "es": "va", "pron": "va", "ej": "Luca va a Milano.", "ejes": "Luca va a Milán.", "cog": false },
+        { "t": "visitare", "es": "visitar", "pron": "visitáre", "ej": "Vado a visitare Roma.", "ejes": "Voy a visitar Roma.", "cog": true },
+        { "t": "incontrare", "es": "encontrarse con", "pron": "incontráre", "ej": "Vado a incontrare Marco.", "ejes": "Voy a encontrarme con Marco.", "cog": true, "truco": "Parece «encontrar»; también es «conocer a alguien»." },
+        { "t": "il programma", "es": "el plan / el programa", "pron": "il prográma", "ej": "Il programma di domani è bello.", "ejes": "El plan de mañana es bonito.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Domani vado a Roma.", "es": "Mañana voy a Roma.", "pron": "dománi vádo a róma" },
+        { "t": "Dove vai domani?", "es": "¿Adónde vas mañana?", "pron": "dóve vái dománi" },
+        { "t": "Questo weekend vado al parco.", "es": "Este fin de semana voy al parque.", "pron": "cuésto uíkend vádo al párco" },
+        { "t": "Domani vado a visitare Lima.", "es": "Mañana voy a visitar Lima.", "pron": "dománi vádo a visitáre líma" },
+        { "t": "Vado a incontrare Marco.", "es": "Voy a encontrarme con Marco.", "pron": "vádo a incontráre márco" },
+        { "t": "La prossima settimana vado a Milano.", "es": "La próxima semana voy a Milán.", "pron": "la prósima setimána vádo a miláno" }
+      ],
+      "dialogo": {
+        "titulo": "¿Qué plan tienes?",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Sara! Che programma hai per domani?", "es": "¡Hola, Sara! ¿Qué plan tienes para mañana?" },
+          { "q": "B", "t": "Domani vado a visitare Roma.", "es": "Mañana voy a visitar Roma." },
+          { "q": "A", "t": "Che bello! E dopodomani?", "es": "¡Qué bien! ¿Y pasado mañana?" },
+          { "q": "B", "t": "Dopodomani vado a incontrare Marco.", "es": "Pasado mañana voy a encontrarme con Marco." },
+          { "q": "A", "t": "Bene! Ciao, a presto!", "es": "¡Bien! ¡Chao, hasta pronto!" }
+        ]
+      },
+      "nota": "El italiano también tiene un futuro con terminaciones (andrò, visiterò), pero en A1 basta con el presente y una palabra de tiempo: domani, dopodomani, stasera. Ojo con la preposición: «vado a Roma» (ciudad), «vado in Italia» (país), «vado al parco» (a + il = al)."
+    },
+    {
+      "id": "it-a1-u10-l4",
+      "n": 4,
+      "titulo": "Fin de semana y vacaciones",
+      "objetivo": "Hablar de tus vacaciones y de tus viajes de fin de semana.",
+      "intro": "Con este vocabulario podrás organizar y contar un viaje. Para decir adónde vas: «al mare» (a la playa/al mar), «in montagna» (a la montaña), «in vacanza» (de vacaciones). Truco: «mare» es masculino en italiano: il mare.",
+      "palabras": [
+        { "t": "le vacanze", "es": "las vacaciones", "pron": "le vacántse", "ej": "Mi piacciono le vacanze.", "ejes": "Me gustan las vacaciones.", "cog": true, "truco": "Casi siempre en plural: le vacanze." },
+        { "t": "il viaggio", "es": "el viaje", "pron": "il viáyo", "ej": "Il viaggio è bello.", "ejes": "El viaje es bonito.", "cog": true, "truco": "«gg» + io suena «y»: viáyo." },
+        { "t": "la spiaggia", "es": "la playa", "pron": "la spiáya", "ej": "La spiaggia è vicina.", "ejes": "La playa está cerca.", "cog": false, "truco": "Falso amigo: «spiaggia» es la playa. «Playa» en italiano no existe." },
+        { "t": "il mare", "es": "el mar", "pron": "il máre", "ej": "Mi piace il mare.", "ejes": "Me gusta el mar.", "cog": true, "truco": "Es masculino: il mare." },
+        { "t": "la montagna", "es": "la montaña", "pron": "la montáña", "ej": "Mi piace la montagna.", "ejes": "Me gusta la montaña.", "cog": true, "truco": "«gn» suena «ñ»." },
+        { "t": "l'albergo", "es": "el hotel / el albergue", "pron": "lalbérgo", "ej": "L'albergo è vicino alla spiaggia.", "ejes": "El hotel está cerca de la playa.", "cog": true, "truco": "También se dice «hotel»." },
+        { "t": "la valigia", "es": "la maleta", "pron": "la valíya", "ej": "Ecco la valigia.", "ejes": "Aquí está la maleta.", "cog": false, "truco": "«gia» suena «ya»: va-lí-ya." },
+        { "t": "il passaporto", "es": "el pasaporte", "pron": "il pasapórto", "ej": "Ho il passaporto.", "ejes": "Tengo el pasaporte.", "cog": true },
+        { "t": "il fine settimana", "es": "el fin de semana", "pron": "il fine setimána", "ej": "Il fine settimana vado al mare.", "ejes": "El fin de semana voy a la playa.", "cog": true, "truco": "Literalmente «fin de semana»; también se oye «il weekend»." },
+        { "t": "la prenotazione", "es": "la reserva", "pron": "la prenotatsióne", "ej": "Ho la prenotazione.", "ejes": "Tengo la reserva.", "cog": false, "truco": "Falso amigo: no es «prenotación»; es reserva." }
+      ],
+      "frases": [
+        { "t": "Vado in vacanza al mare.", "es": "Voy de vacaciones a la playa.", "pron": "vádo in vacántsa al máre" },
+        { "t": "L'albergo è vicino alla spiaggia.", "es": "El hotel está cerca de la playa.", "pron": "lalbérgo è vicíno alla spiáya" },
+        { "t": "Ho la prenotazione per la camera.", "es": "Tengo la reserva de la habitación.", "pron": "o la prenotatsióne per la cámera" },
+        { "t": "Questo weekend vado in montagna.", "es": "Este fin de semana voy a la montaña.", "pron": "cuésto uíkend vádo in montáña" },
+        { "t": "Ecco la valigia e il passaporto.", "es": "Aquí están la maleta y el pasaporte.", "pron": "éko la valíya e il pasapórto" },
+        { "t": "Il viaggio è bello!", "es": "¡El viaje es bonito!", "pron": "il viáyo è bélo" }
+      ],
+      "dialogo": {
+        "titulo": "En el hotel",
+        "lineas": [
+          { "q": "A", "t": "Buonasera! Ho la prenotazione per una camera.", "es": "¡Buenas noches! Tengo una reserva para una habitación." },
+          { "q": "B", "t": "Il passaporto, per favore.", "es": "El pasaporte, por favor." },
+          { "q": "A", "t": "Ecco il passaporto.", "es": "Aquí está el pasaporte." },
+          { "q": "B", "t": "Grazie. La camera è qui. La spiaggia è vicina.", "es": "Gracias. La habitación está aquí. La playa está cerca." },
+          { "q": "A", "t": "Che bello! Grazie mille!", "es": "¡Qué bien! ¡Muchas gracias!" }
+        ]
+      },
+      "nota": "«In vacanza» = de vacaciones; «al mare» = a la playa o al mar; «in montagna» = a la montaña. «Camera» es habitación (no cámara fotográfica, que se dice «macchina fotografica»). «Albergo» y «hotel» significan lo mismo en Italia."
+    },
+    {
+      "id": "it-a1-u10-l5",
+      "n": 5,
+      "titulo": "Repaso final del nivel A1",
+      "objetivo": "Repasar lo esencial del nivel A1 en frases y diálogos reales.",
+      "intro": "¡Llegaste al final del nivel A1! Aquí repasas lo más importante de las diez unidades y aprendes frases para despedirte y desear cosas, algo que oirás todos los días en Italia.",
+      "palabras": [
+        { "t": "buon viaggio", "es": "buen viaje", "pron": "buon viáyo", "ej": "Buon viaggio, Anna!", "ejes": "¡Buen viaje, Anna!", "cog": true },
+        { "t": "buona giornata", "es": "que tengas un buen día", "pron": "buóna yornáta", "ej": "Buona giornata, signora!", "ejes": "¡Que tenga un buen día, señora!", "cog": false, "truco": "Se dice al despedirse, por la mañana." },
+        { "t": "buon fine settimana", "es": "buen fin de semana", "pron": "buon fine setimána", "ej": "Buon fine settimana, Marco!", "ejes": "¡Buen fin de semana, Marco!", "cog": true },
+        { "t": "mi dispiace", "es": "lo siento", "pron": "mi dispiáche", "ej": "Mi dispiace, non posso.", "ejes": "Lo siento, no puedo.", "cog": false, "truco": "Literalmente «me desagrada»." },
+        { "t": "non importa", "es": "no importa", "pron": "non impórta", "ej": "Non importa, grazie.", "ejes": "No importa, gracias.", "cog": true },
+        { "t": "certo", "es": "claro / por supuesto", "pron": "chérto", "ej": "Certo, volentieri!", "ejes": "¡Claro, con gusto!", "cog": true, "truco": "«ce» suena «che»: chér-to." },
+        { "t": "volentieri", "es": "con gusto", "pron": "volentiéri", "ej": "Sì, volentieri!", "ejes": "¡Sí, con gusto!", "cog": false },
+        { "t": "a domani", "es": "hasta mañana", "pron": "a dománi", "ej": "Ciao, a domani!", "ejes": "¡Chao, hasta mañana!", "cog": false },
+        { "t": "a dopo", "es": "hasta luego", "pron": "a dópo", "ej": "Ciao, a dopo!", "ejes": "¡Chao, hasta luego!", "cog": false },
+        { "t": "tanti auguri", "es": "felicidades / muchas felicidades", "pron": "tánti aúguri", "ej": "Tanti auguri, Giulia!", "ejes": "¡Muchas felicidades, Giulia!", "cog": false, "truco": "Sirve para cumpleaños y fiestas." }
+      ],
+      "frases": [
+        { "t": "Mi chiamo Ana e sono del Perù.", "es": "Me llamo Ana y soy de Perú.", "pron": "mi quiámo ána e sóno del perú" },
+        { "t": "Vorrei un cappuccino e un cornetto, per favore.", "es": "Quisiera un capuchino y un croissant, por favor.", "pron": "vorréi un capuchíno e un cornéto, per favóre" },
+        { "t": "Scusi, dov'è la stazione?", "es": "Disculpe, ¿dónde está la estación?", "pron": "scúsi, dové la statsióne" },
+        { "t": "Quanto costa questa giacca?", "es": "¿Cuánto cuesta esta chaqueta?", "pron": "cuánto cósta cuésta la yáca" },
+        { "t": "Sto studiando italiano. Mi piace molto!", "es": "Estoy estudiando italiano. ¡Me gusta mucho!", "pron": "sto studiándo italiáno. mi piáche mólto" },
+        { "t": "Domani vado a visitare Roma.", "es": "Mañana voy a visitar Roma.", "pron": "dománi vádo a visitáre róma" }
+      ],
+      "dialogo": {
+        "titulo": "Una turista en Roma",
+        "lineas": [
+          { "q": "A", "t": "Ciao, mi chiamo Ana. Sono del Perù.", "es": "Hola, me llamo Ana. Soy de Perú." },
+          { "q": "B", "t": "Piacere, Ana! Io sono Marco. Che cosa stai facendo a Roma?", "es": "¡Encantado, Ana! Yo soy Marco. ¿Qué haces en Roma?" },
+          { "q": "A", "t": "Sono in vacanza. Domani vado a visitare la città.", "es": "Estoy de vacaciones. Mañana voy a visitar la ciudad." },
+          { "q": "B", "t": "Bello! Ti va di prendere un caffè?", "es": "¡Qué bien! ¿Te provoca tomar un café?" },
+          { "q": "A", "t": "Sì, volentieri!", "es": "¡Sí, con gusto!" },
+          { "q": "B", "t": "Andiamo! Il bar è qui vicino.", "es": "¡Vamos! El bar está aquí cerca." }
+        ]
+      },
+      "nota": "¡Felicidades! Ya sabes saludar, presentarte, contar, hablar de tu familia y tu día, describir tu casa, orientarte en la ciudad, comprar, decir gustos y hacer planes. Antes de pasar al nivel A2 repasa los artículos (il, lo, la, l'), essere y avere, mi piace / mi piacciono y los gerundios con stare."
+    }
+  ]
+}

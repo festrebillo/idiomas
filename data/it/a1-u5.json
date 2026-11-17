@@ -1,0 +1,233 @@
+{
+  "id": "it-a1-u5",
+  "idioma": "it",
+  "nivel": "A1",
+  "n": 5,
+  "titulo": "La hora, los días y mi rutina",
+  "resumen": "Aprenderás los días y los meses, a decir la hora, a contar tu rutina diaria con verbos en presente y a decir con qué frecuencia haces las cosas.",
+  "puedo": [
+    "Nombrar los días de la semana y los meses del año.",
+    "Preguntar y decir la hora.",
+    "Contar mi rutina de la mañana con verbos reflexivos como svegliarsi y alzarsi.",
+    "Decir a qué hora trabajo, estudio, almuerzo, ceno y duermo.",
+    "Decir con qué frecuencia hago algo: sempre, di solito, qualche volta, mai."
+  ],
+  "gramatica": {
+    "titulo": "El presente: verbos en -are, -ere, -ire y reflexivos",
+    "texto": "Los verbos italianos terminan en -are, -ere o -ire. Quita esa terminación y añade: -are (lavorare): o, i, a, iamo, ate, ano. -ere (leggere): o, i, e, iamo, ete, ono. -ire (dormire): o, i, e, iamo, ite, ono. Casi nunca se dice el pronombre: «Lavoro» = yo trabajo.\nLos verbos reflexivos llevan un pronombre antes del verbo, igual que en español: mi sveglio (me despierto), ti svegli (te despiertas), si sveglia (se despierta). El infinitivo termina en -si: svegliarsi, alzarsi.\nFare (hacer) y andare (ir) son irregulares; por ahora aprende las frases hechas: faccio la doccia, vado al lavoro.",
+    "tabla": [
+      ["io lavoro", "yo trabajo", "ío lavóro"],
+      ["tu lavori", "tú trabajas", "tu lavóri"],
+      ["lui / lei lavora", "él / ella trabaja", "lui / léi lavóra"],
+      ["noi lavoriamo", "nosotros trabajamos", "nói lavoriámo"],
+      ["voi lavorate", "ustedes trabajan", "vói lavoráte"],
+      ["loro lavorano", "ellos trabajan", "lóro lavórano"],
+      ["lui legge (-ere)", "él lee", "lui lédye"],
+      ["lui dorme (-ire)", "él duerme", "lui dórme"],
+      ["io mi sveglio", "yo me despierto", "ío mi svélyo"]
+    ],
+    "errores": [
+      "Con -are la forma de él / ella termina en -a (lavora), pero con -ere e -ire termina en -e (legge, dorme). No las mezcles.",
+      "En «loro» no se corta la terminación: se dice «lavorano», no «lavoran».",
+      "Mi sveglio es «me despierto»; sin «mi», sveglio sería «despierto a otra persona». No olvides el pronombre reflexivo."
+    ]
+  },
+  "practica": [
+    "Di en voz alta los 7 días de la semana y los 12 meses, tres veces seguidas (5 minutos).",
+    "Mira un reloj o tu celular y di la hora cada hora durante el día: «Sono le tre e mezza» (1 minuto cada vez).",
+    "Escribe tu rutina de la mañana en 5 frases: «Mi sveglio alle... Mi alzo... Faccio la doccia...» y léela en voz alta (8 minutos).",
+    "Cuenta tu día a alguien con «sempre, di solito, qualche volta, mai» y 5 verbos de la unidad (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-a1-u5-l1",
+      "n": 1,
+      "titulo": "Los días y los meses",
+      "objetivo": "Nombrar los días de la semana y los meses, y decir qué día es hoy.",
+      "intro": "Los días en italiano casi todos terminan en -dì (que viene de «día»): lunedì, martedì... Truco: se escriben con minúscula y la semana empieza el lunes.",
+      "palabras": [
+        { "t": "lunedì", "es": "lunes", "pron": "lunedí", "ej": "Oggi è lunedì.", "ejes": "Hoy es lunes.", "cog": true, "truco": "Lleva tilde: la sílaba fuerte es la última. Viene de «luna»." },
+        { "t": "martedì", "es": "martes", "pron": "martedí", "ej": "Domani è martedì.", "ejes": "Mañana es martes.", "cog": true },
+        { "t": "mercoledì", "es": "miércoles", "pron": "mercoledí", "ej": "Ciao, a mercoledì!", "ejes": "¡Chao, hasta el miércoles!", "cog": true },
+        { "t": "giovedì", "es": "jueves", "pron": "yovedí", "ej": "Oggi è giovedì, Ana.", "ejes": "Hoy es jueves, Ana.", "cog": true, "truco": "«gio» suena «yo»." },
+        { "t": "venerdì", "es": "viernes", "pron": "venerdí", "ej": "Domani è venerdì!", "ejes": "¡Mañana es viernes!", "cog": true },
+        { "t": "sabato", "es": "sábado", "pron": "sábato", "ej": "Oggi è sabato!", "ejes": "¡Hoy es sábado!", "cog": true, "truco": "No lleva tilde en italiano y no termina en -dì." },
+        { "t": "domenica", "es": "domingo", "pron": "doménica", "ej": "Domani è domenica.", "ejes": "Mañana es domingo.", "cog": true, "truco": "Es el único día femenino." },
+        { "t": "oggi", "es": "hoy", "pron": "ódyi", "ej": "Oggi è martedì, Luca!", "ejes": "¡Hoy es martes, Luca!", "cog": false, "truco": "«gg» + i suena «dy»." },
+        { "t": "domani", "es": "mañana (el día siguiente)", "pron": "dománi", "ej": "Domani è sabato.", "ejes": "Mañana es sábado.", "cog": false },
+        { "t": "il giorno", "es": "el día", "pron": "il yórno", "ej": "Il giorno di Luca è lunedì.", "ejes": "El día de Luca es el lunes.", "cog": false, "truco": "Ya lo viste en buongiorno." }
+      ],
+      "frases": [
+        { "t": "Che giorno è oggi?", "es": "¿Qué día es hoy?", "pron": "que yórno è ódyi" },
+        { "t": "Oggi è mercoledì.", "es": "Hoy es miércoles.", "pron": "ódyi è mercoledí" },
+        { "t": "Domani è giovedì.", "es": "Mañana es jueves.", "pron": "dománi è yovedí" },
+        { "t": "Gennaio, febbraio, marzo, aprile.", "es": "Enero, febrero, marzo, abril.", "pron": "yenáio, febbráio, mártso, apríle" },
+        { "t": "Maggio, giugno, luglio, agosto.", "es": "Mayo, junio, julio, agosto.", "pron": "mádyo, yúño, lúlyo, agósto" },
+        { "t": "Settembre, ottobre, novembre, dicembre.", "es": "Septiembre, octubre, noviembre, diciembre.", "pron": "setémbre, ottóbre, novémbre, dichémbre" }
+      ],
+      "dialogo": {
+        "titulo": "¿Qué día es hoy?",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Carlos! Che giorno è oggi?", "es": "¡Hola, Carlos! ¿Qué día es hoy?" },
+          { "q": "B", "t": "Oggi è venerdì.", "es": "Hoy es viernes." },
+          { "q": "A", "t": "E domani?", "es": "¿Y mañana?" },
+          { "q": "B", "t": "Domani è sabato!", "es": "¡Mañana es sábado!" },
+          { "q": "A", "t": "Grazie! A lunedì, Carlos!", "es": "¡Gracias! ¡Hasta el lunes, Carlos!" }
+        ]
+      },
+      "nota": "Los meses (todos con minúscula): gennaio (yenáio), febbraio (febbráio), marzo (mártso), aprile (apríle), maggio (mádyo), giugno (yúño), luglio (lúlyo), agosto (agósto), settembre (setémbre), ottobre (ottóbre), novembre (novémbre), dicembre (dichémbre). Con un día solo («Sabato vado al lavoro») es ese día; con artículo («il sabato») es «todos los sábados». «A maggio» o «in maggio» = en mayo."
+    },
+    {
+      "id": "it-a1-u5-l2",
+      "n": 2,
+      "titulo": "La hora",
+      "objetivo": "Preguntar la hora y decir las horas en punto, y media, y cuarto y menos cuarto.",
+      "intro": "Para preguntar la hora se dice «Che ore sono?». Truco: ya sabes los números; solo recuerda que la una es singular («È l'una») y las demás, plurales («Sono le due»).",
+      "palabras": [
+        { "t": "l'una", "es": "la una", "pron": "lúna", "ej": "È l'una.", "ejes": "Es la una.", "cog": true, "truco": "Es la única hora que lleva «è» y no «sono»." },
+        { "t": "mezzogiorno", "es": "mediodía", "pron": "medsoyórno", "ej": "È mezzogiorno.", "ejes": "Es mediodía.", "cog": false, "truco": "Mezzo + giorno = medio día." },
+        { "t": "mezzanotte", "es": "medianoche", "pron": "medsanótte", "ej": "È mezzanotte.", "ejes": "Es medianoche.", "cog": false },
+        { "t": "e mezza", "es": "y media", "pron": "e médsa", "ej": "Sono le tre e mezza.", "ejes": "Son las tres y media.", "cog": false, "truco": "Siempre «mezza» (femenino), porque va con «ora»." },
+        { "t": "e un quarto", "es": "y cuarto", "pron": "e un cuárto", "ej": "Sono le cinque e un quarto.", "ejes": "Son las cinco y cuarto.", "cog": true },
+        { "t": "meno un quarto", "es": "menos cuarto", "pron": "méno un cuárto", "ej": "Sono le sei meno un quarto.", "ejes": "Son las seis menos cuarto.", "cog": true, "truco": "«Meno» = menos; igual que en español." },
+        { "t": "in punto", "es": "en punto", "pron": "in púnto", "ej": "Sono le sette in punto.", "ejes": "Son las siete en punto.", "cog": true },
+        { "t": "la mattina", "es": "la mañana", "pron": "la mattína", "ej": "Mi piace il caffè la mattina.", "ejes": "Me gusta el café por la mañana.", "cog": false },
+        { "t": "il pomeriggio", "es": "la tarde", "pron": "il pomerídyo", "ej": "Il pomeriggio studio.", "ejes": "Por la tarde estudio.", "cog": false, "truco": "Desde el mediodía hasta las 5 o 6." },
+        { "t": "la sera", "es": "la noche (hasta dormir)", "pron": "la séra", "ej": "La sera mi piace il tè.", "ejes": "Por la noche me gusta el té.", "cog": false, "truco": "Ya la viste en buonasera." }
+      ],
+      "frases": [
+        { "t": "Che ore sono?", "es": "¿Qué hora es?", "pron": "que óre sóno" },
+        { "t": "È l'una.", "es": "Es la una.", "pron": "è lúna" },
+        { "t": "Sono le due e mezza.", "es": "Son las dos y media.", "pron": "sóno le dúe e médsa" },
+        { "t": "Sono le otto meno un quarto.", "es": "Son las ocho menos cuarto.", "pron": "sóno le ótto méno un cuárto" },
+        { "t": "È mezzogiorno.", "es": "Es mediodía.", "pron": "è medsoyórno" },
+        { "t": "Sono le dieci in punto.", "es": "Son las diez en punto.", "pron": "sóno le diéchi in púnto" }
+      ],
+      "dialogo": {
+        "titulo": "Scusa, che ore sono?",
+        "lineas": [
+          { "q": "A", "t": "Scusa, che ore sono?", "es": "Disculpa, ¿qué hora es?" },
+          { "q": "B", "t": "Sono le tre e un quarto.", "es": "Son las tres y cuarto." },
+          { "q": "A", "t": "Grazie! E a Lima che ore sono?", "es": "¡Gracias! ¿Y en Lima qué hora es?" },
+          { "q": "B", "t": "A Lima sono le nove e un quarto.", "es": "En Lima son las nueve y cuarto." },
+          { "q": "A", "t": "Grazie, Luca!", "es": "¡Gracias, Luca!" },
+          { "q": "B", "t": "Prego!", "es": "¡De nada!" }
+        ]
+      },
+      "nota": "«Che ore sono?» (plural) y «Che ora è?» (singular) se usan las dos. Las horas con «e» suman (le tre e mezza = 3:30); con «meno» restan (le otto meno un quarto = 7:45). En horarios oficiales se usan 24 horas: le quindici e trenta. Pronunciación: la «zz» de mezzogiorno y mezzanotte suena como una «ds» fuerte (medsoyórno); la doble «zz» se pronuncia con más fuerza."
+    },
+    {
+      "id": "it-a1-u5-l3",
+      "n": 3,
+      "titulo": "Mi rutina de la mañana",
+      "objetivo": "Contar lo que haces desde que despiertas hasta ir al trabajo.",
+      "intro": "Aquí aparecen los verbos reflexivos: svegliarsi (despertarse) y alzarsi (levantarse). Truco: en italiano funcionan como en español: mi sveglio = me despierto, ti alzi = te levantas.",
+      "palabras": [
+        { "t": "svegliarsi", "es": "despertarse", "pron": "svelyársi", "ej": "Non mi piace svegliarsi presto.", "ejes": "No me gusta despertarme temprano.", "cog": false, "truco": "«gli» suena como la «ll» andina: svélyo." },
+        { "t": "alzarsi", "es": "levantarse", "pron": "altsársi", "ej": "Mi piace alzarsi tardi la domenica.", "ejes": "Me gusta levantarme tarde el domingo.", "cog": false, "truco": "Falso amigo: «alzarsi» es levantarse, no «alzarse»." },
+        { "t": "vestirsi", "es": "vestirse", "pron": "vestírsi", "ej": "", "ejes": "", "cog": true },
+        { "t": "fare la doccia", "es": "ducharse (hacer la ducha)", "pron": "fáre la dócha", "ej": "Mi piace fare la doccia la mattina.", "ejes": "Me gusta ducharme por la mañana.", "cog": false, "truco": "«cci» suena «ch»: dócha. «Fare» = hacer." },
+        { "t": "fare colazione", "es": "desayunar", "pron": "fáre colatsióne", "ej": "Posso fare colazione qui?", "ejes": "¿Puedo desayunar aquí?", "cog": false, "truco": "Falso amigo: «colazione» es el desayuno, no la colación." },
+        { "t": "andare al lavoro", "es": "ir al trabajo", "pron": "andáre al lavóro", "ej": "Non mi piace andare al lavoro il lunedì.", "ejes": "No me gusta ir al trabajo los lunes.", "cog": false, "truco": "«Al» = a + il (a + el)." },
+        { "t": "prendere l'autobus", "es": "tomar el autobús", "pron": "préndere lautóbus", "ej": "Non mi piace prendere l'autobus.", "ejes": "No me gusta tomar el autobús.", "cog": true, "truco": "Prendere = tomar / coger." },
+        { "t": "presto", "es": "temprano / pronto", "pron": "présto", "ej": "Buongiorno! È presto.", "ejes": "¡Buenos días! Es temprano.", "cog": false, "truco": "Ya la viste en «a presto» (hasta pronto)." },
+        { "t": "tardi", "es": "tarde (hora avanzada)", "pron": "tárdi", "ej": "Scusi, è tardi!", "ejes": "¡Disculpe, es tarde!", "cog": true }
+      ],
+      "frases": [
+        { "t": "Mi sveglio presto.", "es": "Me despierto temprano.", "pron": "mi svélyo présto" },
+        { "t": "Marco si alza tardi.", "es": "Marco se levanta tarde.", "pron": "márco si áltsa tárdi" },
+        { "t": "Faccio la doccia e faccio colazione.", "es": "Me ducho y desayuno.", "pron": "fácho la dócha e fácho colatsióne" },
+        { "t": "Giulia si veste.", "es": "Giulia se viste.", "pron": "yúlia si véste" },
+        { "t": "Prendo l'autobus.", "es": "Tomo el autobús.", "pron": "préndo lautóbus" },
+        { "t": "Vado al lavoro.", "es": "Voy al trabajo.", "pron": "vádo al lavóro" }
+      ],
+      "dialogo": {
+        "titulo": "Una mañana normal",
+        "lineas": [
+          { "q": "A", "t": "Ti svegli presto, Maria?", "es": "¿Te despiertas temprano, Maria?" },
+          { "q": "B", "t": "Sì. Mi alzo, faccio la doccia e faccio colazione.", "es": "Sí. Me levanto, me ducho y desayuno." },
+          { "q": "A", "t": "E vai al lavoro?", "es": "¿Y vas al trabajo?" },
+          { "q": "B", "t": "Sì, prendo l'autobus. E tu, Carlos?", "es": "Sí, tomo el autobús. ¿Y tú, Carlos?" },
+          { "q": "A", "t": "Io mi sveglio tardi!", "es": "¡Yo me despierto tarde!" }
+        ]
+      },
+      "nota": "Pronombres reflexivos: mi, ti, si (singular) y ci, vi, si (plural): mi alzo, ti alzi, si alza. En infinitivo se pegan al final: alzarsi, vestirsi. «Faccio» (hago) y «vado» (voy) son formas irregulares de fare y andare; las verás completas más adelante. Pronunciación: «cci» + o suena «ch» (faccio = fácho); «gli» suena como la «ll» andina (sveglio = svélyo)."
+    },
+    {
+      "id": "it-a1-u5-l4",
+      "n": 4,
+      "titulo": "Mi día y mi noche",
+      "objetivo": "Decir a qué hora haces tus actividades usando «alle» + la hora.",
+      "intro": "Para decir a qué hora haces algo se usa «alle» + la hora: «Pranzo alle due». Truco: con la una es «all'una», y con mediodía y medianoche, «a mezzogiorno».",
+      "palabras": [
+        { "t": "lavorare", "es": "trabajar", "pron": "lavoráre", "ej": "Mi piace lavorare la mattina.", "ejes": "Me gusta trabajar por la mañana.", "cog": false, "truco": "Ya conoces «lavoro» (el trabajo): son de la misma familia." },
+        { "t": "studiare", "es": "estudiar", "pron": "studiáre", "ej": "Mi piace studiare la sera.", "ejes": "Me gusta estudiar por la noche.", "cog": true },
+        { "t": "pranzare", "es": "almorzar", "pron": "prandsáre", "ej": "Posso pranzare qui, per favore?", "ejes": "¿Puedo almorzar aquí, por favor?", "cog": false, "truco": "«pranzo» es el almuerzo; verbo: pranzare." },
+        { "t": "cenare", "es": "cenar", "pron": "chenáre", "ej": "Mi piace cenare alle otto.", "ejes": "Me gusta cenar a las ocho.", "cog": true, "truco": "«ce» suena «che»." },
+        { "t": "dormire", "es": "dormir", "pron": "dormíre", "ej": "Mi piace dormire la domenica.", "ejes": "Me gusta dormir los domingos.", "cog": true },
+        { "t": "leggere", "es": "leer", "pron": "lédyere", "ej": "Mi piace leggere la sera.", "ejes": "Me gusta leer por la noche.", "cog": false, "truco": "«gg» + e suena «dy»." },
+        { "t": "tornare", "es": "volver", "pron": "tornáre", "ej": "Posso tornare domani?", "ejes": "¿Puedo volver mañana?", "cog": true, "truco": "Como «tornar»." },
+        { "t": "alle", "es": "a las (con la hora)", "pron": "álle", "ej": "Pranzo alle due.", "ejes": "Almuerzo a las dos.", "cog": false, "truco": "Con la una: «all'una»." },
+        { "t": "a che ora", "es": "a qué hora", "pron": "a que óra", "ej": "A che ora pranzi?", "ejes": "¿A qué hora almuerzas?", "cog": false }
+      ],
+      "frases": [
+        { "t": "Lavoro la mattina e studio la sera.", "es": "Trabajo por la mañana y estudio por la noche.", "pron": "lavóro la mattína e stúdio la séra" },
+        { "t": "Pranzo a mezzogiorno.", "es": "Almuerzo a mediodía.", "pron": "prándso a medsoyórno" },
+        { "t": "Ceno alle otto.", "es": "Ceno a las ocho.", "pron": "chéno álle ótto" },
+        { "t": "Giulia dorme alle undici.", "es": "Giulia duerme a las once.", "pron": "yúlia dórme álle úndichi" },
+        { "t": "A che ora pranzi?", "es": "¿A qué hora almuerzas?", "pron": "a que óra prándsi" },
+        { "t": "Marco torna alle sei.", "es": "Marco vuelve a las seis.", "pron": "márco tórna álle séi" }
+      ],
+      "dialogo": {
+        "titulo": "Il mio giorno",
+        "lineas": [
+          { "q": "A", "t": "Ana, a che ora pranzi?", "es": "Ana, ¿a qué hora almuerzas?" },
+          { "q": "B", "t": "Pranzo a mezzogiorno. E tu?", "es": "Almuerzo a mediodía. ¿Y tú?" },
+          { "q": "A", "t": "Io pranzo alle due. Lavoro la mattina.", "es": "Yo almuerzo a las dos. Trabajo por la mañana." },
+          { "q": "B", "t": "Io studio la mattina e lavoro il pomeriggio.", "es": "Yo estudio por la mañana y trabajo por la tarde." },
+          { "q": "A", "t": "A che ora ceni?", "es": "¿A qué hora cenas?" },
+          { "q": "B", "t": "Ceno alle otto e dormo alle undici.", "es": "Ceno a las ocho y duermo a las once." }
+        ]
+      },
+      "nota": "Con horas se usa «alle»: alle due, alle otto. Con la una, «all'una», y con mediodía o medianoche, «a mezzogiorno», «a mezzanotte». Recuerda los grupos de verbos: lavorare (-are): lavoro, lavori, lavora; leggere (-ere): leggo, leggi, legge; dormire (-ire): dormo, dormi, dorme. «Lavoro» puede ser «yo trabajo» (verbo) o «el trabajo» (sustantivo): el contexto lo aclara."
+    },
+    {
+      "id": "it-a1-u5-l5",
+      "n": 5,
+      "titulo": "¿Con qué frecuencia?",
+      "objetivo": "Decir con qué frecuencia haces algo y repasar la rutina.",
+      "intro": "Los adverbios de frecuencia se colocan casi siempre junto al verbo: «Mi sveglio sempre presto». Truco: con «mai» (nunca) se usa también «non»: «Non faccio mai colazione», como en español «no desayuno nunca».",
+      "palabras": [
+        { "t": "sempre", "es": "siempre", "pron": "sémpre", "ej": "Mi sveglio sempre presto.", "ejes": "Siempre me despierto temprano.", "cog": true },
+        { "t": "di solito", "es": "normalmente / de costumbre", "pron": "di sólito", "ej": "Di solito pranzo a mezzogiorno.", "ejes": "Normalmente almuerzo a mediodía.", "cog": true, "truco": "Parece «de solito»; viene de «solitamente»." },
+        { "t": "spesso", "es": "a menudo", "pron": "spésso", "ej": "Luca studia spesso la sera.", "ejes": "Luca estudia seguido por la noche.", "cog": false },
+        { "t": "qualche volta", "es": "a veces", "pron": "cuálque vólta", "ej": "Qualche volta ceno tardi.", "ejes": "A veces ceno tarde.", "cog": false, "truco": "Literal: «alguna vez»." },
+        { "t": "raramente", "es": "raramente", "pron": "raraménte", "ej": "Raramente leggo la mattina.", "ejes": "Raramente leo por la mañana.", "cog": true },
+        { "t": "mai", "es": "nunca", "pron": "mái", "ej": "Non faccio mai colazione.", "ejes": "Nunca desayuno.", "cog": false, "truco": "Con verbo: «non... mai» (no... nunca)." },
+        { "t": "ogni giorno", "es": "cada día", "pron": "óñi yórno", "ej": "Studio ogni giorno.", "ejes": "Estudio cada día.", "cog": false, "truco": "«gn» = ñ." },
+        { "t": "tutti i giorni", "es": "todos los días", "pron": "tútti i yórni", "ej": "Lavoro tutti i giorni.", "ejes": "Trabajo todos los días.", "cog": false },
+        { "t": "il fine settimana", "es": "el fin de semana", "pron": "il fíne settimána", "ej": "Il fine settimana dormo tardi.", "ejes": "El fin de semana duermo tarde.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Mi sveglio sempre presto.", "es": "Siempre me despierto temprano.", "pron": "mi svélyo sémpre présto" },
+        { "t": "Di solito faccio colazione alle sette.", "es": "Normalmente desayuno a las siete.", "pron": "di sólito fácho colatsióne álle sétte" },
+        { "t": "Qualche volta ceno tardi.", "es": "A veces ceno tarde.", "pron": "cuálque vólta chéno tárdi" },
+        { "t": "Non studio mai la domenica.", "es": "Nunca estudio los domingos.", "pron": "non stúdio mái la doménica" },
+        { "t": "Il fine settimana mi alzo tardi.", "es": "El fin de semana me levanto tarde.", "pron": "il fíne settimána mi áltso tárdi" },
+        { "t": "Luca lavora tutti i giorni.", "es": "Luca trabaja todos los días.", "pron": "lúca lavóra tútti i yórni" }
+      ],
+      "dialogo": {
+        "titulo": "¿Madrugas?",
+        "lineas": [
+          { "q": "A", "t": "Marco, ti alzi presto?", "es": "Marco, ¿te levantas temprano?" },
+          { "q": "B", "t": "Sì, di solito mi alzo alle sei.", "es": "Sí, normalmente me levanto a las seis." },
+          { "q": "A", "t": "E il fine settimana?", "es": "¿Y el fin de semana?" },
+          { "q": "B", "t": "Il fine settimana mi alzo tardi. E tu, Giulia?", "es": "El fin de semana me levanto tarde. ¿Y tú, Giulia?" },
+          { "q": "A", "t": "Io mi alzo sempre presto. Non dormo mai tardi.", "es": "Yo siempre me levanto temprano. Nunca duermo hasta tarde." },
+          { "q": "B", "t": "Brava!", "es": "¡Bien hecho!" }
+        ]
+      },
+      "nota": "Orden de intensidad: sempre (siempre), spesso (a menudo), di solito (normalmente), qualche volta (a veces), raramente (raramente), mai (nunca). Con «mai» la negación «non» va antes del verbo: «Non dormo mai». Si respondes solo, basta «Mai!». Repaso de la unidad: los días, la hora (Sono le due e mezza), mi sveglio / mi alzo, faccio la doccia, pranzo alle due, vado al lavoro."
+    }
+  ]
+}

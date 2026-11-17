@@ -1,0 +1,230 @@
+{
+  "id": "pt-a1-u10",
+  "idioma": "pt",
+  "nivel": "A1",
+  "n": 10,
+  "titulo": "Ahora y planes",
+  "resumen": "Aprenderás a hablar del clima, a decir lo que estás haciendo (estou estudando) y tus planes (vou viajar), y cerrarás el nivel A1 con un repaso final.",
+  "puedo": [
+    "Describir el clima de hoy.",
+    "Decir lo que estoy haciendo ahora con estar + gerúndio.",
+    "Hablar de mis planes con ir + infinitivo.",
+    "Planear un fin de semana o unas vacaciones.",
+    "Mantener una conversación sencilla usando lo aprendido en el nivel A1."
+  ],
+  "gramatica": {
+    "titulo": "Estar + gerúndio (estou estudando) e ir + infinitivo (vou viajar)",
+    "texto": "Para decir lo que haces ahora, usa «estar» + el gerúndio (el verbo con -ndo, como «estudiando»). Se forma así: -ar → -ando (estudar → estudando), -er → -endo (comer → comendo), -ir → -indo (dormir → dormindo). Eu estou estudando. Ela está comendo.\nPara hablar del futuro cercano, usa «ir» + infinitivo (el verbo sin conjugar): Eu vou viajar. Você vai trabalhar. Nós vamos dançar. Eles vão comprar. No lleva «a»: «vou viajar», no «vou a viajar».\nAmbas estructuras son muy naturales en Brasil y ayudan a hablar sin conjugar mucho.",
+    "tabla": [
+      ["Eu estou estudando.", "Estoy estudiando.", "éu estóu estudándu"],
+      ["Ela está comendo.", "Ella está comiendo.", "éla está koméndu"],
+      ["Eu vou viajar.", "Voy a viajar.", "éu vóu viayár"],
+      ["Você vai trabalhar.", "Vas a trabajar.", "vosé vái trabalyár"],
+      ["Nós vamos dançar.", "Vamos a bailar.", "nós vámus dansár"],
+      ["Eles vão comprar.", "Ellos van a comprar.", "éliz váun komprár"]
+    ],
+    "errores": [
+      "No digas «Eu estou estudar»: después de estar va el gerúndio (estudando), no el infinitivo.",
+      "No digas «Eu vou a viajar»: en portugués es «Eu vou viajar», sin «a».",
+      "No mezcles las dos: «Eu vou viajo» es incorrecto; después de «vou» va el infinitivo (viajar)."
+    ]
+  },
+  "practica": [
+    "Cada día abre la ventana y di en voz alta cómo está el clima: «Hoje está nublado...» (2 minutos).",
+    "Mientras haces tareas, narra en voz alta qué haces: «Estou cozinhando, estou lendo...» (5 minutos).",
+    "Escribe 6 planes tuyos para el fin de semana con «Eu vou + infinitivo» (5 minutos).",
+    "Graba un audio de 1 minuto presentándote y contando tus planes; escúchalo y corrige (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-a1-u10-l1",
+      "n": 1,
+      "titulo": "El clima",
+      "objetivo": "Describir el clima de hoy con «está» y «faz».",
+      "intro": "Para el clima se usan dos formas: «está + adjetivo» (Está nublado) y «faz + sustantivo» (Faz calor, hace calor). Truco: «chuva» es lluvia, y «Está chovendo» es «Está lloviendo».",
+      "palabras": [
+        { "t": "ensolarado", "es": "soleado", "pron": "ensolarádu", "ej": "Hoje está ensolarado.", "ejes": "Hoy está soleado.", "cog": false },
+        { "t": "chuvoso", "es": "lluvioso", "pron": "shuvózu", "ej": "O dia está chuvoso.", "ejes": "El día está lluvioso.", "cog": false, "truco": "«ch» = «sh»: shuvózu." },
+        { "t": "nublado", "es": "nublado", "pron": "nubládu", "ej": "Hoje o dia está nublado.", "ejes": "Hoy el día está nublado.", "cog": true },
+        { "t": "ventando", "es": "ventoso (hay viento)", "pron": "ventándu", "ej": "Está ventando muito.", "ejes": "Hay mucho viento.", "cog": false },
+        { "t": "faz calor", "es": "hace calor", "pron": "fáis kalór", "ej": "Hoje faz calor.", "ejes": "Hoy hace calor.", "cog": false, "truco": "Se dice «faz calor», no «está calor»." },
+        { "t": "faz frio", "es": "hace frío", "pron": "fáis fríu", "ej": "Em Curitiba faz frio.", "ejes": "En Curitiba hace frío.", "cog": false },
+        { "t": "chuva", "es": "lluvia", "pron": "shúva", "ej": "Eu não gosto de chuva.", "ejes": "No me gusta la lluvia.", "cog": false },
+        { "t": "sol", "es": "sol", "pron": "sóu", "ej": "Hoje tem sol.", "ejes": "Hoy hay sol.", "cog": true, "truco": "La «l» final suena «u»: sóu." },
+        { "t": "chovendo", "es": "lloviendo", "pron": "shovéndu", "ej": "Está chovendo muito.", "ejes": "Está lloviendo mucho.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Como está o tempo hoje?", "es": "¿Cómo está el clima hoy?", "pron": "kómu está u témpu óyi" },
+        { "t": "Hoje está ensolarado.", "es": "Hoy está soleado.", "pron": "óyi está ensolarádu" },
+        { "t": "Está chovendo!", "es": "¡Está lloviendo!", "pron": "está shovéndu" },
+        { "t": "Faz muito calor.", "es": "Hace mucho calor.", "pron": "fáis múintu kalór" },
+        { "t": "Hoje está nublado e faz frio.", "es": "Hoy está nublado y hace frío.", "pron": "óyi está nubládu i fáis fríu" },
+        { "t": "Está ventando muito.", "es": "Hay mucho viento.", "pron": "está ventándu múintu" }
+      ],
+      "dialogo": {
+        "titulo": "¿Cómo está el clima?",
+        "lineas": [
+          { "q": "A", "t": "Como está o tempo hoje?", "es": "¿Cómo está el clima hoy?" },
+          { "q": "B", "t": "Está nublado e faz frio.", "es": "Está nublado y hace frío." },
+          { "q": "A", "t": "Em Salvador faz calor.", "es": "En Salvador hace calor." },
+          { "q": "B", "t": "Lá está ensolarado?", "es": "¿Allá está soleado?" },
+          { "q": "A", "t": "Sim! Mas aqui está chovendo.", "es": "¡Sí! Pero aquí está lloviendo." }
+        ]
+      },
+      "nota": "«Tempo» significa clima y también tiempo, según el contexto: «Como está o tempo?» (clima) y «Eu não tenho tempo» (tiempo libre). Para el calor y el frío usa «fazer» (faz calor), pero para describir a una persona usa «ter» (Eu estou com calor / Eu tenho frio). Las estaciones están invertidas respecto al hemisferio norte."
+    },
+    {
+      "id": "pt-a1-u10-l2",
+      "n": 2,
+      "titulo": "¿Qué estás haciendo?",
+      "objetivo": "Decir y preguntar qué se está haciendo ahora con estar + gerúndio.",
+      "intro": "Se forma con «estar» + verbo terminado en -ndo. Truco: -ar da -ando (falando), -er da -endo (comendo) y -ir da -indo (dormindo). El acento va en la sílaba anterior a -ndo.",
+      "palabras": [
+        { "t": "estudando", "es": "estudiando", "pron": "estudándu", "ej": "Eu estou estudando.", "ejes": "Estoy estudiando.", "cog": true },
+        { "t": "trabalhando", "es": "trabajando", "pron": "trabalyándu", "ej": "Ela está trabalhando.", "ejes": "Ella está trabajando.", "cog": true, "truco": "«lh» suena «ly»: trabalyándu." },
+        { "t": "comendo", "es": "comiendo", "pron": "koméndu", "ej": "Estamos comendo.", "ejes": "Estamos comiendo.", "cog": true },
+        { "t": "bebendo", "es": "bebiendo", "pron": "bebéndu", "ej": "Ele está bebendo suco.", "ejes": "Él está bebiendo jugo.", "cog": true },
+        { "t": "dormindo", "es": "durmiendo", "pron": "dormíndu", "ej": "Meu pai está dormindo.", "ejes": "Mi papá está durmiendo.", "cog": true },
+        { "t": "falando", "es": "hablando", "pron": "falándu", "ej": "Eu estou falando com Ana.", "ejes": "Estoy hablando con Ana.", "cog": true },
+        { "t": "lendo", "es": "leyendo", "pron": "léndu", "ej": "Ela está lendo.", "ejes": "Ella está leyendo.", "cog": false },
+        { "t": "cozinhando", "es": "cocinando", "pron": "kuziñándu", "ej": "Minha mãe está cozinhando.", "ejes": "Mi mamá está cocinando.", "cog": false },
+        { "t": "assistindo", "es": "viendo (película o serie)", "pron": "asistíndu", "ej": "Estamos assistindo um filme.", "ejes": "Estamos viendo una película.", "cog": false },
+        { "t": "fazendo", "es": "haciendo", "pron": "fazéndu", "ej": "O que você está fazendo?", "ejes": "¿Qué estás haciendo?", "cog": false, "truco": "Fazer → fazendo." }
+      ],
+      "frases": [
+        { "t": "O que você está fazendo?", "es": "¿Qué estás haciendo?", "pron": "u ke vosé está fazéndu" },
+        { "t": "Eu estou estudando português.", "es": "Estoy estudiando portugués.", "pron": "éu estóu estudándu portuguéis" },
+        { "t": "Ela está trabalhando agora.", "es": "Ella está trabajando ahora.", "pron": "éla está trabalyándu agóra" },
+        { "t": "Estamos comendo.", "es": "Estamos comiendo.", "pron": "estámus koméndu" },
+        { "t": "Meu pai está cozinhando.", "es": "Mi papá está cocinando.", "pron": "méu pái está kuziñándu" },
+        { "t": "Ele está bebendo suco.", "es": "Él está bebiendo jugo.", "pron": "éli está bebéndu súku" }
+      ],
+      "dialogo": {
+        "titulo": "Una llamada",
+        "lineas": [
+          { "q": "A", "t": "Oi, Ana! O que você está fazendo?", "es": "¡Hola, Ana! ¿Qué estás haciendo?" },
+          { "q": "B", "t": "Estou estudando português. E você?", "es": "Estoy estudiando portugués. ¿Y tú?" },
+          { "q": "A", "t": "Estou cozinhando.", "es": "Estoy cocinando." },
+          { "q": "B", "t": "O que você está cozinhando?", "es": "¿Qué estás cocinando?" },
+          { "q": "A", "t": "Uma sopa!", "es": "¡Una sopa!" }
+        ]
+      },
+      "nota": "En Brasil se dice «estou comendo» (estoy comiendo); en Portugal usan «estou a comer». Aprende la forma brasileña con -ndo. Pronunciación: «estou» suena «estóu» y el acento cae en la sílaba antes del -ndo: estudándu, koméndu."
+    },
+    {
+      "id": "pt-a1-u10-l3",
+      "n": 3,
+      "titulo": "Planes con ir + infinitivo",
+      "objetivo": "Hablar de tus planes con «vou», «vai» y «vão» + infinitivo.",
+      "intro": "Para el futuro cercano usa «ir» + infinitivo: Eu vou visitar (voy a visitar). Truco: no lleva «a» y el verbo que sigue no se conjuga. «Vão» (ellos van) suena «váun».",
+      "palabras": [
+        { "t": "vou", "es": "voy", "pron": "vóu", "ej": "Eu vou visitar minha tia.", "ejes": "Voy a visitar a mi tía.", "cog": false },
+        { "t": "vai", "es": "va / vas (você)", "pron": "vái", "ej": "Ela vai comprar um vestido.", "ejes": "Ella va a comprar un vestido.", "cog": false },
+        { "t": "vão", "es": "van", "pron": "váun", "ej": "Eles vão viajar.", "ejes": "Ellos van a viajar.", "cog": false },
+        { "t": "visitar", "es": "visitar", "pron": "visitár", "ej": "Eu vou visitar Salvador.", "ejes": "Voy a visitar Salvador.", "cog": true },
+        { "t": "comprar", "es": "comprar", "pron": "komprár", "ej": "Vou comprar sapatos.", "ejes": "Voy a comprar zapatos.", "cog": true },
+        { "t": "encontrar", "es": "encontrarse / ver a alguien", "pron": "enkontrár", "ej": "Vou encontrar meus amigos.", "ejes": "Voy a encontrarme con mis amigos.", "cog": true },
+        { "t": "mais tarde", "es": "más tarde", "pron": "máis tárdyi", "ej": "Eu vou cozinhar mais tarde.", "ejes": "Voy a cocinar más tarde.", "cog": false },
+        { "t": "à noite", "es": "por la noche", "pron": "a nóichi", "ej": "À noite eu vou dançar.", "ejes": "Por la noche voy a bailar.", "cog": false },
+        { "t": "semana", "es": "semana", "pron": "semána", "ej": "Esta semana eu estudo muito.", "ejes": "Esta semana estudio mucho.", "cog": true },
+        { "t": "próxima", "es": "próxima", "pron": "prósima", "ej": "Na próxima semana eu vou viajar.", "ejes": "La próxima semana voy a viajar.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Eu vou visitar minha tia.", "es": "Voy a visitar a mi tía.", "pron": "éu vóu visitár míña tía" },
+        { "t": "Ela vai comprar um vestido.", "es": "Ella va a comprar un vestido.", "pron": "éla vái komprár ún vestídu" },
+        { "t": "Eles vão viajar na próxima semana.", "es": "Ellos van a viajar la próxima semana.", "pron": "élis váun viayár na prósima semána" },
+        { "t": "Eu vou estudar mais tarde.", "es": "Voy a estudiar más tarde.", "pron": "éu vóu estudár máis tárdyi" },
+        { "t": "Você vai trabalhar amanhã?", "es": "¿Vas a trabajar mañana?", "pron": "vosé vái trabalyár amañán" },
+        { "t": "À noite eu vou dançar.", "es": "Por la noche voy a bailar.", "pron": "a nóichi éu vóu dansár" }
+      ],
+      "dialogo": {
+        "titulo": "¿Qué vas a hacer mañana?",
+        "lineas": [
+          { "q": "A", "t": "O que você vai fazer amanhã?", "es": "¿Qué vas a hacer mañana?" },
+          { "q": "B", "t": "Vou visitar minha tia. E você?", "es": "Voy a visitar a mi tía. ¿Y tú?" },
+          { "q": "A", "t": "Vou comprar sapatos.", "es": "Voy a comprar zapatos." },
+          { "q": "B", "t": "Que legal! Você vai sozinha?", "es": "¡Qué genial! ¿Vas sola?" },
+          { "q": "A", "t": "Não, vou com minha amiga.", "es": "No, voy con mi amiga." }
+        ]
+      },
+      "nota": "«Vou» es el verbo «ir» en primera persona: eu vou. También se usa para el futuro con un verbo: vou fazer. «Mais tarde» significa «más tarde» y «à noite» es «por la noche». Las tres formas para recordar: eu vou, você/ele/ela vai, eles vão, nós vamos."
+    },
+    {
+      "id": "pt-a1-u10-l4",
+      "n": 4,
+      "titulo": "Fin de semana y vacaciones",
+      "objetivo": "Planear un fin de semana o unas vacaciones y hablar de viaje.",
+      "intro": "Para hablar de viajes necesitas el vocabulario de hotel, playa y maleta. Truco: «férias» (vacaciones) siempre va en plural, y «Boa viagem!» es el deseo para quien viaja.",
+      "palabras": [
+        { "t": "fim de semana", "es": "fin de semana", "pron": "fín dyi semána", "ej": "No fim de semana eu vou à praia.", "ejes": "El fin de semana voy a la playa.", "cog": false, "truco": "«fim» suena «fín»." },
+        { "t": "viagem", "es": "viaje", "pron": "viáyein", "ej": "A viagem é longa.", "ejes": "El viaje es largo.", "cog": false, "truco": "«g» = «y»: viáyein." },
+        { "t": "praia", "es": "playa", "pron": "práia", "ej": "Eu gosto da praia.", "ejes": "Me gusta la playa.", "cog": false },
+        { "t": "hotel", "es": "hotel", "pron": "otéu", "ej": "O hotel fica perto da praia.", "ejes": "El hotel queda cerca de la playa.", "cog": true, "truco": "La «h» no suena y la «l» final es «u»: otéu." },
+        { "t": "mala", "es": "maleta / valija", "pron": "mála", "ej": "Minha mala é azul.", "ejes": "Mi maleta es azul.", "cog": false },
+        { "t": "férias", "es": "vacaciones", "pron": "féryas", "ej": "Eu estou de férias.", "ejes": "Estoy de vacaciones.", "cog": false, "truco": "Siempre plural: as férias." },
+        { "t": "passeio", "es": "paseo", "pron": "paséiu", "ej": "Eu vou fazer um passeio.", "ejes": "Voy a hacer un paseo.", "cog": false },
+        { "t": "reserva", "es": "reserva", "pron": "rrezérva", "ej": "Eu tenho uma reserva.", "ejes": "Tengo una reserva.", "cog": true },
+        { "t": "aeroporto", "es": "aeropuerto", "pron": "aeropórtu", "ej": "O aeroporto fica longe.", "ejes": "El aeropuerto queda lejos.", "cog": true },
+        { "t": "mar", "es": "mar", "pron": "már", "ej": "O mar é azul.", "ejes": "El mar es azul.", "cog": true }
+      ],
+      "frases": [
+        { "t": "O que você vai fazer no fim de semana?", "es": "¿Qué vas a hacer el fin de semana?", "pron": "u ke vosé vái fazér nu fín dyi semána" },
+        { "t": "Eu vou à praia.", "es": "Voy a la playa.", "pron": "éu vóu a práia" },
+        { "t": "Eu tenho uma reserva no hotel.", "es": "Tengo una reserva en el hotel.", "pron": "éu téñu úma rrezérva nu otéu" },
+        { "t": "A minha mala é grande.", "es": "Mi maleta es grande.", "pron": "a míña mála é grándyi" },
+        { "t": "Eu estou de férias.", "es": "Estoy de vacaciones.", "pron": "éu estóu dyi féryas" },
+        { "t": "Eu vou comprar a passagem.", "es": "Voy a comprar el pasaje.", "pron": "éu vóu komprár a pasáyein" }
+      ],
+      "dialogo": {
+        "titulo": "Planes de vacaciones",
+        "lineas": [
+          { "q": "A", "t": "Você vai viajar nas férias?", "es": "¿Vas a viajar en las vacaciones?" },
+          { "q": "B", "t": "Vou sim! Vou à praia com minha família.", "es": "¡Sí! Voy a la playa con mi familia." },
+          { "q": "A", "t": "Você tem a reserva do hotel?", "es": "¿Tienes la reserva del hotel?" },
+          { "q": "B", "t": "Tenho, e também a passagem.", "es": "Sí, y también el pasaje." },
+          { "q": "A", "t": "Que legal! Boa viagem!", "es": "¡Qué genial! ¡Buen viaje!" },
+          { "q": "B", "t": "Obrigada!", "es": "¡Gracias!" }
+        ]
+      },
+      "nota": "«Férias» siempre va en plural y con «de»: estar de férias. «Boa viagem!» es el deseo para quien viaja. Falso amigo suave: «mala» es la maleta, no la «mala» de «mala suerte». «Passeio» es un paseo o una excursión corta."
+    },
+    {
+      "id": "pt-a1-u10-l5",
+      "n": 5,
+      "titulo": "Repaso final del nivel A1",
+      "objetivo": "Mezclar lo más importante del nivel A1 en frases y diálogos reales.",
+      "intro": "¡Terminaste el nivel A1! En esta lección repasas lo esencial: presentarte, hablar de ti, preguntar, comprar, pedir direcciones y contar planes. Truco: lee en voz alta los diálogos varias veces.",
+      "palabras": [
+        { "t": "tudo bem", "es": "¿todo bien? / todo bien", "pron": "túdu béin", "ej": "Oi, tudo bem?", "ejes": "Hola, ¿todo bien?", "cog": false },
+        { "t": "prazer", "es": "mucho gusto", "pron": "prazér", "ej": "Prazer em conhecer você.", "ejes": "Mucho gusto en conocerte.", "cog": false },
+        { "t": "moro", "es": "vivo", "pron": "móru", "ej": "Eu moro em Lima.", "ejes": "Vivo en Lima.", "cog": false },
+        { "t": "trabalho", "es": "trabajo / yo trabajo", "pron": "trabálu", "ej": "Eu trabalho em um banco.", "ejes": "Trabajo en un banco.", "cog": false },
+        { "t": "tenho", "es": "tengo", "pron": "téñu", "ej": "Eu tenho uma irmã.", "ejes": "Tengo una hermana.", "cog": false },
+        { "t": "gosto", "es": "me gusta", "pron": "góstu", "ej": "Eu gosto de música.", "ejes": "Me gusta la música.", "cog": false },
+        { "t": "quero", "es": "quiero", "pron": "kéru", "ej": "Eu quero um café.", "ejes": "Quiero un café.", "cog": false },
+        { "t": "estou", "es": "estoy", "pron": "estóu", "ej": "Eu estou estudando português.", "ejes": "Estoy estudiando portugués.", "cog": false },
+        { "t": "vou", "es": "voy", "pron": "vóu", "ej": "Eu vou à praia amanhã.", "ejes": "Voy a la playa mañana.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Oi, tudo bem? Prazer em conhecer você.", "es": "Hola, ¿todo bien? Mucho gusto en conocerte.", "pron": "ói, túdu béin? prazér ein koñesér vosé" },
+        { "t": "Eu moro em Lima e trabalho em um banco.", "es": "Vivo en Lima y trabajo en un banco.", "pron": "éu móru ein líma i trabálu ein ún bánku" },
+        { "t": "Com licença, onde fica a farmácia?", "es": "Con permiso, ¿dónde queda la farmacia?", "pron": "kon lisénsa, ónyi fíka a farmásia" },
+        { "t": "Quanto custa esta camisa?", "es": "¿Cuánto cuesta esta camisa?", "pron": "kuántu kústa ésta kamíza" },
+        { "t": "Eu gosto de cantar e tocar violão.", "es": "Me gusta cantar y tocar guitarra.", "pron": "éu góstu dyi kantár i tokár violáun" },
+        { "t": "Eu estou estudando português e vou viajar para o Brasil.", "es": "Estoy estudiando portugués y voy a viajar a Brasil.", "pron": "éu estóu estudándu portuguéis i vóu viayár pára u brasíu" }
+      ],
+      "dialogo": {
+        "titulo": "Nos conocemos en Brasil",
+        "lineas": [
+          { "q": "A", "t": "Oi, tudo bem? Meu nome é Lucía. Prazer!", "es": "Hola, ¿todo bien? Mi nombre es Lucía. ¡Mucho gusto!" },
+          { "q": "B", "t": "Prazer, Lucía! Eu sou o Bruno. De onde você é?", "es": "¡Mucho gusto, Lucía! Soy Bruno. ¿De dónde eres?" },
+          { "q": "A", "t": "Sou de Lima, no Peru. Estou estudando português aqui.", "es": "Soy de Lima, en Perú. Estoy estudiando portugués aquí." },
+          { "q": "B", "t": "Que legal! O que você vai fazer no fim de semana?", "es": "¡Qué genial! ¿Qué vas a hacer el fin de semana?" },
+          { "q": "A", "t": "Vou à praia. Você quer ir também?", "es": "Voy a la playa. ¿Quieres ir también?" },
+          { "q": "B", "t": "Boa ideia! Combinado!", "es": "¡Buena idea! ¡Trato hecho!" }
+        ]
+      },
+      "nota": "¡Felicidades! Ya sabes presentarte, preguntar, pedir, comprar, orientarte y planear. Siguiente paso (A2): el pasado, más verbos irregulares y conversaciones más largas. Sigue escuchando portugués 10 minutos al día y repite en voz alta."
+    }
+  ]
+}

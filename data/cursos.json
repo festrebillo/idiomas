@@ -1,5 +1,65 @@
 {
-  "en": { "nombre": "Inglés", "unidades": ["a1-u1", "a1-u2", "a1-u3"], "proximas": ["Mi familia", "La hora, los días y mi rutina", "La casa", "La ciudad y direcciones", "Compras y dinero", "Gustos y pasatiempos", "Ahora y planes"] },
-  "pt": { "nombre": "Portugués", "unidades": ["a1-u1", "a1-u2", "a1-u3"], "proximas": ["Mi familia", "La hora, los días y mi rutina", "La casa", "La ciudad y direcciones", "Compras y dinero", "Gustos y pasatiempos", "Ahora y planes"] },
-  "it": { "nombre": "Italiano", "unidades": ["a1-u1", "a1-u2", "a1-u3"], "proximas": ["Mi familia", "La hora, los días y mi rutina", "La casa", "La ciudad y direcciones", "Compras y dinero", "Gustos y pasatiempos", "Ahora y planes"] }
+  "en": {
+    "niveles": [
+      {
+        "id": "a1",
+        "unidades": [
+          "a1-u1",
+          "a1-u2",
+          "a1-u3",
+          "a1-u4",
+          "a1-u5",
+          "a1-u6",
+          "a1-u7",
+          "a1-u8",
+          "a1-u9",
+          "a1-u10"
+        ],
+        "total": 10,
+        "completo": true
+      }
+    ]
+  },
+  "pt": {
+    "niveles": [
+      {
+        "id": "a1",
+        "unidades": [
+          "a1-u1",
+          "a1-u2",
+          "a1-u3",
+          "a1-u4",
+          "a1-u5",
+          "a1-u6",
+          "a1-u7",
+          "a1-u8",
+          "a1-u9",
+          "a1-u10"
+        ],
+        "total": 10,
+        "completo": true
+      }
+    ]
+  },
+  "it": {
+    "niveles": [
+      {
+        "id": "a1",
+        "unidades": [
+          "a1-u1",
+          "a1-u2",
+          "a1-u3",
+          "a1-u4",
+          "a1-u5",
+          "a1-u6",
+          "a1-u7",
+          "a1-u8",
+          "a1-u9",
+          "a1-u10"
+        ],
+        "total": 10,
+        "completo": true
+      }
+    ]
+  }
 }

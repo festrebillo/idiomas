@@ -1,0 +1,229 @@
+{
+  "id": "en-a1-u4",
+  "idioma": "en",
+  "nivel": "A1",
+  "n": 4,
+  "titulo": "Mi familia",
+  "resumen": "Aprenderás a nombrar a tu familia, decir de quién es algo con my, your, his, her, our, their, y contar lo que tienes con have y has.",
+  "puedo": [
+    "Nombrar a mi familia cercana y extendida.",
+    "Hablar de mis amigos y mis parejas.",
+    "Usar my, your, his, her, our y their.",
+    "Decir lo que tengo con have y has.",
+    "Preguntar y decir cuántos hermanos o hijos hay.",
+    "Describir a una persona con adjetivos simples."
+  ],
+  "gramatica": {
+    "titulo": "my, your, his, her... y have / has",
+    "texto": "Para decir de quién es algo se usa una palabra antes del nombre: my mother (mi madre), your brother (tu hermano), his sister (su hermana de él), her sister (su hermana de ella), our son (nuestro hijo), their daughter (su hija de ellos). Truco: en inglés «su» tiene varias formas y se elige según QUIÉN es el dueño: his (de él), her (de ella), their (de ellos).\nTener se dice have. Con I, you, we y they se usa have (I have a sister). Con he, she e it cambia a has (she has a sister). Truco: has se usa solo con he, she, it, y con nombres de una persona: my sister has, Tom has.",
+    "tabla": [
+      ["my / your", "mi / tu", "mai / iór"],
+      ["his / her", "su (de él) / su (de ella)", "jis / jer"],
+      ["our / their", "nuestro / su (de ellos)", "áuer / déir"],
+      ["I have a sister", "tengo una hermana", "ai jav a síster"],
+      ["you have / we have / they have", "tienes / tenemos / tienen", "iú jav / uí jav / déi jav"],
+      ["he has / she has / it has", "él tiene / ella tiene / eso tiene", "ji jas / shi jas / it jas"]
+    ],
+    "errores": [
+      "Con he, she e it se dice has, no have: she has a brother, no «she have a brother». También con un nombre: my sister has.",
+      "His es de un hombre y her es de una mujer, aunque lo que se tiene sea de otro género: Ana has her brother (el hermano de Ana), Luis has his sister (la hermana de Luis).",
+      "La edad no se dice con have: I am twenty (tengo veinte años), no «I have twenty years»."
+    ]
+  },
+  "practica": [
+    "Dibuja tu árbol familiar y escribe debajo de cada persona: This is my mother. Her name is... (8 minutos).",
+    "Di en voz alta 6 frases con have y has sobre tu familia: I have a brother. My mother has two sisters. (5 minutos).",
+    "Mira una foto de tu familia y descríbela en voz alta con his, her y their (5 minutos).",
+    "Escribe 5 frases sobre un amigo con adjetivos: He is tall. He is very funny. Léelas en voz alta (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-a1-u4-l1",
+      "n": 1,
+      "titulo": "Familia cercana",
+      "objetivo": "Nombrar a los miembros más cercanos de la familia.",
+      "intro": "Empezamos por la familia más cercana. Truco: mother, father y brother llevan una «th» que suena como una «d» suave: máder, fáder, bráder. Mom y dad son las formas cariñosas, como «mamá» y «papá».",
+      "palabras": [
+        { "t": "mother", "es": "madre", "pron": "máder", "ej": "My mother is a doctor.", "ejes": "Mi madre es doctora.", "cog": false, "truco": "La «th» es una «d» suave con la lengua entre los dientes." },
+        { "t": "father", "es": "padre", "pron": "fáder", "ej": "My father is an engineer.", "ejes": "Mi padre es ingeniero.", "cog": false },
+        { "t": "parents", "es": "padres (papá y mamá)", "pron": "pérents", "ej": "My parents are from Peru.", "ejes": "Mis padres son de Perú.", "cog": false, "truco": "Cuidado: parents son «papá y mamá», no «parientes»." },
+        { "t": "sister", "es": "hermana", "pron": "síster", "ej": "Ana is my sister.", "ejes": "Ana es mi hermana.", "cog": false },
+        { "t": "brother", "es": "hermano", "pron": "bráder", "ej": "Luis is my brother.", "ejes": "Luis es mi hermano.", "cog": false },
+        { "t": "son", "es": "hijo", "pron": "san", "ej": "My son is five.", "ejes": "Mi hijo tiene cinco años.", "cog": false, "truco": "son suena «san», igual que sun (sol)." },
+        { "t": "daughter", "es": "hija", "pron": "dóter", "ej": "Your daughter is nice.", "ejes": "Tu hija es simpática.", "cog": false, "truco": "La «gh» no se pronuncia: «dóter»." },
+        { "t": "baby", "es": "bebé", "pron": "béibi", "ej": "The baby is one year old.", "ejes": "El bebé tiene un año.", "cog": false },
+        { "t": "mom", "es": "mamá", "pron": "mam", "ej": "Mom is a teacher.", "ejes": "Mamá es profesora.", "cog": false, "truco": "En EE. UU. se dice mom; en inglés británico, mum." },
+        { "t": "dad", "es": "papá", "pron": "dad", "ej": "Dad is fine, thanks.", "ejes": "Papá está bien, gracias.", "cog": false }
+      ],
+      "frases": [
+        { "t": "My mother is a doctor.", "es": "Mi madre es doctora.", "pron": "mai máder is a dóctor" },
+        { "t": "Luis is my brother.", "es": "Luis es mi hermano.", "pron": "luis is mai bráder" },
+        { "t": "My parents are from Peru.", "es": "Mis padres son de Perú.", "pron": "mai pérents ar fram perú" },
+        { "t": "Is Ana your sister?", "es": "¿Ana es tu hermana?", "pron": "is ána iór síster" },
+        { "t": "The baby is one year old.", "es": "El bebé tiene un año.", "pron": "da béibi is uan ier old" },
+        { "t": "Mom and Dad are fine, thanks.", "es": "Mamá y papá están bien, gracias.", "pron": "mam an dad ar fain, zanks" }
+      ],
+      "dialogo": {
+        "titulo": "Una foto familiar",
+        "lineas": [
+          { "q": "A", "t": "Who is Ana?", "es": "¿Quién es Ana?" },
+          { "q": "B", "t": "Ana is my sister.", "es": "Ana es mi hermana." },
+          { "q": "A", "t": "Is she a student?", "es": "¿Es estudiante?" },
+          { "q": "B", "t": "Yes, she is. She is fifteen.", "es": "Sí. Tiene quince años." },
+          { "q": "A", "t": "And who is Luis?", "es": "¿Y quién es Luis?" },
+          { "q": "B", "t": "Luis is my brother. He is twenty.", "es": "Luis es mi hermano. Tiene veinte años." }
+        ]
+      },
+      "nota": "Parents significa «papá y mamá» juntos. Para «parientes» o «familiares» se dice relatives. Una buena forma de recordarlo: parents son tus padres; relatives son todos los demás."
+    },
+    {
+      "id": "en-a1-u4-l2",
+      "n": 2,
+      "titulo": "Familia extendida y amigos",
+      "objetivo": "Nombrar a abuelos, tíos, primos, pareja y amigos.",
+      "intro": "Ahora la familia más grande. Truco: grandmother y grandfather se forman con grand + la palabra madre o padre; los grandparents son los dos juntos. Y friend se escribe con «ie» pero suena «frend».",
+      "palabras": [
+        { "t": "grandmother", "es": "abuela", "pron": "gránmader", "ej": "My grandmother is ninety.", "ejes": "Mi abuela tiene noventa años.", "cog": false, "truco": "En la conversación también se dice grandma." },
+        { "t": "grandfather", "es": "abuelo", "pron": "gránfader", "ej": "My grandfather is Mexican.", "ejes": "Mi abuelo es mexicano.", "cog": false, "truco": "En la conversación también se dice grandpa." },
+        { "t": "grandparents", "es": "abuelos (los dos)", "pron": "gránperents", "ej": "My grandparents are Mexican.", "ejes": "Mis abuelos son mexicanos.", "cog": false },
+        { "t": "uncle", "es": "tío", "pron": "ánkol", "ej": "My uncle is an engineer.", "ejes": "Mi tío es ingeniero.", "cog": false },
+        { "t": "aunt", "es": "tía", "pron": "ant", "ej": "Your aunt is nice.", "ejes": "Tu tía es simpática.", "cog": false, "truco": "En EE. UU. aunt suena «ant», igual que la palabra para «hormiga»." },
+        { "t": "cousin", "es": "primo / prima", "pron": "cásin", "ej": "My cousin is a student.", "ejes": "Mi primo es estudiante.", "cog": false, "truco": "cousin sirve para primo y prima." },
+        { "t": "husband", "es": "esposo / marido", "pron": "jásband", "ej": "My husband is Peruvian.", "ejes": "Mi esposo es peruano.", "cog": false },
+        { "t": "wife", "es": "esposa", "pron": "uaif", "ej": "My wife is a doctor.", "ejes": "Mi esposa es doctora.", "cog": false },
+        { "t": "friend", "es": "amigo / amiga", "pron": "frend", "ej": "Maria is my friend.", "ejes": "Maria es mi amiga.", "cog": false, "truco": "Se escribe «ie» pero suena «e»: frend." }
+      ],
+      "frases": [
+        { "t": "My grandmother is ninety.", "es": "Mi abuela tiene noventa años.", "pron": "mai gránmader is náinti" },
+        { "t": "Pablo is my cousin.", "es": "Pablo es mi primo.", "pron": "páblo is mai cásin" },
+        { "t": "Tom is my husband.", "es": "Tom es mi esposo.", "pron": "tam is mai jásband" },
+        { "t": "My aunt and uncle are from Spain.", "es": "Mis tíos son de España.", "pron": "mai ant an ánkol ar fram spein" },
+        { "t": "Carla is my friend.", "es": "Carla es mi amiga.", "pron": "cárla is mai frend" },
+        { "t": "Are your grandparents Peruvian?", "es": "¿Tus abuelos son peruanos?", "pron": "ar iór gránperents perúvian" }
+      ],
+      "dialogo": {
+        "titulo": "Quién es quién",
+        "lineas": [
+          { "q": "A", "t": "Is Pedro your uncle?", "es": "¿Pedro es tu tío?" },
+          { "q": "B", "t": "No, he is my cousin.", "es": "No, es mi primo." },
+          { "q": "A", "t": "And who is Carmen?", "es": "¿Y quién es Carmen?" },
+          { "q": "B", "t": "Carmen is my grandmother. She is ninety.", "es": "Carmen es mi abuela. Tiene noventa años." },
+          { "q": "A", "t": "Wow! And who is Tom?", "es": "¡Vaya! ¿Y quién es Tom?" },
+          { "q": "B", "t": "Tom is my aunt's husband.", "es": "Tom es el esposo de mi tía." }
+        ]
+      },
+      "nota": "En inglés no hay palabra aparte para «tío» o «tía» según el lado de la familia: uncle y aunt sirven para todos. Y para «primos» (varios), se dice cousins."
+    },
+    {
+      "id": "en-a1-u4-l3",
+      "n": 3,
+      "titulo": "my, your, his, her",
+      "objetivo": "Decir de quién es algo con my, your, his, her, our y their.",
+      "intro": "Estas palabras van delante del nombre y no cambian con él: his mother y his brothers. Truco: his es de un hombre (he), her es de una mujer (she) y their es de varios. Se elige según el dueño, no según lo que se tiene.",
+      "palabras": [
+        { "t": "his", "es": "su (de él)", "pron": "jis", "ej": "His name is Luis.", "ejes": "Su nombre es Luis.", "cog": false },
+        { "t": "her", "es": "su (de ella)", "pron": "jer", "ej": "Her name is Ana.", "ejes": "Su nombre es Ana.", "cog": false },
+        { "t": "our", "es": "nuestro / nuestra", "pron": "áuer", "ej": "Our teacher is nice.", "ejes": "Nuestra profesora es simpática.", "cog": false },
+        { "t": "their", "es": "su (de ellos)", "pron": "déir", "ej": "Their son is a student.", "ejes": "Su hijo es estudiante.", "cog": false, "truco": "their suena igual que there y they're." },
+        { "t": "its", "es": "su (de un animal o cosa)", "pron": "its", "ej": "Its name is Max.", "ejes": "Su nombre es Max.", "cog": false, "truco": "its (sin apóstrofo) es posesivo; it's es it is." },
+        { "t": "this", "es": "este / esta / esto", "pron": "dis", "ej": "This is my mother.", "ejes": "Esta es mi madre.", "cog": false, "truco": "this suena «dis», con la lengua entre los dientes." },
+        { "t": "family", "es": "familia", "pron": "fámili", "ej": "This is my family.", "ejes": "Esta es mi familia.", "cog": true }
+      ],
+      "frases": [
+        { "t": "This is my mother.", "es": "Esta es mi madre.", "pron": "dis is mai máder" },
+        { "t": "Her name is Rosa.", "es": "Su nombre es Rosa.", "pron": "jer neim is rósa" },
+        { "t": "His name is Luis.", "es": "Su nombre es Luis.", "pron": "jis neim is luis" },
+        { "t": "Our teacher is nice.", "es": "Nuestra profesora es simpática.", "pron": "áuer tícher is nais" },
+        { "t": "Their daughter is a doctor.", "es": "Su hija es doctora.", "pron": "déir dóter is a dóctor" },
+        { "t": "Is this your family?", "es": "¿Esta es tu familia?", "pron": "is dis iór fámili" }
+      ],
+      "dialogo": {
+        "titulo": "Mirando fotos",
+        "lineas": [
+          { "q": "A", "t": "Is this your family?", "es": "¿Esta es tu familia?" },
+          { "q": "B", "t": "Yes! This is my father. His name is Carlos.", "es": "¡Sí! Este es mi padre. Su nombre es Carlos." },
+          { "q": "A", "t": "And she is your mother?", "es": "¿Y ella es tu madre?" },
+          { "q": "B", "t": "Yes. Her name is Rosa.", "es": "Sí. Su nombre es Rosa." },
+          { "q": "A", "t": "And who are they?", "es": "¿Y quiénes son ellos?" },
+          { "q": "B", "t": "They are my cousins. Their names are Ana and Pablo.", "es": "Son mis primos. Sus nombres son Ana y Pablo." }
+        ]
+      },
+      "nota": "En español «su» puede ser de él, de ella, de ustedes o de ellos. En inglés cada uno tiene su palabra: his, her, your y their. ¡Es más claro! Y recuerda: my y your ya los conoces de la unidad 1."
+    },
+    {
+      "id": "en-a1-u4-l4",
+      "n": 4,
+      "titulo": "Have / has",
+      "objetivo": "Decir lo que tienes y preguntar cuántos hermanos o hijos tiene alguien.",
+      "intro": "Para «tener» se usa have, y con he, she e it cambia a has. Truco: «has» se escribe distinto porque es la excepción: I have, you have, we have, they have, pero she has. Para preguntar usamos Do you have...? (¿tienes...?).",
+      "palabras": [
+        { "t": "has", "es": "tiene (él / ella)", "pron": "jas", "ej": "She has two brothers.", "ejes": "Ella tiene dos hermanos.", "cog": false, "truco": "has solo se usa con he, she, it y con un nombre de una persona." },
+        { "t": "how many", "es": "cuántos / cuántas", "pron": "jau méni", "ej": "How many sisters do you have?", "ejes": "¿Cuántas hermanas tienes?", "cog": false, "truco": "how many se usa con cosas que se cuentan: sisters, chairs." },
+        { "t": "only", "es": "solo / solamente", "pron": "ónli", "ej": "I only have one brother.", "ejes": "Solo tengo un hermano.", "cog": false },
+        { "t": "also", "es": "también", "pron": "ólsou", "ej": "He also has a dog.", "ejes": "Él también tiene un perro.", "cog": false },
+        { "t": "twins", "es": "mellizos / gemelos", "pron": "tuins", "ej": "My sister has twins.", "ejes": "Mi hermana tiene mellizos.", "cog": false },
+        { "t": "pet", "es": "mascota", "pron": "pet", "ej": "I have a pet.", "ejes": "Tengo una mascota.", "cog": false },
+        { "t": "dog", "es": "perro", "pron": "dog", "ej": "My uncle has a dog.", "ejes": "Mi tío tiene un perro.", "cog": false },
+        { "t": "cat", "es": "gato", "pron": "cat", "ej": "She has a cat.", "ejes": "Ella tiene un gato.", "cog": false, "truco": "cat suena «cat», con una a abierta entre «a» y «e»." }
+      ],
+      "frases": [
+        { "t": "I have a sister.", "es": "Tengo una hermana.", "pron": "ai jav a síster" },
+        { "t": "She has two brothers.", "es": "Ella tiene dos hermanos.", "pron": "shi jas tu bráders" },
+        { "t": "My uncle has a dog.", "es": "Mi tío tiene un perro.", "pron": "mai ánkol jas a dog" },
+        { "t": "I don't have a brother.", "es": "No tengo hermanos.", "pron": "ai dount jav a bráder" },
+        { "t": "Do you have a pet?", "es": "¿Tienes una mascota?", "pron": "du iú jav a pet" },
+        { "t": "How many sisters do you have?", "es": "¿Cuántas hermanas tienes?", "pron": "jau méni sísters du iú jav" }
+      ],
+      "dialogo": {
+        "titulo": "¿Cuántos hermanos tienes?",
+        "lineas": [
+          { "q": "A", "t": "Do you have a pet?", "es": "¿Tienes una mascota?" },
+          { "q": "B", "t": "Yes, I have a dog. His name is Max.", "es": "Sí, tengo un perro. Se llama Max." },
+          { "q": "A", "t": "How many brothers do you have?", "es": "¿Cuántos hermanos tienes?" },
+          { "q": "B", "t": "I have two brothers. And you?", "es": "Tengo dos hermanos. ¿Y tú?" },
+          { "q": "A", "t": "I only have a sister.", "es": "Yo solo tengo una hermana." },
+          { "q": "B", "t": "Nice! My brothers also have dogs.", "es": "¡Qué bien! Mis hermanos también tienen perros." }
+        ]
+      },
+      "nota": "Do you have...? es la pregunta para tener: Do you have a brother? Aquí do solo sirve para hacer la pregunta y no se traduce. En la unidad 5 verás mejor cómo funciona. En la respuesta: Yes, I do (Sí) o No, I don't (No)."
+    },
+    {
+      "id": "en-a1-u4-l5",
+      "n": 5,
+      "titulo": "Describir a la familia",
+      "objetivo": "Describir a las personas de tu familia con adjetivos simples y repasar la unidad.",
+      "intro": "Para describir a alguien usa is + adjetivo: My father is tall. Truco: el adjetivo no cambia con el género ni con el plural: my sister is tall y my brothers are tall. Y very (muy) va justo antes del adjetivo.",
+      "palabras": [
+        { "t": "tall", "es": "alto / alta", "pron": "tol", "ej": "My father is tall.", "ejes": "Mi padre es alto.", "cog": false, "truco": "tall suena «tol»." },
+        { "t": "short", "es": "bajo / baja (de estatura)", "pron": "shórt", "ej": "My cousin is short.", "ejes": "Mi primo es bajo.", "cog": false },
+        { "t": "young", "es": "joven", "pron": "yang", "ej": "My aunt is young.", "ejes": "Mi tía es joven.", "cog": false },
+        { "t": "funny", "es": "gracioso / divertido", "pron": "fáni", "ej": "Her brother is funny.", "ejes": "Su hermano es gracioso.", "cog": false },
+        { "t": "kind", "es": "amable / bondadoso", "pron": "kaind", "ej": "My grandmother is kind.", "ejes": "Mi abuela es amable.", "cog": false, "truco": "Cuidado: kind es «amable», no «tipo»." },
+        { "t": "friendly", "es": "amigable / simpático", "pron": "fréndli", "ej": "Their uncle is friendly.", "ejes": "Su tío es amigable.", "cog": false },
+        { "t": "married", "es": "casado / casada", "pron": "mérid", "ej": "My sister is married.", "ejes": "Mi hermana está casada.", "cog": false },
+        { "t": "single", "es": "soltero / soltera", "pron": "síngol", "ej": "He is single.", "ejes": "Él es soltero.", "cog": false },
+        { "t": "very", "es": "muy", "pron": "véri", "ej": "She is very tall.", "ejes": "Ella es muy alta.", "cog": false }
+      ],
+      "frases": [
+        { "t": "My father is tall, but my mother is short.", "es": "Mi padre es alto, pero mi madre es baja.", "pron": "mai fáder is tol, bat mai máder is shórt" },
+        { "t": "Her brother is very funny.", "es": "Su hermano es muy gracioso.", "pron": "jer bráder is véri fáni" },
+        { "t": "My grandfather is old, but he is very nice.", "es": "Mi abuelo es mayor, pero es muy simpático.", "pron": "mai gránfader is old, bat ji is véri nais" },
+        { "t": "My aunt is married and she has two sons.", "es": "Mi tía está casada y tiene dos hijos.", "pron": "mai ant is mérid an shi jas tu sans" },
+        { "t": "He is single and he has a dog.", "es": "Él es soltero y tiene un perro.", "pron": "ji is síngol an ji jas a dog" },
+        { "t": "Their friend is kind and friendly.", "es": "Su amigo es amable y simpático.", "pron": "déir frend is kaind an fréndli" }
+      ],
+      "dialogo": {
+        "titulo": "Hablando de mi hermano",
+        "lineas": [
+          { "q": "A", "t": "Is your brother tall?", "es": "¿Tu hermano es alto?" },
+          { "q": "B", "t": "Yes, he is very tall.", "es": "Sí, es muy alto." },
+          { "q": "A", "t": "Is he young?", "es": "¿Es joven?" },
+          { "q": "B", "t": "Yes, he is twenty. And he is very friendly!", "es": "Sí, tiene veinte años. ¡Y es muy simpático!" },
+          { "q": "A", "t": "Is he married?", "es": "¿Está casado?" },
+          { "q": "B", "t": "No, he is single. He has a cat.", "es": "No, es soltero. Tiene un gato." }
+        ]
+      },
+      "nota": "Con personas mayores, old (viejo) puede sonar poco amable. Muchos hablantes prefieren decir the elderly o simplemente la edad: My grandfather is eighty. Con objetos y casas, old se usa sin problema. Y recuerda: she has, he has, my brother has."
+    }
+  ]
+}

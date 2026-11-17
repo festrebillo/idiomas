@@ -10,14 +10,14 @@ const limpio = (s) => typeof s === 'string' && s.trim() === s && s.length > 0 &&
 const filtro = process.argv[2];
 for (const id of idiomas) {
   const dir = path.join(raiz, id); if (!fs.existsSync(dir)) continue;
-  for (const arch of fs.readdirSync(dir).filter(x => /^a1-u\d+\.json$/.test(x)).sort()) {
+  for (const arch of fs.readdirSync(dir).filter(x => /^(a1|a2|b1|b2|c1)-u\d+\.json$/.test(x)).sort()) {
     if (filtro && !(id + '/' + arch).includes(filtro)) continue;
     const F = id + '/' + arch; let u;
     try { u = JSON.parse(fs.readFileSync(path.join(dir, arch), 'utf8')); } catch (e) { err(F, 'JSON inválido: ' + e.message); continue; }
     unidades++;
-    const n = +arch.match(/u(\d+)/)[1];
-    if (u.id !== id + '-a1-u' + n) err(F, 'id esperado ' + id + '-a1-u' + n + ' y es ' + u.id);
-    if (u.idioma !== id || u.nivel !== 'A1' || u.n !== n) err(F, 'idioma/nivel/n incorrectos');
+    const n = +arch.match(/u(\d+)/)[1], niv = arch.slice(0, 2);
+    if (u.id !== id + '-' + niv + '-u' + n) err(F, 'id esperado ' + id + '-' + niv + '-u' + n + ' y es ' + u.id);
+    if (u.idioma !== id || u.nivel !== niv.toUpperCase() || u.n !== n) err(F, 'idioma/nivel/n incorrectos');
     if (!limpio(u.titulo) || !limpio(u.resumen)) err(F, 'titulo/resumen vacíos o con caracteres no permitidos');
     if (!Array.isArray(u.puedo) || u.puedo.length < 4 || u.puedo.length > 6) err(F, '«puedo» debe tener 4 a 6 elementos');
     const g = u.gramatica || {};
@@ -29,7 +29,7 @@ for (const id of idiomas) {
     const vistas = new Set();
     u.lecciones.forEach((L, i) => {
       lecciones++; const P = F + ' L' + (i + 1);
-      if (L.id !== id + '-a1-u' + n + '-l' + (i + 1) || L.n !== i + 1) err(P, 'id/n incorrectos');
+      if (L.id !== id + '-' + niv + '-u' + n + '-l' + (i + 1) || L.n !== i + 1) err(P, 'id/n incorrectos');
       if (!limpio(L.titulo) || !limpio(L.objetivo) || typeof L.intro !== 'string' || L.intro.length < 20) err(P, 'titulo/objetivo/intro incompletos');
       const W = L.palabras || [], Fr = L.frases || [];
       if (W.length < 7 || W.length > 10) err(P, 'palabras: 7 a 10 (hay ' + W.length + ')');

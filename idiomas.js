@@ -1,7 +1,7 @@
 /* Idiomas · curso por unidades con lecciones, repaso espaciado y audio. Tu progreso va a tu hoja «Fergard · Idiomas». */
 (function () {
   "use strict";
-  var CFG = window.FG_CFG || {}, VERSION = "0.1.0", DB_KEY = "idiomas_db", M = window.IMotor;
+  var CFG = window.FG_CFG || {}, VERSION = "0.2.0", DB_KEY = "idiomas_db", M = window.IMotor;
   var IDI = [{ id: "en", n: "Inglés", nat: "English", b: "🇺🇸", voz: "en-US" }, { id: "pt", n: "Portugués", nat: "Português", b: "🇧🇷", voz: "pt-BR" }, { id: "it", n: "Italiano", nat: "Italiano", b: "🇮🇹", voz: "it-IT" }];
   var $ = function (s, r) { return (r || document).querySelector(s); };
   var $$ = function (s, r) { return Array.prototype.slice.call((r || document).querySelectorAll(s)); };
@@ -59,15 +59,24 @@
   /* ---------- curso ---------- */
   function cargarCurso(id) {
     if (S.C[id]) return Promise.resolve(S.C[id]);
-    return (S.ix ? Promise.resolve(S.ix) : fetch("data/cursos.json").then(function (r) { return r.json(); }).then(function (x) { S.ix = x; return x; })).then(function (ix) {
-      var def = ix[id]; return Promise.all(def.unidades.map(function (u) { return fetch("data/" + id + "/" + u + ".json").then(function (r) { return r.json(); }); })).then(function (us) { S.C[id] = { unidades: us, proximas: def.proximas || [], cat: M.indexar(us) }; return S.C[id]; });
+    return Promise.all([S.ix ? S.ix : fetch("data/cursos.json").then(function (r) { return r.json(); }), S.plan ? S.plan : fetch("data/plan.json").then(function (r) { return r.json(); })]).then(function (r) {
+      S.ix = r[0]; S.plan = r[1]; var def = S.ix[id], cargas = [];
+      def.niveles.forEach(function (n) { n.unidades.forEach(function (u) { cargas.push(fetch("data/" + id + "/" + u + ".json").then(function (x) { return x.json(); })); }); });
+      return Promise.all(cargas).then(function (us) {
+        var k = 0, niveles = def.niveles.map(function (n) { var pl = S.plan.niveles.filter(function (p) { return p.id === n.id; })[0], l = us.slice(k, k + n.unidades.length); k += n.unidades.length; return { id: n.id, nombre: pl.nombre, horas: pl.horas, total: n.total, completo: n.completo, plan: pl.unidades, unidades: l }; });
+        S.C[id] = { niveles: niveles, unidades: us, cat: M.indexar(us) }; return S.C[id];
+      });
     });
   }
   function curso() { return S.C[db.aj.idioma]; }
   function hecha(id) { return !!(db.lec[id] && db.lec[id].e >= 1); }
   function examOk(uid) { return !!(db.exa[uid] && db.exa[uid].ok); }
-  function secuencia(c) {   // orden fijo: 5 lecciones y el examen de cada unidad
-    var s = []; c.unidades.forEach(function (u, k) { u.lecciones.forEach(function (L, i) { s.push({ k: "lec", u: k, i: i, id: L.id, ok: hecha(L.id) }); }); s.push({ k: "exa", u: k, i: 5, id: u.id, ok: examOk(u.id) }); });
+  function secuencia(c) {   // orden fijo: por nivel, 5 lecciones y examen de cada unidad, y examen final del nivel
+    var s = [], idi = db.aj.idioma;
+    c.niveles.forEach(function (nv, nk) {
+      nv.unidades.forEach(function (u) { var k = c.unidades.indexOf(u); u.lecciones.forEach(function (L, i) { s.push({ k: "lec", u: k, i: i, id: L.id, ok: hecha(L.id) }); }); s.push({ k: "exa", u: k, i: 5, id: u.id, ok: examOk(u.id) }); });
+      if (nv.completo) s.push({ k: "niv", u: -1, nv: nk, i: 6, id: idi + "-" + nv.id, ok: examOk(idi + "-" + nv.id) });
+    });
     var act = -1; s.forEach(function (e, n) { if (act < 0 && !e.ok) act = n; }); s.forEach(function (e, n) { e.estado = e.ok ? "hecha" : n === act ? "actual" : "bloq"; }); return s;
   }
   function srsMap(idioma) {
@@ -107,22 +116,31 @@
     return '<div class="top"><button class="chip idi" data-a="idi" aria-label="Cambiar de idioma">' + i.b + " " + esc(i.n) + ' ▾</button><span class="chip" aria-label="Racha">🔥 ' + r + '</span><span class="chip" aria-label="Puntos">⭐ ' + xpTotal() + "</span></div>";
   }
   function leccionesHoy() { var d = db.dia[M.hoy()]; return d ? d.n || 0 : 0; }
+  function nodoHtml(e, c, j) {
+    var u = e.u >= 0 ? c.unidades[e.u] : null, off = [0, 44, 66, 44, 0, -44, -66][j % 7];
+    var cls = (e.k !== "lec" ? "exam " : "") + e.estado, cont = e.k === "lec" ? (e.estado === "hecha" ? "✓" : e.estado === "actual" ? "▶" : "🔒") : (e.ok ? "✓" : e.estado === "bloq" ? "🔒" : e.k === "niv" ? "🏆" : "👑");
+    var est = e.k === "lec" && e.ok ? '<span class="st" aria-hidden="true">' + "★★★".slice(0, db.lec[e.id].e) + "☆☆☆".slice(0, 3 - db.lec[e.id].e) + "</span>" : "";
+    var rot = e.k === "niv" ? "Examen final del nivel" : e.k === "exa" ? "Examen de la unidad " + u.n : "Lección " + (e.i + 1) + ": " + u.lecciones[e.i].titulo;
+    return '<button class="nd ' + cls + '" style="transform:translateX(' + off + 'px)" data-a="nodo" data-u="' + e.u + '" data-i="' + e.i + '"' + (e.k === "niv" ? ' data-nv="' + e.nv + '"' : "") + ' aria-label="' + esc(rot) + (e.estado === "bloq" ? " (bloqueada)" : "") + '">' + (e.estado === "actual" ? '<span class="go">EMPEZAR</span>' : "") + cont + est + "</button>";
+  }
   function vCamino() {
     var c = curso(); if (!c) return '<div class="vacio"><b>Cargando el curso…</b>Un momento.</div>';
     var seq = secuencia(c), h = topBar(), meta = db.aj.meta || 1, hoyN = leccionesHoy(), pc = Math.min(100, Math.round(100 * hoyN / meta));
     h += '<div class="meta"><div style="flex:1"><b>Meta de hoy</b><small>' + hoyN + " de " + meta + (meta === 1 ? " lección" : " lecciones") + (hoyN >= meta ? " · ¡cumplida! 🎉" : "") + '</small></div><div class="bar" style="max-width:110px"><i style="width:' + pc + '%"></i></div></div>';
-    c.unidades.forEach(function (u, k) {
-      h += '<div class="ub"><div><small>UNIDAD ' + u.n + " · " + esc(u.nivel) + "</small><b>" + esc(u.titulo) + '</b></div><button data-a="guia" data-u="' + k + '" aria-label="Guía de la unidad ' + u.n + '">📘 Guía</button></div><div class="path">';
-      var j = 0; seq.filter(function (e) { return e.u === k; }).forEach(function (e) {
-        var off = [0, 44, 66, 44, 0, -44, -66][j % 7]; j++;
-        var cls = (e.k === "exa" ? "exam " : "") + e.estado, cont = e.k === "exa" ? (e.ok ? "✓" : e.estado === "bloq" ? "🔒" : "👑") : e.estado === "hecha" ? "✓" : e.estado === "actual" ? "▶" : "🔒";
-        var est = e.k === "lec" && e.ok ? '<span class="st" aria-hidden="true">' + "★★★".slice(0, db.lec[e.id].e) + "☆☆☆".slice(0, 3 - db.lec[e.id].e) + "</span>" : "";
-        var rot = e.k === "exa" ? "Examen de la unidad " + u.n : "Lección " + (e.i + 1) + ": " + u.lecciones[e.i].titulo;
-        h += '<button class="nd ' + cls + '" style="transform:translateX(' + off + 'px)" data-a="nodo" data-u="' + k + '" data-i="' + e.i + '" aria-label="' + esc(rot) + (e.estado === "bloq" ? " (bloqueada)" : "") + '">' + (e.estado === "actual" ? '<span class="go">EMPEZAR</span>' : "") + cont + est + "</button>";
+    c.niveles.forEach(function (nv) {
+      var hechasN = 0, totN = nv.unidades.length * 5; nv.unidades.forEach(function (u) { u.lecciones.forEach(function (L) { if (hecha(L.id)) hechasN++; }); });
+      h += '<div class="nvl"><b>' + esc(nv.nombre) + "</b><small>" + hechasN + " de " + totN + " lecciones · " + nv.unidades.length + " de " + nv.total + " unidades · " + esc(nv.horas) + " de estudio guiado</small></div>";
+      nv.unidades.forEach(function (u) {
+        var k = c.unidades.indexOf(u);
+        h += '<div class="ub"><div><small>UNIDAD ' + u.n + " · " + esc(u.nivel) + "</small><b>" + esc(u.titulo) + '</b></div><button data-a="guia" data-u="' + k + '" aria-label="Guía de la unidad ' + u.n + '">📘 Guía</button></div><div class="path">';
+        var j = 0; seq.filter(function (e) { return e.u === k; }).forEach(function (e) { h += nodoHtml(e, c, j++); });
+        h += "</div>";
       });
-      h += "</div>";
+      if (nv.completo) { var ne = seq.filter(function (e) { return e.k === "niv" && e.nv === c.niveles.indexOf(nv); })[0]; h += '<div class="ub" style="background:#7C5CFF;box-shadow:0 5px 0 #5238C8"><div><small>EXAMEN FINAL</small><b>Nivel ' + esc(nv.id.toUpperCase()) + '</b></div></div><div class="path">' + nodoHtml(ne, c, 0) + "</div>"; }
+      else h += '<div class="prox"><b>🚧 Próximamente · resto del nivel ' + esc(nv.id.toUpperCase()) + "</b>" + nv.plan.slice(nv.unidades.length).map(function (t, n) { return "<div>Unidad " + (nv.unidades.length + n + 1) + " · " + esc(t) + "</div>"; }).join("") + "<div>🏆 Examen final del nivel</div></div>";
     });
-    if (c.proximas.length) h += '<div class="prox"><b>🚧 Próximamente · resto del nivel A1</b>' + c.proximas.map(function (t, n) { return "<div>Unidad " + (c.unidades.length + n + 1) + " · " + esc(t) + "</div>"; }).join("") + "<div>🏆 Examen final del nivel A1</div></div>";
+    var vistos = {}; c.niveles.forEach(function (n) { vistos[n.id] = 1; }); var faltan = S.plan.niveles.filter(function (n) { return !vistos[n.id]; });
+    if (faltan.length) h += '<div class="prox"><b>🗺️ Más adelante</b>' + faltan.map(function (n) { return "<div>" + esc(n.nombre) + " · " + n.unidades.length + " unidades</div>"; }).join("") + "</div>";
     return h;
   }
   function vRepaso() {
@@ -165,8 +183,8 @@
   function cerrar() { $("#modal").hidden = true; $("#modal").innerHTML = ""; }
   function hojaIdiomas() {
     var h = "<h3>Elige el idioma</h3>";
-    IDI.forEach(function (i) { var def = S.ix && S.ix[i.id], tot = def ? def.unidades.length * 5 : 15, hechas = Object.keys(db.lec).filter(function (id) { return id.indexOf(i.id + "-") === 0 && db.lec[id].e >= 1; }).length;
-      h += '<button class="card" style="display:flex;align-items:center;gap:14px;width:100%;text-align:left;' + (i.id === db.aj.idioma ? "border-color:var(--pri)" : "") + '" data-a="setidi" data-v="' + i.id + '"><span style="font-size:34px">' + i.b + '</span><span style="flex:1"><b style="font-size:18px">' + esc(i.n) + '</b><br><span class="st2">' + esc(i.nat) + " · " + hechas + " de " + tot + ' lecciones del A1</span></span>' + (i.id === db.aj.idioma ? "✓" : "") + "</button>"; });
+    IDI.forEach(function (i) { var def = S.ix && S.ix[i.id], tot = def ? def.niveles.reduce(function (a, n) { return a + n.unidades.length * 5; }, 0) : 15, hechas = Object.keys(db.lec).filter(function (id) { return id.indexOf(i.id + "-") === 0 && db.lec[id].e >= 1; }).length;
+      h += '<button class="card" style="display:flex;align-items:center;gap:14px;width:100%;text-align:left;' + (i.id === db.aj.idioma ? "border-color:var(--pri)" : "") + '" data-a="setidi" data-v="' + i.id + '"><span style="font-size:34px">' + i.b + '</span><span style="flex:1"><b style="font-size:18px">' + esc(i.n) + '</b><br><span class="st2">' + esc(i.nat) + " · " + hechas + " de " + tot + ' lecciones</span></span>' + (i.id === db.aj.idioma ? "✓" : "") + "</button>"; });
     abrir(h);
   }
   function hojaGuia(k) {
@@ -174,6 +192,11 @@
     abrir('<h3>Unidad ' + u.n + " · " + esc(u.titulo) + '</h3><div class="st2" style="margin:-4px 0 8px">' + esc(u.resumen) + '</div><div class="lbl">Al terminar podrás…</div>' + u.puedo.map(function (t, i) { return '<label class="puedo"><input type="checkbox" data-a="puedo" data-u="' + k + '" data-i="' + i + '"' + (pu.indexOf(i) >= 0 ? " checked" : "") + "><span>" + esc(t) + "</span></label>"; }).join("") +
       '<div class="st2">Marca solo lo que de verdad puedas hacer sin mirar.</div><div class="lbl">Gramática · ' + esc(g.titulo) + '</div><div class="card"><div style="font-size:15.5px;line-height:1.5">' + esc(g.texto).replace(/\n/g, "<br>") + '</div><table class="tabla">' + g.tabla.map(function (r) { return "<tr><td>" + esc(r[0]) + "</td><td>" + esc(r[1]) + "</td><td>" + esc(r[2] || "") + "</td></tr>"; }).join("") + "</table>" + g.errores.map(function (e) { return '<div class="err">⚠️ ' + esc(e) + "</div>"; }).join("") +
       '</div><div class="lbl">Práctica fuera de la app</div><div class="card">' + u.practica.map(function (t) { return '<div class="tarea">🎯 ' + esc(t) + "</div>"; }).join("") + '</div><div class="st2">Estas tareas te acercan a las horas de estudio que pide cada nivel: la app enseña y repasa; hablar y escuchar de verdad se practica fuera.</div>');
+  }
+  function hojaNivel(nk) {
+    var c = curso(), nv = c.niveles[nk], seq = secuencia(c), e = seq.filter(function (x) { return x.k === "niv" && x.nv === nk; })[0]; if (!e) return;
+    if (e.estado === "bloq") { toast("Termina todas las unidades del nivel para abrir el examen final"); return; }
+    var ex = db.exa[e.id]; abrir("<h3>🏆 Examen final · " + esc(nv.nombre) + '</h3><div class="card">40 preguntas mezcladas de todo el nivel: significado, escuchar, ordenar frases, completar y escribir.<br><br><b>Necesitas 85 % a la primera</b> para aprobar el nivel. Sin segundas oportunidades por pregunta.' + (ex ? "<br><br>Tu mejor resultado: <b>" + ex.p + " %</b>" + (ex.ok ? " · aprobado ✓" : "") : "") + '</div><button class="btn pri" data-a="empezarniv" data-nv="' + nk + '">' + (ex && ex.ok ? "Repetir examen" : "Empezar examen") + "</button>");
   }
   function hojaNodo(k, i) {
     var c = curso(), u = c.unidades[k], seq = secuencia(c), e = seq.filter(function (x) { return x.u === k && x.i === i; })[0];
@@ -260,8 +283,8 @@
   }
   function finHtml() {
     var f = P.fin, e = P.modo === "exa";
-    var titulo = e ? (f.aprobado ? "¡Examen aprobado!" : "Aún no lo logras") : P.modo === "rep" ? "¡Repaso hecho!" : "¡Lección completada!";
-    var sub = e && !f.aprobado ? "Necesitas 85 % a la primera. Repasa la unidad (📘 Guía y Repaso) e inténtalo de nuevo." : "";
+    var titulo = e ? (f.aprobado ? (P.nivel ? "¡Nivel aprobado! 🏆" : "¡Examen aprobado!") : "Aún no lo logras") : P.modo === "rep" ? "¡Repaso hecho!" : "¡Lección completada!";
+    var sub = e && !f.aprobado ? "Necesitas 85 % a la primera. Repasa lo aprendido (📘 Guía y Repaso) e inténtalo de nuevo." : "";
     return '<div class="jc"><div class="fin"><div class="es" aria-label="' + f.est + ' estrellas">' + "★".repeat(f.est) + '<span style="color:var(--gris2)">' + "★".repeat(3 - f.est) + "</span></div><h2>" + titulo + '</h2><div class="st2">' + esc(sub) + '</div><div class="nums"><div><b>' + f.pct + ' %</b><span>A la primera</span></div><div><b>+' + f.xp + '</b><span>Puntos</span></div><div><b>🔥 ' + f.racha + "</b><span>Racha</span></div></div>" +
       (f.rev.length ? '<div class="lbl">Para repasar</div><div class="rev">' + f.rev.map(function (it) { return "<div><b>" + esc(it.t) + "</b> · " + esc(it.es) + "</div>"; }).join("") + "</div>" : '<div class="st2">¡Sin errores que repasar! 🎉</div>') + '</div></div><div class="jf"><button class="btn pri" data-a="jfin">Continuar</button></div>';
   }
@@ -272,7 +295,7 @@
     var tocadas = {}; Object.keys(vistos).forEach(function (id) { if (!srs[id]) return; var lid = id.split("#")[0]; if (!db.lec[lid]) { if (P.modo === "lec" && lid === P.L.id) db.lec[lid] = { id: lid, e: 0, p: 0, n: 0 }; else return; } db.lec[lid].srs = db.lec[lid].srs || {}; db.lec[lid].srs[id] = [srs[id].b, srs[id].d]; tocadas[lid] = 1; });
     var est = M.estrellas(pct);
     if (P.modo === "lec") { var d = db.lec[P.L.id]; d.e = Math.max(d.e || 0, est); d.p = Math.max(d.p || 0, pct); d.n = (d.n || 0) + 1; d.f = hoyS; tocadas[P.L.id] = 1; xp = M.xpLeccion(pct); }
-    else if (P.modo === "exa") { aprobado = M.apruebaExamen(pct); var x = db.exa[P.u.id] || { id: P.u.id, p: 0, ok: false, n: 0 }; x.p = Math.max(x.p, pct); x.ok = x.ok || aprobado; x.n++; x.f = hoyS; db.exa[P.u.id] = x; touch("examen", x.id, x); xp = aprobado ? 25 : 5; est = aprobado ? M.estrellas(pct) : 1; }
+    else if (P.modo === "exa") { aprobado = M.apruebaExamen(pct); var xpA = P.nivel ? 50 : 25; var x = db.exa[P.u.id] || { id: P.u.id, p: 0, ok: false, n: 0 }; x.p = Math.max(x.p, pct); x.ok = x.ok || aprobado; x.n++; x.f = hoyS; db.exa[P.u.id] = x; touch("examen", x.id, x); xp = aprobado ? xpA : 5; est = aprobado ? M.estrellas(pct) : 1; }
     else xp = 5;
     Object.keys(tocadas).forEach(function (lid) { touch("leccion", lid, db.lec[lid]); });
     var dd = db.dia[hoyS] || { f: hoyS, xp: 0, n: 0 }; dd.xp += xp; if (P.modo === "lec") dd.n++; db.dia[hoyS] = dd; touch("dia", hoyS, dd);
@@ -312,7 +335,8 @@
     idi: hojaIdiomas,
     setidi: function (el) { db.aj.idioma = el.dataset.v; touch("ajustes", "a", db.aj); cerrar(); cargarCurso(db.aj.idioma).then(function () { pintar(); }); },
     guia: function (el) { hojaGuia(+el.dataset.u); },
-    nodo: function (el) { hojaNodo(+el.dataset.u, +el.dataset.i); },
+    nodo: function (el) { if (el.dataset.nv !== undefined) hojaNivel(+el.dataset.nv); else hojaNodo(+el.dataset.u, +el.dataset.i); },
+    empezarniv: function (el) { var c = curso(), nv = c.niveles[+el.dataset.nv], pu = { id: db.aj.idioma + "-" + nv.id, lecciones: [] }; nv.unidades.forEach(function (u) { pu.lecciones = pu.lecciones.concat(u.lecciones); }); iniciar("exa", c, pu, null, M.generarExamen(pu, Date.now() % 100000, 40)); P.nivel = true; },
     empezarlec: function (el) { var c = curso(), u = c.unidades[+el.dataset.u], L = u.lecciones[+el.dataset.i]; iniciar("lec", c, u, L, M.generarLeccion(L, u, Date.now() % 100000)); },
     empezarexa: function (el) { var c = curso(), u = c.unidades[+el.dataset.u]; iniciar("exa", c, u, null, M.generarExamen(u, Date.now() % 100000, 20)); },
     repasar: function () { var c = curso(), ids = vencidosHoy(); if (!ids.length) return; iniciar("rep", c, null, null, M.generarRepaso(ids, c.cat, Date.now() % 100000, 12)); },
@@ -357,8 +381,7 @@
   function boot() {
     window.ID_DEBUG = { db: function () { return db; }, S: S, A: A, P: function () { return P; }, M: M };
     cargarCurso(db.aj.idioma).then(function () { pintar(); return sync(false); }).then(function () { return cargarCurso(db.aj.idioma); }).then(function () { pintar(); buscarActualizacion(); }).catch(function () { $("#app").innerHTML = '<div class="vacio"><b>No se pudo cargar el curso</b>Abre la app con internet una vez.</div>'; });
-    if (S.ix === null) fetch("data/cursos.json").then(function (r) { return r.json(); }).then(function (x) { S.ix = x; }).catch(function () {});
-    if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(function () {});
+        if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(function () {});
   }
   FergardAcceso.iniciar({
     app: "idiomas", nombre: "Idiomas", clientId: CFG.CLIENT_ID, onListo: boot,

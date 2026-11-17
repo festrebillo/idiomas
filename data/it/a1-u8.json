@@ -1,0 +1,235 @@
+{
+  "id": "it-a1-u8",
+  "idioma": "it",
+  "nivel": "A1",
+  "n": 8,
+  "titulo": "Compras y dinero",
+  "resumen": "Aprenderás la ropa, los colores y las tallas, a probarte algo en una tienda, a preguntar precios y a pagar, usando questo y quello.",
+  "puedo": [
+    "Nombrar las prendas de ropa más comunes.",
+    "Decir colores y tallas: rosso, blu, piccola, media, grande.",
+    "Señalar algo con questo y quello.",
+    "Pedir probarme una prenda y decir que me queda grande o pequeña.",
+    "Preguntar precios con «Quanto costa?» y «Quanto costano?» y pagar.",
+    "Entender palabras como sconto, scontrino y saldi."
+  ],
+  "gramatica": {
+    "titulo": "Questo, quello y quanto",
+    "texto": "Para señalar algo cerca de ti usa questo (este); para algo lejos, quello (ese / aquel). Se adaptan al género y número como los adjetivos: questo vestito, questa giacca, questi pantaloni, queste scarpe.\nCon quello, delante de un sustantivo masculino se acorta a «quel»: quel vestito, quel cappello. Femenino: quella giacca. Plural: quei pantaloni, quelle scarpe.\nPara preguntar el precio: Quanto costa? (una cosa) y Quanto costano? (varias cosas). Quanti / quante = cuántos / cuántas: Quanti euro?\nTruco: «questo» tiene la «t» de «este» y «quello» la «ll» de «aquello».",
+    "tabla": [
+      ["questo vestito", "este vestido", "cuésto vestíto"],
+      ["questa giacca", "esta chaqueta", "cuésta yáca"],
+      ["questi pantaloni", "estos pantalones", "cuésti pantalóni"],
+      ["queste scarpe", "estos zapatos", "cuéste scárpe"],
+      ["quel vestito / quella giacca", "ese vestido / esa chaqueta", "cuel vestíto / cuélla yáca"],
+      ["quei pantaloni / quelle scarpe", "esos pantalones / esos zapatos", "cuéi pantalóni / cuélle scárpe"]
+    ],
+    "errores": [
+      "Concuerda el género: se dice «questa giacca», no «questo giacca».",
+      "No digas «Quanto costa?» para varias cosas: «Quanto costano questi pantaloni?».",
+      "Con el precio, «euro» no cambia: «due euro», no «due euros»."
+    ]
+  },
+  "practica": [
+    "Entra en tu armario y di en voz alta diez prendas con su color: «la camicia bianca, i pantaloni neri...» (5 minutos).",
+    "Señala objetos de tu cuarto y di «questo» si están cerca y «quello» si están lejos, con el género correcto (3 minutos).",
+    "Escribe un pequeño diálogo para comprar una prenda: «Cerco una giacca. Quanto costa?» (5 minutos).",
+    "Mira un catálogo de ropa y di en voz alta el precio de cinco prendas en euros (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-a1-u8-l1",
+      "n": 1,
+      "titulo": "Ropa",
+      "objetivo": "Nombrar diez prendas de ropa con su artículo.",
+      "intro": "Empezamos con la ropa de todos los días. Algunas palabras son plurales: i pantaloni y i calzini, igual que «los pantalones». Truco: aprende siempre con el artículo, como hasta ahora.",
+      "palabras": [
+        { "t": "la camicia", "es": "la camisa", "pron": "la camícha", "ej": "Mi piace la camicia.", "ejes": "Me gusta la camisa.", "cog": true, "truco": "«cia» suena «cha»: camí-cha." },
+        { "t": "i pantaloni", "es": "los pantalones", "pron": "i pantalóni", "ej": "Ecco i pantaloni.", "ejes": "Aquí están los pantalones.", "cog": true, "truco": "Casi siempre se usa en plural." },
+        { "t": "il vestito", "es": "el vestido / el traje", "pron": "il vestíto", "ej": "Ecco il vestito.", "ejes": "Aquí está el vestido.", "cog": true, "truco": "Sirve para el vestido de mujer y para el traje de hombre." },
+        { "t": "le scarpe", "es": "los zapatos", "pron": "le scárpe", "ej": "Ecco le scarpe.", "ejes": "Aquí están los zapatos.", "cog": false, "truco": "«sc» + a suena «sk»: scárpe." },
+        { "t": "la giacca", "es": "la chaqueta", "pron": "la yáca", "ej": "La giacca è qui.", "ejes": "La chaqueta está aquí.", "cog": true, "truco": "«gia» suena «ya»; la «cc» es una «k» fuerte." },
+        { "t": "il cappello", "es": "el sombrero / la gorra", "pron": "il capélo", "ej": "Il cappello è qui.", "ejes": "El sombrero está aquí.", "cog": false, "truco": "Ojo: «capello» con una sola «p» es el cabello." },
+        { "t": "i calzini", "es": "las medias / los calcetines", "pron": "i caltsíni", "ej": "Ho i calzini.", "ejes": "Tengo las medias.", "cog": false, "truco": "«z» suena «ts»: caltsíni." },
+        { "t": "la maglietta", "es": "la polera / la camiseta", "pron": "la maliéta", "ej": "Mi piace la maglietta.", "ejes": "Me gusta la polera.", "cog": false, "truco": "«gli» suena como la «ll» andina de «llave»." },
+        { "t": "la gonna", "es": "la falda", "pron": "la góna", "ej": "Ecco la gonna.", "ejes": "Aquí está la falda.", "cog": false },
+        { "t": "il cappotto", "es": "el abrigo", "pron": "il capóto", "ej": "Mi piace il cappotto.", "ejes": "Me gusta el abrigo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Ecco la camicia.", "es": "Aquí está la camisa.", "pron": "éko la camícha" },
+        { "t": "I pantaloni e le scarpe.", "es": "Los pantalones y los zapatos.", "pron": "i pantalóni e le scárpe" },
+        { "t": "Mi piace il vestito.", "es": "Me gusta el vestido.", "pron": "mi piáche il vestíto" },
+        { "t": "Il cappello è qui.", "es": "El sombrero está aquí.", "pron": "il capélo è cuí" },
+        { "t": "La giacca e il cappotto.", "es": "La chaqueta y el abrigo.", "pron": "la yáca e il capóto" },
+        { "t": "Ho i calzini.", "es": "Tengo las medias.", "pron": "o i caltsíni" }
+      ],
+      "dialogo": {
+        "titulo": "Preparando la maleta",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Giulia! Hai il cappello?", "es": "¡Hola, Giulia! ¿Tienes el sombrero?" },
+          { "q": "B", "t": "Sì, ho il cappello e la giacca.", "es": "Sí, tengo el sombrero y la chaqueta." },
+          { "q": "A", "t": "E le scarpe?", "es": "¿Y los zapatos?" },
+          { "q": "B", "t": "Ecco le scarpe! E i calzini.", "es": "¡Aquí están los zapatos! Y las medias." },
+          { "q": "A", "t": "Bene!", "es": "¡Bien!" }
+        ]
+      },
+      "nota": "Falsos amigos: «camicia» es la camisa de vestir, y «maglietta» es la polera o camiseta. «Calzini» son las medias cortas (en Perú, medias). Cuidado con «cappello» (sombrero) y «capello» (cabello): una «p» o dos cambian todo."
+    },
+    {
+      "id": "it-a1-u8-l2",
+      "n": 2,
+      "titulo": "Colores y tallas",
+      "objetivo": "Decir el color y la talla de una prenda.",
+      "intro": "En italiano el color va después del sustantivo y concuerda con él: il cappello rosso, la camicia rossa. Truco: los colores «blu» y «rosa» nunca cambian. Y las tallas se dicen con palabras: piccola, media, grande.",
+      "palabras": [
+        { "t": "rosso", "es": "rojo", "pron": "róso", "ej": "Il cappello è rosso.", "ejes": "El sombrero es rojo.", "cog": false, "truco": "Femenino: rossa. Plural: rossi / rosse." },
+        { "t": "blu", "es": "azul", "pron": "blu", "ej": "La giacca è blu.", "ejes": "La chaqueta es azul.", "cog": true, "truco": "No cambia nunca: la giacca blu, i pantaloni blu." },
+        { "t": "verde", "es": "verde", "pron": "vérde", "ej": "La gonna è verde.", "ejes": "La falda es verde.", "cog": true, "truco": "Solo cambia en plural: verdi." },
+        { "t": "nero", "es": "negro", "pron": "néro", "ej": "Il cappotto è nero.", "ejes": "El abrigo es negro.", "cog": false, "truco": "Femenino: nera." },
+        { "t": "bianco", "es": "blanco", "pron": "biánco", "ej": "Il cappello è bianco.", "ejes": "El sombrero es blanco.", "cog": false, "truco": "Femenino: bianca; plural: bianchi (suena «biánqui»)." },
+        { "t": "il colore", "es": "el color", "pron": "il colóre", "ej": "Il colore è rosso.", "ejes": "El color es rojo.", "cog": true },
+        { "t": "la taglia", "es": "la talla", "pron": "la tália", "ej": "Vorrei la taglia media.", "ejes": "Quisiera la talla mediana.", "cog": true, "truco": "«gli» suena como la «ll» andina: tália." },
+        { "t": "piccola", "es": "pequeña (talla S)", "pron": "píkola", "ej": "Una taglia piccola, per favore.", "ejes": "Una talla pequeña, por favor.", "cog": false, "truco": "Masculino: piccolo. Un cappello piccolo." },
+        { "t": "media", "es": "mediana (talla M)", "pron": "média", "ej": "Una taglia media, per favore.", "ejes": "Una talla mediana, por favor.", "cog": true },
+        { "t": "grande", "es": "grande (talla L)", "pron": "gránde", "ej": "Una taglia grande, per favore.", "ejes": "Una talla grande, por favor.", "cog": true, "truco": "Sirve para masculino y femenino: il cappello grande, la giacca grande." }
+      ],
+      "frases": [
+        { "t": "Il cappello è rosso.", "es": "El sombrero es rojo.", "pron": "il capélo è róso" },
+        { "t": "La giacca è blu e la gonna è verde.", "es": "La chaqueta es azul y la falda es verde.", "pron": "la yáca è blu e la góna è vérde" },
+        { "t": "Il cappotto è nero.", "es": "El abrigo es negro.", "pron": "il capóto è néro" },
+        { "t": "I calzini sono bianchi.", "es": "Las medias son blancas.", "pron": "i caltsíni sóno biánqui" },
+        { "t": "Vorrei la taglia media.", "es": "Quisiera la talla mediana.", "pron": "vorréi la tália média" },
+        { "t": "Una taglia grande, per favore.", "es": "Una talla grande, por favor.", "pron": "úna tália gránde, per favóre" }
+      ],
+      "dialogo": {
+        "titulo": "Elegir una camisa",
+        "lineas": [
+          { "q": "A", "t": "Buongiorno! Vorrei una camicia.", "es": "¡Buenos días! Quisiera una camisa." },
+          { "q": "B", "t": "Che colore, signora?", "es": "¿Qué color, señora?" },
+          { "q": "A", "t": "Bianca, per favore.", "es": "Blanca, por favor." },
+          { "q": "B", "t": "Che taglia?", "es": "¿Qué talla?" },
+          { "q": "A", "t": "La taglia media.", "es": "La talla mediana." },
+          { "q": "B", "t": "Ecco la camicia bianca.", "es": "Aquí está la camisa blanca." }
+        ]
+      },
+      "nota": "Otros colores útiles: giallo (amarillo), grigio (gris), rosa (rosado, no cambia), marrone (marrón) y azzurro (celeste). Las tallas también se dicen con letras (S, M, L), pero en tienda oirás «piccola, media, grande». Para los zapatos se usa «il numero»."
+    },
+    {
+      "id": "it-a1-u8-l3",
+      "n": 3,
+      "titulo": "En la tienda",
+      "objetivo": "Pedir algo en una tienda, probártelo y decir si te queda bien.",
+      "intro": "En la tienda lo primero es decir qué buscas: «Cerco...». Truco: para probarte algo se dice «Posso provarlo?» (masculino) o «Posso provarla?» (femenino): lo / la = «lo» y «la» del español.",
+      "palabras": [
+        { "t": "il negozio", "es": "la tienda", "pron": "il negótsio", "ej": "Il negozio è vicino.", "ejes": "La tienda está cerca.", "cog": false, "truco": "No es «negocio»: es tienda." },
+        { "t": "la commessa", "es": "la vendedora", "pron": "la coméssa", "ej": "La commessa è Giulia.", "ejes": "La vendedora es Giulia.", "cog": false, "truco": "Masculino: il commesso." },
+        { "t": "cerco", "es": "busco", "pron": "chérco", "ej": "Cerco una giacca.", "ejes": "Busco una chaqueta.", "cog": false, "truco": "«ce» suena «che»: chérco." },
+        { "t": "avete", "es": "¿tienen? (ustedes)", "pron": "avéte", "ej": "Avete una taglia media?", "ejes": "¿Tienen una talla mediana?", "cog": false, "truco": "Es el «voi» de avere: ho, hai, ha, abbiamo, avete, hanno." },
+        { "t": "posso provarlo", "es": "¿puedo probármelo?", "pron": "pósso provárlo", "ej": "Posso provarlo, per favore?", "ejes": "¿Puedo probármelo, por favor?", "cog": false, "truco": "Para algo masculino: il vestito." },
+        { "t": "posso provarla", "es": "¿puedo probármela?", "pron": "pósso provárla", "ej": "Posso provarla, per favore?", "ejes": "¿Puedo probármela, por favor?", "cog": false, "truco": "Para algo femenino: la giacca." },
+        { "t": "il camerino", "es": "el probador", "pron": "il cameríno", "ej": "Il camerino è lì.", "ejes": "El probador está allí.", "cog": false },
+        { "t": "troppo", "es": "demasiado", "pron": "trópo", "ej": "Il cappotto è troppo grande.", "ejes": "El abrigo es demasiado grande.", "cog": false },
+        { "t": "lo prendo", "es": "me lo llevo", "pron": "lo préndo", "ej": "Mi piace! Lo prendo.", "ejes": "¡Me gusta! Me lo llevo.", "cog": false, "truco": "Con femenino: la prendo." },
+        { "t": "mi sta bene", "es": "me queda bien", "pron": "mi sta béne", "ej": "La giacca mi sta bene.", "ejes": "La chaqueta me queda bien.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Cerco una giacca.", "es": "Busco una chaqueta.", "pron": "chérco úna yáca" },
+        { "t": "Avete una taglia media?", "es": "¿Tienen una talla mediana?", "pron": "avéte úna tália média" },
+        { "t": "Posso provarlo?", "es": "¿Puedo probármelo?", "pron": "pósso provárlo" },
+        { "t": "È troppo grande.", "es": "Es demasiado grande.", "pron": "è trópo gránde" },
+        { "t": "È troppo piccola.", "es": "Es demasiado pequeña.", "pron": "è trópo píkola" },
+        { "t": "Lo prendo, grazie.", "es": "Me lo llevo, gracias.", "pron": "lo préndo, grátsie" }
+      ],
+      "dialogo": {
+        "titulo": "Probarse una chaqueta",
+        "lineas": [
+          { "q": "A", "t": "Buongiorno! Cerco una giacca nera.", "es": "¡Buenos días! Busco una chaqueta negra." },
+          { "q": "B", "t": "Ecco la giacca, taglia media.", "es": "Aquí está la chaqueta, talla mediana." },
+          { "q": "A", "t": "Posso provarla?", "es": "¿Puedo probármela?" },
+          { "q": "B", "t": "Certo! Il camerino è lì.", "es": "¡Claro! El probador está allí." },
+          { "q": "A", "t": "È troppo grande. Avete la piccola?", "es": "Es demasiado grande. ¿Tienen la pequeña?" },
+          { "q": "B", "t": "Sì, ecco!", "es": "¡Sí, aquí tiene!" }
+        ]
+      },
+      "nota": "«Certo» significa «claro» o «por supuesto». «Avete» (voi) es lo normal en una tienda, porque se habla a todo el negocio. «Lo / la prendo» = me lo / me la llevo (literalmente «lo tomo»). Falso amigo: «negozio» es tienda, nunca «negocio» en general."
+    },
+    {
+      "id": "it-a1-u8-l4",
+      "n": 4,
+      "titulo": "Precios y pagar",
+      "objetivo": "Entender y usar las palabras de la caja: precio, descuento, recibo y vuelto.",
+      "intro": "Ya sabes decir «Quanto costa?» y «contanti o carta?». Ahora aprendes las palabras de la caja. Truco: en Italia el recibo (scontrino) es obligatorio, así que oirás «lo scontrino» a menudo.",
+      "palabras": [
+        { "t": "sconto", "es": "descuento", "pron": "scónto", "ej": "Avete uno sconto?", "ejes": "¿Tienen un descuento?", "cog": true, "truco": "Es «des-cuento»: s + conto." },
+        { "t": "lo scontrino", "es": "el recibo / el ticket", "pron": "lo scontríno", "ej": "Lo scontrino, per favore.", "ejes": "El recibo, por favor.", "cog": false, "truco": "Delante de «sc» se usa «lo», no «il»." },
+        { "t": "il resto", "es": "el vuelto", "pron": "il résto", "ej": "Ecco il resto.", "ejes": "Aquí está el vuelto.", "cog": false },
+        { "t": "i saldi", "es": "las rebajas", "pron": "i sáldi", "ej": "Ci sono i saldi in città.", "ejes": "Hay rebajas en la ciudad.", "cog": false, "truco": "Solo en plural: i saldi." },
+        { "t": "la cassa", "es": "la caja", "pron": "la cása", "ej": "La cassa è lì.", "ejes": "La caja está allí.", "cog": true },
+        { "t": "caro", "es": "caro", "pron": "cáro", "ej": "Il cappotto è caro.", "ejes": "El abrigo es caro.", "cog": true, "truco": "Femenino: cara." },
+        { "t": "economico", "es": "barato / económico", "pron": "económico", "ej": "Il cappello è economico.", "ejes": "El sombrero es barato.", "cog": true, "truco": "Femenino: economica." },
+        { "t": "gratis", "es": "gratis", "pron": "grátis", "ej": "Il biglietto è gratis.", "ejes": "El boleto es gratis.", "cog": true },
+        { "t": "in offerta", "es": "en oferta", "pron": "in oférta", "ej": "Il cappello è in offerta.", "ejes": "El sombrero está en oferta.", "cog": true },
+        { "t": "il portafoglio", "es": "la billetera / la cartera", "pron": "il portafólio", "ej": "Ecco il portafoglio.", "ejes": "Aquí está la billetera.", "cog": false, "truco": "Portare + foglio: «llevar hojas» (billetes)." }
+      ],
+      "frases": [
+        { "t": "Quanto costa questo vestito?", "es": "¿Cuánto cuesta este vestido?", "pron": "cuánto cósta cuésto vestíto" },
+        { "t": "Costa quaranta euro.", "es": "Cuesta cuarenta euros.", "pron": "cósta cuaránta éuro" },
+        { "t": "Quanto costano questi pantaloni?", "es": "¿Cuánto cuestan estos pantalones?", "pron": "cuánto cóstano cuésti pantalóni" },
+        { "t": "Avete uno sconto?", "es": "¿Tienen un descuento?", "pron": "avéte úno scónto" },
+        { "t": "Lo scontrino, per favore.", "es": "El recibo, por favor.", "pron": "lo scontríno, per favóre" },
+        { "t": "Ecco il resto, signora.", "es": "Aquí está el vuelto, señora.", "pron": "éko il résto, siñóra" }
+      ],
+      "dialogo": {
+        "titulo": "En la caja",
+        "lineas": [
+          { "q": "A", "t": "Quanto costa questa giacca?", "es": "¿Cuánto cuesta esta chaqueta?" },
+          { "q": "B", "t": "Sessanta euro. Ci sono i saldi: quaranta euro!", "es": "Sesenta euros. Hay rebajas: ¡cuarenta euros!" },
+          { "q": "A", "t": "Bene, la prendo.", "es": "Bien, me la llevo." },
+          { "q": "B", "t": "Contanti o carta?", "es": "¿Efectivo o tarjeta?" },
+          { "q": "A", "t": "Contanti. Ecco cinquanta euro.", "es": "Efectivo. Aquí tiene cincuenta euros." },
+          { "q": "B", "t": "Ecco il resto e lo scontrino. Grazie!", "es": "Aquí tiene el vuelto y el recibo. ¡Gracias!" }
+        ]
+      },
+      "nota": "Los «saldi» son las rebajas de temporada: sobre todo en enero y en julio. El scontrino hay que guardarlo al salir de la tienda: la ley lo exige. «Caro» también significa «querido» (Caro Luca = Querido Luca), pero hablando de precios es «caro»."
+    },
+    {
+      "id": "it-a1-u8-l5",
+      "n": 5,
+      "titulo": "Comprar con confianza",
+      "objetivo": "Comprar una prenda de principio a fin, dando tu opinión y decidiendo.",
+      "intro": "Repasamos todo: ropa, colores, tallas, probador y caja. Añadimos palabras para opinar: bello, brutto, comodo. Truco: «bello» cambia con el género (bello / bella), como «buono / buona».",
+      "palabras": [
+        { "t": "bello", "es": "bonito / lindo", "pron": "bélo", "ej": "Il cappello è bello.", "ejes": "El sombrero es bonito.", "cog": true, "truco": "Femenino: bella. Parece «bello»." },
+        { "t": "brutto", "es": "feo", "pron": "brúto", "ej": "Il cappotto non è brutto.", "ejes": "El abrigo no es feo.", "cog": false, "truco": "Femenino: brutta." },
+        { "t": "comodo", "es": "cómodo", "pron": "cómodo", "ej": "Il vestito è comodo.", "ejes": "El vestido es cómodo.", "cog": true },
+        { "t": "la borsa", "es": "la cartera / el bolso", "pron": "la bórsa", "ej": "La borsa è nera.", "ejes": "La cartera es negra.", "cog": false, "truco": "Falso amigo: «borsa» es la cartera o bolso, no la bolsa de plástico." },
+        { "t": "il numero", "es": "el número (de zapato)", "pron": "il número", "ej": "Il numero è quaranta.", "ejes": "El número es cuarenta.", "cog": true },
+        { "t": "un po'", "es": "un poco", "pron": "un pó", "ej": "È un po' piccola.", "ejes": "Es un poco pequeña.", "cog": true, "truco": "Es la abreviatura de «un poco»; el apóstrofo sustituye «co»." },
+        { "t": "anche", "es": "también", "pron": "ánke", "ej": "Prendo anche la borsa.", "ejes": "También me llevo la cartera.", "cog": false, "truco": "«ch» suena «k»: ánke." },
+        { "t": "va bene", "es": "está bien / de acuerdo", "pron": "va béne", "ej": "Va bene, grazie!", "ejes": "¡Está bien, gracias!", "cog": false },
+        { "t": "ci penso", "es": "lo pienso / lo voy a pensar", "pron": "chi pénso", "ej": "Ci penso, grazie.", "ejes": "Lo voy a pensar, gracias.", "cog": false },
+        { "t": "preferisco", "es": "prefiero", "pron": "preferísco", "ej": "Preferisco il blu.", "ejes": "Prefiero el azul.", "cog": true, "truco": "Preferire: preferisco, preferisci, preferisce..." }
+      ],
+      "frases": [
+        { "t": "Il cappello è bello. È un po' piccolo.", "es": "El sombrero es bonito. Es un poco pequeño.", "pron": "il capélo è bélo. è un pó píkolo" },
+        { "t": "Preferisco il blu.", "es": "Prefiero el azul.", "pron": "preferísco il blu" },
+        { "t": "Prendo anche la borsa.", "es": "También me llevo la cartera.", "pron": "préndo ánke la bórsa" },
+        { "t": "Quanto costano queste scarpe?", "es": "¿Cuánto cuestan estos zapatos?", "pron": "cuánto cóstano cuéste scárpe" },
+        { "t": "Va bene, lo prendo.", "es": "Está bien, me lo llevo.", "pron": "va béne, lo préndo" },
+        { "t": "Ci penso, grazie.", "es": "Lo voy a pensar, gracias.", "pron": "chi pénso, grátsie" }
+      ],
+      "dialogo": {
+        "titulo": "Comprar zapatos",
+        "lineas": [
+          { "q": "A", "t": "Buonasera! Cerco le scarpe nere.", "es": "¡Buenas tardes! Busco los zapatos negros." },
+          { "q": "B", "t": "Che numero?", "es": "¿Qué número?" },
+          { "q": "A", "t": "Il quaranta. Posso provarle?", "es": "El cuarenta. ¿Puedo probármelos?" },
+          { "q": "B", "t": "Certo! Il camerino è lì.", "es": "¡Claro! El probador está allí." },
+          { "q": "A", "t": "Sono un po' grandi. Avete il trentanove?", "es": "Son un poco grandes. ¿Tienen el treinta y nueve?" },
+          { "q": "B", "t": "Sì, ecco!", "es": "¡Sí, aquí tiene!" }
+        ]
+      },
+      "nota": "Con varias cosas cambia el final: «Posso provarle?» (a las scarpe), «Sono grandi» (plural de grande). Repaso: Cerco..., Avete...?, Posso provarlo/la?, Quanto costa/costano?, Lo prendo, Contanti o carta?, Lo scontrino, per favore."
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "id": "it-a1-u4",
+  "idioma": "it",
+  "nivel": "A1",
+  "n": 4,
+  "titulo": "Mi familia",
+  "resumen": "Aprenderás a nombrar a tu familia y amigos, a decir cuántos hermanos o hijos tienes, a usar mio, tuo, suo... y a describir personas.",
+  "puedo": [
+    "Nombrar a mi familia cercana: madre, padre, hermanos, hijos.",
+    "Nombrar a mi familia extendida y a mis amigos.",
+    "Usar mio, mia, tuo, tua, suo, sua, nostro, vostro y loro, con o sin artículo.",
+    "Decir cuántos hermanos, hijos o mascotas tengo con el verbo avere.",
+    "Describir a una persona: alto, giovane, simpatico, divertente."
+  ],
+  "gramatica": {
+    "titulo": "Los posesivos (mio, tuo, suo...) y avere",
+    "texto": "Los posesivos concuerdan con lo que se posee, no con quien lo posee: mio / mia, tuo / tua, suo / sua (de él, de ella y de usted), nostro / nostra, vostro / vostra y loro (no cambia).\nCasi siempre llevan artículo: il mio amico, la mia amica, i miei genitori. Pero con un familiar en singular se quita el artículo: mia madre, tuo fratello, nostra nonna. Excepciones: con loro siempre hay artículo (il loro figlio) y con famiglia también (la mia famiglia).\nPara decir lo que tienes en tu familia se usa avere: ho una sorella, hai un fratello, ha due figli, abbiamo un cane, avete un gatto, hanno tre figli.",
+    "tabla": [
+      ["mio / mia", "mi (masculino / femenino)", "mío / mía"],
+      ["tuo / tua", "tu", "túo / túa"],
+      ["suo / sua", "su (de él, de ella, de usted)", "súo / súa"],
+      ["nostro / nostra", "nuestro / nuestra", "nóstro / nóstra"],
+      ["vostro / vostra", "su (de ustedes)", "vóstro / vóstra"],
+      ["loro", "su (de ellos); no cambia", "lóro"],
+      ["ho · hai · ha", "tengo · tienes · tiene", "o · ái · a"],
+      ["abbiamo · avete · hanno", "tenemos · tienen (ustedes) · tienen (ellos)", "abbiámo · avéte · ánno"]
+    ],
+    "errores": [
+      "Con un familiar en singular no pongas artículo: se dice «mia madre» y «mio fratello», no «la mia madre» ni «il mio fratello». Con amigos sí: «la mia amica».",
+      "«Suo» y «sua» no dependen de quién posee: «suo padre» puede ser de él o de ella; solo cambian según lo poseído (suo padre, sua madre).",
+      "No confundas «hanno» (tienen) con «anno» (año): la «h» no suena, pero cambia el significado."
+    ]
+  },
+  "practica": [
+    "Dibuja tu árbol familiar y escribe debajo de cada persona su nombre con artículo: «la madre, il padre, la sorella...» (8 minutos).",
+    "Presenta a tu familia en voz alta con 5 frases: «Mia madre è..., mio padre è..., ho due fratelli...» (5 minutos).",
+    "Repite en voz alta mio, mia, tuo, tua, suo, sua, nostro, nostra, vostro, loro, y crea una frase con cada uno (6 minutos).",
+    "Escribe cuántos hermanos, primos, tíos y mascotas tienes usando «Ho...», y léelo en voz alta (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-a1-u4-l1",
+      "n": 1,
+      "titulo": "Familia cercana",
+      "objetivo": "Nombrar a los miembros de la familia cercana con su artículo.",
+      "intro": "Empezamos por la familia más cercana. Muchas palabras se parecen al español (padre, madre, famiglia). Truco: «figlio» y «figlia» suenan casi como «hijo» e «hija».",
+      "palabras": [
+        { "t": "la famiglia", "es": "la familia", "pron": "la famílya", "ej": "La famiglia di Luca è di Roma.", "ejes": "La familia de Luca es de Roma.", "cog": true, "truco": "«gl» + i suena como la «ll» andina: famílya." },
+        { "t": "la madre", "es": "la madre", "pron": "la mádre", "ej": "La madre di Ana è insegnante.", "ejes": "La madre de Ana es profesora.", "cog": true },
+        { "t": "il padre", "es": "el padre", "pron": "il pádre", "ej": "Il padre di Marco è medico.", "ejes": "El padre de Marco es médico.", "cog": true },
+        { "t": "la mamma", "es": "la mamá", "pron": "la mámma", "ej": "La mamma di Giulia è di Roma.", "ejes": "La mamá de Giulia es de Roma.", "cog": true, "truco": "Se dice mucho más que «madre» en el habla diaria." },
+        { "t": "il papà", "es": "el papá", "pron": "il papá", "ej": "Il papà di Luca è ingegnere.", "ejes": "El papá de Luca es ingeniero.", "cog": true, "truco": "Lleva tilde final: la sílaba fuerte es la última." },
+        { "t": "i genitori", "es": "los padres (papá y mamá)", "pron": "i yenitóri", "ej": "I genitori di Maria sono peruviani.", "ejes": "Los padres de Maria son peruanos.", "cog": false, "truco": "Falso amigo: «genitori» son los padres; «parenti» son los parientes." },
+        { "t": "la sorella", "es": "la hermana", "pron": "la soréla", "ej": "La sorella di Carlos è insegnante.", "ejes": "La hermana de Carlos es profesora.", "cog": false, "truco": "Parecida a «sor» (hermana religiosa)." },
+        { "t": "il fratello", "es": "el hermano", "pron": "il fratélo", "ej": "Il fratello di Ana è studente.", "ejes": "El hermano de Ana es estudiante.", "cog": true, "truco": "Como «fraterno»." },
+        { "t": "il figlio", "es": "el hijo", "pron": "il fílyo", "ej": "Il figlio di Marco è studente.", "ejes": "El hijo de Marco es estudiante.", "cog": true },
+        { "t": "la figlia", "es": "la hija", "pron": "la fílya", "ej": "La figlia di Maria è italiana.", "ejes": "La hija de Maria es italiana.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Ho una sorella e un fratello.", "es": "Tengo una hermana y un hermano.", "pron": "o úna soréla e un fratélo" },
+        { "t": "La madre di Ana è insegnante.", "es": "La madre de Ana es profesora.", "pron": "la mádre di ána è inseñánte" },
+        { "t": "I genitori di Luca sono italiani.", "es": "Los padres de Luca son italianos.", "pron": "i yenitóri di lúca sóno italiáni" },
+        { "t": "Il figlio di Marco ha dieci anni.", "es": "El hijo de Marco tiene diez años.", "pron": "il fílyo di márco a diéchi ánni" },
+        { "t": "La figlia di Giulia ha due anni.", "es": "La hija de Giulia tiene dos años.", "pron": "la fílya di yúlia a dúe ánni" },
+        { "t": "Maria ha un fratello e una sorella.", "es": "Maria tiene un hermano y una hermana.", "pron": "maría a un fratélo e úna soréla" }
+      ],
+      "dialogo": {
+        "titulo": "Hermanos y hermanas",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Luca! Hai una sorella?", "es": "¡Hola, Luca! ¿Tienes una hermana?" },
+          { "q": "B", "t": "Sì, ho una sorella e un fratello.", "es": "Sí, tengo una hermana y un hermano." },
+          { "q": "A", "t": "Come si chiama la sorella?", "es": "¿Cómo se llama la hermana?" },
+          { "q": "B", "t": "La sorella si chiama Giulia.", "es": "La hermana se llama Giulia." },
+          { "q": "A", "t": "Quanti anni ha?", "es": "¿Cuántos años tiene?" },
+          { "q": "B", "t": "Giulia ha venti anni.", "es": "Giulia tiene veinte años." }
+        ]
+      },
+      "nota": "En casa se dice «mamma» y «papà»; «madre» y «padre» suenan algo más formales. Falso amigo: «genitori» son los padres, no los parientes (esos son «parenti»). Pronunciación: «gl» antes de i suena como la «ll» andina de «llave» (figlio = fílyo); si no la distingues, di «li» y te entenderán. Las dobles (sorella, fratello) se pronuncian con un poco más de fuerza."
+    },
+    {
+      "id": "it-a1-u4-l2",
+      "n": 2,
+      "titulo": "Familia extendida y amigos",
+      "objetivo": "Nombrar a abuelos, tíos, primos, pareja y amigos.",
+      "intro": "Ahora el resto de la familia y los amigos. Truco: «zio» y «zia» se parecen a «tío» y «tía»; solo cambia la «z», que suena «ts».",
+      "palabras": [
+        { "t": "la nonna", "es": "la abuela", "pron": "la nónna", "ej": "La nonna di Giulia è di Milano.", "ejes": "La abuela de Giulia es de Milán.", "cog": false, "truco": "La «nn» doble se pronuncia con más fuerza." },
+        { "t": "il nonno", "es": "el abuelo", "pron": "il nónno", "ej": "Il nonno di Luca ha settanta anni.", "ejes": "El abuelo de Luca tiene setenta años.", "cog": false },
+        { "t": "lo zio", "es": "el tío", "pron": "lo tsío", "ej": "Lo zio di Marco è medico.", "ejes": "El tío de Marco es médico.", "cog": false, "truco": "Delante de «z» se usa «lo», como en «lo zucchero»." },
+        { "t": "la zia", "es": "la tía", "pron": "la tsía", "ej": "La zia di Ana è di Lima.", "ejes": "La tía de Ana es de Lima.", "cog": false },
+        { "t": "il cugino", "es": "el primo", "pron": "il cuyíno", "ej": "Il cugino di Carlos è peruviano.", "ejes": "El primo de Carlos es peruano.", "cog": false, "truco": "Ojo: «primo» en italiano es «primero»; el primo (pariente) es «cugino»." },
+        { "t": "la cugina", "es": "la prima", "pron": "la cuyína", "ej": "La cugina di Maria è insegnante.", "ejes": "La prima de Maria es profesora.", "cog": false },
+        { "t": "il marito", "es": "el esposo", "pron": "il maríto", "ej": "Il marito di Giulia è ingegnere.", "ejes": "El esposo de Giulia es ingeniero.", "cog": true, "truco": "Como «marido»." },
+        { "t": "la moglie", "es": "la esposa", "pron": "la mólye", "ej": "La moglie di Marco è messicana.", "ejes": "La esposa de Marco es mexicana.", "cog": false, "truco": "«gl» + i suena «ly»: mólye." },
+        { "t": "l'amico", "es": "el amigo", "pron": "lamíco", "ej": "L'amico di Luca è italiano.", "ejes": "El amigo de Luca es italiano.", "cog": true },
+        { "t": "l'amica", "es": "la amiga", "pron": "lamíca", "ej": "L'amica di Ana è colombiana.", "ejes": "La amiga de Ana es colombiana.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Marco è il marito di Giulia.", "es": "Marco es el esposo de Giulia.", "pron": "márco è il maríto di yúlia" },
+        { "t": "Giulia è la moglie di Luca.", "es": "Giulia es la esposa de Luca.", "pron": "yúlia è la mólye di lúca" },
+        { "t": "Carlos è l'amico di Marco.", "es": "Carlos es el amigo de Marco.", "pron": "cárlos è lamíco di márco" },
+        { "t": "Ana è la cugina di Luca.", "es": "Ana es la prima de Luca.", "pron": "ána è la cuyína di lúca" },
+        { "t": "Lo zio e la zia sono di Milano.", "es": "El tío y la tía son de Milán.", "pron": "lo tsío e la tsía sóno di miláno" },
+        { "t": "Il nonno e la nonna sono di Roma.", "es": "El abuelo y la abuela son de Roma.", "pron": "il nónno e la nónna sóno di róma" }
+      ],
+      "dialogo": {
+        "titulo": "La familia de Maria",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Maria! Il nonno è di Roma?", "es": "¡Hola, Maria! ¿El abuelo es de Roma?" },
+          { "q": "B", "t": "Sì, il nonno e la nonna sono di Roma.", "es": "Sí, el abuelo y la abuela son de Roma." },
+          { "q": "A", "t": "E lo zio?", "es": "¿Y el tío?" },
+          { "q": "B", "t": "Lo zio è di Milano. È medico.", "es": "El tío es de Milán. Es médico." },
+          { "q": "A", "t": "E la zia?", "es": "¿Y la tía?" },
+          { "q": "B", "t": "La zia è insegnante. Ha quaranta anni.", "es": "La tía es profesora. Tiene cuarenta años." }
+        ]
+      },
+      "nota": "Falso amigo: «parenti» son los parientes (tíos, primos...), no los padres; los padres son «genitori». Plurales: i nonni (abuelos), gli zii (tíos), i cugini (primos). «Moglie» (esposa) se pronuncia mólye; «marito» es esposo. Con vocal inicial el artículo se apostrofa: l'amico, l'amica."
+    },
+    {
+      "id": "it-a1-u4-l3",
+      "n": 3,
+      "titulo": "Mio, tuo, suo",
+      "objetivo": "Decir «mi», «tu», «su», «nuestro» y «su de ustedes/ellos» con los familiares.",
+      "intro": "Ya conoces «il mio» y «il tuo». Ahora completamos todos los posesivos. Truco: con un familiar en singular no hay artículo: «mia madre». Con amigos y con plural, sí: «la mia amica», «i miei genitori».",
+      "palabras": [
+        { "t": "mia", "es": "mi (femenino)", "pron": "mía", "ej": "Mia madre è insegnante.", "ejes": "Mi madre es profesora.", "cog": false, "truco": "Masculino: mio (mio padre)." },
+        { "t": "tua", "es": "tu (femenino)", "pron": "túa", "ej": "Tua sorella ha venti anni.", "ejes": "Tu hermana tiene veinte años.", "cog": false, "truco": "Masculino: tuo (tuo fratello)." },
+        { "t": "suo", "es": "su (de él, de ella, de usted; masculino)", "pron": "súo", "ej": "Suo padre è medico.", "ejes": "Su padre es médico.", "cog": false },
+        { "t": "sua", "es": "su (de él, de ella, de usted; femenino)", "pron": "súa", "ej": "Sua madre è di Roma.", "ejes": "Su madre es de Roma.", "cog": false },
+        { "t": "nostro", "es": "nuestro", "pron": "nóstro", "ej": "Nostro zio è di Milano.", "ejes": "Nuestro tío es de Milán.", "cog": true },
+        { "t": "nostra", "es": "nuestra", "pron": "nóstra", "ej": "Nostra zia è insegnante.", "ejes": "Nuestra tía es profesora.", "cog": true },
+        { "t": "vostro", "es": "su (de ustedes); vuestro", "pron": "vóstro", "ej": "Vostro padre è ingegnere?", "ejes": "¿Su padre es ingeniero?", "cog": true },
+        { "t": "vostra", "es": "su (de ustedes); vuestra", "pron": "vóstra", "ej": "Vostra madre è italiana?", "ejes": "¿Su madre es italiana?", "cog": true },
+        { "t": "loro", "es": "su (de ellos / ellas)", "pron": "lóro", "ej": "Il loro figlio ha dieci anni.", "ejes": "Su hijo tiene diez años.", "cog": false, "truco": "No cambia nunca y siempre lleva artículo: il loro, la loro." },
+        { "t": "i miei", "es": "mis (masculino plural)", "pron": "i miéi", "ej": "I miei genitori sono di Lima.", "ejes": "Mis padres son de Lima.", "cog": false, "truco": "Plural: i miei, i tuoi, i suoi (siempre con artículo)." }
+      ],
+      "frases": [
+        { "t": "Mia madre è insegnante.", "es": "Mi madre es profesora.", "pron": "mía mádre è inseñánte" },
+        { "t": "Il mio amico è di Roma.", "es": "Mi amigo es de Roma.", "pron": "il mío amíco è di róma" },
+        { "t": "La mia amica ha venti anni.", "es": "Mi amiga tiene veinte años.", "pron": "la mía amíca a vénti ánni" },
+        { "t": "Tua sorella ha venti anni?", "es": "¿Tu hermana tiene veinte años?", "pron": "túa soréla a vénti ánni" },
+        { "t": "I miei genitori sono di Lima.", "es": "Mis padres son de Lima.", "pron": "i miéi yenitóri sóno di líma" },
+        { "t": "Il loro figlio ha dieci anni.", "es": "Su hijo tiene diez años.", "pron": "il lóro fílyo a diéchi ánni" }
+      ],
+      "dialogo": {
+        "titulo": "¿De dónde es tu familia?",
+        "lineas": [
+          { "q": "A", "t": "Tuo fratello è di Roma, Giulia?", "es": "¿Tu hermano es de Roma, Giulia?" },
+          { "q": "B", "t": "Sì, mio fratello è di Roma. E tuo fratello?", "es": "Sí, mi hermano es de Roma. ¿Y tu hermano?" },
+          { "q": "A", "t": "Mio fratello è di Lima. La mia famiglia è peruviana.", "es": "Mi hermano es de Lima. Mi familia es peruana." },
+          { "q": "B", "t": "I tuoi genitori sono di Lima?", "es": "¿Tus padres son de Lima?" },
+          { "q": "A", "t": "Sì, i miei genitori sono di Lima.", "es": "Sí, mis padres son de Lima." }
+        ]
+      },
+      "nota": "Regla corta: familiar en singular, sin artículo (mia madre, tuo zio); con «mamma» y «papà» se admiten las dos formas (mia mamma / la mia mamma). Con plural o con adjetivo, artículo siempre (i miei genitori, la mia amica). «Suo» sirve para «de él», «de ella» y «de usted»; el contexto dice cuál. Pronunciación: «mio» = mío, «tuo» = túo (dos sílabas)."
+    },
+    {
+      "id": "it-a1-u4-l4",
+      "n": 4,
+      "titulo": "Avere: tengo, tienes, tiene",
+      "objetivo": "Decir y preguntar cuántos hermanos, hijos y mascotas se tienen.",
+      "intro": "Ya viste ho, hai y ha para la edad. Ahora completamos avere y lo usamos para la familia: «Ho due fratelli». Truco: la «h» es muda, pero «abbiamo» sí lleva doble «b».",
+      "palabras": [
+        { "t": "abbiamo", "es": "tenemos", "pron": "abbiámo", "ej": "Abbiamo due figli.", "ejes": "Tenemos dos hijos.", "cog": false, "truco": "La «bb» se pronuncia doble: ab-biá-mo." },
+        { "t": "avete", "es": "tienen (ustedes)", "pron": "avéte", "ej": "Avete un cane?", "ejes": "¿Tienen un perro?", "cog": false },
+        { "t": "hanno", "es": "tienen (ellos)", "pron": "ánno", "ej": "Marco e Giulia hanno un gatto.", "ejes": "Marco y Giulia tienen un gato.", "cog": false, "truco": "La «h» no suena. No es «anno» (año)." },
+        { "t": "fratelli", "es": "hermanos", "pron": "fratéli", "ej": "Ho due fratelli.", "ejes": "Tengo dos hermanos.", "cog": false, "truco": "Plural de fratello: -o pasa a -i." },
+        { "t": "sorelle", "es": "hermanas", "pron": "soréle", "ej": "Ana ha due sorelle.", "ejes": "Ana tiene dos hermanas.", "cog": false, "truco": "Plural de sorella: -a pasa a -e." },
+        { "t": "figli", "es": "hijos", "pron": "fílyi", "ej": "Giulia ha tre figli.", "ejes": "Giulia tiene tres hijos.", "cog": false },
+        { "t": "figlio unico", "es": "hijo único", "pron": "fílyo único", "ej": "Sono figlio unico.", "ejes": "Soy hijo único.", "cog": true, "truco": "Mujer: figlia unica." },
+        { "t": "gemelli", "es": "gemelos", "pron": "yemélli", "ej": "Luca e Marco sono gemelli.", "ejes": "Luca y Marco son gemelos.", "cog": true, "truco": "«ge» suena «ye»: yemé-li." },
+        { "t": "cane", "es": "perro", "pron": "cáne", "ej": "Ho un cane.", "ejes": "Tengo un perro.", "cog": false },
+        { "t": "gatto", "es": "gato", "pron": "gátto", "ej": "Maria ha un gatto.", "ejes": "Maria tiene un gato.", "cog": true, "truco": "La «tt» se pronuncia doble: gát-to." }
+      ],
+      "frases": [
+        { "t": "Quanti fratelli hai?", "es": "¿Cuántos hermanos tienes?", "pron": "cuánti fratéli ái" },
+        { "t": "Ho una sorella e due fratelli.", "es": "Tengo una hermana y dos hermanos.", "pron": "o úna soréla e dúe fratéli" },
+        { "t": "Non ho fratelli.", "es": "No tengo hermanos.", "pron": "non o fratéli" },
+        { "t": "Quanti figli avete?", "es": "¿Cuántos hijos tienen?", "pron": "cuánti fílyi avéte" },
+        { "t": "Abbiamo un cane.", "es": "Tenemos un perro.", "pron": "abbiámo un cáne" },
+        { "t": "Hanno tre figli.", "es": "Tienen tres hijos.", "pron": "ánno tre fílyi" }
+      ],
+      "dialogo": {
+        "titulo": "¿Tienes hermanos?",
+        "lineas": [
+          { "q": "A", "t": "Luca, hai fratelli?", "es": "Luca, ¿tienes hermanos?" },
+          { "q": "B", "t": "Sì, ho due fratelli e una sorella. E tu?", "es": "Sí, tengo dos hermanos y una hermana. ¿Y tú?" },
+          { "q": "A", "t": "Io sono figlia unica.", "es": "Yo soy hija única." },
+          { "q": "B", "t": "Hai un cane?", "es": "¿Tienes un perro?" },
+          { "q": "A", "t": "No, ho un gatto.", "es": "No, tengo un gato." },
+          { "q": "B", "t": "Anche io ho un gatto!", "es": "¡Yo también tengo un gato!" }
+        ]
+      },
+      "nota": "«Fratelli» puede significar «hermanos» o «hermanos y hermanas»: «Ho tre fratelli» = tengo tres hermanos (o hermanos y hermanas). Para decir que no tienes: «Non ho fratelli» (sin artículo, como en español). Para decir «hijo único» el hombre dice «figlio unico» y la mujer «figlia unica». Con la edad ya usaste avere: Ho venti anni."
+    },
+    {
+      "id": "it-a1-u4-l5",
+      "n": 5,
+      "titulo": "Describir a la familia",
+      "objetivo": "Describir a los familiares con adjetivos sencillos y repasar la unidad.",
+      "intro": "Para describir a alguien usas «è» + adjetivo, como en español. Truco: los adjetivos en -o cambian: alto / alta / alti / alte. Los que terminan en -e (giovane, gentile, divertente) solo cambian en plural: -i.",
+      "palabras": [
+        { "t": "alto", "es": "alto", "pron": "álto", "ej": "Mio padre è alto.", "ejes": "Mi padre es alto.", "cog": true, "truco": "Mujer: alta; plural: alti / alte." },
+        { "t": "basso", "es": "bajo (de estatura)", "pron": "básso", "ej": "Mio fratello è basso.", "ejes": "Mi hermano es bajo.", "cog": false, "truco": "Mujer: bassa. La «ss» suena más fuerte que una «s»." },
+        { "t": "giovane", "es": "joven", "pron": "yóvane", "ej": "Mia zia è giovane.", "ejes": "Mi tía es joven.", "cog": true, "truco": "Termina en -e: igual para hombre y mujer." },
+        { "t": "anziano", "es": "mayor / anciano", "pron": "antsiáno", "ej": "Mio nonno è anziano.", "ejes": "Mi abuelo es mayor.", "cog": false, "truco": "Es la forma educada de decir «mayor»; no suena duro." },
+        { "t": "simpatico", "es": "simpático", "pron": "simpático", "ej": "Luca è molto simpatico.", "ejes": "Luca es muy simpático.", "cog": true, "truco": "Mujer: simpatica." },
+        { "t": "divertente", "es": "divertido", "pron": "diverténte", "ej": "Mia cugina è molto divertente.", "ejes": "Mi prima es muy divertida.", "cog": true, "truco": "Termina en -e: igual para hombre y mujer." },
+        { "t": "gentile", "es": "amable", "pron": "yentíle", "ej": "Tua madre è gentile.", "ejes": "Tu madre es amable.", "cog": false, "truco": "Falso amigo parcial: significa «amable»." },
+        { "t": "bambino", "es": "niño", "pron": "bambíno", "ej": "Il bambino ha sei anni.", "ejes": "El niño tiene seis años.", "cog": false },
+        { "t": "bambina", "es": "niña", "pron": "bambína", "ej": "La bambina ha cinque anni.", "ejes": "La niña tiene cinco años.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Mio padre è alto e simpatico.", "es": "Mi padre es alto y simpático.", "pron": "mío pádre è álto e simpático" },
+        { "t": "Mia madre è giovane e gentile.", "es": "Mi madre es joven y amable.", "pron": "mía mádre è yóvane e yentíle" },
+        { "t": "Mio nonno è anziano e divertente.", "es": "Mi abuelo es mayor y divertido.", "pron": "mío nónno è antsiáno e diverténte" },
+        { "t": "I miei genitori sono simpatici.", "es": "Mis padres son simpáticos.", "pron": "i miéi yenitóri sóno simpátichi" },
+        { "t": "Com'è tua sorella?", "es": "¿Cómo es tu hermana?", "pron": "comè túa soréla" },
+        { "t": "Mia sorella è bassa.", "es": "Mi hermana es baja.", "pron": "mía soréla è bássa" }
+      ],
+      "dialogo": {
+        "titulo": "Una foto de familia",
+        "lineas": [
+          { "q": "A", "t": "Com'è tua madre?", "es": "¿Cómo es tu madre?" },
+          { "q": "B", "t": "Mia madre è giovane e molto simpatica.", "es": "Mi madre es joven y muy simpática." },
+          { "q": "A", "t": "E tuo padre?", "es": "¿Y tu padre?" },
+          { "q": "B", "t": "Mio padre è alto e divertente.", "es": "Mi padre es alto y divertido." },
+          { "q": "A", "t": "E i tuoi nonni?", "es": "¿Y tus abuelos?" },
+          { "q": "B", "t": "Sono anziani e gentili.", "es": "Son mayores y amables." }
+        ]
+      },
+      "nota": "«Com'è...?» es «come è...?» (¿cómo es...?): suena comè. Para describir a personas mayores es mejor «anziano» que «vecchio» (que suena duro). Repaso de la unidad: la famiglia, i genitori, mia madre, il mio amico, ho due fratelli, hanno un cane, alto, simpatico."
+    }
+  ]
+}
