@@ -1,0 +1,215 @@
+{
+  "id": "it-c1-u1",
+  "idioma": "it",
+  "nivel": "C1",
+  "n": 1,
+  "titulo": "Énfasis e inversión",
+  "resumen": "Aprenderás a dar relieve a una idea cambiando el orden de la frase: dislocazione a sinistra, dislocazione a destra y ripresa con pronombre.",
+  "puedo": [
+    "Poner un elemento al principio de la frase y retomarlo con un pronombre (il libro, lo leggo).",
+    "Anticipar un pronombre y aclarar después de qué se trata (lo leggo, il libro).",
+    "Usar el orden enfático para destacar sujeto, objeto o circunstancia.",
+    "Elegir el pronombre de ripresa correcto: lo, la, li, le, ne, ci, gli.",
+    "Distinguir cuándo el énfasis es natural en el habla y cuándo es excesivo en un texto formal."
+  ],
+  "gramatica": {
+    "titulo": "Dislocazione y pronombre de ripresa",
+    "texto": "En italiano se puede sacar un elemento de su lugar para darle relieve. Si ese elemento es un complemento (objeto directo o indirecto), se repite con un pronombre: es la «ripresa».\nDislocazione a sinistra: el elemento va al inicio. Il libro, lo leggo domani.\nDislocazione a destra: el pronombre va primero y el elemento llega después, como aclaración. Lo leggo domani, il libro.\nCon el partitivo y los lugares se usan ne y ci: Di questo, ne parliamo domani. A Roma, ci vado spesso.\nTruco: si el complemento va delante del verbo y es objeto directo, el pronombre es obligatorio; en español pasa igual con «el libro, lo leo».",
+    "tabla": [
+      ["Il bilancio, lo presenteremo lunedì.", "El balance, lo presentaremos el lunes.", "il bilánchio lo presentarémo lunedí"],
+      ["Le chiavi, le hai lasciate sul tavolo.", "Las llaves, las dejaste sobre la mesa.", "le kiávi le ái lasciáte sul távolo"],
+      ["Di questa storia, non ne voglio più parlare.", "De esta historia, ya no quiero hablar.", "di cuésta stória non ne vóglio piú parláre"],
+      ["A Marta, le ho già scritto io.", "A Marta, ya le escribí yo.", "a márta le o yá scritto ío"],
+      ["L'ho già visto, il documento.", "Ya lo vi, el documento.", "lo yá vísto il documénto"]
+    ],
+    "errores": [
+      "Olvidar el pronombre: «Il bilancio presenteremo lunedì» suena mal si el objeto va delante; debe ser «Il bilancio, lo presenteremo lunedì».",
+      "Repetir el pronombre sin necesidad en una frase normal: «Lo presenteremo il bilancio» solo funciona como dislocación a la derecha, con pausa antes de «il bilancio».",
+      "Confundir ne y ci: «ne» sustituye «di + algo» y «ci» sustituye «a/in + lugar o cosa»: «Di calcio ne parliamo spesso», «A questo ci penso io»."
+    ]
+  },
+  "practica": [
+    "Lee un editorial de La Repubblica o del Corriere della Sera y subraya cinco frases con dislocazione; reescríbelas en orden neutro (12 minutos).",
+    "Escucha un podcast de conversación italiano (por ejemplo, Il Post o un programa de Radio 3) y anota tres frases con ripresa pronominale (10 minutos).",
+    "Escribe un párrafo de ocho líneas sobre tu trabajo usando tres dislocazioni a sinistra y dos a destra (10 minutos).",
+    "Graba un minuto explicando una decisión reciente con frases enfáticas y revisa que cada pronombre de ripresa sea correcto (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-c1-u1-l1",
+      "n": 1,
+      "titulo": "Dislocazione a sinistra",
+      "objetivo": "Colocar un complemento al inicio de la frase y retomarlo con el pronombre adecuado.",
+      "intro": "Cuando quieres que lo primero que se oiga sea el tema, lo pones al principio y lo retomas con un pronombre. Truco: piensa en «el informe, lo envío hoy»; el italiano hace exactamente lo mismo.",
+      "palabras": [
+        { "t": "la dislocazione", "es": "la dislocación (sintáctica)", "pron": "la dislocatsióne", "ej": "La dislocazione è tipica del parlato.", "ejes": "La dislocación es típica del habla.", "cog": true },
+        { "t": "mettere in risalto", "es": "poner de relieve", "pron": "méttere in risálto", "ej": "Vorrei mettere in risalto un aspetto importante.", "ejes": "Quisiera poner de relieve un aspecto importante.", "cog": false },
+        { "t": "il pronome di ripresa", "es": "el pronombre de retoma", "pron": "il pronóme di ripréssa", "ej": "Il pronome di ripresa è obbligatorio in questa struttura.", "ejes": "El pronombre de retoma es obligatorio en esta estructura.", "cog": false },
+        { "t": "sottolineare", "es": "subrayar", "pron": "sottolineáre", "ej": "Voglio sottolineare che i tempi sono stretti.", "ejes": "Quiero subrayar que los plazos son ajustados.", "cog": false },
+        { "t": "in primo piano", "es": "en primer plano", "pron": "in prímo piáno", "ej": "Mettiamo in primo piano la sicurezza dei lavoratori.", "ejes": "Pongamos en primer plano la seguridad de los trabajadores.", "cog": false },
+        { "t": "quanto a", "es": "en cuanto a, respecto de", "pron": "cuánto a", "ej": "Quanto a me, non ho nulla da aggiungere.", "ejes": "En cuanto a mí, no tengo nada que añadir.", "cog": false },
+        { "t": "addirittura", "es": "incluso, hasta", "pron": "addirittúra", "ej": "Ha addirittura rinunciato al bonus annuale.", "ejes": "Incluso renunció al bono anual.", "cog": false },
+        { "t": "per l'appunto", "es": "justamente, precisamente", "pron": "per lapúnto", "ej": "Parlavamo per l'appunto di te.", "ejes": "Hablábamos justamente de ti.", "cog": false },
+        { "t": "tantomeno", "es": "mucho menos", "pron": "tantoméno", "ej": "Non ha chiamato, tantomeno scritto.", "ejes": "No llamó, mucho menos escribió.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il bilancio, lo presenteremo lunedì in consiglio.", "es": "El balance, lo presentaremos el lunes en el consejo.", "pron": "il bilánchio lo presentarémo lunedí in consíliyo" },
+        { "t": "Di questa storia, non ne voglio più parlare.", "es": "De esta historia, ya no quiero hablar.", "pron": "di cuésta stória non ne vóglio piú parláre" },
+        { "t": "A Marta, le ho già scritto io ieri sera.", "es": "A Marta, ya le escribí yo anoche.", "pron": "a márta le o yá scritto ío iéri séra" },
+        { "t": "Le chiavi, le hai lasciate sul tavolo della sala riunioni.", "es": "Las llaves, las dejaste sobre la mesa de la sala de reuniones.", "pron": "le kiávi le ái lasciáte sul távolo délla sála riunióni" },
+        { "t": "Quanto a me, il problema l'ho risolto da tempo.", "es": "En cuanto a mí, el problema lo resolví hace tiempo.", "pron": "cuánto a me il problema lo o risolto da témpo" }
+      ],
+      "dialogo": {
+        "titulo": "Prima della riunione",
+        "lineas": [
+          { "q": "A", "t": "Il bilancio, l'abbiamo chiuso ieri, ma le cifre del secondo trimestre non le ho ancora controllate a fondo.", "es": "El balance lo cerramos ayer, pero las cifras del segundo trimestre aún no las he revisado a fondo." },
+          { "q": "B", "t": "Quanto a quello, ci pensa Marta: i numeri li ha già rivisti due volte e ha trovato un errore nelle note spese.", "es": "En cuanto a eso, se encarga Marta: los números ya los revisó dos veces y encontró un error en los gastos." },
+          { "q": "A", "t": "Un errore? Di questo, nessuno mi aveva detto niente, e addirittura il direttore pensava che fosse tutto a posto.", "es": "¿Un error? De esto nadie me había dicho nada, y hasta el director pensaba que todo estaba en orden." },
+          { "q": "B", "t": "Per l'appunto: il direttore, lo informo io stamattina, prima che sia lui a scoprirlo in riunione.", "es": "Justamente: al director lo informo yo esta mañana, antes de que sea él quien lo descubra en la reunión." },
+          { "q": "A", "t": "Bene. Le correzioni, le mandiamo entro sera; il resto della presentazione, lo rivediamo domani con calma.", "es": "Bien. Las correcciones las enviamos antes de la noche; el resto de la presentación lo revisamos mañana con calma." }
+        ]
+      },
+      "nota": "Con la dislocazione a sinistra el objeto directo exige el pronombre (lo, la, li, le). Es muy frecuente en el habla y en la prensa de opinión; en un texto muy formal se usa con moderación."
+    },
+    {
+      "id": "it-c1-u1-l2",
+      "n": 2,
+      "titulo": "Dislocazione a destra",
+      "objetivo": "Anticipar el pronombre y aclarar después el elemento, con valor de énfasis o de precisión.",
+      "intro": "A veces dices primero el pronombre y solo después, como aclaración, de qué hablas. Truco: es el «lo sé, lo sé, eso» del español: «Lo sabía, yo».",
+      "palabras": [
+        { "t": "ribadire", "es": "reiterar, recalcar", "pron": "ribadíre", "ej": "Devo ribadire che la decisione è definitiva.", "ejes": "Debo reiterar que la decisión es definitiva.", "cog": false },
+        { "t": "ci tengo", "es": "me importa mucho", "pron": "chi téngo", "ej": "Ci tengo molto a questo progetto.", "ejes": "Me importa mucho este proyecto.", "cog": false },
+        { "t": "a posteriori", "es": "a posteriori", "pron": "a posteriori", "ej": "A posteriori, è stata la scelta giusta.", "ejes": "A posteriori, fue la decisión correcta.", "cog": true },
+        { "t": "tutt'altro che", "es": "todo menos, lejos de ser", "pron": "tut áltro ke", "ej": "È tutt'altro che semplice da spiegare.", "ejes": "Es todo menos sencillo de explicar.", "cog": false },
+        { "t": "guarda caso", "es": "casualmente (con ironía)", "pron": "guárda cáso", "ej": "Guarda caso, l'errore l'ha fatto proprio lui.", "ejes": "Casualmente, el error lo cometió justo él.", "cog": false },
+        { "t": "non a caso", "es": "no por casualidad", "pron": "non a cáso", "ej": "Non a caso, l'abbiamo scelta come portavoce.", "ejes": "No por casualidad, la elegimos como portavoz.", "cog": false },
+        { "t": "per carità", "es": "por favor, ni hablar", "pron": "per caritá", "ej": "Per carità, non è un problema!", "ejes": "¡Por favor, no es ningún problema!", "cog": false },
+        { "t": "l'aspetto", "es": "el aspecto, el punto", "pron": "laspétto", "ej": "L'aspetto economico è secondario.", "ejes": "El aspecto económico es secundario.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Lo conosco bene, quel problema.", "es": "Lo conozco bien, ese problema.", "pron": "lo conósco béne cuel problema" },
+        { "t": "Ci tengo molto, a questo incarico.", "es": "Me importa mucho, este encargo.", "pron": "chi téngo mólto a cuésto incárico" },
+        { "t": "Non le sopporto più, queste continue interruzioni.", "es": "Ya no las soporto, estas continuas interrupciones.", "pron": "non le sopórto piú cuéste continue interruziónne" },
+        { "t": "Ne hanno parlato a lungo, di questo.", "es": "Hablaron mucho de esto.", "pron": "ne ánno parláto a lúngo di cuésto" },
+        { "t": "Non l'ho mai capita, la sua strategia.", "es": "Nunca la entendí, su estrategia.", "pron": "non lo mái capíta la súa strategía" }
+      ],
+      "dialogo": {
+        "titulo": "Una riunione tesa",
+        "lineas": [
+          { "q": "A", "t": "Non la capisco, questa tua insistenza: la proposta, l'abbiamo già bocciata due volte nell'ultimo mese.", "es": "No la entiendo, esa insistencia tuya: la propuesta ya la rechazamos dos veces el último mes." },
+          { "q": "B", "t": "Ci tengo, a questo progetto, e non a caso: i dati, li ho raccolti io, e dicono tutt'altro che quello che sostenete voi.", "es": "Me importa este proyecto, y no por casualidad: los datos los recopilé yo, y dicen todo menos lo que ustedes sostienen." },
+          { "q": "A", "t": "Per carità, nessuno vuole mettere in dubbio il tuo lavoro. Lo apprezziamo, il tuo impegno, ma il budget è quello che è.", "es": "Por favor, nadie quiere poner en duda tu trabajo. Lo apreciamos, tu compromiso, pero el presupuesto es el que es." },
+          { "q": "B", "t": "Guarda caso, il budget lo scopro solo adesso, a tre settimane dalla scadenza, e a posteriori mi sembra un po' strano.", "es": "Casualmente, el presupuesto lo descubro solo ahora, a tres semanas del plazo, y a posteriori me parece algo extraño." },
+          { "q": "A", "t": "Hai ragione, è un nostro errore. Ci vediamo domani e ne parliamo con calma, di tutta la faccenda.", "es": "Tienes razón, es un error nuestro. Nos vemos mañana y lo hablamos con calma, todo este asunto." }
+        ]
+      },
+      "nota": "La dislocación a la derecha lleva una pausa antes del elemento aclarado: en la escritura se marca con coma. Es muy común en el habla coloquial y en diálogos de novelas."
+    },
+    {
+      "id": "it-c1-u1-l3",
+      "n": 3,
+      "titulo": "Orden enfático y sujeto pospuesto",
+      "objetivo": "Destacar sujetos, adjetivos y circunstancias alterando el orden habitual.",
+      "intro": "Además de los complementos, el italiano permite poner el sujeto al final o el adjetivo al principio para dar fuerza. Truco: lo importante o nuevo suele ir al final de la frase.",
+      "palabras": [
+        { "t": "a maggior ragione", "es": "con mayor razón", "pron": "a maddyór radsióne", "ej": "A maggior ragione, dobbiamo agire subito.", "ejes": "Con mayor razón, debemos actuar de inmediato.", "cog": false },
+        { "t": "di per sé", "es": "de por sí, en sí mismo", "pron": "di per sé", "ej": "Il problema di per sé non è grave.", "ejes": "El problema en sí mismo no es grave.", "cog": false },
+        { "t": "a prescindere da", "es": "independientemente de", "pron": "a preshindére da", "ej": "Lo farò a prescindere da quanto costi.", "ejes": "Lo haré independientemente de cuánto cueste.", "cog": false },
+        { "t": "ad ogni modo", "es": "de todos modos", "pron": "ad óñi módo", "ej": "Ad ogni modo, la scelta spetta a te.", "ejes": "De todos modos, la decisión te corresponde a ti.", "cog": false },
+        { "t": "spettare", "es": "corresponder, tocar a", "pron": "spettáre", "ej": "", "ejes": "", "cog": false },
+        { "t": "in gioco", "es": "en juego", "pron": "in yóco", "ej": "È in gioco la credibilità dell'azienda.", "ejes": "Está en juego la credibilidad de la empresa.", "cog": false },
+        { "t": "di rado", "es": "rara vez", "pron": "di ráddo", "ej": "Di rado si vedono risultati così rapidi.", "ejes": "Rara vez se ven resultados tan rápidos.", "cog": false },
+        { "t": "inaspettato", "es": "inesperado", "pron": "inaspettáto", "ej": "Inaspettato, il successo è arrivato in un mese.", "ejes": "Inesperado, el éxito llegó en un mes.", "cog": false }
+      ],
+      "frases": [
+        { "t": "È arrivata, finalmente, la risposta che aspettavamo.", "es": "Ha llegado, por fin, la respuesta que esperábamos.", "pron": "e arriváta finalménte la rispósta ke aspettávamo" },
+        { "t": "Bello, è bello, ma costa troppo.", "es": "Bonito, lo es, pero cuesta demasiado.", "pron": "bélo e bélo ma costa tróppo" },
+        { "t": "Mi ha telefonato ieri, tuo fratello, per chiedere informazioni.", "es": "Me llamó ayer tu hermano, para pedir información.", "pron": "mi a telefonáto iéri túo fratélo per kiédere informatsióni" },
+        { "t": "A prescindere dal risultato, è stata un'esperienza utile.", "es": "Independientemente del resultado, fue una experiencia útil.", "pron": "a preshindére dal risultáto e státa unesperiéntsa útile" },
+        { "t": "Di rado si incontra un collaboratore così affidabile.", "es": "Rara vez se encuentra un colaborador tan fiable.", "pron": "di ráddo si incontra un colaboratóre cosí afidábile" }
+      ],
+      "dialogo": {
+        "titulo": "La decisione",
+        "lineas": [
+          { "q": "A", "t": "È in gioco la reputazione dell'intero reparto, quindi a maggior ragione dobbiamo scegliere con cautela.", "es": "Está en juego la reputación de todo el departamento, así que con mayor razón debemos elegir con cautela." },
+          { "q": "B", "t": "Concordo. Di rado capita un'occasione così, e il candidato, di per sé, è ottimo; il problema è il contesto.", "es": "Estoy de acuerdo. Rara vez se da una oportunidad así, y el candidato en sí es excelente; el problema es el contexto." },
+          { "q": "A", "t": "Ad ogni modo, a prescindere da come la pensino gli altri, la decisione finale spetta a me, e voglio sentire il tuo parere.", "es": "De todos modos, independientemente de lo que piensen los demás, la decisión final me corresponde a mí, y quiero oír tu opinión." },
+          { "q": "B", "t": "Inaspettato, lo so, ma io lo assumerei: bravo, è bravo, e imparerebbe in fretta il resto.", "es": "Inesperado, lo sé, pero yo lo contrataría: bueno, lo es, y aprendería rápido el resto." },
+          { "q": "A", "t": "Va bene. Gli scrivo stasera, il contratto, e lo firmiamo entro venerdì, se tutto va come previsto.", "es": "De acuerdo. Le escribo esta noche, el contrato, y lo firmamos antes del viernes, si todo va como se prevé." }
+        ]
+      },
+      "nota": "Con el sujeto pospuesto («È arrivata la risposta») el énfasis recae sobre la información nueva. Con el adjetivo repetido («bello, è bello, ma...») se concede un punto antes de oponerse."
+    },
+    {
+      "id": "it-c1-u1-l4",
+      "n": 4,
+      "titulo": "Verbos con ci, ne y pronombres indirectos",
+      "objetivo": "Usar ci, ne, gli y le como ripresa con verbos de régimen preposicional.",
+      "intro": "Muchos verbos van con una preposición fija (fidarsi di, contare su). En la dislocación, esa preposición se sustituye por ne o ci. Truco: «di + algo = ne», «a / su / in + algo = ci».",
+      "palabras": [
+        { "t": "fidarsi di", "es": "fiarse de, confiar en", "pron": "fidársi di", "ej": "", "ejes": "", "cog": false },
+        { "t": "contare su", "es": "contar con", "pron": "contáre su", "ej": "Puoi contare su di me per il progetto.", "ejes": "Puedes contar conmigo para el proyecto.", "cog": false },
+        { "t": "occuparsi di", "es": "ocuparse de", "pron": "occupársi di", "ej": "", "ejes": "", "cog": false },
+        { "t": "rinunciare a", "es": "renunciar a", "pron": "rinunchiáre a", "ej": "Non voglio rinunciare a questa possibilità.", "ejes": "No quiero renunciar a esta posibilidad.", "cog": false },
+        { "t": "badare a", "es": "cuidar de, prestar atención a", "pron": "badáre a", "ej": "Devi badare a tuo fratello stasera.", "ejes": "Debes cuidar de tu hermano esta noche.", "cog": false },
+        { "t": "fare caso a", "es": "prestar atención a, fijarse en", "pron": "fáre cáso a", "ej": "", "ejes": "", "cog": false },
+        { "t": "tenere conto di", "es": "tener en cuenta", "pron": "tenére cónto di", "ej": "Dobbiamo tenere conto di tutte le variabili.", "ejes": "Debemos tener en cuenta todas las variables.", "cog": false },
+        { "t": "sbarazzarsi di", "es": "deshacerse de", "pron": "sbaratsársi di", "ej": "", "ejes": "", "cog": false }
+      ],
+      "frases": [
+        { "t": "Di lui mi fido, di loro non so.", "es": "De él me fío, de ellos no sé.", "pron": "di lui mi fido di lóro non so" },
+        { "t": "A questo progetto ci tengo particolarmente.", "es": "A este proyecto le tengo un especial aprecio.", "pron": "a cuésto progétto chi téngo particolarménte" },
+        { "t": "Delle scadenze, me ne occupo io personalmente.", "es": "De los plazos, me ocupo yo personalmente.", "pron": "délle scadéntse me ne occúpo ío personalménte" },
+        { "t": "Su di lui, ci puoi contare sempre.", "es": "Con él, siempre puedes contar.", "pron": "su di lui chi puói contáre sémpre" },
+        { "t": "Di questi dettagli, nessuno ne ha tenuto conto.", "es": "De estos detalles, nadie ha tenido en cuenta.", "pron": "di cuésti dettályi nessúno ne a tenúto cónto" }
+      ],
+      "dialogo": {
+        "titulo": "Chi si occupa di cosa",
+        "lineas": [
+          { "q": "A", "t": "Delle spese di viaggio, me ne occupo io; dei contratti con i fornitori, invece, ti pregherei di occupartene tu.", "es": "De los gastos de viaje me ocupo yo; de los contratos con los proveedores, en cambio, te rogaría que te ocupes tú." },
+          { "q": "B", "t": "Va bene, ma di quella clausola sulle penali non mi fido: ci devo ragionare un po', prima di firmare.", "es": "Bien, pero de esa cláusula sobre las penalizaciones no me fío: tengo que pensarlo un poco antes de firmar." },
+          { "q": "A", "t": "Fai bene. Hai fatto caso alla data di scadenza? Io non ci avevo badato, e ci rinuncerei volentieri, a quel contratto.", "es": "Haces bien. ¿Te fijaste en la fecha de vencimiento? Yo no había prestado atención, y renunciaría gustosamente a ese contrato." },
+          { "q": "B", "t": "Ne terrò conto. Di Giulia, invece, puoi fidarti: sulla sua precisione ci posso contare ad occhi chiusi.", "es": "Lo tendré en cuenta. De Giulia, en cambio, puedes fiarte: de su precisión puedo estar seguro con los ojos cerrados." },
+          { "q": "A", "t": "Allora le affido anche il rapporto finale: delle vecchie bozze mi sbarazzerò io, una volta chiusa la pratica.", "es": "Entonces le encargo también el informe final: de los viejos borradores me desharé yo, una vez cerrado el expediente." }
+        ]
+      },
+      "nota": "Cuidado con el orden: «me ne occupo io» (me + ne + verbo). Cuando el pronombre indirecto va delante de ne, cambia: me ne, te ne, gliene, ce ne."
+    },
+    {
+      "id": "it-c1-u1-l5",
+      "n": 5,
+      "titulo": "Repaso: énfasis en un discurso",
+      "objetivo": "Combinar dislocazioni, orden enfático y expresiones de relieve en una intervención profesional.",
+      "intro": "Repasa construyendo una pequeña presentación en la que cada idea importante recibe énfasis. Truco: no pongas énfasis en todo; si todo es relieve, nada lo es.",
+      "palabras": [
+        { "t": "ribadire", "es": "reiterar, recalcar", "pron": "ribadíre", "ej": "Voglio ribadire un punto fondamentale.", "ejes": "Quiero reiterar un punto fundamental.", "cog": false },
+        { "t": "preme", "es": "importa, apremia", "pron": "préme", "ej": "Ciò che preme è chiudere entro venerdì.", "ejes": "Lo que apremia es cerrar antes del viernes.", "cog": false },
+        { "t": "il nodo", "es": "el nudo, el problema central", "pron": "il nódo", "ej": "Il nodo è il finanziamento.", "ejes": "El nudo es la financiación.", "cog": false },
+        { "t": "senza dubbio", "es": "sin duda", "pron": "sénsa dúbio", "ej": "Senza dubbio, è la strada migliore.", "ejes": "Sin duda, es el mejor camino.", "cog": false },
+        { "t": "a ogni costo", "es": "a toda costa", "pron": "a óñi cósto", "ej": "Non vogliamo vincere a ogni costo.", "ejes": "No queremos ganar a toda costa.", "cog": false },
+        { "t": "un dato", "es": "un dato", "pron": "un dáto", "ej": "Un dato mi ha colpito molto.", "ejes": "Un dato me llamó mucho la atención.", "cog": false },
+        { "t": "il fulcro", "es": "el eje, el centro", "pron": "il fúlcro", "ej": "Il fulcro dell'accordo è la fiducia.", "ejes": "El eje del acuerdo es la confianza.", "cog": false },
+        { "t": "venire meno", "es": "faltar, fallar", "pron": "venire méno", "ej": "Non vogliamo venire meno alla parola data.", "ejes": "No queremos faltar a la palabra dada.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il fulcro dell'accordo, lo vedo nella fiducia reciproca.", "es": "El eje del acuerdo, lo veo en la confianza recíproca.", "pron": "il fúlcro delaccórdo lo védo nélla fidúcia reciproca" },
+        { "t": "Un dato, non lo dimenticherei mai: la crescita è del dodici per cento.", "es": "Un dato, no lo olvidaría nunca: el crecimiento es del doce por ciento.", "pron": "un dáto non lo dimenticherébe mái la créscita e del dódichi per chénto" },
+        { "t": "Di questo ne sono certo, a prescindere dalle polemiche.", "es": "De esto estoy seguro, independientemente de las polémicas.", "pron": "di cuésto ne sóno chérto a preshindére dálle polémike" },
+        { "t": "Non lo vogliamo a ogni costo, questo contratto.", "es": "No lo queremos a toda costa, este contrato.", "pron": "non lo vogliámo a óñi cósto cuésto contrátto" },
+        { "t": "Il nodo, lo abbiamo individuato; ora serve scioglierlo.", "es": "El problema central lo hemos identificado; ahora hay que resolverlo.", "pron": "il nódo lo abbiámo individuáto óra sérve sholiérlo" }
+      ],
+      "dialogo": {
+        "titulo": "La presentazione finale",
+        "lineas": [
+          { "q": "A", "t": "Vorrei ribadire un punto: il nodo del progetto non è tecnico, è organizzativo, e questo, lo dico con certezza.", "es": "Quisiera reiterar un punto: el nudo del proyecto no es técnico, es organizativo, y esto lo digo con certeza." },
+          { "q": "B", "t": "Senza dubbio. Un dato mi ha colpito: i ritardi, li provoca quasi sempre la mancanza di comunicazione tra i reparti.", "es": "Sin duda. Un dato me impactó: los retrasos casi siempre los provoca la falta de comunicación entre departamentos." },
+          { "q": "A", "t": "Ciò che preme, adesso, è trovare una soluzione che non ci faccia venire meno agli impegni presi coi clienti.", "es": "Lo que apremia ahora es encontrar una solución que no nos haga faltar a los compromisos con los clientes." },
+          { "q": "B", "t": "Il fulcro, secondo me, sta nella pianificazione: a questa, ci dobbiamo dedicare con più rigore, e non a ogni costo, ma con metodo.", "es": "El eje, en mi opinión, está en la planificación: a ella debemos dedicarnos con más rigor, y no a toda costa, sino con método." },
+          { "q": "A", "t": "D'accordo: la proposta, la presenteremo lunedì; delle obiezioni, ne parleremo dopo, una per una, senza fretta.", "es": "De acuerdo: la propuesta la presentaremos el lunes; de las objeciones hablaremos después, una por una, sin prisa." }
+        ]
+      },
+      "nota": "En un discurso formal, una o dos dislocazioni bien colocadas bastan. Usar muchas seguidas puede sonar coloquial o teatral."
+    }
+  ]
+}

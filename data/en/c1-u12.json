@@ -1,0 +1,220 @@
+{
+  "id": "en-c1-u12",
+  "idioma": "en",
+  "nivel": "C1",
+  "n": 12,
+  "titulo": "Comprender a nativos y acentos",
+  "resumen": "Aprenderás cómo suena el inglés real: reducciones como gonna y wanna, el habla conectada, los acentos principales y el slang cotidiano, y cómo pedir que te repitan sin perder el hilo.",
+  "puedo": [
+    "Reconocer reducciones comunes como gonna, wanna, gotta y dunno.",
+    "Entender el habla conectada: enlaces, eliminación de sonidos y formas débiles.",
+    "Distinguir los rasgos generales de acentos como el estadounidense del sur, el británico o el australiano.",
+    "Entender slang cotidiano y expresiones informales.",
+    "Pedir aclaraciones y seguir una conversación rápida sin perderme."
+  ],
+  "gramatica": {
+    "titulo": "Habla conectada: lo que se escribe no es lo que se oye",
+    "texto": "Los nativos no pronuncian cada palabra por separado: las unen y las reducen. Esto se llama connected speech. Tres fenómenos clave: (1) reducciones: going to suena gonna, want to suena wanna, got to suena gotta. (2) enlaces: una consonante final se une con la vocal siguiente: pick it up suena pi-kitup. (3) formas débiles: palabras como to, of, and, for se pronuncian con una vocal casi muda (schwa): fish and chips suena fish-n-chips.\nIdea clave: el inglés tiene ritmo propio. Se acentúan las palabras de contenido (nombres, verbos, adjetivos) y las demás pasan rápido. Por eso un fragmento largo puede sonar corto.\nTruco: escucha sin leer primero, repite en voz alta imitando el ritmo y después compara con la transcripción.",
+    "tabla": [
+      ["I'm gonna call her.", "Voy a llamarla.", "aim gónna col jer"],
+      ["Do you wanna come?", "¿Quieres venir?", "du iu uánna cam"],
+      ["I gotta go now.", "Tengo que irme ya.", "ai gáta gou nau"],
+      ["I dunno what to do.", "No sé qué hacer.", "ai danóu juat tu du"],
+      ["Pick it up.", "Recógelo.", "pí-ki-tap"],
+      ["Whaddya think?", "¿Qué piensas?", "juádia zink"]
+    ],
+    "errores": [
+      "No uses gonna, wanna o gotta al escribir un texto formal: son formas habladas, no de escritura.",
+      "No esperes oír cada palabra separada: al principio entenderás menos de lo que sabes leer, y es normal.",
+      "No traduzcas palabra por palabra lo que oyes: busca la idea general (gist) y los verbos y sustantivos principales."
+    ]
+  },
+  "practica": [
+    "Mira 10 minutos de una serie en inglés con subtítulos en inglés y anota 8 reducciones que oigas (15 minutos).",
+    "Escucha un podcast de 5 minutos dos veces: primero sin leer, luego con transcripción, y marca lo que no entendiste (15 minutos).",
+    "Repite en voz alta 10 frases con gonna, wanna y gotta imitando el ritmo de un audio (10 minutos).",
+    "Compara un video de un hablante estadounidense con uno británico o australiano y anota 5 diferencias de pronunciación (15 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-c1-u12-l1",
+      "n": 1,
+      "titulo": "Reducciones del habla diaria",
+      "objetivo": "Reconocer y entender gonna, wanna, gotta, kinda, dunno, lemme y gimme.",
+      "intro": "En el habla informal, dos palabras se funden en una. Entenderlas es más importante que usarlas. Truco: gonna = going to, wanna = want to, gotta = got to; todas terminan en un sonido corto y suave.",
+      "palabras": [
+        { "t": "gonna", "es": "voy a (going to)", "pron": "gónna", "ej": "I'm gonna call her tomorrow.", "ejes": "La voy a llamar mañana.", "cog": false },
+        { "t": "wanna", "es": "quiero (want to)", "pron": "uánna", "ej": "Do you wanna grab some coffee?", "ejes": "¿Quieres tomar un café?", "cog": false },
+        { "t": "gotta", "es": "tengo que (got to)", "pron": "gáta", "ej": "I gotta finish this report tonight.", "ejes": "Tengo que terminar este informe esta noche.", "cog": false },
+        { "t": "kinda", "es": "algo, más o menos (kind of)", "pron": "káinda", "ej": "It's kinda late, don't you think?", "ejes": "Es algo tarde, ¿no crees?", "cog": false },
+        { "t": "dunno", "es": "no sé (don't know)", "pron": "danóu", "ej": "I dunno, maybe we should wait.", "ejes": "No sé, quizás deberíamos esperar.", "cog": false },
+        { "t": "lemme", "es": "déjame (let me)", "pron": "lémi", "ej": "Lemme check my calendar real quick.", "ejes": "Déjame revisar mi calendario rápido.", "cog": false },
+        { "t": "gimme", "es": "dame (give me)", "pron": "guími", "ej": "Gimme a minute, I'll be right back.", "ejes": "Dame un minuto, ya vuelvo.", "cog": false },
+        { "t": "whaddya", "es": "qué (what do you)", "pron": "juádia", "ej": "Whaddya think about the new plan?", "ejes": "¿Qué piensas del nuevo plan?", "cog": false }
+      ],
+      "frases": [
+        { "t": "I'm gonna be late, so start without me.", "es": "Voy a llegar tarde, así que empiecen sin mí.", "pron": "aim gónna bi leit, sou start uidáut mi" },
+        { "t": "Do you wanna see a movie tonight?", "es": "¿Quieres ver una película esta noche?", "pron": "du iu uánna si a múvi tunáit" },
+        { "t": "I gotta go, I have a meeting at nine.", "es": "Tengo que irme, tengo una reunión a las nueve.", "pron": "ai gáta gou, ai jav a míitin at náin" },
+        { "t": "I dunno what he meant by that.", "es": "No sé qué quiso decir con eso.", "pron": "ai danóu juat ji ment bai dat" },
+        { "t": "Lemme know if you need anything.", "es": "Avísame si necesitas algo.", "pron": "lémi nou if iu nid énizin" }
+      ],
+      "dialogo": {
+        "titulo": "Un mensaje de voz entre colegas",
+        "lineas": [
+          { "q": "A", "t": "Hey, whaddya think about the new schedule? I'm kinda confused.", "es": "Oye, ¿qué piensas del nuevo horario? Estoy algo confundido." },
+          { "q": "B", "t": "I dunno yet. Lemme read it again and I'll get back to you.", "es": "Todavía no sé. Déjame leerlo de nuevo y te respondo." },
+          { "q": "A", "t": "Sure. I'm gonna grab lunch, so no rush.", "es": "Claro. Voy a almorzar, así que sin apuro." },
+          { "q": "B", "t": "Actually, I gotta call a client first. Gimme twenty minutes.", "es": "En realidad, tengo que llamar a un cliente primero. Dame veinte minutos." },
+          { "q": "A", "t": "No problem. Do you wanna meet at the café after that?", "es": "Sin problema. ¿Quieres que nos veamos en el café después?" },
+          { "q": "B", "t": "Sounds good. I'll text you when I'm done.", "es": "Suena bien. Te escribo cuando termine." }
+        ]
+      },
+      "nota": "Estas formas son naturales en conversaciones y mensajes informales, pero evítalas en correos formales, informes o entrevistas de trabajo."
+    },
+    {
+      "id": "en-c1-u12-l2",
+      "n": 2,
+      "titulo": "Enlaces, formas débiles y ritmo",
+      "objetivo": "Entender cómo se unen los sonidos y por qué algunas palabras casi desaparecen.",
+      "intro": "El inglés tiene un ritmo marcado: las palabras importantes se acentúan y las pequeñas se aplastan. Truco: no intentes oír cada palabra; escucha el esqueleto, o sea los verbos y sustantivos.",
+      "palabras": [
+        { "t": "linking", "es": "enlace (unión de sonidos)", "pron": "línkin", "ej": "Linking makes pick it up sound like one word.", "ejes": "El enlace hace que pick it up suene como una sola palabra.", "cog": false },
+        { "t": "elision", "es": "elisión, pérdida de un sonido", "pron": "ilíshon", "ej": "Elision explains why next door sounds like nex-door.", "ejes": "La elisión explica por qué next door suena como nex-door.", "cog": true },
+        { "t": "schwa", "es": "schwa, vocal neutra", "pron": "shua", "ej": "The schwa is the most common sound in English.", "ejes": "La schwa es el sonido más común del inglés.", "cog": false },
+        { "t": "weak form", "es": "forma débil", "pron": "uik form", "ej": "In fast speech, to is a weak form.", "ejes": "En el habla rápida, to es una forma débil.", "cog": false },
+        { "t": "stress", "es": "acento, énfasis", "pron": "stres", "ej": "The stress falls on the first syllable.", "ejes": "El acento cae en la primera sílaba.", "cog": false },
+        { "t": "intonation", "es": "entonación", "pron": "intonéishon", "ej": "Rising intonation can signal a question.", "ejes": "La entonación ascendente puede indicar una pregunta.", "cog": true },
+        { "t": "rhythm", "es": "ritmo", "pron": "rízom", "ej": "English has a strong rhythm.", "ejes": "El inglés tiene un ritmo fuerte.", "cog": true },
+        { "t": "flap", "es": "t suave (como una r corta)", "pron": "flap", "ej": "The flap makes water sound like wader.", "ejes": "La t suave hace que water suene como wader.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Pick it up and put it on the table.", "es": "Recógelo y ponlo sobre la mesa.", "pron": "pi-ki-tap and pu-ti-ton da téibol" },
+        { "t": "The schwa is the most common vowel sound in English.", "es": "La schwa es el sonido vocálico más común del inglés.", "pron": "da shua is da móust cómon báuel saund in ínglish" },
+        { "t": "Content words get the stress; the others are weak.", "es": "Las palabras de contenido reciben el acento; las demás son débiles.", "pron": "cóntent uerds guet da stres; di áderz ar uik" },
+        { "t": "Rising intonation often signals a question.", "es": "La entonación ascendente suele indicar una pregunta.", "pron": "ráisin intonéishon ófen sígnals a cuéschon" },
+        { "t": "Americans pronounce butter with a flap, like budder.", "es": "Los estadounidenses pronuncian butter con t suave, como budder.", "pron": "amérikans pronáuns báter uid a flap, laik báder" }
+      ],
+      "dialogo": {
+        "titulo": "Clase de pronunciación",
+        "lineas": [
+          { "q": "A", "t": "I can read English fine, but when people speak fast, I lose them completely.", "es": "Leo bien en inglés, pero cuando la gente habla rápido, me pierdo por completo." },
+          { "q": "B", "t": "That's because of linking and weak forms. Native speakers squash small words together.", "es": "Eso se debe a los enlaces y formas débiles. Los nativos aplastan las palabras pequeñas." },
+          { "q": "A", "t": "So pick it up sounds like one word?", "es": "¿Entonces pick it up suena como una sola palabra?" },
+          { "q": "B", "t": "Exactly. Listen for the stress and the rhythm, and don't worry about the schwa sounds.", "es": "Exacto. Escucha el acento y el ritmo, y no te preocupes por las schwa." },
+          { "q": "A", "t": "And in American English, the t in water sounds like a d, right?", "es": "Y en inglés estadounidense, la t de water suena como d, ¿no?" },
+          { "q": "B", "t": "Right, that's a flap. Try repeating the audio and imitating its intonation.", "es": "Así es, eso es un flap. Intenta repetir el audio e imitar su entonación." }
+        ]
+      },
+      "nota": "El inglés es un idioma de ritmo acentual: el tiempo entre sílabas acentuadas tiende a ser parecido. El español es más silábico, por eso nos cuesta al inicio."
+    },
+    {
+      "id": "en-c1-u12-l3",
+      "n": 3,
+      "titulo": "Acentos del mundo anglosajón",
+      "objetivo": "Reconocer rasgos generales de los acentos estadounidense, británico, australiano e irlandés.",
+      "intro": "No hay un solo inglés: hay muchos. Cada región tiene su acento y su vocabulario. Truco: elige un acento para hablar, pero entrena el oído con varios.",
+      "palabras": [
+        { "t": "accent", "es": "acento", "pron": "áxent", "ej": "She has a slight Southern accent.", "ejes": "Ella tiene un leve acento del sur.", "cog": true },
+        { "t": "dialect", "es": "dialecto", "pron": "dáialect", "ej": "That dialect is hard for outsiders to follow.", "ejes": "Ese dialecto es difícil de seguir para los de afuera.", "cog": true },
+        { "t": "drawl", "es": "acento arrastrado (del sur de EE. UU.)", "pron": "drol", "ej": "He speaks with a slow Texan drawl.", "ejes": "Habla con un lento acento arrastrado de Texas.", "cog": false },
+        { "t": "twang", "es": "tono nasal", "pron": "tuan", "ej": "Her voice has a country twang.", "ejes": "Su voz tiene un tono nasal campestre.", "cog": false },
+        { "t": "brogue", "es": "acento irlandés marcado", "pron": "broug", "ej": "His Irish brogue was charming.", "ejes": "Su acento irlandés marcado era encantador.", "cog": false },
+        { "t": "Received Pronunciation", "es": "pronunciación estándar británica", "pron": "risívd pronansiéishon", "ej": "Received Pronunciation is often heard on the BBC.", "ejes": "La pronunciación estándar británica suele oírse en la BBC.", "cog": false },
+        { "t": "pronunciation", "es": "pronunciación", "pron": "pronansiéishon", "ej": "Your pronunciation is clear and natural.", "ejes": "Tu pronunciación es clara y natural.", "cog": true },
+        { "t": "regional", "es": "regional", "pron": "ríyonal", "ej": "Regional accents add color to a language.", "ejes": "Los acentos regionales le dan color a un idioma.", "cog": true }
+      ],
+      "frases": [
+        { "t": "She has a slight Southern accent.", "es": "Tiene un leve acento sureño.", "pron": "shi jas a slait sáuthern áxent" },
+        { "t": "His Texan drawl makes everything sound relaxed.", "es": "Su acento arrastrado de Texas hace que todo suene relajado.", "pron": "jis téxan drol meiks évrizin saund rilákst" },
+        { "t": "British people often drop the r at the end of words.", "es": "Los británicos suelen omitir la r al final de las palabras.", "pron": "brítish pípol ófen drop di ar at di end ov uerds" },
+        { "t": "Australians say mate and no worries all the time.", "es": "Los australianos dicen mate y no worries todo el tiempo.", "pron": "ostréilians sei meit and nou uóris ol da taim" },
+        { "t": "Regional accents can be hard to understand at first.", "es": "Los acentos regionales pueden ser difíciles de entender al principio.", "pron": "ríyonal áxents can bi jard tu anderstánd at ferst" }
+      ],
+      "dialogo": {
+        "titulo": "Después de una conferencia",
+        "lineas": [
+          { "q": "A", "t": "I attended a conference in Scotland, and I could barely understand the local accent.", "es": "Asistí a una conferencia en Escocia y casi no pude entender el acento local." },
+          { "q": "B", "t": "That's normal. Regional accents can be tough, even for native speakers from other countries.", "es": "Es normal. Los acentos regionales son duros, incluso para hablantes nativos de otros países." },
+          { "q": "A", "t": "What did you think of the presenter from Texas? His drawl was really strong.", "es": "¿Qué te pareció el presentador de Texas? Su acento arrastrado era muy fuerte." },
+          { "q": "B", "t": "I liked it. It was slower, so it was easier to follow than the Australian speaker.", "es": "Me gustó. Era más lento, así que fue más fácil de seguir que el orador australiano." },
+          { "q": "A", "t": "The British moderator had clear Received Pronunciation, which helped a lot.", "es": "El moderador británico tenía una pronunciación estándar clara, lo cual ayudó mucho." },
+          { "q": "B", "t": "Exposure is the key. Listen to many accents and you'll adapt quickly.", "es": "La exposición es la clave. Escucha muchos acentos y te adaptarás rápido." }
+        ]
+      },
+      "nota": "Ninguna variedad es mejor que otra. Lo importante es que se te entienda y que tú entiendas. El inglés de EE. UU., el británico y el australiano son todos igualmente válidos."
+    },
+    {
+      "id": "en-c1-u12-l4",
+      "n": 4,
+      "titulo": "Slang y expresiones informales",
+      "objetivo": "Entender slang cotidiano de EE. UU. y usarlo con prudencia.",
+      "intro": "El slang cambia rápido y depende de la edad y la región. Entenderlo te salva en una conversación casual; usarlo con exceso puede sonar forzado. Truco: úsalo solo cuando lo hayas oído de varias personas.",
+      "palabras": [
+        { "t": "legit", "es": "legítimo, genial", "pron": "lilít", "ej": "That restaurant is legit, you should try it.", "ejes": "Ese restaurante es genial, deberías probarlo.", "cog": false },
+        { "t": "sketchy", "es": "sospechoso, dudoso", "pron": "skétshi", "ej": "That website looks sketchy to me.", "ejes": "Ese sitio web me parece sospechoso.", "cog": false },
+        { "t": "bummer", "es": "qué lástima, fastidio", "pron": "bámer", "ej": "Bummer, the flight got delayed again.", "ejes": "Qué lástima, el vuelo se retrasó otra vez.", "cog": false },
+        { "t": "stoked", "es": "emocionado, muy contento", "pron": "stóukt", "ej": "I'm stoked about the concert tonight.", "ejes": "Estoy muy emocionado por el concierto de esta noche.", "cog": false },
+        { "t": "hang out", "es": "pasar el rato", "pron": "jang aut", "ej": "We usually hang out on Saturdays.", "ejes": "Solemos pasar el rato los sábados.", "cog": false },
+        { "t": "chill", "es": "relajado, tranquilo", "pron": "chil", "ej": "Don't worry, he's super chill about deadlines.", "ejes": "No te preocupes, es muy tranquilo con los plazos.", "cog": false },
+        { "t": "lowkey", "es": "un poco, en secreto", "pron": "lóuki", "ej": "I lowkey want to quit my job.", "ejes": "En el fondo quiero renunciar a mi trabajo.", "cog": false },
+        { "t": "ghost", "es": "dejar de responder a alguien", "pron": "goust", "ej": "He tends to ghost people after one date.", "ejes": "Suele dejar de responder a la gente después de una cita.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Bummer, I had to cancel my trip.", "es": "Qué lástima, tuve que cancelar mi viaje.", "pron": "bámer, ai jad tu cánsel mai trip" },
+        { "t": "That offer sounds kind of sketchy.", "es": "Esa oferta suena algo sospechosa.", "pron": "dat ófer saunds caind ov skétshi" },
+        { "t": "I'm so stoked for the weekend.", "es": "Estoy muy emocionado por el fin de semana.", "pron": "aim sou stóukt for da uíkend" },
+        { "t": "Wanna hang out after work?", "es": "¿Quieres pasar el rato después del trabajo?", "pron": "uána jang aut áfter uerk" },
+        { "t": "My boss is pretty chill about remote work.", "es": "Mi jefe es bastante tranquilo con el trabajo remoto.", "pron": "mai bos is príti chil abáut rimóut uerk" }
+      ],
+      "dialogo": {
+        "titulo": "Planes entre amigos",
+        "lineas": [
+          { "q": "A", "t": "Dude, I'm so stoked. I finally got tickets to the festival.", "es": "Amigo, estoy muy emocionado. Por fin conseguí entradas al festival." },
+          { "q": "B", "t": "Legit? I thought they sold out. Where did you buy them?", "es": "¿En serio? Pensé que se habían agotado. ¿Dónde las compraste?" },
+          { "q": "A", "t": "On a resale site. It looked sketchy at first, but the seller was totally fine.", "es": "En un sitio de reventa. Al principio parecía sospechoso, pero el vendedor estuvo bien." },
+          { "q": "B", "t": "Bummer, I couldn't get any. Lowkey jealous right now.", "es": "Qué lástima, no pude conseguir ninguna. En el fondo siento algo de envidia." },
+          { "q": "A", "t": "Don't be. We can hang out afterward and I'll tell you everything.", "es": "No lo estés. Podemos pasar el rato después y te cuento todo." },
+          { "q": "B", "t": "Deal. Honestly, I'm just chill with that.", "es": "Trato hecho. Sinceramente, estoy tranquilo con eso." }
+        ]
+      },
+      "nota": "El slang es informal y a veces muy local. Dude y chill son comunes en EE. UU.; en el Reino Unido se oyen más mate o cheers. Evítalo en entrevistas o correos formales."
+    },
+    {
+      "id": "en-c1-u12-l5",
+      "n": 5,
+      "titulo": "Repaso: seguir una conversación rápida",
+      "objetivo": "Usar estrategias para seguir una conversación rápida y pedir aclaraciones con naturalidad.",
+      "intro": "No tienes que entenderlo todo: tienes que entender lo suficiente y saber pedir ayuda. Truco: pide que repitan con fórmulas educadas: Sorry, I didn't catch that.",
+      "palabras": [
+        { "t": "catch", "es": "captar, entender (lo oído)", "pron": "catch", "ej": "Sorry, I didn't catch your name.", "ejes": "Perdón, no capté tu nombre.", "cog": false },
+        { "t": "keep up", "es": "seguir el ritmo", "pron": "kip ap", "ej": "It's hard to keep up with such fast speakers.", "ejes": "Es difícil seguir el ritmo de hablantes tan rápidos.", "cog": false },
+        { "t": "make out", "es": "distinguir, lograr entender", "pron": "meik aut", "ej": "I couldn't make out what he said over the noise.", "ejes": "No logré distinguir lo que dijo entre el ruido.", "cog": false },
+        { "t": "pick up", "es": "captar, aprender de oído", "pron": "pic ap", "ej": "You pick up new words just by listening.", "ejes": "Aprendes palabras nuevas solo escuchando.", "cog": false },
+        { "t": "slow down", "es": "hablar más lento", "pron": "slou daun", "ej": "Could you slow down a little, please?", "ejes": "¿Podrías hablar un poco más lento, por favor?", "cog": false },
+        { "t": "paraphrase", "es": "parafrasear", "pron": "párafreis", "ej": "Let me paraphrase to make sure I understood.", "ejes": "Déjame parafrasear para asegurarme de que entendí.", "cog": true },
+        { "t": "come across", "es": "dar la impresión", "pron": "cam acrós", "ej": "Try not to come across as arrogant.", "ejes": "Procura no dar la impresión de ser arrogante.", "cog": false },
+        { "t": "gist", "es": "idea general", "pron": "yist", "ej": "I got the gist, but not every detail.", "ejes": "Entendí la idea general, pero no cada detalle.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Sorry, I didn't catch that. Could you repeat it?", "es": "Perdón, no lo capté. ¿Podrías repetirlo?", "pron": "sóri, ai dídent catch dat. cud iu ripít it" },
+        { "t": "Could you slow down a bit? I'm still learning.", "es": "¿Podrías hablar un poco más lento? Todavía estoy aprendiendo.", "pron": "cud iu slou daun a bit? aim stil lérnin" },
+        { "t": "I got the gist, but I missed a few details.", "es": "Entendí la idea general, pero me perdí algunos detalles.", "pron": "ai got da yist, bat ai mist a fiu dítels" },
+        { "t": "So what you're saying is that we should wait?", "es": "¿O sea que lo que dices es que deberíamos esperar?", "pron": "sou juat ior séiin is dat ui shud ueit" },
+        { "t": "I'm gonna ask him to paraphrase, just to be sure.", "es": "Voy a pedirle que parafrasee, solo para estar seguro.", "pron": "aim gónna ask jim tu párafreis, yast tu bi shur" }
+      ],
+      "dialogo": {
+        "titulo": "Una videollamada rápida",
+        "lineas": [
+          { "q": "A", "t": "Sorry, I didn't catch the last part. The connection is bad and you speak quite fast.", "es": "Perdón, no capté la última parte. La conexión es mala y hablas bastante rápido." },
+          { "q": "B", "t": "No worries, I'll slow down. I was saying that the client wants the report by Thursday.", "es": "No te preocupes, hablaré más lento. Decía que el cliente quiere el informe el jueves." },
+          { "q": "A", "t": "Got it. So what you're saying is that we gotta finish the draft tomorrow?", "es": "Entendido. O sea que lo que dices es que tenemos que terminar el borrador mañana." },
+          { "q": "B", "t": "Exactly. I know it's hard to keep up with my accent sometimes. Let me paraphrase.", "es": "Exacto. Sé que a veces es difícil seguir mi acento. Déjame parafrasear." },
+          { "q": "A", "t": "Thanks. I got the gist, but the details were hard to make out.", "es": "Gracias. Entendí la idea general, pero los detalles fueron difíciles de distinguir." },
+          { "q": "B", "t": "I'll send you a summary by email so you can pick up anything you missed.", "es": "Te enviaré un resumen por correo para que recojas lo que te perdiste." }
+        ]
+      },
+      "nota": "Pedir que repitan no es señal de debilidad: los nativos lo hacen todo el tiempo. Es mejor preguntar que asentir sin haber entendido."
+    }
+  ]
+}

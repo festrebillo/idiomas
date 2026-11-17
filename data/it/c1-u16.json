@@ -1,0 +1,214 @@
+{
+  "id": "it-c1-u16",
+  "idioma": "it",
+  "nivel": "C1",
+  "n": 16,
+  "titulo": "Precisión y repaso del nivel C1",
+  "resumen": "Afinarás la precisión léxica con verbos de matiz, falsos amigos y sinónimos de registro, y repasarás lo esencial del nivel C1.",
+  "puedo": [
+    "Elegir con precisión entre verbos cercanos: affermare, dichiarare, asserire, constatare.",
+    "Evitar los falsos amigos más frecuentes entre español e italiano.",
+    "Usar sinónimos de registro formal: conseguire, avviare, agevolare, comprendere.",
+    "Cerrar una argumentación con conectores como in definitiva, tutto sommato y a conti fatti.",
+    "Repasar y consolidar lo aprendido en el nivel C1."
+  ],
+  "gramatica": {
+    "titulo": "Falsos amigos entre español e italiano",
+    "texto": "Español e italiano se parecen tanto que es fácil caer en trampas: palabras casi iguales con sentido distinto.\nSolo cognados reales: familia, ospedale, importante. Falsos amigos: burro (mantequilla, no burro), largo (ancho, no largo), salire (subir, no salir), guardare (mirar, no guardar).\nOtros: aspettare es esperar a alguien o algo; sperare es esperar con esperanza.\nTruco: si una palabra te parece idéntica al español, comprueba en una frase de ejemplo antes de usarla con confianza.\nEn C1 la precisión importa: un falso amigo puede cambiar por completo el sentido de lo que dices.",
+    "tabla": [
+      ["il burro", "la mantequilla", "il búrro"],
+      ["largo", "ancho", "lárgo"],
+      ["salire", "subir", "salíre"],
+      ["guardare", "mirar", "guardáre"],
+      ["aspettare / sperare", "esperar (algo o a alguien) / esperar (con ilusión)", "aspettáre / speráre"]
+    ],
+    "errores": [
+      "Decir «voglio il burro» pensando en el animal: burro es mantequilla; el animal es «l'asino».",
+      "Decir «esco dal secondo piano» con «salgo»: salire es subir; salir se dice uscire.",
+      "Usar «largo» para algo de gran longitud: «un largo viaje» es «un lungo viaggio»; en italiano «largo» significa ancho."
+    ]
+  },
+  "practica": [
+    "Haz una lista de diez falsos amigos que conozcas y escribe una frase con cada uno para fijar su sentido (12 minutos).",
+    "Elige un texto formal en italiano y busca tres sinónimos más precisos para palabras como dire, fare o cosa (10 minutos).",
+    "Graba un minuto de resumen de todo el nivel C1: qué aprendiste, qué te costó y qué quieres mejorar (8 minutos).",
+    "Escribe un texto de 150 palabras sobre un tema de actualidad usando al menos seis conectores del nivel C1 (15 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-c1-u16-l1",
+      "n": 1,
+      "titulo": "Precisión: verbos de decir, ver y afirmar",
+      "objetivo": "Elegir el verbo más preciso para decir, afirmar y percibir.",
+      "intro": "En C1, «dire» y «vedere» ya no bastan. Truco: pregúntate qué matiz quieres dar: certeza, formalidad, descubrimiento o insistencia.",
+      "palabras": [
+        { "t": "affermare", "es": "afirmar", "pron": "affermáre", "ej": "Il ministro ha voluto affermare con forza la propria posizione.", "ejes": "El ministro quiso afirmar con fuerza su postura.", "cog": true },
+        { "t": "dichiarare", "es": "declarar", "pron": "dikiaráre", "ej": "Devo dichiarare ufficialmente la mia opposizione.", "ejes": "Debo declarar oficialmente mi oposición.", "cog": true },
+        { "t": "asserire", "es": "aseverar", "pron": "asseríre", "ej": "Non posso asserire che sia vero senza prove.", "ejes": "No puedo aseverar que sea cierto sin pruebas.", "cog": true },
+        { "t": "scorgere", "es": "divisar, distinguir a lo lejos", "pron": "scórdyere", "ej": "Dalla finestra si riesce a scorgere il mare.", "ejes": "Desde la ventana se logra divisar el mar.", "cog": false },
+        { "t": "avvistare", "es": "avistar", "pron": "avvistáre", "ej": "I pescatori hanno detto di avvistare una balena.", "ejes": "Los pescadores dijeron haber avistado una ballena.", "cog": true },
+        { "t": "constatare", "es": "constatar", "pron": "constatáre", "ej": "Dobbiamo constatare che i risultati sono insufficienti.", "ejes": "Debemos constatar que los resultados son insuficientes.", "cog": true },
+        { "t": "rilevare", "es": "señalar, hacer notar", "pron": "rileváre", "ej": "Vorrei rilevare un errore nel documento.", "ejes": "Quisiera señalar un error en el documento.", "cog": false },
+        { "t": "ribadire", "es": "reiterar, recalcar", "pron": "ribadíre", "ej": "Desidero ribadire che la decisione è definitiva.", "ejes": "Deseo reiterar que la decisión es definitiva.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il presidente ha dichiarato che non si dimetterà.", "es": "El presidente declaró que no renunciará.", "pron": "il presidénte a dikiaráto ke non si dimetterá" },
+        { "t": "Non si può asserire nulla senza dati concreti.", "es": "No se puede aseverar nada sin datos concretos.", "pron": "non si puó asseríre núlla séntsa dáti concréti" },
+        { "t": "In lontananza si scorgeva a stento la costa.", "es": "A lo lejos se divisaba a duras penas la costa.", "pron": "in lontanántsa si scordyéva a sténto la cósta" },
+        { "t": "Va rilevato che nessuno ha contestato la proposta.", "es": "Cabe señalar que nadie cuestionó la propuesta.", "pron": "va rileváto ke nessúno a contestáto la propósta" },
+        { "t": "Voglio ribadire il mio sostegno al progetto.", "es": "Quiero reiterar mi apoyo al proyecto.", "pron": "vóglio ribadíre il mío sostéño al progétto" }
+      ],
+      "dialogo": {
+        "titulo": "Una conferenza stampa",
+        "lineas": [
+          { "q": "A", "t": "Il portavoce ha dichiarato che l'azienda non ha nulla da nascondere.", "es": "El portavoz declaró que la empresa no tiene nada que ocultar." },
+          { "q": "B", "t": "Eppure i giornalisti hanno rilevato diverse incongruenze nei documenti presentati.", "es": "Y sin embargo los periodistas señalaron varias incongruencias en los documentos presentados." },
+          { "q": "A", "t": "Non posso asserire che siano errori voluti, ma devo constatare che qualcosa non torna.", "es": "No puedo aseverar que sean errores deliberados, pero debo constatar que algo no cuadra." },
+          { "q": "B", "t": "Il direttore ha voluto ribadire la propria fiducia nella squadra, nonostante tutto.", "es": "El director quiso reiterar su confianza en el equipo, a pesar de todo." },
+          { "q": "A", "t": "Vedremo se tra qualche giorno si riuscirà a scorgere la verità tra le dichiarazioni.", "es": "Veremos si en unos días se logrará divisar la verdad entre las declaraciones." }
+        ]
+      },
+      "nota": "«Affermare» es más neutro; «asserire» es más formal y enfático; «dichiarare» suele ser oficial o público."
+    },
+    {
+      "id": "it-c1-u16-l2",
+      "n": 2,
+      "titulo": "Falsos amigos frecuentes",
+      "objetivo": "Reconocer y evitar los falsos amigos más habituales entre español e italiano.",
+      "intro": "Un hablante de español acierta muchas palabras al intuir, pero algunas pueden jugarte malas pasadas. Truco: sospecha de toda palabra que se parezca demasiado al español.",
+      "palabras": [
+        { "t": "il burro", "es": "la mantequilla", "pron": "il búrro", "ej": "Il burro si scioglie in padella.", "ejes": "La mantequilla se derrite en la sartén.", "cog": false },
+        { "t": "largo", "es": "ancho", "pron": "lárgo", "ej": "Il corridoio è largo due metri.", "ejes": "El pasillo mide dos metros de ancho.", "cog": false },
+        { "t": "salire", "es": "subir", "pron": "salíre", "ej": "Devo salire al terzo piano.", "ejes": "Debo subir al tercer piso.", "cog": false },
+        { "t": "aspettare", "es": "esperar (a alguien o algo)", "pron": "aspettáre", "ej": "Non mi piace aspettare troppo.", "ejes": "No me gusta esperar demasiado.", "cog": false },
+        { "t": "sperare", "es": "esperar (con ilusión)", "pron": "speráre", "ej": "Voglio sperare che tutto vada bene.", "ejes": "Quiero esperar que todo vaya bien.", "cog": false },
+        { "t": "guardare", "es": "mirar", "pron": "guardáre", "ej": "Mi piace guardare il mare al tramonto.", "ejes": "Me gusta mirar el mar al atardecer.", "cog": false },
+        { "t": "la camera", "es": "la habitación", "pron": "la cámera", "ej": "La camera è al secondo piano.", "ejes": "La habitación está en el segundo piso.", "cog": false },
+        { "t": "presto", "es": "temprano, pronto", "pron": "présto", "ej": "Domani mi alzo presto.", "ejes": "Mañana me levanto temprano.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Spalmo il burro sul pane ancora caldo.", "es": "Unto mantequilla en el pan aún caliente.", "pron": "spálmo il búrro sul páne ancóra cáldo" },
+        { "t": "Questa strada è larga e comoda per le biciclette.", "es": "Esta calle es ancha y cómoda para las bicicletas.", "pron": "cuésta stráda e lárga e cómoda per le bicicléte" },
+        { "t": "Aspetto il treno da venti minuti, ma spero che arrivi presto.", "es": "Espero el tren desde hace veinte minutos, pero espero que llegue pronto.", "pron": "aspétto il tren da vénti minúti ma spéro ke arrívi présto" },
+        { "t": "Salgo in camera a riposare un momento.", "es": "Subo a la habitación a descansar un momento.", "pron": "sálgo in cámera a riposáre un moménto" },
+        { "t": "Guardo sempre le previsioni prima di partire.", "es": "Siempre miro el pronóstico antes de salir de viaje.", "pron": "guárdo sémpre le previsióni príma di partíre" }
+      ],
+      "dialogo": {
+        "titulo": "Un malinteso in albergo",
+        "lineas": [
+          { "q": "A", "t": "Scusi, la mia camera è al secondo piano, ma non trovo l'ascensore.", "es": "Disculpe, mi habitación está en el segundo piso, pero no encuentro el ascensor." },
+          { "q": "B", "t": "È in fondo al corridoio, che è molto largo: non può sbagliarsi.", "es": "Está al fondo del pasillo, que es muy ancho: no puede equivocarse." },
+          { "q": "A", "t": "Grazie; devo salire subito perché aspetto una chiamata, e spero che sia buona.", "es": "Gracias; debo subir enseguida porque espero una llamada, y espero que sea buena." },
+          { "q": "B", "t": "Domattina, se vuole, la colazione è servita presto, con burro e marmellata.", "es": "Mañana por la mañana, si quiere, el desayuno se sirve temprano, con mantequilla y mermelada." },
+          { "q": "A", "t": "Perfetto, mi alzerò presto e guarderò anche il panorama dalla terrazza.", "es": "Perfecto, me levantaré temprano y también miraré el panorama desde la terraza." }
+        ]
+      },
+      "nota": "«Guardare» tiene otro sentido en italiano: no es «guardar» (conservar). Para conservar se dice «conservare» o «tenere»."
+    },
+    {
+      "id": "it-c1-u16-l3",
+      "n": 3,
+      "titulo": "Más falsos amigos y matices",
+      "objetivo": "Evitar errores de sentido con palabras de apariencia española pero significado distinto.",
+      "intro": "Hay falsos amigos más sutiles que cambian el matiz de una frase. Truco: «pretendere» no es «pretender» sino «exigir»; «eventualmente» no es «eventualmente» sino «en su caso».",
+      "palabras": [
+        { "t": "pretendere", "es": "exigir, reclamar", "pron": "pretendére", "ej": "Non puoi pretendere che tutti siano d'accordo.", "ejes": "No puedes exigir que todos estén de acuerdo.", "cog": false },
+        { "t": "realizzare", "es": "darse cuenta; realizar", "pron": "realiddsáre", "ej": "Non riesco ancora a realizzare cosa sia successo.", "ejes": "Todavía no logro darme cuenta de lo que pasó.", "cog": false },
+        { "t": "assistere", "es": "presenciar, atender", "pron": "assístere", "ej": "Voglio assistere alla riunione senza intervenire.", "ejes": "Quiero presenciar la reunión sin intervenir.", "cog": false },
+        { "t": "eventualmente", "es": "en su caso, si hace falta", "pron": "eventualménte", "ej": "Eventualmente, possiamo rinviare l'incontro.", "ejes": "En su caso, podemos aplazar la reunión.", "cog": false },
+        { "t": "attualmente", "es": "actualmente", "pron": "attualménte", "ej": "Attualmente lavoro in una banca.", "ejes": "Actualmente trabajo en un banco.", "cog": true },
+        { "t": "educato", "es": "cortés, bien educado", "pron": "educáto", "ej": "È un ragazzo educato e molto rispettoso.", "ejes": "Es un joven cortés y muy respetuoso.", "cog": false },
+        { "t": "simpatico", "es": "agradable, simpático", "pron": "simpático", "ej": "Il tuo collega è molto simpatico.", "ejes": "Tu colega es muy simpático.", "cog": true },
+        { "t": "morbido", "es": "suave, blando", "pron": "mórbido", "ej": "Il divano è morbido e molto comodo.", "ejes": "El sofá es suave y muy cómodo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Non puoi pretendere che io risponda subito.", "es": "No puedes exigir que yo responda enseguida.", "pron": "non puói pretendére ke ío rispónda súbito" },
+        { "t": "Ho realizzato solo ieri quanto fosse grave la situazione.", "es": "Recién ayer me di cuenta de lo grave que era la situación.", "pron": "o realiddsáto sólo iéri cuánto fósse gráve la situatsióne" },
+        { "t": "Attualmente il progetto è in fase di revisione.", "es": "Actualmente el proyecto está en fase de revisión.", "pron": "attualménte il progétto e in fáse di revisióne" },
+        { "t": "Eventualmente, potremmo spostare l'appuntamento a giovedì.", "es": "En su caso, podríamos mover la cita al jueves.", "pron": "eventualménte potrémmo spostáre lappuntaménto a dyovedí" },
+        { "t": "Il gatto ha un pelo morbido e lucente.", "es": "El gato tiene un pelaje suave y brillante.", "pron": "il gáto a un pélo mórbido e luchénte" }
+      ],
+      "dialogo": {
+        "titulo": "Una riunione difficile",
+        "lineas": [
+          { "q": "A", "t": "Il cliente pretende una risposta entro stasera, ma attualmente non abbiamo tutti i dati.", "es": "El cliente exige una respuesta antes de esta noche, pero actualmente no tenemos todos los datos." },
+          { "q": "B", "t": "Eventualmente, potremmo chiedere una proroga: è una persona educata e ragionevole.", "es": "En su caso, podríamos pedir una prórroga: es una persona cortés y razonable." },
+          { "q": "A", "t": "Sì, e anche simpatico; non voglio che pensi che non abbiamo realizzato l'urgenza.", "es": "Sí, y también simpático; no quiero que piense que no nos dimos cuenta de la urgencia." },
+          { "q": "B", "t": "Se vuole, posso assistere alla telefonata e prendere appunti.", "es": "Si quiere, puedo presenciar la llamada y tomar notas." },
+          { "q": "A", "t": "Ottimo, e usiamo un tono morbido: evitiamo ogni tensione inutile.", "es": "Excelente, y usemos un tono suave: evitemos cualquier tensión innecesaria." }
+        ]
+      },
+      "nota": "«Educato» en italiano significa «cortés»; para «educado» en el sentido de formación académica se dice «istruito» o «colto»."
+    },
+    {
+      "id": "it-c1-u16-l4",
+      "n": 4,
+      "titulo": "Sinónimos de registro formal",
+      "objetivo": "Sustituir verbos básicos por sinónimos formales precisos.",
+      "intro": "En un texto formal, «ottenere» se convierte en «conseguire» y «iniziare» en «avviare». Truco: aprende los pares básico-formal para escribir con más precisión.",
+      "palabras": [
+        { "t": "conseguire", "es": "conseguir, lograr (formal)", "pron": "conseguíre", "ej": "Ha voluto conseguire la laurea con il massimo dei voti.", "ejes": "Quiso conseguir la licenciatura con la máxima calificación.", "cog": false },
+        { "t": "avviare", "es": "poner en marcha, iniciar", "pron": "avviáre", "ej": "Vogliamo avviare un nuovo progetto a settembre.", "ejes": "Queremos poner en marcha un nuevo proyecto en septiembre.", "cog": false },
+        { "t": "concludere", "es": "concluir", "pron": "conclúdere", "ej": "Dobbiamo concludere il lavoro entro venerdì.", "ejes": "Debemos concluir el trabajo antes del viernes.", "cog": true },
+        { "t": "agevolare", "es": "facilitar, favorecer", "pron": "adyevoláre", "ej": "Questa misura intende agevolare le piccole imprese.", "ejes": "Esta medida pretende facilitar a las pequeñas empresas.", "cog": false },
+        { "t": "impiegare", "es": "emplear, usar", "pron": "impiegáre", "ej": "Conviene impiegare i fondi con prudenza.", "ejes": "Conviene emplear los fondos con prudencia.", "cog": true },
+        { "t": "illustrare", "es": "exponer, ilustrar", "pron": "illustráre", "ej": "Vorrei illustrare brevemente il piano.", "ejes": "Quisiera exponer brevemente el plan.", "cog": true },
+        { "t": "modificare", "es": "modificar", "pron": "modificáre", "ej": "Dobbiamo modificare alcune clausole del contratto.", "ejes": "Debemos modificar algunas cláusulas del contrato.", "cog": true },
+        { "t": "comprendere", "es": "comprender; incluir", "pron": "comprendére", "ej": "Il prezzo può comprendere il trasporto e l'assicurazione.", "ejes": "El precio puede incluir el transporte y el seguro.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Ha conseguito ottimi risultati grazie a un lavoro costante.", "es": "Obtuvo excelentes resultados gracias a un trabajo constante.", "pron": "a conseguíto ótimi risultáti grátsie a un lavóro constánte" },
+        { "t": "L'azienda intende avviare una nuova linea di produzione.", "es": "La empresa pretende poner en marcha una nueva línea de producción.", "pron": "lasiénda inténde avviáre úna nuóva línea di produsióne" },
+        { "t": "Questa legge dovrebbe agevolare l'accesso al credito.", "es": "Esta ley debería facilitar el acceso al crédito.", "pron": "cuésta légge dovrébbe adyevoláre laccésso al crédito" },
+        { "t": "Vorrei illustrare brevemente i punti principali del piano.", "es": "Quisiera exponer brevemente los puntos principales del plan.", "pron": "vorréi illustráre brevemente i púnti princhipáli del piáno" },
+        { "t": "L'offerta comprende vitto, alloggio e trasporto.", "es": "La oferta incluye comida, alojamiento y transporte.", "pron": "lofférta comprénde vítto allóddyo e traspórto" }
+      ],
+      "dialogo": {
+        "titulo": "Una presentazione aziendale",
+        "lineas": [
+          { "q": "A", "t": "Vorrei illustrare il nostro piano di sviluppo: intendiamo avviare tre nuovi progetti entro l'anno.", "es": "Quisiera exponer nuestro plan de desarrollo: pretendemos poner en marcha tres nuevos proyectos este año." },
+          { "q": "B", "t": "Quali risultati pensate di conseguire, e quali fondi pensate di impiegare?", "es": "¿Qué resultados piensan conseguir, y qué fondos piensan emplear?" },
+          { "q": "A", "t": "L'obiettivo è agevolare la crescita dei clienti; il budget comprende anche la formazione del personale.", "es": "El objetivo es facilitar el crecimiento de los clientes; el presupuesto incluye también la formación del personal." },
+          { "q": "B", "t": "Se necessario, potremmo modificare alcune voci per concludere prima del previsto.", "es": "Si es necesario, podríamos modificar algunas partidas para concluir antes de lo previsto." },
+          { "q": "A", "t": "Certamente: un piano flessibile è un piano che funziona.", "es": "Ciertamente: un plan flexible es un plan que funciona." }
+        ]
+      },
+      "nota": "Un buen texto C1 alterna registros: no todo debe ser formal. El criterio es el destinatario y la situación."
+    },
+    {
+      "id": "it-c1-u16-l5",
+      "n": 5,
+      "titulo": "Repaso: cerrar el nivel C1",
+      "objetivo": "Cerrar una argumentación o un texto con conectores de conclusión y repasar lo esencial del nivel.",
+      "intro": "Has llegado al final del nivel C1. Truco: los buenos cierres resumen, valoran y abren: «in definitiva», «tutto sommato», «a conti fatti».",
+      "palabras": [
+        { "t": "in definitiva", "es": "en definitiva", "pron": "in definitíva", "ej": "In definitiva, il bilancio è positivo.", "ejes": "En definitiva, el balance es positivo.", "cog": true },
+        { "t": "tutto sommato", "es": "en suma, bien mirado", "pron": "túto sommáto", "ej": "Tutto sommato, è stata una buona esperienza.", "ejes": "En suma, fue una buena experiencia.", "cog": false },
+        { "t": "a conti fatti", "es": "hechas las cuentas", "pron": "a cónti fátti", "ej": "A conti fatti, il progetto ha reso più del previsto.", "ejes": "Hechas las cuentas, el proyecto rindió más de lo previsto.", "cog": false },
+        { "t": "ciononostante", "es": "no obstante", "pron": "chiononostánte", "ej": "Ciononostante, la squadra ha continuato a lavorare.", "ejes": "No obstante, el equipo siguió trabajando.", "cog": false },
+        { "t": "nondimeno", "es": "no por ello, sin embargo", "pron": "nondiméno", "ej": "Nondimeno, il risultato resta valido.", "ejes": "Sin embargo, el resultado sigue siendo válido.", "cog": false },
+        { "t": "per giunta", "es": "además, encima", "pron": "per dyúnta", "ej": "Per giunta, l'ha fatto gratis.", "ejes": "Encima, lo hizo gratis.", "cog": false },
+        { "t": "in sostanza", "es": "en esencia", "pron": "in sostántsa", "ej": "In sostanza, ci chiedono più tempo.", "ejes": "En esencia, nos piden más tiempo.", "cog": false },
+        { "t": "a ben vedere", "es": "bien visto, pensándolo bien", "pron": "a bén vedére", "ej": "A ben vedere, la soluzione era già nei dati.", "ejes": "Bien visto, la solución ya estaba en los datos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "In definitiva, la proposta è valida, ma va migliorata.", "es": "En definitiva, la propuesta es válida, pero debe mejorarse.", "pron": "in definitíva la propósta e válida ma va migliorata" },
+        { "t": "Tutto sommato, il bilancio dell'anno è soddisfacente.", "es": "En suma, el balance del año es satisfactorio.", "pron": "túto sommáto il biláncho dellánno e soddisfachénte" },
+        { "t": "Ciononostante, la squadra ha raggiunto l'obiettivo.", "es": "No obstante, el equipo alcanzó el objetivo.", "pron": "chiononostánte la squádra a radyúnto lobiettívo" },
+        { "t": "A ben vedere, il problema non era tecnico, ma organizzativo.", "es": "Bien visto, el problema no era técnico, sino organizativo.", "pron": "a bén vedére il probléma non éra técnico ma organizzatívo" },
+        { "t": "In sostanza, serve più tempo e meno pressione.", "es": "En esencia, hace falta más tiempo y menos presión.", "pron": "in sostántsa sérve piú témpo e méno pressióne" }
+      ],
+      "dialogo": {
+        "titulo": "Bilancio di un anno di studio",
+        "lineas": [
+          { "q": "A", "t": "Tutto sommato, è stato un anno impegnativo, ma ho fatto progressi che non immaginavo.", "es": "En suma, fue un año exigente, pero hice progresos que no imaginaba." },
+          { "q": "B", "t": "A conti fatti, hai imparato più di quanto pensassi: ora capisci anche gli articoli più complessi.", "es": "Hechas las cuentas, aprendiste más de lo que pensabas: ahora entiendes incluso los artículos más complejos." },
+          { "q": "A", "t": "Ciononostante, sento che mi manca ancora naturalezza quando parlo con i madrelingua.", "es": "No obstante, siento que aún me falta naturalidad cuando hablo con nativos." },
+          { "q": "B", "t": "A ben vedere, è normale: in sostanza, la naturalezza arriva con la pratica quotidiana.", "es": "Bien visto, es normal: en esencia, la naturalidad llega con la práctica diaria." },
+          { "q": "A", "t": "In definitiva, il C1 non è un traguardo ma un nuovo punto di partenza.", "es": "En definitiva, el C1 no es una meta sino un nuevo punto de partida." }
+        ]
+      },
+      "nota": "¡Enhorabuena por completar el nivel C1! El siguiente paso es la práctica constante: leer, escuchar y conversar en italiano cada semana."
+    }
+  ]
+}

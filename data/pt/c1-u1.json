@@ -1,0 +1,764 @@
+{
+  "id": "pt-c1-u1",
+  "idioma": "pt",
+  "nivel": "C1",
+  "n": 1,
+  "titulo": "Énfasis e inversión",
+  "resumen": "Aprenderás a destacar lo importante cambiando el orden de las palabras (topicalización), repitiendo y usando adverbios de refuerzo, con el registro propio del portugués avanzado.",
+  "puedo": [
+    "Llevar al inicio de la frase lo que quiero destacar: «Esse livro, eu já li».",
+    "Retomar el tema con «quanto a», «em relação a», «no tocante a».",
+    "Reforzar con repetición: «bom, bom mesmo».",
+    "Usar negaciones enfáticas: «jamais», «tampouco», «nem sequer», «em hipótese alguma».",
+    "Destacar ideas con verbos como «frisar», «ressaltar», «salientar»."
+  ],
+  "gramatica": {
+    "titulo": "Topicalización: el elemento destacado va primero",
+    "texto": "El orden normal es sujeto + verbo + resto: Eu já li esse livro. Para dar énfasis, se adelanta lo importante (el «tema») y se deja una pausa, que se escribe con coma: Esse livro, eu já li.\nEn el portugués hablado esto es muy natural y no suena forzado. El resto de la frase queda igual, solo se mueve el elemento destacado.\nSi el elemento adelantado es una persona, a menudo se retoma con un pronombre: A Marta, eu a vi ontem (formal) o A Marta, eu vi ontem (corriente).\nTambién se refuerza repitiendo: Ele é bom, bom mesmo. Y con adverbios negativos al inicio: Jamais vi isso; Nunca vi isso.\nTruco: pregúntate qué quieres que el oyente recuerde, ponlo primero y haz una pausa.",
+    "tabla": [
+      [
+        "Eu já li esse livro.",
+        "Ya leí ese libro. (neutro)",
+        "éu yá li ési lívru"
+      ],
+      [
+        "Esse livro, eu já li.",
+        "Ese libro, ya lo leí. (énfasis)",
+        "ési lívru, éu yá li"
+      ],
+      [
+        "Isso, eu não aceito.",
+        "Eso, no lo acepto.",
+        "ísu, éu náun aséitu"
+      ],
+      [
+        "Difícil, é; impossível, não é.",
+        "Difícil, lo es; imposible, no.",
+        "dyifísil, é; imposívew, náun é"
+      ],
+      [
+        "Bom, ele é bom mesmo.",
+        "Bueno, lo es, y mucho.",
+        "bón, éli é bón mésmu"
+      ],
+      [
+        "Jamais aceitaria isso.",
+        "Jamás aceptaría eso.",
+        "yamáis aseitaría ísu"
+      ]
+    ],
+    "errores": [
+      "No copies la inversión sujeto-verbo del español: se dice «Nunca vi isso», no «Nunca vi eu isso».",
+      "No uses doble negación con «jamais»: di «Jamais vou aceitar», no «Jamais não vou aceitar». Con «nunca» sí es posible: «Eu nunca vou» o «Eu não vou nunca».",
+      "No olvides la coma tras el elemento adelantado: «Quanto ao prazo, não muda». Sin ella la frase se vuelve confusa en escritura."
+    ]
+  },
+  "practica": [
+    "Lee durante 10 minutos un editorial de Folha de S.Paulo o de O Globo y subraya 5 frases que empiecen por el tema destacado.",
+    "Escribe 6 frases neutras y reescríbelas llevando al inicio el elemento destacado (8 minutos).",
+    "Escucha 10 minutos de un podcast de entrevistas en portugués y anota 5 repeticiones enfáticas del tipo «bom, bom mesmo».",
+    "Graba un audio de 60 segundos defendiendo una idea con «jamais», «nem sequer» y «em hipótese alguma» (7 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-c1-u1-l1",
+      "n": 1,
+      "titulo": "Topicalización y marcadores de tema",
+      "objetivo": "Presentar un tema con marcadores como «quanto a» y «aliás».",
+      "intro": "Presenta el tema primero y comenta después. Truco: «quanto a» + sustantivo = «en cuanto a»; «aliás» añade algo que se te acaba de ocurrir.",
+      "palabras": [
+        {
+          "t": "aliás",
+          "es": "además / por cierto",
+          "pron": "alyás",
+          "ej": "Aliás, esse relatório ainda não foi enviado.",
+          "ejes": "Por cierto, ese informe todavía no fue enviado.",
+          "cog": false
+        },
+        {
+          "t": "a propósito",
+          "es": "a propósito",
+          "pron": "a propósitu",
+          "ej": "A propósito, você viu o e-mail da diretoria?",
+          "ejes": "A propósito, ¿viste el correo de la dirección?",
+          "cog": true
+        },
+        {
+          "t": "quanto a",
+          "es": "en cuanto a",
+          "pron": "kuántu a",
+          "ej": "Quanto a prazos, não há margem para atraso.",
+          "ejes": "En cuanto a plazos, no hay margen de retraso.",
+          "cog": false
+        },
+        {
+          "t": "em relação a",
+          "es": "con respecto a",
+          "pron": "ein relasáun a",
+          "ej": "Em relação a esse ponto, a equipe está dividida.",
+          "ejes": "Con respecto a ese punto, el equipo está dividido.",
+          "cog": false
+        },
+        {
+          "t": "no tocante a",
+          "es": "en lo referente a",
+          "pron": "nu tokántyi a",
+          "ej": "No tocante a custos, a proposta é transparente.",
+          "ejes": "En lo referente a costos, la propuesta es transparente.",
+          "cog": false
+        },
+        {
+          "t": "justamente",
+          "es": "justamente",
+          "pron": "yustaméntyi",
+          "ej": "Justamente por isso, resolvi falar.",
+          "ejes": "Justamente por eso decidí hablar.",
+          "cog": true
+        },
+        {
+          "t": "sobretudo",
+          "es": "sobre todo",
+          "pron": "sobretúdu",
+          "ej": "Sobretudo, mantenha a calma.",
+          "ejes": "Sobre todo, mantén la calma.",
+          "cog": false
+        },
+        {
+          "t": "de resto",
+          "es": "por lo demás",
+          "pron": "dyi réstu",
+          "ej": "De resto, está tudo em ordem.",
+          "ejes": "Por lo demás, todo está en orden.",
+          "cog": false
+        },
+        {
+          "t": "a rigor",
+          "es": "en rigor",
+          "pron": "a rigór",
+          "ej": "A rigor, ninguém foi avisado.",
+          "ejes": "En rigor, a nadie se le avisó.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Esse livro, eu já li duas vezes.",
+          "es": "Ese libro, ya lo leí dos veces.",
+          "pron": "ési lívru, éu yá li dúas vézis"
+        },
+        {
+          "t": "Café, eu não tomo à noite.",
+          "es": "Café, no tomo por la noche.",
+          "pron": "kafé, éu náun tómu a nóiti"
+        },
+        {
+          "t": "Quanto ao orçamento, ainda não decidimos nada.",
+          "es": "En cuanto al presupuesto, todavía no decidimos nada.",
+          "pron": "kuántu au orsaméntu, aínda náun desidímus náda"
+        },
+        {
+          "t": "Aliás, ninguém me avisou da mudança.",
+          "es": "Por cierto, nadie me avisó del cambio.",
+          "pron": "alyás, ningéin mi avisóu da mudánsa"
+        },
+        {
+          "t": "Justamente você, que sempre chega cedo, se atrasou.",
+          "es": "Justo tú, que siempre llegas temprano, llegaste tarde.",
+          "pron": "yustaméntyi vosé, ki sémpri shéga sédu, si atrazóu"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Reunião de planejamento",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Quanto ao prazo, a diretoria foi clara: ele não muda.",
+            "es": "En cuanto al plazo, la dirección fue clara: no cambia."
+          },
+          {
+            "q": "B",
+            "t": "O prazo, eu entendo. Agora, os custos, ninguém me explicou direito.",
+            "es": "El plazo, lo entiendo. Ahora, los costos, nadie me los explicó bien."
+          },
+          {
+            "q": "A",
+            "t": "Os custos, a Marta apresenta amanhã. Aliás, ela pediu que você revisasse a planilha.",
+            "es": "Los costos, los presenta Marta mañana. Por cierto, ella pidió que revisaras la planilla."
+          },
+          {
+            "q": "B",
+            "t": "A planilha, eu já revisei ontem à noite. Falta só o resumo.",
+            "es": "La planilla, ya la revisé anoche. Solo falta el resumen."
+          },
+          {
+            "q": "A",
+            "t": "Então o resumo, deixe comigo. De resto, estamos alinhados.",
+            "es": "Entonces el resumen, déjamelo a mí. Por lo demás, estamos alineados."
+          }
+        ]
+      },
+      "nota": "«Aliás» no significa «alias»: añade un comentario espontáneo (por cierto, además). La topicalización es muy común en la lengua hablada; en la escrita se usa «quanto a»."
+    },
+    {
+      "id": "pt-c1-u1-l2",
+      "n": 2,
+      "titulo": "Repetición y refuerzo",
+      "objetivo": "Reforzar una idea con repeticiones y adverbios de certeza.",
+      "intro": "Repetir no es pobreza de estilo, es énfasis. Truco: «bom, bom mesmo»; «de fato» confirma; «jamais» y «de forma alguma» niegan con fuerza.",
+      "palabras": [
+        {
+          "t": "de fato",
+          "es": "de hecho",
+          "pron": "dyi fátu",
+          "ej": "De fato, ninguém previu esse resultado.",
+          "ejes": "De hecho, nadie previó ese resultado.",
+          "cog": false
+        },
+        {
+          "t": "realmente",
+          "es": "realmente",
+          "pron": "realméntyi",
+          "ej": "Realmente, não esperava por isso.",
+          "ejes": "Realmente, no esperaba eso.",
+          "cog": true
+        },
+        {
+          "t": "absolutamente",
+          "es": "absolutamente",
+          "pron": "absolutaméntyi",
+          "ej": "Não tenho absolutamente nada a declarar.",
+          "ejes": "No tengo absolutamente nada que declarar.",
+          "cog": true
+        },
+        {
+          "t": "de forma alguma",
+          "es": "de ninguna manera",
+          "pron": "dyi fórma awgúma",
+          "ej": "Não vou assinar isso de forma alguma.",
+          "ejes": "No voy a firmar eso de ninguna manera.",
+          "cog": false
+        },
+        {
+          "t": "em hipótese alguma",
+          "es": "bajo ninguna circunstancia",
+          "pron": "ein ipótezi awgúma",
+          "ej": "Não repita isso em hipótese alguma.",
+          "ejes": "No repitas eso bajo ninguna circunstancia.",
+          "cog": false
+        },
+        {
+          "t": "jamais",
+          "es": "jamás",
+          "pron": "yamáis",
+          "ej": "Jamais aceitaria tal proposta.",
+          "ejes": "Jamás aceptaría tal propuesta.",
+          "cog": false
+        },
+        {
+          "t": "é isso mesmo",
+          "es": "así es / exacto",
+          "pron": "é ísu mésmu",
+          "ej": "É isso mesmo: o contrato foi cancelado.",
+          "ejes": "Así es: el contrato fue cancelado.",
+          "cog": false
+        },
+        {
+          "t": "nada mais, nada menos que",
+          "es": "nada más ni nada menos que",
+          "pron": "náda máis, náda ménus ki",
+          "ej": "Ele é nada mais, nada menos que o fundador.",
+          "ejes": "Él es nada más ni nada menos que el fundador.",
+          "cog": false
+        },
+        {
+          "t": "sem dúvida alguma",
+          "es": "sin duda alguna",
+          "pron": "séin dúvida awgúma",
+          "ej": "Foi, sem dúvida alguma, a melhor decisão.",
+          "ejes": "Fue, sin duda alguna, la mejor decisión.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Ele é bom, bom mesmo.",
+          "es": "Es bueno, muy bueno de verdad.",
+          "pron": "éli é bón, bón mésmu"
+        },
+        {
+          "t": "Foi uma decisão difícil, muito difícil.",
+          "es": "Fue una decisión difícil, muy difícil.",
+          "pron": "fói úma desisáun dyifísil, múitu dyifísil"
+        },
+        {
+          "t": "Nunca, mas nunca, vou esquecer esse dia.",
+          "es": "Nunca, pero nunca, voy a olvidar ese día.",
+          "pron": "núnka, máis núnka, vóu eskesér ési día"
+        },
+        {
+          "t": "Eu não disse isso, não disse mesmo.",
+          "es": "Yo no dije eso, no lo dije, en serio.",
+          "pron": "éu náun dísi ísu, náun dísi mésmu"
+        },
+        {
+          "t": "Em hipótese alguma abrimos exceção.",
+          "es": "Bajo ninguna circunstancia hacemos excepciones.",
+          "pron": "ein ipótezi awgúma abrímus esesáun"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Uma promessa",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Você vai mesmo recusar a oferta? Pensei que estivesse interessado.",
+            "es": "¿De verdad vas a rechazar la oferta? Pensé que estabas interesado."
+          },
+          {
+            "q": "B",
+            "t": "Estava, estava sim. Mas as condições mudaram, e mudaram muito.",
+            "es": "Lo estaba, sí lo estaba. Pero las condiciones cambiaron, y cambiaron mucho."
+          },
+          {
+            "q": "A",
+            "t": "De fato, o salário caiu. Mas a empresa é sólida, sólida mesmo.",
+            "es": "De hecho, el sueldo bajó. Pero la empresa es sólida, sólida de verdad."
+          },
+          {
+            "q": "B",
+            "t": "Sem dúvida alguma. Ainda assim, não aceito de forma alguma trabalhar aos sábados.",
+            "es": "Sin duda alguna. Aun así, no acepto de ninguna manera trabajar los sábados."
+          },
+          {
+            "q": "A",
+            "t": "Então diga isso a eles, com todas as letras.",
+            "es": "Entonces díselo a ellos, con todas las letras."
+          }
+        ]
+      },
+      "nota": "La repetición enfática es muy natural: «caro, caro mesmo». La expresión «com todas as letras» significa decir algo sin rodeos."
+    },
+    {
+      "id": "pt-c1-u1-l3",
+      "n": 3,
+      "titulo": "Negación enfática",
+      "objetivo": "Poner adverbios negativos al inicio para dar fuerza a la negación.",
+      "intro": "Los adverbios negativos al inicio suenan firmes. Truco: «tampouco» = «tampoco» (formal); «mal» al inicio = «apenas», y no es el «mal» de «malo».",
+      "palabras": [
+        {
+          "t": "tampouco",
+          "es": "tampoco",
+          "pron": "tampóuku",
+          "ej": "Ele não ligou, tampouco mandou mensagem.",
+          "ejes": "No llamó, tampoco mandó mensaje.",
+          "cog": false
+        },
+        {
+          "t": "muito menos",
+          "es": "mucho menos",
+          "pron": "múitu ménus",
+          "ej": "Não quero ajuda, muito menos favores.",
+          "ejes": "No quiero ayuda, mucho menos favores.",
+          "cog": false
+        },
+        {
+          "t": "dificilmente",
+          "es": "difícilmente",
+          "pron": "dyifisilméntyi",
+          "ej": "Dificilmente chegaremos a tempo.",
+          "ejes": "Difícilmente llegaremos a tiempo.",
+          "cog": false
+        },
+        {
+          "t": "raramente",
+          "es": "raramente",
+          "pron": "raraméntyi",
+          "ej": "Raramente ele perde a paciência.",
+          "ejes": "Raramente pierde la paciencia.",
+          "cog": true
+        },
+        {
+          "t": "nem sequer",
+          "es": "ni siquiera",
+          "pron": "néin sekér",
+          "ej": "Nem sequer fui consultado.",
+          "ejes": "Ni siquiera me consultaron.",
+          "cog": false
+        },
+        {
+          "t": "só então",
+          "es": "solo entonces",
+          "pron": "só entáun",
+          "ej": "Só então percebi o erro.",
+          "ejes": "Solo entonces me di cuenta del error.",
+          "cog": false
+        },
+        {
+          "t": "mal",
+          "es": "apenas (en cuanto)",
+          "pron": "mál",
+          "ej": "Mal cheguei, o telefone tocou.",
+          "ejes": "Apenas llegué, sonó el teléfono.",
+          "cog": false
+        },
+        {
+          "t": "de modo algum",
+          "es": "de ningún modo",
+          "pron": "dyi módu awgún",
+          "ej": "Isso não pode, de modo algum, acontecer de novo.",
+          "ejes": "Eso no puede, de ningún modo, volver a ocurrir.",
+          "cog": false
+        },
+        {
+          "t": "em nenhum momento",
+          "es": "en ningún momento",
+          "pron": "ein neñún moméntu",
+          "ej": "Em nenhum momento duvidei de você.",
+          "ejes": "En ningún momento dudé de ti.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Nunca vi um atendimento tão ruim.",
+          "es": "Nunca vi una atención tan mala.",
+          "pron": "núnka ví un atendyiméntu táun rruín"
+        },
+        {
+          "t": "Jamais imaginei que ele pediria demissão.",
+          "es": "Jamás imaginé que él pediría la renuncia.",
+          "pron": "yamáis imayinéi ki éli pedyiría dyimisáun"
+        },
+        {
+          "t": "Só então entendi o tamanho do problema.",
+          "es": "Solo entonces entendí el tamaño del problema.",
+          "pron": "só entáun entendyí u tamáñu du problema"
+        },
+        {
+          "t": "Mal terminou a reunião, já recebeu outra ligação.",
+          "es": "Apenas terminó la reunión, ya recibió otra llamada.",
+          "pron": "mál terminóu a reuniáun, yá resebéu ótra ligasáun"
+        },
+        {
+          "t": "Nem sequer nos avisaram, muito menos pediram desculpas.",
+          "es": "Ni siquiera nos avisaron, mucho menos pidieron disculpas.",
+          "pron": "néin sekér nus avisáram, múitu ménus pedyíram dyiskúlpas"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Uma reclamação",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Boa tarde. Nunca, em dez anos de cliente, passei por uma situação dessas.",
+            "es": "Buenas tardes. Nunca, en diez años como cliente, pasé por una situación así."
+          },
+          {
+            "q": "B",
+            "t": "Lamento muito. Pode me explicar o que aconteceu?",
+            "es": "Lo lamento mucho. ¿Puede explicarme qué pasó?"
+          },
+          {
+            "q": "A",
+            "t": "Mal fiz o pedido, o sistema travou. Nem sequer recebi uma confirmação por e-mail.",
+            "es": "Apenas hice el pedido, el sistema se trabó. Ni siquiera recibí una confirmación por correo."
+          },
+          {
+            "q": "B",
+            "t": "Vou verificar. Dificilmente esse erro acontece, mas já vi casos parecidos.",
+            "es": "Voy a verificar. Difícilmente ocurre este error, pero ya vi casos parecidos."
+          },
+          {
+            "q": "A",
+            "t": "Raramente reclamo, mas tampouco aceito ser ignorado. Resolva isso hoje.",
+            "es": "Raramente reclamo, pero tampoco acepto que me ignoren. Resuélvalo hoy."
+          },
+          {
+            "q": "B",
+            "t": "Em nenhum momento foi nossa intenção ignorá-lo. Resolvo agora mesmo.",
+            "es": "En ningún momento fue nuestra intención ignorarlo. Lo resuelvo ahora mismo."
+          }
+        ]
+      },
+      "nota": "«Mal» al inicio de oración + verbo significa «apenas»: «Mal cheguei, ele saiu». No lo confundas con el adjetivo «mau» (malo)."
+    },
+    {
+      "id": "pt-c1-u1-l4",
+      "n": 4,
+      "titulo": "Intensificadores formales",
+      "objetivo": "Intensificar adjetivos y verbos con adverbios de registro formal.",
+      "intro": "Más allá de «muito», el nivel avanzado usa adverbios precisos. Truco: la mayoría termina en «-mente» y se coloca antes del adjetivo.",
+      "palabras": [
+        {
+          "t": "extremamente",
+          "es": "extremadamente",
+          "pron": "ekstremaméntyi",
+          "ej": "A situação é extremamente delicada.",
+          "ejes": "La situación es extremadamente delicada.",
+          "cog": true
+        },
+        {
+          "t": "sumamente",
+          "es": "sumamente",
+          "pron": "sumaméntyi",
+          "ej": "É um assunto sumamente importante.",
+          "ejes": "Es un asunto sumamente importante.",
+          "cog": true
+        },
+        {
+          "t": "deveras",
+          "es": "de veras / en verdad",
+          "pron": "devéras",
+          "ej": "Fiquei deveras surpreso com o resultado.",
+          "ejes": "Quedé de veras sorprendido con el resultado.",
+          "cog": false
+        },
+        {
+          "t": "notadamente",
+          "es": "notablemente / en especial",
+          "pron": "notadaméntyi",
+          "ej": "Houve melhoras, notadamente na área de vendas.",
+          "ejes": "Hubo mejoras, en especial en el área de ventas.",
+          "cog": false
+        },
+        {
+          "t": "consideravelmente",
+          "es": "considerablemente",
+          "pron": "konsideravelméntyi",
+          "ej": "Os preços subiram consideravelmente.",
+          "ejes": "Los precios subieron considerablemente.",
+          "cog": true
+        },
+        {
+          "t": "imensamente",
+          "es": "inmensamente",
+          "pron": "imensaméntyi",
+          "ej": "Sou imensamente grato pela ajuda.",
+          "ejes": "Estoy inmensamente agradecido por la ayuda.",
+          "cog": true
+        },
+        {
+          "t": "profundamente",
+          "es": "profundamente",
+          "pron": "profundaméntyi",
+          "ej": "Lamento profundamente o ocorrido.",
+          "ejes": "Lamento profundamente lo ocurrido.",
+          "cog": true
+        },
+        {
+          "t": "tremendamente",
+          "es": "tremendamente",
+          "pron": "tremendaméntyi",
+          "ej": "Foi tremendamente injusto.",
+          "ejes": "Fue tremendamente injusto.",
+          "cog": true
+        },
+        {
+          "t": "sobremaneira",
+          "es": "en extremo",
+          "pron": "sobremanéira",
+          "ej": "Isso me preocupa sobremaneira.",
+          "ejes": "Eso me preocupa en extremo.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Fiquei profundamente impressionado com a apresentação.",
+          "es": "Quedé profundamente impresionado con la presentación.",
+          "pron": "fikéi profundaméntyi impresionádu kon a apresentasáun"
+        },
+        {
+          "t": "Isso é, sem dúvida, extremamente relevante.",
+          "es": "Eso es, sin duda, extremadamente relevante.",
+          "pron": "ísu é, séin dúvida, ekstremaméntyi relevántyi"
+        },
+        {
+          "t": "O cenário mudou consideravelmente nos últimos meses.",
+          "es": "El escenario cambió considerablemente en los últimos meses.",
+          "pron": "u senáriu mudóu konsideravelméntyi nus úwtimus mézis"
+        },
+        {
+          "t": "Ficaremos imensamente gratos pela sua compreensão.",
+          "es": "Le quedaremos inmensamente agradecidos por su comprensión.",
+          "pron": "fikarémus imensaméntyi grátus péla súa komprensáun"
+        },
+        {
+          "t": "Foi um erro, e um erro tremendamente caro.",
+          "es": "Fue un error, y un error tremendamente caro.",
+          "pron": "fói un érru, i un érru tremendaméntyi káru"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Depois do evento",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "O evento foi um sucesso, notadamente a palestra de abertura.",
+            "es": "El evento fue un éxito, en especial la charla de apertura."
+          },
+          {
+            "q": "B",
+            "t": "Concordo. Fiquei deveras impressionado com a qualidade dos palestrantes.",
+            "es": "Estoy de acuerdo. Quedé de veras impresionado con la calidad de los ponentes."
+          },
+          {
+            "q": "A",
+            "t": "O público também mudou consideravelmente em relação ao ano passado.",
+            "es": "El público también cambió considerablemente respecto al año pasado."
+          },
+          {
+            "q": "B",
+            "t": "Sim, e a organização foi extremamente cuidadosa. Estou imensamente orgulhoso da equipe.",
+            "es": "Sí, y la organización fue extremadamente cuidadosa. Estoy inmensamente orgulloso del equipo."
+          },
+          {
+            "q": "A",
+            "t": "Então vamos agradecer a todos por escrito, sem esquecer ninguém.",
+            "es": "Entonces agradezcamos a todos por escrito, sin olvidar a nadie."
+          }
+        ]
+      },
+      "nota": "«Sumamente» y «sobremaneira» son muy formales; en la conversación diaria bastan «muito», «bem» o «super». «Deveras» suena algo literario."
+    },
+    {
+      "id": "pt-c1-u1-l5",
+      "n": 5,
+      "titulo": "Repaso: destacar lo importante",
+      "objetivo": "Combinar topicalización, repetición y verbos de énfasis en un discurso breve.",
+      "intro": "Cierra la unidad con los verbos que introducen énfasis. Truco: «cabe ressaltar que» y «vale frisar que» son fórmulas fijas de la escritura formal.",
+      "palabras": [
+        {
+          "t": "destacar",
+          "es": "destacar",
+          "pron": "destakár",
+          "ej": "Quero destacar o trabalho da equipe.",
+          "ejes": "Quiero destacar el trabajo del equipo.",
+          "cog": true
+        },
+        {
+          "t": "frisar",
+          "es": "recalcar",
+          "pron": "frizár",
+          "ej": "Vale frisar que o prazo é inegociável.",
+          "ejes": "Vale recalcar que el plazo es innegociable.",
+          "cog": false
+        },
+        {
+          "t": "enfatizar",
+          "es": "enfatizar",
+          "pron": "enfatizár",
+          "ej": "É preciso enfatizar a segurança.",
+          "ejes": "Hay que enfatizar la seguridad.",
+          "cog": true
+        },
+        {
+          "t": "ressaltar",
+          "es": "resaltar",
+          "pron": "resaltár",
+          "ej": "Cabe ressaltar que houve exceções.",
+          "ejes": "Cabe resaltar que hubo excepciones.",
+          "cog": false
+        },
+        {
+          "t": "salientar",
+          "es": "señalar / subrayar",
+          "pron": "salyentár",
+          "ej": "Gostaria de salientar um detalhe.",
+          "ejes": "Me gustaría señalar un detalle.",
+          "cog": false
+        },
+        {
+          "t": "sublinhar",
+          "es": "subrayar",
+          "pron": "sublinár",
+          "ej": "Convém sublinhar esse ponto.",
+          "ejes": "Conviene subrayar ese punto.",
+          "cog": false
+        },
+        {
+          "t": "reiterar",
+          "es": "reiterar",
+          "pron": "rreiterár",
+          "ej": "Devo reiterar meu pedido de desculpas.",
+          "ejes": "Debo reiterar mi petición de disculpas.",
+          "cog": true
+        },
+        {
+          "t": "pôr em evidência",
+          "es": "poner en evidencia",
+          "pron": "pór ein evidénsia",
+          "ej": "O gráfico vai pôr em evidência as diferenças.",
+          "ejes": "El gráfico va a poner en evidencia las diferencias.",
+          "cog": false
+        },
+        {
+          "t": "insistir em",
+          "es": "insistir en",
+          "pron": "insistír ein",
+          "ej": "Vou insistir em uma reunião presencial.",
+          "ejes": "Voy a insistir en una reunión presencial.",
+          "cog": true
+        }
+      ],
+      "frases": [
+        {
+          "t": "Cabe ressaltar que essa regra vale para todos.",
+          "es": "Cabe resaltar que esa regla vale para todos.",
+          "pron": "kábi resaltár ki ésa rrégra váli pára tódus"
+        },
+        {
+          "t": "Esse ponto, eu faço questão de frisar.",
+          "es": "Ese punto, hago cuestión de recalcarlo.",
+          "pron": "ési póntu, éu fásu kestyáun dyi frizár"
+        },
+        {
+          "t": "Quanto à segurança, não abrimos mão, jamais.",
+          "es": "En cuanto a la seguridad, no cedemos, jamás.",
+          "pron": "kuántu a seguránsa, náun abrímus máun, yamáis"
+        },
+        {
+          "t": "Devo reiterar: em hipótese alguma haverá exceções.",
+          "es": "Debo reiterar: bajo ninguna circunstancia habrá excepciones.",
+          "pron": "dévu rreiterár: ein ipótezi awgúma averá esesóins"
+        },
+        {
+          "t": "Aliás, o resultado foi extremamente positivo.",
+          "es": "Por cierto, el resultado fue extremadamente positivo.",
+          "pron": "alyás, u rezultádu fói ekstremaméntyi pozitívu"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Apresentação ao conselho",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Gostaria de destacar três pontos. O primeiro, as vendas, cresceram consideravelmente.",
+            "es": "Me gustaría destacar tres puntos. El primero, las ventas crecieron considerablemente."
+          },
+          {
+            "q": "B",
+            "t": "Esse crescimento, a que se deve exatamente?",
+            "es": "Ese crecimiento, ¿a qué se debe exactamente?"
+          },
+          {
+            "q": "A",
+            "t": "Sobretudo ao novo canal digital. Cabe ressaltar que ele nem sequer existia há um ano.",
+            "es": "Sobre todo al nuevo canal digital. Cabe resaltar que ni siquiera existía hace un año."
+          },
+          {
+            "q": "B",
+            "t": "Quanto aos custos, não podemos nos esquecer de que subiram também.",
+            "es": "En cuanto a los costos, no podemos olvidar que también subieron."
+          },
+          {
+            "q": "A",
+            "t": "Verdade, e faço questão de frisar: jamais ocultaremos esse dado do conselho.",
+            "es": "Cierto, y hago cuestión de recalcar: jamás ocultaremos ese dato al consejo."
+          }
+        ]
+      },
+      "nota": "«Cabe ressaltar», «vale frisar» y «convém salientar» son fórmulas que se repiten en informes y discursos formales; aprenderlas en bloque ahorra esfuerzo."
+    }
+  ]
+}

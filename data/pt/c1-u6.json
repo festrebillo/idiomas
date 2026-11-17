@@ -1,0 +1,759 @@
+{
+  "id": "pt-c1-u6",
+  "idioma": "pt",
+  "nivel": "C1",
+  "n": 6,
+  "titulo": "Escritura académica",
+  "resumen": "Aprenderás a estructurar un ensayo, a nominalizar (convertir verbos en sustantivos) y a atenuar afirmaciones con prudencia académica (hedging).",
+  "puedo": [
+    "Organizar un ensayo con tesis, argumentos y conclusión.",
+    "Atenuar una afirmación: «parece», «tende a», «possivelmente».",
+    "Nominalizar: «O aumento dos preços preocupa».",
+    "Conectar ideas con conectores académicos: «ademais», «não obstante», «por conseguinte».",
+    "Usar verbos académicos: «constatar», «evidenciar», «inferir»."
+  ],
+  "gramatica": {
+    "titulo": "Nominalizar y atenuar: el tono académico",
+    "texto": "El portugués académico prefiere sustantivos a verbos: en vez de Os preços aumentaram, se escribe O aumento dos preços preocupa. A esto se llama nominalización. Hace el texto más compacto y objetivo.\nTambién evita afirmaciones absolutas. Para ello atenúa con verbos y adverbios: parece que, sugere que, tende a, possivelmente, em certa medida, até certo ponto.\nCon «talvez» se usa subjuntivo: Talvez seja verdade. Con «sugerir que» y «indicar que» se usa indicativo: Os dados sugerem que há relação.\nEvita «eu acho que» y exageraciones («sempre», «nunca», «muito») en un ensayo.\nTruco: lee tu frase y pregúntate: ¿puedo probar esto? Si no, atenúa.",
+    "tabla": [
+      [
+        "O aumento dos preços preocupa.",
+        "El aumento de los precios preocupa.",
+        "u auméntu dus présus preokúpa"
+      ],
+      [
+        "A análise dos dados revela um padrão.",
+        "El análisis de los datos revela un patrón.",
+        "a análizi dus dádus revéla un padráun"
+      ],
+      [
+        "Isso tende a ser verdade.",
+        "Eso tiende a ser verdad.",
+        "ísu téndyi a sér verdádyi"
+      ],
+      [
+        "Há indícios de uma relação.",
+        "Hay indicios de una relación.",
+        "á indísius dyi úma rrelasáun"
+      ],
+      [
+        "Pode-se concluir que...",
+        "Se puede concluir que...",
+        "pódyi-si konkluír ki"
+      ],
+      [
+        "Talvez seja verdade.",
+        "Quizás sea verdad.",
+        "tawvés séya verdádyi"
+      ]
+    ],
+    "errores": [
+      "No uses indicativo con «talvez»: es «talvez seja», no «talvez é».",
+      "Evita «eu acho que» y «muito» en textos académicos; usa «parece que», «sugere que», «consideravelmente».",
+      "No abuses de absolutos («sempre», «jamais», «todos»): suena poco científico. Usa «em geral», «na maioria dos casos»."
+    ]
+  },
+  "practica": [
+    "Lee la introducción de un artículo académico en portugués (SciELO Brasil) y subraya 8 nominalizaciones (12 minutos).",
+    "Escribe un párrafo de 6 frases sobre un tema de tu trabajo con 3 atenuaciones y 3 nominalizaciones (10 minutos).",
+    "Reescribe un párrafo de un blog en estilo académico: sin «eu acho», con sustantivos abstractos (10 minutos).",
+    "Escucha una conferencia universitaria en video y anota 5 conectores académicos (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-c1-u6-l1",
+      "n": 1,
+      "titulo": "Estructura del ensayo",
+      "objetivo": "Nombrar las partes de un ensayo y los verbos de apoyo.",
+      "intro": "Un ensayo tiene tesis, argumentos y conclusión. Truco: «embasar» y «fundamentar» sirven para apoyar una tesis con datos o autores.",
+      "palabras": [
+        {
+          "t": "tese",
+          "es": "tesis",
+          "pron": "tézi",
+          "ej": "A tese do ensaio é clara.",
+          "ejes": "La tesis del ensayo es clara.",
+          "cog": true
+        },
+        {
+          "t": "hipótese",
+          "es": "hipótesis",
+          "pron": "ipótezi",
+          "ej": "A hipótese foi confirmada.",
+          "ejes": "La hipótesis fue confirmada.",
+          "cog": true
+        },
+        {
+          "t": "premissa",
+          "es": "premisa",
+          "pron": "premísa",
+          "ej": "Essa premissa não se sustenta.",
+          "ejes": "Esa premisa no se sostiene.",
+          "cog": true
+        },
+        {
+          "t": "metodologia",
+          "es": "metodología",
+          "pron": "metodolojía",
+          "ej": "A metodologia merece revisão.",
+          "ejes": "La metodología merece revisión.",
+          "cog": true
+        },
+        {
+          "t": "referencial teórico",
+          "es": "marco teórico",
+          "pron": "referensiáw teóriku",
+          "ej": "O referencial teórico é sólido.",
+          "ejes": "El marco teórico es sólido.",
+          "cog": false
+        },
+        {
+          "t": "embasar",
+          "es": "respaldar",
+          "pron": "embazár",
+          "ej": "É preciso embasar a tese com dados.",
+          "ejes": "Hay que respaldar la tesis con datos.",
+          "cog": false
+        },
+        {
+          "t": "fundamentar",
+          "es": "fundamentar",
+          "pron": "fundamentár",
+          "ej": "Vou fundamentar meu argumento em estudos.",
+          "ejes": "Voy a fundamentar mi argumento en estudios.",
+          "cog": true
+        },
+        {
+          "t": "corroborar",
+          "es": "corroborar",
+          "pron": "korroborár",
+          "ej": "Os resultados vão corroborar a hipótese.",
+          "ejes": "Los resultados van a corroborar la hipótesis.",
+          "cog": true
+        },
+        {
+          "t": "refutar",
+          "es": "refutar",
+          "pron": "refutár",
+          "ej": "Ele tentou refutar a tese.",
+          "ejes": "Él intentó refutar la tesis.",
+          "cog": true
+        }
+      ],
+      "frases": [
+        {
+          "t": "A tese central do ensaio é clara e bem fundamentada.",
+          "es": "La tesis central del ensayo es clara y bien fundamentada.",
+          "pron": "a tézi sentráw du ensáiu é kláwa i béin fundamentádu"
+        },
+        {
+          "t": "Os dados vão corroborar a hipótese inicial.",
+          "es": "Los datos van a corroborar la hipótesis inicial.",
+          "pron": "us dádus váun korroborár a ipótezi inisiáw"
+        },
+        {
+          "t": "É preciso embasar cada afirmação com uma fonte.",
+          "es": "Hay que respaldar cada afirmación con una fuente.",
+          "pron": "é presísu embazár káda afirmasáun kon úma fóntyi"
+        },
+        {
+          "t": "Ele tentou refutar a premissa do artigo.",
+          "es": "Él intentó refutar la premisa del artículo.",
+          "pron": "éli tentóu refutár a premísa du artígu"
+        },
+        {
+          "t": "A metodologia precisa de ajustes.",
+          "es": "La metodología necesita ajustes.",
+          "pron": "a metodolojía presíza dyi ayústis"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Orientação de tese",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "A sua tese está clara, mas a premissa inicial precisa de reforço.",
+            "es": "Tu tesis está clara, pero la premisa inicial necesita refuerzo."
+          },
+          {
+            "q": "B",
+            "t": "Concordo. Vou fundamentar essa premissa com mais dados de campo.",
+            "es": "De acuerdo. Voy a fundamentar esa premisa con más datos de campo."
+          },
+          {
+            "q": "A",
+            "t": "E a metodologia? O referencial teórico ainda não a sustenta totalmente.",
+            "es": "¿Y la metodología? El marco teórico todavía no la respalda del todo."
+          },
+          {
+            "q": "B",
+            "t": "Tem razão. Posso embasar melhor a escolha dos instrumentos.",
+            "es": "Tienes razón. Puedo respaldar mejor la elección de los instrumentos."
+          },
+          {
+            "q": "A",
+            "t": "Assim a hipótese tende a ser corroborada, e ninguém consegue refutá-la facilmente.",
+            "es": "Así la hipótesis tenderá a ser corroborada, y nadie podrá refutarla fácilmente."
+          }
+        ]
+      },
+      "nota": "En un ensayo, la tesis va casi siempre al final de la introducción; cada párrafo de desarrollo sostiene una idea con datos, y la conclusión retoma la tesis sin repetirla literalmente."
+    },
+    {
+      "id": "pt-c1-u6-l2",
+      "n": 2,
+      "titulo": "Hedging: atenuar con prudencia",
+      "objetivo": "Atenuar afirmaciones con verbos y adverbios apropiados.",
+      "intro": "El tono académico es prudente. Truco: «parece que», «sugere que», «tende a» y «possivelmente» evitan afirmar demasiado.",
+      "palabras": [
+        {
+          "t": "tender a",
+          "es": "tender a",
+          "pron": "tendér a",
+          "ej": "Esse modelo vai tender a funcionar melhor.",
+          "ejes": "Ese modelo va a tender a funcionar mejor.",
+          "cog": true
+        },
+        {
+          "t": "aparentemente",
+          "es": "aparentemente",
+          "pron": "aparenteméntyi",
+          "ej": "Aparentemente, o problema é estrutural.",
+          "ejes": "Aparentemente, el problema es estructural.",
+          "cog": true
+        },
+        {
+          "t": "possivelmente",
+          "es": "posiblemente",
+          "pron": "posivewméntyi",
+          "ej": "Possivelmente haja outra explicação.",
+          "ejes": "Posiblemente haya otra explicación.",
+          "cog": true
+        },
+        {
+          "t": "em certa medida",
+          "es": "en cierta medida",
+          "pron": "ein sérta medída",
+          "ej": "A crítica é válida em certa medida.",
+          "ejes": "La crítica es válida en cierta medida.",
+          "cog": false
+        },
+        {
+          "t": "até certo ponto",
+          "es": "hasta cierto punto",
+          "pron": "até sértu póntu",
+          "ej": "Concordo até certo ponto.",
+          "ejes": "Estoy de acuerdo hasta cierto punto.",
+          "cog": false
+        },
+        {
+          "t": "em linhas gerais",
+          "es": "a grandes rasgos",
+          "pron": "ein línias yeráis",
+          "ej": "Em linhas gerais, o plano funciona.",
+          "ejes": "A grandes rasgos, el plan funciona.",
+          "cog": false
+        },
+        {
+          "t": "indício",
+          "es": "indicio",
+          "pron": "indísiu",
+          "ej": "Há um indício de relação entre as variáveis.",
+          "ejes": "Hay un indicio de relación entre las variables.",
+          "cog": true
+        },
+        {
+          "t": "sugerir",
+          "es": "sugerir",
+          "pron": "suyerír",
+          "ej": "Os dados parecem sugerir uma tendência.",
+          "ejes": "Los datos parecen sugerir una tendencia.",
+          "cog": true
+        },
+        {
+          "t": "relativamente",
+          "es": "relativamente",
+          "pron": "rrelativaméntyi",
+          "ej": "O custo é relativamente baixo.",
+          "ejes": "El costo es relativamente bajo.",
+          "cog": true
+        }
+      ],
+      "frases": [
+        {
+          "t": "Aparentemente, os dados indicam uma tendência de queda.",
+          "es": "Aparentemente, los datos indican una tendencia a la baja.",
+          "pron": "aparenteméntyi, us dádus indíkam úma tendénsia dyi kéda"
+        },
+        {
+          "t": "Possivelmente haja outros fatores envolvidos.",
+          "es": "Posiblemente haya otros factores involucrados.",
+          "pron": "posivewméntyi áya ótrus fatóris envowvídus"
+        },
+        {
+          "t": "O resultado é válido apenas até certo ponto.",
+          "es": "El resultado es válido solo hasta cierto punto.",
+          "pron": "u rezuwtádu é válidu"
+        },
+        {
+          "t": "Os números sugerem que o consumo tende a cair.",
+          "es": "Los números sugieren que el consumo tiende a caer.",
+          "pron": "us númerus sugérem ki u konsúmu téndyi a kaír"
+        },
+        {
+          "t": "Em linhas gerais, a hipótese parece correta.",
+          "es": "A grandes rasgos, la hipótesis parece correcta.",
+          "pron": "ein línias yeráis, a ipótezi paréci korréta"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Revisão de um artigo",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Você escreveu que o resultado é definitivo. Isso não é um pouco forte?",
+            "es": "Escribiste que el resultado es definitivo. ¿No es un poco fuerte?"
+          },
+          {
+            "q": "B",
+            "t": "Talvez seja. Posso dizer que os dados sugerem uma tendência.",
+            "es": "Quizás. Puedo decir que los datos sugieren una tendencia."
+          },
+          {
+            "q": "A",
+            "t": "Melhor ainda: aparentemente há um indício de relação, mas falta confirmar.",
+            "es": "Mejor aún: aparentemente hay un indicio de relación, pero falta confirmar."
+          },
+          {
+            "q": "B",
+            "t": "Concordo até certo ponto. Em linhas gerais, a conclusão se sustenta.",
+            "es": "De acuerdo hasta cierto punto. A grandes rasgos, la conclusión se sostiene."
+          },
+          {
+            "q": "A",
+            "t": "Então reescreva com tom mais cauteloso: «possivelmente» e «tende a».",
+            "es": "Entonces reescribe con un tono más cauteloso: «posiblemente» y «tiende a»."
+          }
+        ]
+      },
+      "nota": "En español académico se usa mucho «podría», «cabría»; en portugués, «poderia» y los adverbios de arriba cumplen la misma función. Evita «com certeza» en textos científicos."
+    },
+    {
+      "id": "pt-c1-u6-l3",
+      "n": 3,
+      "titulo": "Nominalización",
+      "objetivo": "Convertir verbos y adjetivos en sustantivos abstractos.",
+      "intro": "Nominalizar es una marca del estilo académico. Truco: «aumentar pasa a aumento», «reduzir pasa a redução», «ampliar pasa a ampliação»: el sustantivo se vuelve el sujeto de la frase.",
+      "palabras": [
+        {
+          "t": "aumento",
+          "es": "aumento",
+          "pron": "auméntu",
+          "ej": "O aumento dos preços foi gradual.",
+          "ejes": "El aumento de los precios fue gradual.",
+          "cog": true
+        },
+        {
+          "t": "redução",
+          "es": "reducción",
+          "pron": "rredusáun",
+          "ej": "A redução de custos é prioritária.",
+          "ejes": "La reducción de costos es prioritaria.",
+          "cog": true
+        },
+        {
+          "t": "ampliação",
+          "es": "ampliación",
+          "pron": "ampliasáun",
+          "ej": "A ampliação da rede começa em maio.",
+          "ejes": "La ampliación de la red comienza en mayo.",
+          "cog": true
+        },
+        {
+          "t": "consolidação",
+          "es": "consolidación",
+          "pron": "konsolidasáun",
+          "ej": "A consolidação do mercado foi rápida.",
+          "ejes": "La consolidación del mercado fue rápida.",
+          "cog": true
+        },
+        {
+          "t": "implementação",
+          "es": "implementación",
+          "pron": "implementasáun",
+          "ej": "A implementação do sistema exige tempo.",
+          "ejes": "La implementación del sistema requiere tiempo.",
+          "cog": true
+        },
+        {
+          "t": "declínio",
+          "es": "declive",
+          "pron": "dyiklíniu",
+          "ej": "O declínio das vendas preocupa.",
+          "ejes": "El declive de las ventas preocupa.",
+          "cog": true
+        },
+        {
+          "t": "agravamento",
+          "es": "agravamiento",
+          "pron": "agravaméntu",
+          "ej": "O agravamento da crise surpreendeu.",
+          "ejes": "El agravamiento de la crisis sorprendió.",
+          "cog": true
+        },
+        {
+          "t": "enfraquecimento",
+          "es": "debilitamiento",
+          "pron": "enfrakesiméntu",
+          "ej": "O enfraquecimento da moeda é visível.",
+          "ejes": "El debilitamiento de la moneda es visible.",
+          "cog": false
+        },
+        {
+          "t": "crescimento",
+          "es": "crecimiento",
+          "pron": "kresiméntu",
+          "ej": "O crescimento do PIB foi modesto.",
+          "ejes": "El crecimiento del PIB fue modesto.",
+          "cog": true
+        }
+      ],
+      "frases": [
+        {
+          "t": "O aumento do desemprego preocupa os economistas.",
+          "es": "El aumento del desempleo preocupa a los economistas.",
+          "pron": "u auméntu du dezemprégu"
+        },
+        {
+          "t": "A redução de custos foi o principal objetivo.",
+          "es": "La reducción de costos fue el principal objetivo.",
+          "pron": "a rredusáun dyi kústus fói u prinsipáw obyetívu"
+        },
+        {
+          "t": "A implementação do sistema exigiu muito tempo.",
+          "es": "La implementación del sistema exigió mucho tiempo.",
+          "pron": "a implementasáun du sistéma ezijíu múitu témpu"
+        },
+        {
+          "t": "O declínio das vendas se deve à crise.",
+          "es": "El declive de las ventas se debe a la crisis.",
+          "pron": "u dyiklíniu das véndas si déve a krízi"
+        },
+        {
+          "t": "A consolidação do mercado favoreceu as grandes empresas.",
+          "es": "La consolidación del mercado favoreció a las grandes empresas.",
+          "pron": "a konsolidasáun du merkádu favoreséu as grándis emprésas"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Resumindo um relatório",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Como você resumiria o relatório?",
+            "es": "¿Cómo resumirías el informe?"
+          },
+          {
+            "q": "B",
+            "t": "Resumo em três nominalizações: o aumento do custo, a redução da margem e o declínio das vendas.",
+            "es": "Resumo en tres nominalizaciones: el aumento del costo, la reducción del margen y el declive de las ventas."
+          },
+          {
+            "q": "A",
+            "t": "E a implementação do novo sistema?",
+            "es": "¿Y la implementación del nuevo sistema?"
+          },
+          {
+            "q": "B",
+            "t": "Ela pode contribuir para a consolidação da empresa no mercado.",
+            "es": "Puede contribuir a la consolidación de la empresa en el mercado."
+          },
+          {
+            "q": "A",
+            "t": "Boa síntese. Agora passe isso para um parágrafo acadêmico.",
+            "es": "Buena síntesis. Ahora pásalo a un párrafo académico."
+          }
+        ]
+      },
+      "nota": "Fíjate en la estructura: el sustantivo abstracto sale de un verbo y la frase deja de nombrar al agente («O aumento preocupa», en vez de «Os preços aumentaram, e isso preocupa»)."
+    },
+    {
+      "id": "pt-c1-u6-l4",
+      "n": 4,
+      "titulo": "Conectores académicos",
+      "objetivo": "Conectar ideas con los conectores propios del texto académico.",
+      "intro": "Los conectores dan hilo al texto. Truco: «ademais» suma, «não obstante» contrasta, «por conseguinte» concluye, «haja vista» justifica.",
+      "palabras": [
+        {
+          "t": "por conseguinte",
+          "es": "por consiguiente",
+          "pron": "por konsegíntyi",
+          "ej": "Os dados são sólidos; por conseguinte, a tese vale.",
+          "ejes": "Los datos son sólidos; por consiguiente, la tesis vale.",
+          "cog": false
+        },
+        {
+          "t": "não obstante",
+          "es": "no obstante",
+          "pron": "náun obstántyi",
+          "ej": "Não obstante as críticas, o plano avançou.",
+          "ejes": "No obstante las críticas, el plan avanzó.",
+          "cog": false
+        },
+        {
+          "t": "ademais",
+          "es": "además",
+          "pron": "adémais",
+          "ej": "Ademais, o custo é baixo.",
+          "ejes": "Además, el costo es bajo.",
+          "cog": false
+        },
+        {
+          "t": "com efeito",
+          "es": "en efecto",
+          "pron": "kon efeitu",
+          "ej": "Com efeito, os resultados melhoraram.",
+          "ejes": "En efecto, los resultados mejoraron.",
+          "cog": false
+        },
+        {
+          "t": "ao passo que",
+          "es": "mientras que",
+          "pron": "au pásu ki",
+          "ej": "Ele estuda, ao passo que ela trabalha.",
+          "ejes": "Él estudia, mientras que ella trabaja.",
+          "cog": false
+        },
+        {
+          "t": "à luz de",
+          "es": "a la luz de",
+          "pron": "a lús dyi",
+          "ej": "À luz de novos dados, revisamos a tese.",
+          "ejes": "A la luz de nuevos datos, revisamos la tesis.",
+          "cog": false
+        },
+        {
+          "t": "no âmbito de",
+          "es": "en el ámbito de",
+          "pron": "nu ámbitu dyi",
+          "ej": "No âmbito de nossa pesquisa, isso é irrelevante.",
+          "ejes": "En el ámbito de nuestra investigación, eso es irrelevante.",
+          "cog": false
+        },
+        {
+          "t": "haja vista",
+          "es": "dado que / teniendo en cuenta",
+          "pron": "áya vísta",
+          "ej": "Isso importa, haja vista os resultados.",
+          "ejes": "Eso importa, teniendo en cuenta los resultados.",
+          "cog": false
+        },
+        {
+          "t": "constatar",
+          "es": "constatar",
+          "pron": "konstatár",
+          "ej": "Foi possível constatar uma queda.",
+          "ejes": "Fue posible constatar una caída.",
+          "cog": true
+        }
+      ],
+      "frases": [
+        {
+          "t": "Os dados são sólidos; por conseguinte, a tese se sustenta.",
+          "es": "Los datos son sólidos; por consiguiente, la tesis se sostiene.",
+          "pron": "us dádus sáun sólidus; por konsegíntyi, a tézi si sustéin"
+        },
+        {
+          "t": "Não obstante as limitações, a pesquisa trouxe avanços.",
+          "es": "No obstante las limitaciones, la investigación trajo avances.",
+          "pron": "náun obstántyi as limitasóins, a peskíza tróusi avánsus"
+        },
+        {
+          "t": "À luz dos resultados, revisamos a hipótese.",
+          "es": "A la luz de los resultados, revisamos la hipótesis.",
+          "pron": "a lús dus rezuwtádus, revizámus a ipótezi"
+        },
+        {
+          "t": "Ademais, o custo de implementação é relativamente baixo.",
+          "es": "Además, el costo de implementación es relativamente bajo.",
+          "pron": "adémais, u kústu dyi implementasáun é rrelativaméntyi báyshu"
+        },
+        {
+          "t": "Foi possível constatar uma queda no consumo.",
+          "es": "Fue posible constatar una caída en el consumo.",
+          "pron": "fói posívew konstatár úma kéda nu konsúmu"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Defesa de dissertação",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "À luz dos resultados, a hipótese foi corroborada.",
+            "es": "A la luz de los resultados, la hipótesis fue corroborada."
+          },
+          {
+            "q": "B",
+            "t": "Não obstante, a amostra é pequena. O senhor pode constatar essa limitação?",
+            "es": "No obstante, la muestra es pequeña. ¿Puede constatar esa limitación?"
+          },
+          {
+            "q": "A",
+            "t": "Posso. Ademais, reconheço que o resultado tende a variar entre regiões.",
+            "es": "Puedo. Además, reconozco que el resultado tiende a variar entre regiones."
+          },
+          {
+            "q": "B",
+            "t": "Por conseguinte, a conclusão deve ser cautelosa.",
+            "es": "Por consiguiente, la conclusión debe ser cautelosa."
+          },
+          {
+            "q": "A",
+            "t": "Concordo. A pesquisa avança, ao passo que as dúvidas permanecem.",
+            "es": "De acuerdo. La investigación avanza, mientras que las dudas permanecen."
+          }
+        ]
+      },
+      "nota": "«Haja vista» es una locución formal fija; la forma «haja vista» no cambia aunque el sustantivo sea plural. «Ademais» y «com efeito» son muy frecuentes en la escritura culta brasileña."
+    },
+    {
+      "id": "pt-c1-u6-l5",
+      "n": 5,
+      "titulo": "Repaso: verbos del discurso académico",
+      "objetivo": "Usar los verbos académicos para presentar resultados con cautela.",
+      "intro": "Cierra la unidad con los verbos que presentan resultados y razonamientos. Truco: «evidenciar» muestra; «inferir» deduce; «delimitar» marca el alcance de un estudio.",
+      "palabras": [
+        {
+          "t": "abordar",
+          "es": "abordar / tratar",
+          "pron": "abordár",
+          "ej": "O artigo vai abordar três questões.",
+          "ejes": "El artículo va a abordar tres cuestiones.",
+          "cog": true
+        },
+        {
+          "t": "evidenciar",
+          "es": "evidenciar",
+          "pron": "evidensiár",
+          "ej": "Os resultados vão evidenciar uma falha.",
+          "ejes": "Los resultados van a evidenciar una falla.",
+          "cog": true
+        },
+        {
+          "t": "inferir",
+          "es": "inferir",
+          "pron": "inferír",
+          "ej": "Podemos inferir que houve erro.",
+          "ejes": "Podemos inferir que hubo un error.",
+          "cog": true
+        },
+        {
+          "t": "depreender",
+          "es": "deducir",
+          "pron": "depreendér",
+          "ej": "Do texto, é possível depreender a intenção.",
+          "ejes": "Del texto, es posible deducir la intención.",
+          "cog": false
+        },
+        {
+          "t": "apontar para",
+          "es": "apuntar a",
+          "pron": "apontár pára",
+          "ej": "Os dados vão apontar para uma melhora.",
+          "ejes": "Los datos van a apuntar a una mejora.",
+          "cog": false
+        },
+        {
+          "t": "contrastar",
+          "es": "contrastar",
+          "pron": "kontrastár",
+          "ej": "Vamos contrastar as duas teorias.",
+          "ejes": "Vamos a contrastar las dos teorías.",
+          "cog": true
+        },
+        {
+          "t": "delimitar",
+          "es": "delimitar",
+          "pron": "delimitár",
+          "ej": "É preciso delimitar o objeto de estudo.",
+          "ejes": "Hay que delimitar el objeto de estudio.",
+          "cog": true
+        },
+        {
+          "t": "aprofundar",
+          "es": "profundizar",
+          "pron": "aprofundár",
+          "ej": "Quero aprofundar essa análise.",
+          "ejes": "Quiero profundizar ese análisis.",
+          "cog": false
+        },
+        {
+          "t": "verificar",
+          "es": "verificar",
+          "pron": "verifikár",
+          "ej": "Vamos verificar a validade dos dados.",
+          "ejes": "Vamos a verificar la validez de los datos.",
+          "cog": true
+        }
+      ],
+      "frases": [
+        {
+          "t": "O estudo busca abordar três questões centrais.",
+          "es": "El estudio busca abordar tres cuestiones centrales.",
+          "pron": "u estúdiu búska abordár trés kestyóins sentráis"
+        },
+        {
+          "t": "Os dados podem evidenciar uma falha no método.",
+          "es": "Los datos pueden evidenciar una falla en el método.",
+          "pron": "us dádus pódem evidensiár úma fála nu métodu"
+        },
+        {
+          "t": "Dessa tabela é possível inferir uma tendência.",
+          "es": "De esta tabla es posible inferir una tendencia.",
+          "pron": "désa tabéla é posívew inferír úma tendénsia"
+        },
+        {
+          "t": "É necessário delimitar o objeto de estudo.",
+          "es": "Es necesario delimitar el objeto de estudio.",
+          "pron": "é nesesáriu delimitár u obyétu dyi estúdiu"
+        },
+        {
+          "t": "Vamos contrastar as duas abordagens teóricas.",
+          "es": "Vamos a contrastar los dos enfoques teóricos.",
+          "pron": "vámus kontrastár as dúas abordáyeins teóricas"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Plano de pesquisa",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Pretendo abordar o impacto do teletrabalho na produtividade.",
+            "es": "Pienso abordar el impacto del teletrabajo en la productividad."
+          },
+          {
+            "q": "B",
+            "t": "Primeiro, precisa delimitar o objeto de estudo. Quais empresas, qual período?",
+            "es": "Primero, necesitas delimitar el objeto de estudio. ¿Qué empresas, qué período?"
+          },
+          {
+            "q": "A",
+            "t": "Vou contrastar duas abordagens e verificar a validade dos dados.",
+            "es": "Voy a contrastar dos enfoques y verificar la validez de los datos."
+          },
+          {
+            "q": "B",
+            "t": "Assim os dados podem evidenciar padrões e você poderá inferir tendências.",
+            "es": "Así los datos podrán evidenciar patrones y podrás inferir tendencias."
+          },
+          {
+            "q": "A",
+            "t": "Sim, e depois quero aprofundar a análise com entrevistas.",
+            "es": "Sí, y después quiero profundizar el análisis con entrevistas."
+          }
+        ]
+      },
+      "nota": "Los verbos académicos de este bloque se usan casi siempre en tercera persona o con construcciones impersonales («pode-se inferir»); evita «eu infiro» en el texto escrito."
+    }
+  ]
+}

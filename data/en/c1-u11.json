@@ -1,0 +1,221 @@
+{
+  "id": "en-c1-u11",
+  "idioma": "en",
+  "nivel": "C1",
+  "n": 11,
+  "titulo": "Debates complejos",
+  "resumen": "Aprenderás a argumentar con sofisticación, refutar ideas con respeto, matizar tus afirmaciones y cerrar un debate con una conclusión sólida.",
+  "puedo": [
+    "Plantear una tesis y desarrollarla con premisas claras.",
+    "Refutar un argumento señalando sus fallas sin atacar a la persona.",
+    "Matizar mis afirmaciones con arguably, to some extent y broadly speaking.",
+    "Reconocer un punto del otro y mantener mi postura.",
+    "Resumir y concluir un debate de forma convincente."
+  ],
+  "gramatica": {
+    "titulo": "Matizar: el lenguaje de la cautela (hedging)",
+    "texto": "En un debate de nivel avanzado casi nunca afirmamos cosas de forma absoluta: matizamos. Esto se llama hedging y protege tu argumento de los contraejemplos.\nTres herramientas: (1) verbos y modales suaves: tend to, seem to, appear to, may, could. (2) adverbios: arguably, largely, broadly, to some extent. (3) fórmulas: it could be argued that, it would seem that, there is a case for saying that.\nEjemplo: Remote work is more productive. (absoluto) pasa a: Remote work tends to be more productive, at least for some roles. (matizado)\nTruco: matizar no es dudar. Es mostrar que conoces las excepciones.",
+    "tabla": [
+      ["It could be argued that remote work is better.", "Podría argumentarse que el trabajo remoto es mejor.", "it cud bi árguid dat rimóut uerk is béter"],
+      ["Prices tend to rise in summer.", "Los precios tienden a subir en verano.", "práises tend tu rais in sámer"],
+      ["This is arguably the best option.", "Esta es posiblemente la mejor opción.", "dis is árguiabli da best ópshon"],
+      ["To some extent, you are right.", "Hasta cierto punto, tienes razón.", "tu sam ikstént, iu ar rait"],
+      ["Broadly speaking, the plan works.", "En términos generales, el plan funciona.", "bródli spíkin, da plan uerks"],
+      ["It would seem that the data is incomplete.", "Parecería que los datos están incompletos.", "it uud sim dat da déita is incomplít"]
+    ],
+    "errores": [
+      "No uses siempre absolutos como always, never o everyone: matiza con usually, rarely o most people.",
+      "No traduzcas «posiblemente» siempre como possibly: arguably significa que se puede defender con argumentos, no solo que es posible.",
+      "No pongas hedging en exceso: una sola fórmula por oración basta; dos o tres hacen que no se entienda tu postura."
+    ]
+  },
+  "practica": [
+    "Toma 6 afirmaciones absolutas de un artículo de opinión y reescríbelas matizadas con tend to, arguably y to some extent (12 minutos).",
+    "Mira un debate político en inglés y anota 8 expresiones que usen para refutar o matizar (15 minutos).",
+    "Graba un audio de 2 minutos defendiendo una postura con una premisa, una concesión y una conclusión (12 minutos).",
+    "Escribe un párrafo de 120 palabras que refute un argumento, empezando con It could be argued that... (15 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-c1-u11-l1",
+      "n": 1,
+      "titulo": "Plantear una tesis",
+      "objetivo": "Presentar una tesis y sus premisas con contend, posit, assume y imply.",
+      "intro": "Un argumento sofisticado empieza con una tesis clara y premisas explícitas. Usa verbos como contend o maintain en lugar de say. Truco: la tesis es lo que defiendes; las premisas son lo que das por cierto para llegar a ella.",
+      "palabras": [
+        { "t": "contend", "es": "sostener, afirmar", "pron": "conténd", "ej": "I contend that the policy has failed.", "ejes": "Sostengo que la política ha fracasado.", "cog": true },
+        { "t": "maintain", "es": "mantener, afirmar", "pron": "meintéin", "ej": "Experts maintain that the results are accurate.", "ejes": "Los expertos mantienen que los resultados son exactos.", "cog": true },
+        { "t": "posit", "es": "plantear, postular", "pron": "pósit", "ej": "Some authors posit that language shapes thought.", "ejes": "Algunos autores postulan que el lenguaje moldea el pensamiento.", "cog": true },
+        { "t": "premise", "es": "premisa", "pron": "prémis", "ej": "The premise of the argument is weak.", "ejes": "La premisa del argumento es débil.", "cog": true },
+        { "t": "assume", "es": "dar por sentado, suponer", "pron": "asúm", "ej": "We cannot assume that everyone agrees.", "ejes": "No podemos dar por sentado que todos están de acuerdo.", "cog": true },
+        { "t": "imply", "es": "implicar, dar a entender", "pron": "implái", "ej": "Do you imply that I made a mistake?", "ejes": "¿Das a entender que cometí un error?", "cog": false },
+        { "t": "entail", "es": "conllevar, implicar", "pron": "entéil", "ej": "Such a decision may entail serious risks.", "ejes": "Una decisión así puede conllevar riesgos serios.", "cog": false },
+        { "t": "stand by", "es": "mantener (una postura)", "pron": "stand bai", "ej": "I stand by my original statement.", "ejes": "Mantengo mi declaración original.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I contend that the current system is unsustainable.", "es": "Sostengo que el sistema actual es insostenible.", "pron": "ai conténd dat da cárent sístem is ansostéinabol" },
+        { "t": "The argument rests on a questionable premise.", "es": "El argumento se apoya en una premisa cuestionable.", "pron": "di árguiument rests on a cuésquionabol prémis" },
+        { "t": "That position entails a considerable cost.", "es": "Esa postura conlleva un costo considerable.", "pron": "dat posíshon entéils a consíderabol cost" },
+        { "t": "You seem to assume that people act rationally.", "es": "Pareces suponer que la gente actúa racionalmente.", "pron": "iu sim tu asúm dat pípol act ráshonali" },
+        { "t": "I stand by what I said in the last meeting.", "es": "Mantengo lo que dije en la última reunión.", "pron": "ai stand bai juat ai sed in da last míitin" }
+      ],
+      "dialogo": {
+        "titulo": "Una discusión en la universidad",
+        "lineas": [
+          { "q": "A", "t": "I contend that universities should be free, since education benefits society as a whole.", "es": "Sostengo que las universidades deberían ser gratuitas, ya que la educación beneficia a la sociedad entera." },
+          { "q": "B", "t": "Your premise is interesting, but you assume that the state can afford it.", "es": "Tu premisa es interesante, pero das por sentado que el Estado puede costearlo." },
+          { "q": "A", "t": "Fair point. The proposal does entail higher taxes, though.", "es": "Buen punto. Aunque la propuesta sí conlleva impuestos más altos." },
+          { "q": "B", "t": "Are you implying that everyone should pay more, even those without children?", "es": "¿Das a entender que todos deberían pagar más, incluso quienes no tienen hijos?" },
+          { "q": "A", "t": "I maintain that it is a collective investment, so yes.", "es": "Mantengo que es una inversión colectiva, así que sí." },
+          { "q": "B", "t": "Well, I'm not convinced, but I appreciate that you stand by your position.", "es": "Bueno, no estoy convencido, pero aprecio que mantengas tu postura." }
+        ]
+      },
+      "nota": "Say es neutral; contend y maintain suenan más académicos. Argue puede ser tanto discutir como defender: He argued that taxes were too high (defendió que)."
+    },
+    {
+      "id": "en-c1-u11-l2",
+      "n": 2,
+      "titulo": "Refutar con elegancia",
+      "objetivo": "Refutar un argumento con rebut, undermine y flawed sin atacar a la persona.",
+      "intro": "Refutar es mostrar que un argumento falla, no que la persona es tonta. Ataca la idea, no a quien la dice. Truco: usa fórmulas como That overlooks the fact that... o I would question whether...",
+      "palabras": [
+        { "t": "rebut", "es": "refutar", "pron": "ribát", "ej": "She tried to rebut every claim in the report.", "ejes": "Intentó refutar cada afirmación del informe.", "cog": false },
+        { "t": "refute", "es": "rebatir, desmentir", "pron": "rifiút", "ej": "The new data may refute the earlier theory.", "ejes": "Los nuevos datos podrían rebatir la teoría anterior.", "cog": false },
+        { "t": "undermine", "es": "socavar", "pron": "andermáin", "ej": "Those errors undermine the whole argument.", "ejes": "Esos errores socavan todo el argumento.", "cog": false },
+        { "t": "flawed", "es": "defectuoso, con fallas", "pron": "flod", "ej": "The reasoning is deeply flawed.", "ejes": "El razonamiento es profundamente defectuoso.", "cog": false },
+        { "t": "fallacy", "es": "falacia", "pron": "fálasi", "ej": "That is a common logical fallacy.", "ejes": "Esa es una falacia lógica común.", "cog": true },
+        { "t": "overlook", "es": "pasar por alto", "pron": "ouverlúc", "ej": "You overlook one important detail.", "ejes": "Pasas por alto un detalle importante.", "cog": false },
+        { "t": "dismiss", "es": "descartar, desestimar", "pron": "dismís", "ej": "You can't simply dismiss the evidence.", "ejes": "No puedes simplemente descartar la evidencia.", "cog": false },
+        { "t": "question whether", "es": "dudar de si, cuestionar si", "pron": "cuéschon juéder", "ej": "I would question whether the survey was representative.", "ejes": "Cuestionaría si la encuesta era representativa.", "cog": false }
+      ],
+      "frases": [
+        { "t": "With respect, that argument is deeply flawed.", "es": "Con todo respeto, ese argumento es profundamente defectuoso.", "pron": "uid rispéct, dat árguiument is dípli flod" },
+        { "t": "That overlooks the fact that costs have doubled.", "es": "Eso pasa por alto el hecho de que los costos se han duplicado.", "pron": "dat ouverlúcs da fact dat costs jav dábeld" },
+        { "t": "I would question whether the sample was large enough.", "es": "Cuestionaría si la muestra era lo bastante grande.", "pron": "ai uud cuéschon juéder da sámpel uas larch inóf" },
+        { "t": "These figures undermine your central claim.", "es": "Estas cifras socavan tu afirmación central.", "pron": "dis fíguiurs andermáin ior séntral cleim" },
+        { "t": "That is a classic fallacy, not a valid reason.", "es": "Esa es una falacia clásica, no una razón válida.", "pron": "dat is a clásic fálasi, not a válid rízon" }
+      ],
+      "dialogo": {
+        "titulo": "Una discusión sobre un estudio",
+        "lineas": [
+          { "q": "A", "t": "This study proves that the new method doubles productivity.", "es": "Este estudio demuestra que el nuevo método duplica la productividad." },
+          { "q": "B", "t": "With respect, I would question whether it proves anything. The sample had only twelve people.", "es": "Con todo respeto, cuestionaría si demuestra algo. La muestra tenía solo doce personas." },
+          { "q": "A", "t": "You can't simply dismiss it. The results were consistent.", "es": "No puedes simplemente descartarlo. Los resultados fueron consistentes." },
+          { "q": "B", "t": "Consistent, perhaps, but you overlook the absence of a control group, which undermines the conclusion.", "es": "Consistentes, quizás, pero pasas por alto la ausencia de un grupo de control, lo cual socava la conclusión." },
+          { "q": "A", "t": "Granted. Still, it's a fallacy to reject a study just because it's small.", "es": "De acuerdo. Aun así, es una falacia rechazar un estudio solo porque es pequeño." },
+          { "q": "B", "t": "Fair enough. Let's say the research is promising but the methodology is flawed.", "es": "Es justo. Digamos que la investigación es prometedora pero la metodología es defectuosa." }
+        ]
+      },
+      "nota": "Una falacia común es el ad hominem: atacar a la persona en lugar de su argumento. En un debate profesional te hace perder credibilidad."
+    },
+    {
+      "id": "en-c1-u11-l3",
+      "n": 3,
+      "titulo": "Matizar con precisión",
+      "objetivo": "Matizar afirmaciones con arguably, to some extent, broadly speaking y it could be argued.",
+      "intro": "El matiz hace tu argumento más creíble porque admite excepciones. Truco: usa una fórmula por oración, y colócala cerca del verbo: This is arguably the main reason.",
+      "palabras": [
+        { "t": "arguably", "es": "posiblemente, se podría argumentar que", "pron": "árguiabli", "ej": "This is arguably the best film of the decade.", "ejes": "Esta es posiblemente la mejor película de la década.", "cog": false },
+        { "t": "to some extent", "es": "hasta cierto punto", "pron": "tu sam ikstént", "ej": "To some extent, the criticism is justified.", "ejes": "Hasta cierto punto, la crítica es justificada.", "cog": false },
+        { "t": "broadly speaking", "es": "en términos generales", "pron": "bródli spíkin", "ej": "Broadly speaking, the economy is recovering.", "ejes": "En términos generales, la economía se está recuperando.", "cog": false },
+        { "t": "by and large", "es": "en su mayoría, por lo general", "pron": "bai and larch", "ej": "By and large, customers are satisfied.", "ejes": "En su mayoría, los clientes están satisfechos.", "cog": false },
+        { "t": "oversimplify", "es": "simplificar en exceso", "pron": "ouversímplifai", "ej": "It would be wrong to oversimplify the issue.", "ejes": "Sería un error simplificar el tema en exceso.", "cog": false },
+        { "t": "nuanced", "es": "matizado", "pron": "niuánst", "ej": "She gave a nuanced answer to a difficult question.", "ejes": "Dio una respuesta matizada a una pregunta difícil.", "cog": true },
+        { "t": "tend to", "es": "tender a, soler", "pron": "tend tu", "ej": "Young people tend to prefer flexible hours.", "ejes": "Los jóvenes tienden a preferir horarios flexibles.", "cog": false },
+        { "t": "qualify", "es": "matizar, calificar (una afirmación)", "pron": "cuólifai", "ej": "I would like to qualify that statement slightly.", "ejes": "Me gustaría matizar un poco esa afirmación.", "cog": false }
+      ],
+      "frases": [
+        { "t": "It could be argued that the policy worked.", "es": "Podría argumentarse que la política funcionó.", "pron": "it cud bi árguid dat da pólisi uerkt" },
+        { "t": "To some extent, I agree with the critics.", "es": "Hasta cierto punto, estoy de acuerdo con los críticos.", "pron": "tu sam ikstént, ai agrí uid da críticks" },
+        { "t": "Broadly speaking, the results were positive.", "es": "En términos generales, los resultados fueron positivos.", "pron": "bródli spíkin, da risálts uer pósitiv" },
+        { "t": "I would like to qualify what I said earlier.", "es": "Me gustaría matizar lo que dije antes.", "pron": "ai uud laik tu cuólifai juat ai sed érlier" },
+        { "t": "That is a nuanced issue; we shouldn't oversimplify it.", "es": "Es un tema matizado; no deberíamos simplificarlo en exceso.", "pron": "dat is a niuánst íshu; ui shúdent ouversímplifai it" }
+      ],
+      "dialogo": {
+        "titulo": "Una entrevista de radio",
+        "lineas": [
+          { "q": "A", "t": "Would you say that globalization has been good for developing countries?", "es": "¿Diría que la globalización ha sido buena para los países en desarrollo?" },
+          { "q": "B", "t": "It's a nuanced question. Broadly speaking, yes, but I would qualify that.", "es": "Es una pregunta matizada. En términos generales, sí, pero yo lo matizaría." },
+          { "q": "A", "t": "Could you elaborate?", "es": "¿Podría explicar?" },
+          { "q": "B", "t": "By and large, exports have grown. Arguably, however, the benefits have not reached everyone.", "es": "En su mayoría, las exportaciones han crecido. Sin embargo, podría decirse que los beneficios no han llegado a todos." },
+          { "q": "A", "t": "So wages have not followed growth?", "es": "¿Entonces los salarios no han seguido el crecimiento?" },
+          { "q": "B", "t": "To some extent, no. Wages tend to lag behind. But it would be wrong to oversimplify.", "es": "Hasta cierto punto, no. Los salarios tienden a quedar rezagados. Pero sería un error simplificar en exceso." }
+        ]
+      },
+      "nota": "Arguably se usa mucho con superlativos: arguably the most important, arguably the best. Equivale a un «se podría decir que es el más importante»."
+    },
+    {
+      "id": "en-c1-u11-l4",
+      "n": 4,
+      "titulo": "Conceder y concluir",
+      "objetivo": "Reconocer un punto del otro y cerrar el debate con una conclusión clara.",
+      "intro": "Un buen debatiente reconoce lo válido del otro y luego concluye con firmeza. Truco: la fórmula es concesión + giro + conclusión: I concede that..., but on balance...",
+      "palabras": [
+        { "t": "concede", "es": "admitir, reconocer", "pron": "consíd", "ej": "I concede that the figures are higher than expected.", "ejes": "Admito que las cifras son más altas de lo esperado.", "cog": true },
+        { "t": "acknowledge", "es": "reconocer", "pron": "acnólich", "ej": "We must acknowledge the limits of our data.", "ejes": "Debemos reconocer los límites de nuestros datos.", "cog": false },
+        { "t": "on balance", "es": "en conjunto, sopesando todo", "pron": "on bálans", "ej": "On balance, I think the benefits outweigh the costs.", "ejes": "En conjunto, creo que los beneficios superan los costos.", "cog": false },
+        { "t": "outweigh", "es": "superar en importancia", "pron": "autuéi", "ej": "The advantages outweigh the drawbacks.", "ejes": "Las ventajas superan las desventajas.", "cog": false },
+        { "t": "it follows that", "es": "se deduce que", "pron": "it fólous dat", "ej": "It follows that we need a new approach.", "ejes": "Se deduce que necesitamos un nuevo enfoque.", "cog": false },
+        { "t": "hence", "es": "por eso, de ahí", "pron": "jens", "ej": "Costs rose; hence the decision to cancel.", "ejes": "Los costos subieron; de ahí la decisión de cancelar.", "cog": false },
+        { "t": "sum up", "es": "resumir", "pron": "sam ap", "ej": "Let me sum up the main points.", "ejes": "Permítanme resumir los puntos principales.", "cog": false },
+        { "t": "in the final analysis", "es": "en el fondo, en definitiva", "pron": "in da fáinal análisis", "ej": "In the final analysis, trust is what matters.", "ejes": "En definitiva, lo que importa es la confianza.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I concede that your argument has merit.", "es": "Admito que tu argumento tiene mérito.", "pron": "ai consíd dat ior árguiument jas mérit" },
+        { "t": "We must acknowledge the limits of the study.", "es": "Debemos reconocer los límites del estudio.", "pron": "ui mast acnólich da límits ov da stádi" },
+        { "t": "On balance, the benefits outweigh the risks.", "es": "En conjunto, los beneficios superan los riesgos.", "pron": "on bálans, da bénefits autuéi da risks" },
+        { "t": "It follows that we should invest more in training.", "es": "Se deduce que deberíamos invertir más en capacitación.", "pron": "it fólous dat ui shud invést mor in tréinin" },
+        { "t": "To sum up, the evidence points in one direction.", "es": "En resumen, la evidencia apunta en una dirección.", "pron": "tu sam ap, di évidens points in uan dairéckshon" }
+      ],
+      "dialogo": {
+        "titulo": "El cierre de un debate",
+        "lineas": [
+          { "q": "A", "t": "I concede that remote work has drawbacks. I acknowledge the isolation problem.", "es": "Admito que el trabajo remoto tiene desventajas. Reconozco el problema del aislamiento." },
+          { "q": "B", "t": "Thank you. Then you'll agree that a hybrid model is more realistic.", "es": "Gracias. Entonces estarás de acuerdo en que un modelo híbrido es más realista." },
+          { "q": "A", "t": "On balance, yes. The benefits still outweigh the costs, but only with some office days.", "es": "En conjunto, sí. Los beneficios aún superan los costos, pero solo con algunos días de oficina." },
+          { "q": "B", "t": "It follows that the company should offer both options, doesn't it?", "es": "Se deduce que la empresa debería ofrecer ambas opciones, ¿no?" },
+          { "q": "A", "t": "Hence my proposal. To sum up, flexibility is the key.", "es": "De ahí mi propuesta. En resumen, la flexibilidad es la clave." },
+          { "q": "B", "t": "In the final analysis, we agree more than we thought.", "es": "En definitiva, estamos más de acuerdo de lo que pensábamos." }
+        ]
+      },
+      "nota": "Conceder un punto no significa perder el debate: demuestra honestidad intelectual y suele hacer que el otro escuche tu conclusión con más atención."
+    },
+    {
+      "id": "en-c1-u11-l5",
+      "n": 5,
+      "titulo": "Repaso: un debate completo",
+      "objetivo": "Usar tesis, refutación, matiz y conclusión en un debate sostenido.",
+      "intro": "Ahora combina todo. Estructura sugerida: tesis, premisa, refutación, matiz, concesión y cierre. Truco: practica en voz alta con un cronómetro de tres minutos.",
+      "palabras": [
+        { "t": "rebuttal", "es": "refutación", "pron": "ribátal", "ej": "Her rebuttal was calm and well prepared.", "ejes": "Su refutación fue tranquila y bien preparada.", "cog": false },
+        { "t": "cogent", "es": "convincente, sólido", "pron": "cóuyent", "ej": "He presented a cogent argument for change.", "ejes": "Presentó un argumento sólido a favor del cambio.", "cog": false },
+        { "t": "spurious", "es": "falso, sin fundamento", "pron": "spiúrius", "ej": "That is a spurious claim without any proof.", "ejes": "Esa es una afirmación sin fundamento y sin pruebas.", "cog": false },
+        { "t": "concession", "es": "concesión", "pron": "consésion", "ej": "The mayor made a concession to the protesters.", "ejes": "El alcalde hizo una concesión a los manifestantes.", "cog": true },
+        { "t": "devil's advocate", "es": "abogado del diablo", "pron": "dévols ádvoket", "ej": "Let me play devil's advocate for a moment.", "ejes": "Déjenme hacer de abogado del diablo un momento.", "cog": false },
+        { "t": "tenable", "es": "sostenible (argumento)", "pron": "ténabol", "ej": "That position is no longer tenable.", "ejes": "Esa postura ya no es sostenible.", "cog": false },
+        { "t": "moot point", "es": "tema discutible, irrelevante", "pron": "mut point", "ej": "Whether we agree is a moot point now.", "ejes": "Si estamos de acuerdo es un tema irrelevante ahora.", "cog": false },
+        { "t": "counter", "es": "contrarrestar, replicar", "pron": "cáunter", "ej": "How would you counter that objection?", "ejes": "¿Cómo contrarrestarías esa objeción?", "cog": false }
+      ],
+      "frases": [
+        { "t": "That is a cogent argument, but I have a rebuttal.", "es": "Es un argumento sólido, pero tengo una refutación.", "pron": "dat is a cóuyent árguiument, bat ai jav a ribátal" },
+        { "t": "Let me play devil's advocate for a moment.", "es": "Déjame hacer de abogado del diablo un momento.", "pron": "let mi plei dévols ádvoket for a móument" },
+        { "t": "That claim is spurious, and arguably misleading.", "es": "Esa afirmación es falsa y posiblemente engañosa.", "pron": "dat cleim is spiúrius, and árguiabli mislídin" },
+        { "t": "I concede the point, but on balance I disagree.", "es": "Admito el punto, pero en conjunto no estoy de acuerdo.", "pron": "ai consíd da point, bat on bálans ai disagrí" },
+        { "t": "Broadly speaking, your position is no longer tenable.", "es": "En términos generales, tu postura ya no es sostenible.", "pron": "bródli spíkin, ior posíshon is nou lónguer ténabol" },
+        { "t": "To sum up, the evidence undermines the original claim.", "es": "En resumen, la evidencia socava la afirmación original.", "pron": "tu sam ap, di évidens andermáins di oríyinal cleim" }
+      ],
+      "dialogo": {
+        "titulo": "Un debate de práctica",
+        "lineas": [
+          { "q": "A", "t": "I contend that social media does more harm than good. Let me play devil's advocate.", "es": "Sostengo que las redes sociales hacen más daño que bien. Permítanme ser abogado del diablo." },
+          { "q": "B", "t": "That's a cogent premise, but arguably it overlooks the benefits for small businesses.", "es": "Es una premisa sólida, pero posiblemente pasa por alto los beneficios para pequeños negocios." },
+          { "q": "A", "t": "Fair point. I'll make a concession: they help some entrepreneurs.", "es": "Buen punto. Haré una concesión: ayudan a algunos emprendedores." },
+          { "q": "B", "t": "Thank you. To some extent, the harm is about how people use them, which makes your original claim less tenable.", "es": "Gracias. Hasta cierto punto, el daño depende de cómo se usan, lo que hace tu afirmación original menos sostenible." },
+          { "q": "A", "t": "I'd counter that most users do not regulate their habits. On balance, the risks remain.", "es": "Replicaría que la mayoría no regula sus hábitos. En conjunto, los riesgos permanecen." },
+          { "q": "B", "t": "That's a fair rebuttal. We may simply disagree, and that's fine.", "es": "Es una refutación justa. Quizás simplemente discrepemos, y eso está bien." }
+        ]
+      },
+      "nota": "En debates formales, el rol de abogado del diablo sirve para probar una idea desde el ángulo contrario, no necesariamente porque pienses así."
+    }
+  ]
+}

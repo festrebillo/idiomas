@@ -1,0 +1,215 @@
+{
+  "id": "en-c1-u3",
+  "idioma": "en",
+  "nivel": "C1",
+  "n": 3,
+  "titulo": "Matices y connotación",
+  "resumen": "Aprenderás a elegir entre sinónimos según su carga positiva, neutra o negativa y su registro formal o informal, para sonar preciso y natural.",
+  "puedo": [
+    "Distinguir connotación positiva y negativa entre sinónimos (thrifty, economical, stingy).",
+    "Elegir verbos de mirar, hablar y caminar con el matiz exacto.",
+    "Cambiar entre registro formal e informal (purchase / buy, commence / start).",
+    "Reconocer eufemismos y lenguaje cargado en noticias y discursos.",
+    "Corregir un texto cuyo tono no encaja con la situación."
+  ],
+  "gramatica": {
+    "titulo": "Denotación, connotación y registro",
+    "texto": "Dos palabras pueden significar lo mismo (denotación) y aun así transmitir una actitud distinta (connotación). Thrifty, economical y stingy se refieren a gastar poco, pero thrifty es positivo, economical neutro y stingy negativo.\nAdemás está el registro: la misma idea puede ser formal (purchase, commence) o informal (buy, start). Elegir mal puede sonar frío o, al revés, demasiado casual.\nTruco: ante un sinónimo nuevo, pregúntate tres cosas: ¿es elogio, neutro o crítica?, ¿es formal o coloquial? y ¿qué palabras suele acompañar? (collocations). El diccionario monolingüe (Oxford, Longman) marca estas etiquetas: approving, disapproving, formal, informal.",
+    "tabla": [
+      ["She is thrifty.", "Ella es ahorradora (positivo).", "shi is zrífti"],
+      ["She is economical.", "Ella es económica, gasta con cuidado (neutro).", "shi is icanómical"],
+      ["She is stingy.", "Ella es tacaña (negativo).", "shi is stínyi"],
+      ["He is determined.", "Él es decidido (positivo).", "ji is ditérmind"],
+      ["He is stubborn.", "Él es terco (negativo).", "ji is stáborn"],
+      ["We will commence at nine.", "Comenzaremos a las nueve (formal).", "ui uil comméns at nain"]
+    ],
+    "errores": [
+      "No traduzcas siempre «terco» como stubborn: si es un elogio, usa determined o tenacious.",
+      "No uses stingy o cheap para elogiar: cheap describe algo de mala calidad o a una persona tacaña; para precio bajo usa inexpensive o affordable.",
+      "No uses palabras muy formales en la conversación diaria: I commenced work suena extraño; di I started work."
+    ]
+  },
+  "practica": [
+    "Elige 5 pares de sinónimos de esta unidad y escribe una oración con cada uno, mostrando su matiz (15 minutos).",
+    "Lee un artículo de BBC News o The Guardian sobre un tema político y subraya 8 palabras cargadas; busca su equivalente neutro (15 minutos).",
+    "Escribe dos versiones de un mismo correo, una formal y otra informal (12 minutos).",
+    "Mira un video de entrevista y anota 5 verbos de hablar o mirar con matiz (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-c1-u3-l1",
+      "n": 1,
+      "titulo": "Elogio, neutro o crítica",
+      "objetivo": "Elegir entre sinónimos de persona según su carga positiva o negativa.",
+      "intro": "En inglés, muchas descripciones de personas tienen una versión amable y otra hostil. Truco: asocia cada palabra con una emoción: thrifty te da orgullo, stingy te da fastidio.",
+      "palabras": [
+        { "t": "thrifty", "es": "ahorrador (positivo)", "pron": "zrífti", "ej": "My grandmother was thrifty and never wasted food.", "ejes": "Mi abuela era ahorradora y nunca desperdiciaba comida.", "cog": false },
+        { "t": "stingy", "es": "tacaño (negativo)", "pron": "stínyi", "ej": "He is too stingy to tip the waiter.", "ejes": "Es demasiado tacaño para dejarle propina al mozo.", "cog": false },
+        { "t": "assertive", "es": "firme, seguro de sí (positivo)", "pron": "asértiv", "ej": "Being assertive helps you set boundaries politely.", "ejes": "Ser firme te ayuda a poner límites con educación.", "cog": false },
+        { "t": "pushy", "es": "prepotente, insistente (negativo)", "pron": "púshi", "ej": "The salesman was so pushy that we left.", "ejes": "El vendedor fue tan insistente que nos fuimos.", "cog": false },
+        { "t": "inquisitive", "es": "curioso (positivo)", "pron": "inquísitiv", "ej": "She has an inquisitive mind and loves learning.", "ejes": "Tiene una mente curiosa y adora aprender.", "cog": false },
+        { "t": "nosy", "es": "entrometido (negativo)", "pron": "nóusi", "ej": "Our nosy neighbor keeps asking about our salaries.", "ejes": "Nuestra vecina entrometida siempre pregunta por nuestros sueldos.", "cog": false },
+        { "t": "laid-back", "es": "relajado, tranquilo", "pron": "leid-bac", "ej": "Our new manager is surprisingly laid-back.", "ejes": "Nuestro nuevo gerente es sorprendentemente relajado.", "cog": false },
+        { "t": "lazy", "es": "perezoso (negativo)", "pron": "léisi", "ej": "I wouldn't call him lazy, just easily distracted.", "ejes": "No lo llamaría perezoso, solo se distrae fácilmente.", "cog": false }
+      ],
+      "frases": [
+        { "t": "My grandmother was thrifty, not stingy.", "es": "Mi abuela era ahorradora, no tacaña.", "pron": "mai grándmader uas zrífti, not stínyi" },
+        { "t": "She is assertive, but some people find her pushy.", "es": "Ella es firme, pero algunos la encuentran prepotente.", "pron": "shi is asértiv, bat sam pípol faind jer púshi" },
+        { "t": "He is inquisitive by nature, not nosy.", "es": "Es curioso por naturaleza, no entrometido.", "pron": "ji is inquísitiv bai néichur, not nóusi" },
+        { "t": "Our manager is laid-back, but never lazy.", "es": "Nuestro gerente es relajado, pero nunca perezoso.", "pron": "áuer mánayer is leid-bac, bat néver léisi" },
+        { "t": "The word you choose can turn praise into criticism.", "es": "La palabra que elijas puede convertir un elogio en una crítica.", "pron": "da uerd iu chuz can tern preiz íntu críticisem" }
+      ],
+      "dialogo": {
+        "titulo": "Describiendo a un colega",
+        "lineas": [
+          { "q": "A", "t": "What do you think of the new director? Some say she's pushy.", "es": "¿Qué piensas de la nueva directora? Algunos dicen que es prepotente." },
+          { "q": "B", "t": "I'd say assertive. She's direct, but she listens carefully.", "es": "Yo diría firme. Es directa, pero escucha con atención." },
+          { "q": "A", "t": "And her assistant? He keeps asking about everyone's plans. A bit nosy, no?", "es": "¿Y su asistente? Siempre pregunta por los planes de todos. Algo entrometido, ¿no?" },
+          { "q": "B", "t": "I find him inquisitive. He's thrifty with the budget, too, which the board appreciates.", "es": "Yo lo encuentro curioso. Además es ahorrador con el presupuesto, lo cual la junta valora." },
+          { "q": "A", "t": "Interesting. The same behavior, but a completely different tone depending on the word.", "es": "Interesante. El mismo comportamiento, pero un tono totalmente distinto según la palabra." }
+        ]
+      },
+      "nota": "Muchos diccionarios marcan estas palabras con approving (elogio) o disapproving (crítica). Mira esa etiqueta antes de usar una palabra nueva."
+    },
+    {
+      "id": "en-c1-u3-l2",
+      "n": 2,
+      "titulo": "Verbos de mirar y hablar",
+      "objetivo": "Elegir verbos de mirar y hablar según actitud e intensidad.",
+      "intro": "En inglés es más natural usar un verbo preciso que un verbo general con un adverbio. Truco: en vez de look angrily, di glare; en vez de speak quietly, di murmur.",
+      "palabras": [
+        { "t": "glance", "es": "echar un vistazo", "pron": "glans", "ej": "She tried not to glance at her watch.", "ejes": "Intentó no echar un vistazo a su reloj.", "cog": false },
+        { "t": "glare", "es": "fulminar con la mirada", "pron": "gler", "ej": "Please do not glare at me like that.", "ejes": "Por favor no me fulmines con la mirada así.", "cog": false },
+        { "t": "gaze", "es": "mirar fijamente, con admiración", "pron": "gueis", "ej": "We love to gaze at the sunset in silence.", "ejes": "Nos encanta contemplar el atardecer en silencio.", "cog": false },
+        { "t": "mumble", "es": "murmurar, hablar entre dientes", "pron": "mámbol", "ej": "Please do not mumble; speak clearly.", "ejes": "Por favor no murmures; habla con claridad.", "cog": false },
+        { "t": "blurt out", "es": "soltar sin pensar", "pron": "blert aut", "ej": "Try not to blurt out the secret.", "ejes": "Trata de no soltar el secreto.", "cog": false },
+        { "t": "stammer", "es": "tartamudear, balbucear", "pron": "stámer", "ej": "I tend to stammer when the judge asks me a question.", "ejes": "Tiendo a balbucear cuando el juez me hace una pregunta.", "cog": false },
+        { "t": "ramble", "es": "divagar", "pron": "rámbol", "ej": "The speaker began to ramble about unrelated topics.", "ejes": "El orador empezó a divagar sobre temas sin relación.", "cog": false },
+        { "t": "snap", "es": "contestar con brusquedad", "pron": "snap", "ej": "Please don't snap at me; I was only asking.", "ejes": "Por favor no me contestes mal; solo estaba preguntando.", "cog": false }
+      ],
+      "frases": [
+        { "t": "She glanced at her watch and sighed.", "es": "Echó un vistazo a su reloj y suspiró.", "pron": "shi glanst at jer uach and saird" },
+        { "t": "He glared at me across the table.", "es": "Me fulminó con la mirada desde el otro lado de la mesa.", "pron": "ji glerd at mi acrós da téibol" },
+        { "t": "They gazed at the sunset in silence.", "es": "Contemplaron el atardecer en silencio.", "pron": "dei gueisd at da sánset in sáilens" },
+        { "t": "He mumbled something and walked away.", "es": "Murmuró algo y se alejó.", "pron": "ji mámbold sámzin and uoct auéi" },
+        { "t": "I'm sorry I snapped at you earlier.", "es": "Perdón por haberte contestado mal antes.", "pron": "aim sóri ai snapt at iu érlier" }
+      ],
+      "dialogo": {
+        "titulo": "Una reunión tensa",
+        "lineas": [
+          { "q": "A", "t": "Did you see how he glared at the intern when she corrected him?", "es": "¿Viste cómo fulminó con la mirada a la practicante cuando ella lo corrigió?" },
+          { "q": "B", "t": "Yes. She stammered an apology, then he snapped at her in front of everyone.", "es": "Sí. Ella balbuceó una disculpa y luego él le contestó mal frente a todos." },
+          { "q": "A", "t": "Meanwhile, the director kept glancing at her phone and rambling about last year's results.", "es": "Mientras tanto, la directora no dejaba de mirar su teléfono y divagaba sobre los resultados del año pasado." },
+          { "q": "B", "t": "Someone even blurted out that the project was doomed. Awkward!", "es": "Alguien hasta soltó que el proyecto estaba condenado. ¡Incómodo!" },
+          { "q": "A", "t": "Let's look on the bright side: at least nobody mumbled through their whole presentation.", "es": "Miremos el lado bueno: al menos nadie murmuró durante toda su presentación." }
+        ]
+      },
+      "nota": "Glance es breve; stare o gaze son largos. Glare siempre expresa enojo; gaze suele expresar admiración o ensimismamiento."
+    },
+    {
+      "id": "en-c1-u3-l3",
+      "n": 3,
+      "titulo": "Formal o informal",
+      "objetivo": "Cambiar entre registro formal e informal con pares como purchase y buy.",
+      "intro": "El mismo mensaje cambia de tono con la palabra elegida. Truco: las palabras de origen latino (commence, assist) suelen ser más formales; las germánicas (start, help) más coloquiales.",
+      "palabras": [
+        { "t": "purchase", "es": "adquirir (formal de buy)", "pron": "pérchis", "ej": "Customers may purchase tickets online.", "ejes": "Los clientes pueden adquirir entradas en línea.", "cog": false },
+        { "t": "commence", "es": "comenzar (formal de start)", "pron": "comméns", "ej": "The ceremony will commence at noon.", "ejes": "La ceremonia comenzará al mediodía.", "cog": false },
+        { "t": "assist", "es": "asistir, ayudar (formal)", "pron": "asíst", "ej": "Please let me assist you with your luggage.", "ejes": "Permítame asistirle con su equipaje.", "cog": true },
+        { "t": "inquire", "es": "consultar, preguntar (formal)", "pron": "inquáier", "ej": "I am writing to inquire about the vacancy.", "ejes": "Le escribo para consultar sobre la vacante.", "cog": false },
+        { "t": "endeavor", "es": "esforzarse, intentar (formal)", "pron": "endévor", "ej": "We endeavor to reply within two days.", "ejes": "Nos esforzamos por responder en dos días.", "cog": false },
+        { "t": "regarding", "es": "con respecto a", "pron": "rigárdin", "ej": "I'm contacting you regarding your recent order.", "ejes": "Me comunico con usted con respecto a su pedido reciente.", "cog": false },
+        { "t": "prior to", "es": "antes de (formal)", "pron": "práier tu", "ej": "Please arrive prior to the start of the session.", "ejes": "Por favor llegue antes del inicio de la sesión.", "cog": false },
+        { "t": "gonna", "es": "voy a (muy informal)", "pron": "gónna", "ej": "I'm gonna grab a coffee before the meeting.", "ejes": "Voy a tomar un café antes de la reunión.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Customers may purchase tickets online.", "es": "Los clientes pueden adquirir entradas en línea.", "pron": "cástomers mei pérchis tíquets onláin" },
+        { "t": "The ceremony will commence at noon.", "es": "La ceremonia comenzará al mediodía.", "pron": "da sérimoni uil comméns at nun" },
+        { "t": "I am writing to inquire about the position.", "es": "Le escribo para consultar sobre el puesto.", "pron": "ai am ráitin tu inquáier abáut da posíshon" },
+        { "t": "We endeavor to respond within two working days.", "es": "Nos esforzamos por responder en dos días hábiles.", "pron": "ui endévor tu rispónd uidín tu uérkin deis" },
+        { "t": "I'm gonna grab a coffee before the meeting.", "es": "Voy a tomar un café antes de la reunión.", "pron": "aim gónna grab a cófi bifór da míitin" }
+      ],
+      "dialogo": {
+        "titulo": "Correo mal escrito",
+        "lineas": [
+          { "q": "A", "t": "Your email to the client says, I'm gonna send the stuff soon. That's far too casual.", "es": "Tu correo al cliente dice «Voy a mandar las cosas pronto». Es demasiado informal." },
+          { "q": "B", "t": "Right. How about: I will forward the documents prior to Friday?", "es": "Cierto. ¿Qué tal: Enviaré los documentos antes del viernes?" },
+          { "q": "A", "t": "Better. And start with: I am writing regarding your inquiry about our services.", "es": "Mejor. Y empieza con: Le escribo con respecto a su consulta sobre nuestros servicios." },
+          { "q": "B", "t": "Should I add: We endeavor to assist you promptly?", "es": "¿Agrego: Nos esforzamos por asistirle con prontitud?" },
+          { "q": "A", "t": "Yes, but don't overdo it. Sounding stiff can be just as bad as sounding casual.", "es": "Sí, pero no exageres. Sonar rígido puede ser tan malo como sonar informal." }
+        ]
+      },
+      "nota": "Con colegas cercanos, un correo muy formal puede sonar distante. Adapta el registro a la relación y al contexto."
+    },
+    {
+      "id": "en-c1-u3-l4",
+      "n": 4,
+      "titulo": "Eufemismos y lenguaje cargado",
+      "objetivo": "Reconocer y usar eufemismos y palabras con carga emocional.",
+      "intro": "Los eufemismos suavizan un tema incómodo y el lenguaje cargado lo exagera. Truco: cuando una palabra suena demasiado limpia (downsizing), pregúntate qué realidad esconde (despidos).",
+      "palabras": [
+        { "t": "euphemism", "es": "eufemismo", "pron": "iúfemisem", "ej": "Passed away is a common euphemism for died.", "ejes": "Falleció es un eufemismo común de murió.", "cog": true },
+        { "t": "downsize", "es": "reducir personal (eufem.)", "pron": "dáunsaiz", "ej": "The firm had to downsize after losing its biggest client.", "ejes": "La firma tuvo que reducir personal tras perder a su mayor cliente.", "cog": false },
+        { "t": "let go", "es": "despedir (eufem.)", "pron": "let gou", "ej": "Twenty employees were let go last month.", "ejes": "Veinte empleados fueron despedidos el mes pasado.", "cog": false },
+        { "t": "spin", "es": "darle un giro favorable", "pron": "spin", "ej": "The spokesman tried to spin the bad results as a success.", "ejes": "El portavoz intentó presentar los malos resultados como un éxito.", "cog": false },
+        { "t": "loaded", "es": "cargado (emocional o sesgado)", "pron": "lóudid", "ej": "That was a loaded question designed to trap him.", "ejes": "Fue una pregunta capciosa diseñada para atraparlo.", "cog": false },
+        { "t": "tactful", "es": "diplomático, con tacto", "pron": "tácfol", "ej": "She gave a tactful reply to the criticism.", "ejes": "Dio una respuesta diplomática a la crítica.", "cog": false },
+        { "t": "blunt", "es": "directo, sin rodeos", "pron": "blant", "ej": "To be blunt, the proposal is not good enough.", "ejes": "Siendo franco, la propuesta no es lo bastante buena.", "cog": false },
+        { "t": "undertone", "es": "matiz, trasfondo", "pron": "ánderton", "ej": "His comment had a sarcastic undertone.", "ejes": "Su comentario tenía un matiz sarcástico.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Passed away is a euphemism for died.", "es": "Falleció es un eufemismo de murió.", "pron": "past auéi is a iúfemisem for dáid" },
+        { "t": "Twenty employees were let go last month.", "es": "Veinte empleados fueron despedidos el mes pasado.", "pron": "tuénti emplóiis uer let gou last manz" },
+        { "t": "The spokesman tried to spin the results as a success.", "es": "El portavoz intentó presentar los resultados como un éxito.", "pron": "da spóusman traid tu spin da risálts as a sacsés" },
+        { "t": "That was a loaded question, and he knew it.", "es": "Fue una pregunta capciosa, y él lo sabía.", "pron": "dat uas a lóudid cuéschon, and ji niú it" },
+        { "t": "To be blunt, the proposal is not good enough.", "es": "Siendo franco, la propuesta no es lo bastante buena.", "pron": "tu bi blant, da propóusal is not gud inóf" }
+      ],
+      "dialogo": {
+        "titulo": "Comunicado de la empresa",
+        "lineas": [
+          { "q": "A", "t": "The press release says the company will downsize and let go some staff. Classic euphemisms.", "es": "El comunicado dice que la empresa reducirá personal y dejará ir a algunos empleados. Eufemismos clásicos." },
+          { "q": "B", "t": "To be blunt, it means layoffs. They're trying to spin it as a strategic restructuring.", "es": "Siendo franco, significa despidos. Intentan presentarlo como una reestructuración estratégica." },
+          { "q": "A", "t": "A reporter asked a loaded question, and the CEO gave a very tactful answer.", "es": "Un periodista hizo una pregunta capciosa y el gerente general dio una respuesta muy diplomática." },
+          { "q": "B", "t": "Yes, but I caught a defensive undertone in his voice.", "es": "Sí, pero noté un matiz defensivo en su voz." },
+          { "q": "A", "t": "Language matters. The words they choose reveal what they would rather hide.", "es": "El lenguaje importa. Las palabras que eligen revelan lo que preferirían ocultar." }
+        ]
+      },
+      "nota": "Dos titulares pueden narrar el mismo hecho con palabras opuestas: crackdown frente a security measures. Compara siempre varias fuentes."
+    },
+    {
+      "id": "en-c1-u3-l5",
+      "n": 5,
+      "titulo": "Repaso: elegir la palabra justa",
+      "objetivo": "Aplicar connotación y registro para reescribir un mensaje con el tono adecuado.",
+      "intro": "Cada vez que escribas, mide dos cosas: la actitud (elogio, neutro, crítica) y el registro (formal, informal). Truco: léelo en voz alta como si fueras la otra persona.",
+      "palabras": [
+        { "t": "connotation", "es": "connotación", "pron": "conotéishon", "ej": "The word cheap has a negative connotation.", "ejes": "La palabra cheap tiene una connotación negativa.", "cog": true },
+        { "t": "tone", "es": "tono", "pron": "toun", "ej": "I didn't like the tone of her email.", "ejes": "No me gustó el tono de su correo.", "cog": true },
+        { "t": "nuance", "es": "matiz", "pron": "niuáns", "ej": "Translation often loses the nuance of the original.", "ejes": "La traducción suele perder el matiz del original.", "cog": true },
+        { "t": "come across as", "es": "parecer, dar la impresión de", "pron": "cam acrós as", "ej": "You may come across as rude if you are too direct.", "ejes": "Puedes parecer grosero si eres demasiado directo.", "cog": false },
+        { "t": "derogatory", "es": "despectivo", "pron": "dirógatori", "ej": "That term is derogatory and should be avoided.", "ejes": "Ese término es despectivo y debe evitarse.", "cog": true },
+        { "t": "neutral", "es": "neutro", "pron": "niútral", "ej": "Try to keep a neutral tone in formal reports.", "ejes": "Intenta mantener un tono neutro en los informes formales.", "cog": true },
+        { "t": "overstate", "es": "exagerar", "pron": "ouverstéit", "ej": "I don't want to overstate the risks.", "ejes": "No quiero exagerar los riesgos.", "cog": false },
+        { "t": "subtle", "es": "sutil", "pron": "sátol", "ej": "There is a subtle difference between the two words.", "ejes": "Hay una diferencia sutil entre las dos palabras.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The word cheap has a negative connotation.", "es": "La palabra cheap tiene una connotación negativa.", "pron": "da uerd chip jas a négativ conotéishon" },
+        { "t": "You may come across as rude if you are too direct.", "es": "Puedes parecer grosero si eres demasiado directo.", "pron": "iu mei cam acrós as rud if iu ar tu dairéct" },
+        { "t": "Try to keep a neutral tone in formal reports.", "es": "Procura mantener un tono neutro en los informes formales.", "pron": "trai tu kip a niútral toun in fórmal ripórts" },
+        { "t": "There is a subtle difference between thrifty and stingy.", "es": "Hay una diferencia sutil entre thrifty y stingy.", "pron": "der is a sátol díferens bituín zrífti and stínyi" },
+        { "t": "Translation often loses the nuance of the original.", "es": "La traducción suele perder el matiz del original.", "pron": "translésion ófen lusis da niuáns ov di orídyinal" }
+      ],
+      "dialogo": {
+        "titulo": "Revisión de un discurso",
+        "lineas": [
+          { "q": "A", "t": "Your speech calls the opposition stubborn and pushy. That might come across as derogatory.", "es": "Tu discurso llama a la oposición terca y prepotente. Podría parecer despectivo." },
+          { "q": "B", "t": "I see. Would determined and assertive be a more neutral tone?", "es": "Ya veo. ¿Determinada y firme sería un tono más neutro?" },
+          { "q": "A", "t": "Yes, though those words have a positive connotation. Pick the nuance that matches your intention.", "es": "Sí, aunque tienen connotación positiva. Elige el matiz que coincida con tu intención." },
+          { "q": "B", "t": "I don't want to overstate my criticism, but I do want to be honest.", "es": "No quiero exagerar mi crítica, pero sí quiero ser honesto." },
+          { "q": "A", "t": "Then try a subtle approach: describe their actions, not their character.", "es": "Entonces prueba un enfoque sutil: describe sus acciones, no su carácter." }
+        ]
+      },
+      "nota": "Describir conductas (She interrupted twice) suena más justo que etiquetar a las personas (She is rude). Es una regla de oro en feedback profesional."
+    }
+  ]
+}

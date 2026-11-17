@@ -1,0 +1,751 @@
+{
+  "id": "pt-c1-u8",
+  "idioma": "pt",
+  "nivel": "C1",
+  "n": 8,
+  "titulo": "Negociación y diplomacia",
+  "resumen": "Aprenderás el lenguaje diplomático: cortesía con condicional y subjuntivo, cómo suavizar un desacuerdo, hacer concesiones y cerrar acuerdos sin perder la relación.",
+  "puedo": [
+    "Suavizar una petición: «Gostaria de...», «Poderia...», «Seria possível...».",
+    "Expresar desacuerdo con tacto: «Com todo o respeito, discordo».",
+    "Hacer y recibir concesiones: «contraproposta», «abrir mão de», «meio-termo».",
+    "Mantener la relación en un impasse: «entendo sua posição, mas...».",
+    "Cerrar acuerdos y comunicar malas noticias con fórmulas diplomáticas."
+  ],
+  "gramatica": {
+    "titulo": "Cortesía diplomática: condicional y subjuntivo imperfecto",
+    "texto": "Para suavizar un pedido o un desacuerdo, el portugués usa el condicional («-ria») y el imperfecto del subjuntivo («-sse»): Gostaria de uma resposta (Querría una respuesta); Poderia enviar o documento?; Se o senhor pudesse reduzir o prazo, ficaríamos gratos.\nLa estructura clásica es: Se + imperfecto de subjuntivo, + condicional. Se fosse possível, adiaríamos a reunião.\nPara pedir algo a otra persona: Gostaria que o senhor enviasse o contrato (que + imperfecto del subjuntivo).\nContrasta: Quero uma resposta (directo) frente a Gostaria de uma resposta (diplomático).\nTruco: cuanto más fuerte es el mensaje, más lejos del presente suena el verbo: «pode», «poderia», «se pudesse».",
+    "tabla": [
+      [
+        "Gostaria de uma resposta.",
+        "Querría una respuesta (cortés).",
+        "gostaría dyi úma rrespósta"
+      ],
+      [
+        "O senhor poderia enviar?",
+        "¿Podría usted enviar?",
+        "u senhór podería enviár"
+      ],
+      [
+        "Seria possível rever o preço?",
+        "¿Sería posible revisar el precio?",
+        "sería posívew rrevér u présu"
+      ],
+      [
+        "Se o senhor pudesse, ficaríamos gratos.",
+        "Si usted pudiera, quedaríamos agradecidos.",
+        "si u senhór pudési, fikarémus grátus"
+      ],
+      [
+        "Receio que não concordemos.",
+        "Temo que no estemos de acuerdo.",
+        "rreséyu ki náun konkordémus"
+      ],
+      [
+        "Gostaria que o senhor enviasse o contrato.",
+        "Quisiera que usted enviara el contrato.",
+        "gostaría ki u senhór enviási u kontrátu"
+      ]
+    ],
+    "errores": [
+      "No uses el presente en la condición: «Se o senhor pudesse...» (no «Se o senhor pode...»), con condicional en la otra parte.",
+      "No uses «queria que» + presente: es «gostaria que o senhor enviasse» (subjuntivo imperfecto).",
+      "No te pases de directo: en una negociación, «Não aceito» cierra la puerta; «Receio que não possamos aceitar» la deja abierta."
+    ]
+  },
+  "practica": [
+    "Escribe 6 peticiones directas y reescríbelas con condicional y «gostaria de» (8 minutos).",
+    "Lee una nota diplomática o un comunicado de la cancillería brasileña (Itamaraty) y subraya 8 fórmulas de cortesía (12 minutos).",
+    "Graba un audio de 90 segundos negociando un plazo con tu jefe imaginario con «se... pudesse...» (8 minutos).",
+    "Escucha un podcast de negocios o de relaciones internacionales y apunta 5 frases que suavizan un desacuerdo (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-c1-u8-l1",
+      "n": 1,
+      "titulo": "Lenguaje diplomático",
+      "objetivo": "Usar fórmulas de tacto y respeto en una conversación formal.",
+      "intro": "La diplomacia cuida la relación mientras defiende una posición. Truco: «permita-me» y «com todo o respeito» abren la puerta a discrepar sin ofender.",
+      "palabras": [
+        {
+          "t": "tato",
+          "es": "tacto",
+          "pron": "tátu",
+          "ej": "Faltou tato na resposta.",
+          "ejes": "Faltó tacto en la respuesta.",
+          "cog": true
+        },
+        {
+          "t": "deferência",
+          "es": "deferencia",
+          "pron": "deferénsia",
+          "ej": "Falou com deferência ao ministro.",
+          "ejes": "Habló con deferencia al ministro.",
+          "cog": true
+        },
+        {
+          "t": "cautela",
+          "es": "cautela",
+          "pron": "kautéla",
+          "ej": "Pedimos cautela nas negociações.",
+          "ejes": "Pedimos cautela en las negociaciones.",
+          "cog": true
+        },
+        {
+          "t": "cordialidade",
+          "es": "cordialidad",
+          "pron": "kordyialidádyi",
+          "ej": "Agradeço a cordialidade de todos.",
+          "ejes": "Agradezco la cordialidad de todos.",
+          "cog": true
+        },
+        {
+          "t": "discrição",
+          "es": "discreción",
+          "pron": "dyiskrisáun",
+          "ej": "Peço discrição sobre este assunto.",
+          "ejes": "Pido discreción sobre este asunto.",
+          "cog": true
+        },
+        {
+          "t": "receio",
+          "es": "temor / recelo",
+          "pron": "rreséyu",
+          "ej": "Receio que não seja possível.",
+          "ejes": "Temo que no sea posible.",
+          "cog": false
+        },
+        {
+          "t": "permita-me",
+          "es": "permítame",
+          "pron": "permíta-mi",
+          "ej": "Permita-me discordar.",
+          "ejes": "Permítame discrepar.",
+          "cog": false
+        },
+        {
+          "t": "com todo o respeito",
+          "es": "con todo respeto",
+          "pron": "kon tódu u rrespéitu",
+          "ej": "Com todo o respeito, discordo.",
+          "ejes": "Con todo respeto, discrepo.",
+          "cog": false
+        },
+        {
+          "t": "salvo melhor juízo",
+          "es": "salvo mejor criterio",
+          "pron": "sáwvu meyór yuízu",
+          "ej": "Salvo melhor juízo, a proposta é inviável.",
+          "ejes": "Salvo mejor criterio, la propuesta es inviable.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Permita-me discordar, com todo o respeito.",
+          "es": "Permítame discrepar, con todo respeto.",
+          "pron": "permíta-mi dyiskordár, kon tódu u rrespéitu"
+        },
+        {
+          "t": "Agradeço a cordialidade com que fomos recebidos.",
+          "es": "Agradezco la cordialidad con que fuimos recibidos.",
+          "pron": "agradésu a kordyialidádyi kon ki fómus resebídus"
+        },
+        {
+          "t": "Peço cautela e discrição sobre esse tema.",
+          "es": "Pido cautela y discreción sobre este tema.",
+          "pron": "pésu kautéla i dyiskrisáun sóbri ési téma"
+        },
+        {
+          "t": "Receio que a proposta não seja viável.",
+          "es": "Temo que la propuesta no sea viable.",
+          "pron": "rreséyu ki a propósta náun séya viávew"
+        },
+        {
+          "t": "Salvo melhor juízo, devemos esperar.",
+          "es": "Salvo mejor criterio, debemos esperar.",
+          "pron": "sáwvu meyór yuízu, devémus esperár"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Abertura de uma negociação",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Bom dia. Agradeço a cordialidade com que nos receberam.",
+            "es": "Buenos días. Agradezco la cordialidad con que nos recibieron."
+          },
+          {
+            "q": "B",
+            "t": "Foi um prazer. Permita-me começar pelos pontos que nos preocupam.",
+            "es": "Fue un placer. Permítame comenzar por los puntos que nos preocupan."
+          },
+          {
+            "q": "A",
+            "t": "Receio que o prazo proposto seja difícil de cumprir.",
+            "es": "Temo que el plazo propuesto sea difícil de cumplir."
+          },
+          {
+            "q": "B",
+            "t": "Com todo o respeito, o prazo foi fixado pelo conselho.",
+            "es": "Con todo respeito, el plazo fue fijado por el consejo."
+          },
+          {
+            "q": "A",
+            "t": "Peço cautela e discrição até chegarmos a um acordo.",
+            "es": "Pido cautela y discreción hasta llegar a un acuerdo."
+          }
+        ]
+      },
+      "nota": "«Permita-me» y «com todo o respeito» no son meras cortesías: avisan que viene un desacuerdo. Quien escucha se prepara y no se siente atacado."
+    },
+    {
+      "id": "pt-c1-u8-l2",
+      "n": 2,
+      "titulo": "Suavizar un desacuerdo",
+      "objetivo": "Expresar un desacuerdo manteniendo la relación.",
+      "intro": "Discrepar sin romper la relación es un arte. Truco: reconoce primero («entendo sua posição») y después discrepa («mas...»). Nunca empieces por la negación.",
+      "palabras": [
+        {
+          "t": "divergir",
+          "es": "discrepar",
+          "pron": "dyiveryír",
+          "ej": "Nesse ponto, nós vamos divergir.",
+          "ejes": "En ese punto, vamos a discrepar.",
+          "cog": false
+        },
+        {
+          "t": "divergência",
+          "es": "divergencia",
+          "pron": "dyiveryénsia",
+          "ej": "Há divergência entre as partes.",
+          "ejes": "Hay divergencia entre las partes.",
+          "cog": true
+        },
+        {
+          "t": "objeção",
+          "es": "objeción",
+          "pron": "obyesáun",
+          "ej": "Tenho uma objeção a fazer.",
+          "ejes": "Tengo una objeción que hacer.",
+          "cog": true
+        },
+        {
+          "t": "reparo",
+          "es": "reparo / reserva",
+          "pron": "rrepáru",
+          "ej": "Faço apenas um reparo ao texto.",
+          "ejes": "Solo hago un reparo al texto.",
+          "cog": false
+        },
+        {
+          "t": "ponto de atrito",
+          "es": "punto de fricción",
+          "pron": "póntu dyi atrítu",
+          "ej": "O prazo é um ponto de atrito.",
+          "ejes": "El plazo es un punto de fricción.",
+          "cog": false
+        },
+        {
+          "t": "peço licença para",
+          "es": "pido permiso para",
+          "pron": "pésu lisénsa pára",
+          "ej": "Peço licença para discordar.",
+          "ejes": "Pido permiso para discrepar.",
+          "cog": false
+        },
+        {
+          "t": "entendo sua posição",
+          "es": "entiendo su postura",
+          "pron": "enténdu súa pozisáun",
+          "ej": "Entendo sua posição, mas discordo.",
+          "ejes": "Entiendo su postura, pero discrepo.",
+          "cog": false
+        },
+        {
+          "t": "sem desmerecer",
+          "es": "sin menospreciar",
+          "pron": "séin dyizmerér",
+          "ej": "Sem desmerecer o seu trabalho, há falhas.",
+          "ejes": "Sin menospreciar su trabajo, hay fallas.",
+          "cog": false
+        },
+        {
+          "t": "com a devida vênia",
+          "es": "con la debida venia",
+          "pron": "kon a devída vénia",
+          "ej": "Com a devida vênia, discordo.",
+          "ejes": "Con la debida venia, discrepo.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Entendo sua posição, mas discordo em um ponto.",
+          "es": "Entiendo su postura, pero discrepo en un punto.",
+          "pron": "enténdu súa pozisáun, máis dyiskórdu ein un póntu"
+        },
+        {
+          "t": "Peço licença para fazer um reparo ao texto.",
+          "es": "Pido permiso para hacer un reparo al texto.",
+          "pron": "pésu lisénsa pára fazér un rrepáru au téstu"
+        },
+        {
+          "t": "Sem desmerecer seu esforço, há falhas no plano.",
+          "es": "Sin menospreciar su esfuerzo, hay fallas en el plan.",
+          "pron": "séin dyizmerér séu esfórsu, á fálas nu plánu"
+        },
+        {
+          "t": "Com a devida vênia, ouso discordar.",
+          "es": "Con la debida venia, me atrevo a discrepar.",
+          "pron": "kon a devída vénia, óuzu dyiskordár"
+        },
+        {
+          "t": "O prazo é nosso principal ponto de atrito.",
+          "es": "El plazo es nuestro principal punto de fricción.",
+          "pron": "u prázu é nósu prinsipáw póntu dyi atrítu"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Uma divergência de opinião",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Entendo sua posição, mas divirjo em um ponto.",
+            "es": "Entiendo su postura, pero discrepo en un punto."
+          },
+          {
+            "q": "B",
+            "t": "Fique à vontade. Qual é a sua objeção?",
+            "es": "Con confianza. ¿Cuál es su objeción?"
+          },
+          {
+            "q": "A",
+            "t": "Sem desmerecer o seu trabalho, o orçamento é um ponto de atrito.",
+            "es": "Sin menospreciar su trabajo, el presupuesto es un punto de fricción."
+          },
+          {
+            "q": "B",
+            "t": "Compreendo o reparo. Tentaremos reduzir os custos na segunda fase.",
+            "es": "Comprendo el reparo. Intentaremos reducir los costos en la segunda fase."
+          },
+          {
+            "q": "A",
+            "t": "Agradeço. Com a devida vênia, creio que ainda há espaço para uma solução.",
+            "es": "Agradezco. Con la debida venia, creo que aún hay espacio para una solución."
+          }
+        ]
+      },
+      "nota": "«Com a devida vênia» es muy formal y jurídica; en una reunión de trabajo basta con «entendo sua posição, mas...»."
+    },
+    {
+      "id": "pt-c1-u8-l3",
+      "n": 3,
+      "titulo": "Concesiones y contrapropuestas",
+      "objetivo": "Negociar con concesiones, contrapropuestas y puntos medios.",
+      "intro": "Negociar es ceder para ganar. Truco: «contraproposta» responde a una propuesta; «meio-termo» es el punto de encuentro; «abrir mão de» es renunciar a algo.",
+      "palabras": [
+        {
+          "t": "concessão",
+          "es": "concesión",
+          "pron": "konsesáun",
+          "ej": "Fizemos uma concessão importante.",
+          "ejes": "Hicimos una concesión importante.",
+          "cog": true
+        },
+        {
+          "t": "contraproposta",
+          "es": "contrapropuesta",
+          "pron": "kontrapropósta",
+          "ej": "Vamos enviar uma contraproposta.",
+          "ejes": "Vamos a enviar una contrapropuesta.",
+          "cog": true
+        },
+        {
+          "t": "meio-termo",
+          "es": "punto medio",
+          "pron": "méiu-térmu",
+          "ej": "Procuramos um meio-termo razoável.",
+          "ejes": "Buscamos un punto medio razonable.",
+          "cog": false
+        },
+        {
+          "t": "abrir mão de",
+          "es": "renunciar a",
+          "pron": "abrír máun dyi",
+          "ej": "Não vamos abrir mão de qualidade.",
+          "ejes": "No vamos a renunciar a la calidad.",
+          "cog": false
+        },
+        {
+          "t": "flexibilizar",
+          "es": "flexibilizar",
+          "pron": "fleksibilizár",
+          "ej": "Podemos flexibilizar o prazo de pagamento.",
+          "ejes": "Podemos flexibilizar el plazo de pago.",
+          "cog": false
+        },
+        {
+          "t": "impasse",
+          "es": "impasse",
+          "pron": "impási",
+          "ej": "Chegamos a um impasse.",
+          "ejes": "Llegamos a un impasse.",
+          "cog": true
+        },
+        {
+          "t": "margem de manobra",
+          "es": "margen de maniobra",
+          "pron": "máryein dyi manóbra",
+          "ej": "Temos pouca margem de manobra.",
+          "ejes": "Tenemos poco margen de maniobra.",
+          "cog": false
+        },
+        {
+          "t": "cláusula",
+          "es": "cláusula",
+          "pron": "kláusula",
+          "ej": "Essa cláusula precisa ser revista.",
+          "ejes": "Esa cláusula necesita ser revisada.",
+          "cog": true
+        },
+        {
+          "t": "barganhar",
+          "es": "regatear",
+          "pron": "bargañár",
+          "ej": "Ela sabe barganhar bem.",
+          "ejes": "Ella sabe regatear bien.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Estamos dispostos a flexibilizar o prazo de pagamento.",
+          "es": "Estamos dispuestos a flexibilizar el plazo de pago.",
+          "pron": "estámus dyispóstus a fleksibilizár u prázu dyi pagaméntu"
+        },
+        {
+          "t": "Fizemos uma concessão importante na cláusula quinta.",
+          "es": "Hicimos una concesión importante en la cláusula quinta.",
+          "pron": "fizémus úma konsesáun importántyi na kláusula kínta"
+        },
+        {
+          "t": "Não podemos abrir mão da qualidade do produto.",
+          "es": "No podemos renunciar a la calidad del producto.",
+          "pron": "náun podémus abrír máun da kuawidádyi du prodútu"
+        },
+        {
+          "t": "Chegamos a um impasse, mas ainda há margem de manobra.",
+          "es": "Llegamos a un impasse, pero aún hay margen de maniobra.",
+          "pron": "shegámus a un impási, máis aínda á máryein dyi manóbra"
+        },
+        {
+          "t": "Vamos enviar uma contraproposta até sexta-feira.",
+          "es": "Vamos a enviar una contrapropuesta hasta el viernes.",
+          "pron": "vámus enviár úma kontrapropósta até sestá-féira"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Um impasse na negociação",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Chegamos a um impasse na cláusula de pagamento.",
+            "es": "Llegamos a un impasse en la cláusula de pago."
+          },
+          {
+            "q": "B",
+            "t": "Compreendo. Estamos dispostos a flexibilizar o prazo, mas não vamos abrir mão do valor total.",
+            "es": "Comprendo. Estamos dispuestos a flexibilizar el plazo, pero no vamos a renunciar al valor total."
+          },
+          {
+            "q": "A",
+            "t": "Podemos propor uma contraproposta: pagamento em três parcelas.",
+            "es": "Podemos proponer una contrapropuesta: pago en tres cuotas."
+          },
+          {
+            "q": "B",
+            "t": "Isso nos dá alguma margem de manobra. Qual seria o meio-termo?",
+            "es": "Eso nos da algún margen de maniobra. ¿Cuál sería el punto medio?"
+          },
+          {
+            "q": "A",
+            "t": "Duas parcelas agora e a terceira após a entrega. Seria uma concessão de ambos os lados.",
+            "es": "Dos cuotas ahora y la tercera tras la entrega. Sería una concesión de ambos lados."
+          }
+        ]
+      },
+      "nota": "Ceder en algo pequeño para ganar en algo importante es la base de la negociación; «em contrapartida» (a cambio) es el conector natural para presentarlo."
+    },
+    {
+      "id": "pt-c1-u8-l4",
+      "n": 4,
+      "titulo": "Cerrar un acuerdo",
+      "objetivo": "Cerrar y formalizar acuerdos con el vocabulario adecuado.",
+      "intro": "Un acuerdo no termina con un apretón de manos. Truco: «ratificar» y «formalizar» dan carácter oficial; «mutuamente vantajoso» es la fórmula favorita de los diplomáticos.",
+      "palabras": [
+        {
+          "t": "ratificar",
+          "es": "ratificar",
+          "pron": "rratifikár",
+          "ej": "O conselho vai ratificar o acordo.",
+          "ejes": "El consejo va a ratificar el acuerdo.",
+          "cog": true
+        },
+        {
+          "t": "selar",
+          "es": "sellar",
+          "pron": "selár",
+          "ej": "Vamos selar o compromisso hoje.",
+          "ejes": "Vamos a sellar el compromiso hoy.",
+          "cog": false
+        },
+        {
+          "t": "denominador comum",
+          "es": "denominador común",
+          "pron": "denominadór komún",
+          "ej": "Precisamos de um denominador comum.",
+          "ejes": "Necesitamos un denominador común.",
+          "cog": true
+        },
+        {
+          "t": "em comum acordo",
+          "es": "de común acuerdo",
+          "pron": "ein komún akórdu",
+          "ej": "Decidimos em comum acordo.",
+          "ejes": "Decidimos de común acuerdo.",
+          "cog": false
+        },
+        {
+          "t": "mutuamente vantajoso",
+          "es": "mutuamente ventajoso",
+          "pron": "mutuaméntyi vantayózu",
+          "ej": "O acordo é mutuamente vantajoso.",
+          "ejes": "El acuerdo es mutuamente ventajoso.",
+          "cog": false
+        },
+        {
+          "t": "termos",
+          "es": "términos",
+          "pron": "térmus",
+          "ej": "Os termos do acordo são claros.",
+          "ejes": "Los términos del acuerdo son claros.",
+          "cog": false
+        },
+        {
+          "t": "salvaguardar",
+          "es": "salvaguardar",
+          "pron": "sawvagwardár",
+          "ej": "É preciso salvaguardar os interesses de todos.",
+          "ejes": "Hay que salvaguardar los intereses de todos.",
+          "cog": true
+        },
+        {
+          "t": "formalizar",
+          "es": "formalizar",
+          "pron": "formalizár",
+          "ej": "Vamos formalizar o acordo por escrito.",
+          "ejes": "Vamos a formalizar el acuerdo por escrito.",
+          "cog": true
+        },
+        {
+          "t": "pactuar",
+          "es": "pactar",
+          "pron": "paktuár",
+          "ej": "Resolvemos pactuar um prazo comum.",
+          "ejes": "Decidimos pactar un plazo común.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Chegamos a um denominador comum depois de longa negociação.",
+          "es": "Llegamos a un denominador común tras una larga negociación.",
+          "pron": "shegámus a un denominadór komún depóis dyi lónga negosiasáun"
+        },
+        {
+          "t": "O acordo é mutuamente vantajoso para as duas partes.",
+          "es": "El acuerdo es mutuamente ventajoso para las dos partes.",
+          "pron": "u akórdu é mutuaméntyi vantayózu pára as dúas pártyis"
+        },
+        {
+          "t": "Decidimos em comum acordo formalizar o contrato.",
+          "es": "Decidimos de común acuerdo formalizar el contrato.",
+          "pron": "desidímus ein komún akórdu formalizár u kontrátu"
+        },
+        {
+          "t": "É essencial salvaguardar os interesses de todos.",
+          "es": "Es esencial salvaguardar los intereses de todos.",
+          "pron": "é esensiáw sawvagwardár us interésis dyi tódus"
+        },
+        {
+          "t": "O conselho vai ratificar os termos do acordo.",
+          "es": "El consejo va a ratificar los términos del acuerdo.",
+          "pron": "u konsélyu vái rratifikár us térmus du akórdu"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Fechando o contrato",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Creio que chegamos a um denominador comum.",
+            "es": "Creo que llegamos a un denominador común."
+          },
+          {
+            "q": "B",
+            "t": "Concordo. O acordo é mutuamente vantajoso e salvaguarda os interesses de ambos.",
+            "es": "De acuerdo. El acuerdo es mutuamente ventajoso y salvaguarda los intereses de ambos."
+          },
+          {
+            "q": "A",
+            "t": "Vamos formalizar os termos por escrito e selar o compromisso.",
+            "es": "Vamos a formalizar los términos por escrito y sellar el compromiso."
+          },
+          {
+            "q": "B",
+            "t": "O conselho vai ratificar o acordo na próxima reunião.",
+            "es": "El consejo va a ratificar el acuerdo en la próxima reunión."
+          },
+          {
+            "q": "A",
+            "t": "Ótimo. Decidimos tudo em comum acordo. Parabéns às duas equipes.",
+            "es": "Excelente. Decidimos todo de común acuerdo. Felicitaciones a los dos equipos."
+          }
+        ]
+      },
+      "nota": "«Selar» (sellar) un acuerdo es figurado y suena solemne; para contratos, se dice «assinar» o «firmar». «Pactuar» y «ratificar» son términos jurídicos y políticos."
+    },
+    {
+      "id": "pt-c1-u8-l5",
+      "n": 5,
+      "titulo": "Repaso: comunicar con diplomacia",
+      "objetivo": "Comunicar malas noticias y respuestas negativas con tacto.",
+      "intro": "Decir no sin cerrar la puerta es la prueba final. Truco: «lamento informar» introduce la mala noticia; «em princípio» y «na medida do possível» dejan margen.",
+      "palabras": [
+        {
+          "t": "lamento informar",
+          "es": "lamento informar",
+          "pron": "laméntu informár",
+          "ej": "Lamento informar que o prazo acabou.",
+          "ejes": "Lamento informar que el plazo terminó.",
+          "cog": false
+        },
+        {
+          "t": "na medida do possível",
+          "es": "en la medida de lo posible",
+          "pron": "na medída du posívew",
+          "ej": "Faremos isso na medida do possível.",
+          "ejes": "Haremos eso en la medida de lo posible.",
+          "cog": false
+        },
+        {
+          "t": "estamos abertos a",
+          "es": "estamos abiertos a",
+          "pron": "estámus abértus a",
+          "ej": "Estamos abertos a novas ideias.",
+          "ejes": "Estamos abiertos a nuevas ideas.",
+          "cog": false
+        },
+        {
+          "t": "a critério de",
+          "es": "a criterio de",
+          "pron": "a kritériu dyi",
+          "ej": "A decisão fica a critério de cada parte.",
+          "ejes": "La decisión queda a criterio de cada parte.",
+          "cog": false
+        },
+        {
+          "t": "nesse sentido",
+          "es": "en ese sentido",
+          "pron": "nési sentídu",
+          "ej": "Nesse sentido, propomos uma reunião.",
+          "ejes": "En ese sentido, proponemos una reunión.",
+          "cog": false
+        },
+        {
+          "t": "agradecemos a compreensão",
+          "es": "agradecemos la comprensión",
+          "pron": "agradesémus a komprensáun",
+          "ej": "Agradecemos a compreensão de todos.",
+          "ejes": "Agradecemos la comprensión de todos.",
+          "cog": false
+        },
+        {
+          "t": "sem prejuízo de",
+          "es": "sin perjuicio de",
+          "pron": "séin prezuízu dyi",
+          "ej": "Sem prejuízo de outras medidas, vamos prosseguir.",
+          "ejes": "Sin perjuicio de otras medidas, vamos a proseguir.",
+          "cog": false
+        },
+        {
+          "t": "em princípio",
+          "es": "en principio",
+          "pron": "ein prinsípiu",
+          "ej": "Em princípio, concordamos.",
+          "ejes": "En principio, estamos de acuerdo.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Lamento informar que não poderemos atender ao pedido.",
+          "es": "Lamento informar que no podremos atender el pedido.",
+          "pron": "laméntu informár ki náun podarémus atendér u pedídu"
+        },
+        {
+          "t": "Em princípio, concordamos, sem prejuízo de ajustes futuros.",
+          "es": "En principio estamos de acuerdo, sin perjuicio de ajustes futuros.",
+          "pron": "ein prinsípiu, konkordámus, séin prezuízu dyi ayústus futúrus"
+        },
+        {
+          "t": "Faremos o possível, na medida do possível.",
+          "es": "Haremos lo posible, en la medida de lo posible.",
+          "pron": "farémus u posívew, na medída du posívew"
+        },
+        {
+          "t": "Estamos abertos a novas ideias e a uma nova rodada.",
+          "es": "Estamos abiertos a nuevas ideas y a una nueva ronda.",
+          "pron": "estámus abértus a nóvas idéias i a úma nóva rrodáda"
+        },
+        {
+          "t": "Agradecemos a compreensão de todos.",
+          "es": "Agradecemos la comprensión de todos.",
+          "pron": "agradesémus a komprensáun dyi tódus"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Uma resposta negativa",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Lamento informar que não poderemos atender ao pedido de redução.",
+            "es": "Lamento informar que no podremos atender el pedido de reducción."
+          },
+          {
+            "q": "B",
+            "t": "Compreendo. Seria possível reconsiderar, se pudéssemos flexibilizar o prazo?",
+            "es": "Comprendo. ¿Sería posible reconsiderar si pudiéramos flexibilizar el plazo?"
+          },
+          {
+            "q": "A",
+            "t": "Em princípio, sim. Estamos abertos a novas ideias, na medida do possível.",
+            "es": "En principio, sí. Estamos abiertos a nuevas ideas, en la medida de lo posible."
+          },
+          {
+            "q": "B",
+            "t": "Nesse sentido, enviaremos uma proposta ainda esta semana.",
+            "es": "En ese sentido, enviaremos una propuesta esta misma semana."
+          },
+          {
+            "q": "A",
+            "t": "Agradecemos a compreensão. A decisão final fica a critério de nossa diretoria.",
+            "es": "Agradecemos la comprensión. La decisión final queda a criterio de nuestra dirección."
+          }
+        ]
+      },
+      "nota": "Una respuesta negativa diplomática da una razón, ofrece una alternativa y mantiene la puerta abierta. Eso es lo que hacen «em princípio», «na medida do possível» y «estamos abertos a»."
+    }
+  ]
+}

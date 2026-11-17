@@ -1,0 +1,759 @@
+{
+  "id": "pt-c1-u5",
+  "idioma": "pt",
+  "nivel": "C1",
+  "n": 5,
+  "titulo": "Ironía, humor y sentido figurado",
+  "resumen": "Aprenderás a captar y producir ironía, sarcasmo y humor, a usar expresiones figuradas y a dar matiz con diminutivos y aumentativos (-inho, -zinho, -ão).",
+  "puedo": [
+    "Reconocer ironía y sarcasmo: «Que ótimo, mais uma reunião...».",
+    "Hablar de humor: «piada», «trocadilho», «tirada», «gozação».",
+    "Usar expresiones figuradas: «pagar o pato», «engolir sapo», «abrir o jogo».",
+    "Usar metáforas cotidianas: «faca de dois gumes», «ponta do iceberg».",
+    "Dar matiz con diminutivos y aumentativos: «cafezinho», «problemão»."
+  ],
+  "gramatica": {
+    "titulo": "Diminutivos y aumentativos con matiz",
+    "texto": "En portugués, -inho/-inha y -zinho/-zinha no solo indican tamaño: expresan cariño, cortesía, suavización, desprecio o ironía. Y -ão (aumentativo) indica algo grande, impresionante o exagerado.\nCafezinho es una invitación amable; um minutinho suaviza una petición; rapazinho puede ser condescendiente; problemão exagera con humor.\nSe forma con -inho si la palabra termina en vocal átona (casa, casinha); con -zinho si termina en vocal tónica, consonante o -m (café, cafezinho; mulher, mulherzinha).\nEl sentido depende del tono: Ele é bonzinho puede ser cariño o ironía (de «ingenuo»).\nTruco: escucha la entonación; el mismo diminutivo puede ser amable o despectivo.",
+    "tabla": [
+      [
+        "Vamos tomar um cafezinho?",
+        "¿Tomamos un cafecito?",
+        "vámus tomár un kafezíñu"
+      ],
+      [
+        "Isso é um problemão.",
+        "Eso es un problemón.",
+        "ísu é un problemáun"
+      ],
+      [
+        "Só um minutinho, por favor.",
+        "Solo un minutito, por favor.",
+        "só un minutíñu, por favór"
+      ],
+      [
+        "Que casarão!",
+        "¡Qué casona!",
+        "ki kazarráun"
+      ],
+      [
+        "Esse rapazinho se acha o dono.",
+        "Ese muchachito se cree el dueño (despectivo).",
+        "ési rrapazíñu si ásha u dónu"
+      ],
+      [
+        "Que ótimo, mais uma reunião...",
+        "¡Qué bien, otra reunión más! (irónico)",
+        "ki ótimu, máis úma reuniáun"
+      ]
+    ],
+    "errores": [
+      "No uses -ito/-ita: en portugués es -inho/-inha («casinha», no «casita»).",
+      "No pongas -inho tras vocal tónica o consonante: «café» da «cafezinho», no «cafeinho»; «mulher» da «mulherzinha».",
+      "Cuidado: un diminutivo no siempre es cariñoso; puede ser burlón («Ele é bonzinho, hein...»). Fíjate en el tono y el contexto."
+    ]
+  },
+  "practica": [
+    "Mira un clip de humor de un canal brasileño y anota 5 frases con ironía; explica cuál es el sentido real (10 minutos).",
+    "Lee las columnas de humor de un periódico y subraya 5 expresiones figuradas; búscalas en un diccionario (10 minutos).",
+    "Escribe un diálogo corto (6 líneas) con ironía y diminutivos; léelo en voz alta (8 minutos).",
+    "Escucha un podcast de comedia y apunta 3 trocadilhos (juegos de palabras) y su explicación (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-c1-u5-l1",
+      "n": 1,
+      "titulo": "Ironía y sarcasmo",
+      "objetivo": "Reconocer y nombrar la ironía y el sarcasmo.",
+      "intro": "La ironía dice lo contrario de lo que piensa; el sarcasmo es una ironía con intención de herir. Truco: si el elogio suena exagerado en una situación mala, es ironía.",
+      "palabras": [
+        {
+          "t": "ironia",
+          "es": "ironía",
+          "pron": "ironía",
+          "ej": "A ironia da frase passou despercebida.",
+          "ejes": "La ironía de la frase pasó desapercibida.",
+          "cog": true
+        },
+        {
+          "t": "sarcasmo",
+          "es": "sarcasmo",
+          "pron": "sarkázmu",
+          "ej": "Respondeu com sarcasmo.",
+          "ejes": "Respondió con sarcasmo.",
+          "cog": true
+        },
+        {
+          "t": "ironizar",
+          "es": "ironizar",
+          "pron": "ironizár",
+          "ej": "Ele costuma ironizar tudo.",
+          "ejes": "Suele ironizar todo.",
+          "cog": true
+        },
+        {
+          "t": "debochar",
+          "es": "burlarse",
+          "pron": "deboshár",
+          "ej": "Ela gosta de debochar dos colegas.",
+          "ejes": "Le gusta burlarse de sus colegas.",
+          "cog": false
+        },
+        {
+          "t": "zombar",
+          "es": "mofarse",
+          "pron": "zombár",
+          "ej": "Não é educado zombar de ninguém.",
+          "ejes": "No es educado mofarse de nadie.",
+          "cog": false
+        },
+        {
+          "t": "tirar sarro de",
+          "es": "tomar el pelo a",
+          "pron": "tyirár sárru dyi",
+          "ej": "Pare de tirar sarro de mim.",
+          "ejes": "Deja de tomarme el pelo.",
+          "cog": false
+        },
+        {
+          "t": "indireta",
+          "es": "indirecta",
+          "pron": "indiréta",
+          "ej": "Ele soltou uma indireta durante a reunião.",
+          "ejes": "Soltó una indirecta durante la reunión.",
+          "cog": false
+        },
+        {
+          "t": "cínico",
+          "es": "cínico",
+          "pron": "síniku",
+          "ej": "Ele é cínico demais.",
+          "ejes": "Es demasiado cínico.",
+          "cog": true
+        },
+        {
+          "t": "ácido",
+          "es": "ácido (humor mordaz)",
+          "pron": "ásidu",
+          "ej": "O humor dela é ácido.",
+          "ejes": "Su humor es ácido.",
+          "cog": true
+        }
+      ],
+      "frases": [
+        {
+          "t": "Que ótimo, mais uma reunião às oito da manhã.",
+          "es": "Qué bien, otra reunión a las ocho de la mañana.",
+          "pron": "ki ótimu, máis úma reuniáun as óitu da mañá"
+        },
+        {
+          "t": "Ele respondeu com sarcasmo: Nossa, que surpresa!",
+          "es": "Respondió con sarcasmo: ¡Vaya, qué sorpresa!",
+          "pron": "éli respondéu kon sarkázmu: nósa, ki surprésa"
+        },
+        {
+          "t": "Ela soltou uma indireta sobre o atraso do chefe.",
+          "es": "Ella soltó una indirecta sobre el retraso del jefe.",
+          "pron": "éla soltóu úma indiréta sóbri u atrázu du shéfi"
+        },
+        {
+          "t": "Não gosto de quem ironiza o trabalho dos outros.",
+          "es": "No me gusta quien ironiza el trabajo de los demás.",
+          "pron": "náun gósta dyi kéin ironíza u trabáliu dus ótrus"
+        },
+        {
+          "t": "O humor ácido dele nem sempre agrada.",
+          "es": "Su humor ácido no siempre agrada.",
+          "pron": "u umór ásidu déli néin sémpri agráda"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Uma reunião às oito",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Que ótimo, reunião às oito da manhã de segunda-feira. Adoro.",
+            "es": "Qué bien, reunión a las ocho de la mañana del lunes. Me encanta."
+          },
+          {
+            "q": "B",
+            "t": "Percebi a ironia. Mas foi o diretor que marcou, não eu.",
+            "es": "Noté la ironía. Pero fue el director quien la programó, no yo."
+          },
+          {
+            "q": "A",
+            "t": "Eu sei. Só não gosto de quem solta indiretas sem encarar o problema.",
+            "es": "Lo sé. Solo no me gusta quien suelta indirectas sin enfrentar el problema."
+          },
+          {
+            "q": "B",
+            "t": "Você é cínico demais, sabia? Seu humor ácido assusta o pessoal.",
+            "es": "Eres demasiado cínico, ¿sabías? Tu humor ácido asusta al personal."
+          },
+          {
+            "q": "A",
+            "t": "Tudo bem, vou parar de debochar. Só estou cansado.",
+            "es": "Está bien, dejaré de burlarme. Solo estoy cansado."
+          }
+        ]
+      },
+      "nota": "En portugués la ironía se marca con la entonación y con expresiones como «que ótimo», «nossa, que surpresa», «tá bom então». «Tirar sarro de» es coloquial; «zombar» es más formal."
+    },
+    {
+      "id": "pt-c1-u5-l2",
+      "n": 2,
+      "titulo": "Humor y juegos de palabras",
+      "objetivo": "Hablar de humor, chistes y juegos de palabras.",
+      "intro": "El humor brasileño usa mucho juego de palabras y autoironía. Truco: «piada» es chiste; «trocadilho» juega con dos sentidos; «tirada» es una respuesta ingeniosa.",
+      "palabras": [
+        {
+          "t": "piada",
+          "es": "chiste",
+          "pron": "piáda",
+          "ej": "Ele contou uma piada ótima.",
+          "ejes": "Él contó un chiste buenísimo.",
+          "cog": false
+        },
+        {
+          "t": "trocadilho",
+          "es": "juego de palabras",
+          "pron": "trokadílyu",
+          "ej": "Gosto de fazer trocadilho com nomes.",
+          "ejes": "Me gusta hacer juegos de palabras con nombres.",
+          "cog": false
+        },
+        {
+          "t": "tirada",
+          "es": "salida ingeniosa",
+          "pron": "tyiráda",
+          "ej": "Foi uma tirada genial.",
+          "ejes": "Fue una salida genial.",
+          "cog": false
+        },
+        {
+          "t": "gozação",
+          "es": "burla amistosa",
+          "pron": "gozasáun",
+          "ej": "A gozação entre amigos é comum.",
+          "ejes": "La broma entre amigos es común.",
+          "cog": false
+        },
+        {
+          "t": "humor negro",
+          "es": "humor negro",
+          "pron": "umór négru",
+          "ej": "Ela adora humor negro.",
+          "ejes": "Le encanta el humor negro.",
+          "cog": false
+        },
+        {
+          "t": "pegadinha",
+          "es": "broma / cámara oculta",
+          "pron": "pegadíña",
+          "ej": "Caí numa pegadinha da televisão.",
+          "ejes": "Caí en una cámara oculta de la tele.",
+          "cog": false
+        },
+        {
+          "t": "piada sem graça",
+          "es": "chiste sin gracia",
+          "pron": "piáda séin grása",
+          "ej": "Foi uma piada sem graça.",
+          "ejes": "Fue un chiste sin gracia.",
+          "cog": false
+        },
+        {
+          "t": "fazer graça",
+          "es": "hacerse el gracioso",
+          "pron": "fazér grása",
+          "ej": "Pare de fazer graça na reunião.",
+          "ejes": "Deja de hacerte el gracioso en la reunión.",
+          "cog": false
+        },
+        {
+          "t": "levar na esportiva",
+          "es": "tomarlo con deportividad",
+          "pron": "levár na esportíva",
+          "ej": "Ele soube levar na esportiva.",
+          "ejes": "Él supo tomarlo con deportividad.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Ele sempre tem uma tirada pronta para tudo.",
+          "es": "Siempre tiene una salida ingeniosa para todo.",
+          "pron": "éli sémpri téin úma tyiráda prónta pára túdu"
+        },
+        {
+          "t": "Foi uma piada sem graça, ninguém riu.",
+          "es": "Fue un chiste sin gracia, nadie se rio.",
+          "pron": "fói úma piáda séin grása, ningéin rriu"
+        },
+        {
+          "t": "Ele caiu numa pegadinha e soube levar na esportiva.",
+          "es": "Cayó en una cámara oculta y supo tomarlo con deportividad.",
+          "pron": "éli kaiú numa pegadíña i sóbi levár na esportíva"
+        },
+        {
+          "t": "Adoro um trocadilho bem feito.",
+          "es": "Adoro un juego de palabras bien hecho.",
+          "pron": "adóru un trokadílyu béin féitu"
+        },
+        {
+          "t": "A gozação entre amigos faz parte da cultura.",
+          "es": "La burla amistosa entre amigos forma parte de la cultura.",
+          "pron": "a gozasáun éntri amígus fás pártyi da kuwtúra"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Um jantar entre amigos",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Você viu a pegadinha que fizeram com o Marcos?",
+            "es": "¿Viste la broma que le hicieron a Marcos?"
+          },
+          {
+            "q": "B",
+            "t": "Vi. Ele soube levar na esportiva, o que é raro.",
+            "es": "Sí. Supo tomarlo con deportividad, que es raro."
+          },
+          {
+            "q": "A",
+            "t": "Fez até uma tirada genial no final, lembra?",
+            "es": "Hasta hizo una salida genial al final, ¿recuerdas?"
+          },
+          {
+            "q": "B",
+            "t": "Lembro. Só a piada do chefe foi sem graça. Gozação tem limite.",
+            "es": "Sí. Solo el chiste del jefe no tuvo gracia. La burla tiene límite."
+          },
+          {
+            "q": "A",
+            "t": "Concordo. Humor negro, só com quem tem estômago para isso.",
+            "es": "De acuerdo. El humor negro, solo con quien tiene estómago para eso."
+          }
+        ]
+      },
+      "nota": "«Levar na esportiva» es aceptar una broma sin ofenderse; es una virtud muy valorada en Brasil. «Pegadinha» también es el nombre de programas de cámara oculta."
+    },
+    {
+      "id": "pt-c1-u5-l3",
+      "n": 3,
+      "titulo": "Expresiones figuradas",
+      "objetivo": "Usar expresiones idiomáticas frecuentes con significado figurado.",
+      "intro": "Las expresiones figuradas no se traducen literalmente. Truco: «pagar o pato» no tiene que ver con patos: es cargar con la culpa ajena.",
+      "palabras": [
+        {
+          "t": "pagar o pato",
+          "es": "pagar el pato",
+          "pron": "pagár u pátu",
+          "ej": "Não quero pagar o pato por erro alheio.",
+          "ejes": "No quiero pagar el pato por un error ajeno.",
+          "cog": false
+        },
+        {
+          "t": "engolir sapo",
+          "es": "tragar sapos / aguantarse",
+          "pron": "engolír sápu",
+          "ej": "Às vezes é preciso engolir sapo no trabalho.",
+          "ejes": "A veces hay que tragar sapos en el trabajo.",
+          "cog": false
+        },
+        {
+          "t": "dar o braço a torcer",
+          "es": "dar el brazo a torcer",
+          "pron": "dár u brásu a torsér",
+          "ej": "Ele nunca vai dar o braço a torcer.",
+          "ejes": "Él nunca va a dar su brazo a torcer.",
+          "cog": false
+        },
+        {
+          "t": "ficar em cima do muro",
+          "es": "quedarse en el medio / no tomar partido",
+          "pron": "fikár ein sima du múru",
+          "ej": "Não dá para ficar em cima do muro.",
+          "ejes": "No se puede no tomar partido.",
+          "cog": false
+        },
+        {
+          "t": "abrir o jogo",
+          "es": "hablar claro",
+          "pron": "abrír u yógu",
+          "ej": "Vou abrir o jogo com vocês.",
+          "ejes": "Voy a hablar claro con ustedes.",
+          "cog": false
+        },
+        {
+          "t": "dar com a língua nos dentes",
+          "es": "irse de la lengua",
+          "pron": "dár kon a língua nus déntyis",
+          "ej": "Ele vai dar com a língua nos dentes.",
+          "ejes": "Él se va a ir de la lengua.",
+          "cog": false
+        },
+        {
+          "t": "pisar na bola",
+          "es": "meter la pata",
+          "pron": "pizár na bóla",
+          "ej": "Não quero pisar na bola de novo.",
+          "ejes": "No quiero meter la pata otra vez.",
+          "cog": false
+        },
+        {
+          "t": "bater na mesma tecla",
+          "es": "insistir con lo mismo",
+          "pron": "batér na mésma tékla",
+          "ej": "Você só sabe bater na mesma tecla.",
+          "ejes": "Solo sabes insistir con lo mismo.",
+          "cog": false
+        },
+        {
+          "t": "sair pela culatra",
+          "es": "salir el tiro por la culata",
+          "pron": "saír péla kulátra",
+          "ej": "O plano pode sair pela culatra.",
+          "ejes": "El plan puede salir mal.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Não quero pagar o pato pelo erro da equipe.",
+          "es": "No quiero pagar el pato por el error del equipo.",
+          "pron": "náun kéru pagár u pátu pélu érru da ekípi"
+        },
+        {
+          "t": "Ele nunca dá o braço a torcer, nem quando erra.",
+          "es": "Él nunca da su brazo a torcer, ni cuando se equivoca.",
+          "pron": "éli núnka dá u brásu a torsér, néin kuándu érra"
+        },
+        {
+          "t": "Vou abrir o jogo: o projeto está atrasado.",
+          "es": "Voy a hablar claro: el proyecto está atrasado.",
+          "pron": "vóu abrír u yógu: u proyétu está atrazádu"
+        },
+        {
+          "t": "Cuidado para não dar com a língua nos dentes.",
+          "es": "Cuidado para no irte de la lengua.",
+          "pron": "kuidádu pára náun dár kon a língua nus déntyis"
+        },
+        {
+          "t": "Fiquei em cima do muro para evitar confusão.",
+          "es": "Me quedé sin tomar partido para evitar problemas.",
+          "pron": "fikéi ein sima du múru pára evitár konfuzáun"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Um mal-estar no escritório",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Não vou pagar o pato pelo erro do departamento inteiro.",
+            "es": "No voy a pagar el pato por el error de todo el departamento."
+          },
+          {
+            "q": "B",
+            "t": "Calma. Vou abrir o jogo com a diretoria e explicar tudo.",
+            "es": "Calma. Voy a hablar claro con la dirección y explicar todo."
+          },
+          {
+            "q": "A",
+            "t": "Cuidado para não dar com a língua nos dentes sobre os nomes.",
+            "es": "Cuidado para no irte de la lengua con los nombres."
+          },
+          {
+            "q": "B",
+            "t": "Ficar em cima do muro não funciona. Tenho que escolher um lado.",
+            "es": "No tomar partido no funciona. Tengo que elegir un lado."
+          },
+          {
+            "q": "A",
+            "t": "Pois é, não dá para engolir sapo para sempre.",
+            "es": "Pues sí, no se puede tragar sapos para siempre."
+          }
+        ]
+      },
+      "nota": "Muchas de estas expresiones tienen equivalentes en español pero con imágenes distintas: «pisar na bola» es «meter la pata»; «dar o braço a torcer» coincide con el español."
+    },
+    {
+      "id": "pt-c1-u5-l4",
+      "n": 4,
+      "titulo": "Metáforas de uso cotidiano",
+      "objetivo": "Reconocer y usar metáforas que se oyen en la prensa y en el trabajo.",
+      "intro": "Las metáforas hacen más vivo el discurso. Truco: aprende «faca de dois gumes» (arma de doble filo) y «ponta do iceberg» (la punta del iceberg).",
+      "palabras": [
+        {
+          "t": "mar de rosas",
+          "es": "un lecho de rosas",
+          "pron": "már dyi rrózas",
+          "ej": "A vida não é um mar de rosas.",
+          "ejes": "La vida no es un lecho de rosas.",
+          "cog": false
+        },
+        {
+          "t": "faca de dois gumes",
+          "es": "arma de doble filo",
+          "pron": "fáka dyi dóis gúmis",
+          "ej": "Essa decisão é uma faca de dois gumes.",
+          "ejes": "Esa decisión es un arma de doble filo.",
+          "cog": false
+        },
+        {
+          "t": "ponta do iceberg",
+          "es": "punta del iceberg",
+          "pron": "pónta du áisberg",
+          "ej": "Isso é só a ponta do iceberg.",
+          "ejes": "Eso es solo la punta del iceberg.",
+          "cog": false
+        },
+        {
+          "t": "chover no molhado",
+          "es": "repetir lo ya sabido",
+          "pron": "shovér nu molyádu",
+          "ej": "Repetir isso é chover no molhado.",
+          "ejes": "Repetir eso es decir lo ya sabido.",
+          "cog": false
+        },
+        {
+          "t": "tapar o sol com a peneira",
+          "es": "tapar el sol con un dedo",
+          "pron": "tapár u sól kon a penéira",
+          "ej": "Negar o problema é tapar o sol com a peneira.",
+          "ejes": "Negar el problema es tapar el sol con un dedo.",
+          "cog": false
+        },
+        {
+          "t": "elefante na sala",
+          "es": "elefante en la sala",
+          "pron": "elefántyi na sála",
+          "ej": "Ninguém quer falar do elefante na sala.",
+          "ejes": "Nadie quiere hablar del elefante en la sala.",
+          "cog": false
+        },
+        {
+          "t": "efeito dominó",
+          "es": "efecto dominó",
+          "pron": "efeitu dominó",
+          "ej": "A crise teve um efeito dominó.",
+          "ejes": "La crisis tuvo un efecto dominó.",
+          "cog": false
+        },
+        {
+          "t": "divisor de águas",
+          "es": "punto de inflexión",
+          "pron": "dyivizór dyi águas",
+          "ej": "Foi um divisor de águas na carreira.",
+          "ejes": "Fue un punto de inflexión en la carrera.",
+          "cog": false
+        },
+        {
+          "t": "batata quente",
+          "es": "papa caliente",
+          "pron": "batáta kéntyi",
+          "ej": "Essa questão é uma batata quente.",
+          "ejes": "Esa cuestión es una papa caliente.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "A vida de empreendedor não é um mar de rosas.",
+          "es": "La vida de emprendedor no es un lecho de rosas.",
+          "pron": "a vída dyi empreendedór náun é un már dyi rrózas"
+        },
+        {
+          "t": "Esse corte de custos é uma faca de dois gumes.",
+          "es": "Ese recorte de costos es un arma de doble filo.",
+          "pron": "ési kórtyi dyi kústus é úma fáka dyi dóis gúmis"
+        },
+        {
+          "t": "O que vimos é só a ponta do iceberg.",
+          "es": "Lo que vimos es solo la punta del iceberg.",
+          "pron": "u ki vímus é só a pónta du áisberg"
+        },
+        {
+          "t": "Negar a crise é tapar o sol com a peneira.",
+          "es": "Negar la crisis es tapar el sol con un dedo.",
+          "pron": "negár a krízi é tapár u sól kon a penéira"
+        },
+        {
+          "t": "A decisão foi um divisor de águas para a empresa.",
+          "es": "La decisión fue un punto de inflexión para la empresa.",
+          "pron": "a dyisisáun fói un dyivizór dyi águas pára a empréza"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Análise de uma crise",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Essa crise é só a ponta do iceberg, na minha opinião.",
+            "es": "Esta crisis es solo la punta del iceberg, en mi opinión."
+          },
+          {
+            "q": "B",
+            "t": "Tem razão. E o corte de pessoal pode ser uma faca de dois gumes.",
+            "es": "Tienes razón. Y el recorte de personal puede ser un arma de doble filo."
+          },
+          {
+            "q": "A",
+            "t": "Ninguém quer falar do elefante na sala: a perda do cliente principal.",
+            "es": "Nadie quiere hablar del elefante en la sala: la pérdida del cliente principal."
+          },
+          {
+            "q": "B",
+            "t": "Negar isso seria tapar o sol com a peneira.",
+            "es": "Negar eso sería tapar el sol con un dedo."
+          },
+          {
+            "q": "A",
+            "t": "Pois é. Foi um divisor de águas, e o efeito dominó já começou.",
+            "es": "Pues sí. Fue un punto de inflexión, y el efecto dominó ya comenzó."
+          }
+        ]
+      },
+      "nota": "«Elefante na sala» y «efeito dominó» son préstamos conceptuales muy usados en la prensa económica brasileña, igual que en español."
+    },
+    {
+      "id": "pt-c1-u5-l5",
+      "n": 5,
+      "titulo": "Repaso: diminutivos y aumentativos",
+      "objetivo": "Usar diminutivos y aumentativos con matiz en una conversación.",
+      "intro": "Los diminutivos y aumentativos dan color a la conversación. Truco: -zinho para suavizar o dar cariño; -ão para exagerar, admirar o burlarse.",
+      "palabras": [
+        {
+          "t": "cafezinho",
+          "es": "cafecito",
+          "pron": "kafezíñu",
+          "ej": "Aceita um cafezinho?",
+          "ejes": "¿Aceptas un cafecito?",
+          "cog": false
+        },
+        {
+          "t": "problemão",
+          "es": "problemón",
+          "pron": "problemáun",
+          "ej": "Esse atraso virou um problemão.",
+          "ejes": "Ese retraso se volvió un problemón.",
+          "cog": false
+        },
+        {
+          "t": "casarão",
+          "es": "casona",
+          "pron": "kazarráun",
+          "ej": "Moram num casarão antigo.",
+          "ejes": "Viven en una casona antigua.",
+          "cog": false
+        },
+        {
+          "t": "bonitão",
+          "es": "guapetón (irónico)",
+          "pron": "bonitáun",
+          "ej": "Ele se acha bonitão.",
+          "ejes": "Se cree guapetón.",
+          "cog": false
+        },
+        {
+          "t": "probleminha",
+          "es": "problemita",
+          "pron": "problemíña",
+          "ej": "Surgiu um probleminha no sistema.",
+          "ejes": "Surgió un problemita en el sistema.",
+          "cog": false
+        },
+        {
+          "t": "festão",
+          "es": "fiestón",
+          "pron": "festáun",
+          "ej": "Foi um festão de aniversário.",
+          "ejes": "Fue un fiestón de cumpleaños.",
+          "cog": false
+        },
+        {
+          "t": "coisinha",
+          "es": "cosita",
+          "pron": "koizíña",
+          "ej": "Só uma coisinha: pode assinar aqui?",
+          "ejes": "Solo una cosita: ¿puede firmar aquí?",
+          "cog": false
+        },
+        {
+          "t": "pouquinho",
+          "es": "poquito",
+          "pron": "poukíñu",
+          "ej": "Falta só um pouquinho.",
+          "ejes": "Falta solo un poquito.",
+          "cog": false
+        },
+        {
+          "t": "bonzinho",
+          "es": "buenazo (a veces irónico)",
+          "pron": "bonzíñu",
+          "ej": "Ele é bonzinho demais.",
+          "ejes": "Es demasiado buenazo.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Aceita um cafezinho antes da reunião?",
+          "es": "¿Aceptas un cafecito antes de la reunión?",
+          "pron": "aséita un kafezíñu ántyis da reuniáun"
+        },
+        {
+          "t": "Surgiu um probleminha, mas virou um problemão.",
+          "es": "Surgió un problemita, pero se volvió un problemón.",
+          "pron": "surgíu un probleminha, máis viróu un problemáun"
+        },
+        {
+          "t": "Só uma coisinha: pode assinar aqui?",
+          "es": "Solo una cosita: ¿puede firmar aquí?",
+          "pron": "só úma koizíña: pódyi asinár akí"
+        },
+        {
+          "t": "Moram num casarão antigo no centro.",
+          "es": "Viven en una casona antigua en el centro.",
+          "pron": "móram num kazarráun antíguu nu séntru"
+        },
+        {
+          "t": "Ele se acha bonitão, mas é bonzinho demais.",
+          "es": "Se cree guapetón, pero es demasiado buenazo.",
+          "pron": "éli si ásha bonitáun, máis é bonzíñu demáis"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Uma visita ao escritório",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Aceita um cafezinho antes de começarmos?",
+            "es": "¿Aceptas un cafecito antes de empezar?"
+          },
+          {
+            "q": "B",
+            "t": "Aceito, só um pouquinho. Surgiu algum probleminha hoje?",
+            "es": "Acepto, solo un poquito. ¿Surgió algún problemita hoy?"
+          },
+          {
+            "q": "A",
+            "t": "Surgiu, sim, e virou um problemão. O servidor caiu.",
+            "es": "Sí, y se volvió un problemón. Se cayó el servidor."
+          },
+          {
+            "q": "B",
+            "t": "Que ótimo... mais um problemão. Só uma coisinha: já avisaram o diretor?",
+            "es": "Qué bien... otro problemón. Solo una cosita: ¿ya avisaron al director?"
+          },
+          {
+            "q": "A",
+            "t": "Já. Ele disse que está de ótimo humor. Ironia, claro.",
+            "es": "Sí. Dijo que está de excelente humor. Ironía, claro."
+          }
+        ]
+      },
+      "nota": "«Bonzinho» y «bonitão» pueden ser elogio o burla; el tono manda. Los aumentativos en -ão son masculinos incluso si la palabra base es femenina (a casa, o casarão)."
+    }
+  ]
+}

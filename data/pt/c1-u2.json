@@ -1,0 +1,743 @@
+{
+  "id": "pt-c1-u2",
+  "idioma": "pt",
+  "nivel": "C1",
+  "n": 2,
+  "titulo": "Estructuras enfáticas",
+  "resumen": "Aprenderás las estructuras hendidas del portugués («foi... que», «o que eu preciso é», «como é que») para dar énfasis a una parte de la frase.",
+  "puedo": [
+    "Destacar quién hizo algo: «Fui eu que decidi».",
+    "Destacar cuándo o dónde: «Foi ontem que...», «É aqui que...».",
+    "Destacar lo que necesito: «O que eu preciso é de silêncio».",
+    "Dar fuerza a preguntas: «Como é que você fez isso?».",
+    "Introducir explicaciones con «o fato é que», «acontece que»."
+  ],
+  "gramatica": {
+    "titulo": "Estructuras hendidas: foi... que / é... que / o que... é",
+    "texto": "Para destacar una parte de la frase se «parte» en dos con el verbo ser: ser + elemento destacado + que + resto.\nFui eu que decidi (Yo fui quien decidió). Foi ontem que ela ligou (Fue ayer cuando llamó). É aqui que eu moro.\nOtra forma: o que + frase + é + elemento. O que eu preciso é de silêncio (Lo que necesito es silencio).\nCon personas también: Quem resolveu foi a Ana.\nEn preguntas, «é que» refuerza: Como é que você fez isso?\nReglas: el «ser» va en el mismo tiempo que el verbo principal (Foi ontem que ligou; É hoje que decide). Si el destacado es una persona gramatical, el verbo concuerda con ella: Fui eu que fiz; Fomos nós que decidimos.\nTruco: después del elemento destacado, siempre aparece «que». No uses «quando» ni «donde» (como en español).",
+    "tabla": [
+      [
+        "Fui eu que decidi isso.",
+        "Fui yo quien decidió esto.",
+        "fúi éu ki desidí ísu"
+      ],
+      [
+        "Foi ontem que a Maria ligou.",
+        "Fue ayer cuando María llamó.",
+        "fói óntein ki a maría ligóu"
+      ],
+      [
+        "O que eu preciso é de silêncio.",
+        "Lo que necesito es silencio.",
+        "u ki éu presísu é dyi silénsiu"
+      ],
+      [
+        "Quem resolveu o caso foi a Ana.",
+        "Quien resolvió el caso fue Ana.",
+        "kéin rezolvéu u kázu fói a ána"
+      ],
+      [
+        "É aqui que eu moro.",
+        "Es aquí donde vivo.",
+        "é akí ki éu móru"
+      ],
+      [
+        "Como é que você fez isso?",
+        "¿Cómo es que hiciste eso?",
+        "kómu é ki vosé féz ísu"
+      ]
+    ],
+    "errores": [
+      "No uses «quando» ni «donde» tras el destacado: no se dice «Foi ontem quando ligou», sino «Foi ontem que ligou».",
+      "Mantén la preposición del verbo: «O que eu preciso é de silêncio» (precisar de), no «é silêncio». Igual: «O que eu gosto é de café».",
+      "Haz concordar el verbo con la persona destacada: «Fui eu que fiz», no «Fui eu que fez» (aunque en la lengua oral informal se oye)."
+    ]
+  },
+  "practica": [
+    "Lee 10 minutos de crónicas en un periódico brasileño y subraya 5 frases con «foi... que» o «o que... é» (10 minutos).",
+    "Reescribe 8 frases neutras con tres estructuras enfáticas distintas cada una (8 minutos).",
+    "Escucha un episodio corto de un podcast de entrevistas y anota 5 preguntas con «é que» (10 minutos).",
+    "Graba un audio de 60 segundos explicando qué necesitas de tu trabajo con «o que eu preciso é...» (7 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-c1-u2-l1",
+      "n": 1,
+      "titulo": "Foi... que: atribuir causas",
+      "objetivo": "Señalar quién o qué causó algo con la estructura «foi... que».",
+      "intro": "Cuando quieres señalar al responsable o la causa, usa «foi + causa + que». Truco: «foi» + elemento + «que» y listo; el elemento puede ser persona, causa, tiempo o lugar.",
+      "palabras": [
+        {
+          "t": "atribuir",
+          "es": "atribuir",
+          "pron": "atribuír",
+          "ej": "Muitos vão atribuir o sucesso à sorte.",
+          "ejes": "Muchos van a atribuir el éxito a la suerte.",
+          "cog": true
+        },
+        {
+          "t": "desencadear",
+          "es": "desencadenar",
+          "pron": "dezenkadeár",
+          "ej": "Um pequeno erro pode desencadear uma crise.",
+          "ejes": "Un pequeño error puede desencadenar una crisis.",
+          "cog": true
+        },
+        {
+          "t": "ocasionar",
+          "es": "ocasionar",
+          "pron": "okazionár",
+          "ej": "O atraso chegou a ocasionar prejuízos.",
+          "ejes": "El retraso llegó a ocasionar pérdidas.",
+          "cog": true
+        },
+        {
+          "t": "responsabilizar",
+          "es": "hacer responsable",
+          "pron": "rrespunsabilizár",
+          "ej": "Não quero responsabilizar ninguém.",
+          "ejes": "No quiero hacer responsable a nadie.",
+          "cog": false
+        },
+        {
+          "t": "estopim",
+          "es": "detonante",
+          "pron": "estopím",
+          "ej": "O estopim da greve foi a demissão.",
+          "ejes": "El detonante de la huelga fue el despido.",
+          "cog": false
+        },
+        {
+          "t": "mérito",
+          "es": "mérito",
+          "pron": "méritu",
+          "ej": "O mérito é de toda a equipe.",
+          "ejes": "El mérito es de todo el equipo.",
+          "cog": true
+        },
+        {
+          "t": "culpa",
+          "es": "culpa",
+          "pron": "kúwpa",
+          "ej": "A culpa não foi minha.",
+          "ejes": "La culpa no fue mía.",
+          "cog": true
+        },
+        {
+          "t": "falha",
+          "es": "falla",
+          "pron": "fála",
+          "ej": "Houve uma falha no sistema.",
+          "ejes": "Hubo una falla en el sistema.",
+          "cog": false
+        },
+        {
+          "t": "sobrecarga",
+          "es": "sobrecarga",
+          "pron": "sobrekárga",
+          "ej": "A sobrecarga de trabalho afetou todos.",
+          "ejes": "La sobrecarga de trabajo afectó a todos.",
+          "cog": true
+        }
+      ],
+      "frases": [
+        {
+          "t": "Foi ontem que o sistema caiu.",
+          "es": "Fue ayer cuando se cayó el sistema.",
+          "pron": "fói óntein ki u sistéma kaiú"
+        },
+        {
+          "t": "Foi a falta de planejamento que causou o atraso.",
+          "es": "Fue la falta de planificación lo que causó el retraso.",
+          "pron": "fói a fáwta dyi planeyaméntu ki kauzóu u atrázu"
+        },
+        {
+          "t": "Fui eu que enviei o relatório.",
+          "es": "Fui yo quien envió el informe.",
+          "pron": "fúi éu ki enviéi u relatóriu"
+        },
+        {
+          "t": "Foi por isso que decidi sair.",
+          "es": "Fue por eso que decidí irme.",
+          "pron": "fói por ísu ki desidí saír"
+        },
+        {
+          "t": "Foram os clientes que reclamaram primeiro.",
+          "es": "Fueron los clientes los que reclamaron primero.",
+          "pron": "fóram us klyéntyis ki reklamáram priméiru"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Investigando um problema",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Quem foi que mudou o cronograma sem avisar a equipe?",
+            "es": "¿Quién fue el que cambió el cronograma sin avisar al equipo?"
+          },
+          {
+            "q": "B",
+            "t": "Fui eu que mudei, mas foi a diretoria que pediu a alteração.",
+            "es": "Fui yo el que lo cambió, pero fue la dirección la que pidió la modificación."
+          },
+          {
+            "q": "A",
+            "t": "Então a culpa não foi sua. Foi a falta de comunicação que gerou a sobrecarga.",
+            "es": "Entonces la culpa no fue tuya. Fue la falta de comunicación la que generó la sobrecarga."
+          },
+          {
+            "q": "B",
+            "t": "Exato. Não quero responsabilizar ninguém, mas foi aí que tudo começou.",
+            "es": "Exacto. No quiero hacer responsable a nadie, pero fue ahí donde todo empezó."
+          },
+          {
+            "q": "A",
+            "t": "Vamos registrar a falha e evitar que se repita.",
+            "es": "Registremos la falla y evitemos que se repita."
+          }
+        ]
+      },
+      "nota": "«Foi aí que» (fue ahí donde) y «foi por isso que» son muy frecuentes. Para personas también existe «quem»: «Quem fez isso foi o João»."
+    },
+    {
+      "id": "pt-c1-u2-l2",
+      "n": 2,
+      "titulo": "O que eu preciso é...",
+      "objetivo": "Destacar lo que se necesita o se espera con «o que... é».",
+      "intro": "Primero dices lo que quieres, después lo revelas. Truco: «O que + sujeto + verbo + é + [de/a/...] + elemento», y conserva la preposición del verbo.",
+      "palabras": [
+        {
+          "t": "imprescindível",
+          "es": "imprescindible",
+          "pron": "imprescindívew",
+          "ej": "Um bom planejamento é imprescindível.",
+          "ejes": "Una buena planificación es imprescindible.",
+          "cog": true
+        },
+        {
+          "t": "indispensável",
+          "es": "indispensable",
+          "pron": "indispensávew",
+          "ej": "Sua presença é indispensável hoje.",
+          "ejes": "Tu presencia es indispensable hoy.",
+          "cog": true
+        },
+        {
+          "t": "primordial",
+          "es": "primordial",
+          "pron": "primordiál",
+          "ej": "O que é primordial é ouvir o cliente.",
+          "ejes": "Lo primordial es escuchar al cliente.",
+          "cog": true
+        },
+        {
+          "t": "carecer de",
+          "es": "carecer de",
+          "pron": "karesér dyi",
+          "ej": "Esse projeto vai carecer de recursos.",
+          "ejes": "Este proyecto va a carecer de recursos.",
+          "cog": true
+        },
+        {
+          "t": "dispor de",
+          "es": "disponer de",
+          "pron": "dispór dyi",
+          "ej": "Não vamos dispor de tempo suficiente.",
+          "ejes": "No vamos a disponer de tiempo suficiente.",
+          "cog": true
+        },
+        {
+          "t": "exigir",
+          "es": "exigir",
+          "pron": "ezigír",
+          "ej": "Vou exigir uma explicação formal.",
+          "ejes": "Voy a exigir una explicación formal.",
+          "cog": true
+        },
+        {
+          "t": "reivindicar",
+          "es": "reivindicar",
+          "pron": "rreivindikár",
+          "ej": "Os funcionários vão reivindicar aumento.",
+          "ejes": "Los empleados van a reivindicar un aumento.",
+          "cog": true
+        },
+        {
+          "t": "almejar",
+          "es": "anhelar",
+          "pron": "awmeyár",
+          "ej": "Ela vai almejar uma promoção.",
+          "ejes": "Ella va a anhelar un ascenso.",
+          "cog": false
+        },
+        {
+          "t": "prioridade",
+          "es": "prioridad",
+          "pron": "prioridádyi",
+          "ej": "A prioridade agora é reduzir custos.",
+          "ejes": "La prioridad ahora es reducir costos.",
+          "cog": true
+        }
+      ],
+      "frases": [
+        {
+          "t": "O que eu preciso é de tempo.",
+          "es": "Lo que necesito es tiempo.",
+          "pron": "u ki éu presísu é dyi témpu"
+        },
+        {
+          "t": "O que mais me irrita é a falta de respeito.",
+          "es": "Lo que más me irrita es la falta de respeto.",
+          "pron": "u ki máis mi irríta é a fáwta dyi respéitu"
+        },
+        {
+          "t": "Quem decide isso é a diretoria.",
+          "es": "Quien decide eso es la dirección.",
+          "pron": "kéin desídyi ísu é a dyiretória"
+        },
+        {
+          "t": "Onde eu quero chegar é a um acordo.",
+          "es": "A donde quiero llegar es a un acuerdo.",
+          "pron": "ónde éu kéru shegár é a un akórdu"
+        },
+        {
+          "t": "O que falta é vontade política.",
+          "es": "Lo que falta es voluntad política.",
+          "pron": "u ki fáwta é vontádyi polítika"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Pedido ao gerente",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "O que eu almejo é uma conversa franca sobre o meu futuro na empresa.",
+            "es": "Lo que anhelo es una conversación franca sobre mi futuro en la empresa."
+          },
+          {
+            "q": "B",
+            "t": "Claro. O que você quer exatamente: promoção ou mais autonomia?",
+            "es": "Claro. ¿Qué quieres exactamente: ascenso o más autonomía?"
+          },
+          {
+            "q": "A",
+            "t": "O que eu preciso é de mais autonomia. Hoje carecemos de poder de decisão.",
+            "es": "Lo que necesito es más autonomía. Hoy carecemos de poder de decisión."
+          },
+          {
+            "q": "B",
+            "t": "Entendo. Vou exigir da diretoria uma resposta ainda esta semana.",
+            "es": "Entiendo. Voy a exigirle a la dirección una respuesta esta misma semana."
+          },
+          {
+            "q": "A",
+            "t": "O que é primordial para mim é ter prazos claros.",
+            "es": "Lo primordial para mí es tener plazos claros."
+          }
+        ]
+      },
+      "nota": "Con verbos de preposición se mantiene: «O que eu preciso é de...», «O que eu gosto é de...», «O que eu confio é em...»."
+    },
+    {
+      "id": "pt-c1-u2-l3",
+      "n": 3,
+      "titulo": "Como é que... e outras explicações",
+      "objetivo": "Reforzar preguntas y justificar con «é que», «o fato é que», «acontece que».",
+      "intro": "«É que» da énfasis a las preguntas y sirve de excusa. Truco: «Como é que...?» = «¿Cómo es que...?»; «É que...» = «Es que...».",
+      "palabras": [
+        {
+          "t": "justificativa",
+          "es": "justificación",
+          "pron": "yustifikatíva",
+          "ej": "A justificativa dele foi pouco convincente.",
+          "ejes": "Su justificación fue poco convincente.",
+          "cog": true
+        },
+        {
+          "t": "pretexto",
+          "es": "pretexto",
+          "pron": "pretéstu",
+          "ej": "Usou o trânsito como pretexto.",
+          "ejes": "Usó el tráfico como pretexto.",
+          "cog": true
+        },
+        {
+          "t": "alegar",
+          "es": "alegar",
+          "pron": "alegár",
+          "ej": "Ele vai alegar falta de tempo.",
+          "ejes": "Él va a alegar falta de tiempo.",
+          "cog": true
+        },
+        {
+          "t": "desculpa esfarrapada",
+          "es": "excusa barata",
+          "pron": "dyiskúwpa esfarrapáda",
+          "ej": "Isso é uma desculpa esfarrapada.",
+          "ejes": "Eso es una excusa barata.",
+          "cog": false
+        },
+        {
+          "t": "o fato é que",
+          "es": "el hecho es que",
+          "pron": "u fátu é ki",
+          "ej": "O fato é que ninguém avisou.",
+          "ejes": "El hecho es que nadie avisó.",
+          "cog": false
+        },
+        {
+          "t": "acontece que",
+          "es": "sucede que",
+          "pron": "akontésyi ki",
+          "ej": "Acontece que o contrato já foi assinado.",
+          "ejes": "Sucede que el contrato ya fue firmado.",
+          "cog": false
+        },
+        {
+          "t": "ocorre que",
+          "es": "ocurre que",
+          "pron": "okórri ki",
+          "ej": "Ocorre que não houve consulta prévia.",
+          "ejes": "Ocurre que no hubo consulta previa.",
+          "cog": false
+        },
+        {
+          "t": "o problema é que",
+          "es": "el problema es que",
+          "pron": "u problema é ki",
+          "ej": "O problema é que o prazo acabou.",
+          "ejes": "El problema es que el plazo terminó.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Como é que você conseguiu isso tão rápido?",
+          "es": "¿Cómo es que conseguiste eso tan rápido?",
+          "pron": "kómu é ki vosé konsegíu ísu táun rápidu"
+        },
+        {
+          "t": "Por que é que ninguém me avisou?",
+          "es": "¿Por qué es que nadie me avisó?",
+          "pron": "por ké é ki ningéin mi avisóu"
+        },
+        {
+          "t": "É que eu não tive tempo de responder.",
+          "es": "Es que no tuve tiempo de responder.",
+          "pron": "é ki éu náun tívi témpu dyi respondér"
+        },
+        {
+          "t": "O problema é que o orçamento já acabou.",
+          "es": "El problema es que el presupuesto ya se acabó.",
+          "pron": "u problema é ki u orsaméntu yá akabóu"
+        },
+        {
+          "t": "Acontece que o cliente mudou de ideia.",
+          "es": "Sucede que el cliente cambió de idea.",
+          "pron": "akontési ki u klyéntyi mudóu dyi idéia"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Uma explicação",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Por que é que o relatório não chegou ontem?",
+            "es": "¿Por qué es que el informe no llegó ayer?"
+          },
+          {
+            "q": "B",
+            "t": "É que o sistema ficou fora do ar a tarde toda.",
+            "es": "Es que el sistema estuvo caído toda la tarde."
+          },
+          {
+            "q": "A",
+            "t": "Isso me parece uma justificativa frágil. O fato é que o prazo era claro.",
+            "es": "Eso me parece una justificación frágil. El hecho es que el plazo era claro."
+          },
+          {
+            "q": "B",
+            "t": "Concordo. Acontece que ninguém da equipe conseguiu acessar os dados.",
+            "es": "De acuerdo. Sucede que nadie del equipo pudo acceder a los datos."
+          },
+          {
+            "q": "A",
+            "t": "Então como é que vamos resolver isso agora?",
+            "es": "Entonces, ¿cómo es que vamos a resolver esto ahora?"
+          }
+        ]
+      },
+      "nota": "«É que» a inicio de frase introduce una excusa suave («É que...»). «O fato é que» y «o problema é que» son estructuras muy productivas en reuniones."
+    },
+    {
+      "id": "pt-c1-u2-l4",
+      "n": 4,
+      "titulo": "Foi com... que: lugar, tiempo y modo",
+      "objetivo": "Destacar circunstancias (modo, tiempo, motivo) con «foi... que».",
+      "intro": "Puedes destacar cómo, cuándo o por qué pasó algo. Truco: la preposición forma parte del elemento destacado: «Foi sem querer que...», «Foi com ele que...».",
+      "palabras": [
+        {
+          "t": "de propósito",
+          "es": "a propósito / adrede",
+          "pron": "dyi propósitu",
+          "ej": "Ele não respondeu de propósito.",
+          "ejes": "Él no respondió adrede.",
+          "cog": false
+        },
+        {
+          "t": "sem querer",
+          "es": "sin querer",
+          "pron": "sein kéra",
+          "ej": "Derrubei o café sem querer.",
+          "ejes": "Derramé el café sin querer.",
+          "cog": false
+        },
+        {
+          "t": "por acaso",
+          "es": "por casualidad",
+          "pron": "por akázu",
+          "ej": "Encontrei a chave por acaso.",
+          "ejes": "Encontré la llave por casualidad.",
+          "cog": false
+        },
+        {
+          "t": "de antemão",
+          "es": "de antemano",
+          "pron": "dyi antemáun",
+          "ej": "Agradeço de antemão sua ajuda.",
+          "ejes": "Agradezco de antemano tu ayuda.",
+          "cog": false
+        },
+        {
+          "t": "às pressas",
+          "es": "apresuradamente",
+          "pron": "as présas",
+          "ej": "Redigi o texto às pressas.",
+          "ejes": "Redacté el texto apresuradamente.",
+          "cog": false
+        },
+        {
+          "t": "a contragosto",
+          "es": "a regañadientes",
+          "pron": "a kontragóstu",
+          "ej": "Aceitei a proposta a contragosto.",
+          "ejes": "Acepté la propuesta a regañadientes.",
+          "cog": false
+        },
+        {
+          "t": "de bom grado",
+          "es": "de buen grado",
+          "pron": "dyi bón grádu",
+          "ej": "Ajudo de bom grado.",
+          "ejes": "Ayudo de buen grado.",
+          "cog": false
+        },
+        {
+          "t": "à força",
+          "es": "por la fuerza",
+          "pron": "a fórsa",
+          "ej": "Ninguém deve ser obrigado à força.",
+          "ejes": "Nadie debe ser obligado por la fuerza.",
+          "cog": false
+        },
+        {
+          "t": "à risca",
+          "es": "al pie de la letra",
+          "pron": "a rríska",
+          "ej": "Seguimos as instruções à risca.",
+          "ejes": "Seguimos las instrucciones al pie de la letra.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Foi por acaso que nos conhecemos.",
+          "es": "Fue por casualidad que nos conocimos.",
+          "pron": "fói por akázu ki nus konesémus"
+        },
+        {
+          "t": "Foi de propósito que ele não respondeu?",
+          "es": "¿Fue adrede que él no respondió?",
+          "pron": "fói dyi propósitu ki éli náun respondéu"
+        },
+        {
+          "t": "Foi às pressas que redigi o texto.",
+          "es": "Fue apresuradamente que redacté el texto.",
+          "pron": "fói as présas ki redyiyí u téstu"
+        },
+        {
+          "t": "Foi a contragosto que ele aceitou.",
+          "es": "Fue a regañadientes que él aceptó.",
+          "pron": "fói a kontragóstu ki éli aseitóu"
+        },
+        {
+          "t": "Foi com a Ana que eu falei ontem.",
+          "es": "Fue con Ana con quien hablé ayer.",
+          "pron": "fói kon a ána ki éu faléi óntein"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Um mal-entendido",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Foi sem querer que eu apaguei o arquivo, juro.",
+            "es": "Fue sin querer que borré el archivo, lo juro."
+          },
+          {
+            "q": "B",
+            "t": "Foi mesmo sem querer ou foi de propósito?",
+            "es": "¿Fue de verdad sin querer o fue adrede?"
+          },
+          {
+            "q": "A",
+            "t": "Foi sem querer. Eu trabalhava às pressas, porque o prazo apertava.",
+            "es": "Fue sin querer. Trabajaba apresuradamente, porque el plazo apretaba."
+          },
+          {
+            "q": "B",
+            "t": "Entendo. Mas agradeço de antemão se avisar quando algo assim ocorrer.",
+            "es": "Entiendo. Pero te agradezco de antemano que avises cuando algo así ocurra."
+          },
+          {
+            "q": "A",
+            "t": "De bom grado. Daqui em diante sigo o procedimento à risca.",
+            "es": "Con gusto. De ahora en adelante sigo el procedimiento al pie de la letra."
+          }
+        ]
+      },
+      "nota": "Estas locuciones adverbiales (sem querer, de propósito, à risca) son muy naturales al hablar y quedan bien en el lugar del elemento destacado."
+    },
+    {
+      "id": "pt-c1-u2-l5",
+      "n": 5,
+      "titulo": "Repaso: lo esencial es...",
+      "objetivo": "Combinar las estructuras enfáticas en un discurso corto.",
+      "intro": "Repasa todas las estructuras con locuciones nuevas. Truco: «Não é à toa que» = «no es casualidad que»; «é por isso que» = «por eso es que».",
+      "palabras": [
+        {
+          "t": "cabe a",
+          "es": "corresponde a",
+          "pron": "kábi a",
+          "ej": "Cabe a você decidir.",
+          "ejes": "Te corresponde a ti decidir.",
+          "cog": false
+        },
+        {
+          "t": "dizer respeito a",
+          "es": "concernir a",
+          "pron": "dyizér rrespéitu a",
+          "ej": "Isso não deve dizer respeito a ninguém.",
+          "ejes": "Eso no debería concernir a nadie.",
+          "cog": false
+        },
+        {
+          "t": "tratar-se de",
+          "es": "tratarse de",
+          "pron": "tratárse dyi",
+          "ej": "Vai tratar-se de uma exceção.",
+          "ejes": "Se va a tratar de una excepción.",
+          "cog": false
+        },
+        {
+          "t": "o que importa é",
+          "es": "lo que importa es",
+          "pron": "u ki impórta é",
+          "ej": "O que importa é o resultado.",
+          "ejes": "Lo que importa es el resultado.",
+          "cog": false
+        },
+        {
+          "t": "quem diria",
+          "es": "quién diría",
+          "pron": "kéin dyiría",
+          "ej": "Quem diria que ele viria!",
+          "ejes": "¡Quién diría que vendría!",
+          "cog": false
+        },
+        {
+          "t": "não é à toa que",
+          "es": "no es casualidad que",
+          "pron": "náun é a tóa ki",
+          "ej": "Não é à toa que ela foi promovida.",
+          "ejes": "No es casualidad que la hayan ascendido.",
+          "cog": false
+        },
+        {
+          "t": "é por isso que",
+          "es": "por eso es que",
+          "pron": "é por ísu ki",
+          "ej": "É por isso que eu insisto.",
+          "ejes": "Por eso es que insisto.",
+          "cog": false
+        },
+        {
+          "t": "graças a",
+          "es": "gracias a",
+          "pron": "grásas a",
+          "ej": "Graças a ela, terminamos cedo.",
+          "ejes": "Gracias a ella, terminamos temprano.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Cabe a você decidir, mas o que importa é o resultado.",
+          "es": "A ti te corresponde decidir, pero lo que importa es el resultado.",
+          "pron": "kábi a vosé dyisidír, mas u ki impórta é u rezuwtádu"
+        },
+        {
+          "t": "Não é à toa que ela foi promovida.",
+          "es": "No es casualidad que la hayan ascendido.",
+          "pron": "náun é a tóa ki éla fói promovída"
+        },
+        {
+          "t": "Foi graças a ele que o projeto deu certo.",
+          "es": "Fue gracias a él que el proyecto salió bien.",
+          "pron": "fói grásas a éli ki u proyétu déu sértu"
+        },
+        {
+          "t": "É por isso que eu insisto nesse ponto.",
+          "es": "Por eso es que insisto en ese punto.",
+          "pron": "é por ísu ki éu insíste nési póntu"
+        },
+        {
+          "t": "Como é que isso pôde acontecer?",
+          "es": "¿Cómo es que esto pudo pasar?",
+          "pron": "kómu é ki ísu pódyi akontesér"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Uma conversa franca",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Quem diria que o projeto terminaria antes do prazo!",
+            "es": "¡Quién diría que el proyecto terminaría antes del plazo!"
+          },
+          {
+            "q": "B",
+            "t": "Foi graças à equipe que isso aconteceu. Não é à toa que ela é a melhor da empresa.",
+            "es": "Fue gracias al equipo que ocurrió. No es casualidad que sea la mejor de la empresa."
+          },
+          {
+            "q": "A",
+            "t": "Concordo. O que importa agora é manter o ritmo.",
+            "es": "De acuerdo. Lo que importa ahora es mantener el ritmo."
+          },
+          {
+            "q": "B",
+            "t": "Cabe a você apresentar os resultados ao conselho.",
+            "es": "A ti te corresponde presentar los resultados al consejo."
+          },
+          {
+            "q": "A",
+            "t": "Pode deixar. É por isso que eu já preparei tudo.",
+            "es": "Déjalo en mis manos. Por eso es que ya preparé todo."
+          }
+        ]
+      },
+      "nota": "«Quem diria» es una exclamación de sorpresa; «não é à toa que» siempre introduce una consecuencia lógica que confirma algo que se esperaba."
+    }
+  ]
+}

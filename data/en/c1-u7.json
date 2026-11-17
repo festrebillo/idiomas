@@ -1,0 +1,216 @@
+{
+  "id": "en-c1-u7",
+  "idioma": "en",
+  "nivel": "C1",
+  "n": 7,
+  "titulo": "Informes y propuestas",
+  "resumen": "Aprenderás el lenguaje de los informes y propuestas profesionales: estructura, descripción de datos, recomendaciones y fórmulas impersonales como it is recommended that.",
+  "puedo": [
+    "Estructurar un informe con resumen, hallazgos y conclusiones.",
+    "Describir tendencias y cifras con verbos precisos (surge, plummet, plateau).",
+    "Hacer recomendaciones formales (it is advisable to, I would recommend).",
+    "Redactar una propuesta con objetivo, plazo, presupuesto y entregables.",
+    "Usar la pasiva impersonal para mantener un tono objetivo."
+  ],
+  "gramatica": {
+    "titulo": "La pasiva impersonal en informes",
+    "texto": "En los informes se prefiere un tono objetivo que no mencione quién hace la acción. Para eso usamos la pasiva impersonal: It + be + participio + that + oración.\nIt was found that sales dropped by 12%. (Se encontró que las ventas bajaron 12%.)\nIt is estimated that 3,000 jobs will be lost. (Se estima que se perderán 3000 empleos.)\nIt is recommended that the budget be reviewed. (Se recomienda que se revise el presupuesto.)\nTambién existe la forma con sujeto + be + participio + to: Sales are expected to rise. The company is believed to be considering a merger.\nTruco: los verbos más usados son estimate, expect, believe, report, recommend, suggest, consider, find.",
+    "tabla": [
+      ["It was found that sales dropped.", "Se encontró que las ventas bajaron.", "it uas faund dat seils dropt"],
+      ["It is estimated that costs will rise.", "Se estima que los costos subirán.", "it is éstimeitid dat costs uil raiz"],
+      ["It is recommended that we review it.", "Se recomienda que lo revisemos.", "it is recoméndid dat ui riviú it"],
+      ["Sales are expected to rise.", "Se espera que las ventas suban.", "seils ar ikspéctid tu raiz"],
+      ["The firm is believed to be losing money.", "Se cree que la empresa pierde dinero.", "da ferm is bilívd tu bi lúsin máni"],
+      ["It has been reported that the plant will close.", "Se ha informado de que la planta cerrará.", "it jaz bin ripórtid dat da plant uil clous"]
+    ],
+    "errores": [
+      "No uses «It is recommended to review»: la estructura es It is recommended that + oración, o It is recommended + sustantivo.",
+      "No olvides el sujeto «it» al inicio: es It is estimated that..., no «Is estimated that...».",
+      "En informes evita I think y we feel; usa It appears that... o The data suggest that... para mantener la objetividad."
+    ]
+  },
+  "practica": [
+    "Lee el resumen ejecutivo de un informe público (por ejemplo, de la OCDE o del Banco Mundial) y subraya 8 expresiones útiles (15 minutos).",
+    "Escribe un informe breve de 120 palabras sobre un problema de tu trabajo, con hallazgos y recomendaciones (20 minutos).",
+    "Describe en voz alta un gráfico de barras o líneas de una noticia, con 5 verbos de tendencia (10 minutos).",
+    "Redacta una propuesta de una página con objetivo, plazo, presupuesto y entregables para un proyecto real o imaginario (20 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-c1-u7-l1",
+      "n": 1,
+      "titulo": "Estructura de un informe",
+      "objetivo": "Reconocer y usar las secciones de un informe y el lenguaje para presentarlas.",
+      "intro": "Un informe profesional tiene un orden claro: resumen, objetivo, método, hallazgos, conclusiones y recomendaciones. Truco: usa encabezados claros y anuncia cada sección con una frase como This section outlines...",
+      "palabras": [
+        { "t": "executive summary", "es": "resumen ejecutivo", "pron": "igzékiutiv sámari", "ej": "The executive summary should fit on one page.", "ejes": "El resumen ejecutivo debería caber en una página.", "cog": false },
+        { "t": "terms of reference", "es": "términos de referencia", "pron": "terms ov réferens", "ej": "The terms of reference define the scope of the study.", "ejes": "Los términos de referencia definen el alcance del estudio.", "cog": false },
+        { "t": "scope", "es": "alcance", "pron": "scoup", "ej": "The scope of the project is limited to Lima.", "ejes": "El alcance del proyecto se limita a Lima.", "cog": false },
+        { "t": "methodology", "es": "metodología", "pron": "metodólogui", "ej": "The methodology relies on surveys and interviews.", "ejes": "La metodología se basa en encuestas y entrevistas.", "cog": true },
+        { "t": "findings", "es": "hallazgos", "pron": "fáindins", "ej": "The main findings are summarized in Table 2.", "ejes": "Los principales hallazgos se resumen en la Tabla 2.", "cog": false },
+        { "t": "appendix", "es": "anexo", "pron": "apéndics", "ej": "Detailed figures are included in the appendix.", "ejes": "Las cifras detalladas se incluyen en el anexo.", "cog": true },
+        { "t": "overview", "es": "panorama general", "pron": "óuvervíu", "ej": "This section gives an overview of the results.", "ejes": "Esta sección ofrece un panorama general de los resultados.", "cog": false },
+        { "t": "draw attention to", "es": "llamar la atención sobre", "pron": "dro aténshon tu", "ej": "I would like to draw attention to the second chart.", "ejes": "Quisiera llamar la atención sobre el segundo gráfico.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The executive summary should fit on one page.", "es": "El resumen ejecutivo debería caber en una página.", "pron": "di igzékiutiv sámari shud fit on uan peich" },
+        { "t": "The scope of the project is limited to Lima.", "es": "El alcance del proyecto se limita a Lima.", "pron": "da scoup ov da próyect is límitid tu lima" },
+        { "t": "The methodology relies on surveys and interviews.", "es": "La metodología se basa en encuestas y entrevistas.", "pron": "da metodólogui riláis on sérveis and íntervius" },
+        { "t": "The main findings are summarized in Table 2.", "es": "Los principales hallazgos se resumen en la Tabla 2.", "pron": "da mein fáindins ar sámaraisd in téibol tu" },
+        { "t": "I would like to draw attention to the second chart.", "es": "Quisiera llamar la atención sobre el segundo gráfico.", "pron": "ai uud laik tu dro aténshon tu da sécond chart" }
+      ],
+      "dialogo": {
+        "titulo": "Revisión de un informe",
+        "lineas": [
+          { "q": "A", "t": "I read your draft. The executive summary is too long; it should fit on one page.", "es": "Leí tu borrador. El resumen ejecutivo es muy largo; debería caber en una página." },
+          { "q": "B", "t": "Understood. Should I clarify the scope and the methodology in the introduction?", "es": "Entendido. ¿Debería aclarar el alcance y la metodología en la introducción?" },
+          { "q": "A", "t": "Yes. Then give an overview of the findings and draw attention to the key figures.", "es": "Sí. Luego da un panorama general de los hallazgos y llama la atención sobre las cifras clave." },
+          { "q": "B", "t": "I'll move the detailed tables to the appendix.", "es": "Moveré las tablas detalladas al anexo." },
+          { "q": "A", "t": "Perfect. Also check the terms of reference to be sure you answer what was asked.", "es": "Perfecto. Revisa también los términos de referencia para asegurarte de responder lo que se pidió." }
+        ]
+      },
+      "nota": "El resumen ejecutivo se escribe al final, aunque aparezca al principio: debe reflejar lo que realmente dice el informe."
+    },
+    {
+      "id": "en-c1-u7-l2",
+      "n": 2,
+      "titulo": "Describir datos y tendencias",
+      "objetivo": "Describir subidas, bajadas y estabilidad con verbos y sustantivos precisos.",
+      "intro": "Para describir un gráfico, elige el verbo según la fuerza y la velocidad del cambio. Truco: soar y plummet son extremos; edge up y dip son cambios leves.",
+      "palabras": [
+        { "t": "surge", "es": "dispararse, aumentar de golpe", "pron": "serdy", "ej": "Demand began to surge in the third quarter.", "ejes": "La demanda empezó a dispararse en el tercer trimestre.", "cog": false },
+        { "t": "plummet", "es": "desplomarse", "pron": "plámet", "ej": "Share prices could plummet if the merger fails.", "ejes": "Las acciones podrían desplomarse si la fusión fracasa.", "cog": false },
+        { "t": "fluctuate", "es": "fluctuar", "pron": "flácchueit", "ej": "Prices tend to fluctuate during the holidays.", "ejes": "Los precios tienden a fluctuar durante las fiestas.", "cog": true },
+        { "t": "plateau", "es": "estancarse, estabilizarse", "pron": "platóu", "ej": "Sales are likely to plateau next year.", "ejes": "Es probable que las ventas se estanquen el próximo año.", "cog": true },
+        { "t": "peak", "es": "alcanzar un máximo", "pron": "pik", "ej": "Unemployment is expected to peak in March.", "ejes": "Se espera que el desempleo alcance su máximo en marzo.", "cog": false },
+        { "t": "account for", "es": "representar (un porcentaje)", "pron": "acáunt for", "ej": "Exports account for 40% of total revenue.", "ejes": "Las exportaciones representan el 40% de los ingresos totales.", "cog": false },
+        { "t": "marginal", "es": "marginal, leve", "pron": "márdyinal", "ej": "There was only a marginal improvement in results.", "ejes": "Solo hubo una mejora marginal en los resultados.", "cog": true },
+        { "t": "steadily", "es": "de forma constante", "pron": "stédili", "ej": "The figures have risen steadily since 2020.", "ejes": "Las cifras han subido de forma constante desde 2020.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Demand began to surge in the third quarter.", "es": "La demanda empezó a dispararse en el tercer trimestre.", "pron": "dimánd bigán tu serdy in da zerd cuórter" },
+        { "t": "Share prices plummeted after the announcement.", "es": "Las acciones se desplomaron tras el anuncio.", "pron": "sher práisis plámetid áfter di anáunsment" },
+        { "t": "Exports account for 40% of total revenue.", "es": "Las exportaciones representan el 40% de los ingresos totales.", "pron": "éxports acáunt for fórti persént ov tóutal révenyu" },
+        { "t": "Sales are likely to plateau next year.", "es": "Es probable que las ventas se estanquen el próximo año.", "pron": "seils ar láicli tu platóu next ier" },
+        { "t": "The figures have risen steadily since 2020.", "es": "Las cifras han subido de forma constante desde 2020.", "pron": "da fíguiurs jav rízen stédili sins tuénti tuénti" }
+      ],
+      "dialogo": {
+        "titulo": "Comentando un gráfico",
+        "lineas": [
+          { "q": "A", "t": "As the chart shows, demand began to surge in the third quarter.", "es": "Como muestra el gráfico, la demanda empezó a dispararse en el tercer trimestre." },
+          { "q": "B", "t": "Yes, but it peaked in September and then plateaued.", "es": "Sí, pero alcanzó su máximo en septiembre y luego se estancó." },
+          { "q": "A", "t": "Exports account for forty percent of revenue, and they fluctuate a lot.", "es": "Las exportaciones representan el cuarenta por ciento de los ingresos y fluctúan mucho." },
+          { "q": "B", "t": "True. There was only a marginal improvement domestically, though.", "es": "Cierto. Aunque a nivel local solo hubo una mejora marginal." },
+          { "q": "A", "t": "Then we should warn that prices could plummet if demand cools.", "es": "Entonces deberíamos advertir que los precios podrían desplomarse si la demanda se enfría." }
+        ]
+      },
+      "nota": "Para describir gráficos usa el pasado (Sales rose by 5%) y la voz pasiva con cuidado; también es normal usar el presente cuando comentas el gráfico (The chart shows...)."
+    },
+    {
+      "id": "en-c1-u7-l3",
+      "n": 3,
+      "titulo": "Recomendaciones formales",
+      "objetivo": "Hacer recomendaciones y sugerencias con un tono formal y diplomático.",
+      "intro": "Las recomendaciones cierran un informe. Truco: it is advisable to y I would recommend suenan formales; recommend that + oración exige el verbo en forma base: I recommend that he review the plan.",
+      "palabras": [
+        { "t": "it is advisable to", "es": "es aconsejable", "pron": "it is adváisabol tu", "ej": "It is advisable to back up your files daily.", "ejes": "Es aconsejable respaldar tus archivos a diario.", "cog": false },
+        { "t": "I would recommend", "es": "yo recomendaría", "pron": "ai uud recoménd", "ej": "I would recommend a thorough review of the budget.", "ejes": "Yo recomendaría una revisión exhaustiva del presupuesto.", "cog": false },
+        { "t": "urge", "es": "instar", "pron": "erdy", "ej": "Experts urge the government to act quickly.", "ejes": "Los expertos instan al gobierno a actuar con rapidez.", "cog": false },
+        { "t": "merit", "es": "mérito, ventaja", "pron": "mérit", "ej": "The proposal has some merit, but needs work.", "ejes": "La propuesta tiene cierto mérito, pero necesita trabajo.", "cog": true },
+        { "t": "feasible", "es": "viable", "pron": "físibol", "ej": "The plan is feasible within three months.", "ejes": "El plan es viable en tres meses.", "cog": false },
+        { "t": "prioritize", "es": "priorizar", "pron": "praióritaiz", "ej": "We should prioritize safety over speed.", "ejes": "Deberíamos priorizar la seguridad sobre la velocidad.", "cog": true },
+        { "t": "mitigate", "es": "mitigar", "pron": "mítigueit", "ej": "These measures will help mitigate the risk.", "ejes": "Estas medidas ayudarán a mitigar el riesgo.", "cog": true },
+        { "t": "ought to", "es": "debería (formal)", "pron": "ot tu", "ej": "The company ought to review its policies.", "ejes": "La empresa debería revisar sus políticas.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I would recommend a thorough review of the budget.", "es": "Recomendaría una revisión exhaustiva del presupuesto.", "pron": "ai uud recoménd a zóro riviú ov da báyet" },
+        { "t": "It is advisable to back up your files daily.", "es": "Es aconsejable respaldar tus archivos a diario.", "pron": "it is adváisabol tu bac ap ior fails déili" },
+        { "t": "Experts urge the government to act quickly.", "es": "Los expertos instan al gobierno a actuar con rapidez.", "pron": "ékspers erdy da gáverment tu act cuícli" },
+        { "t": "These measures will help mitigate the risk.", "es": "Estas medidas ayudarán a mitigar el riesgo.", "pron": "dis méshurs uil jelp mítigueit da risk" },
+        { "t": "We should prioritize safety over speed.", "es": "Deberíamos priorizar la seguridad sobre la velocidad.", "pron": "ui shud praióritaiz séifti óuver spiid" }
+      ],
+      "dialogo": {
+        "titulo": "Reunión de recomendaciones",
+        "lineas": [
+          { "q": "A", "t": "I would recommend a thorough review of the budget before we proceed.", "es": "Recomendaría una revisión exhaustiva del presupuesto antes de continuar." },
+          { "q": "B", "t": "The proposal has some merit, but is it feasible within three months?", "es": "La propuesta tiene cierto mérito, pero ¿es viable en tres meses?" },
+          { "q": "A", "t": "It is advisable to prioritize the most urgent tasks first.", "es": "Es aconsejable priorizar primero las tareas más urgentes." },
+          { "q": "B", "t": "Agreed. We ought to mitigate the main risks before the launch.", "es": "De acuerdo. Deberíamos mitigar los riesgos principales antes del lanzamiento." },
+          { "q": "A", "t": "I'll draft the recommendations and urge the board to approve the plan.", "es": "Redactaré las recomendaciones e instaré a la junta a aprobar el plan." }
+        ]
+      },
+      "nota": "Después de recommend that, la forma base del verbo se usa en inglés estadounidense: I recommend that she go. En inglés británico también se oye should go."
+    },
+    {
+      "id": "en-c1-u7-l4",
+      "n": 4,
+      "titulo": "Propuestas de proyecto",
+      "objetivo": "Redactar los elementos de una propuesta: objetivo, plazo, presupuesto y entregables.",
+      "intro": "Una propuesta convence con claridad: qué haremos, cómo, cuándo y cuánto costará. Truco: usa lenguaje concreto y verbos de compromiso: We will deliver, We aim to, The project will run for.",
+      "palabras": [
+        { "t": "rationale", "es": "justificación", "pron": "rashonál", "ej": "The rationale behind the project is simple.", "ejes": "La justificación detrás del proyecto es sencilla.", "cog": true },
+        { "t": "deliverable", "es": "entregable", "pron": "delíverabol", "ej": "Each deliverable must be approved by the client.", "ejes": "Cada entregable debe ser aprobado por el cliente.", "cog": false },
+        { "t": "milestone", "es": "hito", "pron": "máilstoun", "ej": "The first milestone is due in March.", "ejes": "El primer hito vence en marzo.", "cog": false },
+        { "t": "stakeholder", "es": "parte interesada", "pron": "stéicjoulder", "ej": "Every stakeholder must be informed of the changes.", "ejes": "Todas las partes interesadas deben ser informadas de los cambios.", "cog": false },
+        { "t": "budget", "es": "presupuesto", "pron": "báyet", "ej": "The budget covers staff, equipment, and training.", "ejes": "El presupuesto cubre personal, equipos y capacitación.", "cog": true },
+        { "t": "timeline", "es": "cronograma", "pron": "táimlain", "ej": "The timeline spans six months from approval.", "ejes": "El cronograma abarca seis meses desde la aprobación.", "cog": false },
+        { "t": "outcome", "es": "resultado", "pron": "áutcam", "ej": "The expected outcome is a 15% cost reduction.", "ejes": "El resultado esperado es una reducción de costos del 15%.", "cog": false },
+        { "t": "we aim to", "es": "nos proponemos", "pron": "ui eim tu", "ej": "We aim to complete the pilot by June.", "ejes": "Nos proponemos terminar el piloto en junio.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The rationale behind the project is simple.", "es": "La justificación detrás del proyecto es sencilla.", "pron": "da rashonál bijáind da próyect is símpol" },
+        { "t": "The first milestone is due in March.", "es": "El primer hito vence en marzo.", "pron": "da ferst máilstoun is diú in march" },
+        { "t": "The budget covers staff, equipment and training.", "es": "El presupuesto cubre personal, equipos y capacitación.", "pron": "da báyet cávers staf, ikuípment and tréinin" },
+        { "t": "We aim to complete the pilot by June.", "es": "Nos proponemos terminar el piloto en junio.", "pron": "ui eim tu complít da páilot bai yun" },
+        { "t": "The timeline spans six months from approval.", "es": "El cronograma abarca seis meses desde la aprobación.", "pron": "da táimlain spans sics manz from aprúval" }
+      ],
+      "dialogo": {
+        "titulo": "Presentando una propuesta",
+        "lineas": [
+          { "q": "A", "t": "Let me explain the rationale first. We aim to cut costs by fifteen percent.", "es": "Permítanme explicar primero la justificación. Nos proponemos reducir costos en un quince por ciento." },
+          { "q": "B", "t": "What is the timeline, and when is the first milestone due?", "es": "¿Cuál es el cronograma y cuándo vence el primer hito?" },
+          { "q": "A", "t": "The timeline spans six months, and the first milestone is due in March.", "es": "El cronograma abarca seis meses y el primer hito vence en marzo." },
+          { "q": "B", "t": "And the budget? Every stakeholder will want to know the exact figures.", "es": "¿Y el presupuesto? Todas las partes interesadas querrán saber las cifras exactas." },
+          { "q": "A", "t": "The budget covers staff and equipment. The final deliverable is a complete pilot.", "es": "El presupuesto cubre personal y equipos. El entregable final es un piloto completo." }
+        ]
+      },
+      "nota": "En una propuesta usa verbos de compromiso realistas: We will deliver es más firme que We hope to deliver. Pero no prometas más de lo que puedes cumplir."
+    },
+    {
+      "id": "en-c1-u7-l5",
+      "n": 5,
+      "titulo": "Repaso: un informe completo",
+      "objetivo": "Escribir y presentar un informe con hallazgos, datos y recomendaciones en tono objetivo.",
+      "intro": "Une todo: estructura, datos, pasiva impersonal y recomendaciones. Truco: cada hallazgo debe llevar su evidencia y cada recomendación debe derivar de un hallazgo.",
+      "palabras": [
+        { "t": "brief", "es": "breve, encargo", "pron": "brif", "ej": "The brief was to assess the impact of the new policy.", "ejes": "El encargo era evaluar el impacto de la nueva política.", "cog": false },
+        { "t": "assess", "es": "evaluar", "pron": "asés", "ej": "We need to assess the risks before we invest.", "ejes": "Necesitamos evaluar los riesgos antes de invertir.", "cog": true },
+        { "t": "conclude", "es": "concluir", "pron": "conclúud", "ej": "We conclude that the pilot was successful.", "ejes": "Concluimos que el piloto fue exitoso.", "cog": true },
+        { "t": "in light of", "es": "a la luz de", "pron": "in lait ov", "ej": "In light of these results, we recommend an expansion.", "ejes": "A la luz de estos resultados, recomendamos una expansión.", "cog": false },
+        { "t": "with regard to", "es": "con respecto a", "pron": "uid rigárd tu", "ej": "With regard to costs, the findings are encouraging.", "ejes": "Con respecto a los costos, los hallazgos son alentadores.", "cog": false },
+        { "t": "shortfall", "es": "déficit, deficiencia", "pron": "shórtfol", "ej": "There is a shortfall of two million dollars.", "ejes": "Hay un déficit de dos millones de dólares.", "cog": false },
+        { "t": "streamline", "es": "agilizar, optimizar", "pron": "strímlain", "ej": "We should streamline the approval process.", "ejes": "Deberíamos agilizar el proceso de aprobación.", "cog": false },
+        { "t": "follow up", "es": "dar seguimiento", "pron": "fálou ap", "ej": "I will follow up with a detailed proposal next week.", "ejes": "Daré seguimiento con una propuesta detallada la próxima semana.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The brief was to assess the impact of the new policy.", "es": "El encargo era evaluar el impacto de la nueva política.", "pron": "da brif uas tu asés di ímpact ov da niu pólisi" },
+        { "t": "In light of these results, we recommend an expansion.", "es": "A la luz de estos resultados, recomendamos una expansión.", "pron": "in lait ov dis risálts, ui recoménd an expánshon" },
+        { "t": "With regard to costs, the findings are encouraging.", "es": "Con respecto a los costos, los hallazgos son alentadores.", "pron": "uid rigárd tu costs, da fáindins ar encóradyin" },
+        { "t": "There is a shortfall of two million dollars.", "es": "Hay un déficit de dos millones de dólares.", "pron": "der is a shórtfol ov tu mílion dólars" },
+        { "t": "It is recommended that the approval process be streamlined.", "es": "Se recomienda que se agilice el proceso de aprobación.", "pron": "it is recoméndid dat di aprúval próses bi strímlaind" }
+      ],
+      "dialogo": {
+        "titulo": "Entregando el informe final",
+        "lineas": [
+          { "q": "A", "t": "The brief was to assess the impact of the new policy. We conclude that it was effective.", "es": "El encargo era evaluar el impacto de la nueva política. Concluimos que fue eficaz." },
+          { "q": "B", "t": "With regard to costs, however, there is a shortfall. Is that right?", "es": "Con respecto a los costos, sin embargo, hay un déficit. ¿Es correcto?" },
+          { "q": "A", "t": "Yes. In light of that, it is recommended that the approval process be streamlined.", "es": "Sí. A la luz de eso, se recomienda que se agilice el proceso de aprobación." },
+          { "q": "B", "t": "Understood. It is estimated that savings could reach eight percent.", "es": "Entendido. Se estima que los ahorros podrían alcanzar un ocho por ciento." },
+          { "q": "A", "t": "Correct. I will follow up with a detailed plan next week.", "es": "Correcto. Daré seguimiento con un plan detallado la próxima semana." },
+          { "q": "B", "t": "Excellent. Please send the appendix with the full figures too.", "es": "Excelente. Por favor envía también el anexo con las cifras completas." }
+        ]
+      },
+      "nota": "Antes de enviar un informe, revisa tres cosas: que cada cifra tenga fuente, que las recomendaciones respondan al encargo y que el tono sea objetivo."
+    }
+  ]
+}

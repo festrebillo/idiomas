@@ -1,0 +1,221 @@
+{
+  "id": "en-c1-u16",
+  "idioma": "en",
+  "nivel": "C1",
+  "n": 16,
+  "titulo": "Precisión y repaso del nivel C1",
+  "resumen": "Aprenderás a elegir la palabra exacta en lugar de la genérica, a evitar falsos amigos y palabras confundibles, y repasarás lo esencial del nivel C1.",
+  "puedo": [
+    "Elegir verbos precisos en lugar de say, show o make.",
+    "Evitar falsos amigos frecuentes entre español e inglés.",
+    "Distinguir pares confusos como affect y effect o economic y economical.",
+    "Usar adjetivos exactos como substantial, negligible y tentative.",
+    "Repasar y combinar lo aprendido en todo el nivel C1."
+  ],
+  "gramatica": {
+    "titulo": "Precisión léxica: la palabra exacta",
+    "texto": "A nivel C1, no basta con que te entiendan: debes ser preciso. La idea es sustituir palabras genéricas por otras que digan exactamente lo que quieres.\nEn vez de say, usa state (declarar), mention (mencionar), emphasize (subrayar) o convey (transmitir). En vez de show, usa demonstrate o illustrate. En vez de big, usa substantial, considerable o significant.\nCuidado también con los falsos amigos: actually significa en realidad (no actualmente); eventually significa finalmente (no eventualmente); sensible significa sensato (no sensible, que es sensitive); assist es ayudar (no asistir a una reunión, que es attend).\nTruco: cuando dudes, pregúntate qué quieres decir exactamente y busca la palabra que lo diga mejor.",
+    "tabla": [
+      ["She stated her position clearly.", "Declaró su postura con claridad.", "shi stéited jer posíshon clírli"],
+      ["The data demonstrate a clear trend.", "Los datos demuestran una tendencia clara.", "da déita démonstreit a clir trend"],
+      ["It was actually a good idea.", "En realidad fue una buena idea.", "it uas áctiuali a gud aidía"],
+      ["He eventually found a job.", "Finalmente encontró trabajo.", "ji ivéntiuali faund a yob"],
+      ["That is a sensible decision.", "Es una decisión sensata.", "dat is a sénsibol disíshon"],
+      ["I attended the conference.", "Asistí a la conferencia.", "ai aténded da cónferens"]
+    ],
+    "errores": [
+      "No uses actually para decir «actualmente»: es currently o at the moment.",
+      "No uses assist para decir «asistir a una reunión»: es attend. Assist significa ayudar.",
+      "No digas «I am sensible» para decir «soy sensible»: es I am sensitive. Sensible significa sensato."
+    ]
+  },
+  "practica": [
+    "Reescribe un texto tuyo de 8 oraciones cambiando 6 palabras genéricas (say, big, good, show) por otras más precisas (15 minutos).",
+    "Crea una lista de 10 falsos amigos con una oración de ejemplo para cada uno y repásala en voz alta (15 minutos).",
+    "Escribe 6 oraciones con los pares affect y effect, economic y economical, principal y principle (12 minutos).",
+    "Haz un resumen oral de 2 minutos de lo aprendido en el nivel C1 usando 10 palabras de las unidades 9 a 15 (15 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-c1-u16-l1",
+      "n": 1,
+      "titulo": "Verbos precisos",
+      "objetivo": "Sustituir verbos genéricos por state, highlight, convey, demonstrate, enhance y hinder.",
+      "intro": "Los verbos precisos hacen tu inglés más profesional. En vez de say, show y help, hay opciones que expresan el matiz exacto. Truco: antes de escribir un verbo genérico, piensa si existe uno más específico.",
+      "palabras": [
+        { "t": "state", "es": "declarar, afirmar formalmente", "pron": "steit", "ej": "Please state your name and address.", "ejes": "Por favor, declare su nombre y dirección.", "cog": false },
+        { "t": "highlight", "es": "destacar, resaltar", "pron": "jáilait", "ej": "The report will highlight the main risks.", "ejes": "El informe destacará los principales riesgos.", "cog": false },
+        { "t": "convey", "es": "transmitir", "pron": "convéi", "ej": "A good speaker can convey emotion without shouting.", "ejes": "Un buen orador puede transmitir emoción sin gritar.", "cog": false },
+        { "t": "demonstrate", "es": "demostrar", "pron": "démonstreit", "ej": "The results demonstrate a clear improvement.", "ejes": "Los resultados demuestran una mejora clara.", "cog": true },
+        { "t": "enhance", "es": "mejorar, potenciar", "pron": "enjáns", "ej": "New tools can enhance productivity.", "ejes": "Las nuevas herramientas pueden potenciar la productividad.", "cog": false },
+        { "t": "hinder", "es": "obstaculizar, dificultar", "pron": "jínder", "ej": "Poor communication can hinder progress.", "ejes": "La mala comunicación puede obstaculizar el progreso.", "cog": false },
+        { "t": "acquire", "es": "adquirir", "pron": "acuáier", "ej": "You can acquire new skills at any age.", "ejes": "Puedes adquirir nuevas habilidades a cualquier edad.", "cog": true },
+        { "t": "emphasize", "es": "subrayar, enfatizar", "pron": "émfasais", "ej": "I want to emphasize that safety comes first.", "ejes": "Quiero subrayar que la seguridad es lo primero.", "cog": true }
+      ],
+      "frases": [
+        { "t": "The study demonstrates a clear link between sleep and memory.", "es": "El estudio demuestra un vínculo claro entre el sueño y la memoria.", "pron": "da stádi démonstreits a clir link bituín slip and mémori" },
+        { "t": "I would like to highlight three key points.", "es": "Me gustaría destacar tres puntos clave.", "pron": "ai uud laik tu jáilait zri ki points" },
+        { "t": "Good design can enhance the user experience.", "es": "Un buen diseño puede mejorar la experiencia del usuario.", "pron": "gud disáin can enjáns da iúser ikspírians" },
+        { "t": "Excessive paperwork hinders innovation.", "es": "El exceso de papeleo obstaculiza la innovación.", "pron": "ixésiv péiperuerk jínders inovéishon" },
+        { "t": "She managed to convey her message in two minutes.", "es": "Logró transmitir su mensaje en dos minutos.", "pron": "shi mánayd tu convéi jer mésich in tu mínits" }
+      ],
+      "dialogo": {
+        "titulo": "Preparar una presentación",
+        "lineas": [
+          { "q": "A", "t": "In my draft, I say that the results show a big improvement. Is that precise enough?", "es": "En mi borrador digo que los resultados muestran una gran mejora. ¿Es suficientemente preciso?" },
+          { "q": "B", "t": "Try this: the results demonstrate a substantial improvement. It sounds stronger.", "es": "Prueba así: los resultados demuestran una mejora sustancial. Suena más fuerte." },
+          { "q": "A", "t": "Good. I also want to emphasize the cost savings and highlight two risks.", "es": "Bien. También quiero subrayar el ahorro de costos y destacar dos riesgos." },
+          { "q": "B", "t": "Make sure you convey confidence. Hesitation will hinder your credibility.", "es": "Procura transmitir confianza. La duda perjudicará tu credibilidad." },
+          { "q": "A", "t": "Understood. I'll also state the limitations of the study clearly.", "es": "Entendido. También declararé con claridad las limitaciones del estudio." },
+          { "q": "B", "t": "Great. That will enhance the whole presentation.", "es": "Genial. Eso mejorará toda la presentación." }
+        ]
+      },
+      "nota": "Un tesauro (thesaurus) ayuda, pero no todos los sinónimos son intercambiables: comprueba siempre con ejemplos de uso en un diccionario."
+    },
+    {
+      "id": "en-c1-u16-l2",
+      "n": 2,
+      "titulo": "Falsos amigos frecuentes",
+      "objetivo": "Evitar errores con actually, eventually, sensible, assist, pretend, support y realize.",
+      "intro": "Los falsos amigos se parecen al español pero significan otra cosa. Son una fuente constante de errores, incluso en niveles altos. Truco: anota cada falso amigo con su significado real y una frase propia.",
+      "palabras": [
+        { "t": "actually", "es": "en realidad (no actualmente)", "pron": "áctiuali", "ej": "It was actually much easier than I expected.", "ejes": "En realidad fue mucho más fácil de lo que esperaba.", "cog": false },
+        { "t": "eventually", "es": "finalmente (no eventualmente)", "pron": "ivéntiuali", "ej": "He eventually got the promotion he wanted.", "ejes": "Finalmente consiguió el ascenso que quería.", "cog": false },
+        { "t": "sensible", "es": "sensato (no sensible)", "pron": "sénsibol", "ej": "It is a sensible decision given the risks.", "ejes": "Es una decisión sensata dados los riesgos.", "cog": false },
+        { "t": "assist", "es": "ayudar (no asistir a)", "pron": "asíst", "ej": "Can I assist you with anything?", "ejes": "¿Puedo ayudarlo con algo?", "cog": false },
+        { "t": "pretend", "es": "fingir (no pretender)", "pron": "pritén", "ej": "Don't pretend you didn't know about it.", "ejes": "No finjas que no lo sabías.", "cog": false },
+        { "t": "realize", "es": "darse cuenta (no realizar)", "pron": "ríalais", "ej": "I didn't realize how late it was.", "ejes": "No me di cuenta de lo tarde que era.", "cog": false },
+        { "t": "support", "es": "apoyar, mantener (no soportar)", "pron": "sapórt", "ej": "She works two jobs to support her family.", "ejes": "Trabaja en dos empleos para mantener a su familia.", "cog": false },
+        { "t": "library", "es": "biblioteca (no librería)", "pron": "láibreri", "ej": "I studied at the library all afternoon.", "ejes": "Estudié en la biblioteca toda la tarde.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Actually, I don't work there anymore.", "es": "En realidad, ya no trabajo allí.", "pron": "áctiuali, ai dont uerk der enimór" },
+        { "t": "We eventually found a solution.", "es": "Finalmente encontramos una solución.", "pron": "ui ivéntiuali faund a solúshon" },
+        { "t": "That sounds like a sensible plan.", "es": "Eso suena como un plan sensato.", "pron": "dat saunds laik a sénsibol plan" },
+        { "t": "I didn't realize you were waiting for me.", "es": "No me di cuenta de que me estabas esperando.", "pron": "ai dídent ríalais iu uer uéitin for mi" },
+        { "t": "Where is the nearest library, please?", "es": "¿Dónde está la biblioteca más cercana, por favor?", "pron": "juer is da nírest láibreri, plis" }
+      ],
+      "dialogo": {
+        "titulo": "Un malentendido en la oficina",
+        "lineas": [
+          { "q": "A", "t": "I thought you currently worked in marketing, but actually, you moved to finance, right?", "es": "Pensé que actualmente trabajabas en marketing, pero en realidad te mudaste a finanzas, ¿no?" },
+          { "q": "B", "t": "Yes. I didn't realize my profile was outdated. I eventually changed departments last month.", "es": "Sí. No me di cuenta de que mi perfil estaba desactualizado. Finalmente cambié de área el mes pasado." },
+          { "q": "A", "t": "No worries. Can I assist you with updating the directory?", "es": "No hay problema. ¿Puedo ayudarte a actualizar el directorio?" },
+          { "q": "B", "t": "That would be great. I don't want to pretend everything is fine when it's not.", "es": "Eso sería genial. No quiero fingir que todo está bien cuando no es así." },
+          { "q": "A", "t": "That's a sensible attitude. I'll support you however I can.", "es": "Es una actitud sensata. Te apoyaré en lo que pueda." },
+          { "q": "B", "t": "Thanks. I'll meet you at the library after lunch to finish it.", "es": "Gracias. Te veo en la biblioteca después del almuerzo para terminarlo." }
+        ]
+      },
+      "nota": "Otros falsos amigos útiles: library (biblioteca) y bookstore (librería); exit (salida) y success (éxito); embarrassed (avergonzado) y pregnant (embarazada)."
+    },
+    {
+      "id": "en-c1-u16-l3",
+      "n": 3,
+      "titulo": "Palabras que se confunden",
+      "objetivo": "Distinguir affect/effect, economic/economical, historic/historical y principal/principle.",
+      "intro": "Algunos pares se escriben o suenan casi igual pero significan cosas distintas, incluso para nativos. Truco: affect es un verbo (afectar); effect suele ser sustantivo (efecto). Si puedes poner the delante, es effect.",
+      "palabras": [
+        { "t": "affect", "es": "afectar (verbo)", "pron": "afect", "ej": "Stress can affect your health.", "ejes": "El estrés puede afectar tu salud.", "cog": true },
+        { "t": "effect", "es": "efecto (sustantivo)", "pron": "ifect", "ej": "The new law had a positive effect.", "ejes": "La nueva ley tuvo un efecto positivo.", "cog": true },
+        { "t": "economic", "es": "económico (relativo a la economía)", "pron": "ikonómic", "ej": "The country faces an economic crisis.", "ejes": "El país enfrenta una crisis económica.", "cog": true },
+        { "t": "economical", "es": "económico (barato, que ahorra)", "pron": "ikonómical", "ej": "This car is very economical to run.", "ejes": "Este auto es muy económico de mantener.", "cog": true },
+        { "t": "historic", "es": "histórico (de gran importancia)", "pron": "jistóric", "ej": "It was a historic victory for the team.", "ejes": "Fue una victoria histórica para el equipo.", "cog": true },
+        { "t": "historical", "es": "histórico (del pasado)", "pron": "jistórical", "ej": "She writes historical novels about Rome.", "ejes": "Escribe novelas históricas sobre Roma.", "cog": true },
+        { "t": "principal", "es": "principal; director de escuela", "pron": "prínsipal", "ej": "The principal reason is lack of funding.", "ejes": "La razón principal es la falta de fondos.", "cog": false },
+        { "t": "principle", "es": "principio (regla moral)", "pron": "prínsipol", "ej": "He refused on principle to take the bribe.", "ejes": "Se negó por principios a aceptar el soborno.", "cog": true }
+      ],
+      "frases": [
+        { "t": "The weather can affect our flight schedule.", "es": "El clima puede afectar nuestro horario de vuelo.", "pron": "da uéder can afect áuer flait skédiul" },
+        { "t": "The medicine had an immediate effect.", "es": "La medicina tuvo un efecto inmediato.", "pron": "da médisin jad an imídiet ifect" },
+        { "t": "The economic outlook is uncertain.", "es": "Las perspectivas económicas son inciertas.", "pron": "di ikonómic áutluc is ansértn" },
+        { "t": "It was a historic moment for the whole nation.", "es": "Fue un momento histórico para toda la nación.", "pron": "it uas a jistóric móumen for da joul néishon" },
+        { "t": "I admire her for sticking to her principle.", "es": "La admiro por mantenerse fiel a su principio.", "pron": "ai admáier jer for stícin tu jer prínsipol" }
+      ],
+      "dialogo": {
+        "titulo": "Una clase de economía",
+        "lineas": [
+          { "q": "A", "t": "How will the new tax affect small businesses?", "es": "¿Cómo afectará el nuevo impuesto a las pequeñas empresas?" },
+          { "q": "B", "t": "The principal effect will be higher prices, I think. It's an economic issue.", "es": "El efecto principal serán precios más altos, creo. Es un tema económico." },
+          { "q": "A", "t": "And historically, similar measures have had the same effect, haven't they?", "es": "Y, históricamente, medidas similares han tenido el mismo efecto, ¿verdad?" },
+          { "q": "B", "t": "Yes, as a historical example, look at 1970. It was a historic crisis.", "es": "Sí, como ejemplo histórico, mira 1970. Fue una crisis histórica." },
+          { "q": "A", "t": "Is there a more economical alternative, one that doesn't compromise our principle of fairness?", "es": "¿Hay una alternativa más económica, que no comprometa nuestro principio de equidad?" },
+          { "q": "B", "t": "Perhaps. Let's discuss it with the principal advisor tomorrow.", "es": "Quizás. Hablémoslo con el asesor principal mañana." }
+        ]
+      },
+      "nota": "Principal puede ser adjetivo (principal) o sustantivo (director de un colegio). Principle solo es sustantivo: un principio o regla. Nunca se usan al revés."
+    },
+    {
+      "id": "en-c1-u16-l4",
+      "n": 4,
+      "titulo": "Adjetivos y adverbios exactos",
+      "objetivo": "Usar substantial, negligible, profound, tentative, meticulous y plausible con precisión.",
+      "intro": "Un adjetivo preciso vale más que dos genéricos. En vez de very big o very small, hay palabras exactas. Truco: aprende cada adjetivo con un sustantivo típico: substantial increase, negligible risk, plausible explanation.",
+      "palabras": [
+        { "t": "substantial", "es": "considerable, sustancial", "pron": "sabstánshal", "ej": "There has been a substantial increase in prices.", "ejes": "Ha habido un aumento considerable de precios.", "cog": true },
+        { "t": "negligible", "es": "insignificante, despreciable", "pron": "néglijibol", "ej": "The risk is negligible, so we can proceed.", "ejes": "El riesgo es insignificante, así que podemos continuar.", "cog": false },
+        { "t": "profound", "es": "profundo", "pron": "profáund", "ej": "The book had a profound influence on her.", "ejes": "El libro tuvo una profunda influencia en ella.", "cog": true },
+        { "t": "tentative", "es": "provisional, tentativo", "pron": "téntativ", "ej": "We reached a tentative agreement yesterday.", "ejes": "Ayer llegamos a un acuerdo provisional.", "cog": true },
+        { "t": "meticulous", "es": "meticuloso", "pron": "metíquiulus", "ej": "She is meticulous about every detail.", "ejes": "Es meticulosa con cada detalle.", "cog": true },
+        { "t": "plausible", "es": "plausible, verosímil", "pron": "plósibol", "ej": "That is a plausible explanation for the delay.", "ejes": "Esa es una explicación plausible del retraso.", "cog": true },
+        { "t": "pervasive", "es": "generalizado, omnipresente", "pron": "pervéisiv", "ej": "There is a pervasive sense of uncertainty.", "ejes": "Hay una sensación generalizada de incertidumbre.", "cog": false },
+        { "t": "subtle", "es": "sutil", "pron": "sátol", "ej": "There is a subtle difference between the two words.", "ejes": "Hay una diferencia sutil entre las dos palabras.", "cog": true }
+      ],
+      "frases": [
+        { "t": "The risk is negligible, so we can proceed.", "es": "El riesgo es insignificante, así que podemos continuar.", "pron": "da risc is néglijibol, sou ui can próusid" },
+        { "t": "This is only a tentative conclusion.", "es": "Esta es solo una conclusión provisional.", "pron": "dis is óunli a téntativ conclúshon" },
+        { "t": "Her work is meticulous and consistently accurate.", "es": "Su trabajo es meticuloso y consistentemente exacto.", "pron": "jer uerc is metíquiulus and consístentli ákiurit" },
+        { "t": "That explanation sounds plausible, but we need proof.", "es": "Esa explicación suena plausible, pero necesitamos pruebas.", "pron": "dat ixplanéishon saunds plósibol, bat ui nid pruf" },
+        { "t": "The influence of social media is pervasive.", "es": "La influencia de las redes sociales es omnipresente.", "pron": "di ínfluens ov sóushal mídia is pervéisiv" }
+      ],
+      "dialogo": {
+        "titulo": "Evaluar un estudio",
+        "lineas": [
+          { "q": "A", "t": "The authors reach a tentative conclusion: a substantial rise in costs is plausible.", "es": "Los autores llegan a una conclusión provisional: un aumento considerable de costos es plausible." },
+          { "q": "B", "t": "Their analysis was meticulous, but the sample was small.", "es": "Su análisis fue meticuloso, pero la muestra era pequeña." },
+          { "q": "A", "t": "True. Still, the effect on prices is anything but negligible.", "es": "Cierto. Aun así, el efecto sobre los precios es todo menos insignificante." },
+          { "q": "B", "t": "I agree. And the uncertainty is pervasive across the sector.", "es": "De acuerdo. Y la incertidumbre es generalizada en todo el sector." },
+          { "q": "A", "t": "There's also a subtle point about how they measured inflation.", "es": "También hay un punto sutil sobre cómo midieron la inflación." },
+          { "q": "B", "t": "Yes, that could have a profound impact on the results.", "es": "Sí, eso podría tener un impacto profundo en los resultados." }
+        ]
+      },
+      "nota": "Los adjetivos precisos suelen combinarse con sustantivos fijos: a substantial amount, a profound change, a plausible excuse. Anota la combinación completa."
+    },
+    {
+      "id": "en-c1-u16-l5",
+      "n": 5,
+      "titulo": "Repaso general del nivel C1",
+      "objetivo": "Combinar subjuntivo, cohesión, matiz, phrasal verbs, formación de palabras y precisión en una exposición completa.",
+      "intro": "Has recorrido todo el nivel C1: estructuras formales, cohesión, debate, comprensión, lectura, palabras, fraseología y precisión. Truco: en una exposición, elige una herramienta de cada unidad y úsala con naturalidad.",
+      "palabras": [
+        { "t": "proficiency", "es": "dominio, competencia", "pron": "proféshensi", "ej": "Proficiency takes years of regular practice.", "ejes": "El dominio lleva años de práctica constante.", "cog": true },
+        { "t": "fluency", "es": "fluidez", "pron": "flúensi", "ej": "Her fluency improved after a year abroad.", "ejes": "Su fluidez mejoró tras un año en el extranjero.", "cog": true },
+        { "t": "nuance", "es": "matiz", "pron": "niuáns", "ej": "Each word carries a different nuance.", "ejes": "Cada palabra lleva un matiz diferente.", "cog": true },
+        { "t": "articulate", "es": "expresarse con claridad", "pron": "artíquiulit", "ej": "He is an articulate and persuasive speaker.", "ejes": "Es un orador elocuente y persuasivo.", "cog": true },
+        { "t": "coherent", "es": "coherente", "pron": "cojírent", "ej": "Try to give a coherent summary of your ideas.", "ejes": "Intenta dar un resumen coherente de tus ideas.", "cog": true },
+        { "t": "thorough", "es": "minucioso, a fondo", "pron": "zóro", "ej": "We carried out a thorough analysis of the data.", "ejes": "Hicimos un análisis minucioso de los datos.", "cog": false },
+        { "t": "consolidate", "es": "consolidar", "pron": "consólideit", "ej": "Regular review will consolidate what you have learned.", "ejes": "El repaso regular consolidará lo que has aprendido.", "cog": true },
+        { "t": "milestone", "es": "hito", "pron": "máilstoun", "ej": "Reaching C1 is a major milestone.", "ejes": "Llegar a C1 es un hito importante.", "cog": false }
+      ],
+      "frases": [
+        { "t": "It is essential that learners consolidate vocabulary regularly.", "es": "Es esencial que los estudiantes consoliden su vocabulario con regularidad.", "pron": "it is esénshal dat lérners consólideit vocábiuleri régiulerli" },
+        { "t": "Broadly speaking, my fluency has improved considerably.", "es": "En términos generales, mi fluidez ha mejorado considerablemente.", "pron": "bródli spíkin, mai flúensi jas improuvd consíderabli" },
+        { "t": "Should you need further practice, try the review exercises.", "es": "Si necesitaras más práctica, prueba los ejercicios de repaso.", "pron": "shud iu nid férder práctis, trai da rivíu éxersaises" },
+        { "t": "To some extent, proficiency depends on daily exposure.", "es": "Hasta cierto punto, el dominio depende de la exposición diaria.", "pron": "tu sam ikstént, proféshensi dipénds on déili ikspóuyer" },
+        { "t": "Reaching C1 is a milestone that took commitment.", "es": "Llegar a C1 es un hito que exigió compromiso.", "pron": "ríchin si uan is a máilstoun dat tuc comítment" },
+        { "t": "Her answer was articulate, coherent and thorough.", "es": "Su respuesta fue elocuente, coherente y minuciosa.", "pron": "jer ánser uas artíquiulit, cojírent and zóro" }
+      ],
+      "dialogo": {
+        "titulo": "Balance del nivel C1",
+        "lineas": [
+          { "q": "A", "t": "Looking back at the course, what do you think was the most valuable thing you learned?", "es": "Mirando hacia atrás en el curso, ¿qué crees que fue lo más valioso que aprendiste?" },
+          { "q": "B", "t": "Nuance, definitely. Broadly speaking, I now choose words with much more precision.", "es": "El matiz, sin duda. En términos generales, ahora elijo las palabras con mucha más precisión." },
+          { "q": "A", "t": "I'd say fluency, though arguably it's all connected. It is vital that we keep practicing.", "es": "Yo diría que la fluidez, aunque podría decirse que todo está conectado. Es vital que sigamos practicando." },
+          { "q": "B", "t": "Agreed. Were it not for the daily exercises, I wouldn't have reached this level.", "es": "De acuerdo. De no ser por los ejercicios diarios, no habría llegado a este nivel." },
+          { "q": "A", "t": "Reaching C1 is a milestone. Now we need to consolidate everything and keep reading widely.", "es": "Llegar a C1 es un hito. Ahora debemos consolidar todo y seguir leyendo mucho." },
+          { "q": "B", "t": "In the long run, that will make us more articulate and more confident.", "es": "A largo plazo, eso nos hará más elocuentes y más seguros." }
+        ]
+      },
+      "nota": "Mantener el nivel C1 exige exposición constante: lee, escucha y escribe en inglés cada semana. El dominio se pierde si no se usa."
+    }
+  ]
+}

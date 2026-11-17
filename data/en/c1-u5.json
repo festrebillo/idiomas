@@ -1,0 +1,216 @@
+{
+  "id": "en-c1-u5",
+  "idioma": "en",
+  "nivel": "C1",
+  "n": 5,
+  "titulo": "Ironía, humor y sentido figurado",
+  "resumen": "Aprenderás a reconocer y usar sarcasmo, understatement, exageración, juegos de palabras y metáforas, claves para entender a los nativos y sonar natural.",
+  "puedo": [
+    "Reconocer el sarcasmo y la ironía por el tono y el contexto.",
+    "Usar el understatement británico y americano (a bit of a problem, not bad at all).",
+    "Entender y usar metáforas e imágenes comunes (the tip of the iceberg).",
+    "Seguir bromas, juegos de palabras y burlas amistosas (banter).",
+    "Decidir cuándo el humor es apropiado en un contexto profesional."
+  ],
+  "gramatica": {
+    "titulo": "Decir una cosa y querer decir otra",
+    "texto": "En C1 la clave es entender que muchas veces los nativos no dicen literalmente lo que piensan.\nSarcasmo / irony: se dice lo contrario de lo que se siente, con un tono marcado: Oh, great. Another meeting! (en realidad es molesto). Pista: entonación exagerada y contexto negativo.\nUnderstatement: se minimiza algo grande para dar énfasis: It's a bit of a problem (es un desastre). Not bad at all significa muy bueno.\nHyperbole: se exagera: I've told you a million times.\nMetáfora: se habla de algo como si fuera otra cosa: a double-edged sword. Símil: se compara con like o as: as cool as a cucumber.\nTruco: si la frase suena rara literalmente, probablemente sea figurada. Pregúntate: ¿qué quiere realmente decir?",
+    "tabla": [
+      ["Oh, great. Another meeting.", "Qué bien. Otra reunión (sarcasmo).", "ou, greit. anáder míitin"],
+      ["It's a bit of a problem.", "Es un problemita (understatement: grave).", "its a bit ov a próblem"],
+      ["Not bad at all!", "¡Nada mal! (muy bueno).", "not bad at ol"],
+      ["I've told you a million times.", "Te lo he dicho un millón de veces (exageración).", "aiv tould iu a mílion taims"],
+      ["It's the tip of the iceberg.", "Es la punta del iceberg (metáfora).", "its da tip ov di áisberg"],
+      ["She is as cool as a cucumber.", "Ella está muy tranquila (símil).", "shi is as cul as a quiúcambers"]
+    ],
+    "errores": [
+      "No tomes literalmente un comentario sarcástico: Thanks a lot! con tono seco puede significar lo contrario.",
+      "No traduzcas metáforas palabra por palabra: «es pan comido» se dice a piece of cake o a walk in the park, no «bread eaten».",
+      "No uses sarcasmo con personas que no conoces bien o en correos formales: por escrito el tono se pierde y puede ofender."
+    ]
+  },
+  "practica": [
+    "Mira 10 minutos de una comedia de situación en inglés (por ejemplo, The Office) y anota 5 frases sarcásticas o de understatement (15 minutos).",
+    "Lee una columna de humor en The Guardian o The New Yorker y subraya 6 expresiones figuradas (12 minutos).",
+    "Escribe 6 oraciones con understatement y exageración sobre tu semana (10 minutos).",
+    "Graba un audio de 1 minuto con una anécdota graciosa usando al menos 2 metáforas o símiles (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-c1-u5-l1",
+      "n": 1,
+      "titulo": "Sarcasmo e ironía",
+      "objetivo": "Reconocer el sarcasmo y describir distintos tipos de humor irónico.",
+      "intro": "El sarcasmo se detecta más por el tono y el contexto que por las palabras. Truco: si el comentario es positivo pero la situación es mala, es sarcástico: Oh, wonderful, it's raining again.",
+      "palabras": [
+        { "t": "sarcasm", "es": "sarcasmo", "pron": "sárcasem", "ej": "I couldn't tell if it was sarcasm or a real compliment.", "ejes": "No supe si era sarcasmo o un halago de verdad.", "cog": true },
+        { "t": "deadpan", "es": "inexpresivo (humor serio)", "pron": "dédpan", "ej": "She delivered the joke with a deadpan expression.", "ejes": "Contó el chiste con una expresión inexpresiva.", "cog": false },
+        { "t": "wry", "es": "irónico, con humor seco", "pron": "rai", "ej": "He gave a wry smile and shook his head.", "ejes": "Esbozó una sonrisa irónica y negó con la cabeza.", "cog": false },
+        { "t": "sardonic", "es": "sardónico, burlón", "pron": "sardónic", "ej": "His sardonic tone made everyone uncomfortable.", "ejes": "Su tono sardónico incomodó a todos.", "cog": true },
+        { "t": "tongue-in-cheek", "es": "en tono de broma, irónico", "pron": "tong-in-chiic", "ej": "It was a tongue-in-cheek remark, not a serious one.", "ejes": "Fue un comentario en broma, no uno serio.", "cog": false },
+        { "t": "facetious", "es": "burlón, que bromea a destiempo", "pron": "fasíshos", "ej": "Stop being facetious; this is serious.", "ejes": "Deja de bromear; esto es serio.", "cog": false },
+        { "t": "irony", "es": "ironía", "pron": "áironi", "ej": "The irony is that the fire station burned down.", "ejes": "La ironía es que la estación de bomberos se incendió.", "cog": true },
+        { "t": "mock", "es": "burlarse de", "pron": "moc", "ej": "Don't mock people for making an honest mistake.", "ejes": "No te burles de la gente por cometer un error honesto.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Oh, great. Another meeting at six on Friday.", "es": "Qué bien. Otra reunión a las seis un viernes.", "pron": "ou, greit. anáder míitin at sics on fráidei" },
+        { "t": "I couldn't tell if it was sarcasm or a real compliment.", "es": "No supe si era sarcasmo o un halago de verdad.", "pron": "ai cúdent tel if it uas sárcasem or a ríal cómpliment" },
+        { "t": "She delivered the joke with a deadpan expression.", "es": "Contó el chiste con una expresión inexpresiva.", "pron": "shi delívered da yóuc uid a dédpan ikspréshon" },
+        { "t": "The irony is that the fire station burned down.", "es": "La ironía es que la estación de bomberos se incendió.", "pron": "di áironi is dat da fáier stéishon bernd daun" },
+        { "t": "It was a tongue-in-cheek remark, not a serious one.", "es": "Fue un comentario en broma, no uno serio.", "pron": "it uas a tong-in-chiic rimárc, not a síirios uan" }
+      ],
+      "dialogo": {
+        "titulo": "¿Estás bromeando?",
+        "lineas": [
+          { "q": "A", "t": "Our manager said, Wonderful, another report due tomorrow. Was that sarcasm?", "es": "Nuestro gerente dijo: Maravilloso, otro informe para mañana. ¿Eso era sarcasmo?" },
+          { "q": "B", "t": "Definitely. He gave a wry smile and delivered it completely deadpan.", "es": "Seguro. Esbozó una sonrisa irónica y lo dijo con total seriedad." },
+          { "q": "A", "t": "I can never tell with him. His sardonic tone confuses me.", "es": "Con él nunca sé. Su tono sardónico me confunde." },
+          { "q": "B", "t": "The irony is that he's actually very kind. It's just tongue-in-cheek humor.", "es": "La ironía es que en realidad es muy amable. Es solo humor en broma." },
+          { "q": "A", "t": "Good to know. I'll stop taking it literally, and I won't mock him either.", "es": "Bueno saberlo. Dejaré de tomarlo literalmente y tampoco me burlaré de él." }
+        ]
+      },
+      "nota": "El sarcasmo en inglés suele ser más frecuente (y más aceptado) entre colegas en el Reino Unido que en EE. UU. En una entrevista o un correo formal, mejor evitarlo."
+    },
+    {
+      "id": "en-c1-u5-l2",
+      "n": 2,
+      "titulo": "Understatement y exageración",
+      "objetivo": "Reconocer y usar minimizaciones y exageraciones con intención humorística o enfática.",
+      "intro": "Los nativos minimizan lo grave (It's a bit of a problem) o exageran lo cotidiano (I'm starving). Truco: un understatement dice poco pero implica mucho; una hipérbole dice mucho pero no es literal.",
+      "palabras": [
+        { "t": "understatement", "es": "atenuación, eufemismo humorístico", "pron": "anderstéitment", "ej": "Calling the storm unpleasant is quite an understatement.", "ejes": "Llamar desagradable a la tormenta es quedarse corto.", "cog": false },
+        { "t": "hyperbole", "es": "hipérbole, exageración", "pron": "jaipérboli", "ej": "Saying I waited forever is just hyperbole.", "ejes": "Decir que esperé una eternidad es pura hipérbole.", "cog": true },
+        { "t": "a bit of a", "es": "algo de un (atenuación)", "pron": "a bit ov a", "ej": "We have a bit of a problem with the server.", "ejes": "Tenemos un pequeño problema con el servidor.", "cog": false },
+        { "t": "to say the least", "es": "por decir lo mínimo", "pron": "tu sei da list", "ej": "The service was disappointing, to say the least.", "ejes": "El servicio fue decepcionante, por decir lo mínimo.", "cog": false },
+        { "t": "not bad at all", "es": "nada mal (muy bien)", "pron": "not bad at ol", "ej": "Your presentation was not bad at all.", "ejes": "Tu presentación no estuvo nada mal.", "cog": false },
+        { "t": "slightly", "es": "ligeramente", "pron": "sláitli", "ej": "The plan is slightly ambitious, wouldn't you say?", "ejes": "El plan es ligeramente ambicioso, ¿no te parece?", "cog": false },
+        { "t": "literally", "es": "literalmente", "pron": "lítereli", "ej": "I literally can't remember the last time I slept.", "ejes": "No recuerdo, literalmente, la última vez que dormí.", "cog": true },
+        { "t": "a tad", "es": "un poquito", "pron": "a tad", "ej": "The soup is a tad too salty.", "ejes": "La sopa está un poquito salada.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Calling it unpleasant is quite an understatement.", "es": "Llamarlo desagradable es quedarse corto.", "pron": "cólin it anplésant is cuáit an anderstéitment" },
+        { "t": "The service was disappointing, to say the least.", "es": "El servicio fue decepcionante, por decir lo mínimo.", "pron": "da sérvis uas disapóintin, tu sei da list" },
+        { "t": "We have a bit of a problem with the server.", "es": "Tenemos un pequeño problema con el servidor.", "pron": "ui jav a bit ov a próblem uid da sérver" },
+        { "t": "Your presentation was not bad at all.", "es": "Tu presentación no estuvo nada mal.", "pron": "ior presentéishon uas not bad at ol" },
+        { "t": "I've told you a million times to lock the door.", "es": "Te he dicho un millón de veces que cierres con llave.", "pron": "aiv tould iu a mílion taims tu loc da dor" }
+      ],
+      "dialogo": {
+        "titulo": "Un pequeño problema",
+        "lineas": [
+          { "q": "A", "t": "We have a bit of a problem. The entire database is down.", "es": "Tenemos un pequeño problema. Toda la base de datos está caída." },
+          { "q": "B", "t": "A bit of a problem? That's quite an understatement, to say the least.", "es": "¿Un pequeño problema? Eso es quedarse corto, por decir lo mínimo." },
+          { "q": "A", "t": "Fine, a slight disaster. I literally don't know how it happened.", "es": "Bien, un ligero desastre. Literalmente no sé cómo ocurrió." },
+          { "q": "B", "t": "Don't panic. Last time, your fix was not bad at all.", "es": "No entres en pánico. La última vez tu solución no estuvo nada mal." },
+          { "q": "A", "t": "Thanks, but I've told you a million times I prefer working with a backup.", "es": "Gracias, pero te lo he dicho un millón de veces: prefiero trabajar con una copia de seguridad." }
+        ]
+      },
+      "nota": "En el Reino Unido el understatement es parte de la cultura: Not too bad puede significar excelente, y A bit chilly puede significar que hace mucho frío."
+    },
+    {
+      "id": "en-c1-u5-l3",
+      "n": 3,
+      "titulo": "Metáforas e imágenes",
+      "objetivo": "Entender y usar metáforas frecuentes en prensa y conversación.",
+      "intro": "El inglés ama las imágenes: tormentas, icebergs, barcos. Truco: cada metáfora tiene una imagen visual; si la imaginas, recordarás el significado.",
+      "palabras": [
+        { "t": "the tip of the iceberg", "es": "la punta del iceberg", "pron": "da tip ov di áisberg", "ej": "These complaints are just the tip of the iceberg.", "ejes": "Estas quejas son solo la punta del iceberg.", "cog": false },
+        { "t": "a double-edged sword", "es": "un arma de doble filo", "pron": "a dábol-edyd sord", "ej": "Fame can be a double-edged sword.", "ejes": "La fama puede ser un arma de doble filo.", "cog": false },
+        { "t": "a perfect storm", "es": "una tormenta perfecta", "pron": "a pérfect storm", "ej": "Inflation and unemployment created a perfect storm.", "ejes": "La inflación y el desempleo crearon una tormenta perfecta.", "cog": false },
+        { "t": "an uphill battle", "es": "una lucha cuesta arriba", "pron": "an ap-jil bátol", "ej": "Reforming the system will be an uphill battle.", "ejes": "Reformar el sistema será una lucha cuesta arriba.", "cog": false },
+        { "t": "a blessing in disguise", "es": "una bendición disfrazada", "pron": "a blésing in disgáis", "ej": "Losing that job was a blessing in disguise.", "ejes": "Perder ese empleo fue una bendición disfrazada.", "cog": false },
+        { "t": "a wake-up call", "es": "una llamada de atención", "pron": "a ueic-ap col", "ej": "The audit was a wake-up call for the whole team.", "ejes": "La auditoría fue una llamada de atención para todo el equipo.", "cog": false },
+        { "t": "a glimmer of hope", "es": "un rayo de esperanza", "pron": "a glímer ov joup", "ej": "The latest data offers a glimmer of hope.", "ejes": "Los últimos datos ofrecen un rayo de esperanza.", "cog": false },
+        { "t": "a drop in the ocean", "es": "una gota en el océano", "pron": "a drop in di óushan", "ej": "The donation was a drop in the ocean.", "ejes": "La donación fue una gota en el océano.", "cog": false }
+      ],
+      "frases": [
+        { "t": "These complaints are just the tip of the iceberg.", "es": "Estas quejas son solo la punta del iceberg.", "pron": "dis complénts ar yast da tip ov di áisberg" },
+        { "t": "Fame can be a double-edged sword.", "es": "La fama puede ser un arma de doble filo.", "pron": "feim can bi a dábol-edyd sord" },
+        { "t": "Inflation and unemployment created a perfect storm.", "es": "La inflación y el desempleo crearon una tormenta perfecta.", "pron": "inféishon and anemplóiment criéitid a pérfect storm" },
+        { "t": "Losing that job was a blessing in disguise.", "es": "Perder ese empleo fue una bendición disfrazada.", "pron": "lúsin dat yob uas a blésing in disgáis" },
+        { "t": "The latest data offers a glimmer of hope.", "es": "Los últimos datos ofrecen un rayo de esperanza.", "pron": "da léitist déita ófers a glímer ov joup" }
+      ],
+      "dialogo": {
+        "titulo": "Tras la crisis",
+        "lineas": [
+          { "q": "A", "t": "Inflation and unemployment created a perfect storm for small businesses.", "es": "La inflación y el desempleo crearon una tormenta perfecta para los pequeños negocios." },
+          { "q": "B", "t": "And these closures are just the tip of the iceberg. Reform will be an uphill battle.", "es": "Y estos cierres son solo la punta del iceberg. La reforma será una lucha cuesta arriba." },
+          { "q": "A", "t": "True, though losing my old job was a blessing in disguise. I started my own firm.", "es": "Cierto, aunque perder mi antiguo empleo fue una bendición disfrazada. Abrí mi propia firma." },
+          { "q": "B", "t": "Starting a firm is a double-edged sword: freedom, but also risk.", "es": "Abrir una firma es un arma de doble filo: libertad, pero también riesgo." },
+          { "q": "A", "t": "Yes. The new grants offer a glimmer of hope, even if they're a drop in the ocean.", "es": "Sí. Las nuevas subvenciones ofrecen un rayo de esperanza, aunque sean una gota en el océano." }
+        ]
+      },
+      "nota": "Muchas metáforas tienen versiones casi iguales en español (punta del iceberg), pero otras difieren: no se dice «a bread eaten» sino a piece of cake."
+    },
+    {
+      "id": "en-c1-u5-l4",
+      "n": 4,
+      "titulo": "Humor, bromas y juegos de palabras",
+      "objetivo": "Entender y comentar bromas, juegos de palabras y burlas amistosas.",
+      "intro": "El humor depende de la cultura y del momento. Truco: si no entiendes una broma, no la expliques ni te rías por compromiso: pregunta con naturalidad, What do you mean?",
+      "palabras": [
+        { "t": "pun", "es": "juego de palabras", "pron": "pan", "ej": "That's a terrible pun, but I laughed anyway.", "ejes": "Es un juego de palabras terrible, pero me reí igual.", "cog": false },
+        { "t": "punchline", "es": "remate del chiste", "pron": "pánchlain", "ej": "He forgot the punchline of the joke.", "ejes": "Olvidó el remate del chiste.", "cog": false },
+        { "t": "witty", "es": "ingenioso", "pron": "uíti", "ej": "She is famous for her witty remarks.", "ejes": "Es famosa por sus comentarios ingeniosos.", "cog": false },
+        { "t": "quip", "es": "ocurrencia, comentario ingenioso", "pron": "cuip", "ej": "He made a quip about the weather to break the ice.", "ejes": "Hizo una ocurrencia sobre el clima para romper el hielo.", "cog": false },
+        { "t": "banter", "es": "bromas, intercambio jocoso", "pron": "bánter", "ej": "The friendly banter made the long drive fly by.", "ejes": "Las bromas amistosas hicieron que el viaje largo pasara volando.", "cog": false },
+        { "t": "tease", "es": "tomar el pelo, hacer bromas", "pron": "tiis", "ej": "My brothers love to tease me about my accent.", "ejes": "A mis hermanos les encanta tomarme el pelo por mi acento.", "cog": false },
+        { "t": "pull your leg", "es": "tomarte el pelo", "pron": "pul ior leg", "ej": "Relax, I am just trying to pull your leg.", "ejes": "Tranquilo, solo trato de tomarte el pelo.", "cog": false },
+        { "t": "running joke", "es": "chiste recurrente", "pron": "rónin yóuc", "ej": "His terrible cooking is a running joke in our family.", "ejes": "Su terrible cocina es un chiste recurrente en nuestra familia.", "cog": false }
+      ],
+      "frases": [
+        { "t": "That's a terrible pun, but I laughed anyway.", "es": "Es un juego de palabras terrible, pero me reí igual.", "pron": "dats a térible pan, bat ai laft enuéi" },
+        { "t": "She is famous for her witty remarks.", "es": "Es famosa por sus comentarios ingeniosos.", "pron": "shi is féimos for jer uíti rimárcs" },
+        { "t": "The friendly banter made the drive fly by.", "es": "Las bromas amistosas hicieron que el viaje pasara volando.", "pron": "da fréndli bánter meid da draiv flai bai" },
+        { "t": "Are you serious, or are you pulling my leg?", "es": "¿Hablas en serio o me estás tomando el pelo?", "pron": "ar iu síirios, or ar iu púlin mai leg" },
+        { "t": "His terrible cooking is a running joke in our family.", "es": "Su terrible cocina es un chiste recurrente en nuestra familia.", "pron": "jis térible cúkin is a rónin yóuc in áuer fámili" }
+      ],
+      "dialogo": {
+        "titulo": "Cena con colegas",
+        "lineas": [
+          { "q": "A", "t": "Your boss makes a witty quip in every meeting. Is he always like that?", "es": "Tu jefe hace una ocurrencia ingeniosa en cada reunión. ¿Siempre es así?" },
+          { "q": "B", "t": "Yes. Last week he told a terrible pun, and he forgot the punchline.", "es": "Sí. La semana pasada contó un juego de palabras terrible y olvidó el remate." },
+          { "q": "A", "t": "I thought he was pulling my leg when he said that he lost his keys in the fridge.", "es": "Pensé que me estaba tomando el pelo cuando dijo que perdió las llaves en el refrigerador." },
+          { "q": "B", "t": "It's a running joke. We tease him about it all the time, and he loves the banter.", "es": "Es un chiste recurrente. Lo molestamos con eso todo el tiempo y le encanta el intercambio de bromas." },
+          { "q": "A", "t": "Great. A relaxed team is always a good sign.", "es": "Genial. Un equipo relajado es siempre una buena señal." }
+        ]
+      },
+      "nota": "Tease puede ser cariñoso o hiriente según la intención. Si la persona se incomoda, para y cambia de tema."
+    },
+    {
+      "id": "en-c1-u5-l5",
+      "n": 5,
+      "titulo": "Repaso: leer entre líneas",
+      "objetivo": "Combinar ironía, understatement, metáforas y humor al interpretar un texto o diálogo.",
+      "intro": "Ahora practica interpretar frases que no significan lo que dicen. Truco: al leer, pregúntate siempre: ¿es literal, es una exageración, es una ironía o es una metáfora?",
+      "palabras": [
+        { "t": "figurative", "es": "figurado", "pron": "fíguiurativ", "ej": "The phrase is figurative, not literal.", "ejes": "La frase es figurada, no literal.", "cog": true },
+        { "t": "read between the lines", "es": "leer entre líneas", "pron": "rid bituín da láins", "ej": "You have to read between the lines to catch his meaning.", "ejes": "Hay que leer entre líneas para captar lo que quiere decir.", "cog": false },
+        { "t": "with a pinch of salt", "es": "con cautela, con reservas", "pron": "uid a pinch ov solt", "ej": "Take his promises with a pinch of salt.", "ejes": "Toma sus promesas con cautela.", "cog": false },
+        { "t": "tongue in cheek", "es": "en broma", "pron": "tong in chiic", "ej": "I said it tongue in cheek; I wasn't serious.", "ejes": "Lo dije en broma; no hablaba en serio.", "cog": false },
+        { "t": "backhanded compliment", "es": "cumplido con doble sentido", "pron": "bacjándid cómpliment", "ej": "Calling my work surprisingly good was a backhanded compliment.", "ejes": "Decir que mi trabajo era sorprendentemente bueno fue un cumplido con doble sentido.", "cog": false },
+        { "t": "dry humor", "es": "humor seco", "pron": "drai jiúmor", "ej": "Her dry humor often catches people off guard.", "ejes": "Su humor seco suele tomar a la gente desprevenida.", "cog": false },
+        { "t": "miss the point", "es": "no captar la idea", "pron": "mis da point", "ej": "Do not miss the point of her joke.", "ejes": "No pierdas el sentido de su broma.", "cog": false },
+        { "t": "lost in translation", "es": "perdido en la traducción", "pron": "lost in translésion", "ej": "Humor is often lost in translation.", "ejes": "El humor a menudo se pierde en la traducción.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The phrase is figurative, not literal.", "es": "La frase es figurada, no literal.", "pron": "da freis is fíguiurativ, not lítereli" },
+        { "t": "You have to read between the lines to catch his meaning.", "es": "Hay que leer entre líneas para captar lo que quiere decir.", "pron": "iu jav tu rid bituín da láins tu cach jis mínin" },
+        { "t": "I take his promises with a pinch of salt.", "es": "Tomo sus promesas con cautela.", "pron": "ai teik jis prómisis uid a pinch ov solt" },
+        { "t": "That was a backhanded compliment, wasn't it?", "es": "Eso fue un cumplido con doble sentido, ¿no?", "pron": "dat uas a bacjándid cómpliment, uósent it" },
+        { "t": "Humor is often lost in translation.", "es": "El humor a menudo se pierde en la traducción.", "pron": "jiúmor is ófen lost in translésion" }
+      ],
+      "dialogo": {
+        "titulo": "Interpretar un comentario",
+        "lineas": [
+          { "q": "A", "t": "My colleague said my report was surprisingly good. Is that a backhanded compliment?", "es": "Mi colega dijo que mi informe era sorprendentemente bueno. ¿Es un cumplido con doble sentido?" },
+          { "q": "B", "t": "Possibly. You have to read between the lines, and I'd take it with a pinch of salt.", "es": "Posiblemente. Hay que leer entre líneas y yo lo tomaría con cautela." },
+          { "q": "A", "t": "He has dry humor, so maybe he said it tongue in cheek.", "es": "Tiene humor seco, así que quizá lo dijo en broma." },
+          { "q": "B", "t": "That's likely. Don't miss the point: he probably respects you.", "es": "Es probable. No pierdas de vista lo esencial: seguramente te respeta." },
+          { "q": "A", "t": "I hope so. Humor is often lost in translation, especially in a second language.", "es": "Ojalá. El humor a menudo se pierde en la traducción, sobre todo en un segundo idioma." },
+          { "q": "B", "t": "Just ask him directly. A friendly question clears up any confusion.", "es": "Pregúntale directamente. Una pregunta amable aclara cualquier confusión." }
+        ]
+      },
+      "nota": "Cuando no estés seguro del tono, pregunta: Are you being serious? Es una pregunta totalmente normal entre nativos."
+    }
+  ]
+}

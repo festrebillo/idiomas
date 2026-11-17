@@ -1,0 +1,214 @@
+{
+  "id": "it-c1-u13",
+  "idioma": "it",
+  "nivel": "C1",
+  "n": 13,
+  "titulo": "Lectura de textos complejos",
+  "resumen": "Aprenderás a inferir lo que el texto no dice, reconocer el tono del autor, seguir la estructura de textos largos y leer de forma crítica.",
+  "puedo": [
+    "Inferir ideas implícitas con dedurre, evincere y sottintendere.",
+    "Reconocer el tono de un texto: ironico, polemico, distaccato, accorato.",
+    "Identificar la estructura de un texto largo: tesi, snodi, digressioni, conclusione.",
+    "Aplicar estrategias de lectura crítica: evidenciar, sintetizar, parafrasear.",
+    "Usar el si impersonal y pasivante propio de los textos: si evince che, si ritiene che."
+  ],
+  "gramatica": {
+    "titulo": "Si impersonal y si pasivante en textos escritos",
+    "texto": "En artículos, informes y ensayos, el italiano evita el «io» y usa la forma con «si».\nSi pasivante: si + verbo en tercera persona, concuerda con el sustantivo: Si vendono case / Si legge un libro (se venden casas / se lee un libro).\nSi impersonal: si + tercera persona singular, sin sujeto concreto: Si dice che il governo cambierà (se dice que el gobierno cambiará).\nFórmulas típicas en textos: si evince che (se deduce que), si ritiene che (se considera que), si osserva che (se observa que), si noti che (nótese que).\nTruco: con tiempos compuestos, el participio concuerda: Si sono letti molti libri; Si è letto molto.",
+    "tabla": [
+      ["Dal testo si può evincere che l'autore è scettico.", "Del texto se deduce que el autor es escéptico.", "dal tésto si evínche ke láutore e scéttico"],
+      ["Si ritiene che la riforma sia necessaria.", "Se considera que la reforma es necesaria.", "si ritiéne ke la riforma sía necessária"],
+      ["Si vendono case in centro.", "Se venden casas en el centro.", "si véndono cáse in chéntro"],
+      ["Si noti che i dati sono parziali.", "Nótese que los datos son parciales.", "si nóti ke i dáti sóno parsiáli"],
+      ["Si è parlato molto del problema.", "Se habló mucho del problema.", "si e parláto mólto del probléma"]
+    ],
+    "errores": [
+      "No concordar el verbo en el si pasivante: «si vende case» es incorrecto; va «si vendono case».",
+      "Usar la primera persona en un texto formal: en un informe se prefiere «si osserva che» a «io osservo che».",
+      "Confundir si impersonal y reflexivo con tiempos compuestos: «si è lavato» (reflexivo) y «si è lavorato» (impersonal) no significan lo mismo."
+    ]
+  },
+  "practica": [
+    "Lee un artículo largo de un periódico italiano y escribe en dos líneas cuál es la tesis y en tres cuáles son los argumentos (15 minutos).",
+    "Subraya diez marcadores de tono (adjetivos, ironía, verbos de opinión) en un editorial y clasifica el tono (12 minutos).",
+    "Resume un texto de 500 palabras en cinco frases usando el «si» impersonal (12 minutos).",
+    "Escribe un párrafo de 80 palabras en el que dejes una idea implícita, y pídele a alguien que la deduzca (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-c1-u13-l1",
+      "n": 1,
+      "titulo": "Inferir lo que el texto no dice",
+      "objetivo": "Deducir ideas implícitas y distinguirlas de lo explícito.",
+      "intro": "Un texto complejo dice mucho más de lo que escribe. Truco: pregúntate siempre qué da por sabido el autor y qué quiere que concluyas.",
+      "palabras": [
+        { "t": "dedurre", "es": "deducir", "pron": "dedúrre", "ej": "Dal contesto si può dedurre il significato.", "ejes": "Del contexto se puede deducir el significado.", "cog": true },
+        { "t": "sottintendere", "es": "dar a entender, sobreentender", "pron": "sottintendére", "ej": "Quella frase sembra sottintendere una critica.", "ejes": "Esa frase parece dar a entender una crítica.", "cog": false },
+        { "t": "implicito", "es": "implícito", "pron": "implíchito", "ej": "C'è un messaggio implicito nell'articolo.", "ejes": "Hay un mensaje implícito en el artículo.", "cog": true },
+        { "t": "esplicito", "es": "explícito", "pron": "esplíchito", "ej": "L'autore non è mai esplicito sulle sue intenzioni.", "ejes": "El autor nunca es explícito sobre sus intenciones.", "cog": true },
+        { "t": "alludere", "es": "aludir", "pron": "allúdere", "ej": "Il giornalista sembra alludere a un conflitto politico.", "ejes": "El periodista parece aludir a un conflicto político.", "cog": true },
+        { "t": "evincere", "es": "deducirse, desprenderse", "pron": "evínchere", "ej": "Dal testo si può evincere che l'autore è scettico.", "ejes": "Del texto se puede deducir que el autor es escéptico.", "cog": false },
+        { "t": "il non detto", "es": "lo no dicho, lo implícito", "pron": "il non détto", "ej": "Il non detto conta quanto ciò che è scritto.", "ejes": "Lo no dicho cuenta tanto como lo escrito.", "cog": false },
+        { "t": "ricavare", "es": "extraer, obtener", "pron": "ricaváre", "ej": "Dal brano si può ricavare molto più di quanto sembri.", "ejes": "Del fragmento se puede extraer mucho más de lo que parece.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Dal modo in cui scrive si può dedurre che non ama il governo.", "es": "Por cómo escribe se puede deducir que no le agrada el gobierno.", "pron": "dal módo in cui scríve si puó dedúrre ke non áma il govérno" },
+        { "t": "L'articolo non lo dice in modo esplicito, ma lo sottintende.", "es": "El artículo no lo dice de forma explícita, pero lo da a entender.", "pron": "larticolo non lo díce in módo esplíchito ma lo sottiníende" },
+        { "t": "Dai dati si evince una tendenza preoccupante.", "es": "De los datos se desprende una tendencia preocupante.", "pron": "dai dáti si evínche úna tendéntsa preoccupánte" },
+        { "t": "Il titolo sembra alludere a un fatto avvenuto anni fa.", "es": "El título parece aludir a un hecho ocurrido años atrás.", "pron": "il títolo sémbra allúdere a un fátto avvenúto ánni fa" },
+        { "t": "Cerca di ricavare il senso generale prima dei dettagli.", "es": "Trata de extraer el sentido general antes que los detalles.", "pron": "chérka di ricaváre il sénso dyenerále príma dei dettálli" }
+      ],
+      "dialogo": {
+        "titulo": "Un articolo ambiguo",
+        "lineas": [
+          { "q": "A", "t": "Hai letto l'editoriale di stamattina? A me sembra che l'autore alluda a un cambio di governo.", "es": "¿Leíste el editorial de esta mañana? A mí me parece que el autor alude a un cambio de gobierno." },
+          { "q": "B", "t": "Non lo dice in modo esplicito, ma dal tono si può dedurre che lo desideri.", "es": "No lo dice de forma explícita, pero por el tono se puede deducir que lo desea." },
+          { "q": "A", "t": "Ecco, è proprio il non detto a colpirmi: sottintende che l'attuale esecutivo sia debole.", "es": "Eso es, justamente lo no dicho me llama la atención: da a entender que el ejecutivo actual es débil." },
+          { "q": "B", "t": "Dai numeri che cita si evince che ha ragione, anche se non lo scrive chiaramente.", "es": "De los números que cita se desprende que tiene razón, aunque no lo escribe claramente." },
+          { "q": "A", "t": "Allora conviene ricavare le sue vere intenzioni da altri articoli, per non fraintendere.", "es": "Entonces conviene extraer sus verdaderas intenciones de otros artículos, para no malinterpretar." }
+        ]
+      },
+      "nota": "«Evincere» solo se usa en forma impersonal («si evince che») o en participio («evinto»). Es una palabra típica de la escritura formal."
+    },
+    {
+      "id": "it-c1-u13-l2",
+      "n": 2,
+      "titulo": "Reconocer el tono y la actitud",
+      "objetivo": "Identificar el tono de un texto y distinguir hechos de opiniones y actitudes.",
+      "intro": "El tono revela la actitud del autor. Truco: busca adjetivos y adverbios cargados, preguntas retóricas y signos de exclamación: casi siempre indican emoción o ironía.",
+      "palabras": [
+        { "t": "ironico", "es": "irónico", "pron": "iróniko", "ej": "Il tono ironico dell'autore è evidente.", "ejes": "El tono irónico del autor es evidente.", "cog": true },
+        { "t": "sarcastico", "es": "sarcástico", "pron": "sarcástico", "ej": "Il commento era sarcastico, quasi crudele.", "ejes": "El comentario era sarcástico, casi cruel.", "cog": true },
+        { "t": "distaccato", "es": "distante, desapasionado", "pron": "distakkáto", "ej": "Il cronista mantiene un tono distaccato.", "ejes": "El cronista mantiene un tono distante.", "cog": false },
+        { "t": "enfatico", "es": "enfático", "pron": "enfátiko", "ej": "Il discorso era troppo enfatico per essere credibile.", "ejes": "El discurso era demasiado enfático para ser creíble.", "cog": true },
+        { "t": "polemico", "es": "polémico, crítico", "pron": "polémiko", "ej": "L'articolo ha un taglio polemico.", "ejes": "El artículo tiene un enfoque polémico.", "cog": true },
+        { "t": "pacato", "es": "sereno, mesurado", "pron": "pakáto", "ej": "Ha risposto con un tono pacato e rispettoso.", "ejes": "Respondió con un tono sereno y respetuoso.", "cog": false },
+        { "t": "ambivalente", "es": "ambivalente", "pron": "ambivalénte", "ej": "L'atteggiamento dell'autore resta ambivalente.", "ejes": "La actitud del autor sigue siendo ambivalente.", "cog": true },
+        { "t": "accorato", "es": "apesadumbrado, sentido", "pron": "accoráto", "ej": "Il suo appello accorato ha commosso tutti.", "ejes": "Su sentido llamado conmovió a todos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il tono ironico dell'articolo nasconde una critica severa.", "es": "El tono irónico del artículo esconde una crítica severa.", "pron": "il tóno iróniko dellarticolo nasconde úna crítika severa" },
+        { "t": "Il resoconto è distaccato: l'autore non esprime giudizi.", "es": "El relato es distante: el autor no expresa juicios.", "pron": "il resokónto e distakkáto láutore non espríme dyudíchi" },
+        { "t": "Con un tono pacato ha respinto tutte le accuse.", "es": "Con un tono sereno rechazó todas las acusaciones.", "pron": "con un tóno pakáto a respínto túte le accúse" },
+        { "t": "La lettera, accorata e sincera, ha colpito molti lettori.", "es": "La carta, sentida y sincera, impactó a muchos lectores.", "pron": "la léttera accoráta e sinchéra a colpíto mólti lettóri" },
+        { "t": "Il saggio ha un taglio polemico, ma non è mai sarcastico.", "es": "El ensayo tiene un enfoque polémico, pero nunca es sarcástico.", "pron": "il sádyo a un tállo polémiko ma non e mái sarcástiko" }
+      ],
+      "dialogo": {
+        "titulo": "Discutere il tono di un testo",
+        "lineas": [
+          { "q": "A", "t": "Secondo me l'articolo è ironico: quando scrive «brillante strategia» non lo pensa davvero.", "es": "En mi opinión el artículo es irónico: cuando escribe «brillante estrategia» no lo piensa de verdad." },
+          { "q": "B", "t": "Fino a un certo punto; io lo trovo più polemico che sarcastico, con un taglio quasi amaro.", "es": "Hasta cierto punto; yo lo encuentro más polémico que sarcástico, con un enfoque casi amargo." },
+          { "q": "A", "t": "L'autore però rimane distaccato nel resto del testo: riporta i fatti senza commentarli.", "es": "El autor, sin embargo, se mantiene distante en el resto del texto: presenta los hechos sin comentarlos." },
+          { "q": "B", "t": "Vero, solo nell'ultima frase diventa accorato, quasi un appello al lettore.", "es": "Cierto, solo en la última frase se vuelve sentido, casi un llamado al lector." },
+          { "q": "A", "t": "Il suo atteggiamento resta ambivalente: critica e al tempo stesso sembra comprendere.", "es": "Su actitud sigue siendo ambivalente: critica y al mismo tiempo parece comprender." }
+        ]
+      },
+      "nota": "Para describir el tono en un examen o ensayo: «L'autore adotta un tono + adjetivo», «il registro è + adjetivo»."
+    },
+    {
+      "id": "it-c1-u13-l3",
+      "n": 3,
+      "titulo": "Estructura de textos largos",
+      "objetivo": "Reconocer la estructura de un texto largo y seguir su hilo conductor.",
+      "intro": "Un texto largo tiene una columna vertebral. Truco: lee primero el comienzo y el final, subraya la tesi y busca los snodi (puntos de giro) que conectan las partes.",
+      "palabras": [
+        { "t": "la struttura", "es": "la estructura", "pron": "la struttúra", "ej": "La struttura del saggio è molto chiara.", "ejes": "La estructura del ensayo es muy clara.", "cog": true },
+        { "t": "lo snodo", "es": "el punto de articulación, el giro", "pron": "lo snódo", "ej": "Lo snodo centrale del testo è il terzo paragrafo.", "ejes": "El punto de giro central del texto es el tercer párrafo.", "cog": false },
+        { "t": "il filo conduttore", "es": "el hilo conductor", "pron": "il fílo conduttóre", "ej": "Il filo conduttore del libro è la memoria.", "ejes": "El hilo conductor del libro es la memoria.", "cog": false },
+        { "t": "la digressione", "es": "la digresión", "pron": "la digressióne", "ej": "La digressione storica allunga troppo il capitolo.", "ejes": "La digresión histórica alarga demasiado el capítulo.", "cog": true },
+        { "t": "lo sviluppo", "es": "el desarrollo", "pron": "lo svilúppo", "ej": "Lo sviluppo dell'argomento è graduale e ordinato.", "ejes": "El desarrollo del argumento es gradual y ordenado.", "cog": false },
+        { "t": "il nucleo", "es": "el núcleo", "pron": "il núcleo", "ej": "Il nucleo del testo è la tesi della seconda pagina.", "ejes": "El núcleo del texto es la tesis de la segunda página.", "cog": true },
+        { "t": "la transizione", "es": "la transición", "pron": "la transisióne", "ej": "La transizione tra i capitoli è ben costruita.", "ejes": "La transición entre los capítulos está bien construida.", "cog": true },
+        { "t": "la sintesi", "es": "la síntesis", "pron": "la síntesi", "ej": "La sintesi finale riprende i punti principali.", "ejes": "La síntesis final retoma los puntos principales.", "cog": true }
+      ],
+      "frases": [
+        { "t": "La struttura del saggio si articola in tre parti.", "es": "La estructura del ensayo se articula en tres partes.", "pron": "la struttúra del sádyo si articola in tre párti" },
+        { "t": "Il filo conduttore dell'intero libro è il rapporto tra identità e memoria.", "es": "El hilo conductor del libro entero es la relación entre identidad y memoria.", "pron": "il fílo conduttóre dellintéro líbro e il rapporto tra identitá e memória" },
+        { "t": "Una breve digressione non spezza il ragionamento, ma lo arricchisce.", "es": "Una breve digresión no rompe el razonamiento, sino que lo enriquece.", "pron": "úna bréve digressióne non spétsa il radyonaménto ma lo arrikkísce" },
+        { "t": "Nel terzo capitolo c'è uno snodo che cambia la prospettiva.", "es": "En el tercer capítulo hay un punto de giro que cambia la perspectiva.", "pron": "nel térso capítolo che úno snódo ke cámbia la prospettíva" },
+        { "t": "La sintesi finale riassume il nucleo dell'argomentazione.", "es": "La síntesis final resume el núcleo de la argumentación.", "pron": "la síntesi finále riassúme il núcleo dellargomentatsióne" }
+      ],
+      "dialogo": {
+        "titulo": "Analizzare un saggio",
+        "lineas": [
+          { "q": "A", "t": "Ho finito il saggio: la struttura è chiara, ma lo sviluppo del terzo capitolo mi sembra confuso.", "es": "Terminé el ensayo: la estructura es clara, pero el desarrollo del tercer capítulo me parece confuso." },
+          { "q": "B", "t": "A me ha colpito il filo conduttore, il tema della memoria che ritorna in ogni parte.", "es": "A mí me impactó el hilo conductor, el tema de la memoria que vuelve en cada parte." },
+          { "q": "A", "t": "Vero, ma la digressione sulla guerra è troppo lunga e la transizione verso la parte successiva è brusca.", "es": "Cierto, pero la digresión sobre la guerra es demasiado larga y la transición hacia la parte siguiente es brusca." },
+          { "q": "B", "t": "Forse, però è lo snodo che spiega il nucleo dell'intera tesi dell'autore.", "es": "Quizá, pero es el punto de giro que explica el núcleo de toda la tesis del autor." },
+          { "q": "A", "t": "Allora rileggo con attenzione la sintesi finale, per capire se tutto torna.", "es": "Entonces releo con atención la síntesis final, para ver si todo encaja." }
+        ]
+      },
+      "nota": "Muchos textos italianos de ensayo repiten la tesis al principio y en la conclusión; úsalo como ancla al leer."
+    },
+    {
+      "id": "it-c1-u13-l4",
+      "n": 4,
+      "titulo": "Estrategias de lectura crítica",
+      "objetivo": "Leer de forma activa: resumir, parafrasear, subrayar y evaluar la fiabilidad.",
+      "intro": "Leer bien es leer con preguntas. Truco: lee primero por encima, luego con atención y al final resume en tus propias palabras para comprobar que has entendido.",
+      "palabras": [
+        { "t": "scorrere", "es": "ojear, recorrer rápido", "pron": "scorrére", "ej": "Prima di leggere, conviene scorrere tutto il testo.", "ejes": "Antes de leer, conviene ojear todo el texto.", "cog": false },
+        { "t": "sorvolare", "es": "pasar por alto, no detenerse", "pron": "sorvoláre", "ej": "Posso sorvolare sui dettagli tecnici, per ora.", "ejes": "Puedo pasar por alto los detalles técnicos, por ahora.", "cog": false },
+        { "t": "soffermarsi", "es": "detenerse en", "pron": "soffermársi", "ej": "Vale la pena soffermarsi sull'ultima frase.", "ejes": "Vale la pena detenerse en la última frase.", "cog": false },
+        { "t": "sintetizzare", "es": "sintetizar", "pron": "sintetiddsáre", "ej": "Prova a sintetizzare il testo in tre righe.", "ejes": "Intenta sintetizar el texto en tres líneas.", "cog": true },
+        { "t": "parafrasare", "es": "parafrasear", "pron": "parafrasáre", "ej": "Per capire bene, devo parafrasare ogni paragrafo.", "ejes": "Para entender bien, debo parafrasear cada párrafo.", "cog": true },
+        { "t": "evidenziare", "es": "resaltar, subrayar", "pron": "evidensiáre", "ej": "Mi piace evidenziare le parole chiave in giallo.", "ejes": "Me gusta resaltar las palabras clave en amarillo.", "cog": false },
+        { "t": "attendibile", "es": "fiable, confiable", "pron": "attendíbile", "ej": "Una fonte attendibile cita sempre i dati originali.", "ejes": "Una fuente fiable siempre cita los datos originales.", "cog": false },
+        { "t": "la fonte", "es": "la fuente", "pron": "la fónte", "ej": "La fonte dell'informazione non è indicata.", "ejes": "La fuente de la información no está indicada.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Prima scorro il testo, poi mi soffermo sui passaggi più importanti.", "es": "Primero ojeo el texto, luego me detengo en los pasajes más importantes.", "pron": "príma scórro il tésto pói mi soffermo sui passáddyi piú importánti" },
+        { "t": "Devo sintetizzare l'articolo in cinque righe.", "es": "Debo sintetizar el artículo en cinco líneas.", "pron": "dévo sintetiddsáre larticolo in chínque ríghe" },
+        { "t": "Per verificare se una fonte è attendibile, controlla l'autore e la data.", "es": "Para verificar si una fuente es fiable, comprueba el autor y la fecha.", "pron": "per verificáre se úna fónte e attendíbile contrólla láutore e la dáta" },
+        { "t": "Ho evidenziato i dati più importanti con un colore diverso.", "es": "Resalté los datos más importantes con un color diferente.", "pron": "ó evidensiáto i dáti piú importánti con un colóre divérso" },
+        { "t": "Conviene parafrasare il paragrafo con parole proprie per verificare la comprensione.", "es": "Conviene parafrasear el párrafo con palabras propias para verificar la comprensión.", "pron": "conviéne parafrasáre il parágrafo con paróle própie per verificáre la comprensióne" }
+      ],
+      "dialogo": {
+        "titulo": "Preparare un esame",
+        "lineas": [
+          { "q": "A", "t": "Come ti prepari per l'esame di comprensione? Io scorro il testo e poi mi soffermo sulle parti chiave.", "es": "¿Cómo te preparas para el examen de comprensión? Yo ojeo el texto y luego me detengo en las partes clave." },
+          { "q": "B", "t": "Io evidenzio le parole importanti e poi provo a parafrasare ogni paragrafo con parole mie.", "es": "Yo resalto las palabras importantes y luego intento parafrasear cada párrafo con mis palabras." },
+          { "q": "A", "t": "Buona idea; e per i testi di opinione controllo sempre se la fonte è attendibile.", "es": "Buena idea; y en los textos de opinión siempre compruebo si la fuente es fiable." },
+          { "q": "B", "t": "Giusto, a volte conviene sorvolare sui dettagli e sintetizzare solo l'idea principale.", "es": "Correcto, a veces conviene pasar por alto los detalles y sintetizar solo la idea principal." },
+          { "q": "A", "t": "Alla fine scrivo un riassunto di tre righe: se ci riesco, vuol dire che ho capito.", "es": "Al final escribo un resumen de tres líneas: si lo logro, significa que entendí." }
+        ]
+      },
+      "nota": "Leer con lápiz en la mano (o con el resaltador digital) cambia la comprensión: te obliga a decidir qué es esencial."
+    },
+    {
+      "id": "it-c1-u13-l5",
+      "n": 5,
+      "titulo": "Repaso: leer entre líneas",
+      "objetivo": "Aplicar inferencia, tono, estructura y lectura crítica a un texto completo.",
+      "intro": "Repasa leyendo un artículo de opinión: busca la tesis, el tono, lo implícito y la fiabilidad. Truco: pregúntate quién escribe, para quién y con qué intención.",
+      "palabras": [
+        { "t": "l'intento", "es": "el propósito, la intención", "pron": "linténto", "ej": "L'intento dell'autore è convincere il lettore.", "ejes": "El propósito del autor es convencer al lector.", "cog": false },
+        { "t": "il sottotesto", "es": "el subtexto", "pron": "il sottotésto", "ej": "Il sottotesto della lettera è una richiesta di aiuto.", "ejes": "El subtexto de la carta es una petición de ayuda.", "cog": true },
+        { "t": "il pregiudizio", "es": "el prejuicio", "pron": "il predyudítsio", "ej": "Il pregiudizio è qualcosa che ogni lettore deve riconoscere.", "ejes": "El prejuicio es algo que cada lector debe reconocer.", "cog": true },
+        { "t": "tendenzioso", "es": "tendencioso", "pron": "tendensióso", "ej": "Il titolo è tendenzioso: orienta il giudizio.", "ejes": "El titular es tendencioso: orienta el juicio.", "cog": true },
+        { "t": "oggettivo", "es": "objetivo", "pron": "oddyettívo", "ej": "Un resoconto oggettivo non esprime opinioni.", "ejes": "Un relato objetivo no expresa opiniones.", "cog": true },
+        { "t": "parziale", "es": "parcial", "pron": "parsiále", "ej": "La ricostruzione è parziale e lascia fuori molti fatti.", "ejes": "La reconstrucción es parcial y deja fuera muchos hechos.", "cog": true },
+        { "t": "imparziale", "es": "imparcial", "pron": "imparsiále", "ej": "Un giornalista dovrebbe restare imparziale.", "ejes": "Un periodista debería mantenerse imparcial.", "cog": true },
+        { "t": "ricostruire", "es": "reconstruir", "pron": "ricostruíre", "ej": "Devo ricostruire l'ordine degli eventi dal testo.", "ejes": "Debo reconstruir el orden de los eventos a partir del texto.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Dal testo si evince che l'intento dell'autore è critico.", "es": "Del texto se desprende que el propósito del autor es crítico.", "pron": "dal tésto si evínche ke linténto dellaútore e crítiko" },
+        { "t": "Si ritiene che il sottotesto sia più importante del testo.", "es": "Se considera que el subtexto es más importante que el texto.", "pron": "si ritiéne ke il sottotésto sía piú importánte del tésto" },
+        { "t": "Il titolo è tendenzioso e il resoconto è parziale.", "es": "El titular es tendencioso y el relato es parcial.", "pron": "il títolo e tendensióso e il resokónto e parsiále" },
+        { "t": "Si noti che nessuna fonte viene citata.", "es": "Nótese que no se cita ninguna fuente.", "pron": "si nóti ke nessúna fónte viéne chitáta" },
+        { "t": "Un lettore attento sa ricostruire il non detto.", "es": "Un lector atento sabe reconstruir lo no dicho.", "pron": "un lettóre atténto sa ricostruíre il non détto" }
+      ],
+      "dialogo": {
+        "titulo": "Leggere tra le righe",
+        "lineas": [
+          { "q": "A", "t": "Dal testo si evince che l'intento dell'autore è difendere il progetto, anche se non lo dice apertamente.", "es": "Del texto se desprende que el propósito del autor es defender el proyecto, aunque no lo diga abiertamente." },
+          { "q": "B", "t": "Sì, il titolo è tendenzioso e il resoconto è parziale: mancano le voci critiche.", "es": "Sí, el titular es tendencioso y el relato es parcial: faltan las voces críticas." },
+          { "q": "A", "t": "Si noti che la fonte non è indicata, quindi i dati non sono verificabili.", "es": "Nótese que la fuente no está indicada, por lo tanto los datos no son verificables." },
+          { "q": "B", "t": "Per essere imparziale, il giornalista avrebbe dovuto sintetizzare anche le obiezioni.", "es": "Para ser imparcial, el periodista debería haber sintetizado también las objeciones." },
+          { "q": "A", "t": "Ora devo ricostruire il sottotesto con calma e capire quale pregiudizio guida il discorso.", "es": "Ahora debo reconstruir el subtexto con calma y entender qué prejuicio guía el discurso." }
+        ]
+      },
+      "nota": "Un lector crítico no es un lector escéptico por sistema: confronta fuentes, pesa los datos y acepta lo que está bien argumentado."
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "id": "en-c1-u4",
+  "idioma": "en",
+  "nivel": "C1",
+  "n": 4,
+  "titulo": "Colocaciones avanzadas",
+  "resumen": "Aprenderás combinaciones naturales de palabras de nivel alto: verbo + sustantivo (draw a conclusion), adjetivo + sustantivo (sweeping changes) y adverbio + adjetivo (deeply flawed).",
+  "puedo": [
+    "Usar colocaciones verbo + sustantivo propias del inglés profesional (reach a verdict, raise concerns).",
+    "Combinar adjetivos y sustantivos con naturalidad (sweeping reforms, compelling evidence).",
+    "Usar adverbios intensificadores con el adjetivo correcto (deeply flawed, highly unlikely).",
+    "Reconocer colocaciones en artículos y evitar traducciones literales.",
+    "Escribir con un estilo más preciso y menos repetitivo."
+  ],
+  "gramatica": {
+    "titulo": "Colocaciones: qué palabras van juntas",
+    "texto": "Una colocación es una combinación de palabras que los nativos usan juntas de manera natural. No siempre se puede deducir: en inglés se dice make a decision, pero take a decision (británico) o reach a decision; se dice heavy rain, no «strong rain»; se dice a sweeping generalization, no «a wide generalization».\nLas colocaciones son una de las claves del nivel C1: transforman un inglés correcto en uno natural.\nTruco: aprende siempre la palabra con su pareja y anótala en una frase completa. Cuando leas, subraya las parejas, no las palabras sueltas.",
+    "tabla": [
+      ["draw a conclusion", "sacar una conclusión", "dro a conclúshon"],
+      ["raise concerns", "plantear preocupaciones", "reis consérns"],
+      ["reach a verdict", "emitir un veredicto", "rich a vérdict"],
+      ["sweeping reforms", "reformas de gran alcance", "suípin rifórms"],
+      ["compelling evidence", "pruebas contundentes", "compélin évidens"],
+      ["deeply flawed", "profundamente defectuoso", "dípli flod"]
+    ],
+    "errores": [
+      "No uses make para todo: se dice do research, do damage, reach a conclusion, no «make research» ni «make a conclusion».",
+      "No traduzcas literalmente: «fuerte lluvia» es heavy rain, no strong rain; «hacer una pregunta» es ask a question, no make a question.",
+      "No mezcles intensificadores al azar: highly unlikely sí, pero «highly tired» no; para tired se dice utterly exhausted."
+    ]
+  },
+  "practica": [
+    "Lee un artículo de The Economist o The New York Times y subraya 10 colocaciones; escríbelas en una libreta con la frase original (15 minutos).",
+    "Escribe 8 oraciones con colocaciones de esta unidad sobre tu trabajo (15 minutos).",
+    "Mira un podcast corto de negocios (por ejemplo, de la BBC) y anota 5 combinaciones verbo + sustantivo (12 minutos).",
+    "Consulta el Oxford Collocations Dictionary en línea para 3 palabras que uses mucho y reemplaza los verbos genéricos (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-c1-u4-l1",
+      "n": 1,
+      "titulo": "Verbo + sustantivo en el trabajo",
+      "objetivo": "Usar colocaciones verbo + sustantivo típicas del ámbito profesional.",
+      "intro": "Los verbos genéricos (make, do, have) suenan pobres en C1. Truco: cambia make por un verbo más preciso que combine con el sustantivo: raise concerns, reach an agreement, meet a deadline.",
+      "palabras": [
+        { "t": "meet a deadline", "es": "cumplir un plazo", "pron": "mit a dédlain", "ej": "We worked all weekend to meet a deadline.", "ejes": "Trabajamos todo el fin de semana para cumplir un plazo.", "cog": false },
+        { "t": "raise concerns", "es": "plantear preocupaciones", "pron": "reis consérns", "ej": "Several investors will raise concerns about the merger.", "ejes": "Varios inversionistas plantearán preocupaciones sobre la fusión.", "cog": false },
+        { "t": "reach a consensus", "es": "llegar a un consenso", "pron": "rich a consénsus", "ej": "The committee failed to reach a consensus.", "ejes": "El comité no logró llegar a un consenso.", "cog": false },
+        { "t": "draw a conclusion", "es": "sacar una conclusión", "pron": "dro a conclúshon", "ej": "It is too early to draw a conclusion.", "ejes": "Es demasiado pronto para sacar una conclusión.", "cog": false },
+        { "t": "pose a threat", "es": "representar una amenaza", "pron": "pous a zret", "ej": "The new competitor could pose a threat to our market share.", "ejes": "El nuevo competidor podría representar una amenaza para nuestra cuota.", "cog": false },
+        { "t": "bear responsibility", "es": "asumir la responsabilidad", "pron": "ber rispónsabiliti", "ej": "Managers must bear responsibility for the outcome.", "ejes": "Los gerentes deben asumir la responsabilidad del resultado.", "cog": false },
+        { "t": "incur costs", "es": "incurrir en costos", "pron": "incér costs", "ej": "The company will incur costs if it delays.", "ejes": "La empresa incurrirá en costos si se demora.", "cog": false },
+        { "t": "foster collaboration", "es": "fomentar la colaboración", "pron": "fóster colaboréishon", "ej": "Open offices are meant to foster collaboration.", "ejes": "Las oficinas abiertas buscan fomentar la colaboración.", "cog": false }
+      ],
+      "frases": [
+        { "t": "We worked all weekend to meet the deadline.", "es": "Trabajamos todo el fin de semana para cumplir el plazo.", "pron": "ui uerct ol uíkend tu mit da dédlain" },
+        { "t": "Several investors raised concerns about the merger.", "es": "Varios inversionistas plantearon preocupaciones sobre la fusión.", "pron": "séveral inbéstors reisd consérns abáut da mérrer" },
+        { "t": "The committee failed to reach a consensus.", "es": "El comité no logró llegar a un consenso.", "pron": "da comíti feild tu rich a consénsus" },
+        { "t": "It is too early to draw a conclusion.", "es": "Es demasiado pronto para sacar una conclusión.", "pron": "it is tu érli tu dro a conclúshon" },
+        { "t": "Open offices are meant to foster collaboration.", "es": "Las oficinas abiertas buscan fomentar la colaboración.", "pron": "óupen óficis ar ment tu fóster colaboréishon" }
+      ],
+      "dialogo": {
+        "titulo": "Reunión de la junta",
+        "lineas": [
+          { "q": "A", "t": "Several members raised concerns about the budget. Can we reach a consensus today?", "es": "Varios miembros plantearon preocupaciones sobre el presupuesto. ¿Podemos llegar a un consenso hoy?" },
+          { "q": "B", "t": "I hope so. If we delay, we'll incur additional costs and miss the deadline.", "es": "Eso espero. Si nos demoramos, incurriremos en costos adicionales y perderemos el plazo." },
+          { "q": "A", "t": "It's too early to draw a conclusion, but the new competitor could pose a real threat.", "es": "Es muy pronto para sacar una conclusión, pero el nuevo competidor podría representar una amenaza real." },
+          { "q": "B", "t": "Then we must foster collaboration between sales and engineering.", "es": "Entonces debemos fomentar la colaboración entre ventas e ingeniería." },
+          { "q": "A", "t": "Agreed, and whoever leads the project will bear responsibility for the results.", "es": "De acuerdo, y quien lidere el proyecto asumirá la responsabilidad de los resultados." }
+        ]
+      },
+      "nota": "Muchas de estas colocaciones se pueden usar en pasado y en pasiva: Concerns were raised. A consensus was reached."
+    },
+    {
+      "id": "en-c1-u4-l2",
+      "n": 2,
+      "titulo": "Adjetivo + sustantivo de peso",
+      "objetivo": "Usar adjetivos potentes con los sustantivos que les corresponden.",
+      "intro": "Los adjetivos de nivel alto no combinan con cualquier sustantivo. Truco: aprende la pareja completa: compelling evidence, sweeping reforms, bitter rivalry, tangible results.",
+      "palabras": [
+        { "t": "compelling evidence", "es": "pruebas contundentes", "pron": "compélin évidens", "ej": "There is compelling evidence that the policy works.", "ejes": "Hay pruebas contundentes de que la política funciona.", "cog": false },
+        { "t": "sweeping reforms", "es": "reformas de gran alcance", "pron": "suípin rifórms", "ej": "The government promised sweeping reforms.", "ejes": "El gobierno prometió reformas de gran alcance.", "cog": false },
+        { "t": "tangible results", "es": "resultados concretos", "pron": "tányibol risálts", "ej": "Investors want tangible results, not promises.", "ejes": "Los inversionistas quieren resultados concretos, no promesas.", "cog": false },
+        { "t": "bitter rivalry", "es": "rivalidad feroz", "pron": "bíter ráivalri", "ej": "The two firms share a bitter rivalry.", "ejes": "Las dos firmas comparten una rivalidad feroz.", "cog": false },
+        { "t": "mounting pressure", "es": "presión creciente", "pron": "máunting préshur", "ej": "The minister faces mounting pressure to resign.", "ejes": "La ministra enfrenta una presión creciente para renunciar.", "cog": false },
+        { "t": "fierce competition", "es": "competencia feroz", "pron": "firs competíshon", "ej": "Fierce competition is driving prices down.", "ejes": "La feroz competencia está bajando los precios.", "cog": false },
+        { "t": "dire consequences", "es": "graves consecuencias", "pron": "dáir cónsecuens", "ej": "Ignoring the warning could have dire consequences.", "ejes": "Ignorar la advertencia podría tener graves consecuencias.", "cog": false },
+        { "t": "lasting impact", "es": "impacto duradero", "pron": "lástin ímpact", "ej": "The reform had a lasting impact on education.", "ejes": "La reforma tuvo un impacto duradero en la educación.", "cog": false }
+      ],
+      "frases": [
+        { "t": "There is compelling evidence that the policy works.", "es": "Hay pruebas contundentes de que la política funciona.", "pron": "der is compélin évidens dat da pólisi uerks" },
+        { "t": "The government promised sweeping reforms.", "es": "El gobierno prometió reformas de gran alcance.", "pron": "da gáverment prómist suípin rifórms" },
+        { "t": "Investors want tangible results, not promises.", "es": "Los inversionistas quieren resultados concretos, no promesas.", "pron": "inbéstors uont tányibol risálts, not prómisis" },
+        { "t": "The minister faces mounting pressure to resign.", "es": "La ministra enfrenta una presión creciente para renunciar.", "pron": "da mínister féisis máunting préshur tu risáin" },
+        { "t": "Ignoring the warning could have dire consequences.", "es": "Ignorar la advertencia podría tener graves consecuencias.", "pron": "ignórin da uórnin cud jav dáir cónsecuensis" }
+      ],
+      "dialogo": {
+        "titulo": "Entrevista de radio",
+        "lineas": [
+          { "q": "A", "t": "The government promised sweeping reforms, yet the public wants tangible results.", "es": "El gobierno prometió reformas de gran alcance, pero el público quiere resultados concretos." },
+          { "q": "B", "t": "There is compelling evidence that past reforms had a lasting impact.", "es": "Hay pruebas contundentes de que las reformas pasadas tuvieron un impacto duradero." },
+          { "q": "A", "t": "But the opposition faces mounting pressure to propose alternatives.", "es": "Pero la oposición enfrenta una presión creciente para proponer alternativas." },
+          { "q": "B", "t": "Fierce competition for votes has turned the debate into a bitter rivalry.", "es": "La feroz competencia por los votos ha convertido el debate en una rivalidad feroz." },
+          { "q": "A", "t": "Ignoring the public mood could have dire consequences in the next election.", "es": "Ignorar el ánimo del público podría tener graves consecuencias en las próximas elecciones." }
+        ]
+      },
+      "nota": "Fíjate en que fierce y bitter son típicos de competencia y rivalidad; no combinan con cosas amables: no se dice «fierce friendship»."
+    },
+    {
+      "id": "en-c1-u4-l3",
+      "n": 3,
+      "titulo": "Adverbio + adjetivo",
+      "objetivo": "Intensificar adjetivos con adverbios que combinan de forma natural.",
+      "intro": "Very es demasiado débil en C1. Pero cada adverbio fuerte tiene sus parejas. Truco: deeply, highly y utterly no son intercambiables: aprende la combinación completa.",
+      "palabras": [
+        { "t": "deeply flawed", "es": "profundamente defectuoso", "pron": "dípli flod", "ej": "The study was deeply flawed from the start.", "ejes": "El estudio fue profundamente defectuoso desde el inicio.", "cog": false },
+        { "t": "highly unlikely", "es": "muy improbable", "pron": "jáili anláicli", "ej": "It is highly unlikely that the deal will close.", "ejes": "Es muy improbable que el trato se concrete.", "cog": false },
+        { "t": "utterly exhausted", "es": "completamente agotado", "pron": "áterli igzósted", "ej": "After the trip, we were utterly exhausted.", "ejes": "Después del viaje, estábamos completamente agotados.", "cog": false },
+        { "t": "painfully slow", "es": "dolorosamente lento", "pron": "péinfuli slou", "ej": "The approval process was painfully slow.", "ejes": "El proceso de aprobación fue dolorosamente lento.", "cog": false },
+        { "t": "blatantly obvious", "es": "clarísimo, evidente a todas luces", "pron": "bléitantli óbvios", "ej": "It was blatantly obvious that he was lying.", "ejes": "Era evidente a todas luces que mentía.", "cog": false },
+        { "t": "remarkably resilient", "es": "notablemente resistente", "pron": "rimárcabli rizílient", "ej": "The economy proved remarkably resilient.", "ejes": "La economía resultó notablemente resistente.", "cog": false },
+        { "t": "fully aware", "es": "plenamente consciente", "pron": "fúli auér", "ej": "I am fully aware of the risks involved.", "ejes": "Soy plenamente consciente de los riesgos.", "cog": false },
+        { "t": "strikingly similar", "es": "asombrosamente parecido", "pron": "stráikinli símilar", "ej": "The two proposals were strikingly similar.", "ejes": "Las dos propuestas eran asombrosamente parecidas.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The study was deeply flawed from the start.", "es": "El estudio fue profundamente defectuoso desde el inicio.", "pron": "da stádi uas dípli flod from da start" },
+        { "t": "It is highly unlikely that the deal will close.", "es": "Es muy improbable que el trato se concrete.", "pron": "it is jáili anláicli dat da dil uil clous" },
+        { "t": "The approval process was painfully slow.", "es": "El proceso de aprobación fue dolorosamente lento.", "pron": "di aprúval próses uas péinfuli slou" },
+        { "t": "The economy proved remarkably resilient.", "es": "La economía resultó notablemente resistente.", "pron": "di icónomi pruvd rimárcabli rizílient" },
+        { "t": "I am fully aware of the risks involved.", "es": "Soy plenamente consciente de los riesgos.", "pron": "ai am fúli auér ov da risks inbólvd" }
+      ],
+      "dialogo": {
+        "titulo": "Evaluación de un estudio",
+        "lineas": [
+          { "q": "A", "t": "I read the study you sent. It's deeply flawed, I'm afraid.", "es": "Leí el estudio que enviaste. Es profundamente defectuoso, me temo." },
+          { "q": "B", "t": "Really? I was fully aware of some weaknesses, but I thought the results were strikingly similar to earlier findings.", "es": "¿En serio? Yo era plenamente consciente de algunas debilidades, pero pensaba que los resultados eran asombrosamente parecidos a hallazgos anteriores." },
+          { "q": "A", "t": "That's precisely the problem. It's blatantly obvious that they copied the method without checking it.", "es": "Ese es precisamente el problema. Es evidente a todas luces que copiaron el método sin verificarlo." },
+          { "q": "B", "t": "I see. The peer review was painfully slow too, so nobody noticed.", "es": "Ya veo. La revisión por pares también fue dolorosamente lenta, así que nadie lo notó." },
+          { "q": "A", "t": "It's highly unlikely the journal will accept it now.", "es": "Es muy improbable que la revista lo acepte ahora." }
+        ]
+      },
+      "nota": "Fully aware, utterly exhausted y completely different son colocaciones fijas. No funcionan con cualquier adverbio: no se dice «completely aware»."
+    },
+    {
+      "id": "en-c1-u4-l4",
+      "n": 4,
+      "titulo": "Colocaciones de cambio y de riesgo",
+      "objetivo": "Describir cambios, riesgos y avances con colocaciones precisas.",
+      "intro": "Cuando hablas de economía, política o proyectos, estas parejas aparecen una y otra vez. Truco: agrúpalas por tema (cambio, riesgo, avance) y aprende sus verbos asociados.",
+      "palabras": [
+        { "t": "undergo changes", "es": "experimentar cambios", "pron": "andergóu chéinyis", "ej": "The city continues to undergo changes every decade.", "ejes": "La ciudad sigue experimentando cambios cada década.", "cog": false },
+        { "t": "gain momentum", "es": "cobrar impulso", "pron": "guein moméntum", "ej": "The campaign began to gain momentum in June.", "ejes": "La campaña empezó a cobrar impulso en junio.", "cog": false },
+        { "t": "take precautions", "es": "tomar precauciones", "pron": "teik prikóshons", "ej": "Travelers should take precautions against theft.", "ejes": "Los viajeros deben tomar precauciones contra los robos.", "cog": false },
+        { "t": "run a risk", "es": "correr un riesgo", "pron": "ran a risk", "ej": "You run a risk if you ignore the warning.", "ejes": "Corres un riesgo si ignoras la advertencia.", "cog": false },
+        { "t": "make headway", "es": "avanzar, progresar", "pron": "meik jéduei", "ej": "We need to make headway on the negotiations.", "ejes": "Necesitamos avanzar en las negociaciones.", "cog": false },
+        { "t": "come under fire", "es": "ser objeto de críticas", "pron": "cam ánder fáier", "ej": "The mayor may come under fire for the delay.", "ejes": "El alcalde podría ser blanco de críticas por la demora.", "cog": false },
+        { "t": "set a precedent", "es": "sentar un precedente", "pron": "set a président", "ej": "The ruling could set a precedent for future cases.", "ejes": "El fallo podría sentar un precedente para casos futuros.", "cog": false },
+        { "t": "stem the tide", "es": "frenar la marea, contener", "pron": "stem da taid", "ej": "Officials struggled to stem the tide of misinformation.", "ejes": "Las autoridades lucharon por contener la ola de desinformación.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The city has undergone dramatic changes since the 1990s.", "es": "La ciudad ha experimentado cambios drásticos desde los años noventa.", "pron": "da síti jaz andergón drámatic chéinyis sins da náintin nainitis" },
+        { "t": "The campaign began to gain momentum in June.", "es": "La campaña empezó a cobrar impulso en junio.", "pron": "da campéin bigán tu guein moméntum in yun" },
+        { "t": "The mayor came under fire for the delay.", "es": "El alcalde fue blanco de críticas por la demora.", "pron": "da méior queim ánder fáier for da diléi" },
+        { "t": "The ruling could set a precedent for future cases.", "es": "El fallo podría sentar un precedente para casos futuros.", "pron": "da rúlin cud set a président for fiúcher keisis" },
+        { "t": "We are finally making headway on the negotiations.", "es": "Por fin estamos avanzando en las negociaciones.", "pron": "ui ar fáinali méikin jédueis on da negoushiéishons" }
+      ],
+      "dialogo": {
+        "titulo": "Noticias de la semana",
+        "lineas": [
+          { "q": "A", "t": "The mayor came under fire for the delay, and the campaign against him is gaining momentum.", "es": "El alcalde fue blanco de críticas por la demora y la campaña en su contra está cobrando impulso." },
+          { "q": "B", "t": "The city has undergone dramatic changes, so officials run a risk if they ignore public opinion.", "es": "La ciudad ha experimentado cambios drásticos, así que las autoridades corren un riesgo si ignoran la opinión pública." },
+          { "q": "A", "t": "Meanwhile, the court ruling could set a precedent for similar disputes.", "es": "Mientras tanto, el fallo judicial podría sentar un precedente para disputas similares." },
+          { "q": "B", "t": "Let's hope we make headway soon. Residents should also take precautions during the works.", "es": "Esperemos avanzar pronto. Los vecinos también deberían tomar precauciones durante las obras." },
+          { "q": "A", "t": "Officials are struggling to stem the tide of rumors, though.", "es": "Aunque las autoridades luchan por contener la ola de rumores." }
+        ]
+      },
+      "nota": "Come under fire viene del lenguaje militar y se usa en política y negocios para críticas fuertes. Fíjate en la metáfora."
+    },
+    {
+      "id": "en-c1-u4-l5",
+      "n": 5,
+      "titulo": "Repaso: escribir con colocaciones",
+      "objetivo": "Combinar colocaciones de las cuatro lecciones en un texto coherente.",
+      "intro": "Ahora combina todo en un solo párrafo. Truco: elige 5 colocaciones de la unidad y escribe un texto breve sobre un tema real; luego verifica que cada pareja suene natural.",
+      "palabras": [
+        { "t": "reach an agreement", "es": "llegar a un acuerdo", "pron": "rich an agrímen", "ej": "After weeks of talks, they hope to reach an agreement.", "ejes": "Tras semanas de conversaciones, esperan llegar a un acuerdo.", "cog": false },
+        { "t": "voice doubts", "es": "expresar dudas", "pron": "vois dauts", "ej": "Several experts will voice doubts about the plan.", "ejes": "Varios expertos expresarán dudas sobre el plan.", "cog": false },
+        { "t": "yield results", "es": "dar resultados", "pron": "ield risálts", "ej": "The new approach is beginning to yield results.", "ejes": "El nuevo enfoque está empezando a dar resultados.", "cog": false },
+        { "t": "levy a fine", "es": "imponer una multa", "pron": "lévi a fain", "ej": "Regulators decided to levy a fine on the company.", "ejes": "Los reguladores decidieron imponer una multa a la empresa.", "cog": false },
+        { "t": "launch an investigation", "es": "iniciar una investigación", "pron": "lonch an invéstigueishon", "ej": "Police will launch an investigation into the fire.", "ejes": "La policía iniciará una investigación sobre el incendio.", "cog": false },
+        { "t": "heated debate", "es": "debate acalorado", "pron": "jítid dibéit", "ej": "The proposal sparked a heated debate in parliament.", "ejes": "La propuesta provocó un debate acalorado en el parlamento.", "cog": false },
+        { "t": "widespread criticism", "es": "críticas generalizadas", "pron": "uáidspred críticisem", "ej": "The decision drew widespread criticism.", "ejes": "La decisión recibió críticas generalizadas.", "cog": false },
+        { "t": "reverse a decision", "es": "revertir una decisión", "pron": "rivérs a disíshon", "ej": "The board may reverse a decision next week.", "ejes": "La junta podría revertir una decisión la próxima semana.", "cog": false }
+      ],
+      "frases": [
+        { "t": "After weeks of talks, they reached an agreement.", "es": "Tras semanas de conversaciones, llegaron a un acuerdo.", "pron": "áfter uiks ov tocs, dei richt an agrímen" },
+        { "t": "Several experts voiced doubts about the plan.", "es": "Varios expertos expresaron dudas sobre el plan.", "pron": "séveral ékspers voist dauts abáut da plan" },
+        { "t": "The proposal sparked a heated debate in parliament.", "es": "La propuesta provocó un debate acalorado en el parlamento.", "pron": "da propóusal sparct a jítid dibéit in párlament" },
+        { "t": "The decision drew widespread criticism.", "es": "La decisión recibió críticas generalizadas.", "pron": "da disíshon dru uáidspred críticisem" },
+        { "t": "Police launched an investigation into the fire.", "es": "La policía inició una investigación sobre el incendio.", "pron": "polís lonct an invéstigueishon íntu da fáier" }
+      ],
+      "dialogo": {
+        "titulo": "Resumen de prensa",
+        "lineas": [
+          { "q": "A", "t": "The proposal sparked a heated debate, and the decision drew widespread criticism.", "es": "La propuesta provocó un debate acalorado y la decisión recibió críticas generalizadas." },
+          { "q": "B", "t": "Several experts voiced doubts, so the board may reverse it next week.", "es": "Varios expertos expresaron dudas, así que la junta podría revertirla la próxima semana." },
+          { "q": "A", "t": "Meanwhile, regulators decided to levy a fine and launch an investigation.", "es": "Mientras tanto, los reguladores decidieron imponer una multa e iniciar una investigación." },
+          { "q": "B", "t": "After weeks of talks, they finally reached an agreement.", "es": "Tras semanas de conversaciones, por fin llegaron a un acuerdo." },
+          { "q": "A", "t": "Let's hope the new approach begins to yield results soon.", "es": "Esperemos que el nuevo enfoque empiece a dar resultados pronto." },
+          { "q": "B", "t": "Agreed. Now let's draft the summary using as many collocations as we can.", "es": "De acuerdo. Ahora redactemos el resumen usando tantas colocaciones como podamos." }
+        ]
+      },
+      "nota": "Una buena estrategia: escribe un párrafo con verbos comunes y luego mejóralo reemplazando cada verbo genérico por una colocación precisa."
+    }
+  ]
+}

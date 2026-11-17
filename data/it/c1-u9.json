@@ -1,0 +1,214 @@
+{
+  "id": "it-c1-u9",
+  "idioma": "it",
+  "nivel": "C1",
+  "n": 9,
+  "titulo": "Estructuras formales y subjuntivo",
+  "resumen": "Dominarás el congiuntivo en el registro formal, la concordanza dei tempi y el passato remoto que aparece en textos escritos.",
+  "puedo": [
+    "Usar el congiuntivo con fórmulas formales como «si auspica che» o «è opportuno che».",
+    "Elegir el tiempo correcto del congiuntivo según el verbo principal (concordanza dei tempi).",
+    "Reconocer y usar el passato remoto en textos históricos y narrativos.",
+    "Unir ideas con conectores formales que piden congiuntivo: affinché, purché, qualora.",
+    "Redactar una carta o un correo formal con estructuras cuidadas."
+  ],
+  "gramatica": {
+    "titulo": "Concordanza dei tempi con el congiuntivo",
+    "texto": "El tiempo del congiuntivo depende del verbo principal y de cuándo ocurre la acción subordinada.\nPrincipal en presente: congiuntivo presente (misma época o futura) o passato (acción anterior): Credo che sia stanco / Credo che sia partito.\nPrincipal en pasado: congiuntivo imperfetto (misma época) o trapassato (acción anterior): Credevo che fosse stanco / Credevo che fosse già partito.\nTruco: si el verbo principal «mira» al presente, el subordinado se queda en presente o passato; si mira al pasado, retrocede un escalón.\nEn italiano formal esta regla se respeta mucho más que en la conversación diaria, donde a veces se usa el indicativo.",
+    "tabla": [
+      ["Credo che sia stanco.", "Creo que está cansado.", "créedo ke sía stánco"],
+      ["Credo che sia partito.", "Creo que se fue.", "créedo ke sía partíto"],
+      ["Credevo che fosse stanco.", "Creía que estaba cansado.", "credévo ke fósse stánco"],
+      ["Credevo che fosse partito.", "Creía que se había ido.", "credévo ke fósse partíto"],
+      ["Temevo che non arrivassimo.", "Temía que no llegáramos.", "temévo ke non arrivássimo"]
+    ],
+    "errores": [
+      "Decir «pensavo che è partito» en un texto formal: con un verbo principal en pasado va «pensavo che fosse partito».",
+      "Dejar el presente tras un verbo en pasado: «temevo che non arriva» es incorrecto; corresponde «non arrivasse».",
+      "Traducir el «hubiera» español con un solo tiempo: en italiano hay que elegir entre imperfetto y trapassato según la anterioridad."
+    ]
+  },
+  "practica": [
+    "Escribe diez frases con verbo principal en presente y otras diez en pasado, cambiando el congiuntivo según la regla (12 minutos).",
+    "Lee en voz alta un párrafo de un periódico italiano y subraya cada congiuntivo y cada passato remoto (10 minutos).",
+    "Redacta un correo formal de 100 palabras a un director usando «mi auguro che» y «qualora» (12 minutos).",
+    "Resume en cinco líneas la vida de un personaje histórico italiano usando solo passato remoto (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-c1-u9-l1",
+      "n": 1,
+      "titulo": "El congiuntivo en el registro formal",
+      "objetivo": "Introducir opiniones, deseos y dudas con fórmulas formales seguidas de congiuntivo.",
+      "intro": "En cartas, informes y discursos, el congiuntivo marca respeto y distancia. Truco: cuando la fórmula expresa deseo, duda o valoración («è opportuno che», «si auspica che»), lo que sigue va en congiuntivo.",
+      "palabras": [
+        { "t": "auspicare", "es": "auspiciar, desear vivamente", "pron": "auspicáre", "ej": "Si può solo auspicare che le parti trovino un accordo.", "ejes": "Solo cabe desear que las partes lleguen a un acuerdo.", "cog": true },
+        { "t": "è auspicabile che", "es": "es deseable que", "pron": "e auspicábile ke", "ej": "È auspicabile che l'incontro si svolga a breve.", "ejes": "Es deseable que la reunión se realice pronto.", "cog": false },
+        { "t": "è opportuno che", "es": "conviene que", "pron": "e oportúno ke", "ej": "È opportuno che i partecipanti arrivino in anticipo.", "ejes": "Conviene que los participantes lleguen con anticipación.", "cog": false },
+        { "t": "si ritiene che", "es": "se considera que", "pron": "si ritiéne ke", "ej": "Si ritiene che la riforma sia necessaria.", "ejes": "Se considera que la reforma es necesaria.", "cog": false },
+        { "t": "mi auguro che", "es": "espero que, deseo que", "pron": "mi áuguro ke", "ej": "Mi auguro che possiamo collaborare presto.", "ejes": "Espero que podamos colaborar pronto.", "cog": false },
+        { "t": "temere che", "es": "temer que", "pron": "temére ke", "ej": "Non c'è motivo di temere che i dati vadano persi.", "ejes": "No hay motivo para temer que los datos se pierdan.", "cog": true },
+        { "t": "dubitare che", "es": "dudar que", "pron": "dubitáre ke", "ej": "Ci sono ragioni per dubitare che il progetto sia sostenibile.", "ejes": "Hay razones para dudar de que el proyecto sea sostenible.", "cog": true },
+        { "t": "è improbabile che", "es": "es improbable que", "pron": "e improbábile ke", "ej": "È improbabile che la commissione approvi il testo.", "ejes": "Es improbable que la comisión apruebe el texto.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Si auspica che il Comitato voglia riconsiderare la propria posizione.", "es": "Se espera que el Comité quiera reconsiderar su postura.", "pron": "si auspíca ke il comitáto vólla riconsideráre la própria posisióne" },
+        { "t": "Gentile Direttore, mi auguro che abbia ricevuto la mia lettera.", "es": "Estimado Director, espero que haya recibido mi carta.", "pron": "dyentíle diréttore mi áuguro ke ábbia richevúto la mía léttera" },
+        { "t": "È opportuno che ciascuno esponga le proprie ragioni.", "es": "Conviene que cada uno exponga sus razones.", "pron": "e oportúno ke chiascúno espónga le própie radyóni" },
+        { "t": "Dubito che la nuova norma sia applicabile in tempi brevi.", "es": "Dudo que la nueva norma sea aplicable en plazos breves.", "pron": "dúbito ke la nuóva nórma sía applicábile in témpi brévi" },
+        { "t": "Ritengo improbabile che si raggiunga un accordo entro venerdì.", "es": "Considero improbable que se llegue a un acuerdo antes del viernes.", "pron": "riténgo improbábile ke si radyúnga un accórdo éntro venerdí" }
+      ],
+      "dialogo": {
+        "titulo": "Una riunione del consiglio",
+        "lineas": [
+          { "q": "A", "t": "Dottoressa Ferri, ritengo opportuno che il consiglio si riunisca prima della fine del mese.", "es": "Doctora Ferri, considero oportuno que el consejo se reúna antes de fin de mes." },
+          { "q": "B", "t": "Concordo, ma temo che alcuni membri non siano disponibili in quelle date.", "es": "Coincido, pero temo que algunos miembros no estén disponibles en esas fechas." },
+          { "q": "A", "t": "È auspicabile che si trovi una soluzione, magari con una riunione a distanza.", "es": "Es deseable que se encuentre una solución, quizá con una reunión a distancia." },
+          { "q": "B", "t": "Dubito che tutti accettino, ma posso proporlo formalmente a nome della presidenza.", "es": "Dudo que todos acepten, pero puedo proponerlo formalmente en nombre de la presidencia." },
+          { "q": "A", "t": "Mi auguro che la proposta venga accolta senza troppe obiezioni.", "es": "Espero que la propuesta sea acogida sin demasiadas objeciones." }
+        ]
+      },
+      "nota": "Si el sujeto de la principal y de la subordinada es el mismo, se prefiere el infinito: «Spero di arrivare in tempo», no «spero che io arrivi»."
+    },
+    {
+      "id": "it-c1-u9-l2",
+      "n": 2,
+      "titulo": "La concordanza dei tempi",
+      "objetivo": "Elegir el tiempo del congiuntivo según la relación entre principal y subordinada.",
+      "intro": "La concordanza dei tempi es la coordinación entre el tiempo de la principal y el de la subordinada. Truco: pregunta si la acción subordinada es contemporánea, anterior o posterior a la principal.",
+      "palabras": [
+        { "t": "la concordanza", "es": "la concordancia", "pron": "la concordántsa", "ej": "La concordanza dei tempi è una regola fondamentale.", "ejes": "La concordancia de tiempos es una regla fundamental.", "cog": true },
+        { "t": "la contemporaneità", "es": "la simultaneidad", "pron": "la contemporaneitá", "ej": "La contemporaneità si esprime con l'imperfetto del congiuntivo.", "ejes": "La simultaneidad se expresa con el imperfecto del subjuntivo.", "cog": false },
+        { "t": "l'anteriorità", "es": "la anterioridad", "pron": "lanterioritá", "ej": "L'anteriorità richiede il trapassato congiuntivo.", "ejes": "La anterioridad requiere el pluscuamperfecto de subjuntivo.", "cog": true },
+        { "t": "la posteriorità", "es": "la posterioridad", "pron": "la posterioritá", "ej": "Per la posteriorità si usa spesso il condizionale passato.", "ejes": "Para la posterioridad se usa a menudo el condicional compuesto.", "cog": true },
+        { "t": "la principale", "es": "la oración principal", "pron": "la principále", "ej": "Nella frase, la principale determina il tempo della subordinata.", "ejes": "El verbo de la principal determina el tiempo de la subordinada.", "cog": false },
+        { "t": "la subordinata", "es": "la oración subordinada", "pron": "la subordináta", "ej": "La subordinata dipende dal verbo principale.", "ejes": "La subordinada depende del verbo principal.", "cog": true },
+        { "t": "supporre", "es": "suponer", "pron": "suppórre", "ej": "Posso supporre che tu abbia già letto il contratto?", "ejes": "¿Puedo suponer que ya leíste el contrato?", "cog": true },
+        { "t": "ipotizzare", "es": "plantear como hipótesis", "pron": "ipotiddsáre", "ej": "Gli esperti preferiscono ipotizzare più cause possibili.", "ejes": "Los expertos prefieren plantear varias causas posibles.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Credo che sia partito ieri sera.", "es": "Creo que se fue ayer por la noche.", "pron": "créedo ke sía partíto iéri séra" },
+        { "t": "Credevo che fosse già partito.", "es": "Creía que ya se había ido.", "pron": "credévo ke fósse dyá partíto" },
+        { "t": "Pensavo che il direttore avesse approvato il piano.", "es": "Pensaba que el director había aprobado el plan.", "pron": "pensávo ke il diréttore avésse approváto il piáno" },
+        { "t": "Temevo che non arrivassimo in tempo.", "es": "Temía que no llegáramos a tiempo.", "pron": "temévo ke non arrivássimo in témpo" },
+        { "t": "Si diceva che l'azienda fosse in difficoltà.", "es": "Se decía que la empresa estaba en dificultades.", "pron": "si dichéva ke lasiénda fósse in difficoltá" }
+      ],
+      "dialogo": {
+        "titulo": "Un malinteso in ufficio",
+        "lineas": [
+          { "q": "A", "t": "Pensavo che il rapporto fosse già stato inviato al cliente.", "es": "Pensaba que el informe ya se había enviado al cliente." },
+          { "q": "B", "t": "Purtroppo credo che ci sia stato un errore: nessuno ha ricevuto la versione finale.", "es": "Lamentablemente creo que hubo un error: nadie recibió la versión final." },
+          { "q": "A", "t": "Temevo che succedesse qualcosa del genere, dato che il file era stato modificato più volte.", "es": "Temía que ocurriera algo así, dado que el archivo se había modificado varias veces." },
+          { "q": "B", "t": "Supponevo che Marco avesse controllato tutto prima di partire per le ferie.", "es": "Suponía que Marco había revisado todo antes de irse de vacaciones." },
+          { "q": "A", "t": "Bisogna che lo mandiamo oggi stesso, prima che il cliente si lamenti.", "es": "Hay que enviarlo hoy mismo, antes de que el cliente se queje." }
+        ]
+      },
+      "nota": "En la lengua hablada es común oír «pensavo che era» con indicativo, pero en exámenes, informes y cartas formales se espera el congiuntivo."
+    },
+    {
+      "id": "it-c1-u9-l3",
+      "n": 3,
+      "titulo": "El passato remoto en los textos",
+      "objetivo": "Reconocer y usar el passato remoto en textos históricos, narrativos y periodísticos.",
+      "intro": "En el norte se habla con passato prossimo, pero al leer historia, novelas o biografías verás el passato remoto. Truco: aprende primero las formas irregulares más frecuentes de la tercera persona: fu, ebbe, fece, disse.",
+      "palabras": [
+        { "t": "nacque", "es": "nació", "pron": "nácue", "ej": "Dante nacque a Firenze nel 1265.", "ejes": "Dante nació en Florencia en 1265.", "cog": false },
+        { "t": "morì", "es": "murió", "pron": "morí", "ej": "Leonardo morì in Francia nel 1519.", "ejes": "Leonardo murió en Francia en 1519.", "cog": false },
+        { "t": "fu", "es": "fue, estuvo", "pron": "fu", "ej": "Fu un periodo molto difficile per il paese.", "ejes": "Fue un período muy difícil para el país.", "cog": false },
+        { "t": "ebbe", "es": "tuvo", "pron": "ébbe", "ej": "L'opera ebbe un successo enorme.", "ejes": "La obra tuvo un éxito enorme.", "cog": false },
+        { "t": "scrisse", "es": "escribió", "pron": "scrísse", "ej": "Manzoni scrisse un romanzo famoso.", "ejes": "Manzoni escribió una novela famosa.", "cog": false },
+        { "t": "visse", "es": "vivió", "pron": "vísse", "ej": "Il pittore visse a lungo a Roma.", "ejes": "El pintor vivió largo tiempo en Roma.", "cog": false },
+        { "t": "decise", "es": "decidió", "pron": "decíse", "ej": "Il re decise di partire all'alba.", "ejes": "El rey decidió partir al amanecer.", "cog": true },
+        { "t": "giunse", "es": "llegó", "pron": "dyúnse", "ej": "L'esercito giunse a Venezia in autunno.", "ejes": "El ejército llegó a Venecia en otoño.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il poeta nacque nel 1265 e morì a Ravenna nel 1321.", "es": "El poeta nació en 1265 y murió en Rávena en 1321.", "pron": "il poéta nácue nel míle duechéntosessantachínque e morí a ravénna nel míle trechéntoventún" },
+        { "t": "Dopo la guerra la città fu ricostruita in pochi anni.", "es": "Después de la guerra la ciudad fue reconstruida en pocos años.", "pron": "dópo la guérra la chittá fu ricostruíta in póki ánni" },
+        { "t": "Il sindaco ebbe l'idea di costruire un nuovo ponte.", "es": "El alcalde tuvo la idea de construir un nuevo puente.", "pron": "il síndaco ébbe lidéa di costruíre un nuóvo ponte" },
+        { "t": "Garibaldi sbarcò in Sicilia nel 1860.", "es": "Garibaldi desembarcó en Sicilia en 1860.", "pron": "garibáldi sbarcó in sichília nel míle ottochentosessánta" },
+        { "t": "Quando giunsero in porto, era ormai notte.", "es": "Cuando llegaron al puerto, ya era de noche.", "pron": "cuándo dyúnsero in pórto éra ormái nótte" }
+      ],
+      "dialogo": {
+        "titulo": "Una visita guidata",
+        "lineas": [
+          { "q": "A", "t": "Questo palazzo fu costruito nel Quattrocento e ospitò per secoli la famiglia dei duchi.", "es": "Este palacio fue construido en el siglo XV y albergó durante siglos a la familia de los duques." },
+          { "q": "B", "t": "E chi lo decorò? Gli affreschi sembrano opera di un grande maestro.", "es": "¿Y quién lo decoró? Los frescos parecen obra de un gran maestro." },
+          { "q": "A", "t": "Lo decorò un artista locale, che visse qui per quasi trent'anni e non lasciò mai la regione.", "es": "Lo decoró un artista local, que vivió aquí casi treinta años y nunca dejó la región." },
+          { "q": "B", "t": "Quindi la fama non arrivò subito? Non ebbe riconoscimenti in vita?", "es": "¿Entonces la fama no llegó enseguida? ¿No tuvo reconocimientos en vida?" },
+          { "q": "A", "t": "No, la sua opera fu riscoperta soltanto dopo la sua morte, nell'Ottocento.", "es": "No, su obra fue redescubierta solo después de su muerte, en el siglo XIX." }
+        ]
+      },
+      "nota": "En el centro y sur de Italia el passato remoto también se oye al hablar; en el norte casi solo se escribe. En ambos casos conviene saber leerlo bien."
+    },
+    {
+      "id": "it-c1-u9-l4",
+      "n": 4,
+      "titulo": "Conectores formales con congiuntivo",
+      "objetivo": "Usar conectores que exigen congiuntivo para expresar finalidad, condición y tiempo en textos formales.",
+      "intro": "Ciertos conectores piden siempre congiuntivo. Truco: affinché, purché, a meno che, qualora y prima che son el kit del lenguaje administrativo.",
+      "palabras": [
+        { "t": "affinché", "es": "para que", "pron": "affinké", "ej": "Scrivo affinché il problema venga risolto.", "ejes": "Escribo para que el problema se resuelva.", "cog": false },
+        { "t": "purché", "es": "con tal de que", "pron": "purké", "ej": "Accetto purché le condizioni siano chiare.", "ejes": "Acepto con tal de que las condiciones estén claras.", "cog": false },
+        { "t": "a meno che non", "es": "a menos que", "pron": "a méno ke non", "ej": "Restiamo a casa, a meno che non cambi il tempo.", "ejes": "Nos quedamos en casa, a menos que cambie el tiempo.", "cog": false },
+        { "t": "qualora", "es": "en caso de que", "pron": "cualóra", "ej": "Qualora emergano nuovi dati, vi informeremo subito.", "ejes": "En caso de que surjan nuevos datos, se lo informaremos enseguida.", "cog": false },
+        { "t": "prima che", "es": "antes de que", "pron": "príma ke", "ej": "Firmate prima che scada il termine.", "ejes": "Firmen antes de que venza el plazo.", "cog": false },
+        { "t": "senza che", "es": "sin que", "pron": "séntsa ke", "ej": "Ha deciso senza che nessuno lo sapesse.", "ejes": "Decidió sin que nadie lo supiera.", "cog": false },
+        { "t": "a condizione che", "es": "a condición de que", "pron": "a condisióne ke", "ej": "Firmo a condizione che il testo venga corretto.", "ejes": "Firmo a condición de que el texto se corrija.", "cog": false },
+        { "t": "in modo che", "es": "de modo que, para que", "pron": "in módo ke", "ej": "Organizzeremo tutto in modo che sia chiaro a tutti.", "ejes": "Organizaremos todo de modo que quede claro para todos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Vi scriviamo affinché possiate prendere visione del documento.", "es": "Le escribimos para que puedan tomar conocimiento del documento.", "pron": "vi scrivíamo affinké possiáte prendére visióne del documénto" },
+        { "t": "Il contratto sarà valido purché venga firmato entro lunedì.", "es": "El contrato será válido siempre que se firme antes del lunes.", "pron": "il contrátto sará válido purké vénga firmáto éntro lunedí" },
+        { "t": "Qualora il pagamento non risulti, vi preghiamo di contattarci.", "es": "En caso de que el pago no figure, le rogamos que nos contacte.", "pron": "cualóra il pagaménto non risúlti vi pregamo di contattárchi" },
+        { "t": "Chiedo di intervenire prima che la situazione peggiori.", "es": "Pido intervenir antes de que la situación empeore.", "pron": "kiédo di interveníre príma ke la situasióne pedyóri" },
+        { "t": "Ha lasciato la sala senza che nessuno se ne accorgesse.", "es": "Salió de la sala sin que nadie se diera cuenta.", "pron": "a lashiáto la sála séntsa ke nessúno se ne accórdyesse" }
+      ],
+      "dialogo": {
+        "titulo": "Una trattativa con il fornitore",
+        "lineas": [
+          { "q": "A", "t": "Siamo disposti a rinnovare il contratto purché i prezzi restino invariati per due anni.", "es": "Estamos dispuestos a renovar el contrato siempre que los precios se mantengan sin cambios dos años." },
+          { "q": "B", "t": "Capisco, a meno che non aumentino le materie prime, e in quel caso dovremmo riparlarne.", "es": "Entiendo, a menos que aumenten las materias primas, y en ese caso tendríamos que volver a hablar." },
+          { "q": "A", "t": "Qualora ciò accada, vi invieremo una comunicazione scritta prima che scatti qualsiasi aumento.", "es": "En caso de que eso ocurra, les enviaremos una comunicación escrita antes de que se aplique cualquier aumento." },
+          { "q": "B", "t": "Va bene, a condizione che la clausola venga inserita nel testo definitivo.", "es": "Está bien, a condición de que la cláusula se incluya en el texto definitivo." },
+          { "q": "A", "t": "La inseriremo in modo che non ci siano dubbi interpretativi.", "es": "La incluiremos de modo que no haya dudas de interpretación." }
+        ]
+      },
+      "nota": "«Prima che» y «senza che» llevan congiuntivo cuando hay dos sujetos distintos; con el mismo sujeto se usa «prima di» y «senza» + infinito: «Firma prima di partire»."
+    },
+    {
+      "id": "it-c1-u9-l5",
+      "n": 5,
+      "titulo": "Repaso: carta y correo formal",
+      "objetivo": "Redactar un correo formal combinando congiuntivo, concordanza dei tempi y conectores.",
+      "intro": "Repasa escribiendo un correo completo: saludo, petición, condición y cierre. Truco: abre con una fórmula, justifica con un connettivo y cierra con «distinti saluti».",
+      "palabras": [
+        { "t": "gradirei", "es": "agradecería, me gustaría", "pron": "gradiréi", "ej": "Gradirei ricevere una risposta entro venerdì.", "ejes": "Agradecería recibir una respuesta antes del viernes.", "cog": false },
+        { "t": "la pregherei di", "es": "le rogaría que", "pron": "la pregueréi di", "ej": "La pregherei di confermare la ricezione.", "ejes": "Le rogaría que confirmara la recepción.", "cog": false },
+        { "t": "in allegato", "es": "adjunto", "pron": "in allegáto", "ej": "In allegato trova il modulo compilato.", "ejes": "Adjunto encontrará el formulario completado.", "cog": false },
+        { "t": "restare a disposizione", "es": "quedar a disposición", "pron": "restáre a disposisióne", "ej": "Voglio restare a disposizione per qualsiasi chiarimento.", "ejes": "Quiero quedar a disposición para cualquier aclaración.", "cog": false },
+        { "t": "il destinatario", "es": "el destinatario", "pron": "il destinatário", "ej": "Il destinatario non ha ancora risposto.", "ejes": "El destinatario aún no ha respondido.", "cog": true },
+        { "t": "distinti saluti", "es": "atentamente", "pron": "distínti salúti", "ej": "Con i migliori auguri, distinti saluti.", "ejes": "Con los mejores deseos, atentamente.", "cog": false },
+        { "t": "porgere", "es": "presentar, ofrecer", "pron": "pórdyere", "ej": "Desidero porgere le mie scuse per il ritardo.", "ejes": "Deseo presentar mis disculpas por el retraso.", "cog": false },
+        { "t": "il chiarimento", "es": "la aclaración", "pron": "il kiariménto", "ej": "Il chiarimento è arrivato in serata.", "ejes": "La aclaración llegó por la tarde.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Gentile Dottor Rossi, le scrivo affinché mi chiarisca alcuni punti.", "es": "Estimado Doctor Rossi, le escribo para que me aclare algunos puntos.", "pron": "dyentíle dottór rósi le scrívo affinké mi kiarísca álcuni púnti" },
+        { "t": "Gradirei ricevere una risposta prima che scada il termine.", "es": "Agradecería recibir una respuesta antes de que venza el plazo.", "pron": "gradiréi richevére úna rispósta príma ke scáda il términe" },
+        { "t": "Pensavo che i documenti fossero già stati inviati.", "es": "Pensaba que los documentos ya habían sido enviados.", "pron": "pensávo ke i documénti fóssero dyá státi inviáti" },
+        { "t": "Qualora servano ulteriori chiarimenti, resto a disposizione.", "es": "En caso de que se necesiten más aclaraciones, quedo a disposición.", "pron": "cualóra sérvano ulteriori kiariménti résto a disposisióne" },
+        { "t": "Nel 1990 l'azienda ebbe un'espansione rapida e fu citata dalla stampa.", "es": "En 1990 la empresa tuvo una expansión rápida y fue citada por la prensa.", "pron": "nel míle novechéntonovánta lasiénda ébbe unespansióne rápida e fu chitáta dála stámpa" }
+      ],
+      "dialogo": {
+        "titulo": "Preparare una lettera formale",
+        "lineas": [
+          { "q": "A", "t": "Vorrei che la lettera fosse chiara ma anche cortese: ritengo che il tono conti molto.", "es": "Quisiera que la carta fuera clara pero también cortés: considero que el tono importa mucho." },
+          { "q": "B", "t": "Allora comincerei con «Gentile Direttore» e chiederei che ci confermi la data.", "es": "Entonces empezaría con «Estimado Director» y le pediría que nos confirme la fecha." },
+          { "q": "A", "t": "Aggiungiamo che restiamo a disposizione, qualora servano altri documenti.", "es": "Añadamos que quedamos a disposición, en caso de que se necesiten otros documentos." },
+          { "q": "B", "t": "Pensavo che avessimo già allegato il modulo: mi pare strano che non sia in cartella.", "es": "Pensaba que ya habíamos adjuntado el formulario: me parece raro que no esté en la carpeta." },
+          { "q": "A", "t": "Lo mettiamo in allegato e chiudiamo con «distinti saluti»: così la lettera è completa.", "es": "Lo ponemos adjunto y cerramos con «distinti saluti»: así la carta está completa." }
+        ]
+      },
+      "nota": "En el correo formal italiano se usa el «Lei» de cortesía y, en muchos casos, la forma «Egregio/Gentile + título + apellido»."
+    }
+  ]
+}

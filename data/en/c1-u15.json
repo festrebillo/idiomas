@@ -1,0 +1,221 @@
+{
+  "id": "en-c1-u15",
+  "idioma": "en",
+  "nivel": "C1",
+  "n": 15,
+  "titulo": "Fraseología avanzada",
+  "resumen": "Aprenderás phrasal verbs avanzados del trabajo y de las relaciones, expresiones fijas formales y modismos que usan los hablantes nativos educados.",
+  "puedo": [
+    "Usar phrasal verbs avanzados como roll out, phase out y iron out.",
+    "Hablar de emociones y relaciones con bounce back, open up y let down.",
+    "Usar expresiones fijas como in the long run, at stake y in light of.",
+    "Entender y usar modismos como back to square one o a blessing in disguise.",
+    "Colocar bien el pronombre en phrasal verbs separables."
+  ],
+  "gramatica": {
+    "titulo": "Phrasal verbs: separables e inseparables",
+    "texto": "Un phrasal verb es un verbo + partícula (up, out, off, on...) con un significado propio: carry out = llevar a cabo. Hay dos tipos.\nSeparables: el objeto puede ir en medio. Si es un sustantivo, tienes dos opciones: iron out the problems o iron the problems out. Si es un pronombre, SIEMPRE va en medio: iron them out (nunca «iron out them»).\nInseparables: el objeto va siempre después: look after the children, count on me, run into an old friend.\nVerbos de tres partes (verbo + partícula + preposición) son casi siempre inseparables: come up with an idea, put up with the noise, follow up on the email.\nTruco: al aprender un phrasal verb, anota también si se puede separar.",
+    "tabla": [
+      ["carry out a study / carry it out", "llevar a cabo un estudio / llevarlo a cabo", "cári aut a stádi / cári it aut"],
+      ["iron out the problems / iron them out", "resolver los problemas / resolverlos", "áiron aut da próblems / áiron dem aut"],
+      ["look after the children", "cuidar a los niños", "luc áfter da chíldren"],
+      ["come up with an idea", "ocurrírsele una idea", "cam ap uid an aidía"],
+      ["put up with the noise", "aguantar el ruido", "put ap uid da nóis"],
+      ["follow up on the email", "dar seguimiento al correo", "fólou ap on di ímeil"]
+    ],
+    "errores": [
+      "No pongas el pronombre después de la partícula: es iron them out, no «iron out them».",
+      "No separes los phrasal verbs inseparables: es look after her, no «look her after».",
+      "No traduzcas la partícula palabra por palabra: put off no significa «poner fuera» sino aplazar."
+    ]
+  },
+  "practica": [
+    "Escribe 10 oraciones con phrasal verbs de la unidad y subraya cuáles se pueden separar (15 minutos).",
+    "Lee una noticia de negocios y anota 8 phrasal verbs o expresiones fijas con su significado (15 minutos).",
+    "Graba un audio de 1 minuto contando un problema de trabajo con roll out, iron out y come up with (10 minutos).",
+    "Crea 10 tarjetas con el phrasal verb en un lado y una oración natural en el otro, y repásalas dos veces (15 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-c1-u15-l1",
+      "n": 1,
+      "titulo": "Phrasal verbs del trabajo",
+      "objetivo": "Usar roll out, phase out, step down, iron out, follow up on y come up with en contextos profesionales.",
+      "intro": "Los phrasal verbs son muy frecuentes en reuniones y correos. Muchos tienen un equivalente más formal, pero el phrasal suena más natural. Truco: aprende cada uno dentro de una frase completa.",
+      "palabras": [
+        { "t": "carry out", "es": "llevar a cabo", "pron": "cári aut", "ej": "We will carry out a full review next month.", "ejes": "Llevaremos a cabo una revisión completa el próximo mes.", "cog": false },
+        { "t": "roll out", "es": "lanzar, implementar", "pron": "roul aut", "ej": "The company plans to roll out the new system in May.", "ejes": "La empresa planea implementar el nuevo sistema en mayo.", "cog": false },
+        { "t": "phase out", "es": "eliminar gradualmente", "pron": "feis aut", "ej": "They will phase out the old model by December.", "ejes": "Eliminarán gradualmente el modelo antiguo para diciembre.", "cog": false },
+        { "t": "step down", "es": "renunciar a un cargo", "pron": "step daun", "ej": "The director decided to step down after ten years.", "ejes": "El director decidió renunciar tras diez años.", "cog": false },
+        { "t": "iron out", "es": "resolver, pulir detalles", "pron": "áiron aut", "ej": "We still need to iron out a few details.", "ejes": "Todavía debemos pulir algunos detalles.", "cog": false },
+        { "t": "follow up on", "es": "dar seguimiento a", "pron": "fólou ap on", "ej": "Please follow up on the invoice with accounting.", "ejes": "Por favor, da seguimiento a la factura con contabilidad.", "cog": false },
+        { "t": "come up with", "es": "idear, ocurrírsele", "pron": "cam ap uid", "ej": "We need to come up with a better solution.", "ejes": "Necesitamos idear una mejor solución.", "cog": false },
+        { "t": "back out", "es": "echarse atrás", "pron": "bac aut", "ej": "The investor may back out at the last minute.", "ejes": "El inversionista puede echarse atrás en el último minuto.", "cog": false }
+      ],
+      "frases": [
+        { "t": "We plan to roll out the new software in March.", "es": "Planeamos implementar el nuevo software en marzo.", "pron": "ui plan tu roul aut da niu sóftuer in march" },
+        { "t": "The old system will be phased out gradually.", "es": "El sistema antiguo se eliminará gradualmente.", "pron": "di ould sístem uil bi feisd áut grádiuali" },
+        { "t": "Let's iron out the details before the launch.", "es": "Pulamos los detalles antes del lanzamiento.", "pron": "lets áiron aut da dítels bifór da lonch" },
+        { "t": "Could you follow up on that request tomorrow?", "es": "¿Podrías dar seguimiento a esa solicitud mañana?", "pron": "cud iu fólou ap on dat rikuést tumórou" },
+        { "t": "She had to come up with a plan in ten minutes.", "es": "Tuvo que idear un plan en diez minutos.", "pron": "shi jad tu cam ap uid a plan in ten mínits" }
+      ],
+      "dialogo": {
+        "titulo": "Una reunión de proyecto",
+        "lineas": [
+          { "q": "A", "t": "We're going to roll out the new platform in June, and phase out the old one by September.", "es": "Vamos a implementar la nueva plataforma en junio y eliminar la antigua para septiembre." },
+          { "q": "B", "t": "Before that, we have to iron out a few technical issues. I'll carry out more tests this week.", "es": "Antes de eso, debemos pulir algunos problemas técnicos. Haré más pruebas esta semana." },
+          { "q": "A", "t": "Good. Could you also follow up on the vendor's contract? They might back out.", "es": "Bien. ¿Podrías también dar seguimiento al contrato del proveedor? Podrían echarse atrás." },
+          { "q": "B", "t": "I'll call them today. If they pull out, we'll need to come up with an alternative fast.", "es": "Los llamaré hoy. Si se retiran, tendremos que idear una alternativa rápido." },
+          { "q": "A", "t": "Agreed. By the way, the project lead is going to step down next month.", "es": "De acuerdo. Por cierto, el líder del proyecto va a renunciar el próximo mes." },
+          { "q": "B", "t": "That's unexpected. We'll need to adjust the timeline accordingly.", "es": "Es inesperado. Tendremos que ajustar el cronograma en consecuencia." }
+        ]
+      },
+      "nota": "Muchos phrasal verbs de negocios tienen equivalentes formales: carry out = conduct, roll out = launch, phase out = discontinue, iron out = resolve. Úsalos según el registro."
+    },
+    {
+      "id": "en-c1-u15-l2",
+      "n": 2,
+      "titulo": "Phrasal verbs de emociones y relaciones",
+      "objetivo": "Hablar de emociones y relaciones con bounce back, open up, let down y put up with.",
+      "intro": "Los phrasal verbs son especialmente comunes cuando hablamos de personas. Truco: muchos son inseparables cuando hay un complemento de persona: look up to him, put up with her, get over it.",
+      "palabras": [
+        { "t": "bounce back", "es": "recuperarse", "pron": "bauns bac", "ej": "Small companies can bounce back from a crisis.", "ejes": "Las empresas pequeñas pueden recuperarse de una crisis.", "cog": false },
+        { "t": "open up", "es": "abrirse, sincerarse", "pron": "óupen ap", "ej": "It took him months to open up about his fears.", "ejes": "Le tomó meses sincerarse sobre sus miedos.", "cog": false },
+        { "t": "let down", "es": "decepcionar, fallar", "pron": "let daun", "ej": "I don't want to let down my team.", "ejes": "No quiero decepcionar a mi equipo.", "cog": false },
+        { "t": "put up with", "es": "aguantar, tolerar", "pron": "put ap uid", "ej": "I can't put up with the noise any longer.", "ejes": "No aguanto más el ruido.", "cog": false },
+        { "t": "look up to", "es": "admirar, respetar", "pron": "luc ap tu", "ej": "Many students look up to their professor.", "ejes": "Muchos estudiantes admiran a su profesor.", "cog": false },
+        { "t": "get over", "es": "superar", "pron": "guet óuver", "ej": "It takes time to get over a loss.", "ejes": "Toma tiempo superar una pérdida.", "cog": false },
+        { "t": "fall out", "es": "pelearse, distanciarse", "pron": "fol aut", "ej": "The two friends could fall out over money.", "ejes": "Los dos amigos podrían pelearse por dinero.", "cog": false },
+        { "t": "drift apart", "es": "distanciarse poco a poco", "pron": "drift apárt", "ej": "Friends often drift apart after graduation.", "ejes": "Los amigos suelen distanciarse poco a poco tras graduarse.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I don't want to let you down.", "es": "No quiero decepcionarte.", "pron": "ai dont uant tu let iu daun" },
+        { "t": "It took her a long time to get over the breakup.", "es": "Le tomó mucho tiempo superar la ruptura.", "pron": "it tuc jer a long taim tu guet óuver da bréicap" },
+        { "t": "I can't put up with his constant complaining.", "es": "No aguanto sus quejas constantes.", "pron": "ai cant put ap uid jis cónstant compléinin" },
+        { "t": "Everyone looks up to her because of her integrity.", "es": "Todos la admiran por su integridad.", "pron": "évriuan lucs ap tu jer por jer integríti" },
+        { "t": "Some friends just drift apart over the years.", "es": "Algunos amigos simplemente se distancian con los años.", "pron": "sam frends yast drift apárt óuver di iirs" }
+      ],
+      "dialogo": {
+        "titulo": "Un consejo entre amigos",
+        "lineas": [
+          { "q": "A", "t": "I've had a tough year. My business failed, and I feel like I let down everyone.", "es": "He tenido un año duro. Mi negocio fracasó y siento que decepcioné a todos." },
+          { "q": "B", "t": "I'm sorry to hear that. You'll bounce back, I'm sure. You always do.", "es": "Lamento oírlo. Te recuperarás, estoy seguro. Siempre lo haces." },
+          { "q": "A", "t": "Thanks. It's hard to open up about it, even with my family.", "es": "Gracias. Es difícil sincerarme sobre esto, incluso con mi familia." },
+          { "q": "B", "t": "I understand. Many of us look up to you, and we won't judge you.", "es": "Lo entiendo. Muchos te admiramos y no te juzgaremos." },
+          { "q": "A", "t": "I just can't get over the feeling of failure, and I can't put up with the pity either.", "es": "Es que no logro superar la sensación de fracaso, y tampoco aguanto la lástima." },
+          { "q": "B", "t": "Fair enough. Let's not drift apart. Call me when you're ready.", "es": "Es justo. No nos distanciemos. Llámame cuando estés listo." }
+        ]
+      },
+      "nota": "Muchos phrasal verbs de emociones tienen sentido literal y figurado: let down puede ser bajar algo físicamente (let the blinds down) o decepcionar a alguien."
+    },
+    {
+      "id": "en-c1-u15-l3",
+      "n": 3,
+      "titulo": "Expresiones fijas formales",
+      "objetivo": "Usar expresiones fijas como in the long run, at stake, on the verge of e in light of.",
+      "intro": "Una expresión fija es una combinación de palabras que no puedes cambiar: se dice in the long run, no in the long term run. Aprenderlas completas te da fluidez y precisión. Truco: apréndelas como bloque, con su preposición.",
+      "palabras": [
+        { "t": "in the long run", "es": "a largo plazo", "pron": "in da long ran", "ej": "In the long run, this investment will pay off.", "ejes": "A largo plazo, esta inversión valdrá la pena.", "cog": false },
+        { "t": "at stake", "es": "en juego", "pron": "at steic", "ej": "Thousands of jobs are at stake.", "ejes": "Hay miles de empleos en juego.", "cog": false },
+        { "t": "on the verge of", "es": "al borde de", "pron": "on da verch ov", "ej": "The country is on the verge of a recession.", "ejes": "El país está al borde de una recesión.", "cog": false },
+        { "t": "in light of", "es": "a la luz de, dado", "pron": "in lait ov", "ej": "In light of recent events, we will postpone the launch.", "ejes": "A la luz de los eventos recientes, pospondremos el lanzamiento.", "cog": false },
+        { "t": "for the time being", "es": "por el momento", "pron": "for da taim bíin", "ej": "For the time being, we will keep the current prices.", "ejes": "Por el momento, mantendremos los precios actuales.", "cog": false },
+        { "t": "come to terms with", "es": "aceptar, asumir", "pron": "cam tu térms uid", "ej": "He is still trying to come to terms with the loss.", "ejes": "Todavía intenta asumir la pérdida.", "cog": false },
+        { "t": "in the wake of", "es": "tras, a raíz de", "pron": "in da ueic ov", "ej": "In the wake of the scandal, the minister resigned.", "ejes": "A raíz del escándalo, el ministro renunció.", "cog": false },
+        { "t": "at any rate", "es": "en cualquier caso", "pron": "at éni reit", "ej": "At any rate, we should decide before Friday.", "ejes": "En cualquier caso, deberíamos decidir antes del viernes.", "cog": false }
+      ],
+      "frases": [
+        { "t": "In the long run, quality always pays off.", "es": "A largo plazo, la calidad siempre rinde frutos.", "pron": "in da long ran, cuóliti ólueis peis of" },
+        { "t": "Our reputation is at stake in this negotiation.", "es": "Nuestra reputación está en juego en esta negociación.", "pron": "áuer repiutéishon is at steic in dis negoushiéishon" },
+        { "t": "The company is on the verge of bankruptcy.", "es": "La empresa está al borde de la quiebra.", "pron": "da cómpani is on da verch ov bánkraptsi" },
+        { "t": "In light of the new evidence, we must reconsider.", "es": "A la luz de la nueva evidencia, debemos reconsiderar.", "pron": "in lait ov da niu évidens, ui mast ricansíder" },
+        { "t": "For the time being, nothing will change.", "es": "Por el momento, nada cambiará.", "pron": "for da taim bíin, názin uil cheinch" }
+      ],
+      "dialogo": {
+        "titulo": "Una decisión de la junta",
+        "lineas": [
+          { "q": "A", "t": "In light of the latest figures, I suggest we freeze hiring for the time being.", "es": "A la luz de las últimas cifras, sugiero congelar las contrataciones por el momento." },
+          { "q": "B", "t": "Understandable. The company is on the verge of its worst quarter in years.", "es": "Comprensible. La empresa está al borde de su peor trimestre en años." },
+          { "q": "A", "t": "Exactly. Several jobs are at stake if we don't act.", "es": "Exacto. Varios empleos están en juego si no actuamos." },
+          { "q": "B", "t": "In the wake of the merger, many staff members are still coming to terms with the changes.", "es": "A raíz de la fusión, muchos empleados todavía están asumiendo los cambios." },
+          { "q": "A", "t": "Right. At any rate, in the long run these measures will stabilize the company.", "es": "Así es. En cualquier caso, a largo plazo estas medidas estabilizarán la empresa." },
+          { "q": "B", "t": "Let's present them to the board tomorrow.", "es": "Presentémoselas a la junta mañana." }
+        ]
+      },
+      "nota": "In the long run es a largo plazo; in the end es al final. Para decir «a corto plazo» usa in the short term, no in the short run en contextos de negocios formales."
+    },
+    {
+      "id": "en-c1-u15-l4",
+      "n": 4,
+      "titulo": "Modismos con sentido figurado",
+      "objetivo": "Entender y usar modismos como back to square one, a blessing in disguise y touch base.",
+      "intro": "Los modismos no se entienden traduciendo palabra por palabra: back to square one no habla de cuadrados. Truco: aprende el modismo con una imagen en la cabeza y no cambies sus palabras.",
+      "palabras": [
+        { "t": "back to square one", "es": "volver a empezar desde cero", "pron": "bac tu scuér uan", "ej": "The deal collapsed, so we are back to square one.", "ejes": "El trato se cayó, así que estamos de vuelta al principio.", "cog": false },
+        { "t": "a blessing in disguise", "es": "una bendición disfrazada", "pron": "a blésin in disgáis", "ej": "Losing that job was a blessing in disguise.", "ejes": "Perder ese trabajo fue una bendición disfrazada.", "cog": false },
+        { "t": "cut corners", "es": "ahorrar a costa de la calidad", "pron": "cat córners", "ej": "Never cut corners when it comes to safety.", "ejes": "Nunca ahorres a costa de la seguridad.", "cog": false },
+        { "t": "raise the bar", "es": "subir el nivel", "pron": "reis da bar", "ej": "Her work will raise the bar for everyone in the team.", "ejes": "Su trabajo subirá el nivel para todos en el equipo.", "cog": false },
+        { "t": "touch base", "es": "ponerse en contacto brevemente", "pron": "tach beis", "ej": "Let's touch base next week to review progress.", "ejes": "Hablemos brevemente la próxima semana para revisar el avance.", "cog": false },
+        { "t": "the tip of the iceberg", "es": "la punta del iceberg", "pron": "da tip ov di áisberg", "ej": "These complaints are just the tip of the iceberg.", "ejes": "Estas quejas son solo la punta del iceberg.", "cog": false },
+        { "t": "a double-edged sword", "es": "un arma de doble filo", "pron": "a dábol-ecvd sord", "ej": "Fame can be a double-edged sword.", "ejes": "La fama puede ser un arma de doble filo.", "cog": false },
+        { "t": "the ball is in your court", "es": "ahora te toca a ti", "pron": "da bol is in ior cort", "ej": "I've made my offer, so the ball is in your court.", "ejes": "Ya hice mi oferta, así que ahora te toca a ti.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The test failed, so we are back to square one.", "es": "La prueba falló, así que estamos de nuevo en el punto de partida.", "pron": "da test feild, sou ui ar bac tu scuér uan" },
+        { "t": "Losing the contract was a blessing in disguise.", "es": "Perder el contrato fue una bendición disfrazada.", "pron": "lúsin da cóntract uas a blésin in disgáis" },
+        { "t": "We refuse to cut corners on quality.", "es": "Nos negamos a ahorrar a costa de la calidad.", "pron": "ui rifiús tu cat córners on cuóliti" },
+        { "t": "This outcome is just the tip of the iceberg.", "es": "Este resultado es solo la punta del iceberg.", "pron": "dis áutcam is yast da tip ov di áisberg" },
+        { "t": "Social media is a double-edged sword.", "es": "Las redes sociales son un arma de doble filo.", "pron": "sóushal mídia is a dábol-ecvd sord" }
+      ],
+      "dialogo": {
+        "titulo": "Reflexionar sobre un proyecto",
+        "lineas": [
+          { "q": "A", "t": "The client rejected the prototype, so we're back to square one.", "es": "El cliente rechazó el prototipo, así que volvemos al punto de partida." },
+          { "q": "B", "t": "Honestly, it might be a blessing in disguise. We cut corners on testing last time.", "es": "Sinceramente, quizás sea una bendición disfrazada. La última vez ahorramos en las pruebas." },
+          { "q": "A", "t": "True. And those errors are probably just the tip of the iceberg.", "es": "Cierto. Y esos errores probablemente son solo la punta del iceberg." },
+          { "q": "B", "t": "This time let's raise the bar. A better design will be a double-edged sword, but worth it.", "es": "Esta vez subamos el nivel. Un mejor diseño será un arma de doble filo, pero valdrá la pena." },
+          { "q": "A", "t": "Fine. Let's touch base on Friday to see where we stand.", "es": "Bien. Hablemos el viernes para ver cómo vamos." },
+          { "q": "B", "t": "Sure. I'll send the plan to the client; after that, the ball is in their court.", "es": "Claro. Enviaré el plan al cliente; después de eso, la decisión es de ellos." }
+        ]
+      },
+      "nota": "Los modismos son más frecuentes en el habla que en la escritura formal. Un exceso de modismos en una presentación puede sonar poco serio; úsalos con moderación."
+    },
+    {
+      "id": "en-c1-u15-l5",
+      "n": 5,
+      "titulo": "Repaso: lenguaje natural de negocios",
+      "objetivo": "Combinar phrasal verbs, expresiones fijas y modismos en una conversación profesional.",
+      "intro": "Los nativos mezclan estas herramientas sin pensar. Practica combinándolas en situaciones reales: una reunión, un correo informal, una negociación. Truco: usa un phrasal verb por oración, no más.",
+      "palabras": [
+        { "t": "bring up", "es": "sacar un tema, mencionar", "pron": "bring ap", "ej": "I'll bring up the budget at the next meeting.", "ejes": "Sacaré el tema del presupuesto en la próxima reunión.", "cog": false },
+        { "t": "sort out", "es": "arreglar, resolver", "pron": "sort aut", "ej": "We must sort out this misunderstanding quickly.", "ejes": "Debemos resolver este malentendido rápido.", "cog": false },
+        { "t": "turn down", "es": "rechazar", "pron": "tern daun", "ej": "She decided to turn down the job offer.", "ejes": "Decidió rechazar la oferta de trabajo.", "cog": false },
+        { "t": "take on", "es": "asumir, contratar", "pron": "teic on", "ej": "We plan to take on three new engineers.", "ejes": "Planeamos contratar a tres ingenieros nuevos.", "cog": false },
+        { "t": "set back", "es": "retrasar", "pron": "set bac", "ej": "The delay could set back the project by weeks.", "ejes": "El retraso podría retrasar el proyecto semanas.", "cog": false },
+        { "t": "figure out", "es": "averiguar, entender", "pron": "fíguer aut", "ej": "I can't figure out why the system crashed.", "ejes": "No logro entender por qué se cayó el sistema.", "cog": false },
+        { "t": "wrap up", "es": "concluir, cerrar", "pron": "rap ap", "ej": "Let's wrap up the meeting in five minutes.", "ejes": "Cerremos la reunión en cinco minutos.", "cog": false },
+        { "t": "look into", "es": "investigar, examinar", "pron": "luc íntu", "ej": "We will look into the matter immediately.", "ejes": "Investigaremos el asunto de inmediato.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I'll bring up the issue at the next meeting.", "es": "Sacaré el tema en la próxima reunión.", "pron": "ail bring ap di íshu at da next míitin" },
+        { "t": "We need to sort out the contract before Friday.", "es": "Necesitamos resolver el contrato antes del viernes.", "pron": "ui nid tu sort aut da cóntract bifór fráidei" },
+        { "t": "They turned down our offer, so we are back to square one.", "es": "Rechazaron nuestra oferta, así que volvemos al punto de partida.", "pron": "dei ternd daun áuer ófer, sou ui ar bac tu scuér uan" },
+        { "t": "Let's look into this in light of the new data.", "es": "Investiguemos esto a la luz de los nuevos datos.", "pron": "lets luc íntu dis in lait ov da niu déita" },
+        { "t": "Let's wrap up and touch base next week.", "es": "Cerremos y hablemos la semana próxima.", "pron": "lets rap ap and tach beis next uic" },
+        { "t": "I can't figure out why sales fell.", "es": "No logro entender por qué bajaron las ventas.", "pron": "ai cant fíguer aut uai seils fel" }
+      ],
+      "dialogo": {
+        "titulo": "Cerrar una reunión",
+        "lineas": [
+          { "q": "A", "t": "Before we wrap up, I'd like to bring up the budget. I can't figure out why costs rose.", "es": "Antes de cerrar, quisiera sacar el tema del presupuesto. No entiendo por qué subieron los costos." },
+          { "q": "B", "t": "I'll look into it. The delays in shipping might have set us back more than expected.", "es": "Lo investigaré. Los retrasos en los envíos quizás nos retrasaron más de lo esperado." },
+          { "q": "A", "t": "Possibly. We also turned down two clients, so revenue is at stake.", "es": "Posiblemente. También rechazamos a dos clientes, así que los ingresos están en juego." },
+          { "q": "B", "t": "In the long run, we'll need to take on more staff to avoid this.", "es": "A largo plazo, tendremos que contratar más personal para evitar esto." },
+          { "q": "A", "t": "Agreed. Let's sort out the numbers and touch base on Monday.", "es": "De acuerdo. Resolvamos los números y hablemos el lunes." },
+          { "q": "B", "t": "Sounds good. I'll send you the figures tonight.", "es": "Suena bien. Te envío las cifras esta noche." }
+        ]
+      },
+      "nota": "Muchos phrasal verbs tienen varios sentidos: take on puede ser asumir una tarea, contratar a alguien o enfrentarse a un rival. El contexto decide."
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "id": "it-c1-u10",
+  "idioma": "it",
+  "nivel": "C1",
+  "n": 10,
+  "titulo": "Cohesión y estilo",
+  "resumen": "Aprenderás a unir ideas con conectores y referentes, a variar la estructura de la frase y a elegir un estilo claro y sobrio.",
+  "puedo": [
+    "Enlazar ideas con conectores como pertanto, infatti, peraltro y di conseguenza.",
+    "Evitar repeticiones con referentes: ciò, quest'ultimo, tale, il suddetto.",
+    "Variar la frase con participio absoluto y gerundio.",
+    "Reconocer un texto prolijo y hacerlo más conciso y sobrio.",
+    "Revisar un texto propio mejorando coherencia y cohesión."
+  ],
+  "gramatica": {
+    "titulo": "Variar la frase: participio absoluto y gerundio",
+    "texto": "Para no repetir siempre «quando» o «dopo che», el italiano escrito usa formas implícitas.\nParticipio absoluto: participio pasado + sustantivo, con el sentido de «una vez que»: Terminata la riunione, siamo usciti (una vez terminada la reunión). El participio concuerda en género y número con el sustantivo.\nGerundio: expresa modo, causa o tiempo, y su sujeto suele ser el de la principal: Parlando con il cliente, ho capito il problema.\nGerundio compuesto (avendo/essendo + participio) indica anterioridad: Avendo finito, sono tornato a casa.\nTruco: la frase queda más elegante y corta, pero solo se debe usar si el sujeto no genera ambigüedad.",
+    "tabla": [
+      ["Terminata la riunione, siamo usciti.", "Terminada la reunión, salimos.", "terminata la riunióne siámo uscíti"],
+      ["Visto il ritardo, abbiamo rinviato.", "Visto el retraso, pospusimos.", "vísto il ritárdo abbiámo rinviáto"],
+      ["Parlando con lui, ho capito tutto.", "Hablando con él, lo entendí todo.", "parlándo con lúi ó capíto túto"],
+      ["Avendo finito, sono tornato a casa.", "Habiendo terminado, volví a casa.", "avéndo finíto sóno tornáto a cása"],
+      ["Cambiata la strategia, i risultati sono migliorati.", "Cambiada la estrategia, los resultados mejoraron.", "cambiáta la strategía i risultáti sóno migliorátti"]
+    ],
+    "errores": [
+      "No concordar el participio absoluto: se dice «terminati i lavori» (masculino plural), no «terminato i lavori».",
+      "Usar un gerundio cuyo sujeto no es el de la principal: «Camminando, mi è caduto il telefono» es ambiguo; mejor «Mentre camminavo, mi è caduto il telefono».",
+      "Abusar del gerundio al hablar: en la conversación suena rebuscado; reserva estas formas para la escritura."
+    ]
+  },
+  "practica": [
+    "Toma un párrafo tuyo y reescribe cinco frases cambiando «quando/dopo che» por participio absoluto o gerundio (10 minutos).",
+    "Lee un artículo de opinión italiano y subraya todos los conectores; clasifícalos en causa, oposición y consecuencia (12 minutos).",
+    "Reduce un texto tuyo de 150 palabras a 100, eliminando repeticiones y palabras vacías (12 minutos).",
+    "Graba un resumen de un minuto de lo que leíste usando al menos cuatro conectores distintos (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-c1-u10-l1",
+      "n": 1,
+      "titulo": "Conectores de cohesión",
+      "objetivo": "Enlazar ideas con precisión usando conectores de causa, consecuencia, aclaración y oposición.",
+      "intro": "Un texto cohesionado guía al lector de una idea a la siguiente. Truco: antes de elegir el conector, pregúntate qué relación hay entre las dos ideas: causa, consecuencia, aclaración o corrección.",
+      "palabras": [
+        { "t": "pertanto", "es": "por tanto", "pron": "pertánto", "ej": "Il budget è esaurito; pertanto, il progetto è sospeso.", "ejes": "El presupuesto se agotó; por tanto, el proyecto queda suspendido.", "cog": false },
+        { "t": "infatti", "es": "en efecto, de hecho", "pron": "infátti", "ej": "Il sistema era lento; infatti, abbiamo perso molto tempo.", "ejes": "El sistema era lento; de hecho, perdimos mucho tiempo.", "cog": false },
+        { "t": "ossia", "es": "es decir, o sea", "pron": "ossía", "ej": "Useremo il metodo classico, ossia quello di Ferri.", "ejes": "Usaremos el método clásico, es decir, el de Ferri.", "cog": false },
+        { "t": "d'altronde", "es": "por lo demás, además", "pron": "daltrónde", "ej": "Non ha risposto; d'altronde, era in viaggio.", "ejes": "No respondió; por lo demás, estaba de viaje.", "cog": false },
+        { "t": "di conseguenza", "es": "en consecuencia", "pron": "di consuéntsa", "ej": "I costi sono saliti e, di conseguenza, anche i prezzi.", "ejes": "Los costos subieron y, en consecuencia, también los precios.", "cog": false },
+        { "t": "anzi", "es": "más bien, al contrario", "pron": "ántsi", "ej": "Non è un problema, anzi è un'opportunità.", "ejes": "No es un problema, al contrario, es una oportunidad.", "cog": false },
+        { "t": "peraltro", "es": "por otra parte, además", "pron": "peráltro", "ej": "L'idea è valida; peraltro, costa poco.", "ejes": "La idea es válida; además, cuesta poco.", "cog": false },
+        { "t": "del resto", "es": "por lo demás", "pron": "del résto", "ej": "Non sorprende: del resto, lo avevamo previsto.", "ejes": "No sorprende: por lo demás, lo habíamos previsto.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Le vendite sono calate; pertanto, abbiamo ridotto la produzione.", "es": "Las ventas bajaron; por tanto, redujimos la producción.", "pron": "le véndite sóno caláte pertánto abbiámo ridótto la produsióne" },
+        { "t": "Il progetto non è fallito, anzi ha superato le aspettative.", "es": "El proyecto no fracasó; al contrario, superó las expectativas.", "pron": "il progétto non e falíto ántsi a superáto le aspettatíve" },
+        { "t": "Il fornitore ha ritardato la consegna e, di conseguenza, abbiamo spostato l'evento.", "es": "El proveedor retrasó la entrega y, en consecuencia, pospusimos el evento.", "pron": "il fornitóre a ritardáto la conséña e di consuéntsa abbiámo spostáto levénto" },
+        { "t": "La soluzione è semplice, ossia ridurre i passaggi inutili.", "es": "La solución es simple, es decir, reducir los pasos inútiles.", "pron": "la solusióne e sémplice ossía ridúrre i passáddyi inútili" },
+        { "t": "Del resto, nessuno aveva mai contestato quella procedura.", "es": "Por lo demás, nadie había cuestionado nunca ese procedimiento.", "pron": "del résto nessúno avéva mái contestáto cuélla procedúra" }
+      ],
+      "dialogo": {
+        "titulo": "Una relazione trimestrale",
+        "lineas": [
+          { "q": "A", "t": "Il fatturato è cresciuto del dieci per cento; infatti, i nuovi clienti hanno compensato le perdite.", "es": "La facturación creció un diez por ciento; de hecho, los nuevos clientes compensaron las pérdidas." },
+          { "q": "B", "t": "Ottimo, ma peraltro i costi fissi sono aumentati e, di conseguenza, il margine è sceso.", "es": "Excelente, pero por otra parte los costos fijos aumentaron y, en consecuencia, el margen bajó." },
+          { "q": "A", "t": "Non è una sorpresa: del resto, avevamo previsto un anno di transizione.", "es": "No es una sorpresa: por lo demás, habíamos previsto un año de transición." },
+          { "q": "B", "t": "Certo, anzi il calo è inferiore a quello atteso, ossia meno del tre per cento.", "es": "Claro, más bien la caída es menor a la esperada, es decir, menos del tres por ciento." },
+          { "q": "A", "t": "Pertanto, possiamo presentare il dato al consiglio senza particolari timori.", "es": "Por tanto, podemos presentar el dato al consejo sin mayores temores." }
+        ]
+      },
+      "nota": "«Infatti» no es «pues»: confirma lo dicho antes. Para introducir una causa nueva usa «perché» o «dato che»."
+    },
+    {
+      "id": "it-c1-u10-l2",
+      "n": 2,
+      "titulo": "Referentes y sustitución",
+      "objetivo": "Evitar repeticiones y mantener el hilo del texto con pronombres y expresiones de referencia.",
+      "intro": "Para no repetir el mismo sustantivo, el italiano escrito usa referentes. Truco: «ciò» resume toda una idea; «quest'ultimo» señala lo último mencionado; «tale» añade un tono formal.",
+      "palabras": [
+        { "t": "ciò", "es": "eso, lo cual", "pron": "chió", "ej": "Ciò dimostra che il metodo funziona.", "ejes": "Eso demuestra que el método funciona.", "cog": false },
+        { "t": "quest'ultimo", "es": "este último", "pron": "cuestúltimo", "ej": "Ho incontrato Rossi e Bianchi; quest'ultimo era in ritardo.", "ejes": "Me encontré con Rossi y Bianchi; este último llegaba tarde.", "cog": false },
+        { "t": "il suddetto", "es": "el susodicho, el citado", "pron": "il suddétto", "ej": "Il suddetto documento va firmato entro venerdì.", "ejes": "El citado documento debe firmarse antes del viernes.", "cog": false },
+        { "t": "tale", "es": "tal, dicho", "pron": "tále", "ej": "Tale decisione è definitiva.", "ejes": "Dicha decisión es definitiva.", "cog": true },
+        { "t": "in tal caso", "es": "en tal caso", "pron": "in tal cáso", "ej": "In tal caso, procederemo in modo diverso.", "ejes": "En tal caso, procederemos de otra manera.", "cog": true },
+        { "t": "quanto sopra", "es": "lo anterior", "pron": "cuánto sópra", "ej": "Quanto sopra è stato approvato dalla direzione.", "ejes": "Lo anterior fue aprobado por la dirección.", "cog": false },
+        { "t": "il medesimo", "es": "el mismo", "pron": "il medésimo", "ej": "Il medesimo problema si ripete ogni anno.", "ejes": "El mismo problema se repite cada año.", "cog": false },
+        { "t": "al riguardo", "es": "al respecto", "pron": "al riguárdo", "ej": "Al riguardo non ho altro da aggiungere.", "ejes": "Al respecto no tengo nada más que añadir.", "cog": false }
+      ],
+      "frases": [
+        { "t": "L'azienda ha assunto due ingegneri; quest'ultimo ha già iniziato il lavoro.", "es": "La empresa contrató a dos ingenieros; este último ya comenzó el trabajo.", "pron": "lasiénda a assúnto dúe indyeñéri cuestúltimo a dyá inisiáto il lavóro" },
+        { "t": "Il rapporto è completo: ciò permette di decidere con tranquillità.", "es": "El informe está completo: eso permite decidir con tranquilidad.", "pron": "il rappórto e complétto chió permétte di decídere con trancuilitá" },
+        { "t": "Tale richiesta non può essere accolta per motivi di bilancio.", "es": "Dicha solicitud no puede ser aceptada por motivos presupuestarios.", "pron": "tále richiésta non puó ésere accólta per motívi di bilánchio" },
+        { "t": "Il suddetto regolamento si applica a tutti i dipendenti.", "es": "El citado reglamento se aplica a todos los empleados.", "pron": "il suddétto regolaménto si ápplica a túti i dipendénti" },
+        { "t": "Al riguardo, vorrei precisare un punto fondamentale.", "es": "Al respecto, quisiera precisar un punto fundamental.", "pron": "al riguárdo vorréi prechisáre un púnto fondamentále" }
+      ],
+      "dialogo": {
+        "titulo": "Una nota interna",
+        "lineas": [
+          { "q": "A", "t": "Ho letto la proposta di Verdi e quella di Neri; quest'ultima mi sembra più realistica.", "es": "Leí la propuesta de Verdi y la de Neri; esta última me parece más realista." },
+          { "q": "B", "t": "Concordo: tale impostazione riduce i rischi e, ciò che più conta, i tempi.", "es": "Coincido: dicho enfoque reduce los riesgos y, lo que más importa, los plazos." },
+          { "q": "A", "t": "In tal caso conviene scartare l'altra, il cui costo risulta eccessivo.", "es": "En tal caso conviene descartar la otra, cuyo costo resulta excesivo." },
+          { "q": "B", "t": "Quanto sopra dovrebbe bastare per convincere la direzione, al riguardo non vedo ostacoli.", "es": "Lo anterior debería bastar para convencer a la dirección; al respecto no veo obstáculos." },
+          { "q": "A", "t": "Allora preparo il testo e allego il suddetto confronto dei costi.", "es": "Entonces preparo el texto y adjunto la citada comparación de costos." }
+        ]
+      },
+      "nota": "«Il suddetto», «il medesimo» y «quanto sopra» pertenecen al lenguaje burocrático; en un texto cotidiano suenan pesados. Úsalos en cartas, contratos y actas."
+    },
+    {
+      "id": "it-c1-u10-l3",
+      "n": 3,
+      "titulo": "Variedad en la estructura de la frase",
+      "objetivo": "Reconocer y combinar frases coordinadas, subordinadas y formas implícitas para evitar la monotonía.",
+      "intro": "Un texto con solo frases cortas suena infantil; uno con solo frases largas, pesado. Truco: alterna frases breves con periodos más complejos y usa participio o gerundio para ahorrar palabras.",
+      "palabras": [
+        { "t": "il periodo", "es": "la oración compuesta, el periodo", "pron": "il período", "ej": "Il periodo è troppo lungo e confuso.", "ejes": "La oración compuesta es demasiado larga y confusa.", "cog": true },
+        { "t": "la paratassi", "es": "la parataxis (frases coordinadas)", "pron": "la paratási", "ej": "La paratassi rende il testo più veloce.", "ejes": "La parataxis hace el texto más ágil.", "cog": true },
+        { "t": "l'ipotassi", "es": "la hipotaxis (subordinación)", "pron": "lipotási", "ej": "L'ipotassi permette di esprimere rapporti logici complessi.", "ejes": "La hipotaxis permite expresar relaciones lógicas complejas.", "cog": true },
+        { "t": "snellire", "es": "aligerar, volver más ágil", "pron": "snellíre", "ej": "Vorrei snellire il testo prima di consegnarlo.", "ejes": "Quisiera aligerar el texto antes de entregarlo.", "cog": false },
+        { "t": "il gerundio", "es": "el gerundio", "pron": "il dyerúndio", "ej": "Il gerundio esprime il modo o la causa.", "ejes": "El gerundio expresa el modo o la causa.", "cog": true },
+        { "t": "il participio", "es": "el participio", "pron": "il partichípio", "ej": "Il participio passato concorda con il sostantivo.", "ejes": "El participio pasado concuerda con el sustantivo.", "cog": true },
+        { "t": "incidentale", "es": "incidental, intercalado", "pron": "inchidentále", "ej": "Una frase incidentale interrompe il ritmo della lettura.", "ejes": "Una frase incidental interrumpe el ritmo de la lectura.", "cog": true },
+        { "t": "riformulare", "es": "reformular", "pron": "riformuláre", "ej": "Conviene riformulare la frase in modo più diretto.", "ejes": "Conviene reformular la frase de forma más directa.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Terminata la riunione, siamo usciti insieme.", "es": "Terminada la reunión, salimos juntos.", "pron": "terminata la riunióne siámo uscíti insiéme" },
+        { "t": "Visto il ritardo, abbiamo rinviato la consegna.", "es": "Visto el retraso, pospusimos la entrega.", "pron": "vísto il ritárdo abbiámo rinviáto la conséña" },
+        { "t": "Parlando con il cliente, ho capito qual era il vero problema.", "es": "Hablando con el cliente, entendí cuál era el verdadero problema.", "pron": "parlándo con il cliénte ó capíto cuál éra il véro probléma" },
+        { "t": "Avendo letto il contratto, ho notato diversi errori.", "es": "Habiendo leído el contrato, noté varios errores.", "pron": "avéndo léto il contrátto ó notáto divérsi errori" },
+        { "t": "Chiusi i conti, il direttore ha convocato una riunione straordinaria.", "es": "Cerradas las cuentas, el director convocó una reunión extraordinaria.", "pron": "kiúsi i cónti il direttóre a convocáto úna riunióne straordinária" }
+      ],
+      "dialogo": {
+        "titulo": "Rivedere un articolo",
+        "lineas": [
+          { "q": "A", "t": "Il tuo articolo è interessante, ma alcuni periodi sono troppo lunghi e pieni di incidentali.", "es": "Tu artículo es interesante, pero algunas oraciones son demasiado largas y están llenas de incisos." },
+          { "q": "B", "t": "Hai ragione, avevo usato troppa ipotassi; vorrei snellire il testo e usare più frasi brevi.", "es": "Tienes razón, usé demasiada subordinación; quisiera aligerar el texto y usar más frases breves." },
+          { "q": "A", "t": "Potresti riformulare il secondo paragrafo: terminata l'introduzione, il lettore si perde.", "es": "Podrías reformular el segundo párrafo: terminada la introducción, el lector se pierde." },
+          { "q": "B", "t": "Parlando con la redazione, mi hanno detto lo stesso: troppi subordinate a catena.", "es": "Hablando con la redacción, me dijeron lo mismo: demasiadas subordinadas en cadena." },
+          { "q": "A", "t": "Alterna la paratassi e il gerundio e il testo scorrerà meglio.", "es": "Alterna la parataxis y el gerundio y el texto fluirá mejor." }
+        ]
+      },
+      "nota": "El participio absoluto concuerda: «chiusi i conti», «chiusa la riunione», «chiuse le porte». Es un error frecuente olvidarlo."
+    },
+    {
+      "id": "it-c1-u10-l4",
+      "n": 4,
+      "titulo": "Estilo, registro y concisión",
+      "objetivo": "Describir y mejorar el estilo de un texto: conciso, sobrio, incisivo.",
+      "intro": "Escribir bien no es escribir mucho. Truco: cada palabra debe aportar algo; si puedes quitarla sin perder sentido, quítala.",
+      "palabras": [
+        { "t": "conciso", "es": "conciso", "pron": "conchíso", "ej": "Il tuo stile è chiaro e conciso.", "ejes": "Tu estilo es claro y conciso.", "cog": true },
+        { "t": "prolisso", "es": "prolijo, extenso", "pron": "prolísso", "ej": "Il discorso è stato troppo prolisso.", "ejes": "El discurso fue demasiado prolijo.", "cog": true },
+        { "t": "ridondante", "es": "redundante", "pron": "ridondánte", "ej": "Questa frase è ridondante: ripete lo stesso concetto.", "ejes": "Esta frase es redundante: repite el mismo concepto.", "cog": true },
+        { "t": "sobrio", "es": "sobrio", "pron": "sóbrio", "ej": "Preferisco uno stile sobrio e preciso.", "ejes": "Prefiero un estilo sobrio y preciso.", "cog": true },
+        { "t": "incisivo", "es": "incisivo, contundente", "pron": "inchisívo", "ej": "Un titolo incisivo attira subito l'attenzione.", "ejes": "Un titular incisivo atrae enseguida la atención.", "cog": true },
+        { "t": "il registro", "es": "el registro (nivel de lengua)", "pron": "il redyístro", "ej": "Il registro deve adattarsi al destinatario.", "ejes": "El registro debe adaptarse al destinatario.", "cog": true },
+        { "t": "il luogo comune", "es": "el lugar común, el cliché", "pron": "il luógo comúne", "ej": "Il luogo comune rende il testo banale.", "ejes": "El lugar común vuelve banal el texto.", "cog": false },
+        { "t": "il sinonimo", "es": "el sinónimo", "pron": "il sinónimo", "ej": "Il sinonimo giusto rende il testo più preciso.", "ejes": "El sinónimo justo vuelve el texto más preciso.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Un testo conciso comunica di più con meno parole.", "es": "Un texto conciso comunica más con menos palabras.", "pron": "un tésto conchíso comúnica di piú con méno paróle" },
+        { "t": "Il suo discorso è stato lungo e prolisso, e nessuno ha seguito il filo.", "es": "Su discurso fue largo y prolijo, y nadie siguió el hilo.", "pron": "il súo discórso e státo lúngo e prolísso e nessúno a seguíto il fílo" },
+        { "t": "Ripetere le stesse parole rende la frase ridondante.", "es": "Repetir las mismas palabras vuelve la frase redundante.", "pron": "ripétere le stésse paróle rénde la frase ridondánte" },
+        { "t": "Nel saluto formale conviene adottare un registro sobrio.", "es": "En el saludo formal conviene adoptar un registro sobrio.", "pron": "nel salúto formále conviéne adottáre un redyístro sóbrio" },
+        { "t": "Ogni luogo comune toglie forza al tuo ragionamento.", "es": "Cada lugar común le quita fuerza a tu razonamiento.", "pron": "óñi luógo comúne tólle fórtsa al túo radyonaménto" }
+      ],
+      "dialogo": {
+        "titulo": "Un consiglio sullo stile",
+        "lineas": [
+          { "q": "A", "t": "Ho riletto il tuo comunicato: è completo, ma il tono è un po' prolisso.", "es": "Releí tu comunicado: está completo, pero el tono es un poco prolijo." },
+          { "q": "B", "t": "Lo so, tendo a ripetermi; alcune frasi sono quasi ridondanti.", "es": "Lo sé, tiendo a repetirme; algunas frases son casi redundantes." },
+          { "q": "A", "t": "Cerca un registro più sobrio e togli i luoghi comuni, come «nell'attuale contesto».", "es": "Busca un registro más sobrio y quita los lugares comunes, como «en el contexto actual»." },
+          { "q": "B", "t": "Se uso un sinonimo meno abusato, il testo diventa più incisivo?", "es": "Si uso un sinónimo menos manido, ¿el texto se vuelve más incisivo?" },
+          { "q": "A", "t": "Sì, e un titolo conciso aiuta il lettore a capire subito di che cosa parli.", "es": "Sí, y un titular conciso ayuda al lector a entender enseguida de qué hablas." }
+        ]
+      },
+      "nota": "En italiano escrito se aprecia la variedad léxica: evita repetir el mismo verbo en frases contiguas y busca sinónimos que respeten el matiz."
+    },
+    {
+      "id": "it-c1-u10-l5",
+      "n": 5,
+      "titulo": "Repaso: revisar un texto propio",
+      "objetivo": "Combinar conectores, referentes, variedad sintáctica y concisión al revisar un texto.",
+      "intro": "Revisar es la mitad de escribir. Truco: relee tres veces: una por el sentido, otra por la cohesión y otra por el estilo.",
+      "palabras": [
+        { "t": "la coesione", "es": "la cohesión", "pron": "la coesióne", "ej": "La coesione dipende dai connettivi e dai pronomi.", "ejes": "La cohesión depende de los conectores y de los pronombres.", "cog": true },
+        { "t": "la coerenza", "es": "la coherencia", "pron": "la coerénsa", "ej": "La coerenza logica è più importante dello stile.", "ejes": "La coherencia lógica es más importante que el estilo.", "cog": true },
+        { "t": "rifinire", "es": "pulir, dar los últimos retoques", "pron": "rifiníre", "ej": "Devo rifinire il testo prima di inviarlo.", "ejes": "Debo pulir el texto antes de enviarlo.", "cog": false },
+        { "t": "l'incipit", "es": "el comienzo, la frase inicial", "pron": "inchípit", "ej": "L'incipit deve catturare il lettore.", "ejes": "El comienzo debe atrapar al lector.", "cog": true },
+        { "t": "la chiusa", "es": "el cierre, el final", "pron": "la kiúsa", "ej": "La chiusa riassume l'idea principale.", "ejes": "El cierre resume la idea principal.", "cog": false },
+        { "t": "il capoverso", "es": "el párrafo", "pron": "il capovérso", "ej": "Il capoverso sviluppa un'idea sola.", "ejes": "El párrafo desarrolla una sola idea.", "cog": false },
+        { "t": "il filo logico", "es": "el hilo lógico", "pron": "il fílo lódyico", "ej": "Il filo logico si spezza nel terzo paragrafo.", "ejes": "El hilo lógico se rompe en el tercer párrafo.", "cog": false },
+        { "t": "rileggere", "es": "releer", "pron": "rilédyere", "ej": "Prima di inviare, bisogna rileggere con calma.", "ejes": "Antes de enviar, hay que releer con calma.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il testo ha coerenza, ma la coesione è debole.", "es": "El texto tiene coherencia, pero la cohesión es débil.", "pron": "il tésto a coerénsa ma la coesióne e débole" },
+        { "t": "Ogni capoverso deve sviluppare una sola idea.", "es": "Cada párrafo debe desarrollar una sola idea.", "pron": "óñi capovérso débe svilupáre úna sóla idéa" },
+        { "t": "Riletto il testo, ho eliminato tutte le ripetizioni inutili.", "es": "Releído el texto, eliminé todas las repeticiones inútiles.", "pron": "rilétto il tésto ó eliminato túte le ripetisióni inútili" },
+        { "t": "L'incipit è efficace, ma la chiusa lascia il lettore perplesso.", "es": "El comienzo es eficaz, pero el cierre deja perplejo al lector.", "pron": "linchípit e efficáche ma la kiúsa lásha il léttore perplésso" },
+        { "t": "Pertanto, conviene riformulare i periodi più lunghi.", "es": "Por tanto, conviene reformular los periodos más largos.", "pron": "pertánto conviéne riformuláre i períodi piú lúnghi" }
+      ],
+      "dialogo": {
+        "titulo": "La revisione finale",
+        "lineas": [
+          { "q": "A", "t": "Ho rifinito il rapporto, ma temo che manchi un po' di coesione tra i capoversi.", "es": "Pulí el informe, pero temo que falte un poco de cohesión entre los párrafos." },
+          { "q": "B", "t": "Il filo logico c'è; tuttavia, l'incipit è lungo e la chiusa troppo brusca.", "es": "El hilo lógico está; sin embargo, el comienzo es largo y el cierre demasiado brusco." },
+          { "q": "A", "t": "Rileggendo il testo, ho notato che ripeto spesso lo stesso sostantivo.", "es": "Releyendo el texto, noté que repito a menudo el mismo sustantivo." },
+          { "q": "B", "t": "Usa «quest'ultimo» o «tale» al posto della ripetizione e il registro diventerà più sobrio.", "es": "Usa «quest'ultimo» o «tale» en lugar de la repetición y el registro será más sobrio." },
+          { "q": "A", "t": "Perfetto: riformulo i periodi più lunghi e te lo mando entro stasera.", "es": "Perfecto: reformulo los periodos más largos y te lo mando antes de esta noche." }
+        ]
+      },
+      "nota": "Una buena técnica de revisión: lee el texto en voz alta. Si te quedas sin aire en una frase, probablemente es demasiado larga."
+    }
+  ]
+}

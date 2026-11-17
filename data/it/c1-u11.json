@@ -1,0 +1,214 @@
+{
+  "id": "it-c1-u11",
+  "idioma": "it",
+  "nivel": "C1",
+  "n": 11,
+  "titulo": "Debates complejos",
+  "resumen": "Aprenderás a argumentar con solidez, rebatir con elegancia, matizar tus posturas y conducir un debate con congiuntivo concesivo.",
+  "puedo": [
+    "Construir una argumentación sólida con premesse, dati e conclusioni.",
+    "Refutar un argumento con confutare, smentire y obiettare.",
+    "Matizar con per certi versi, fino a un certo punto, in una certa misura.",
+    "Tomar la palabra, precisar e interrumpir con cortesía.",
+    "Usar ammesso che, posto che y quand'anche con congiuntivo."
+  ],
+  "gramatica": {
+    "titulo": "Concesiones retóricas: ammesso che, posto che, quand'anche",
+    "texto": "En un debate, a veces aceptas una premisa solo como hipótesis para refutarla. El italiano usa conectores con congiuntivo:\nAmmesso che + congiuntivo: Ammesso che sia vero, resta un problema (suponiendo que sea cierto, queda un problema).\nPosto che + congiuntivo o indicativo: Posto che i dati siano corretti (dado que / suponiendo que).\nQuand'anche + congiuntivo imperfetto: Quand'anche avesse ragione, non cambierebbe nulla (aun si tuviera razón, nada cambiaría).\nPer quanto + congiuntivo: Per quanto sia plausibile, non è provato.\nTruco: estas fórmulas no aceptan realmente la idea; la admiten por un instante para debilitarla.",
+    "tabla": [
+      ["Ammesso che sia vero, il danno resta.", "Suponiendo que sea cierto, el daño permanece.", "ammésso ke sía véro il dánno résta"],
+      ["Posto che i dati siano corretti, la conclusione è debole.", "Dado que los datos sean correctos, la conclusión es débil.", "pósto ke i dáti sían corréti la conclusióne e débole"],
+      ["Quand'anche avesse ragione, non cambierebbe nulla.", "Aun si tuviera razón, nada cambiaría.", "cuándanke avésse radsióne non cambierébbe núlla"],
+      ["Per quanto sia plausibile, non è provato.", "Por plausible que sea, no está probado.", "per cuánto sía plausíbile non e provato"],
+      ["A prescindere da chi abbia ragione, serve un accordo.", "Sin importar quién tenga razón, hace falta un acuerdo.", "a preshindére da ki ábbia radsióne sérve un accórdo"]
+    ],
+    "errores": [
+      "Usar el indicativo tras «ammesso che»: «ammesso che è vero» es incorrecto; va «ammesso che sia vero».",
+      "Combinar «quand'anche» con indicativo o con presente: lleva imperfetto o trapassato del congiuntivo y condizionale en la principal.",
+      "Traducir «aunque» siempre como «anche se»: para concesiones hipotéticas fuertes el registro alto prefiere «ammesso che», «sebbene» o «quand'anche»."
+    ]
+  },
+  "practica": [
+    "Elige un tema polémico y redacta un párrafo de 100 palabras con tesis, dos argumentos y una refutación (15 minutos).",
+    "Mira un debate político o un programa de opinión italiano y anota cinco fórmulas para refutar y cinco para matizar (12 minutos).",
+    "Graba un minuto defendiendo una postura y otro minuto defendiendo la contraria, con vocabulario distinto (10 minutos).",
+    "Escribe seis frases con «ammesso che», «posto che» y «quand'anche», cuidando el tiempo del congiuntivo (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-c1-u11-l1",
+      "n": 1,
+      "titulo": "Argumentación sofisticada",
+      "objetivo": "Construir y presentar un argumento con premisas, apoyo y conclusión de forma precisa.",
+      "intro": "Un argumento sólido tiene premisa, pruebas y conclusión. Truco: usa «a sostegno di» para introducir pruebas y «trarre una conclusione» para cerrar el razonamiento.",
+      "palabras": [
+        { "t": "corroborare", "es": "corroborar, reforzar", "pron": "corroboráre", "ej": "I nuovi studi servono a corroborare la nostra tesi.", "ejes": "Los nuevos estudios sirven para corroborar nuestra tesis.", "cog": true },
+        { "t": "avvalorare", "es": "dar valor, respaldar", "pron": "avvaloráre", "ej": "Un esempio concreto può avvalorare l'argomento.", "ejes": "Un ejemplo concreto puede respaldar el argumento.", "cog": false },
+        { "t": "il presupposto", "es": "el supuesto, la premisa", "pron": "il presuppósto", "ej": "Il presupposto di questo ragionamento è discutibile.", "ejes": "El supuesto de este razonamiento es discutible.", "cog": false },
+        { "t": "il fulcro", "es": "el eje, el núcleo", "pron": "il fúlcro", "ej": "Il fulcro della questione è il finanziamento.", "ejes": "El eje de la cuestión es el financiamiento.", "cog": false },
+        { "t": "a sostegno di", "es": "en apoyo de", "pron": "a sostéño di", "ej": "A sostegno di questa tesi, cito tre studi indipendenti.", "ejes": "En apoyo de esta tesis, cito tres estudios independientes.", "cog": false },
+        { "t": "indubbiamente", "es": "indudablemente", "pron": "indubbiaménte", "ej": "Indubbiamente il tema è più complesso di quanto sembri.", "ejes": "Indudablemente el tema es más complejo de lo que parece.", "cog": true },
+        { "t": "la premessa", "es": "la premisa, el preámbulo", "pron": "la preméssa", "ej": "La premessa è chiara: nessuno è del tutto neutrale.", "ejes": "La premisa es clara: nadie es del todo neutral.", "cog": true },
+        { "t": "trarre una conclusione", "es": "sacar una conclusión", "pron": "trárre úna conclusióne", "ej": "Non possiamo trarre una conclusione senza altri dati.", "ejes": "No podemos sacar una conclusión sin más datos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "A sostegno di questa ipotesi, vorrei citare un recente rapporto.", "es": "En apoyo de esta hipótesis, quisiera citar un informe reciente.", "pron": "a sostéño di cuésta ipótesi vorréi chitáre un rechénte rappórto" },
+        { "t": "Il presupposto di partenza è che i dati siano affidabili.", "es": "El supuesto de partida es que los datos sean confiables.", "pron": "il presuppósto di parténtsa e ke i dáti sían affidábili" },
+        { "t": "Il fulcro del dibattito riguarda il ruolo dello Stato.", "es": "El núcleo del debate es el papel del Estado.", "pron": "il fúlcro del dibattíto riguárda il ruólo dello státo" },
+        { "t": "Indubbiamente esistono alternative, ma nessuna è altrettanto efficace.", "es": "Indudablemente existen alternativas, pero ninguna es igual de eficaz.", "pron": "indubbiaménte esístono alternatíve ma nessúna e altrettánto efficáche" },
+        { "t": "Dai dati si può trarre una conclusione chiara.", "es": "De los datos se puede sacar una conclusión clara.", "pron": "dai dáti si puó trárre úna conclusióne kiára" }
+      ],
+      "dialogo": {
+        "titulo": "Preparare una tesi",
+        "lineas": [
+          { "q": "A", "t": "Dobbiamo costruire il nostro intervento su una premessa solida: la riforma è necessaria.", "es": "Debemos construir nuestra intervención sobre una premisa sólida: la reforma es necesaria." },
+          { "q": "B", "t": "D'accordo, ma a sostegno di questa tesi servono più di due studi.", "es": "De acuerdo, pero en apoyo de esta tesis hacen falta más de dos estudios." },
+          { "q": "A", "t": "Ne abbiamo quattro, e i dati recenti corroborano il nostro ragionamento.", "es": "Tenemos cuatro, y los datos recientes corroboran nuestro razonamiento." },
+          { "q": "B", "t": "Il fulcro dell'argomento deve restare il costo sociale, altrimenti perdiamo il filo.", "es": "El núcleo del argumento debe ser el costo social, de lo contrario perdemos el hilo." },
+          { "q": "A", "t": "Indubbiamente; da lì possiamo trarre una conclusione che nessuno potrà contestare facilmente.", "es": "Indudablemente; de ahí podemos sacar una conclusión que nadie podrá cuestionar fácilmente." }
+        ]
+      },
+      "nota": "«Avvalorare» y «corroborare» suelen usarse con tesi, ipotesi, argomento o teoria, no con personas."
+    },
+    {
+      "id": "it-c1-u11-l2",
+      "n": 2,
+      "titulo": "Refutar con elegancia",
+      "objetivo": "Rebatir un argumento ajeno con vocabulario preciso y sin perder la cortesía.",
+      "intro": "Refutar no es atacar a la persona, sino mostrar la debilidad del argumento. Truco: critica la lógica («non regge», «è infondato»), no al interlocutor.",
+      "palabras": [
+        { "t": "confutare", "es": "refutar", "pron": "confutáre", "ej": "Non è facile confutare un dato oggettivo.", "ejes": "No es fácil refutar un dato objetivo.", "cog": true },
+        { "t": "smentire", "es": "desmentir", "pron": "smentíre", "ej": "Vorrei smentire questa versione dei fatti.", "ejes": "Quisiera desmentir esta versión de los hechos.", "cog": false },
+        { "t": "ribattere", "es": "replicar, rebatir", "pron": "ribáttere", "ej": "Vorrei ribattere con un esempio concreto.", "ejes": "Quisiera replicar con un ejemplo concreto.", "cog": false },
+        { "t": "infondato", "es": "infundado", "pron": "infondáto", "ej": "Questo timore è del tutto infondato.", "ejes": "Este temor es del todo infundado.", "cog": true },
+        { "t": "fallace", "es": "falaz, engañoso", "pron": "falláche", "ej": "Il ragionamento è fallace perché parte da dati sbagliati.", "ejes": "El razonamiento es falaz porque parte de datos erróneos.", "cog": true },
+        { "t": "pretestuoso", "es": "con pretexto, forzado", "pron": "pretestuóso", "ej": "È un argomento pretestuoso, usato solo per bloccare la discussione.", "ejes": "Es un argumento con pretexto, usado solo para bloquear la discusión.", "cog": false },
+        { "t": "non regge", "es": "no se sostiene", "pron": "non rédye", "ej": "Questo ragionamento non regge alla prova dei fatti.", "ejes": "Este razonamiento no resiste la prueba de los hechos.", "cog": false },
+        { "t": "l'obiezione", "es": "la objeción", "pron": "lobietsióne", "ej": "L'obiezione è corretta, ma incompleta.", "ejes": "La objeción es correcta, pero incompleta.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Questa tesi non regge: i numeri la smentiscono.", "es": "Esta tesis no se sostiene: los números la desmienten.", "pron": "cuésta tési non rédye i númeri la smentíscono" },
+        { "t": "Vorrei ribattere che l'accusa è infondata.", "es": "Quisiera replicar que la acusación es infundada.", "pron": "vorréi ribáttere ke lacuzásione e infondáta" },
+        { "t": "Il suo ragionamento è fallace, perché confonde causa ed effetto.", "es": "Su razonamiento es falaz, porque confunde causa y efecto.", "pron": "il súo radyonaménto e fallache perké confónde cáusa ed efétto" },
+        { "t": "Quella che lei chiama obiezione è in realtà un pretesto.", "es": "Lo que usted llama objeción es en realidad un pretexto.", "pron": "cuélla ke léi kiáma obietsióne e in realtá un pretésto" },
+        { "t": "Nessuno è riuscito a confutare i risultati dello studio.", "es": "Nadie logró refutar los resultados del estudio.", "pron": "nessúno e riuscíto a confutáre i risultáti dello stúdio" }
+      ],
+      "dialogo": {
+        "titulo": "Un confronto televisivo",
+        "lineas": [
+          { "q": "A", "t": "Il suo ragionamento non regge: parte dal presupposto che i costi restino invariati.", "es": "Su razonamiento no se sostiene: parte del supuesto de que los costos se mantengan sin cambios." },
+          { "q": "B", "t": "Permetta una precisazione: i dati ufficiali smentiscono quanto afferma.", "es": "Permítame una precisión: los datos oficiales desmienten lo que afirma." },
+          { "q": "A", "t": "Quei dati sono parziali; la sua obiezione è pretestuosa, e lo sa bene.", "es": "Esos datos son parciales; su objeción es un pretexto, y usted lo sabe bien." },
+          { "q": "B", "t": "Non è un pretesto, è un fatto: non si può confutare con un semplice giudizio.", "es": "No es un pretexto, es un hecho: no se puede refutar con un simple juicio." },
+          { "q": "A", "t": "Vorrei ribattere che un solo studio non basta: la sua tesi resta infondata.", "es": "Quisiera replicar que un solo estudio no basta: su tesis sigue siendo infundada." }
+        ]
+      },
+      "nota": "Para suavizar una refutación: «Con tutto il rispetto, ma», «Mi permetta di dissentire» o «Non sono del tutto convinto che»."
+    },
+    {
+      "id": "it-c1-u11-l3",
+      "n": 3,
+      "titulo": "Matizar: no todo es blanco o negro",
+      "objetivo": "Expresar acuerdo o desacuerdo parcial con fórmulas de matiz.",
+      "intro": "Un buen debatiente evita los absolutos. Truco: «per certi versi» y «fino a un certo punto» te permiten reconocer parte de la verdad sin renunciar a tu postura.",
+      "palabras": [
+        { "t": "per certi versi", "es": "en cierto sentido", "pron": "per chérti vérsi", "ej": "Per certi versi hai ragione, ma resta qualche dubbio.", "ejes": "En cierto sentido tienes razón, pero queda alguna duda.", "cog": false },
+        { "t": "fino a un certo punto", "es": "hasta cierto punto", "pron": "fíno a un chérto púnto", "ej": "Fino a un certo punto condivido la tua analisi.", "ejes": "Hasta cierto punto comparto tu análisis.", "cog": false },
+        { "t": "in una certa misura", "es": "en cierta medida", "pron": "in úna chérta misúra", "ej": "In una certa misura il problema è anche culturale.", "ejes": "En cierta medida el problema también es cultural.", "cog": false },
+        { "t": "la sfumatura", "es": "el matiz", "pron": "la sfumatúra", "ej": "La sfumatura cambia completamente il significato.", "ejes": "El matiz cambia por completo el significado.", "cog": false },
+        { "t": "relativizzare", "es": "relativizar", "pron": "relatividdsáre", "ej": "Bisogna relativizzare certi dati troppo allarmanti.", "ejes": "Hay que relativizar ciertos datos demasiado alarmantes.", "cog": true },
+        { "t": "semplicistico", "es": "simplista", "pron": "semplichístico", "ej": "Il quadro che presenti è semplicistico.", "ejes": "El cuadro que presentas es simplista.", "cog": true },
+        { "t": "riduttivo", "es": "reduccionista", "pron": "ridutívo", "ej": "È riduttivo spiegare tutto con la crisi economica.", "ejes": "Es reduccionista explicarlo todo con la crisis económica.", "cog": false },
+        { "t": "ridimensionare", "es": "restar importancia, poner en su justa medida", "pron": "ridimensionáre", "ej": "Vorrei ridimensionare questa polemica.", "ejes": "Quisiera restarle importancia a esta polémica.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Per certi versi la tua obiezione è fondata, ma manca un dato.", "es": "En cierto sentido tu objeción es fundada, pero falta un dato.", "pron": "per chérti vérsi la túa obiesióne e fondáta ma mánca un dáto" },
+        { "t": "Fino a un certo punto sono d'accordo con questa analisi.", "es": "Hasta cierto punto estoy de acuerdo con este análisis.", "pron": "fíno a un chérto púnto sóno daccórdo con cuésta análisi" },
+        { "t": "È riduttivo attribuire tutto a una sola causa.", "es": "Es reduccionista atribuirlo todo a una sola causa.", "pron": "e ridutívo attribuíre túto a úna sóla cáusa" },
+        { "t": "Una spiegazione semplicistica non rende giustizia alla realtà.", "es": "Una explicación simplista no hace justicia a la realidad.", "pron": "úna spiegasióne semplichístika non rénde dyustísia ala realtá" },
+        { "t": "Il problema esiste, ma va ridimensionato senza negarlo.", "es": "El problema existe, pero hay que ponerlo en su justa medida sin negarlo.", "pron": "il probléma esíste ma va ridimensionáto séntsa negárlo" }
+      ],
+      "dialogo": {
+        "titulo": "Una conversazione sfumata",
+        "lineas": [
+          { "q": "A", "t": "Secondo me la disoccupazione giovanile dipende solo dalla scuola.", "es": "En mi opinión el desempleo juvenil depende solo de la escuela." },
+          { "q": "B", "t": "Per certi versi è vero, ma è riduttivo: contano anche i salari e le opportunità.", "es": "En cierto sentido es verdad, pero es reduccionista: también cuentan los salarios y las oportunidades." },
+          { "q": "A", "t": "Fino a un certo punto hai ragione, però la formazione resta il fattore decisivo.", "es": "Hasta cierto punto tienes razón, pero la formación sigue siendo el factor decisivo." },
+          { "q": "B", "t": "In una certa misura sì, ma una spiegazione semplicistica rischia di nascondere il resto.", "es": "En cierta medida sí, pero una explicación simplista corre el riesgo de ocultar el resto." },
+          { "q": "A", "t": "Allora ridimensioniamo la mia tesi: è un fattore importante, non l'unico.", "es": "Entonces pongamos mi tesis en su justa medida: es un factor importante, no el único." }
+        ]
+      },
+      "nota": "La sfumatura es lo que distingue un nivel C1: casi nunca se dice «sempre» o «mai»; se dice «di solito», «in genere», «nella maggior parte dei casi»."
+    },
+    {
+      "id": "it-c1-u11-l4",
+      "n": 4,
+      "titulo": "Tomar la palabra y moderar",
+      "objetivo": "Intervenir, interrumpir y precisar con cortesía en un debate formal.",
+      "intro": "En un debate formal hay turnos y reglas. Truco: pide la palabra con «mi consenta di» y precisa sin atacar al otro.",
+      "palabras": [
+        { "t": "mi consenta", "es": "permítame (formal)", "pron": "mi consénta", "ej": "Mi consenta una breve precisazione.", "ejes": "Permítame una breve precisión.", "cog": false },
+        { "t": "interrompere", "es": "interrumpir", "pron": "interrómpere", "ej": "Non vorrei interrompere, ma devo precisare un dato.", "ejes": "No quisiera interrumpir, pero debo precisar un dato.", "cog": true },
+        { "t": "replicare", "es": "replicar", "pron": "replicáre", "ej": "Posso replicare brevemente alla signora?", "ejes": "¿Puedo replicar brevemente a la señora?", "cog": true },
+        { "t": "precisare", "es": "precisar", "pron": "prechisáre", "ej": "Vorrei precisare che non ho mai detto questo.", "ejes": "Quisiera precisar que nunca dije esto.", "cog": true },
+        { "t": "a tale proposito", "es": "a este respecto", "pron": "a tále propósito", "ej": "A tale proposito, vorrei ricordare un episodio recente.", "ejes": "A este respecto, quisiera recordar un episodio reciente.", "cog": false },
+        { "t": "dare la parola", "es": "dar la palabra", "pron": "dáre la paróla", "ej": "Devo dare la parola anche all'altra parte.", "ejes": "Debo dar la palabra también a la otra parte.", "cog": false },
+        { "t": "tornando al punto", "es": "volviendo al punto", "pron": "tornándo al púnto", "ej": "Tornando al punto centrale, la domanda resta aperta.", "ejes": "Volviendo al punto central, la pregunta sigue abierta.", "cog": false },
+        { "t": "il moderatore", "es": "el moderador", "pron": "il moderatóre", "ej": "Il moderatore ha richiamato i partecipanti all'ordine.", "ejes": "El moderador llamó al orden a los participantes.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Mi consenta di intervenire un attimo prima della conclusione.", "es": "Permítame intervenir un momento antes de la conclusión.", "pron": "mi consénta di interveníre un áttimo príma della conclusióne" },
+        { "t": "Non vorrei interrompere, ma vorrei precisare un punto.", "es": "No quisiera interrumpir, pero quisiera precisar un punto.", "pron": "non vorréi interrómpere ma vorréi prechisáre un púnto" },
+        { "t": "Il moderatore deve dare la parola a tutti in modo equo.", "es": "El moderador debe dar la palabra a todos de manera equitativa.", "pron": "il moderatóre débe dáre la paróla a túti in módo équo" },
+        { "t": "A tale proposito, vorrei richiamare un dato importante.", "es": "A este respecto, quisiera recordar un dato importante.", "pron": "a tále propósito vorréi richiamáre un dáto importánte" },
+        { "t": "Tornando al punto, qual è la proposta concreta?", "es": "Volviendo al punto, ¿cuál es la propuesta concreta?", "pron": "tornándo al púnto cuál e la propósta concréta" }
+      ],
+      "dialogo": {
+        "titulo": "Una tavola rotonda",
+        "lineas": [
+          { "q": "A", "t": "Il moderatore ha detto che abbiamo cinque minuti: posso replicare alla dottoressa Conti?", "es": "El moderador dijo que tenemos cinco minutos: ¿puedo replicar a la doctora Conti?" },
+          { "q": "B", "t": "Mi consenta di precisare, prima, che non ho mai affermato quanto lei sostiene.", "es": "Permítame precisar, primero, que nunca he afirmado lo que usted sostiene." },
+          { "q": "A", "t": "Non vorrei interrompere, ma a tale proposito ho qui il verbale della riunione.", "es": "No quisiera interrumpir, pero a este respecto tengo aquí el acta de la reunión." },
+          { "q": "B", "t": "Tornando al punto, la domanda era un'altra: chi pagherà i costi della riforma?", "es": "Volviendo al punto, la pregunta era otra: ¿quién pagará los costos de la reforma?" },
+          { "q": "A", "t": "Il moderatore può dare la parola a lei, ma prima chiedo che si rispetti il turno.", "es": "El moderador puede darle la palabra a usted, pero antes pido que se respete el turno." }
+        ]
+      },
+      "nota": "«Mi consenta» y «mi permetta» son corteses; «per favore, mi lasci finire» es más firme pero aceptable en un debate formal."
+    },
+    {
+      "id": "it-c1-u11-l5",
+      "n": 5,
+      "titulo": "Repaso: un debate completo",
+      "objetivo": "Combinar argumento, refutación, matiz y mediación en un debate largo.",
+      "intro": "Prepara un debate de principio a fin: abre con tu tesis, concede un punto, refuta y propón un compromiso. Truco: tu mayor punto fuerte debe aparecer al principio y repetirse en el cierre.",
+      "palabras": [
+        { "t": "il compromesso", "es": "el compromiso, el acuerdo", "pron": "il compromésso", "ej": "Il compromesso è la migliore soluzione possibile.", "ejes": "El compromiso es la mejor solución posible.", "cog": true },
+        { "t": "il punto debole", "es": "el punto débil", "pron": "il púnto débole", "ej": "Il punto debole della proposta è il finanziamento.", "ejes": "El punto débil de la propuesta es el financiamiento.", "cog": false },
+        { "t": "il punto di forza", "es": "el punto fuerte", "pron": "il púnto di fórtsa", "ej": "Il punto di forza del progetto è la sua flessibilità.", "ejes": "El punto fuerte del proyecto es su flexibilidad.", "cog": false },
+        { "t": "mettere in discussione", "es": "poner en cuestión", "pron": "méttere in discussióne", "ej": "Non voglio mettere in discussione la tua competenza.", "ejes": "No quiero poner en cuestión tu competencia.", "cog": false },
+        { "t": "mettere in luce", "es": "poner de relieve", "pron": "méttere in lúche", "ej": "Lo studio vuole mettere in luce alcune contraddizioni.", "ejes": "El estudio quiere poner de relieve algunas contradicciones.", "cog": false },
+        { "t": "la mediazione", "es": "la mediación", "pron": "la mediatsióne", "ej": "La mediazione ha evitato una rottura definitiva.", "ejes": "La mediación evitó una ruptura definitiva.", "cog": true },
+        { "t": "la controparte", "es": "la contraparte", "pron": "la contropárte", "ej": "La controparte ha accettato di trattare.", "ejes": "La contraparte aceptó negociar.", "cog": true },
+        { "t": "cedere terreno", "es": "ceder terreno", "pron": "chédere terréno", "ej": "Per ora non vogliamo cedere terreno su questo punto.", "ejes": "Por ahora no queremos ceder terreno en este punto.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Ammesso che i dati siano corretti, la conclusione resta debole.", "es": "Suponiendo que los datos sean correctos, la conclusión sigue siendo débil.", "pron": "ammésso ke i dáti sían corréti la conclusióne résta débole" },
+        { "t": "Quand'anche avesse ragione, non cambierebbe il risultato.", "es": "Aun si tuviera razón, no cambiaría el resultado.", "pron": "cuándanke avésse radsióne non cambierébbe il risultáto" },
+        { "t": "Il punto di forza della proposta è la chiarezza, il punto debole è il costo.", "es": "El punto fuerte de la propuesta es la claridad, el punto débil es el costo.", "pron": "il púnto di fórtsa della propósta e la kiarétsa il púnto débole e il cósto" },
+        { "t": "Non voglio mettere in discussione la sua buona fede.", "es": "No quiero poner en duda su buena fe.", "pron": "non vóglio méttere in discussióne la súa buóna féde" },
+        { "t": "La mediazione ha portato a un compromesso accettabile per entrambi.", "es": "La mediación llevó a un compromiso aceptable para ambos.", "pron": "la mediatsióne a portáto a un compromésso accettábile per éntrambi" }
+      ],
+      "dialogo": {
+        "titulo": "Un negoziato difficile",
+        "lineas": [
+          { "q": "A", "t": "Il punto di forza della nostra offerta è la qualità; il punto debole, lo ammetto, è il prezzo.", "es": "El punto fuerte de nuestra oferta es la calidad; el punto débil, lo admito, es el precio." },
+          { "q": "B", "t": "Ammesso che la qualità sia davvero superiore, per noi il costo resta decisivo.", "es": "Suponiendo que la calidad sea realmente superior, para nosotros el costo sigue siendo decisivo." },
+          { "q": "A", "t": "Non vogliamo cedere terreno sul prezzo base, ma possiamo trovare un compromesso sui tempi di pagamento.", "es": "No queremos ceder terreno en el precio base, pero podemos encontrar un compromiso en los plazos de pago." },
+          { "q": "B", "t": "Fino a un certo punto la proposta è interessante, però la controparte chiede garanzie scritte.", "es": "Hasta cierto punto la propuesta es interesante, pero la contraparte pide garantías escritas." },
+          { "q": "A", "t": "Con la mediazione di un legale potremo mettere in luce le clausole critiche e arrivare a un accordo.", "es": "Con la mediación de un abogado podremos poner de relieve las cláusulas críticas y llegar a un acuerdo." }
+        ]
+      },
+      "nota": "Un buen negociador se reconoce porque admite sus puntos débiles antes de que lo haga el otro: eso refuerza su credibilidad."
+    }
+  ]
+}

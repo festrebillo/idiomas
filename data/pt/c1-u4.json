@@ -1,0 +1,743 @@
+{
+  "id": "pt-c1-u4",
+  "idioma": "pt",
+  "nivel": "C1",
+  "n": 4,
+  "titulo": "Colocaciones avanzadas",
+  "resumen": "Aprenderás las combinaciones fijas de palabras (verbo + sustantivo, adjetivo + sustantivo, adverbio + adjetivo) que hacen que tu portugués suene natural y profesional.",
+  "puedo": [
+    "Usar verbos que acompañan a ciertos sustantivos: «firmar um acordo», «cumprir um prazo».",
+    "Hablar y escribir con colocaciones de comunicación: «levantar uma questão», «tirar conclusões».",
+    "Elegir el adjetivo exacto para cada sustantivo: «sucesso estrondoso», «debate acalorado».",
+    "Reforzar con adverbios que van con adjetivos: «plenamente consciente», «estritamente proibido».",
+    "Reconocer expresiones con «dar»: «dar margem a», «dar lugar a», «dar início a»."
+  ],
+  "gramatica": {
+    "titulo": "Colocaciones: las palabras que se buscan entre sí",
+    "texto": "Una colocación es una pareja (o grupo) de palabras que se usan juntas de forma natural. No hay una regla lógica: hay que aprenderlas en bloque.\nEn español decimos «pagar atención», pero en portugués es prestar atenção. En español «tomar en cuenta»; en portugués levar em conta. «Sacar conclusiones» = tirar conclusões.\nSi traduces palabra por palabra, lo que sale se entiende, pero suena raro o incorrecto.\nHay tres tipos útiles: verbo + sustantivo (cometer um erro), adjetivo + sustantivo (erro grosseiro) y adverbio + adjetivo (plenamente consciente).\nTruco: cuando aprendas un sustantivo nuevo, apunta siempre el verbo o el adjetivo que lo acompaña. Un sustantivo suelto sirve de poco; el bloque completo, mucho más.",
+    "tabla": [
+      [
+        "prestar atenção",
+        "prestar atención (no «pagar»)",
+        "prestár atensáun"
+      ],
+      [
+        "levar em conta",
+        "tomar en cuenta",
+        "levár ein kónta"
+      ],
+      [
+        "tirar conclusões",
+        "sacar conclusiones",
+        "tyirár konklusóins"
+      ],
+      [
+        "firmar um acordo",
+        "firmar un acuerdo",
+        "firmár un akórdu"
+      ],
+      [
+        "correr riscos",
+        "correr riesgos",
+        "korrér rríscus"
+      ],
+      [
+        "erro grosseiro",
+        "error grosero / garrafal",
+        "érru groséiru"
+      ]
+    ],
+    "errores": [
+      "No digas «pagar atenção»: la colocación correcta es «prestar atenção».",
+      "No digas «tomar em conta»: en portugués es «levar em conta».",
+      "No uses «fazer uma decisão»: se dice «tomar uma decisão». Y no «sacar conclusões», sino «tirar conclusões»."
+    ]
+  },
+  "practica": [
+    "Lee 10 minutos una noticia económica de un periódico brasileño y subraya 8 colocaciones verbo + sustantivo (10 minutos).",
+    "Escribe 8 frases con colocaciones de la lista de esta unidad sobre tu trabajo o estudio (8 minutos).",
+    "Escucha un podcast de negocios y anota 5 colocaciones con «dar» o «tomar» (10 minutos).",
+    "Haz tarjetas con 10 sustantivos y escribe a un lado el verbo que los acompaña; repásalas al día siguiente (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-c1-u4-l1",
+      "n": 1,
+      "titulo": "Verbo + sustantivo en el trabajo",
+      "objetivo": "Usar colocaciones verbales frecuentes en contextos laborales.",
+      "intro": "Estas combinaciones verbo + sustantivo aparecen cada día en la oficina. Truco: aprende siempre el verbo con su sustantivo: «firmar um acordo», no solo «acordo».",
+      "palabras": [
+        {
+          "t": "firmar um acordo",
+          "es": "firmar un acuerdo",
+          "pron": "firmár un akórdu",
+          "ej": "Vamos firmar um acordo ainda hoje.",
+          "ejes": "Vamos a firmar un acuerdo hoy mismo.",
+          "cog": false
+        },
+        {
+          "t": "assumir um compromisso",
+          "es": "asumir un compromiso",
+          "pron": "asumír un komprumísu",
+          "ej": "É preciso assumir um compromisso claro.",
+          "ejes": "Hay que asumir un compromiso claro.",
+          "cog": false
+        },
+        {
+          "t": "honrar um compromisso",
+          "es": "cumplir un compromiso",
+          "pron": "onrár un komprumísu",
+          "ej": "Sempre vou honrar um compromisso.",
+          "ejes": "Siempre voy a honrar un compromiso.",
+          "cog": false
+        },
+        {
+          "t": "cumprir um prazo",
+          "es": "cumplir un plazo",
+          "pron": "kumprír un prázu",
+          "ej": "Precisamos cumprir um prazo apertado.",
+          "ejes": "Necesitamos cumplir un plazo ajustado.",
+          "cog": false
+        },
+        {
+          "t": "rescindir um contrato",
+          "es": "rescindir un contrato",
+          "pron": "reshindír un kontrátu",
+          "ej": "A empresa pode rescindir um contrato.",
+          "ejes": "La empresa puede rescindir un contrato.",
+          "cog": false
+        },
+        {
+          "t": "traçar metas",
+          "es": "trazar metas",
+          "pron": "trasár métas",
+          "ej": "Vamos traçar metas realistas.",
+          "ejes": "Vamos a trazar metas realistas.",
+          "cog": false
+        },
+        {
+          "t": "tomar medidas",
+          "es": "tomar medidas",
+          "pron": "tomár medídas",
+          "ej": "Chegou a hora de tomar medidas.",
+          "ejes": "Llegó la hora de tomar medidas.",
+          "cog": false
+        },
+        {
+          "t": "pôr em prática",
+          "es": "poner en práctica",
+          "pron": "pór ein prátika",
+          "ej": "Quero pôr em prática essa ideia.",
+          "ejes": "Quiero poner en práctica esa idea.",
+          "cog": false
+        },
+        {
+          "t": "correr riscos",
+          "es": "correr riesgos",
+          "pron": "korrér rrískus",
+          "ej": "Não podemos correr riscos desnecessários.",
+          "ejes": "No podemos correr riesgos innecesarios.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Firmamos um acordo depois de três meses de negociação.",
+          "es": "Firmamos un acuerdo después de tres meses de negociación.",
+          "pron": "firmámus un akórdu depóis dyi trés mézis dyi negosiasáun"
+        },
+        {
+          "t": "É difícil cumprir um prazo sem planejamento.",
+          "es": "Es difícil cumplir un plazo sin planificación.",
+          "pron": "é dyifísil kumprír un prázu séin planeyaméntu"
+        },
+        {
+          "t": "Vamos traçar metas para o próximo trimestre.",
+          "es": "Vamos a trazar metas para el próximo trimestre.",
+          "pron": "vámus trasár métas pára u próksimu trimestri"
+        },
+        {
+          "t": "O governo precisa tomar medidas urgentes.",
+          "es": "El gobierno necesita tomar medidas urgentes.",
+          "pron": "u govérnu presíza tomár medídas urgéntyis"
+        },
+        {
+          "t": "Quem corre riscos precisa de um plano de reserva.",
+          "es": "Quien corre riesgos necesita un plan de reserva.",
+          "pron": "kéin kórri rrískus presíza dyi un plánu dyi rrezérva"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Fechando um contrato",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Depois de três reuniões, estamos prontos para firmar um acordo.",
+            "es": "Después de tres reuniones, estamos listos para firmar un acuerdo."
+          },
+          {
+            "q": "B",
+            "t": "Ótimo. Mas queremos assumir um compromisso claro quanto ao prazo.",
+            "es": "Excelente. Pero queremos asumir un compromiso claro en cuanto al plazo."
+          },
+          {
+            "q": "A",
+            "t": "Vamos cumprir um prazo de noventa dias, sem correr riscos desnecessários.",
+            "es": "Cumpliremos un plazo de noventa días, sin correr riesgos innecesarios."
+          },
+          {
+            "q": "B",
+            "t": "E se houver atraso, podemos rescindir um contrato sem multa?",
+            "es": "¿Y si hay retraso, podemos rescindir el contrato sin multa?"
+          },
+          {
+            "q": "A",
+            "t": "Só depois de tomar medidas corretivas. Está tudo previsto na cláusula sétima.",
+            "es": "Solo después de tomar medidas correctivas. Todo está previsto en la cláusula séptima."
+          }
+        ]
+      },
+      "nota": "«Honrar um compromisso» es más formal que «cumprir»; ambos son correctos. «Firmar» y «assinar» se usan para contratos; «firmar um acordo» es frecuente en política y negocios."
+    },
+    {
+      "id": "pt-c1-u4-l2",
+      "n": 2,
+      "titulo": "Verbo + sustantivo al argumentar",
+      "objetivo": "Usar colocaciones para exponer ideas y conclusiones.",
+      "intro": "Al exponer y discutir, estas colocaciones dan precisión. Truco: «tirar conclusões» (no «sacar»), «prestar atenção» (no «pagar»), «chegar a uma conclusão».",
+      "palabras": [
+        {
+          "t": "levantar uma questão",
+          "es": "plantear una cuestión",
+          "pron": "levantár úma kestyáun",
+          "ej": "Quero levantar uma questão importante.",
+          "ejes": "Quiero plantear una cuestión importante.",
+          "cog": false
+        },
+        {
+          "t": "tirar conclusões",
+          "es": "sacar conclusiones",
+          "pron": "tyirár konklusóins",
+          "ej": "É cedo para tirar conclusões.",
+          "ejes": "Es pronto para sacar conclusiones.",
+          "cog": false
+        },
+        {
+          "t": "chegar a uma conclusão",
+          "es": "llegar a una conclusión",
+          "pron": "shegár a úma konklusáun",
+          "ej": "Podemos chegar a uma conclusão hoje.",
+          "ejes": "Podemos llegar a una conclusión hoy.",
+          "cog": false
+        },
+        {
+          "t": "prestar atenção",
+          "es": "prestar atención",
+          "pron": "prestár atensáun",
+          "ej": "É essencial prestar atenção aos detalhes.",
+          "ejes": "Es esencial prestar atención a los detalles.",
+          "cog": false
+        },
+        {
+          "t": "proferir uma palestra",
+          "es": "dar una conferencia",
+          "pron": "proferír úma palestra",
+          "ej": "Ele vai proferir uma palestra amanhã.",
+          "ejes": "Él va a dar una conferencia mañana.",
+          "cog": false
+        },
+        {
+          "t": "tecer elogios",
+          "es": "hacer elogios",
+          "pron": "tesér elóyius",
+          "ej": "Vou tecer elogios ao trabalho dela.",
+          "ejes": "Voy a hacer elogios al trabajo de ella.",
+          "cog": false
+        },
+        {
+          "t": "emitir um parecer",
+          "es": "emitir un dictamen",
+          "pron": "emitír un paresér",
+          "ej": "O comitê vai emitir um parecer.",
+          "ejes": "El comité va a emitir un dictamen.",
+          "cog": false
+        },
+        {
+          "t": "lançar uma proposta",
+          "es": "lanzar una propuesta",
+          "pron": "lansár úma propósta",
+          "ej": "Vamos lançar uma proposta nova.",
+          "ejes": "Vamos a lanzar una propuesta nueva.",
+          "cog": false
+        },
+        {
+          "t": "pôr em dúvida",
+          "es": "poner en duda",
+          "pron": "pór ein dúvida",
+          "ej": "Não vou pôr em dúvida sua honestidade.",
+          "ejes": "No voy a poner en duda tu honestidad.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Quero levantar uma questão sobre o orçamento.",
+          "es": "Quiero plantear una cuestión sobre el presupuesto.",
+          "pron": "kéru levantár úma kestyáun sóbri u orsaméntu"
+        },
+        {
+          "t": "É cedo para tirar conclusões definitivas.",
+          "es": "Es pronto para sacar conclusiones definitivas.",
+          "pron": "é sédu pára tyirár konklusóins dyifinitívas"
+        },
+        {
+          "t": "Presto atenção a cada detalhe do contrato.",
+          "es": "Presto atención a cada detalle del contrato.",
+          "pron": "préstu atensáun a káda detályi du kontrátu"
+        },
+        {
+          "t": "O comitê vai emitir um parecer na sexta.",
+          "es": "El comité va a emitir un dictamen el viernes.",
+          "pron": "u komité"
+        },
+        {
+          "t": "Ninguém pôs em dúvida a sua competência.",
+          "es": "Nadie puso en duda tu competencia.",
+          "pron": "ningéin pós ein dúvida a súa kompetensia"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Uma reunião acadêmica",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Antes de tirar conclusões, quero levantar uma questão metodológica.",
+            "es": "Antes de sacar conclusiones, quiero plantear una cuestión metodológica."
+          },
+          {
+            "q": "B",
+            "t": "Claro. Preste atenção: os dados ainda não estão completos.",
+            "es": "Claro. Presta atención: los datos aún no están completos."
+          },
+          {
+            "q": "A",
+            "t": "Por isso não vou pôr em dúvida o resultado, mas pedir cautela.",
+            "es": "Por eso no voy a poner en duda el resultado, sino a pedir cautela."
+          },
+          {
+            "q": "B",
+            "t": "O comitê vai emitir um parecer sobre o método na próxima semana.",
+            "es": "El comité va a emitir un dictamen sobre el método la próxima semana."
+          },
+          {
+            "q": "A",
+            "t": "Então podemos chegar a uma conclusão com mais segurança.",
+            "es": "Entonces podemos llegar a una conclusión con más seguridad."
+          }
+        ]
+      },
+      "nota": "En español «dar una conferencia» y «hacer elogios» corresponden a «proferir uma palestra» y «tecer elogios». Para elogios y críticas, el verbo clásico es «tecer»: «tecer críticas», «tecer comentários»."
+    },
+    {
+      "id": "pt-c1-u4-l3",
+      "n": 3,
+      "titulo": "Adjetivo + sustantivo",
+      "objetivo": "Elegir el adjetivo exacto que acompaña a ciertos sustantivos.",
+      "intro": "Hay adjetivos que «piden» ciertos sustantivos. Truco: no digas «éxito grande»; en portugués el éxito es «estrondoso» y el fracaso, «retumbante».",
+      "palabras": [
+        {
+          "t": "sucesso estrondoso",
+          "es": "éxito rotundo",
+          "pron": "susésu estrondózu",
+          "ej": "Foi um sucesso estrondoso.",
+          "ejes": "Fue un éxito rotundo.",
+          "cog": false
+        },
+        {
+          "t": "fracasso retumbante",
+          "es": "fracaso rotundo",
+          "pron": "frakásu retumbántyi",
+          "ej": "O filme foi um fracasso retumbante.",
+          "ejes": "La película fue un fracaso rotundo.",
+          "cog": false
+        },
+        {
+          "t": "erro grosseiro",
+          "es": "error garrafal",
+          "pron": "érru groséiru",
+          "ej": "Cometemos um erro grosseiro.",
+          "ejes": "Cometimos un error garrafal.",
+          "cog": false
+        },
+        {
+          "t": "mudança radical",
+          "es": "cambio radical",
+          "pron": "mudánsa rradyikáw",
+          "ej": "Precisamos de uma mudança radical.",
+          "ejes": "Necesitamos un cambio radical.",
+          "cog": false
+        },
+        {
+          "t": "debate acalorado",
+          "es": "debate acalorado",
+          "pron": "debátyi akalorádu",
+          "ej": "Houve um debate acalorado.",
+          "ejes": "Hubo un debate acalorado.",
+          "cog": false
+        },
+        {
+          "t": "crise profunda",
+          "es": "crisis profunda",
+          "pron": "krízi profúnda",
+          "ej": "O país vive uma crise profunda.",
+          "ejes": "El país vive una crisis profunda.",
+          "cog": false
+        },
+        {
+          "t": "perda irreparável",
+          "es": "pérdida irreparable",
+          "pron": "pérda irreparávew",
+          "ej": "Foi uma perda irreparável.",
+          "ejes": "Fue una pérdida irreparable.",
+          "cog": false
+        },
+        {
+          "t": "chuva torrencial",
+          "es": "lluvia torrencial",
+          "pron": "shúva torrensiáw",
+          "ej": "A chuva torrencial causou alagamentos.",
+          "ejes": "La lluvia torrencial causó inundaciones.",
+          "cog": false
+        },
+        {
+          "t": "fumante inveterado",
+          "es": "fumador empedernido",
+          "pron": "fumántyi inveterádu",
+          "ej": "Meu avô era fumante inveterado.",
+          "ejes": "Mi abuelo era fumador empedernido.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "A estreia foi um sucesso estrondoso.",
+          "es": "El estreno fue un éxito rotundo.",
+          "pron": "a estréia fói un susésu estrondózu"
+        },
+        {
+          "t": "Foi um fracasso retumbante, apesar do investimento.",
+          "es": "Fue un fracaso rotundo, a pesar de la inversión.",
+          "pron": "fói un frakásu retumbántyi, apézar dyi u investiméntu"
+        },
+        {
+          "t": "Houve um debate acalorado na assembleia.",
+          "es": "Hubo un debate acalorado en la asamblea.",
+          "pron": "óvi un debátyi akalorádu na asembléia"
+        },
+        {
+          "t": "É um erro grosseiro confundir os dois termos.",
+          "es": "Es un error garrafal confundir los dos términos.",
+          "pron": "é un érru groséiru konfundír us dóis térmus"
+        },
+        {
+          "t": "A empresa atravessa uma crise profunda.",
+          "es": "La empresa atraviesa una crisis profunda.",
+          "pron": "a empréza atraveía úma krízi profúnda"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Crítica de cinema",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Você viu o novo filme? A crítica fala em sucesso estrondoso.",
+            "es": "¿Viste la nueva película? La crítica habla de un éxito rotundo."
+          },
+          {
+            "q": "B",
+            "t": "Vi. Na minha opinião, foi um fracasso retumbante de roteiro.",
+            "es": "Sí. En mi opinión, fue un fracaso rotundo de guion."
+          },
+          {
+            "q": "A",
+            "t": "Houve até um debate acalorado na saída do cinema.",
+            "es": "Hubo incluso un debate acalorado a la salida del cine."
+          },
+          {
+            "q": "B",
+            "t": "O diretor admitiu que cometeu um erro grosseiro na montagem.",
+            "es": "El director admitió que cometió un error garrafal en el montaje."
+          },
+          {
+            "q": "A",
+            "t": "Pelo menos o elenco foi elogiado. Perda irreparável seria perder o público.",
+            "es": "Al menos el elenco fue elogiado. Una pérdida irreparable sería perder al público."
+          }
+        ]
+      },
+      "nota": "Estas combinaciones son casi fijas: «sucesso estrondoso» y «fracasso retumbante» no se intercambian. Memorízalas como pareja."
+    },
+    {
+      "id": "pt-c1-u4-l4",
+      "n": 4,
+      "titulo": "Adverbio + adjetivo y verbo",
+      "objetivo": "Reforzar adjetivos y verbos con los adverbios que realmente los acompañan.",
+      "intro": "Ciertos adverbios se pegan a ciertos verbos o adjetivos. Truco: «negar categoricamente», «rejeitar veementemente», «estritamente proibido».",
+      "palabras": [
+        {
+          "t": "negar categoricamente",
+          "es": "negar categóricamente",
+          "pron": "negár kategorikaméntyi",
+          "ej": "Ele vai negar categoricamente a acusação.",
+          "ejes": "Él va a negar categóricamente la acusación.",
+          "cog": false
+        },
+        {
+          "t": "rejeitar veementemente",
+          "es": "rechazar vehementemente",
+          "pron": "reyeitár veementeméntyi",
+          "ej": "Vamos rejeitar veementemente esse boato.",
+          "ejes": "Vamos a rechazar vehementemente ese rumor.",
+          "cog": false
+        },
+        {
+          "t": "plenamente consciente",
+          "es": "plenamente consciente",
+          "pron": "plenaméntyi konsiéntyi",
+          "ej": "Estou plenamente consciente dos riscos.",
+          "ejes": "Estoy plenamente consciente de los riesgos.",
+          "cog": false
+        },
+        {
+          "t": "gravemente ferido",
+          "es": "gravemente herido",
+          "pron": "graveméntyi ferídu",
+          "ej": "O motorista ficou gravemente ferido.",
+          "ejes": "El conductor quedó gravemente herido.",
+          "cog": false
+        },
+        {
+          "t": "estritamente proibido",
+          "es": "estrictamente prohibido",
+          "pron": "estritaméntyi proibídu",
+          "ej": "Fumar aqui é estritamente proibido.",
+          "ejes": "Fumar aquí está estrictamente prohibido.",
+          "cog": false
+        },
+        {
+          "t": "profundamente arrependido",
+          "es": "profundamente arrepentido",
+          "pron": "profundaméntyi arependyídu",
+          "ej": "Ele está profundamente arrependido.",
+          "ejes": "Él está profundamente arrepentido.",
+          "cog": false
+        },
+        {
+          "t": "amplamente divulgado",
+          "es": "ampliamente difundido",
+          "pron": "ampláméntyi dyivuwgádu",
+          "ej": "O resultado foi amplamente divulgado.",
+          "ejes": "El resultado fue ampliamente difundido.",
+          "cog": false
+        },
+        {
+          "t": "devidamente assinado",
+          "es": "debidamente firmado",
+          "pron": "devídaméntyi asinádu",
+          "ej": "Entregue o formulário devidamente assinado.",
+          "ejes": "Entregue el formulario debidamente firmado.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Ele negou categoricamente qualquer envolvimento.",
+          "es": "Él negó categóricamente cualquier participación.",
+          "pron": "éli negóu kategorikaméntyi kwawkér envowviméntu"
+        },
+        {
+          "t": "Rejeitamos veementemente essa acusação.",
+          "es": "Rechazamos vehementemente esa acusación.",
+          "pron": "reyeitámus veementeméntyi ésa akuzasáun"
+        },
+        {
+          "t": "Estou plenamente consciente das consequências.",
+          "es": "Estoy plenamente consciente de las consecuencias.",
+          "pron": "estóu plenaméntyi konsiéntyi das konsekuénsias"
+        },
+        {
+          "t": "Fumar neste local é estritamente proibido.",
+          "es": "Fumar en este lugar está estrictamente prohibido.",
+          "pron": "fumár néstyi lokáw é estritaméntyi proibídu"
+        },
+        {
+          "t": "O relatório foi amplamente divulgado na imprensa.",
+          "es": "El informe fue ampliamente difundido en la prensa.",
+          "pron": "u relatóriu fói ampláméntyi dyivuwgádu na imprénsa"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Uma declaração à imprensa",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "O senhor nega categoricamente qualquer envolvimento no caso?",
+            "es": "¿Usted niega categóricamente cualquier participación en el caso?"
+          },
+          {
+            "q": "B",
+            "t": "Nego categoricamente. Rejeito veementemente essas acusações.",
+            "es": "Lo niego categóricamente. Rechazo vehementemente esas acusaciones."
+          },
+          {
+            "q": "A",
+            "t": "Mas o documento foi amplamente divulgado e está devidamente assinado.",
+            "es": "Pero el documento fue ampliamente difundido y está debidamente firmado."
+          },
+          {
+            "q": "B",
+            "t": "Estou plenamente consciente disso, e já pedi uma investigação.",
+            "es": "Estoy plenamente consciente de ello, y ya pedí una investigación."
+          },
+          {
+            "q": "A",
+            "t": "Então o senhor está profundamente arrependido?",
+            "es": "¿Entonces usted está profundamente arrepentido?"
+          }
+        ]
+      },
+      "nota": "Estas colocaciones suenan formales y se oyen sobre todo en noticias, comunicados y discursos; en la conversación diaria se usan versiones más simples («negar na hora», «ficar muito arrependido»)."
+    },
+    {
+      "id": "pt-c1-u4-l5",
+      "n": 5,
+      "titulo": "Repaso: dar, fazer y levar",
+      "objetivo": "Practicar locuciones verbales frecuentes con «dar», «fazer» y «levar».",
+      "intro": "Los verbos «dar», «fazer» y «levar» generan decenas de colocaciones. Truco: «dar margem a», «dar lugar a», «dar início a»: el significado cambia con el sustantivo.",
+      "palabras": [
+        {
+          "t": "dar margem a",
+          "es": "dar pie a",
+          "pron": "dár máryein a",
+          "ej": "Isso pode dar margem a dúvidas.",
+          "ejes": "Eso puede dar pie a dudas.",
+          "cog": false
+        },
+        {
+          "t": "dar lugar a",
+          "es": "dar lugar a",
+          "pron": "dár lugár a",
+          "ej": "O passado vai dar lugar a algo novo.",
+          "ejes": "El pasado va a dar lugar a algo nuevo.",
+          "cog": false
+        },
+        {
+          "t": "dar início a",
+          "es": "dar inicio a",
+          "pron": "dár inísiu a",
+          "ej": "Vamos dar início a uma nova fase.",
+          "ejes": "Vamos a dar inicio a una nueva fase.",
+          "cog": false
+        },
+        {
+          "t": "dar conta de",
+          "es": "dar abasto con",
+          "pron": "dár kónta dyi",
+          "ej": "Não consigo dar conta de tudo.",
+          "ejes": "No consigo dar abasto con todo.",
+          "cog": false
+        },
+        {
+          "t": "dar ouvidos a",
+          "es": "hacer caso a",
+          "pron": "dár ouvídus a",
+          "ej": "Não vou dar ouvidos a boatos.",
+          "ejes": "No voy a hacer caso a rumores.",
+          "cog": false
+        },
+        {
+          "t": "dar prova de",
+          "es": "dar muestra de",
+          "pron": "dár próva dyi",
+          "ej": "Ele quis dar prova de coragem.",
+          "ejes": "Él quiso dar muestra de coraje.",
+          "cog": false
+        },
+        {
+          "t": "fazer jus a",
+          "es": "hacer honor a",
+          "pron": "fazér yús a",
+          "ej": "Ela soube fazer jus a sua fama.",
+          "ejes": "Ella supo hacer honor a su fama.",
+          "cog": false
+        },
+        {
+          "t": "levar em consideração",
+          "es": "tomar en consideración",
+          "pron": "levár ein konsiderasáun",
+          "ej": "Vou levar em consideração sua opinião.",
+          "ejes": "Voy a tomar en consideración tu opinión.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Essa declaração pode dar margem a mal-entendidos.",
+          "es": "Esa declaración puede dar pie a malentendidos.",
+          "pron": "ésa deklarasáun pódyi dár máryein a mál-entendídus"
+        },
+        {
+          "t": "Não consigo dar conta de tantas tarefas.",
+          "es": "No consigo dar abasto con tantas tareas.",
+          "pron": "náun konsígu dár kónta dyi tántas taréfas"
+        },
+        {
+          "t": "Vamos dar início ao projeto na segunda-feira.",
+          "es": "Vamos a dar inicio al proyecto el lunes.",
+          "pron": "vámus dár inísiu au proyétu na segúnda-féira"
+        },
+        {
+          "t": "Ele fez jus ao prêmio que recebeu.",
+          "es": "Él hizo honor al premio que recibió.",
+          "pron": "éli fés yús au prémiu ki resebéu"
+        },
+        {
+          "t": "Não dê ouvidos a quem só critica.",
+          "es": "No hagas caso a quien solo critica.",
+          "pron": "náun dé ouvídus a kéin sól krítika"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Um balanço do semestre",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Esse resultado dá margem a otimismo, não acha?",
+            "es": "Ese resultado da pie al optimismo, ¿no crees?"
+          },
+          {
+            "q": "B",
+            "t": "Acho. A equipe fez jus à sua fama de eficiente.",
+            "es": "Sí. El equipo hizo honor a su fama de eficiente."
+          },
+          {
+            "q": "A",
+            "t": "Agora vamos dar início ao novo ciclo, sem dar ouvidos a boatos.",
+            "es": "Ahora vamos a dar inicio al nuevo ciclo, sin hacer caso a rumores."
+          },
+          {
+            "q": "B",
+            "t": "Só não consigo dar conta de tudo sozinho.",
+            "es": "Solo que no consigo dar abasto con todo yo solo."
+          },
+          {
+            "q": "A",
+            "t": "Vamos levar em consideração seu pedido e contratar mais gente.",
+            "es": "Vamos a tomar en consideración tu pedido y contratar más gente."
+          }
+        ]
+      },
+      "nota": "«Dar» es el verbo con más colocaciones: dar certo, dar errado, dar conta, dar margem, dar ouvidos. Apunta cada una con un ejemplo propio."
+    }
+  ]
+}

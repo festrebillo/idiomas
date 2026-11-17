@@ -1,0 +1,217 @@
+{
+  "id": "it-c1-u4",
+  "idioma": "it",
+  "nivel": "C1",
+  "n": 4,
+  "titulo": "Colocaciones avanzadas",
+  "resumen": "Aprenderás las combinaciones fijas de verbo + sustantivo y adjetivo + sustantivo que usan los hablantes cultos: avanzare un'ipotesi, nutrire dubbi, ampio consenso.",
+  "puedo": [
+    "Elegir el verbo exacto para cada sustantivo (avanzare un'ipotesi, sollevare una questione).",
+    "Usar combinaciones de adjetivo + sustantivo propias del italiano (ampio consenso, grave errore).",
+    "Hablar de trabajo y economía con colocaciones precisas (stilare un bilancio, subire un calo).",
+    "Expresar emociones y reacciones con verbos propios (esprimere rammarico, destare sospetti).",
+    "Evitar traducciones literales del español que suenan antinaturales."
+  ],
+  "gramatica": {
+    "titulo": "Colocaciones: el verbo no se traduce palabra por palabra",
+    "texto": "Una colocación es una pareja de palabras que van juntas porque así lo dice el uso, no la lógica. En italiano el verbo que acompaña a un sustantivo suele ser distinto del español.\nEjemplos: «tomar una decisión» es prendere una decisione, pero «cometer un error» es commettere un errore (no fare). «Plantear una duda» es sollevare un dubbio. «Despertar sospechas» es destare sospetti.\nCon los adjetivos pasa igual: un «gran apoyo» es un ampio consenso; una «fuerte preocupación» es una forte preoccupazione; un «grave error» es un grave errore.\nTruco: aprende cada colocación completa, como una sola unidad, y no sustituyas el verbo por un sinónimo: suena raro.",
+    "tabla": [
+      ["prendere una decisione", "tomar una decisión", "préndere úna dechisióne"],
+      ["commettere un errore", "cometer un error", "commétere un erróre"],
+      ["sollevare una questione", "plantear una cuestión", "solleváre úna cuestióne"],
+      ["destare sospetti", "despertar sospechas", "destáre sospétti"],
+      ["ampio consenso", "amplio consenso", "ámpio consénso"]
+    ],
+    "errores": [
+      "Decir «fare un errore» por influencia de «hacer un error»: en italiano se dice «commettere un errore» (o «sbagliare»).",
+      "Decir «fare una questione» por «hacer una cuestión»: con «questione» el verbo natural es «sollevare»; con «domanda» vale «fare» (o «porre», más formal).",
+      "Cambiar el adjetivo por un sinónimo: «grande errore» no es lo mismo que «grave errore»; la colocación natural es «grave errore»."
+    ]
+  },
+  "practica": [
+    "Lee un artículo de economía de Il Sole 24 Ore o de la sección de economía de un diario y anota diez colocaciones de verbo + sustantivo (12 minutos).",
+    "Escribe diez frases con colocaciones de la unidad y revisa cada verbo contra un diccionario de colocaciones o un corpus como el de la Crusca (10 minutos).",
+    "Escucha un telediario italiano y anota cinco colocaciones de adjetivo + sustantivo, por ejemplo ampio consenso o grave errore (10 minutos).",
+    "Convierte cinco frases en español con verbos comunes (hacer, tener, dar) en italiano natural buscando el verbo preciso (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-c1-u4-l1",
+      "n": 1,
+      "titulo": "Verbos y sustantivos: ideas y argumentos",
+      "objetivo": "Usar colocaciones de verbo + sustantivo para plantear ideas, dudas y críticas.",
+      "intro": "En una discusión profesional no se «hace» una hipótesis: se avanza. Truco: aprende cada pareja entera, como «avanzare un'ipotesi» o «sollevare una questione».",
+      "palabras": [
+        { "t": "avanzare un'ipotesi", "es": "plantear una hipótesis", "pron": "avantsáre unipótesi", "ej": "Vorrei avanzare un'ipotesi diversa.", "ejes": "Quisiera plantear una hipótesis distinta.", "cog": false },
+        { "t": "sollevare una questione", "es": "plantear una cuestión", "pron": "solleváre úna cuestióne", "ej": "Il collega ha voluto sollevare una questione delicata.", "ejes": "El colega quiso plantear una cuestión delicada.", "cog": false },
+        { "t": "nutrire dubbi", "es": "albergar dudas", "pron": "nutríre dúbbi", "ej": "Non c'è motivo di nutrire dubbi sulla sua onestà.", "ejes": "No hay motivo para albergar dudas sobre su honestidad.", "cog": false },
+        { "t": "cogliere l'occasione", "es": "aprovechar la ocasión", "pron": "cólyere locasióne", "ej": "Dobbiamo cogliere l'occasione per rilanciare il marchio.", "ejes": "Debemos aprovechar la ocasión para relanzar la marca.", "cog": false },
+        { "t": "porre rimedio a", "es": "poner remedio a", "pron": "pórre rimédio a", "ej": "Bisogna porre rimedio a questo errore.", "ejes": "Hay que poner remedio a este error.", "cog": false },
+        { "t": "esercitare pressioni", "es": "ejercer presiones", "pron": "esercitáre pressióni", "ej": "Nessuno può esercitare pressioni sulla commissione.", "ejes": "Nadie puede ejercer presiones sobre la comisión.", "cog": true },
+        { "t": "trarre conclusioni", "es": "sacar conclusiones", "pron": "tráre conclusióni", "ej": "È presto per trarre conclusioni definitive.", "ejes": "Es pronto para sacar conclusiones definitivas.", "cog": false },
+        { "t": "formulare una richiesta", "es": "formular una solicitud", "pron": "formuláre úna richiésta", "ej": "Vorrei formulare una richiesta formale.", "ejes": "Quisiera formular una solicitud formal.", "cog": true },
+        { "t": "muovere una critica", "es": "dirigir una crítica", "pron": "muóvere úna crítica", "ej": "Il giornale ha deciso di muovere una critica severa.", "ejes": "El periódico decidió dirigir una crítica severa.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Vorrei avanzare un'ipotesi diversa da quella del relatore.", "es": "Quisiera plantear una hipótesis distinta a la del relator.", "pron": "vorréi avantsáre unipótesi divérsa da cuélla del relatóre" },
+        { "t": "Il consigliere ha sollevato una questione di legittimità.", "es": "El concejal planteó una cuestión de legitimidad.", "pron": "il consilyére a sollevato úna cuestióne di ledyitimitá" },
+        { "t": "È ancora presto per trarre conclusioni sul risultato.", "es": "Todavía es pronto para sacar conclusiones sobre el resultado.", "pron": "e ancóra présto per tráre conclusióni sul risultáto" },
+        { "t": "Dobbiamo porre rimedio a questa situazione prima possibile.", "es": "Debemos poner remedio a esta situación cuanto antes.", "pron": "dobbiámo pórre rimédio a cuésta situatsióne príma possíbile" },
+        { "t": "Nessuno ha il diritto di esercitare pressioni sui giudici.", "es": "Nadie tiene derecho a ejercer presiones sobre los jueces.", "pron": "nessúno a il dirítto di esercitáre pressióni sui dyúdichi" }
+      ],
+      "dialogo": {
+        "titulo": "In commissione",
+        "lineas": [
+          { "q": "A", "t": "Vorrei avanzare un'ipotesi: il ritardo potrebbe dipendere da una scelta organizzativa, non da un problema tecnico, come qualcuno ha suggerito.", "es": "Quisiera plantear una hipótesis: el retraso podría depender de una decisión organizativa, no de un problema técnico, como alguien ha sugerido." },
+          { "q": "B", "t": "Mi permetto di sollevare una questione: se così fosse, dovremmo porre rimedio quanto prima, senza esercitare pressioni inutili sui reparti.", "es": "Me permito plantear una cuestión: si fuera así, deberíamos poner remedio cuanto antes, sin ejercer presiones inútiles sobre los departamentos." },
+          { "q": "A", "t": "Concordo, però è presto per trarre conclusioni definitive. Preferisco aspettare i dati prima di muovere una critica a qualcuno.", "es": "Estoy de acuerdo, pero es pronto para sacar conclusiones definitivas. Prefiero esperar los datos antes de dirigir una crítica a alguien." },
+          { "q": "B", "t": "Capisco. Io, comunque, non nutro dubbi sulla buona fede di nessuno; vorrei solo formulare una richiesta di chiarimenti per iscritto.", "es": "Entiendo. Yo, de todos modos, no albergo dudas sobre la buena fe de nadie; solo quisiera formular una solicitud de aclaraciones por escrito." },
+          { "q": "A", "t": "Va bene. Quest'occasione va colta: se la commissione risponde, potremo chiudere la questione entro la fine del mese.", "es": "Bien. Esta ocasión hay que aprovecharla: si la comisión responde, podremos cerrar la cuestión antes de fin de mes." }
+        ]
+      },
+      "nota": "«Porre» es un verbo culto y formal: «porre una domanda», «porre rimedio», «porre fine». En el habla corriente se usa más «fare una domanda» o «mettere fine»."
+    },
+    {
+      "id": "it-c1-u4-l2",
+      "n": 2,
+      "titulo": "Adjetivo + sustantivo",
+      "objetivo": "Reconocer y usar parejas de adjetivo + sustantivo que se oyen siempre juntas.",
+      "intro": "En italiano ciertos sustantivos eligen siempre el mismo adjetivo: se dice «ampio consenso», no «gran consenso». Truco: lee prensa y apunta las parejas completas.",
+      "palabras": [
+        { "t": "ampio consenso", "es": "amplio consenso", "pron": "ámpio consénso", "ej": "Il piano ha raccolto ampio consenso tra i soci.", "ejes": "El plan ha reunido amplio consenso entre los socios.", "cog": true },
+        { "t": "grave errore", "es": "grave error", "pron": "gráve erróre", "ej": "Fu un grave errore sottovalutare i costi.", "ejes": "Fue un grave error subestimar los costos.", "cog": true },
+        { "t": "netto rifiuto", "es": "rechazo rotundo", "pron": "nétto rifiúto", "ej": "Il comitato ha espresso un netto rifiuto.", "ejes": "El comité expresó un rechazo rotundo.", "cog": false },
+        { "t": "forte preoccupazione", "es": "fuerte preocupación", "pron": "fórte preoccupatsióne", "ej": "Esprimiamo forte preoccupazione per la situazione.", "ejes": "Expresamos fuerte preocupación por la situación.", "cog": true },
+        { "t": "stretta collaborazione", "es": "estrecha colaboración", "pron": "strétta colaboratsióne", "ej": "Lavoriamo in stretta collaborazione con le autorità.", "ejes": "Trabajamos en estrecha colaboración con las autoridades.", "cog": true },
+        { "t": "scarso interesse", "es": "escaso interés", "pron": "scárso interésse", "ej": "Il pubblico ha mostrato scarso interesse.", "ejes": "El público mostró escaso interés.", "cog": true },
+        { "t": "acceso dibattito", "es": "acalorado debate", "pron": "atchéso dibattíto", "ej": "Il tema ha provocato un acceso dibattito.", "ejes": "El tema provocó un acalorado debate.", "cog": false },
+        { "t": "profondo rispetto", "es": "profundo respeto", "pron": "profóndo rispétto", "ej": "Ho profondo rispetto per la sua scelta.", "ejes": "Tengo profundo respeto por su decisión.", "cog": true },
+        { "t": "pesante sconfitta", "es": "dura derrota", "pron": "pesánte sconfítta", "ej": "La squadra ha subito una pesante sconfitta.", "ejes": "El equipo sufrió una dura derrota.", "cog": false }
+      ],
+      "frases": [
+        { "t": "La proposta ha ottenuto ampio consenso in assemblea.", "es": "La propuesta obtuvo amplio consenso en la asamblea.", "pron": "la propósta a ottenúto ámpio consénso in assemblea" },
+        { "t": "È stato un grave errore, e ne siamo tutti consapevoli.", "es": "Fue un grave error, y todos somos conscientes de ello.", "pron": "e státo un gráve erróre e ne siámo túti consapevóli" },
+        { "t": "Il comitato ha opposto un netto rifiuto a ogni modifica.", "es": "El comité opuso un rechazo rotundo a toda modificación.", "pron": "il comitáto a oppósto un nétto rifiúto a óñi modificatsióne" },
+        { "t": "I due enti lavorano in stretta collaborazione da anni.", "es": "Los dos entes trabajan en estrecha colaboración desde hace años.", "pron": "i dúe énti lavórano in strétta colaboratsióne da ánni" },
+        { "t": "La riforma ha acceso un dibattito molto aspro.", "es": "La reforma ha encendido un debate muy áspero.", "pron": "la riforma a atchéso un dibattíto mólto áspro" }
+      ],
+      "dialogo": {
+        "titulo": "Un commento alla riforma",
+        "lineas": [
+          { "q": "A", "t": "Ho letto che la riforma ha raccolto ampio consenso in Parlamento, ma ha anche provocato un acceso dibattito tra i sindacati.", "es": "Leí que la reforma ha reunido amplio consenso en el Parlamento, pero también ha provocado un acalorado debate entre los sindicatos." },
+          { "q": "B", "t": "Sì, e c'è forte preoccupazione per gli effetti sul lavoro precario. Alcuni parlano di un grave errore di valutazione.", "es": "Sí, y hay fuerte preocupación por los efectos sobre el trabajo precario. Algunos hablan de un grave error de evaluación." },
+          { "q": "A", "t": "Io ho profondo rispetto per chi critica, ma l'opposizione è stata di un netto rifiuto fin dall'inizio, senza proposte concrete.", "es": "Yo tengo profundo respeto por quien critica, pero la oposición fue de un rechazo rotundo desde el principio, sin propuestas concretas." },
+          { "q": "B", "t": "Forse. Intanto il governo ha subito una pesante sconfitta sulle misure fiscali, e lavora ora in stretta collaborazione con le regioni.", "es": "Quizás. Mientras tanto el gobierno ha sufrido una dura derrota en las medidas fiscales y trabaja ahora en estrecha colaboración con las regiones." },
+          { "q": "A", "t": "Il pubblico, però, sembra mostrare scarso interesse: la maggior parte della gente non segue nemmeno i dettagli.", "es": "El público, sin embargo, parece mostrar escaso interés: la mayoría de la gente ni siquiera sigue los detalles." }
+        ]
+      },
+      "nota": "Muchos de estos adjetivos van antes del sustantivo en este registro: «ampio consenso», «grave errore», «forte preoccupazione». Cuando cambia la posición, a veces cambia el matiz, pero con estas colocaciones se mantiene el orden habitual."
+    },
+    {
+      "id": "it-c1-u4-l3",
+      "n": 3,
+      "titulo": "Trabajo y economía",
+      "objetivo": "Hablar de resultados, plazos y objetivos con colocaciones propias del mundo profesional.",
+      "intro": "En el trabajo, cada verbo tiene su sustantivo: se stila un bilancio, se rispettano le scadenze, se subisce un calo. Truco: pon el verbo y el sustantivo en la misma tarjeta de estudio.",
+      "palabras": [
+        { "t": "stilare un bilancio", "es": "redactar un balance", "pron": "stiláre un bilánchio", "ej": "A fine anno dobbiamo stilare un bilancio.", "ejes": "A fin de año debemos redactar un balance.", "cog": false },
+        { "t": "rispettare le scadenze", "es": "cumplir los plazos", "pron": "rispettáre le scadéntse", "ej": "Dobbiamo rispettare le scadenze concordate.", "ejes": "Debemos cumplir los plazos acordados.", "cog": false },
+        { "t": "raggiungere un obiettivo", "es": "alcanzar un objetivo", "pron": "radyundyére un obietívo", "ej": "Vogliamo raggiungere un obiettivo ambizioso.", "ejes": "Queremos alcanzar un objetivo ambicioso.", "cog": false },
+        { "t": "mantenere un impegno", "es": "cumplir un compromiso", "pron": "mantenére un impéño", "ej": "Voglio mantenere un impegno preso con i clienti.", "ejes": "Quiero cumplir un compromiso asumido con los clientes.", "cog": false },
+        { "t": "subire un calo", "es": "sufrir una caída", "pron": "subíre un cálo", "ej": "Le vendite rischiano di subire un calo.", "ejes": "Las ventas corren el riesgo de sufrir una caída.", "cog": false },
+        { "t": "registrare un aumento", "es": "registrar un aumento", "pron": "redyistráre un auménto", "ej": "Il settore dovrebbe registrare un aumento.", "ejes": "El sector debería registrar un aumento.", "cog": true },
+        { "t": "avviare una trattativa", "es": "iniciar una negociación", "pron": "avviáre úna trattatíva", "ej": "Intendiamo avviare una trattativa con il fornitore.", "ejes": "Pretendemos iniciar una negociación con el proveedor.", "cog": false },
+        { "t": "tagliare i costi", "es": "reducir costos", "pron": "talyáre i cósti", "ej": "Dobbiamo tagliare i costi superflui.", "ejes": "Debemos reducir los costos superfluos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il consiglio dovrà stilare un bilancio entro dicembre.", "es": "El consejo deberá redactar un balance antes de diciembre.", "pron": "il consíliyo dovrá stiláre un bilánchio éntro dichémbre" },
+        { "t": "Non riusciamo a rispettare le scadenze per mancanza di personale.", "es": "No logramos cumplir los plazos por falta de personal.", "pron": "non riusciámo a rispettáre le scadéntse per mancántsa di personále" },
+        { "t": "L'azienda ha subito un calo del dieci per cento.", "es": "La empresa ha sufrido una caída del diez por ciento.", "pron": "laziénda a subíto un cálo del diéchi per chénto" },
+        { "t": "Abbiamo registrato un aumento delle richieste online.", "es": "Hemos registrado un aumento de las solicitudes en línea.", "pron": "abbiámo redyistráto un auménto délle richiéste onláin" },
+        { "t": "Vogliamo avviare una trattativa seria con i sindacati.", "es": "Queremos iniciar una negociación seria con los sindicatos.", "pron": "vogliámo avviáre úna trattatíva séria con i sindacáti" }
+      ],
+      "dialogo": {
+        "titulo": "A fine trimestre",
+        "lineas": [
+          { "q": "A", "t": "Dobbiamo stilare un bilancio sincero: abbiamo subito un calo nelle vendite estere, ma abbiamo anche registrato un aumento dell'ordinato nazionale.", "es": "Debemos redactar un balance sincero: hemos sufrido una caída en las ventas al exterior, pero también hemos registrado un aumento de los pedidos nacionales." },
+          { "q": "B", "t": "Sì, e per raggiungere l'obiettivo annuale dovremo tagliare i costi dove possibile, senza compromettere la qualità del servizio.", "es": "Sí, y para alcanzar el objetivo anual deberemos reducir costos donde se pueda, sin comprometer la calidad del servicio." },
+          { "q": "A", "t": "Intendo avviare una trattativa con i fornitori principali. Se riusciamo a rispettare le scadenze concordate, potremo ottenere condizioni migliori.", "es": "Pienso iniciar una negociación con los proveedores principales. Si logramos cumplir los plazos acordados, podremos conseguir mejores condiciones." },
+          { "q": "B", "t": "Giusto, ma dobbiamo mantenere l'impegno preso con il personale: nessun taglio sugli stipendi, almeno fino a giugno.", "es": "Correcto, pero debemos cumplir el compromiso asumido con el personal: ningún recorte en los sueldos, al menos hasta junio." },
+          { "q": "A", "t": "Lo ribadisco anche io. Preparo una relazione per il consiglio e la mando a tutti entro giovedì.", "es": "Lo reitero yo también. Preparo un informe para el consejo y se lo envío a todos antes del jueves." }
+        ]
+      },
+      "nota": "«Subire» tiene casi siempre sentido negativo (subire un calo, una sconfitta, un danno); «registrare» es neutro. Con «obiettivo» se usa «raggiungere», no «arrivare a»."
+    },
+    {
+      "id": "it-c1-u4-l4",
+      "n": 4,
+      "titulo": "Emociones, reacciones y comunicación",
+      "objetivo": "Usar colocaciones para expresar reacciones, emociones y juicios con precisión.",
+      "intro": "Para hablar de cómo reacciona la gente, el italiano usa verbos específicos: se destano sospetti, se suscitano polemiche. Truco: el verbo suele ser más culto que en español.",
+      "palabras": [
+        { "t": "esprimere rammarico", "es": "expresar pesar", "pron": "esprímere rammárico", "ej": "Vorrei esprimere rammarico per l'accaduto.", "ejes": "Quisiera expresar pesar por lo ocurrido.", "cog": false },
+        { "t": "suscitare polemiche", "es": "suscitar polémicas", "pron": "suschitáre polémike", "ej": "La notizia rischia di suscitare polemiche.", "ejes": "La noticia corre el riesgo de suscitar polémicas.", "cog": true },
+        { "t": "destare sospetti", "es": "despertar sospechas", "pron": "destáre sospétti", "ej": "Il suo silenzio potrebbe destare sospetti.", "ejes": "Su silencio podría despertar sospechas.", "cog": false },
+        { "t": "riporre fiducia", "es": "depositar confianza", "pron": "ripórre fidúcia", "ej": "Posso riporre fiducia in lui senza esitazioni.", "ejes": "Puedo depositar confianza en él sin vacilaciones.", "cog": false },
+        { "t": "serbare rancore", "es": "guardar rencor", "pron": "serbáre rancóre", "ej": "Non è saggio serbare rancore per sempre.", "ejes": "No es sabio guardar rencor para siempre.", "cog": false },
+        { "t": "provare disagio", "es": "sentir malestar", "pron": "prováre disádyo", "ej": "Molti hanno iniziato a provare disagio.", "ejes": "Muchos empezaron a sentir malestar.", "cog": false },
+        { "t": "fare chiarezza", "es": "aclarar, poner en claro", "pron": "fáre chiarétsa", "ej": "Serve fare chiarezza sui fatti.", "ejes": "Hace falta aclarar los hechos.", "cog": false },
+        { "t": "tirare le somme", "es": "hacer balance, sacar conclusiones", "pron": "tiráre le sómme", "ej": "È ora di tirare le somme del progetto.", "ejes": "Es hora de hacer balance del proyecto.", "cog": false },
+        { "t": "dare adito a", "es": "dar lugar a", "pron": "dáre ádito a", "ej": "Il testo non deve dare adito a equivoci.", "ejes": "El texto no debe dar lugar a equívocos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il presidente ha espresso rammarico per le dimissioni.", "es": "El presidente expresó pesar por las renuncias.", "pron": "il presidénte a espréso rammárico per le dimissióni" },
+        { "t": "Una dichiarazione così rischia di suscitare polemiche.", "es": "Una declaración así corre el riesgo de suscitar polémicas.", "pron": "úna dikiaratsióne cosí rískia di suschitáre polémike" },
+        { "t": "Questi ritardi iniziano a destare sospetti tra i soci.", "es": "Estos retrasos empiezan a despertar sospechas entre los socios.", "pron": "cuésti ritárdi iníchiano a destáre sospétti tra i sóchi" },
+        { "t": "Dopo il chiarimento, non provo più alcun rancore.", "es": "Después de la aclaración, ya no guardo ningún rencor.", "pron": "dópo il chiarimento non próvo piú alcún rancóre" },
+        { "t": "Bisogna fare chiarezza prima di dare adito a voci incontrollate.", "es": "Hay que aclarar antes de dar lugar a rumores incontrolados.", "pron": "bisóña fáre chiarétsa príma di dáre ádito a vóchi incontrollate" }
+      ],
+      "dialogo": {
+        "titulo": "Dopo la polemica",
+        "lineas": [
+          { "q": "A", "t": "La tua dichiarazione ha suscitato polemiche, e il suo silenzio ha destato sospetti: dobbiamo fare chiarezza il prima possibile.", "es": "Tu declaración ha suscitado polémicas, y su silencio ha despertado sospechas: debemos aclarar cuanto antes." },
+          { "q": "B", "t": "Lo so, e vorrei esprimere rammarico per il malinteso: non volevo dare adito a interpretazioni sbagliate, né provocare disagio a nessuno.", "es": "Lo sé, y quisiera expresar pesar por el malentendido: no quería dar lugar a interpretaciones erradas, ni provocar malestar a nadie." },
+          { "q": "A", "t": "Apprezzo la tua onestà. Personalmente non serbo rancore, ma i soci vogliono tirare le somme prima della prossima riunione.", "es": "Aprecio tu honestidad. Personalmente no guardo rencor, pero los socios quieren hacer balance antes de la próxima reunión." },
+          { "q": "B", "t": "Capisco. Ho sempre cercato di riporre fiducia nel gruppo, e spero che la fiducia sia reciproca anche in un momento difficile come questo.", "es": "Entiendo. Siempre he tratado de depositar confianza en el grupo, y espero que la confianza sea recíproca también en un momento difícil como este." },
+          { "q": "A", "t": "Lo è, e proprio per questo ti chiedo di scrivere una nota chiara: così eviteremo altre polemiche e ripartiremo con serenità.", "es": "Lo es, y precisamente por eso te pido que escribas una nota clara: así evitaremos otras polémicas y arrancaremos con serenidad." }
+        ]
+      },
+      "nota": "Los verbos de esta lección son típicos del registro formal y de la prensa. En una charla informal se dice más «mi dispiace» que «esprimere rammarico», o «si fa casino» que «suscitare polemiche»."
+    },
+    {
+      "id": "it-c1-u4-l5",
+      "n": 5,
+      "titulo": "Repaso: colocaciones en contexto",
+      "objetivo": "Combinar colocaciones de las lecciones anteriores en un texto profesional natural.",
+      "intro": "Repasa leyendo un informe breve y subrayando cada colocación. Truco: si dudas entre dos verbos, busca la pareja en un corpus antes de usarla.",
+      "palabras": [
+        { "t": "porre una domanda", "es": "plantear una pregunta", "pron": "pórre úna dománda", "ej": "Vorrei porre una domanda al relatore.", "ejes": "Quisiera plantear una pregunta al relator.", "cog": false },
+        { "t": "commettere un errore", "es": "cometer un error", "pron": "commétere un erróre", "ej": "È facile commettere un errore del genere.", "ejes": "Es fácil cometer un error de este tipo.", "cog": false },
+        { "t": "prendere una decisione", "es": "tomar una decisión", "pron": "préndere úna dechisióne", "ej": "Dobbiamo prendere una decisione entro venerdì.", "ejes": "Debemos tomar una decisión antes del viernes.", "cog": false },
+        { "t": "correre un rischio", "es": "correr un riesgo", "pron": "córrere un rísquio", "ej": "Non vogliamo correre un rischio inutile.", "ejes": "No queremos correr un riesgo innecesario.", "cog": true },
+        { "t": "assumere un atteggiamento", "es": "adoptar una actitud", "pron": "assúmere un atteddyiaménto", "ej": "Conviene assumere un atteggiamento prudente.", "ejes": "Conviene adoptar una actitud prudente.", "cog": false },
+        { "t": "godere di buona salute", "es": "gozar de buena salud", "pron": "godére di buóna salúte", "ej": "A ottant'anni è raro godere di buona salute.", "ejes": "A los ochenta años es raro gozar de buena salud.", "cog": false },
+        { "t": "esercitare una professione", "es": "ejercer una profesión", "pron": "esercitáre úna professióne", "ej": "Per esercitare una professione serve l'abilitazione.", "ejes": "Para ejercer una profesión se necesita la habilitación.", "cog": true },
+        { "t": "nutrire speranze", "es": "abrigar esperanzas", "pron": "nutríre sperántse", "ej": "Non possiamo nutrire speranze irrealistiche.", "ejes": "No podemos abrigar esperanzas irrealistas.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Non si può prendere una decisione senza conoscere i fatti.", "es": "No se puede tomar una decisión sin conocer los hechos.", "pron": "non si púo préndere úna dechisióne sénsa conoschére i fátti" },
+        { "t": "Ho commesso un errore e ne assumo la responsabilità.", "es": "He cometido un error y asumo la responsabilidad.", "pron": "o commésso un erróre e ne assúmo la responsabilitá" },
+        { "t": "Il gruppo ha corso un rischio calcolato e ha vinto.", "es": "El grupo corrió un riesgo calculado y ganó.", "pron": "il grúppo a córso un rísquio calcoláto e a vínto" },
+        { "t": "Molti giovani nutrono speranze solo in un futuro all'estero.", "es": "Muchos jóvenes abrigan esperanzas solo en un futuro en el extranjero.", "pron": "mólti dyóvani nútrono sperántse sólo in un futúro allestéro" },
+        { "t": "Ha assunto un atteggiamento molto più prudente.", "es": "Ha adoptado una actitud mucho más prudente.", "pron": "a assúnto un atteddyiaménto mólto piú prudénte" }
+      ],
+      "dialogo": {
+        "titulo": "Il verbale della riunione",
+        "lineas": [
+          { "q": "A", "t": "Vorrei porre una domanda: perché abbiamo corso un rischio così alto senza avanzare prima nessuna ipotesi alternativa?", "es": "Quisiera plantear una pregunta: ¿por qué corrimos un riesgo tan alto sin plantear antes ninguna hipótesis alternativa?" },
+          { "q": "B", "t": "Ammetto di aver commesso un errore: avrei dovuto prendere una decisione più ponderata e ascoltare chi nutriva dubbi sul piano.", "es": "Admito haber cometido un error: debería haber tomado una decisión más ponderada y escuchar a quienes albergaban dudas sobre el plan." },
+          { "q": "A", "t": "Apprezzo l'onestà. D'ora in poi vorrei un atteggiamento più prudente, e un bilancio trimestrale per tirare le somme con regolarità.", "es": "Aprecio la honestidad. De ahora en adelante querría una actitud más prudente, y un balance trimestral para hacer cuentas con regularidad." },
+          { "q": "B", "t": "Va bene. Spero di non dover più esercitare pressioni sui colleghi per rispettare le scadenze: preferisco spiegare i motivi con calma.", "es": "Bien. Espero no tener que volver a ejercer presiones sobre los colegas para cumplir los plazos: prefiero explicar los motivos con calma." },
+          { "q": "A", "t": "Perfetto. Metterò a verbale che ci sarà stretta collaborazione tra i reparti, e non si dovrà più nutrire alcun sospetto reciproco.", "es": "Perfecto. Dejaré en acta que habrá estrecha colaboración entre los departamentos, y ya no habrá que albergar ninguna sospecha recíproca." }
+        ]
+      },
+      "nota": "Para consolidar, haz tarjetas con el verbo a un lado y el sustantivo al otro: al leer el sustantivo, recuerda el verbo. Con el tiempo, la pareja sale sola."
+    }
+  ]
+}

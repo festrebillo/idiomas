@@ -1,0 +1,218 @@
+{
+  "id": "it-c1-u8",
+  "idioma": "it",
+  "nivel": "C1",
+  "n": 8,
+  "titulo": "Negociación y diplomacia",
+  "resumen": "Aprenderás a negociar con tacto: suavizar desacuerdos, hacer concesiones y contrapropuestas, declinar con cortesía y fijar condiciones con purché y a condizione che.",
+  "puedo": [
+    "Suavizar un desacuerdo con temo che, con tutto il rispetto o avrei qualche riserva.",
+    "Hacer concesiones y contrapropuestas con venire incontro, in cambio di y controproposta.",
+    "Declinar una oferta o una petición sin romper la relación.",
+    "Cerrar un acuerdo con siglare, sottoscrivere y di comune accordo.",
+    "Poner condiciones con purché, a condizione che, a patto che y a meno che non."
+  ],
+  "gramatica": {
+    "titulo": "Condiciones con congiuntivo: purché, a condizione che",
+    "texto": "En una negociación casi todo se acepta «con condiciones». Para expresarlas el italiano usa conectores que piden congiuntivo:\nPurché / a condizione che / a patto che + congiuntivo: Firmo purché il prezzo sia fisso.\nA meno che non + congiuntivo: Non firmiamo, a meno che non cambino le condizioni. (El «non» no niega; es expletivo y se escribe siempre.)\nNel caso in cui + condizionale o congiuntivo: Nel caso in cui il cliente rifiuti, avvisateci.\nSi el sujeto es el mismo, se prefiere «a condizione di» + infinitivo: Accettiamo a condizione di ricevere garanzie.\nTruco: «purché» es el más corto y habitual; «a condizione che» es el más formal.",
+    "tabla": [
+      ["Firmo purché il prezzo sia fisso.", "Firmo siempre que el precio sea fijo.", "firmo purké il préttso sía físso"],
+      ["Accetto a condizione che mi diate garanzie.", "Acepto con la condición de que me den garantías.", "acchétto a conditsióne ke mi diáte garantsíe"],
+      ["Procediamo a patto che ci sia un accordo scritto.", "Procedemos siempre que haya un acuerdo escrito.", "prochediámo a pátto ke chi sía un accórdo scritto"],
+      ["Non firmeremo, a meno che non cambino le condizioni.", "No firmaremos, a menos que cambien las condiciones.", "non firmerémo a méno ke non cámbino le conditsióni"],
+      ["Accettiamo a condizione di ricevere garanzie.", "Aceptamos con la condición de recibir garantías.", "atchettiámo a conditsióne di richevére garantsíe"]
+    ],
+    "errores": [
+      "Usar indicativo después de «purché» o «a condizione che»: va congiuntivo («purché sia», no «purché è»).",
+      "Omitir el «non» después de «a meno che»: «a meno che non cambino» (el «non» es obligatorio y no niega).",
+      "Usar «a condizione che» con el mismo sujeto: es más natural «a condizione di» + infinitivo («a condizione di ricevere»)."
+    ]
+  },
+  "practica": [
+    "Lee una noticia sobre una negociación (sindical, comercial o diplomática) en la prensa italiana y subraya las fórmulas de cortesía y de condición (12 minutos).",
+    "Escribe un correo de seis líneas rechazando una oferta con tacto, con una contrapropuesta y una condición (10 minutos).",
+    "Simula en voz alta una negociación de precio, con un amigo o grabándote, usando al menos tres fórmulas de la unidad (10 minutos).",
+    "Convierte cinco frases directas («No acepto») en frases diplomáticas («Temo che non ci sia possibile accettare») (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-c1-u8-l1",
+      "n": 1,
+      "titulo": "Suavizar un desacuerdo",
+      "objetivo": "Expresar desacuerdo o reservas sin dañar la relación con la otra parte.",
+      "intro": "En diplomacia, el «no» se envuelve. Truco: antes del desacuerdo, reconoce algo y suaviza con «temo che» o «con tutto il rispetto».",
+      "palabras": [
+        { "t": "temo che", "es": "temo que", "pron": "témo ke", "ej": "Temo che ci sia un malinteso.", "ejes": "Temo que haya un malentendido.", "cog": false },
+        { "t": "con tutto il rispetto", "es": "con todo respeto", "pron": "con túto il rispétto", "ej": "Con tutto il rispetto, non sono d'accordo.", "ejes": "Con todo respeto, no estoy de acuerdo.", "cog": false },
+        { "t": "mi permetto di", "es": "me permito", "pron": "mi permétto di", "ej": "Mi permetto di segnalare un problema.", "ejes": "Me permito señalar un problema.", "cog": false },
+        { "t": "avrei qualche riserva", "es": "tendría algunas reservas", "pron": "avréi cualke risérva", "ej": "Su questo punto avrei qualche riserva.", "ejes": "En este punto tendría algunas reservas.", "cog": false },
+        { "t": "non vorrei sembrare", "es": "no quisiera parecer", "pron": "non vorréi sembráre", "ej": "Non vorrei sembrare pignolo, ma c'è un errore.", "ejes": "No quisiera parecer quisquilloso, pero hay un error.", "cog": false },
+        { "t": "se non erro", "es": "si no me equivoco", "pron": "se non érro", "ej": "Se non erro, il termine scade domani.", "ejes": "Si no me equivoco, el plazo vence mañana.", "cog": false },
+        { "t": "mi riservo di", "es": "me reservo el derecho de", "pron": "mi risérvo di", "ej": "Mi riservo di rispondere dopo averne parlato.", "ejes": "Me reservo el derecho de responder tras hablarlo.", "cog": false },
+        { "t": "con franchezza", "es": "con franqueza", "pron": "con frankétsa", "ej": "Lo dico con franchezza, non è fattibile.", "ejes": "Lo digo con franqueza, no es factible.", "cog": false },
+        { "t": "a mio modesto avviso", "es": "a mi modesto juicio", "pron": "a mío modésto avvíso", "ej": "A mio modesto avviso, serve più tempo.", "ejes": "A mi modesto juicio, hace falta más tiempo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Con tutto il rispetto, temo che questa proposta non sia realistica.", "es": "Con todo respeto, temo que esta propuesta no sea realista.", "pron": "con túto il rispétto témo ke cuésta propósta non sía realístika" },
+        { "t": "Mi permetto di segnalare che il termine è già scaduto.", "es": "Me permito señalar que el plazo ya venció.", "pron": "mi permétto di señaláre ke il términe e yá scadúto" },
+        { "t": "Non vorrei sembrare pignolo, ma c'è un errore nella clausola.", "es": "No quisiera parecer quisquilloso, pero hay un error en la cláusula.", "pron": "non vorréi sembráre piñólo ma chi e un erróre nélla cláusola" },
+        { "t": "Su questo punto avrei qualche riserva, se me lo consente.", "es": "En este punto tendría algunas reservas, si me lo permite.", "pron": "su cuésto púnto avréi cualke risérva se me lo consénte" },
+        { "t": "Mi riservo di rispondere dopo aver consultato il mio team.", "es": "Me reservo el derecho de responder tras consultar con mi equipo.", "pron": "mi risérvo di rispóndere dópo aver consultáto il mío tim" }
+      ],
+      "dialogo": {
+        "titulo": "Un primo incontro",
+        "lineas": [
+          { "q": "A", "t": "Vi presento la nostra offerta: un contratto triennale a prezzi fissi, con una consegna mensile garantita e un servizio di assistenza incluso.", "es": "Les presento nuestra oferta: un contrato trienal a precios fijos, con una entrega mensual garantizada y un servicio de asistencia incluido." },
+          { "q": "B", "t": "Apprezziamo molto lo sforzo. Con tutto il rispetto, temo che il prezzo sia superiore al nostro budget, e su due clausole avremmo qualche riserva.", "es": "Apreciamos mucho el esfuerzo. Con todo respeto, temo que el precio supere nuestro presupuesto, y sobre dos cláusulas tendríamos algunas reservas." },
+          { "q": "A", "t": "Capisco. Se non erro, nell'ultimo incontro avevamo già discusso il costo; mi permetto di ricordare che includeva l'assistenza tecnica.", "es": "Entiendo. Si no me equivoco, en la última reunión ya habíamos hablado del costo; me permito recordar que incluía la asistencia técnica." },
+          { "q": "B", "t": "Lo dico con franchezza: non vorrei sembrare rigido, ma ci serve più flessibilità. Mi riservo di rispondere dopo aver consultato la direzione.", "es": "Lo digo con franqueza: no quisiera parecer rígido, pero necesitamos más flexibilidad. Me reservo el derecho de responder después de consultar a la dirección." },
+          { "q": "A", "t": "Naturalmente. A mio modesto avviso un punto d'incontro esiste: ve ne invieremo una nuova versione già domani mattina.", "es": "Naturalmente. A mi modesto juicio un punto de encuentro existe: les enviaremos una nueva versión ya mañana por la mañana." }
+        ]
+      },
+      "nota": "«Se me lo consente» y «se posso» son fórmulas corteses para pedir la palabra o introducir una objeción. En negociaciones formales se usa el «Lei» (usted), no el «tu»."
+    },
+    {
+      "id": "it-c1-u8-l2",
+      "n": 2,
+      "titulo": "Concesiones y contrapropuestas",
+      "objetivo": "Hacer concesiones y plantear contrapropuestas manteniendo una posición firme.",
+      "intro": "Negociar es dar y recibir. Truco: toda concesión se presenta junto a una contrapartida: «venire incontro a... in cambio di...».",
+      "palabras": [
+        { "t": "venire incontro", "es": "ir al encuentro de, atender", "pron": "venire incóntro", "ej": "Siamo disposti a venire incontro alle vostre richieste.", "ejes": "Estamos dispuestos a atender sus peticiones.", "cog": false },
+        { "t": "cedere", "es": "ceder", "pron": "chédere", "ej": "Non possiamo cedere su questo punto.", "ejes": "No podemos ceder en este punto.", "cog": true },
+        { "t": "compromesso", "es": "compromiso, acuerdo intermedio", "pron": "compromésso", "ej": "Un compromesso è ancora possibile.", "ejes": "Un acuerdo intermedio todavía es posible.", "cog": true },
+        { "t": "contropartita", "es": "contrapartida", "pron": "contropartíta", "ej": "Chiediamo una contropartita adeguata.", "ejes": "Pedimos una contrapartida adecuada.", "cog": true },
+        { "t": "in cambio di", "es": "a cambio de", "pron": "in cámbio di", "ej": "Offriamo uno sconto in cambio di un contratto biennale.", "ejes": "Ofrecemos un descuento a cambio de un contrato bienal.", "cog": false },
+        { "t": "controproposta", "es": "contrapropuesta", "pron": "controproposta", "ej": "Vi invieremo una controproposta entro venerdì.", "ejes": "Les enviaremos una contrapropuesta antes del viernes.", "cog": true },
+        { "t": "margine di manovra", "es": "margen de maniobra", "pron": "mardyíne di manóvra", "ej": "Abbiamo poco margine di manovra sul prezzo.", "ejes": "Tenemos poco margen de maniobra en el precio.", "cog": true },
+        { "t": "fare un passo indietro", "es": "dar un paso atrás", "pron": "fáre un pásso indiétro", "ej": "A volte conviene fare un passo indietro.", "ejes": "A veces conviene dar un paso atrás.", "cog": false },
+        { "t": "punto d'incontro", "es": "punto de encuentro", "pron": "púnto dincóntro", "ej": "Cerchiamo un punto d'incontro ragionevole.", "ejes": "Buscamos un punto de encuentro razonable.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Siamo disposti a venire incontro alle vostre richieste.", "es": "Estamos dispuestos a atender sus peticiones.", "pron": "siámo dispósti a venire incóntro álle vóstre richiéste" },
+        { "t": "Offriamo uno sconto in cambio di un contratto più lungo.", "es": "Ofrecemos un descuento a cambio de un contrato más largo.", "pron": "offriámo úno scónto in cámbio di un contrátto piú lúngo" },
+        { "t": "Su questo punto non possiamo cedere, ma sul resto siamo flessibili.", "es": "En este punto no podemos ceder, pero en lo demás somos flexibles.", "pron": "su cuésto púnto non possiámo chédere ma sul résto siámo flessíbili" },
+        { "t": "Vi invieremo una controproposta con condizioni più equilibrate.", "es": "Les enviaremos una contrapropuesta con condiciones más equilibradas.", "pron": "vi inviarémo úna controproposta con conditsióni piú ecuilibráte" },
+        { "t": "Abbiamo poco margine di manovra, ma cerchiamo un compromesso.", "es": "Tenemos poco margen de maniobra, pero buscamos un acuerdo intermedio.", "pron": "abbiámo póco mardyíne di manóvra ma cherkiámo un compromésso" }
+      ],
+      "dialogo": {
+        "titulo": "Verso un accordo",
+        "lineas": [
+          { "q": "A", "t": "Abbiamo poco margine di manovra sul prezzo, ma siamo disposti a venire incontro alle vostre richieste sui tempi di consegna.", "es": "Tenemos poco margen de maniobra en el precio, pero estamos dispuestos a atender sus peticiones sobre los plazos de entrega." },
+          { "q": "B", "t": "È già un passo avanti. In cambio di una riduzione del cinque per cento, possiamo estendere il contratto da due a tre anni.", "es": "Ya es un paso adelante. A cambio de una reducción del cinco por ciento, podemos ampliar el contrato de dos a tres años." },
+          { "q": "A", "t": "Il cinque per cento è troppo: non possiamo cedere così tanto. Potremmo arrivare al tre, con una contropartita sul volume minimo.", "es": "El cinco por ciento es demasiado: no podemos ceder tanto. Podríamos llegar al tres, con una contrapartida sobre el volumen mínimo." },
+          { "q": "B", "t": "Mi sembra un buon punto d'incontro. Vi invieremo una controproposta scritta entro giovedì, per rendere il compromesso più chiaro.", "es": "Me parece un buen punto de encuentro. Les enviaremos una contrapropuesta escrita antes del jueves, para que el acuerdo sea más claro." },
+          { "q": "A", "t": "Perfetto. A volte bisogna fare un passo indietro per farne due avanti: vedrete che troveremo una soluzione equilibrata per tutti.", "es": "Perfecto. A veces hay que dar un paso atrás para dar dos adelante: verán que encontraremos una solución equilibrada para todos." }
+        ]
+      },
+      "nota": "«Compromesso» tiene un sentido positivo en negociación (acuerdo en que ambos ceden) pero también se usa en política en sentido negativo («compromesso al ribasso»). Fíjate en el contexto."
+    },
+    {
+      "id": "it-c1-u8-l3",
+      "n": 3,
+      "titulo": "Declinar y pedir con tacto",
+      "objetivo": "Rechazar una oferta o pedir algo sin cerrar la puerta.",
+      "intro": "Un buen «no» deja la relación intacta. Truco: agradece, explica en una frase, rechaza y deja una puerta abierta.",
+      "palabras": [
+        { "t": "declinare", "es": "declinar, rechazar con cortesía", "pron": "declináre", "ej": "Siamo costretti a declinare l'offerta.", "ejes": "Nos vemos obligados a declinar la oferta.", "cog": true },
+        { "t": "non ci è possibile", "es": "no nos es posible", "pron": "non chi e possíbile", "ej": "Non ci è possibile accettare queste condizioni.", "ejes": "No nos es posible aceptar estas condiciones.", "cog": false },
+        { "t": "non siamo in grado di", "es": "no estamos en condiciones de", "pron": "non siámo in grádo di", "ej": "Purtroppo non siamo in grado di garantire la consegna.", "ejes": "Lamentablemente no estamos en condiciones de garantizar la entrega.", "cog": false },
+        { "t": "ci rammarichiamo di", "es": "lamentamos", "pron": "chi rammarikiámo di", "ej": "Ci rammarichiamo di comunicarvi il ritardo.", "ejes": "Lamentamos comunicarles el retraso.", "cog": false },
+        { "t": "prendere atto di", "es": "tomar nota de", "pron": "préndere átto di", "ej": "Vogliamo prendere atto di quanto emerso.", "ejes": "Queremos tomar nota de lo que ha surgido.", "cog": false },
+        { "t": "rimandare", "es": "aplazar", "pron": "rimandáre", "ej": "Preferiamo rimandare la decisione a gennaio.", "ejes": "Preferimos aplazar la decisión a enero.", "cog": false },
+        { "t": "ci spiace informarvi", "es": "lamentamos informarles", "pron": "chi spiáche informárvi", "ej": "Ci spiace informarvi che l'ordine è stato annullato.", "ejes": "Lamentamos informarles que el pedido fue anulado.", "cog": false },
+        { "t": "gradiremmo", "es": "agradeceríamos, nos gustaría", "pron": "gradirémmo", "ej": "Gradiremmo una risposta entro lunedì.", "ejes": "Agradeceríamos una respuesta antes del lunes.", "cog": false },
+        { "t": "sollecitare", "es": "instar, urgir", "pron": "sollechitáre", "ej": "Dobbiamo sollecitare una risposta al fornitore.", "ejes": "Debemos instar al proveedor a que responda.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Ci spiace informarvi che non possiamo accettare l'offerta.", "es": "Lamentamos informarles que no podemos aceptar la oferta.", "pron": "chi spiáche informárvi ke non possiámo atchettáre lofférta" },
+        { "t": "Non ci è possibile accettare queste condizioni per ora.", "es": "No nos es posible aceptar estas condiciones por ahora.", "pron": "non chi e possíbile atchettáre cuéste conditsióni per óra" },
+        { "t": "Preferiamo rimandare la decisione a dopo le festività.", "es": "Preferimos aplazar la decisión para después de las fiestas.", "pron": "preferiámo rimandáre la dechisióne a dópo le festivitá" },
+        { "t": "Gradiremmo una vostra risposta entro la fine della settimana.", "es": "Agradeceríamos una respuesta suya antes de fin de semana.", "pron": "gradirémmo úna vóstra rispósta éntro la fíne délla settimána" },
+        { "t": "Prendiamo atto della vostra posizione e vi ringraziamo.", "es": "Tomamos nota de su posición y les agradecemos.", "pron": "prendiámo átto délla vóstra posisióne e vi ringratsiámo" }
+      ],
+      "dialogo": {
+        "titulo": "Un rifiuto cortese",
+        "lineas": [
+          { "q": "A", "t": "Gentile signor Bianchi, la ringrazio per l'offerta. Ci rammarichiamo di comunicarle che non siamo in grado di accettarla nelle condizioni attuali.", "es": "Estimado señor Bianchi, le agradezco la oferta. Lamentamos comunicarle que no estamos en condiciones de aceptarla en las condiciones actuales." },
+          { "q": "B", "t": "Prendo atto della vostra posizione. Posso chiedervi se si tratta del prezzo o di altri aspetti? Gradirei capire per migliorare la proposta.", "es": "Tomo nota de su posición. ¿Puedo preguntar si se trata del precio o de otros aspectos? Me gustaría entenderlo para mejorar la propuesta." },
+          { "q": "A", "t": "Soprattutto dei tempi: non ci è possibile gestire una consegna così rapida. Preferiremmo rimandare la decisione e riparlarne a gennaio.", "es": "Sobre todo de los plazos: no nos es posible gestionar una entrega tan rápida. Preferiríamos aplazar la decisión y volver a hablarlo en enero." },
+          { "q": "B", "t": "Capisco. Per non perdere tempo, sarebbe possibile sollecitare un parere tecnico dal vostro responsabile logistica già questa settimana?", "es": "Entiendo. Para no perder tiempo, ¿sería posible solicitar una opinión técnica de su responsable de logística ya esta semana?" },
+          { "q": "A", "t": "Volentieri. Ci spiace non poter fare di più per ora, ma la porta resta aperta: rivediamoci appena avremo un quadro più chiaro.", "es": "Con gusto. Lamentamos no poder hacer más por ahora, pero la puerta sigue abierta: volvamos a vernos cuando tengamos un cuadro más claro." }
+        ]
+      },
+      "nota": "«Gradire» en condicional («gradirei», «gradiremmo») es la forma más cortés de pedir en un contexto profesional. También: «vorremmo», «saremmo grati se», «le saremmo riconoscenti»."
+    },
+    {
+      "id": "it-c1-u8-l4",
+      "n": 4,
+      "titulo": "Cerrar el acuerdo",
+      "objetivo": "Formalizar un acuerdo con el vocabulario contractual y de cierre adecuado.",
+      "intro": "Cerrar un acuerdo es tan importante como negociarlo: fecha, cláusulas y firma. Truco: confirma siempre por escrito lo hablado.",
+      "palabras": [
+        { "t": "siglare", "es": "rubricar, firmar (con iniciales)", "pron": "siglare", "ej": "Domani speriamo di siglare l'accordo.", "ejes": "Mañana esperamos rubricar el acuerdo.", "cog": false },
+        { "t": "sottoscrivere", "es": "suscribir, firmar", "pron": "sottoscrívere", "ej": "Le parti devono sottoscrivere il contratto.", "ejes": "Las partes deben suscribir el contrato.", "cog": false },
+        { "t": "di comune accordo", "es": "de común acuerdo", "pron": "di comúne accórdo", "ej": "La data è stata fissata di comune accordo.", "ejes": "La fecha se fijó de común acuerdo.", "cog": false },
+        { "t": "la clausola", "es": "la cláusula", "pron": "la cláusola", "ej": "La clausola di recesso è molto chiara.", "ejes": "La cláusula de rescisión es muy clara.", "cog": true },
+        { "t": "l'intesa", "es": "el entendimiento, el acuerdo", "pron": "lintésa", "ej": "L'intesa è stata raggiunta dopo due giorni.", "ejes": "El entendimiento se alcanzó después de dos días.", "cog": false },
+        { "t": "vincolante", "es": "vinculante", "pron": "vincolánte", "ej": "L'accordo è vincolante per entrambe le parti.", "ejes": "El acuerdo es vinculante para ambas partes.", "cog": true },
+        { "t": "recedere da", "es": "rescindir, desistir de", "pron": "rechédere da", "ej": "È possibile recedere da questo accordo con preavviso.", "ejes": "Es posible rescindir este acuerdo con preaviso.", "cog": false },
+        { "t": "entrare in vigore", "es": "entrar en vigor", "pron": "entráre in vigóre", "ej": "Il contratto dovrebbe entrare in vigore a marzo.", "ejes": "El contrato debería entrar en vigor en marzo.", "cog": false },
+        { "t": "disdire", "es": "cancelar, dar de baja", "pron": "disdíre", "ej": "Per disdire l'abbonamento serve una raccomandata.", "ejes": "Para cancelar la suscripción hace falta una carta certificada.", "cog": false }
+      ],
+      "frases": [
+        { "t": "L'intesa è stata raggiunta di comune accordo dopo due giorni.", "es": "El entendimiento se alcanzó de común acuerdo después de dos días.", "pron": "lintésa e státa radyúnta di comúne accórdo dópo dúe dyórni" },
+        { "t": "Le parti sottoscriveranno il contratto venerdì mattina.", "es": "Las partes suscribirán el contrato el viernes por la mañana.", "pron": "le párti sottoscriveránno il contrátto venerdí mattína" },
+        { "t": "La clausola di recesso è stata modificata su richiesta nostra.", "es": "La cláusula de rescisión fue modificada a petición nuestra.", "pron": "la cláusola di rechésso e státa modificáta su richiésta nóstra" },
+        { "t": "Il contratto entrerà in vigore dal primo marzo.", "es": "El contrato entrará en vigor el primero de marzo.", "pron": "il contrátto entrerá in vigóre dal prímo márso" },
+        { "t": "L'accordo è vincolante e non può essere modificato unilateralmente.", "es": "El acuerdo es vinculante y no puede modificarse unilateralmente.", "pron": "laccórdo e vincolánte e non púo ésere modificáto unilateralménte" }
+      ],
+      "dialogo": {
+        "titulo": "La firma",
+        "lineas": [
+          { "q": "A", "t": "Dopo due giorni di trattative, l'intesa è stata raggiunta di comune accordo. Domani possiamo siglare il documento in sede.", "es": "Después de dos días de negociaciones, el entendimiento se alcanzó de común acuerdo. Mañana podemos rubricar el documento en la sede." },
+          { "q": "B", "t": "Perfetto. Prima però vorrei rileggere la clausola sul recesso: se non erro, permette di recedere con tre mesi di preavviso.", "es": "Perfecto. Antes, sin embargo, quisiera releer la cláusula sobre la rescisión: si no me equivoco, permite rescindir con tres meses de preaviso." },
+          { "q": "A", "t": "Esatto. L'accordo è vincolante per entrambe le parti, ma abbiamo inserito una possibilità di disdire in caso di inadempienza grave.", "es": "Exacto. El acuerdo es vinculante para ambas partes, pero hemos incluido la posibilidad de cancelar en caso de incumplimiento grave." },
+          { "q": "B", "t": "Bene. Quando dovrebbe entrare in vigore? Se possibile, vorrei farlo coincidere con l'inizio del nuovo trimestre.", "es": "Bien. ¿Cuándo debería entrar en vigor? Si es posible, quisiera hacerlo coincidir con el inicio del nuevo trimestre." },
+          { "q": "A", "t": "Dal primo aprile. Le parti sottoscriveranno il testo definitivo venerdì mattina, e vi invieremo copia firmata per posta certificata.", "es": "Desde el primero de abril. Las partes suscribirán el texto definitivo el viernes por la mañana, y les enviaremos copia firmada por correo certificado." }
+        ]
+      },
+      "nota": "«Firmare» es el verbo general; «siglare» es poner solo las iniciales (un paso previo, a veces en negociaciones diplomáticas); «sottoscrivere» es firmar de forma plena, con valor jurídico."
+    },
+    {
+      "id": "it-c1-u8-l5",
+      "n": 5,
+      "titulo": "Repaso: una negociación completa",
+      "objetivo": "Combinar suavizadores, concesiones, condiciones y cierre en una negociación de principio a fin.",
+      "intro": "Repasa simulando una negociación: abre con cortesía, defiende tu posición, concede algo, pon condiciones y cierra con un siguiente paso. Truco: nunca cierres sin resumir lo acordado.",
+      "palabras": [
+        { "t": "la controparte", "es": "la contraparte", "pron": "la contropárte", "ej": "La controparte ha accettato le nostre condizioni.", "ejes": "La contraparte aceptó nuestras condiciones.", "cog": true },
+        { "t": "l'interlocutore", "es": "el interlocutor", "pron": "linterlocutóre", "ej": "L'interlocutore era disponibile al dialogo.", "ejes": "El interlocutor estaba abierto al diálogo.", "cog": true },
+        { "t": "intransigente", "es": "intransigente", "pron": "intransidyénte", "ej": "Non essere intransigente su ogni dettaglio.", "ejes": "No seas intransigente en cada detalle.", "cog": true },
+        { "t": "mediare", "es": "mediar", "pron": "mediáre", "ej": "Un esperto esterno può mediare tra le parti.", "ejes": "Un experto externo puede mediar entre las partes.", "cog": true },
+        { "t": "rilanciare", "es": "subir la apuesta, relanzar", "pron": "rilanchiáre", "ej": "Conviene rilanciare con una nuova offerta.", "ejes": "Conviene subir la apuesta con una nueva oferta.", "cog": false },
+        { "t": "al ribasso", "es": "a la baja", "pron": "al ribásso", "ej": "Trattiamo il prezzo al ribasso.", "ejes": "Negociamos el precio a la baja.", "cog": false },
+        { "t": "a oltranza", "es": "hasta el final, sin tregua", "pron": "a oltrántsa", "ej": "Hanno trattato a oltranza fino all'alba.", "ejes": "Negociaron sin tregua hasta el amanecer.", "cog": false },
+        { "t": "dirimere", "es": "dirimir, resolver", "pron": "dirímere", "ej": "Il giudice dovrà dirimere la controversia.", "ejes": "El juez deberá dirimir la controversia.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Firmiamo purché il prezzo resti invariato per tre anni.", "es": "Firmamos siempre que el precio permanezca sin cambios durante tres años.", "pron": "firmiámo purké il préttso résti invariáto per tre ánni" },
+        { "t": "Accettiamo a condizione che sia inserita una clausola di recesso.", "es": "Aceptamos con la condición de que se incluya una cláusula de rescisión.", "pron": "atchettiámo a conditsióne ke sía inserita úna cláusola di rechésso" },
+        { "t": "Non firmeremo, a meno che non cambino le condizioni di pagamento.", "es": "No firmaremos, a menos que cambien las condiciones de pago.", "pron": "non firmerémo a méno ke non cámbino le conditsióni di pagaménto" },
+        { "t": "Nel caso in cui la controparte rifiuti, valuteremo un mediatore.", "es": "En caso de que la contraparte rechace, evaluaremos un mediador.", "pron": "nel cáso in cui la contropárte rifiúti valutarémo un mediatóre" },
+        { "t": "Hanno trattato a oltranza e alla fine hanno trovato un'intesa.", "es": "Negociaron sin tregua y al final encontraron un entendimiento.", "pron": "ánno trattáto a oltrántsa e álla fíne ánno trováto unintésa" }
+      ],
+      "dialogo": {
+        "titulo": "Chiudere una trattativa",
+        "lineas": [
+          { "q": "A", "t": "Con tutto il rispetto, temo che la vostra offerta al ribasso non sia sostenibile. Non possiamo firmare, a meno che non cambino le condizioni di pagamento.", "es": "Con todo respeto, temo que su oferta a la baja no sea sostenible. No podemos firmar, a menos que cambien las condiciones de pago." },
+          { "q": "B", "t": "Siamo disposti a venire incontro alle vostre richieste, purché la durata del contratto sia di almeno tre anni e il volume minimo resti invariato.", "es": "Estamos dispuestos a atender sus peticiones, siempre que la duración del contrato sea de al menos tres años y el volumen mínimo se mantenga." },
+          { "q": "A", "t": "Accettiamo a condizione che sia inserita una clausola di recesso. Nel caso in cui la controparte rifiuti, valuteremo un mediatore esterno.", "es": "Aceptamos con la condición de que se incluya una cláusula de rescisión. En caso de que la contraparte rechace, evaluaremos un mediador externo." },
+          { "q": "B", "t": "Non credo sarà necessario: l'interlocutore principale è disponibile al dialogo e non è intransigente sui dettagli. Rilancio con una nuova bozza.", "es": "No creo que haga falta: el interlocutor principal está abierto al diálogo y no es intransigente con los detalles. Subo la apuesta con un nuevo borrador." },
+          { "q": "A", "t": "Ottimo. Se arriviamo a un'intesa di comune accordo, la firmeremo venerdì. Anche se abbiamo trattato a oltranza, il risultato vale lo sforzo.", "es": "Excelente. Si llegamos a un entendimiento de común acuerdo, lo firmaremos el viernes. Aunque hemos negociado sin tregua, el resultado vale el esfuerzo." }
+        ]
+      },
+      "nota": "En una negociación real, el tono vale tanto como las palabras: una voz calmada, pausas y preguntas abiertas («Che cosa sarebbe per voi accettabile?») suelen abrir más puertas que cualquier fórmula."
+    }
+  ]
+}

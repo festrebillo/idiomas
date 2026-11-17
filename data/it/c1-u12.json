@@ -1,0 +1,214 @@
+{
+  "id": "it-c1-u12",
+  "idioma": "it",
+  "nivel": "C1",
+  "n": 12,
+  "titulo": "Comprender a nativos y acentos",
+  "resumen": "Aprenderás a entender el italiano hablado de verdad: reducciones, acentos regionales, expresiones coloquiales y cómo pedir que te aclaren algo.",
+  "puedo": [
+    "Reconocer reducciones habituales del habla: un po', qual è, che ne so, ce l'ho.",
+    "Identificar rasgos de acentos regionales (toscano, romano, napolitano, milanés).",
+    "Entender expresiones coloquiales como figurati, ci mancherebbe y un casino.",
+    "Pedir con naturalidad que repitan, aclaren o hablen más despacio.",
+    "Seguir una conversación rápida con muletillas y marcadores del discurso."
+  ],
+  "gramatica": {
+    "titulo": "Elisión y apócope en el habla",
+    "texto": "El italiano hablado acorta y une palabras. Hay dos fenómenos:\nElisión: se pierde la vocal final delante de otra vocal y se escribe apóstrofo: l'amico, un'idea, c'è, d'accordo.\nApócope (troncamento): se corta la sílaba final sin apóstrofo (salvo casos): un po' (poco, lleva apóstrofo), qual è (¡sin apóstrofo!), buon amico, bel libro.\nEn la conversación se oyen reducciones más fuertes: «ce l'ho» (lo tengo), «te l'ho detto», «che ne so» (yo qué sé), 'sto / 'sta (este, esta).\nTruco: al escuchar, no busques palabras separadas; busca grupos de sonidos que forman una idea.",
+    "tabla": [
+      ["Aspetta un po'.", "Espera un poco.", "aspétta un pó"],
+      ["Qual è il problema?", "¿Cuál es el problema?", "cual e il probléma"],
+      ["Che ne so!", "¡Yo qué sé!", "ke ne só"],
+      ["Ce l'hai?", "¿Lo tienes?", "che lái"],
+      ["'Sto libro è bellissimo.", "Este libro es buenísimo (coloquial).", "sto líbro e bellíssimo"]
+    ],
+    "errores": [
+      "Escribir «qual'è» con apóstrofo: es incorrecto; «qual è» se escribe sin apóstrofo porque es un truncamiento, no una elisión.",
+      "Pronunciar cada palabra por separado: en italiano hablado «che ne so» suena casi como una sola palabra.",
+      "Usar «'sto» o «mica» en un texto formal: son coloquiales y se reservan para el habla informal."
+    ]
+  },
+  "practica": [
+    "Escucha un podcast o un vídeo de YouTube de un italiano hablando rápido y anota diez expresiones que no entiendas (12 minutos).",
+    "Repite en voz alta diez frases reducidas como «che ne so», «ce l'ho», «te l'ho detto», imitando el ritmo (8 minutos).",
+    "Mira una escena de una película italiana con subtítulos en italiano y luego sin ellos (15 minutos).",
+    "Escribe un diálogo informal de ocho líneas usando al menos cinco expresiones coloquiales de esta unidad (12 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-c1-u12-l1",
+      "n": 1,
+      "titulo": "Reducciones y muletillas habladas",
+      "objetivo": "Reconocer en una conversación real las reducciones y partículas más frecuentes.",
+      "intro": "Los italianos hablan rápido y con partículas que no aparecen en los libros. Truco: «boh», «mica» y «dai» se usan tanto que merece la pena aprenderlas primero.",
+      "palabras": [
+        { "t": "un po'", "es": "un poco", "pron": "un pó", "ej": "Aspetta un po' prima di decidere.", "ejes": "Espera un poco antes de decidir.", "cog": false },
+        { "t": "boh", "es": "ni idea, ¿quién sabe?", "pron": "bó", "ej": "Boh, non saprei che dirti.", "ejes": "Ni idea, no sabría qué decirte.", "cog": false },
+        { "t": "mica", "es": "para nada, acaso no (refuerza una negación)", "pron": "míka", "ej": "Non è mica difficile come sembra.", "ejes": "No es nada difícil como parece.", "cog": false },
+        { "t": "dai", "es": "vamos, anda", "pron": "dái", "ej": "Dai, non fare così, era solo una battuta.", "ejes": "Anda, no te pongas así, era solo una broma.", "cog": false },
+        { "t": "macché", "es": "qué va, de ninguna manera", "pron": "makké", "ej": "Macché, non è affatto vero!", "ejes": "¡Qué va, no es verdad en absoluto!", "cog": false },
+        { "t": "magari", "es": "ojalá; quizá", "pron": "magári", "ej": "Magari fosse così facile!", "ejes": "¡Ojalá fuera tan fácil!", "cog": false },
+        { "t": "che ne so", "es": "yo qué sé", "pron": "ke ne só", "ej": "Che ne so io di come è andata?", "ejes": "¿Yo qué sé de cómo fue?", "cog": false },
+        { "t": "sai com'è", "es": "ya sabes cómo es", "pron": "sái comé", "ej": "Sai com'è, il lunedì c'è sempre traffico.", "ejes": "Ya sabes cómo es, los lunes siempre hay tráfico.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Boh, non so se vengo, dipende un po' da come mi sento.", "es": "Ni idea, no sé si voy, depende un poco de cómo me sienta.", "pron": "bó non só se véngo dipénde un pó da cómo mi sénto" },
+        { "t": "Dai, vieni con noi, non è mica tardi!", "es": "Anda, ven con nosotros, ¡no es tan tarde!", "pron": "dái viéni con nói non e míka tárdi" },
+        { "t": "Macché disturbo, anzi mi fa piacere!", "es": "¡Qué va molestia, al contrario, me da gusto!", "pron": "makké distúrbo ántsi mi fa piachére" },
+        { "t": "Magari avessi più tempo per leggere.", "es": "Ojalá tuviera más tiempo para leer.", "pron": "magári avésse piú témpo per léddyere" },
+        { "t": "Sai com'è, con tutti questi impegni non riesco a riposarmi.", "es": "Ya sabes cómo es, con tantos compromisos no logro descansar.", "pron": "sái comé con túti cuésti impéñi non riésco a riposármi" }
+      ],
+      "dialogo": {
+        "titulo": "Un sabato sera",
+        "lineas": [
+          { "q": "A", "t": "Dai, vieni stasera alla festa di Giulia, ci saranno tutti.", "es": "Anda, ven esta noche a la fiesta de Giulia, estarán todos." },
+          { "q": "B", "t": "Boh, non so, sono un po' stanco e domani devo alzarmi presto.", "es": "Ni idea, no sé, estoy un poco cansado y mañana debo levantarme temprano." },
+          { "q": "A", "t": "Macché stanco, ti ho visto correre al parco ieri! Non è mica un gran sacrificio.", "es": "¡Qué cansado ni qué nada, te vi correr en el parque ayer! No es ningún gran sacrificio." },
+          { "q": "B", "t": "Magari fosse solo questione di stanchezza; sai com'è, il lavoro mi sta consumando.", "es": "Ojalá fuera solo cuestión de cansancio; ya sabes cómo es, el trabajo me está consumiendo." },
+          { "q": "A", "t": "Allora vieni almeno un'oretta; che ne so, magari ti diverti e ti rilassi.", "es": "Entonces ven al menos una horita; yo qué sé, quizá te diviertes y te relajas." }
+        ]
+      },
+      "nota": "«Mica» refuerza una negación o una pregunta retórica: «Non sono mica stupido» (no soy ningún tonto). Es muy habitual en el centro y norte de Italia."
+    },
+    {
+      "id": "it-c1-u12-l2",
+      "n": 2,
+      "titulo": "Acentos y variedades regionales",
+      "objetivo": "Reconocer rasgos de las principales variedades regionales para seguir conversaciones reales.",
+      "intro": "Italia tiene una enorme variedad de acentos. Truco: no hace falta entender el dialecto, pero sí reconocer las pistas principales de cada zona para no perderte.",
+      "palabras": [
+        { "t": "la cadenza", "es": "la cadencia, el deje", "pron": "la cadéntsa", "ej": "Si riconosce subito la cadenza napoletana.", "ejes": "Se reconoce enseguida la cadencia napolitana.", "cog": true },
+        { "t": "l'inflessione", "es": "la inflexión, el acento al hablar", "pron": "linflessióne", "ej": "L'inflessione romana è molto particolare.", "ejes": "La inflexión romana es muy particular.", "cog": true },
+        { "t": "il dialetto", "es": "el dialecto", "pron": "il dialétto", "ej": "In famiglia parlano il dialetto veneto.", "ejes": "En familia hablan el dialecto veneto.", "cog": true },
+        { "t": "la gorgia", "es": "la gorgia (aspiración toscana)", "pron": "la górdya", "ej": "La gorgia toscana trasforma la «c» in un suono aspirato.", "ejes": "La gorgia toscana transforma la «c» en un sonido aspirado.", "cog": false },
+        { "t": "il romanesco", "es": "el romanesco (habla de Roma)", "pron": "il romanésco", "ej": "Il romanesco usa «nun» al posto di «non».", "ejes": "El romanesco usa «nun» en lugar de «non».", "cog": false },
+        { "t": "parlare stretto", "es": "hablar cerrado, con mucho acento", "pron": "parláre strétto", "ej": "Mio nonno sa parlare stretto, ma lo capisco.", "ejes": "Mi abuelo habla muy cerrado, pero lo entiendo.", "cog": false },
+        { "t": "la parlata", "es": "el habla, el modo de hablar", "pron": "la parláta", "ej": "La parlata siciliana ha una musicalità tutta sua.", "ejes": "El habla siciliana tiene una musicalidad propia.", "cog": false },
+        { "t": "farsi capire", "es": "hacerse entender", "pron": "fársi capíre", "ej": "In dialetto è difficile farsi capire da tutti.", "ejes": "En dialecto es difícil hacerse entender por todos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Dalla cadenza si capisce subito che viene da Napoli.", "es": "Por la cadencia se entiende enseguida que viene de Nápoles.", "pron": "dálla cadéntsa si capísce súbito ke viéne da nápoli" },
+        { "t": "In Toscana la gorgia cambia il suono di certe consonanti.", "es": "En Toscana la gorgia cambia el sonido de ciertas consonantes.", "pron": "in toscána la górdya cámbia il súono di chérte consonánti" },
+        { "t": "A Roma si sente spesso «nun» invece di «non».", "es": "En Roma se oye a menudo «nun» en lugar de «non».", "pron": "a róma si sénte spésso nun invéche di non" },
+        { "t": "Anche tra italiani a volte è difficile farsi capire in dialetto.", "es": "Incluso entre italianos a veces es difícil hacerse entender en dialecto.", "pron": "ánke tra italiáni a vólte e difficile fársi capíre in dialétto" },
+        { "t": "Parlando stretto, i vecchi del paese sembrano parlare un'altra lingua.", "es": "Hablando cerrado, los ancianos del pueblo parecen hablar otra lengua.", "pron": "parlándo strétto i vécki del paése sémbrano parláre unáltra léngua" }
+      ],
+      "dialogo": {
+        "titulo": "Un viaggio in Italia",
+        "lineas": [
+          { "q": "A", "t": "Quando sono arrivata a Napoli non capivo nulla: la cadenza era così diversa dal romanesco!", "es": "Cuando llegué a Nápoles no entendía nada: ¡la cadencia era tan distinta del romanesco!" },
+          { "q": "B", "t": "Lo so, e il dialetto aiuta poco, anche se molti napoletani passano all'italiano se capiscono che sei straniera.", "es": "Lo sé, y el dialecto ayuda poco, aunque muchos napolitanos pasan al italiano si notan que eres extranjera." },
+          { "q": "A", "t": "In Toscana invece mi colpiva la gorgia: dicevano «la hasa» invece di «la casa».", "es": "En Toscana, en cambio, me llamaba la atención la gorgia: decían «la hasa» en lugar de «la casa»." },
+          { "q": "B", "t": "Sì, è un tratto tipico della parlata fiorentina; il romanesco, invece, accorcia molte parole.", "es": "Sí, es un rasgo típico del habla florentina; el romanesco, en cambio, acorta muchas palabras." },
+          { "q": "A", "t": "Alla fine ho imparato che basta parlare piano e chiedere: la gente fa di tutto per farsi capire.", "es": "Al final aprendí que basta hablar despacio y preguntar: la gente hace todo lo posible para hacerse entender." }
+        ]
+      },
+      "nota": "El italiano estándar se basa en el florentino, pero hoy casi todos los italianos lo hablan con rasgos de su región. Es normal: no es «incorrecto», es parte de la identidad."
+    },
+    {
+      "id": "it-c1-u12-l3",
+      "n": 3,
+      "titulo": "Expresiones coloquiales",
+      "objetivo": "Entender y reaccionar a expresiones informales muy frecuentes en conversaciones reales.",
+      "intro": "Las expresiones coloquiales dan color y rapidez a la conversación. Truco: aprende primero las reacciones («figurati», «ci mancherebbe») y luego las descripciones («un casino», «in gamba»).",
+      "palabras": [
+        { "t": "figurati", "es": "no hay de qué; ¡imagínate!", "pron": "figúrati", "ej": "Figurati, non c'è nessun problema!", "ejes": "No hay de qué, ¡no hay ningún problema!", "cog": false },
+        { "t": "ci mancherebbe", "es": "faltaría más", "pron": "chi mankerébbe", "ej": "Ci mancherebbe, è il minimo che potessi fare.", "ejes": "Faltaría más, es lo mínimo que podía hacer.", "cog": false },
+        { "t": "un casino", "es": "un lío, muchísimo (coloquial)", "pron": "un kasíno", "ej": "C'è un casino di gente in centro oggi.", "ejes": "Hay un montón de gente en el centro hoy.", "cog": false },
+        { "t": "in gamba", "es": "capaz, en forma", "pron": "in gámba", "ej": "Tua sorella è davvero in gamba.", "ejes": "Tu hermana es realmente muy capaz.", "cog": false },
+        { "t": "pazzesco", "es": "increíble, una locura", "pron": "paddsésco", "ej": "È pazzesco quanto sia cresciuta questa città.", "ejes": "Es increíble cuánto ha crecido esta ciudad.", "cog": false },
+        { "t": "che fregatura", "es": "qué estafa, qué fastidio", "pron": "ke fregatúra", "ej": "Che fregatura, il treno è stato cancellato!", "ejes": "¡Qué fastidio, cancelaron el tren!", "cog": false },
+        { "t": "sbattersi", "es": "esforzarse mucho, darse la paliza", "pron": "sbáttersi", "ej": "Non sbattersi troppo, tanto nessuno lo nota.", "ejes": "No te esfuerces tanto, de todas formas nadie lo nota.", "cog": false },
+        { "t": "lasciar perdere", "es": "dejar de lado, olvidarlo", "pron": "lashár pérdere", "ej": "Meglio lasciar perdere: non ne vale la pena.", "ejes": "Mejor dejarlo: no vale la pena.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Figurati, per me è un piacere aiutarti.", "es": "No hay de qué, para mí es un placer ayudarte.", "pron": "figúrati per me e un piachére aiutárti" },
+        { "t": "Ci mancherebbe, venite pure quando volete.", "es": "Faltaría más, vengan cuando quieran.", "pron": "chi mankerébbe venite púre cuándo volete" },
+        { "t": "In centro c'era un casino di macchine ferme.", "es": "En el centro había un montón de coches parados.", "pron": "in chéntro chéra un kasíno di mákine férme" },
+        { "t": "Quel ragazzo è davvero in gamba: ha risolto tutto da solo.", "es": "Ese chico es realmente capaz: lo resolvió todo solo.", "pron": "cuél ragátso e dávvero in gámba a risólto túto da sólo" },
+        { "t": "È pazzesco quello che è successo ieri!", "es": "¡Es increíble lo que pasó ayer!", "pron": "e paddsésco cuéllo ke e succésso iéri" }
+      ],
+      "dialogo": {
+        "titulo": "Una sera tra amici",
+        "lineas": [
+          { "q": "A", "t": "Grazie mille per avermi aiutato con il trasloco, sei stato davvero gentile.", "es": "Mil gracias por ayudarme con la mudanza, fuiste muy amable." },
+          { "q": "B", "t": "Figurati, ci mancherebbe! Anche se c'era un casino di scatole da portare.", "es": "No hay de qué, ¡faltaría más! Aunque había un montón de cajas que cargar." },
+          { "q": "A", "t": "Pazzesco: non pensavo di avere così tante cose. Che fregatura, ho anche perso la chiave del garage!", "es": "Increíble: no pensaba tener tantas cosas. ¡Qué fastidio, también perdí la llave del garaje!" },
+          { "q": "B", "t": "Lascia perdere, la troverai; e poi sei in gamba, ti sei sbattuto per tutta la giornata.", "es": "Déjalo, la encontrarás; y además eres muy capaz, te esforzaste todo el día." },
+          { "q": "A", "t": "Hai ragione; ora ti offro la pizza, e non accetto un no come risposta.", "es": "Tienes razón; ahora te invito la pizza, y no acepto un no como respuesta." }
+        ]
+      },
+      "nota": "Estas expresiones son informales: con un cliente o con un superior usa «non c'è di che», «si figuri» y «è stato un piacere»."
+    },
+    {
+      "id": "it-c1-u12-l4",
+      "n": 4,
+      "titulo": "Pedir aclaraciones y seguir el ritmo",
+      "objetivo": "Pedir que repitan, aclaren o hablen más despacio sin interrumpir el flujo de la conversación.",
+      "intro": "Entender todo es imposible, pero saber pedir ayuda es una competencia clave. Truco: usa fórmulas naturales como «scusa, non ti seguo» o «nel senso che?» en lugar de callarte.",
+      "palabras": [
+        { "t": "non ti seguo", "es": "no te sigo", "pron": "non ti séguo", "ej": "Scusa, non ti seguo: puoi spiegarlo meglio?", "ejes": "Perdona, no te sigo: ¿puedes explicarlo mejor?", "cog": false },
+        { "t": "intendi dire", "es": "quieres decir", "pron": "inténdi díre", "ej": "Cosa intendi dire con questa frase?", "ejes": "¿Qué quieres decir con esta frase?", "cog": false },
+        { "t": "nel senso che", "es": "en el sentido de que", "pron": "nel sénso ke", "ej": "Nel senso che non vuoi più partecipare?", "ejes": "¿En el sentido de que ya no quieres participar?", "cog": false },
+        { "t": "mi sono perso", "es": "me perdí (en la explicación)", "pron": "mi sóno pérso", "ej": "Scusami, a questo punto mi sono perso.", "ejes": "Perdóname, a esta altura me perdí.", "cog": false },
+        { "t": "parli troppo in fretta", "es": "hablas demasiado rápido", "pron": "párli tróppo in frétta", "ej": "Scusa, parli troppo in fretta per me.", "ejes": "Perdona, hablas demasiado rápido para mí.", "cog": false },
+        { "t": "puoi ripetere", "es": "¿puedes repetir?", "pron": "puói ripétere", "ej": "Puoi ripetere l'ultima parte, per favore?", "ejes": "¿Puedes repetir la última parte, por favor?", "cog": false },
+        { "t": "se ho capito bene", "es": "si entendí bien", "pron": "se ó capíto béne", "ej": "Se ho capito bene, la riunione è spostata.", "ejes": "Si entendí bien, la reunión se pospuso.", "cog": false },
+        { "t": "cioè", "es": "o sea, es decir", "pron": "chioé", "ej": "Cioè, vuoi dire che non è ancora pronto?", "ejes": "O sea, ¿quieres decir que todavía no está listo?", "cog": false }
+      ],
+      "frases": [
+        { "t": "Scusa, non ti seguo: puoi ripetere più lentamente?", "es": "Perdona, no te sigo: ¿puedes repetir más despacio?", "pron": "scúsa non ti séguo puói ripétere piú lentaménte" },
+        { "t": "Se ho capito bene, la consegna slitta a lunedì.", "es": "Si entendí bien, la entrega se pospone al lunes.", "pron": "se ó capíto béne la consénia slítta a lunedí" },
+        { "t": "Scusi, parla troppo in fretta per me: può ripetere?", "es": "Disculpe, habla demasiado rápido para mí: ¿puede repetir?", "pron": "scúsi párla tróppo in frétta per me pué ripétere" },
+        { "t": "Nel senso che non siete d'accordo con la proposta?", "es": "¿En el sentido de que no están de acuerdo con la propuesta?", "pron": "nel sénso ke non siéte daccórdo con la propósta" },
+        { "t": "A questo punto mi sono perso: da dove siamo partiti?", "es": "A esta altura me perdí: ¿de dónde partimos?", "pron": "a cuésto púnto mi sóno pérso da dóve siámo partíti" }
+      ],
+      "dialogo": {
+        "titulo": "Al telefono con un collega",
+        "lineas": [
+          { "q": "A", "t": "Allora, ti dicevo che il preventivo è slittato perché il fornitore ha cambiato condizioni.", "es": "Entonces, te decía que el presupuesto se retrasó porque el proveedor cambió las condiciones." },
+          { "q": "B", "t": "Scusa, parli troppo in fretta, non ti seguo: puoi ripetere dall'inizio?", "es": "Perdona, hablas demasiado rápido, no te sigo: ¿puedes repetir desde el principio?" },
+          { "q": "A", "t": "Certo: il fornitore vuole un acconto più alto, nel senso che chiede il quaranta per cento subito.", "es": "Claro: el proveedor quiere un anticipo más alto, es decir, pide el cuarenta por ciento de inmediato." },
+          { "q": "B", "t": "Cioè, se ho capito bene, dobbiamo anticipare più di quanto avevamo previsto?", "es": "O sea, si entendí bien, ¿debemos adelantar más de lo que habíamos previsto?" },
+          { "q": "A", "t": "Esatto. Ora è tutto più chiaro, vero? Altrimenti ti mando una mail con il riepilogo.", "es": "Exacto. Ahora todo está más claro, ¿verdad? Si no, te mando un correo con el resumen." }
+        ]
+      },
+      "nota": "Pedir que repitan no es señal de debilidad: los italianos aprecian que el interlocutor se asegure de entender bien y suelen reformular con más calma."
+    },
+    {
+      "id": "it-c1-u12-l5",
+      "n": 5,
+      "titulo": "Repaso: una conversación de verdad",
+      "objetivo": "Seguir una conversación informal combinando muletillas, expresiones y aclaraciones.",
+      "intro": "Repasa con los marcadores que los italianos usan todo el tiempo para pensar mientras hablan. Truco: «insomma», «praticamente» y «diciamo» dan tiempo y ordenan el discurso.",
+      "palabras": [
+        { "t": "insomma", "es": "en fin, total", "pron": "insómma", "ej": "Insomma, non è andata proprio come speravo.", "ejes": "En fin, no salió como esperaba.", "cog": false },
+        { "t": "praticamente", "es": "prácticamente", "pron": "praticaménte", "ej": "Praticamente non ha dormito per tre giorni.", "ejes": "Prácticamente no durmió en tres días.", "cog": true },
+        { "t": "diciamo", "es": "digamos", "pron": "dichámo", "ej": "Diciamo che non è stata una bella serata.", "ejes": "Digamos que no fue una buena velada.", "cog": false },
+        { "t": "tipo", "es": "como, algo así (coloquial)", "pron": "típo", "ej": "È tipo un ristorante, ma più piccolo.", "ejes": "Es como un restaurante, pero más pequeño.", "cog": false },
+        { "t": "ecco", "es": "ahí está; justo eso", "pron": "ékko", "ej": "Ecco, hai detto proprio quello che pensavo.", "ejes": "Eso es, dijiste justo lo que pensaba.", "cog": false },
+        { "t": "appunto", "es": "precisamente", "pron": "appúnto", "ej": "Appunto, era quello che volevo dire.", "ejes": "Precisamente, eso era lo que quería decir.", "cog": false },
+        { "t": "comunque", "es": "de todos modos", "pron": "comúnkue", "ej": "Comunque, ci vediamo domani.", "ejes": "De todos modos, nos vemos mañana.", "cog": false },
+        { "t": "allora", "es": "entonces, bueno", "pron": "allóra", "ej": "Allora, che cosa facciamo adesso?", "ejes": "Entonces, ¿qué hacemos ahora?", "cog": false }
+      ],
+      "frases": [
+        { "t": "Insomma, alla fine ci siamo divertiti lo stesso.", "es": "En fin, al final nos divertimos igual.", "pron": "insómma alla fine chi siámo divertíti lo stésso" },
+        { "t": "Praticamente è un monolocale con un piccolo balcone.", "es": "Es prácticamente un monoambiente con un pequeño balcón.", "pron": "praticaménte e un monolocále con un píkkolo balcóne" },
+        { "t": "Diciamo che il progetto non è andato come previsto.", "es": "Digamos que el proyecto no fue como se esperaba.", "pron": "dichámo ke il progétto non e andáto cóme prevísto" },
+        { "t": "Comunque, mi fa piacere averti incontrato.", "es": "De todos modos, me da gusto haberte encontrado.", "pron": "comúnkue mi fa piachére avérti incontráto" },
+        { "t": "Appunto, è proprio il punto su cui non siamo d'accordo.", "es": "Precisamente, es justo el punto en el que no estamos de acuerdo.", "pron": "appúnto e própio il púnto su cui non siámo daccórdo" }
+      ],
+      "dialogo": {
+        "titulo": "Un caffè dopo il lavoro",
+        "lineas": [
+          { "q": "A", "t": "Allora, com'è andata la presentazione? Dai, raccontami tutto.", "es": "Bueno, ¿cómo fue la presentación? Anda, cuéntamelo todo." },
+          { "q": "B", "t": "Insomma, diciamo che non è stata proprio un successo; praticamente il cliente non ha detto una parola.", "es": "En fin, digamos que no fue exactamente un éxito; prácticamente el cliente no dijo una palabra." },
+          { "q": "A", "t": "Macché, non è mica detto che sia un male: magari ci sta ancora pensando, sai com'è.", "es": "Qué va, no necesariamente es malo: quizá lo está pensando todavía, ya sabes cómo es." },
+          { "q": "B", "t": "Appunto, è quello che spero; comunque tra una settimana lo sapremo con certezza.", "es": "Precisamente, es lo que espero; de todos modos en una semana lo sabremos con certeza." },
+          { "q": "A", "t": "Ecco, vedrai che andrà bene, sei in gamba e hai preparato tutto con cura.", "es": "Eso es, verás que irá bien, eres muy capaz y lo preparaste todo con esmero." }
+        ]
+      },
+      "nota": "Estos marcadores no tienen traducción exacta: sirven para ordenar el pensamiento. Escucha cuándo los usan y copia su ritmo."
+    }
+  ]
+}

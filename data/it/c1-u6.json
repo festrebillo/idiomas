@@ -1,0 +1,218 @@
+{
+  "id": "it-c1-u6",
+  "idioma": "it",
+  "nivel": "C1",
+  "n": 6,
+  "titulo": "Escritura académica",
+  "resumen": "Aprenderás a estructurar un ensayo, a matizar afirmaciones con hedging, a citar fuentes y a escribir con nominalizzazione, el rasgo central del estilo académico italiano.",
+  "puedo": [
+    "Organizar un ensayo con introduzione, tesi, svolgimento y conclusione.",
+    "Matizar una afirmación con sembrerebbe, tende a o è plausibile che.",
+    "Convertir verbos en sustantivos para dar un tono académico (aumentare, l'aumento).",
+    "Citar fuentes y referirme a otros autores con stando a, a detta di o in base a.",
+    "Conectar ideas con fórmulas académicas como a tal proposito o in ultima analisi."
+  ],
+  "gramatica": {
+    "titulo": "La nominalizzazione: del verbo al sustantivo",
+    "texto": "El italiano académico prefiere sustantivos a verbos. La nominalizzazione transforma una acción en un nombre: «i prezzi aumentano» pasa a «l'aumento dei prezzi».\nCómo hacerlo: toma el verbo y busca su sustantivo (aumentare, l'aumento; valutare, la valutazione; ridurre, la riduzione). El sujeto o el objeto original pasa a un complemento con di: «Il governo ha adottato nuove norme» pasa a «L'adozione di nuove norme da parte del governo».\nVentajas: el texto es más compacto y suena objetivo. Truco: si tu frase tiene muchos verbos con «che», prueba a condensarla con un sustantivo.\nAtención: no abuses; un texto lleno de sustantivos abstractos cansa. Usa la nominalizzazione en la tesi y en las conclusiones, no en cada frase.",
+    "tabla": [
+      ["aumentare / l'aumento", "aumentar, el aumento", "aumentáre laumento"],
+      ["valutare / la valutazione", "evaluar, la evaluación", "valutáre la valutatsióne"],
+      ["ridurre / la riduzione", "reducir, la reducción", "ridúrre la riduzióne"],
+      ["adottare / l'adozione", "adoptar, la adopción", "adottáre ladotsióne"],
+      ["diffondere / la diffusione", "difundir, la difusión", "diffóndere la diffusióne"]
+    ],
+    "errores": [
+      "Calcar el sustantivo español sin comprobar su forma: «el desarrollo» es «lo sviluppo» (no «lo desarrollo») y «la reducción» es «la riduzione».",
+      "Olvidar la preposición «di» después del sustantivo: «l'aumento dei prezzi» (no «l'aumento i prezzi»).",
+      "Mezclar el sustantivo y el verbo: «L'aumento aumentare dei prezzi» no tiene sentido; se elige una de las dos formas."
+    ]
+  },
+  "practica": [
+    "Lee la introducción de un ensayo o artículo académico italiano (por ejemplo, de una revista universitaria) y subraya cada nominalizzazione (12 minutos).",
+    "Reescribe diez frases con verbos (se aumentano i prezzi...) en frases con sustantivos (l'aumento dei prezzi...) (10 minutos).",
+    "Escribe un párrafo de diez líneas con una tesi, tres argomenti y una conclusione, usando al menos tres expresiones de hedging (15 minutos).",
+    "Escucha una conferencia o clase universitaria en italiano y anota las fórmulas de transición que oigas (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-c1-u6-l1",
+      "n": 1,
+      "titulo": "Estructura de un ensayo",
+      "objetivo": "Reconocer y escribir las partes de un ensayo breve en italiano.",
+      "intro": "Un ensayo claro tiene cuatro piezas: introduzione, tesi, svolgimento y conclusione. Truco: anuncia al lector qué vas a hacer y luego hazlo.",
+      "palabras": [
+        { "t": "introduzione", "es": "introducción", "pron": "introdutsióne", "ej": "Nell'introduzione si presenta il tema del saggio.", "ejes": "En la introducción se presenta el tema del ensayo.", "cog": true },
+        { "t": "tesi", "es": "tesis", "pron": "tési", "ej": "La tesi centrale è esposta nelle prime righe.", "ejes": "La tesis central se expone en las primeras líneas.", "cog": true },
+        { "t": "svolgimento", "es": "desarrollo", "pron": "svolchiménto", "ej": "Lo svolgimento segue un ordine logico.", "ejes": "El desarrollo sigue un orden lógico.", "cog": false },
+        { "t": "premessa", "es": "premisa, introducción previa", "pron": "preméssa", "ej": "Nella premessa si chiariscono gli obiettivi.", "ejes": "En la premisa se aclaran los objetivos.", "cog": true },
+        { "t": "capoverso", "es": "párrafo", "pron": "capovérso", "ej": "Ogni capoverso sviluppa una sola idea.", "ejes": "Cada párrafo desarrolla una sola idea.", "cog": false },
+        { "t": "argomentazione", "es": "argumentación", "pron": "argomentatsióne", "ej": "L'argomentazione deve essere coerente.", "ejes": "La argumentación debe ser coherente.", "cog": true },
+        { "t": "ci si propone di", "es": "se pretende, nos proponemos", "pron": "chi si propóne di", "ej": "In questo lavoro ci si propone di analizzare tre casi.", "ejes": "En este trabajo se pretende analizar tres casos.", "cog": false },
+        { "t": "il presente saggio", "es": "el presente ensayo", "pron": "il presénte sádyo", "ej": "Il presente saggio analizza l'impatto dell'automazione.", "ejes": "El presente ensayo analiza el impacto de la automatización.", "cog": false },
+        { "t": "a conclusione di", "es": "al concluir, como cierre de", "pron": "a conclusióne di", "ej": "A conclusione di questo lavoro, riassumiamo i risultati.", "ejes": "Al concluir este trabajo, resumimos los resultados.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il presente saggio si propone di analizzare l'impatto del telelavoro.", "es": "El presente ensayo se propone analizar el impacto del teletrabajo.", "pron": "il presénte sádyo si propóne di analitsáre limpátto del telelavóro" },
+        { "t": "Nell'introduzione si presenta il quadro generale della ricerca.", "es": "En la introducción se presenta el marco general de la investigación.", "pron": "nelintroduntsióne si presénta il cuádro generále délla richérca" },
+        { "t": "La tesi centrale è che l'innovazione richiede fiducia.", "es": "La tesis central es que la innovación requiere confianza.", "pron": "la tési chentrále e ke linnovatsióne richiéde fidúcia" },
+        { "t": "Ogni capoverso deve sviluppare un solo argomento.", "es": "Cada párrafo debe desarrollar un solo argumento.", "pron": "óñi capovérso dévi sviluppáre un sólo argoménto" },
+        { "t": "A conclusione di questo lavoro, si riassumono i risultati principali.", "es": "Al concluir este trabajo, se resumen los resultados principales.", "pron": "a conclusióne di cuésto lavóro si riassúmono i risultáti principáli" }
+      ],
+      "dialogo": {
+        "titulo": "Dal relatore",
+        "lineas": [
+          { "q": "A", "t": "Professore, ho riletto l'introduzione: la tesi è chiara, ma mi sembra che la premessa sia troppo lunga rispetto allo svolgimento.", "es": "Profesor, releí la introducción: la tesis es clara, pero me parece que la premisa es demasiado larga respecto al desarrollo." },
+          { "q": "B", "t": "Concordo. Nel presente saggio ci si propone di analizzare un fenomeno complesso: la premessa deve dirlo in poche righe, senza giri di parole.", "es": "Estoy de acuerdo. En el presente ensayo se pretende analizar un fenómeno complejo: la premisa debe decirlo en pocas líneas, sin rodeos." },
+          { "q": "A", "t": "Allora la riduco a un capoverso solo. Per l'argomentazione, pensavo di articolare tre punti, uno per ogni parte dello svolgimento.", "es": "Entonces la reduzco a un solo párrafo. Para la argumentación pensaba articular tres puntos, uno por cada parte del desarrollo." },
+          { "q": "B", "t": "Ottima idea. Cerchi però di non lasciare idee sospese: ogni capoverso deve chiudersi con un'osservazione che prepari il successivo.", "es": "Excelente idea. Procure, sin embargo, no dejar ideas sueltas: cada párrafo debe cerrarse con una observación que prepare el siguiente." },
+          { "q": "A", "t": "Capito. A conclusione di tutto, riprenderò la tesi iniziale e la collegherò ai risultati, così il lettore chiude il cerchio.", "es": "Entendido. Al concluir todo, retomaré la tesis inicial y la vincularé con los resultados, así el lector cierra el círculo." }
+        ]
+      },
+      "nota": "En las universidades italianas, al docente que dirige tu trabajo se le llama «relatore»; al segundo lector, «correlatore». Hablarles de «Lei» (usted) es lo habitual."
+    },
+    {
+      "id": "it-c1-u6-l2",
+      "n": 2,
+      "titulo": "Hedging: matizar afirmaciones",
+      "objetivo": "Atenuar una afirmación para sonar prudente y riguroso.",
+      "intro": "En un texto académico casi nada se afirma al cien por cien. Truco: sustituye «è» por «sembrerebbe che sia» o «tende a» y tu texto gana credibilidad.",
+      "palabras": [
+        { "t": "sembrerebbe", "es": "parecería", "pron": "sembrerébbe", "ej": "Sembrerebbe che il fenomeno sia in calo.", "ejes": "Parecería que el fenómeno está en descenso.", "cog": false },
+        { "t": "è plausibile che", "es": "es plausible que", "pron": "e plausíbile ke", "ej": "È plausibile che i dati siano incompleti.", "ejes": "Es plausible que los datos estén incompletos.", "cog": true },
+        { "t": "tende a", "es": "tiende a", "pron": "ténde a", "ej": "Il mercato tende a stabilizzarsi.", "ejes": "El mercado tiende a estabilizarse.", "cog": true },
+        { "t": "in una certa misura", "es": "en cierta medida", "pron": "in úna chérta mizúra", "ej": "In una certa misura, la critica è fondata.", "ejes": "En cierta medida, la crítica está fundada.", "cog": false },
+        { "t": "per lo più", "es": "en su mayoría, principalmente", "pron": "per lo piú", "ej": "Gli studenti sono per lo più favorevoli.", "ejes": "Los estudiantes están en su mayoría a favor.", "cog": false },
+        { "t": "verosimilmente", "es": "verosímilmente", "pron": "verosimilménte", "ej": "Verosimilmente, la tendenza continuerà.", "ejes": "Verosímilmente, la tendencia continuará.", "cog": true },
+        { "t": "non è da escludere che", "es": "no se puede descartar que", "pron": "non e da escludére ke", "ej": "Non è da escludere che emergano nuovi fattori.", "ejes": "No se puede descartar que surjan nuevos factores.", "cog": false },
+        { "t": "a quanto pare", "es": "al parecer", "pron": "a cuánto páre", "ej": "A quanto pare, il progetto è stato rinviato.", "ejes": "Al parecer, el proyecto fue pospuesto.", "cog": false },
+        { "t": "con ogni probabilità", "es": "con toda probabilidad", "pron": "con óñi probabilitá", "ej": "Con ogni probabilità, i risultati saranno confermati.", "ejes": "Con toda probabilidad, los resultados serán confirmados.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Sembrerebbe che il fenomeno sia più diffuso del previsto.", "es": "Parecería que el fenómeno está más extendido de lo previsto.", "pron": "sembrerébbe ke il fenómeno sía piú diffúso del previsto" },
+        { "t": "È plausibile che la crescita rallenti nei prossimi mesi.", "es": "Es plausible que el crecimiento se desacelere en los próximos meses.", "pron": "e plausíbile ke la créscita ralléntti nei próssimi mési" },
+        { "t": "In una certa misura, questa tesi è condivisibile.", "es": "En cierta medida, esta tesis es compartible.", "pron": "in úna chérta mizúra cuésta tési e condivisíbile" },
+        { "t": "I consumatori tendono a preferire i prodotti locali.", "es": "Los consumidores tienden a preferir los productos locales.", "pron": "i consumatóri téndono a preferíre i prodótti locáli" },
+        { "t": "Non è da escludere che emergano nuove interpretazioni.", "es": "No se puede descartar que surjan nuevas interpretaciones.", "pron": "non e da escludére ke emérdyano nuóve interpretatsióni" }
+      ],
+      "dialogo": {
+        "titulo": "Correggere una bozza",
+        "lineas": [
+          { "q": "A", "t": "Nella bozza scrivo che il telelavoro aumenta la produttività. Le sembra una formula troppo categorica, professoressa?", "es": "En el borrador escribo que el teletrabajo aumenta la productividad. ¿Le parece una fórmula demasiado categórica, profesora?" },
+          { "q": "B", "t": "Sì, un po'. Gli studi sono per lo più positivi, ma non unanimi: è meglio scrivere che il telelavoro tende ad aumentare la produttività.", "es": "Sí, un poco. Los estudios son en su mayoría positivos, pero no unánimes: es mejor escribir que el teletrabajo tiende a aumentar la productividad." },
+          { "q": "A", "t": "Capisco. E per i dati del secondo capitolo? A quanto pare sono incompleti, ma verosimilmente mostrano la stessa tendenza.", "es": "Entiendo. ¿Y para los datos del segundo capítulo? Al parecer están incompletos, pero verosímilmente muestran la misma tendencia." },
+          { "q": "B", "t": "Allora scriva: sembrerebbe che i dati confermino l'ipotesi, anche se non è da escludere che nuove analisi portino a conclusioni diverse.", "es": "Entonces escriba: parecería que los datos confirman la hipótesis, aunque no se puede descartar que nuevos análisis lleven a conclusiones distintas." },
+          { "q": "A", "t": "Perfetto. In una certa misura la mia tesi resta valida, e con ogni probabilità i prossimi studi la rafforzeranno.", "es": "Perfecto. En cierta medida mi tesis sigue siendo válida, y con toda probabilidad los próximos estudios la reforzarán." }
+        ]
+      },
+      "nota": "Después de «sembrerebbe che», «è plausibile che» y «non è da escludere che» va congiuntivo. Con «tende a» y «per lo più» no: son verbos y adverbios normales."
+    },
+    {
+      "id": "it-c1-u6-l3",
+      "n": 3,
+      "titulo": "Nominalizzazione en la práctica",
+      "objetivo": "Transformar verbos en sustantivos para escribir con tono académico.",
+      "intro": "Los sustantivos abstractos dan formalidad al texto. Truco: busca el sufijo: -zione, -mento, -ità; casi siempre es la forma nominal de un verbo.",
+      "palabras": [
+        { "t": "l'adozione", "es": "la adopción", "pron": "ladotsióne", "ej": "L'adozione di nuove misure è necessaria.", "ejes": "La adopción de nuevas medidas es necesaria.", "cog": true },
+        { "t": "la diffusione", "es": "la difusión", "pron": "la diffusióne", "ej": "La diffusione del fenomeno è preoccupante.", "ejes": "La difusión del fenómeno es preocupante.", "cog": true },
+        { "t": "la riduzione", "es": "la reducción", "pron": "la riduzióne", "ej": "La riduzione dei costi è stata significativa.", "ejes": "La reducción de los costos fue significativa.", "cog": true },
+        { "t": "l'incremento", "es": "el incremento", "pron": "linchreménto", "ej": "L'incremento della domanda è evidente.", "ejes": "El incremento de la demanda es evidente.", "cog": true },
+        { "t": "la valutazione", "es": "la evaluación", "pron": "la valutatsióne", "ej": "La valutazione dei rischi richiede tempo.", "ejes": "La evaluación de los riesgos requiere tiempo.", "cog": true },
+        { "t": "l'attuazione", "es": "la puesta en práctica", "pron": "lattuatsióne", "ej": "L'attuazione del piano è prevista per marzo.", "ejes": "La puesta en práctica del plan está prevista para marzo.", "cog": false },
+        { "t": "il conseguimento", "es": "la obtención, el logro", "pron": "il consegviménto", "ej": "Il conseguimento della laurea richiede cinque anni.", "ejes": "La obtención del título requiere cinco años.", "cog": false },
+        { "t": "la verifica", "es": "la verificación, la comprobación", "pron": "la verífica", "ej": "La verifica dei dati è ancora in corso.", "ejes": "La verificación de los datos aún está en curso.", "cog": true },
+        { "t": "il ricorso a", "es": "el recurso a", "pron": "il ricórso a", "ej": "Il ricorso a fonti esterne è frequente.", "ejes": "El recurso a fuentes externas es frecuente.", "cog": true }
+      ],
+      "frases": [
+        { "t": "L'adozione di nuove norme ha ridotto gli incidenti.", "es": "La adopción de nuevas normas redujo los accidentes.", "pron": "ladotsióne di nuóve nórme a ridótto lyi inchidénti" },
+        { "t": "La diffusione dei social ha cambiato il modo di informarsi.", "es": "La difusión de las redes sociales cambió la forma de informarse.", "pron": "la diffusióne dei sóshal a cambiáto il módo di informársi" },
+        { "t": "Si è registrato un incremento della domanda del venti per cento.", "es": "Se ha registrado un incremento de la demanda del veinte por ciento.", "pron": "si e redyistráto un inchreménto délla dománda del vénti per chénto" },
+        { "t": "L'attuazione del progetto richiede una verifica costante.", "es": "La puesta en práctica del proyecto requiere una verificación constante.", "pron": "lattuatsióne del progétto richiéde úna verífica costánte" },
+        { "t": "Il conseguimento di questi obiettivi dipende dalla collaborazione.", "es": "El logro de estos objetivos depende de la colaboración.", "pron": "il consegviménto di cuésti obietívi dipénde dálla colaboratsióne" }
+      ],
+      "dialogo": {
+        "titulo": "Riscrivere in stile accademico",
+        "lineas": [
+          { "q": "A", "t": "Ho scritto: se si adottano nuove norme, gli incidenti diminuiscono. Come lo trasformo in uno stile più accademico?", "es": "Escribí: si se adoptan nuevas normas, los accidentes disminuyen. ¿Cómo lo transformo a un estilo más académico?" },
+          { "q": "B", "t": "Con una nominalizzazione: l'adozione di nuove norme ha determinato una riduzione degli incidenti. Più compatto e più oggettivo.", "es": "Con una nominalización: la adopción de nuevas normas ha determinado una reducción de los accidentes. Más compacto y más objetivo." },
+          { "q": "A", "t": "Capito. E per: i dati vengono verificati con attenzione? La verifica dei dati è ancora in corso, giusto?", "es": "Entendido. ¿Y para: los datos se verifican con atención? La verificación de los datos aún está en curso, ¿correcto?" },
+          { "q": "B", "t": "Esatto. Attenzione però a non esagerare: una frase con tre sostantivi astratti di fila diventa pesante. Alterna con verbi chiari.", "es": "Exacto. Pero cuidado en no exagerar: una frase con tres sustantivos abstractos seguidos se vuelve pesada. Alterna con verbos claros." },
+          { "q": "A", "t": "D'accordo. Per il capitolo finale scriverò che l'attuazione del piano e la valutazione dei risultati richiedono un incremento delle risorse.", "es": "De acuerdo. Para el capítulo final escribiré que la puesta en práctica del plan y la evaluación de los resultados requieren un incremento de recursos." }
+        ]
+      },
+      "nota": "Muchas nominalizzazioni tienen el sufijo -zione (de verbos en -are) o -mento (de verbos en -are y -ere). Algunas son irregulares: «ridurre» da «riduzione», «scegliere» da «scelta», «difendere» da «difesa»."
+    },
+    {
+      "id": "it-c1-u6-l4",
+      "n": 4,
+      "titulo": "Citar fuentes y referirse a otros autores",
+      "objetivo": "Citar con corrección y atribuir ideas a otros autores en un texto académico.",
+      "intro": "Citar bien es parte de escribir bien: se atribuye la idea, se marca la fuente y se evita el plagio. Truco: «secondo» es neutro; «a detta di» pone cierta distancia.",
+      "palabras": [
+        { "t": "citare", "es": "citar", "pron": "chitáre", "ej": "Bisogna citare sempre la fonte originale.", "ejes": "Hay que citar siempre la fuente original.", "cog": true },
+        { "t": "la fonte", "es": "la fuente", "pron": "la fónte", "ej": "La fonte è un rapporto ufficiale del 2022.", "ejes": "La fuente es un informe oficial de 2022.", "cog": true },
+        { "t": "la bibliografia", "es": "la bibliografía", "pron": "la bibliografía", "ej": "La bibliografia è in fondo al volume.", "ejes": "La bibliografía está al final del volumen.", "cog": true },
+        { "t": "la citazione", "es": "la cita", "pron": "la chitatsióne", "ej": "La citazione è riportata tra virgolette.", "ejes": "La cita se presenta entre comillas.", "cog": false },
+        { "t": "come sostiene", "es": "como sostiene", "pron": "cóme sosténe", "ej": "Come sostiene l'autore, il metodo è efficace.", "ejes": "Como sostiene el autor, el método es eficaz.", "cog": false },
+        { "t": "stando a", "es": "según, de acuerdo con", "pron": "stándo a", "ej": "Stando a questi dati, il calo è reale.", "ejes": "Según estos datos, el descenso es real.", "cog": false },
+        { "t": "a detta di", "es": "según dicen, a decir de", "pron": "a détta di", "ej": "A detta di molti esperti, la riforma è utile.", "ejes": "A decir de muchos expertos, la reforma es útil.", "cog": false },
+        { "t": "in base a", "es": "con base en", "pron": "in báse a", "ej": "In base a questa ricerca, la tendenza è chiara.", "ejes": "Con base en esta investigación, la tendencia es clara.", "cog": false },
+        { "t": "riferirsi a", "es": "referirse a", "pron": "riferírsi a", "ej": "L'autore sembra riferirsi a un caso specifico.", "ejes": "El autor parece referirse a un caso específico.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Stando a questi dati, il tasso di occupazione è cresciuto.", "es": "Según estos datos, la tasa de empleo ha crecido.", "pron": "stándo a cuésti dáti il tásso di occupatsióne e cresciúto" },
+        { "t": "A detta di molti studiosi, il modello è superato.", "es": "A decir de muchos estudiosos, el modelo está superado.", "pron": "a détta di mólti studiósi il modéllo e superáto" },
+        { "t": "Come sostiene l'autore, il metodo dipende dal contesto.", "es": "Como sostiene el autor, el método depende del contexto.", "pron": "cóme sosténe laútore il método dipénde dal contésto" },
+        { "t": "In base a questa ricerca, la tendenza è confermata.", "es": "Con base en esta investigación, la tendencia está confirmada.", "pron": "in báse a cuésta richérca la tendéntsa e confermáta" },
+        { "t": "Ogni citazione deve indicare la fonte e la pagina.", "es": "Toda cita debe indicar la fuente y la página.", "pron": "óñi chitatsióne dévi indicáre la fónte e la pádyina" }
+      ],
+      "dialogo": {
+        "titulo": "Preparare la bibliografia",
+        "lineas": [
+          { "q": "A", "t": "Nel terzo capitolo cito un saggio famoso, ma non ricordo la pagina. Posso scrivere semplicemente: a detta di molti esperti?", "es": "En el tercer capítulo cito un ensayo famoso, pero no recuerdo la página. ¿Puedo escribir simplemente: a decir de muchos expertos?" },
+          { "q": "B", "t": "Meglio di no: a detta di è vago. Cerchi la fonte, citi l'autore e la pagina, e inserisca il testo nella bibliografia finale.", "es": "Mejor no: a decir de es vago. Busque la fuente, cite al autor y la página, e incluya el texto en la bibliografía final." },
+          { "q": "A", "t": "Capisco. Per i dati statistici posso scrivere: stando a una ricerca recente, oppure meglio: in base ai dati dell'istituto?", "es": "Entiendo. Para los datos estadísticos, ¿puedo escribir: según una investigación reciente, o mejor: con base en los datos del instituto?" },
+          { "q": "B", "t": "La seconda è più precisa. Quando l'autore si riferisce a un concetto da lui introdotto, scriva: come sostiene l'autore, e metta la citazione tra virgolette.", "es": "La segunda es más precisa. Cuando el autor se refiere a un concepto que él introdujo, escriba: como sostiene el autor, y ponga la cita entre comillas." },
+          { "q": "A", "t": "Perfetto. Controllo tutte le fonti prima di consegnare: una citazione sbagliata può compromettere l'intero lavoro.", "es": "Perfecto. Reviso todas las fuentes antes de entregar: una cita errónea puede comprometer todo el trabajo." }
+        ]
+      },
+      "nota": "En Italia es habitual citar con el sistema autor-año, por ejemplo (Rossi 2019: 45), o con notas a pie de página. Pregunta a tu relatore qué sistema prefiere."
+    },
+    {
+      "id": "it-c1-u6-l5",
+      "n": 5,
+      "titulo": "Repaso: argumentar por escrito",
+      "objetivo": "Combinar estructura, hedging, nominalizzazione y fuentes en un párrafo académico.",
+      "intro": "Repasa escribiendo un párrafo que plantee una tesis, la matice y la apoye con una fuente. Truco: cada párrafo sigue la secuencia afirmar, matizar, justificar.",
+      "palabras": [
+        { "t": "corroborare", "es": "corroborar, reforzar", "pron": "corroboráre", "ej": "I nuovi dati sembrano corroborare l'ipotesi.", "ejes": "Los nuevos datos parecen corroborar la hipótesis.", "cog": true },
+        { "t": "confutare", "es": "refutar", "pron": "confutáre", "ej": "È difficile confutare questa tesi.", "ejes": "Es difícil refutar esta tesis.", "cog": false },
+        { "t": "evincere", "es": "inferir, deducir", "pron": "evínchere", "ej": "Dal testo si può evincere un cambiamento di tono.", "ejes": "Del texto se puede deducir un cambio de tono.", "cog": false },
+        { "t": "emergere", "es": "surgir, emerger", "pron": "emérdyere", "ej": "Dall'analisi potrebbe emergere un quadro diverso.", "ejes": "Del análisis podría surgir un cuadro distinto.", "cog": true },
+        { "t": "a tal proposito", "es": "a este respecto", "pron": "a tal propósito", "ej": "A tal proposito, ricordiamo un dato importante.", "ejes": "A este respecto, recordemos un dato importante.", "cog": false },
+        { "t": "in tal senso", "es": "en tal sentido", "pron": "in tal sénso", "ej": "In tal senso, la riforma rappresenta un passo avanti.", "ejes": "En tal sentido, la reforma representa un paso adelante.", "cog": false },
+        { "t": "al riguardo", "es": "al respecto", "pron": "al riguárdo", "ej": "Al riguardo, esistono pareri contrastanti.", "ejes": "Al respecto, existen pareceres contrastantes.", "cog": false },
+        { "t": "in ultima analisi", "es": "en última instancia", "pron": "in última análisi", "ej": "In ultima analisi, la scelta dipende dai valori.", "ejes": "En última instancia, la elección depende de los valores.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I nuovi dati sembrano corroborare l'ipotesi iniziale.", "es": "Los nuevos datos parecen corroborar la hipótesis inicial.", "pron": "i nuóvi dáti sémbrano corroboráre lipótesi inichiále" },
+        { "t": "Dall'analisi emerge un quadro più complesso del previsto.", "es": "Del análisis surge un cuadro más complejo de lo previsto.", "pron": "dallanálisi emérdye un cuádro piú compléso del previsto" },
+        { "t": "A tal proposito, è utile citare uno studio recente.", "es": "A este respecto, es útil citar un estudio reciente.", "pron": "a tal propósito e útile chitáre úno stúdio rechénte" },
+        { "t": "In tal senso, la verifica dei dati è fondamentale.", "es": "En tal sentido, la verificación de los datos es fundamental.", "pron": "in tal sénso la verífica dei dáti e fondamentále" },
+        { "t": "In ultima analisi, la tesi regge, ma con riserve.", "es": "En última instancia, la tesis se sostiene, pero con reservas.", "pron": "in última análisi la tési rédye ma con risérve" }
+      ],
+      "dialogo": {
+        "titulo": "Seminario di ricerca",
+        "lineas": [
+          { "q": "A", "t": "I nuovi dati sembrano corroborare la nostra ipotesi, ma dall'analisi emerge anche un quadro più complesso del previsto.", "es": "Los nuevos datos parecen corroborar nuestra hipótesis, pero del análisis surge también un cuadro más complejo de lo previsto." },
+          { "q": "B", "t": "A tal proposito, ricordo che un recente studio ha cercato di confutare la tesi, ma stando a quanto leggo non è riuscito.", "es": "A este respecto, recuerdo que un estudio reciente intentó refutar la tesis, pero según lo que leo no lo consiguió." },
+          { "q": "A", "t": "Dal testo si può evincere che gli autori hanno usato campioni piccoli; in tal senso, la verifica dei dati dovrebbe essere ripetuta.", "es": "Del texto se puede deducir que los autores usaron muestras pequeñas; en tal sentido, la verificación de los datos debería repetirse." },
+          { "q": "B", "t": "Al riguardo, non è da escludere che emergano risultati diversi. Con ogni probabilità servirà un'altra ricerca per chiarire.", "es": "Al respecto, no se puede descartar que surjan resultados distintos. Con toda probabilidad hará falta otra investigación para aclararlo." },
+          { "q": "A", "t": "Sono d'accordo. In ultima analisi, la tesi regge, ma con riserve: nella versione finale lo dirò con chiarezza e prudenza.", "es": "De acuerdo. En última instancia, la tesis se sostiene, pero con reservas: en la versión final lo diré con claridad y prudencia." }
+        ]
+      },
+      "nota": "Un buen párrafo académico no solo afirma: plantea, matiza y respalda. Si lo escribes en italiano, repasa al final los conectores (tuttavia, a tal proposito, in tal senso) para que el hilo sea claro."
+    }
+  ]
+}

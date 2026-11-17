@@ -1,0 +1,221 @@
+{
+  "id": "en-c1-u10",
+  "idioma": "en",
+  "nivel": "C1",
+  "n": 10,
+  "titulo": "Cohesión y estilo",
+  "resumen": "Aprenderás a enlazar las ideas de un texto con conectores y palabras de referencia, a variar la forma de tus oraciones y a elegir el estilo adecuado.",
+  "puedo": [
+    "Enlazar ideas con conectores formales como moreover, consequently y subsequently.",
+    "Evitar repeticiones con the former, the latter, such y this + sustantivo.",
+    "Variar la longitud y la estructura de las oraciones para dar ritmo al texto.",
+    "Ajustar el registro y el tono: formal, neutro o coloquial.",
+    "Revisar un texto para que sea claro, conciso y coherente."
+  ],
+  "gramatica": {
+    "titulo": "Cohesión: de lo conocido a lo nuevo",
+    "texto": "Un texto cohesionado empieza cada oración con algo que el lector ya conoce y termina con la información nueva. Para eso usamos palabras de referencia que apuntan a lo dicho antes: this + sustantivo (this approach, this trend), such + sustantivo (such measures), the former / the latter (el primero / el segundo), so y one (para no repetir).\nEjemplo: The company introduced remote work. This policy reduced costs. Such savings allowed new hires.\nTruco: no uses this solo, sin sustantivo, si puede confundirse con varias ideas. Mejor: this decision, this change.\nLos conectores (moreover, however, consequently) marcan la relación entre ideas, pero la cohesión real viene de repetir con variación las ideas clave.",
+    "tabla": [
+      ["This approach works well.", "Este enfoque funciona bien.", "dis aprouch uerks uel"],
+      ["Such measures are rare.", "Medidas como esas son poco comunes.", "sach méshers ar rer"],
+      ["The former is cheaper; the latter is faster.", "El primero es más barato; el segundo es más rápido.", "da fórmer is chíper; da léiter is fáster"],
+      ["Moreover, costs fell by ten percent.", "Además, los costos bajaron un diez por ciento.", "morouver, costs fel bai ten persént"],
+      ["Consequently, sales rose.", "En consecuencia, las ventas subieron.", "cónsecuentli, seils rous"],
+      ["Which means that we must adapt.", "Lo cual significa que debemos adaptarnos.", "juich mins dat ui mast adápt"]
+    ],
+    "errores": [
+      "No repitas el mismo sustantivo en todas las oraciones: en vez de the plan, the plan, the plan, usa this plan, the proposal, it.",
+      "No uses this sin sustantivo cuando hay dudas: es this decision, no solo «this».",
+      "No pongas moreover en cada oración: cámbialo por además, in addition o by the same token."
+    ]
+  },
+  "practica": [
+    "Toma un párrafo tuyo de 6 oraciones y reescríbelo usando 3 conectores distintos y 2 palabras de referencia (15 minutos).",
+    "Lee un artículo de opinión en inglés y subraya todos los conectores y palabras de referencia que encuentres (15 minutos).",
+    "Escribe un resumen de 100 palabras de una noticia mezclando oraciones cortas y largas (15 minutos).",
+    "Convierte 5 frases coloquiales de un chat en frases de un correo formal (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-c1-u10-l1",
+      "n": 1,
+      "titulo": "Conectores de adición y consecuencia",
+      "objetivo": "Enlazar ideas con moreover, furthermore, consequently y subsequently.",
+      "intro": "Los conectores formales ordenan tus ideas. Moreover y furthermore añaden; consequently y accordingly indican resultado; subsequently marca el orden en el tiempo. Truco: úsalos con coma y no más de uno por párrafo corto.",
+      "palabras": [
+        { "t": "moreover", "es": "además", "pron": "moróuver", "ej": "Moreover, the new system is cheaper to maintain.", "ejes": "Además, el nuevo sistema es más barato de mantener.", "cog": false },
+        { "t": "furthermore", "es": "asimismo, por otra parte", "pron": "férdermor", "ej": "Furthermore, the study included older participants.", "ejes": "Asimismo, el estudio incluyó a participantes mayores.", "cog": false },
+        { "t": "consequently", "es": "en consecuencia", "pron": "cónsecuentli", "ej": "Consequently, the project was delayed.", "ejes": "En consecuencia, el proyecto se retrasó.", "cog": false },
+        { "t": "accordingly", "es": "por consiguiente, en consecuencia", "pron": "acórdinli", "ej": "The situation changed; we adjusted accordingly.", "ejes": "La situación cambió; nos ajustamos en consecuencia.", "cog": false },
+        { "t": "subsequently", "es": "posteriormente", "pron": "sábsecuentli", "ej": "He was subsequently promoted to director.", "ejes": "Posteriormente fue ascendido a director.", "cog": false },
+        { "t": "ultimately", "es": "en última instancia", "pron": "áltimitli", "ej": "Ultimately, the decision rests with the board.", "ejes": "En última instancia, la decisión depende de la junta.", "cog": true },
+        { "t": "in addition", "es": "además", "pron": "in adíshon", "ej": "In addition, we offer free training.", "ejes": "Además, ofrecemos capacitación gratuita.", "cog": true },
+        { "t": "by the same token", "es": "por la misma razón", "pron": "bai da seim tóucen", "ej": "By the same token, smaller firms deserve support.", "ejes": "Por la misma razón, las empresas pequeñas merecen apoyo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The costs rose sharply; consequently, we raised our prices.", "es": "Los costos subieron bruscamente; en consecuencia, subimos nuestros precios.", "pron": "da costs rouz shárpli; cónsecuentli, ui reisd áuer práises" },
+        { "t": "Moreover, the results were consistent across all regions.", "es": "Además, los resultados fueron coherentes en todas las regiones.", "pron": "morouver, da risálts uer consístent acrós ol rígions" },
+        { "t": "Subsequently, the committee published its findings.", "es": "Posteriormente, el comité publicó sus conclusiones.", "pron": "sábsecuentli, da comíti páblisht its fáindins" },
+        { "t": "Ultimately, it comes down to trust.", "es": "En última instancia, todo se reduce a la confianza.", "pron": "áltimitli, it cams dáun tu trast" },
+        { "t": "Furthermore, the data support our hypothesis.", "es": "Asimismo, los datos respaldan nuestra hipótesis.", "pron": "férdermor, da déita sapórt áuer jaipóthesis" }
+      ],
+      "dialogo": {
+        "titulo": "Revisar un informe",
+        "lineas": [
+          { "q": "A", "t": "Your report is solid, but the paragraphs feel disconnected. Try linking them with a few connectors.", "es": "Tu informe es sólido, pero los párrafos se sienten desconectados. Prueba a enlazarlos con algunos conectores." },
+          { "q": "B", "t": "Good idea. I could write that sales fell and, consequently, we cut the budget.", "es": "Buena idea. Podría escribir que las ventas cayeron y, en consecuencia, recortamos el presupuesto." },
+          { "q": "A", "t": "Exactly. And moreover, you can add that the market has changed since then.", "es": "Exacto. Y además puedes agregar que el mercado ha cambiado desde entonces." },
+          { "q": "B", "t": "Subsequently, we hired a consultant, which I haven't mentioned yet.", "es": "Posteriormente contratamos a un consultor, algo que todavía no he mencionado." },
+          { "q": "A", "t": "Include it, in addition to the final results. Ultimately, readers want a clear story.", "es": "Inclúyelo, además de los resultados finales. En última instancia, los lectores quieren una historia clara." },
+          { "q": "B", "t": "Understood. I'll rewrite it tonight and send it to you in the morning.", "es": "Entendido. Lo reescribiré esta noche y te lo envío mañana temprano." }
+        ]
+      },
+      "nota": "Hay conectores que solo se usan por escrito. En una conversación oral, en vez de furthermore o moreover es más natural decir plus, also o on top of that."
+    },
+    {
+      "id": "en-c1-u10-l2",
+      "n": 2,
+      "titulo": "Referencia y sustitución",
+      "objetivo": "Evitar repeticiones con the former, the latter, such, this + sustantivo y respectively.",
+      "intro": "Repetir la misma palabra cansa. Sustituye con palabras de referencia: the former y the latter, such measures, this approach. Truco: the former es lo primero que mencionaste, the latter es lo segundo.",
+      "palabras": [
+        { "t": "the former", "es": "el primero (de dos)", "pron": "da fórmer", "ej": "We tested two models; the former was faster.", "ejes": "Probamos dos modelos; el primero fue más rápido.", "cog": false },
+        { "t": "the latter", "es": "el segundo (de dos)", "pron": "da léiter", "ej": "Of tea and coffee, I prefer the latter.", "ejes": "Entre té y café, prefiero el segundo.", "cog": false },
+        { "t": "such", "es": "tal, semejante", "pron": "sach", "ej": "Such behavior is simply unacceptable.", "ejes": "Un comportamiento así es sencillamente inaceptable.", "cog": false },
+        { "t": "the aforementioned", "es": "el anteriormente mencionado", "pron": "di afórmenshond", "ej": "The aforementioned document must be signed.", "ejes": "El documento anteriormente mencionado debe ser firmado.", "cog": false },
+        { "t": "respectively", "es": "respectivamente", "pron": "rispéctivli", "ej": "Sales and costs rose by 5 and 3 percent, respectively.", "ejes": "Las ventas y los costos subieron un 5 y un 3 por ciento, respectivamente.", "cog": true },
+        { "t": "likewise", "es": "del mismo modo", "pron": "láikuais", "ej": "She paid on time; likewise, he met his deadline.", "ejes": "Ella pagó a tiempo; del mismo modo, él cumplió su plazo.", "cog": false },
+        { "t": "this trend", "es": "esta tendencia", "pron": "dis trend", "ej": "This trend is likely to continue next year.", "ejes": "Es probable que esta tendencia continúe el próximo año.", "cog": false },
+        { "t": "so", "es": "lo mismo, así (sustituto)", "pron": "sou", "ej": "She thinks it is risky, and so do I.", "ejes": "Ella piensa que es arriesgado, y yo también.", "cog": false }
+      ],
+      "frases": [
+        { "t": "We considered two options; the former was cheaper.", "es": "Consideramos dos opciones; la primera era más barata.", "pron": "ui consíderd tu ópshons; da fórmer uas chíper" },
+        { "t": "Such measures are rarely effective on their own.", "es": "Medidas como esas rara vez son efectivas por sí solas.", "pron": "sach méshers ar rérli iféctiv on der oun" },
+        { "t": "This trend has worried economists for years.", "es": "Esta tendencia ha preocupado a los economistas por años.", "pron": "dis trend jas uérid ecónomists for iirs" },
+        { "t": "The directors and the staff agreed, respectively, to cut and to freeze pay.", "es": "Los directores y el personal aceptaron, respectivamente, recortar y congelar sueldos.", "pron": "da dairéctors and da staf agríd, rispéctivli, tu cat and tu frís pei" },
+        { "t": "He expected a raise, and so did I.", "es": "Él esperaba un aumento, y yo también.", "pron": "ji ikspécted a reis, and sou did ai" }
+      ],
+      "dialogo": {
+        "titulo": "Elegir entre dos propuestas",
+        "lineas": [
+          { "q": "A", "t": "We have two proposals, one from a local firm and one from an overseas agency.", "es": "Tenemos dos propuestas, una de una firma local y otra de una agencia extranjera." },
+          { "q": "B", "t": "The former is cheaper, whereas the latter offers a much wider network.", "es": "La primera es más barata, mientras que la segunda ofrece una red mucho más amplia." },
+          { "q": "A", "t": "Such a network could be decisive for us, given this trend toward global clients.", "es": "Una red así podría ser decisiva para nosotros, dada esta tendencia hacia clientes globales." },
+          { "q": "B", "t": "I suspect the aforementioned risks of working abroad are being underestimated.", "es": "Sospecho que los riesgos mencionados antes de trabajar en el exterior se están subestimando." },
+          { "q": "A", "t": "Possibly, and likewise the local firm's capacity might be overestimated.", "es": "Posiblemente, y del mismo modo podría estar sobreestimada la capacidad de la firma local." },
+          { "q": "B", "t": "Then let's ask both for references. I'd like to compare them side by side.", "es": "Entonces pidámosles referencias a ambas. Me gustaría compararlas lado a lado." }
+        ]
+      },
+      "nota": "The former y the latter solo funcionan con DOS elementos. Si hay tres o más, usa the first, the second y the last."
+    },
+    {
+      "id": "en-c1-u10-l3",
+      "n": 3,
+      "titulo": "Variedad de oraciones",
+      "objetivo": "Variar la estructura y el ritmo con oraciones cortas, largas, hendidas y enfáticas.",
+      "intro": "Un texto con oraciones todas del mismo largo suena monótono. Alterna una oración corta de impacto con una más elaborada. Truco: para enfatizar usa la estructura What matters is... o It was X that...",
+      "palabras": [
+        { "t": "concise", "es": "conciso", "pron": "consáis", "ej": "Please keep your answers concise.", "ejes": "Por favor, mantén tus respuestas concisas.", "cog": true },
+        { "t": "emphasis", "es": "énfasis", "pron": "émfasis", "ej": "The speaker placed emphasis on teamwork.", "ejes": "El orador puso énfasis en el trabajo en equipo.", "cog": true },
+        { "t": "clause", "es": "cláusula, oración subordinada", "pron": "clos", "ej": "A relative clause adds extra information.", "ejes": "Una cláusula de relativo agrega información extra.", "cog": true },
+        { "t": "flow", "es": "fluidez", "pron": "flou", "ej": "Short linking words improve the flow of the text.", "ejes": "Las palabras de enlace cortas mejoran la fluidez del texto.", "cog": false },
+        { "t": "elaborate", "es": "elaborar, desarrollar", "pron": "ilábo-reit", "ej": "Could you elaborate on that last point?", "ejes": "¿Podrías desarrollar ese último punto?", "cog": true },
+        { "t": "rhetorical", "es": "retórico", "pron": "retórical", "ej": "She asked a rhetorical question to start the speech.", "ejes": "Hizo una pregunta retórica para iniciar el discurso.", "cog": true },
+        { "t": "parallel structure", "es": "estructura paralela", "pron": "párálel strákcher", "ej": "Use parallel structure in lists to sound polished.", "ejes": "Usa estructura paralela en las listas para sonar pulido.", "cog": false },
+        { "t": "what matters is", "es": "lo que importa es", "pron": "juat máters is", "ej": "What matters is that we learn from this.", "ejes": "Lo que importa es que aprendamos de esto.", "cog": false }
+      ],
+      "frases": [
+        { "t": "What matters is not speed but accuracy.", "es": "Lo que importa no es la velocidad sino la precisión.", "pron": "juat máters is not spid bat ákiurasi" },
+        { "t": "It was the lack of funding that stopped the project.", "es": "Fue la falta de fondos lo que detuvo el proyecto.", "pron": "it uas da lac ov fándin dat stopt da próyect" },
+        { "t": "Keep it short. Then expand where the reader needs more.", "es": "Hazlo breve. Luego amplía donde el lector necesite más.", "pron": "kip it short. den ikspánd juer da rider nids mor" },
+        { "t": "She asked a rhetorical question to engage the audience.", "es": "Hizo una pregunta retórica para captar a la audiencia.", "pron": "shi askt a retórical cuéschon tu engéiy di ódiens" },
+        { "t": "Reading, writing and listening all need daily practice.", "es": "Leer, escribir y escuchar necesitan práctica diaria.", "pron": "rídin, ráitin and lísenin ol nid déili práctis" }
+      ],
+      "dialogo": {
+        "titulo": "Preparar un discurso",
+        "lineas": [
+          { "q": "A", "t": "My speech feels flat. Every sentence has the same length and rhythm.", "es": "Mi discurso se siente plano. Todas las oraciones tienen el mismo largo y ritmo." },
+          { "q": "B", "t": "Try placing emphasis with a short sentence after a long one. Like this: simple. Direct.", "es": "Prueba a poner énfasis con una oración corta después de una larga. Así: simple. Directo." },
+          { "q": "A", "t": "I could also open with a rhetorical question, couldn't I?", "es": "También podría abrir con una pregunta retórica, ¿no?" },
+          { "q": "B", "t": "Yes, and then elaborate with a concrete example. What matters is that the audience stays engaged.", "es": "Sí, y luego desarrollar con un ejemplo concreto. Lo que importa es que la audiencia siga interesada." },
+          { "q": "A", "t": "Also, my lists should have parallel structure, shouldn't they?", "es": "Además, mis listas deberían tener estructura paralela, ¿verdad?" },
+          { "q": "B", "t": "Definitely. That alone will improve the flow considerably.", "es": "Definitivamente. Solo eso mejorará la fluidez de forma considerable." }
+        ]
+      },
+      "nota": "La estructura paralela significa que los elementos de una lista tienen la misma forma: to read, to write and to listen (no to read, writing and to listen)."
+    },
+    {
+      "id": "en-c1-u10-l4",
+      "n": 4,
+      "titulo": "Registro, tono y estilo",
+      "objetivo": "Ajustar el registro entre formal, neutro y coloquial, y evitar lo redundante.",
+      "intro": "El registro es el nivel de formalidad. En un correo a un cliente usa get in touch o contact; con un amigo, hit me up. Truco: pregúntate quién lee, y escribe como si esa persona estuviera frente a ti.",
+      "palabras": [
+        { "t": "register", "es": "registro (nivel de formalidad)", "pron": "réyister", "ej": "Choose a register that suits your audience.", "ejes": "Elige un registro que se adapte a tu público.", "cog": true },
+        { "t": "tone", "es": "tono", "pron": "toun", "ej": "The tone of her email was polite but firm.", "ejes": "El tono de su correo fue cortés pero firme.", "cog": true },
+        { "t": "colloquial", "es": "coloquial", "pron": "colóuquial", "ej": "That phrase is too colloquial for a report.", "ejes": "Esa frase es demasiado coloquial para un informe.", "cog": true },
+        { "t": "jargon", "es": "jerga técnica", "pron": "yárgon", "ej": "Avoid jargon when writing for the public.", "ejes": "Evita la jerga técnica cuando escribas para el público.", "cog": true },
+        { "t": "verbose", "es": "verboso, prolijo", "pron": "verbóus", "ej": "His emails are verbose and hard to follow.", "ejes": "Sus correos son prolijos y difíciles de seguir.", "cog": true },
+        { "t": "redundant", "es": "redundante", "pron": "ridándant", "ej": "The word very is redundant in that sentence.", "ejes": "La palabra very es redundante en esa oración.", "cog": true },
+        { "t": "plain language", "es": "lenguaje sencillo", "pron": "plein lánguich", "ej": "Government forms should use plain language.", "ejes": "Los formularios del gobierno deben usar lenguaje sencillo.", "cog": false },
+        { "t": "cliché", "es": "cliché, lugar común", "pron": "clishéi", "ej": "Avoid every cliché in a job application.", "ejes": "Evita cualquier cliché en una solicitud de empleo.", "cog": true }
+      ],
+      "frases": [
+        { "t": "The tone of your message was a bit too direct.", "es": "El tono de tu mensaje fue un poco demasiado directo.", "pron": "da toun ov ior mésich uas a bit tu dairéct" },
+        { "t": "That expression is too colloquial for a formal report.", "es": "Esa expresión es demasiado coloquial para un informe formal.", "pron": "dat ikspréshon is tu colóuquial for a fórmal ripórt" },
+        { "t": "Cut the jargon and use plain language instead.", "es": "Elimina la jerga y usa lenguaje sencillo en su lugar.", "pron": "cat da yárgon and ius plein lánguich instéd" },
+        { "t": "Delete redundant words to make the text concise.", "es": "Elimina las palabras redundantes para hacer el texto conciso.", "pron": "dilít ridándant uerds tu meik da text consáis" },
+        { "t": "Your cover letter sounds a little verbose.", "es": "Tu carta de presentación suena un poco prolija.", "pron": "ior cóver léter saunds a lítel verbóus" }
+      ],
+      "dialogo": {
+        "titulo": "Corregir un correo",
+        "lineas": [
+          { "q": "A", "t": "Could you check my email to the client? I worry that the tone is wrong.", "es": "¿Podrías revisar mi correo al cliente? Me preocupa que el tono no sea el adecuado." },
+          { "q": "B", "t": "Sure. Some phrases are too colloquial, like hit me up. Use get in touch instead.", "es": "Claro. Algunas frases son demasiado coloquiales, como hit me up. Usa get in touch." },
+          { "q": "A", "t": "I see. And the technical terms? I'm worried about jargon.", "es": "Entiendo. ¿Y los términos técnicos? Me preocupa la jerga." },
+          { "q": "B", "t": "You're right, plain language works better. Also, the second paragraph is redundant, so I'd delete it.", "es": "Tienes razón, el lenguaje sencillo funciona mejor. Además, el segundo párrafo es redundante, así que lo eliminaría." },
+          { "q": "A", "t": "That makes it concise. Do you think the register is now suitable?", "es": "Eso lo hace conciso. ¿Crees que el registro ya es adecuado?" },
+          { "q": "B", "t": "Yes, it's polished and professional. Just avoid the cliché at the end.", "es": "Sí, está pulido y profesional. Solo evita el cliché del final." }
+        ]
+      },
+      "nota": "En inglés de EE. UU. el tono de un correo laboral suele ser más directo y cordial que en español; no suena grosero decir Please send me the file by noon."
+    },
+    {
+      "id": "en-c1-u10-l5",
+      "n": 5,
+      "titulo": "Repaso: pulir un texto",
+      "objetivo": "Combinar conectores, referencia, variedad de oraciones y registro para mejorar un texto.",
+      "intro": "Revisar es la mitad de escribir. Lee tu texto en voz alta, subraya repeticiones y comprueba que cada párrafo siga al anterior. Truco: pregunta siempre, qué sabe ya el lector y qué debo darle ahora.",
+      "palabras": [
+        { "t": "coherent", "es": "coherente", "pron": "cojírent", "ej": "The essay is clear and coherent.", "ejes": "El ensayo es claro y coherente.", "cog": true },
+        { "t": "proofread", "es": "revisar (la ortografía)", "pron": "prúfrid", "ej": "Please proofread the document before sending it.", "ejes": "Por favor, revisa el documento antes de enviarlo.", "cog": false },
+        { "t": "tighten", "es": "ajustar, recortar un texto", "pron": "táiten", "ej": "We should tighten the introduction.", "ejes": "Deberíamos recortar la introducción.", "cog": false },
+        { "t": "transition", "es": "transición", "pron": "transíshon", "ej": "Add a smooth transition between sections.", "ejes": "Agrega una transición fluida entre las secciones.", "cog": true },
+        { "t": "paraphrase", "es": "parafrasear", "pron": "párafreis", "ej": "Always paraphrase quotes instead of copying them.", "ejes": "Siempre parafrasea las citas en vez de copiarlas.", "cog": true },
+        { "t": "cohesion", "es": "cohesión", "pron": "cojíshon", "ej": "Linking words create cohesion in a paragraph.", "ejes": "Las palabras de enlace crean cohesión en un párrafo.", "cog": true },
+        { "t": "gist", "es": "esencia, idea principal", "pron": "yist", "ej": "Can you give me the gist of the report?", "ejes": "¿Puedes darme la esencia del informe?", "cog": false },
+        { "t": "stylistic", "es": "estilístico", "pron": "stailístic", "ej": "She made several stylistic changes to the draft.", "ejes": "Hizo varios cambios estilísticos al borrador.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Please proofread the document before you send it.", "es": "Por favor, revisa el documento antes de enviarlo.", "pron": "plis prúfrid da dócument bifór iu send it" },
+        { "t": "A smooth transition links one paragraph to the next.", "es": "Una transición fluida une un párrafo con el siguiente.", "pron": "a smud transíshon links uan párágraf tu da next" },
+        { "t": "Consequently, we need to tighten the introduction.", "es": "En consecuencia, necesitamos recortar la introducción.", "pron": "cónsecuentli, ui nid tu táiten di introdákshon" },
+        { "t": "Paraphrase the idea; do not copy it word for word.", "es": "Parafrasea la idea; no la copies palabra por palabra.", "pron": "párafreis di aidía; du not cópi it uerd for uerd" },
+        { "t": "The former draft was verbose, whereas this one is concise.", "es": "El borrador anterior era prolijo, mientras que este es conciso.", "pron": "da fórmer draft uas verbóus, juereás dis uan is consáis" },
+        { "t": "What matters is that the text is clear and coherent.", "es": "Lo que importa es que el texto sea claro y coherente.", "pron": "juat máters is dat da text is clir and cojírent" }
+      ],
+      "dialogo": {
+        "titulo": "Taller de redacción",
+        "lineas": [
+          { "q": "A", "t": "I've written the introduction, but it doesn't flow. What am I missing?", "es": "Escribí la introducción, pero no fluye. ¿Qué me falta?" },
+          { "q": "B", "t": "Cohesion. You jump from one idea to another without a transition. Moreover, you repeat the same noun.", "es": "Cohesión. Saltas de una idea a otra sin transición. Además, repites el mismo sustantivo." },
+          { "q": "A", "t": "I see. Instead of the plan, I could say this proposal or such an initiative.", "es": "Ya veo. En vez de the plan, podría decir this proposal o such an initiative." },
+          { "q": "B", "t": "Exactly. And tighten the final sentence so the gist is obvious at once.", "es": "Exacto. Y recorta la última oración para que la idea principal sea evidente de inmediato." },
+          { "q": "A", "t": "Should I paraphrase the quotation or leave it as it is?", "es": "¿Debería parafrasear la cita o dejarla como está?" },
+          { "q": "B", "t": "Paraphrase it, then proofread everything. Ultimately, a coherent text builds trust.", "es": "Parafraséala y revisa todo. En última instancia, un texto coherente genera confianza." }
+        ]
+      },
+      "nota": "Un truco profesional: lee tu texto en voz alta o con un lector de voz. Si te quedas sin aire en una oración, probablemente es demasiado larga."
+    }
+  ]
+}

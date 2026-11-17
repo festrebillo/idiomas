@@ -1,0 +1,214 @@
+{
+  "id": "it-c1-u14",
+  "idioma": "it",
+  "nivel": "C1",
+  "n": 14,
+  "titulo": "Formación de palabras",
+  "resumen": "Aprenderás a descomponer y construir palabras con prefijos, sufijos y familias léxicas para entender vocabulario nuevo sin diccionario.",
+  "puedo": [
+    "Reconocer el sentido de los prefijos más productivos: dis-, sotto-, sovra-, ri-, pre-, inter-, contro-, post-.",
+    "Formar sustantivos a partir de verbos y adjetivos con -zione, -mento, -tura, -ità, -ezza.",
+    "Reconocer sufijos de adjetivos y verbos: -evole, -abile, -ibile, -oso, -izzare, -ificare.",
+    "Deducir el significado de una palabra nueva a partir de su familia léxica.",
+    "Ampliar el vocabulario de forma sistemática sin memorizar palabra por palabra."
+  ],
+  "gramatica": {
+    "titulo": "De verbo a sustantivo: -zione, -mento, -tura",
+    "texto": "Muchos sustantivos italianos nacen de un verbo añadiendo un sufijo. Los tres más frecuentes:\n-zione (femenino, acción o resultado): organizzare, l'organizzazione; informare, l'informazione.\n-mento (masculino, acción o resultado): pagare, il pagamento; cambiare, il cambiamento.\n-tura (femenino, acción o resultado): aprire, l'apertura; chiudere, la chiusura.\nOtros sufijos forman sustantivos desde adjetivos: -ità (possibile, la possibilità), -ezza (bello, la bellezza).\nTruco: el género lo decide el sufijo, no la palabra de origen: -zione, -tura, -ità y -ezza son femeninos; -mento y -ismo son masculinos.",
+    "tabla": [
+      ["organizzare - l'organizzazione", "organizar - la organización", "organidsáre lorganidsatsióne"],
+      ["pagare - il pagamento", "pagar - el pago", "pagáre il pagaménto"],
+      ["chiudere - la chiusura", "cerrar - el cierre", "kiúdere la kiusúra"],
+      ["possibile - la possibilità", "posible - la posibilidad", "posíbile la posibilitá"],
+      ["bello - la bellezza", "bello - la belleza", "béllo la belléttsa"]
+    ],
+    "errores": [
+      "Cambiar el género: «il organizzazione» es incorrecto; lleva artículo femenino: «l'organizzazione».",
+      "Traducir «-miento» siempre por «-mento»: «movimiento» es «movimento», pero «conocimiento» es «conoscenza» y «pensamiento» es «pensiero».",
+      "Olvidar la doble consonante: «la belleza» es «bellezza» y «la fortaleza» es «fortezza»; escribir «bellezza» con z simple es un error."
+    ]
+  },
+  "practica": [
+    "Elige diez verbos que ya conoces y forma el sustantivo con -zione, -mento o -tura; comprueba con un diccionario (12 minutos).",
+    "Toma un párrafo periodístico y subraya todas las palabras con prefijo o sufijo; escribe su palabra base (12 minutos).",
+    "Escribe diez frases usando palabras de una misma familia léxica (por ejemplo, scrivere, scrittore, scrittura, descrizione) (10 minutos).",
+    "Inventa cinco palabras plausibles con prefijos (por ejemplo, ri-, dis-, contro-) y comprueba si existen realmente (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-c1-u14-l1",
+      "n": 1,
+      "titulo": "Prefijos productivos",
+      "objetivo": "Deducir el significado de palabras nuevas a partir de su prefijo.",
+      "intro": "Con un puñado de prefijos puedes entender cientos de palabras. Truco: dis- y contro- niegan o se oponen; sotto- y sovra- indican debajo o encima; ri- repite; pre- y post- marcan tiempo.",
+      "palabras": [
+        { "t": "disinformazione", "es": "desinformación", "pron": "disinformatsióne", "ej": "La disinformazione è un problema globale.", "ejes": "La desinformación es un problema global.", "cog": true },
+        { "t": "sottovalutare", "es": "subestimar", "pron": "sottovalutáre", "ej": "Non bisogna sottovalutare i rischi del progetto.", "ejes": "No hay que subestimar los riesgos del proyecto.", "cog": false },
+        { "t": "sovraccarico", "es": "sobrecarga", "pron": "sovraccárico", "ej": "Il sovraccarico di lavoro causa stress.", "ejes": "La sobrecarga de trabajo causa estrés.", "cog": true },
+        { "t": "riqualificare", "es": "recalificar, reconvertir", "pron": "riqualificáre", "ej": "Il comune vuole riqualificare il quartiere.", "ejes": "El municipio quiere reconvertir el barrio.", "cog": false },
+        { "t": "preavviso", "es": "aviso previo", "pron": "preavvíso", "ej": "Il contratto prevede un mese di preavviso.", "ejes": "El contrato prevé un mes de aviso previo.", "cog": true },
+        { "t": "interdisciplinare", "es": "interdisciplinario", "pron": "interdisciplináre", "ej": "È un progetto interdisciplinare con diversi esperti.", "ejes": "Es un proyecto interdisciplinario con varios expertos.", "cog": true },
+        { "t": "controproducente", "es": "contraproducente", "pron": "controproduchénte", "ej": "Insistere ora sarebbe controproducente.", "ejes": "Insistir ahora sería contraproducente.", "cog": true },
+        { "t": "postindustriale", "es": "posindustrial", "pron": "postindustriále", "ej": "Viviamo in una società postindustriale.", "ejes": "Vivimos en una sociedad posindustrial.", "cog": true }
+      ],
+      "frases": [
+        { "t": "La disinformazione si diffonde più in fretta della verità.", "es": "La desinformación se difunde más rápido que la verdad.", "pron": "la disinformatsióne si diffónde piú in frétta délla veritá" },
+        { "t": "Hanno sottovalutato il problema fin dall'inizio.", "es": "Subestimaron el problema desde el comienzo.", "pron": "ánno sottovalutáto il probléma fin dallinícho" },
+        { "t": "Il sovraccarico di richieste ha bloccato il sistema.", "es": "La sobrecarga de solicitudes bloqueó el sistema.", "pron": "il sovraccárico di richiéste a blokkáto il sistéma" },
+        { "t": "Serve un preavviso di trenta giorni per disdire il contratto.", "es": "Se requiere un aviso previo de treinta días para rescindir el contrato.", "pron": "sérve un preavvíso di trénta dyórni per disdíre il contrátto" },
+        { "t": "Una scelta così drastica sarebbe controproducente per tutti.", "es": "Una decisión tan drástica sería contraproducente para todos.", "pron": "úna scélta cosí drástica sarébbe controproduchénte per túti" }
+      ],
+      "dialogo": {
+        "titulo": "Un progetto di riqualificazione",
+        "lineas": [
+          { "q": "A", "t": "Il comune vuole riqualificare il vecchio quartiere industriale, ma i tempi sono stretti.", "es": "El municipio quiere reconvertir el antiguo barrio industrial, pero los plazos son estrechos." },
+          { "q": "B", "t": "Se sottovalutiamo i costi, il progetto diventerà controproducente per tutti.", "es": "Si subestimamos los costos, el proyecto se volverá contraproducente para todos." },
+          { "q": "A", "t": "Per questo serve un team interdisciplinare: architetti, economisti e sociologi.", "es": "Por eso hace falta un equipo interdisciplinario: arquitectos, economistas y sociólogos." },
+          { "q": "B", "t": "Concordo, e bisogna dare un preavviso ai residenti per evitare ogni sovraccarico di proteste.", "es": "Coincido, y hay que dar un aviso previo a los residentes para evitar cualquier sobrecarga de protestas." },
+          { "q": "A", "t": "Anche perché la disinformazione sui social potrebbe peggiorare la situazione.", "es": "Sobre todo porque la desinformación en las redes podría empeorar la situación." }
+        ]
+      },
+      "nota": "Prefijos de negación: in- (infelice), s- (sfavorevole), dis- (disonesto), a- (apolitico). Delante de l, m, r, b, p, in- cambia a il-, im-, ir-: illegale, impossibile, irreale."
+    },
+    {
+      "id": "it-c1-u14-l2",
+      "n": 2,
+      "titulo": "Sufijos que forman sustantivos",
+      "objetivo": "Formar y reconocer sustantivos derivados con -zione, -mento, -tura, -ità, -ezza, -ismo, -tore.",
+      "intro": "Cada sufijo aporta un significado. Truco: -tore indica quien hace la acción (lavorare, il lavoratore); -ismo señala doctrina o actitud (ottimismo, pessimismo).",
+      "palabras": [
+        { "t": "la bellezza", "es": "la belleza", "pron": "la belléttsa", "ej": "La bellezza di questa città è nota in tutto il mondo.", "ejes": "La belleza de esta ciudad es conocida en todo el mundo.", "cog": false },
+        { "t": "la possibilità", "es": "la posibilidad", "pron": "la possibilitá", "ej": "La possibilità di successo è piuttosto alta.", "ejes": "La posibilidad de éxito es bastante alta.", "cog": true },
+        { "t": "il pagamento", "es": "el pago", "pron": "il pagaménto", "ej": "Il pagamento deve avvenire entro dieci giorni.", "ejes": "El pago debe realizarse en diez días.", "cog": false },
+        { "t": "l'organizzazione", "es": "la organización", "pron": "lorganidsatsióne", "ej": "L'organizzazione dell'evento è stata impeccabile.", "ejes": "La organización del evento fue impecable.", "cog": true },
+        { "t": "la chiusura", "es": "el cierre", "pron": "la kiusúra", "ej": "La chiusura del negozio è prevista per domenica.", "ejes": "El cierre de la tienda está previsto para el domingo.", "cog": false },
+        { "t": "il pessimismo", "es": "el pesimismo", "pron": "il pessimísmo", "ej": "Il pessimismo non aiuta a risolvere i problemi.", "ejes": "El pesimismo no ayuda a resolver los problemas.", "cog": true },
+        { "t": "il lavoratore", "es": "el trabajador", "pron": "il lavoratóre", "ej": "Il lavoratore ha diritto a un giorno di riposo.", "ejes": "El trabajador tiene derecho a un día de descanso.", "cog": false },
+        { "t": "la stanchezza", "es": "el cansancio", "pron": "la stankéttsa", "ej": "La stanchezza si fa sentire dopo una lunga giornata.", "ejes": "El cansancio se hace sentir tras un largo día.", "cog": false }
+      ],
+      "frases": [
+        { "t": "La bellezza del paesaggio mi ha lasciato senza parole.", "es": "La belleza del paisaje me dejó sin palabras.", "pron": "la belléttsa del paesádyo mi a lasháto séntsa paróle" },
+        { "t": "Esiste la possibilità di prorogare il termine.", "es": "Existe la posibilidad de prorrogar el plazo.", "pron": "esíste la possibilitá di prorogáre il términe" },
+        { "t": "L'organizzazione del congresso ha richiesto mesi di lavoro.", "es": "La organización del congreso requirió meses de trabajo.", "pron": "lorganidsatsióne del congrésso a richiésto mési di lavóro" },
+        { "t": "La chiusura dell'azienda ha lasciato a casa cento lavoratori.", "es": "El cierre de la empresa dejó sin trabajo a cien trabajadores.", "pron": "la kiusúra dellasiénda a lasháto a cása chénto lavoratóri" },
+        { "t": "Il suo pessimismo è comprensibile, ma eccessivo.", "es": "Su pesimismo es comprensible, pero excesivo.", "pron": "il súo pessimísmo e comprensíbile ma eccessívo" }
+      ],
+      "dialogo": {
+        "titulo": "Dopo un evento aziendale",
+        "lineas": [
+          { "q": "A", "t": "L'organizzazione dell'evento è stata impeccabile, complimenti a tutto il team.", "es": "La organización del evento fue impecable, felicitaciones a todo el equipo." },
+          { "q": "B", "t": "Grazie, ma devo ammettere che la stanchezza si sente: abbiamo lavorato per settimane.", "es": "Gracias, pero debo admitir que el cansancio se nota: trabajamos durante semanas." },
+          { "q": "A", "t": "C'è però una questione: il pagamento del fornitore è ancora in sospeso.", "es": "Hay, sin embargo, una cuestión: el pago del proveedor sigue pendiente." },
+          { "q": "B", "t": "Lo so, ma credo che ci sia la possibilità di saldarlo entro venerdì, prima della chiusura dei conti.", "es": "Lo sé, pero creo que existe la posibilidad de saldarlo antes del viernes, antes del cierre de cuentas." },
+          { "q": "A", "t": "Il tuo ottimismo mi fa piacere: il pessimismo di certi colleghi non aiuta nessuno.", "es": "Tu optimismo me da gusto: el pesimismo de ciertos colegas no ayuda a nadie." }
+        ]
+      },
+      "nota": "Muchos sustantivos en -tore tienen un femenino en -trice: l'attore, l'attrice; il direttore, la direttrice (o también «la direttora»). Algunos admiten dos formas."
+    },
+    {
+      "id": "it-c1-u14-l3",
+      "n": 3,
+      "titulo": "Sufijos de adjetivos y verbos",
+      "objetivo": "Reconocer los sufijos más frecuentes de adjetivos y verbos para deducir su significado.",
+      "intro": "Los sufijos adjetivales indican capacidad (-abile, -ibile), cualidad (-oso) o efecto (-ivo). Truco: -izzare y -ificare convierten algo en otra cosa: modernizzare = hacer moderno.",
+      "palabras": [
+        { "t": "ammirevole", "es": "admirable", "pron": "ammirévole", "ej": "Il suo coraggio è ammirevole.", "ejes": "Su coraje es admirable.", "cog": true },
+        { "t": "affidabile", "es": "confiable", "pron": "affidábile", "ej": "Cerchiamo un fornitore affidabile e puntuale.", "ejes": "Buscamos un proveedor confiable y puntual.", "cog": false },
+        { "t": "prevedibile", "es": "previsible", "pron": "prevedíbile", "ej": "Il risultato era prevedibile fin dall'inizio.", "ejes": "El resultado era previsible desde el comienzo.", "cog": true },
+        { "t": "pericoloso", "es": "peligroso", "pron": "pericolóso", "ej": "Guidare senza cintura è pericoloso.", "ejes": "Conducir sin cinturón es peligroso.", "cog": true },
+        { "t": "decisivo", "es": "decisivo", "pron": "decisívo", "ej": "Il suo intervento è stato decisivo.", "ejes": "Su intervención fue decisiva.", "cog": true },
+        { "t": "modernizzare", "es": "modernizar", "pron": "modernidsáre", "ej": "Bisogna modernizzare i servizi pubblici.", "ejes": "Hay que modernizar los servicios públicos.", "cog": true },
+        { "t": "semplificare", "es": "simplificar", "pron": "semplificáre", "ej": "Vogliamo semplificare le procedure burocratiche.", "ejes": "Queremos simplificar los trámites burocráticos.", "cog": true },
+        { "t": "lampeggiare", "es": "destellar, hacer luces intermitentes", "pron": "lampeddyáre", "ej": "La luce ha cominciato a lampeggiare all'improvviso.", "ejes": "La luz empezó a destellar de repente.", "cog": false }
+      ],
+      "frases": [
+        { "t": "È un collaboratore affidabile e di grande esperienza.", "es": "Es un colaborador confiable y de gran experiencia.", "pron": "e un collaboratóre affidábile e di gránde esperiéntsa" },
+        { "t": "Un esito del genere era del tutto prevedibile.", "es": "Un resultado así era totalmente previsible.", "pron": "un ésito del dyénere éra del túto prevedíbile" },
+        { "t": "La strada di montagna è stretta e pericolosa.", "es": "El camino de montaña es estrecho y peligroso.", "pron": "la stráda di montáña e strétta e pericolósa" },
+        { "t": "Il governo intende modernizzare l'intero sistema giudiziario.", "es": "El gobierno pretende modernizar todo el sistema judicial.", "pron": "il govérno inténde modernidsáre lintéro sistéma yudiciário" },
+        { "t": "Abbiamo cercato di semplificare le regole per i nuovi iscritti.", "es": "Intentamos simplificar las reglas para los nuevos inscritos.", "pron": "abbiámo chercáto di semplificáre le régole per i nuóvi iscrítti" }
+      ],
+      "dialogo": {
+        "titulo": "Riforma dei servizi pubblici",
+        "lineas": [
+          { "q": "A", "t": "Bisogna modernizzare gli uffici: le procedure sono troppo lente e complicate.", "es": "Hay que modernizar las oficinas: los trámites son demasiado lentos y complicados." },
+          { "q": "B", "t": "Il primo passo decisivo è semplificare i moduli, poi digitalizzare tutto.", "es": "El primer paso decisivo es simplificar los formularios, luego digitalizar todo." },
+          { "q": "A", "t": "Il rischio è affidarsi a un sistema poco affidabile: sarebbe pericoloso per i dati dei cittadini.", "es": "El riesgo es confiar en un sistema poco confiable: sería peligroso para los datos de los ciudadanos." },
+          { "q": "B", "t": "Il problema è prevedibile, ma ammirevole è l'impegno di chi sta lavorando alla riforma.", "es": "El problema es previsible, pero admirable es el compromiso de quienes trabajan en la reforma." },
+          { "q": "A", "t": "Speriamo che la spia rossa non debba lampeggiare di nuovo, come successe l'anno scorso.", "es": "Esperemos que la luz roja no tenga que destellar de nuevo, como pasó el año pasado." }
+        ]
+      },
+      "nota": "Muchos sufijos son productivos: se pueden aplicar a palabras nuevas, como «tweettare» o «googlare»: el sufijo -are sirve para italianizar un verbo extranjero."
+    },
+    {
+      "id": "it-c1-u14-l4",
+      "n": 4,
+      "titulo": "Familias de palabras",
+      "objetivo": "Reconocer palabras de la misma familia y deducir su significado a partir de la raíz.",
+      "intro": "Aprender una raíz es aprender diez palabras. Truco: parte de un verbo (scrivere) y busca sus compañeros: scrittore, scrittura, trascrivere, descrizione.",
+      "palabras": [
+        { "t": "la scrittura", "es": "la escritura", "pron": "la scrittúra", "ej": "La scrittura a mano sta scomparendo.", "ejes": "La escritura a mano está desapareciendo.", "cog": false },
+        { "t": "trascrivere", "es": "transcribir", "pron": "trascrívere", "ej": "Devo trascrivere l'intervista entro domani.", "ejes": "Debo transcribir la entrevista antes de mañana.", "cog": true },
+        { "t": "la descrizione", "es": "la descripción", "pron": "la descritsióne", "ej": "La descrizione del prodotto è molto precisa.", "ejes": "La descripción del producto es muy precisa.", "cog": true },
+        { "t": "l'iscrizione", "es": "la inscripción", "pron": "liscritsióne", "ej": "L'iscrizione al corso è già aperta.", "ejes": "La inscripción al curso ya está abierta.", "cog": true },
+        { "t": "riscrivere", "es": "reescribir", "pron": "riscrívere", "ej": "Dovrei riscrivere tutto il secondo capitolo.", "ejes": "Debería reescribir todo el segundo capítulo.", "cog": false },
+        { "t": "lo scrittore", "es": "el escritor", "pron": "lo scrittóre", "ej": "Lo scrittore ha presentato il suo nuovo romanzo.", "ejes": "El escritor presentó su nueva novela.", "cog": true },
+        { "t": "la scrivania", "es": "el escritorio", "pron": "la scrivanía", "ej": "La scrivania è piena di documenti da firmare.", "ejes": "El escritorio está lleno de documentos por firmar.", "cog": false },
+        { "t": "il manoscritto", "es": "el manuscrito", "pron": "il manoscrítto", "ej": "Il manoscritto originale si conserva in biblioteca.", "ejes": "El manuscrito original se conserva en la biblioteca.", "cog": true }
+      ],
+      "frases": [
+        { "t": "L'iscrizione è obbligatoria per tutti i partecipanti.", "es": "La inscripción es obligatoria para todos los participantes.", "pron": "liscritsióne e obbligatória per túti i partechipánti" },
+        { "t": "Lo scrittore ha riscritto il finale tre volte.", "es": "El escritor reescribió el final tres veces.", "pron": "lo scrittóre a riscrítto il finále tre vólte" },
+        { "t": "La descrizione del luogo è così vivida che sembra di esserci.", "es": "La descripción del lugar es tan vívida que parece uno estar allí.", "pron": "la descritsióne del luógo e cosí vívida ke sémbra di ésserchi" },
+        { "t": "Devo trascrivere l'intervista parola per parola.", "es": "Debo transcribir la entrevista palabra por palabra.", "pron": "dévo trascrívere lintervísta paróla per paróla" },
+        { "t": "Il manoscritto originale è andato perduto durante la guerra.", "es": "El manuscrito original se perdió durante la guerra.", "pron": "il manoscrítto oridyinále e andáto perdúto duránte la guérra" }
+      ],
+      "dialogo": {
+        "titulo": "Un lavoro di ricerca",
+        "lineas": [
+          { "q": "A", "t": "Sto lavorando alla scrittura della tesi, ma devo trascrivere ancora otto interviste.", "es": "Estoy trabajando en la escritura de la tesis, pero aún debo transcribir ocho entrevistas." },
+          { "q": "B", "t": "Se hai bisogno, ti presto la mia scrivania in biblioteca: c'è più spazio e silenzio.", "es": "Si necesitas, te presto mi escritorio en la biblioteca: hay más espacio y silencio." },
+          { "q": "A", "t": "Grazie! La descrizione del metodo è ancora vaga; temo di doverla riscrivere da capo.", "es": "¡Gracias! La descripción del método sigue siendo vaga; temo tener que reescribirla desde cero." },
+          { "q": "B", "t": "Lo scrittore Calvino diceva che scrivere è riscrivere, quindi non preoccuparti.", "es": "El escritor Calvino decía que escribir es reescribir, así que no te preocupes." },
+          { "q": "A", "t": "L'iscrizione alla discussione scade tra poco, ma spero di consegnare il manoscritto in tempo.", "es": "La inscripción a la defensa vence pronto, pero espero entregar el manuscrito a tiempo." }
+        ]
+      },
+      "nota": "Cuando conoces la raíz, puedes deducir «inscrizione» (iscrizione), «sottoscrivere», «circoscrivere» y «prescrivere»: todas comparten -scrivere."
+    },
+    {
+      "id": "it-c1-u14-l5",
+      "n": 5,
+      "titulo": "Repaso: construir y deducir palabras",
+      "objetivo": "Combinar prefijos, sufijos y raíces para analizar y formar palabras largas.",
+      "intro": "Repasa descomponiendo palabras largas en piezas: prefijo, raíz y sufijo. Truco: in-sosten-ibile = no + sostener + que se puede.",
+      "palabras": [
+        { "t": "sostenibile", "es": "sostenible", "pron": "sosteníbile", "ej": "Cerchiamo una soluzione sostenibile per l'ambiente.", "ejes": "Buscamos una solución sostenible para el medio ambiente.", "cog": true },
+        { "t": "la sostenibilità", "es": "la sostenibilidad", "pron": "la sostenibilitá", "ej": "La sostenibilità è una priorità per l'azienda.", "ejes": "La sostenibilidad es una prioridad para la empresa.", "cog": true },
+        { "t": "insostenibile", "es": "insostenible", "pron": "insosteníbile", "ej": "La situazione è diventata insostenibile per tutti.", "ejes": "La situación se volvió insostenible para todos.", "cog": true },
+        { "t": "il sostenitore", "es": "el partidario, el seguidor", "pron": "il sostenitóre", "ej": "Il sostenitore del progetto ha parlato per primo.", "ejes": "El partidario del proyecto habló primero.", "cog": false },
+        { "t": "il sostegno", "es": "el apoyo", "pron": "il sostéño", "ej": "Abbiamo ricevuto il sostegno di molti volontari.", "ejes": "Recibimos el apoyo de muchos voluntarios.", "cog": false },
+        { "t": "riorganizzare", "es": "reorganizar", "pron": "riorganidsáre", "ej": "Dobbiamo riorganizzare l'intero servizio clienti.", "ejes": "Debemos reorganizar todo el servicio al cliente.", "cog": true },
+        { "t": "disorganizzato", "es": "desorganizado", "pron": "disorganidsáto", "ej": "Il team era disorganizzato e senza una guida chiara.", "ejes": "El equipo estaba desorganizado y sin una guía clara.", "cog": true },
+        { "t": "la riorganizzazione", "es": "la reorganización", "pron": "la riorganidsatsióne", "ej": "La riorganizzazione ha richiesto sei mesi.", "ejes": "La reorganización requirió seis meses.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Un modello economico insostenibile non può durare a lungo.", "es": "Un modelo económico insostenible no puede durar mucho.", "pron": "un modéllo economico insostenibile non puó duráre a lúngo" },
+        { "t": "La sostenibilità ambientale è ormai un criterio decisivo.", "es": "La sostenibilidad ambiental es ya un criterio decisivo.", "pron": "la sostenibilitá ambientále e ormái un critério decisívo" },
+        { "t": "Il sostegno dei cittadini è stato fondamentale per il progetto.", "es": "El apoyo de los ciudadanos fue fundamental para el proyecto.", "pron": "il sostéño dei chittadíni e státo fondamentále per il progétto" },
+        { "t": "Dopo la riorganizzazione, il servizio è molto più efficiente.", "es": "Tras la reorganización, el servicio es mucho más eficiente.", "pron": "dópo la riorganidsatsióne il servísio e mólto piú efficiénte" },
+        { "t": "Il team disorganizzato ha sottovalutato i tempi di consegna.", "es": "El equipo desorganizado subestimó los plazos de entrega.", "pron": "il tim disorganidsáto a sottovalutáto i témpi di consénia" }
+      ],
+      "dialogo": {
+        "titulo": "Un'azienda in trasformazione",
+        "lineas": [
+          { "q": "A", "t": "La nostra gestione è diventata insostenibile: il team è disorganizzato e i costi sono fuori controllo.", "es": "Nuestra gestión se ha vuelto insostenible: el equipo está desorganizado y los costos están fuera de control." },
+          { "q": "B", "t": "Per questo propongo una riorganizzazione completa, con la sostenibilità come obiettivo centrale.", "es": "Por eso propongo una reorganización completa, con la sostenibilidad como objetivo central." },
+          { "q": "A", "t": "Non sarà facile: serve il sostegno della direzione e di tutti i sostenitori del cambiamento.", "es": "No será fácil: hace falta el apoyo de la dirección y de todos los partidarios del cambio." },
+          { "q": "B", "t": "Hai ragione, ma una soluzione sostenibile deve riorganizzare i processi, non solo le persone.", "es": "Tienes razón, pero una solución sostenible debe reorganizar los procesos, no solo a las personas." },
+          { "q": "A", "t": "Allora prepariamo un piano e lo presentiamo al consiglio entro la fine del mese.", "es": "Entonces preparemos un plan y lo presentamos al consejo antes de fin de mes." }
+        ]
+      },
+      "nota": "Cuando veas una palabra larguísima, no te asustes: descomponla de derecha a izquierda (sufijo), luego el prefijo y al final la raíz."
+    }
+  ]
+}

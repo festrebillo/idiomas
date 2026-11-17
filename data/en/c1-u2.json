@@ -1,0 +1,216 @@
+{
+  "id": "en-c1-u2",
+  "idioma": "en",
+  "nivel": "C1",
+  "n": 2,
+  "titulo": "Estructuras enfáticas",
+  "resumen": "Aprenderás a poner el foco en lo importante con oraciones hendidas: it is... that, what I need is..., the reason why... is that.",
+  "puedo": [
+    "Usar it is/was ... that para destacar una parte de la oración.",
+    "Construir oraciones con what (what I need is...) para enfatizar.",
+    "Explicar causas con the reason why... is that y the thing is...",
+    "Enfatizar acciones con all I did was... y the only thing...",
+    "Reconocer y producir estas estructuras en conversación y escritura."
+  ],
+  "gramatica": {
+    "titulo": "Oraciones hendidas (cleft sentences)",
+    "texto": "Una oración hendida divide una idea en dos partes para poner el foco en una. Es como decir en español «Lo que necesito es descansar» o «Fue Ana quien lo dijo».\nIt + be + elemento destacado + that/who: It was Ana who called. It is trust that matters most.\nWhat + sujeto + verbo + be + elemento: What I need is a break. What surprised me was her honesty.\nAll / The only thing / The reason why + be: All I want is peace. The reason why I left is that the pay was low.\nTruco: pregúntate qué quieres resaltar y ponlo después de is/was.",
+    "tabla": [
+      ["It was Ana who solved the problem.", "Fue Ana quien resolvió el problema.", "it uas ana ju solvd da próblem"],
+      ["It is trust that matters most.", "Es la confianza lo que más importa.", "it is trast dat máters moust"],
+      ["What I need is a long holiday.", "Lo que necesito son unas largas vacaciones.", "juat ai niid is a long jólidei"],
+      ["What surprised me was her honesty.", "Lo que me sorprendió fue su honestidad.", "juat sorpráisd mi uas jer ónesti"],
+      ["All I did was ask a question.", "Todo lo que hice fue hacer una pregunta.", "ol ai did uas ask a cuéschon"],
+      ["The reason why I quit is that the pay was low.", "La razón por la que renuncié es que el sueldo era bajo.", "da rízon juai ai cuit is dat da pei uas lou"]
+    ],
+    "errores": [
+      "No uses «It is me who am...»: con who la concordancia sigue al nombre: It was I who called (formal) o It was me who called (informal).",
+      "No olvides el verbo be en el centro: What I need is rest, no «What I need rest».",
+      "No traduzcas «es por eso que» como «it is for that that»: usa That is why o The reason is that."
+    ]
+  },
+  "practica": [
+    "Lee 2 columnas de opinión en inglés y subraya 6 oraciones hendidas; reescríbelas en orden normal (15 minutos).",
+    "Escribe 8 oraciones sobre tu semana con it was... that y what... was (12 minutos).",
+    "Mira una entrevista en YouTube y anota 5 frases con what... is/was (10 minutos).",
+    "Graba 1 minuto explicando por qué elegiste tu profesión, con the reason why y all I... (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-c1-u2-l1",
+      "n": 1,
+      "titulo": "It is... that / It was... who",
+      "objetivo": "Destacar a una persona, un lugar o una causa con it is/was... that/who.",
+      "intro": "Con it was... that puedes poner el foco en cualquier parte de la oración. Truco: quita el que sobra y la oración debe seguir siendo completa: It was last year that we met = We met last year.",
+      "palabras": [
+        { "t": "it was", "es": "fue", "pron": "it uas", "ej": "It was the lack of funding that ended the project.", "ejes": "Fue la falta de fondos lo que acabó con el proyecto.", "cog": false },
+        { "t": "who", "es": "quien", "pron": "ju", "ej": "It was the interns who found the error.", "ejes": "Fueron los pasantes quienes encontraron el error.", "cog": false },
+        { "t": "that", "es": "que (foco)", "pron": "dat", "ej": "It is persistence that separates good from great.", "ejes": "Es la persistencia lo que separa lo bueno de lo excelente.", "cog": false },
+        { "t": "culprit", "es": "culpable", "pron": "cálprit", "ej": "The real culprit was a faulty cable.", "ejes": "El verdadero culpable fue un cable defectuoso.", "cog": false },
+        { "t": "pinpoint", "es": "identificar con precisión", "pron": "pínpoint", "ej": "Engineers tried to pinpoint the source of the leak.", "ejes": "Los ingenieros intentaron identificar con precisión el origen de la fuga.", "cog": false },
+        { "t": "crucial", "es": "crucial", "pron": "crúshal", "ej": "Timing is crucial in negotiations.", "ejes": "El momento oportuno es crucial en las negociaciones.", "cog": true },
+        { "t": "credit", "es": "mérito, reconocimiento", "pron": "crédit", "ej": "She never takes credit for other people's work.", "ejes": "Ella nunca se atribuye el mérito del trabajo ajeno.", "cog": false },
+        { "t": "overlook", "es": "pasar por alto", "pron": "ouverlúc", "ej": "It is easy to overlook small details.", "ejes": "Es fácil pasar por alto los detalles pequeños.", "cog": false }
+      ],
+      "frases": [
+        { "t": "It was the interns who discovered the mistake.", "es": "Fueron los pasantes quienes descubrieron el error.", "pron": "it uas di íntorns ju discóverd da mistéic" },
+        { "t": "It is persistence that makes the difference.", "es": "Es la persistencia lo que marca la diferencia.", "pron": "it is persístens dat meiks da díferens" },
+        { "t": "It was in Cusco that I first tasted real ceviche.", "es": "Fue en Cusco donde probé por primera vez un ceviche de verdad.", "pron": "it uas in cúsco dat ai ferst teistid ríal sevíche" },
+        { "t": "It wasn't until midnight that we finished.", "es": "No fue sino hasta la medianoche que terminamos.", "pron": "it uásent antíl mídnait dat ui fínisht" },
+        { "t": "It was the delay that cost us the contract.", "es": "Fue el retraso lo que nos costó el contrato.", "pron": "it uas da diléi dat cost as da cóntract" }
+      ],
+      "dialogo": {
+        "titulo": "Buscando al culpable",
+        "lineas": [
+          { "q": "A", "t": "Do we know who the culprit is? It was Marco who sent the file, wasn't it?", "es": "¿Sabemos quién es el culpable? Fue Marco quien envió el archivo, ¿no?" },
+          { "q": "B", "t": "Not exactly. It was the system that corrupted it during the upload.", "es": "No exactamente. Fue el sistema el que lo corrompió durante la carga." },
+          { "q": "A", "t": "I see. It is easy to overlook technical failures when we look for someone to blame.", "es": "Ya veo. Es fácil pasar por alto las fallas técnicas cuando buscamos a quién culpar." },
+          { "q": "B", "t": "Right. It was Nadia who managed to pinpoint the problem, so she deserves the credit.", "es": "Cierto. Fue Nadia quien logró identificar el problema, así que se merece el mérito." },
+          { "q": "A", "t": "Agreed. Finding the cause quickly was crucial.", "es": "De acuerdo. Hallar la causa rápido fue crucial." }
+        ]
+      },
+      "nota": "Si el elemento destacado es una persona, puedes usar who o that; si es una cosa, lugar o tiempo, usa that."
+    },
+    {
+      "id": "en-c1-u2-l2",
+      "n": 2,
+      "titulo": "What I need is...",
+      "objetivo": "Enfatizar con oraciones que empiezan por what.",
+      "intro": "Empezar con what pone el foco en lo que viene después de is/was. Truco: es el equivalente del español «lo que... es...»; el verbo be actúa como un signo igual: What I want = a quiet weekend.",
+      "palabras": [
+        { "t": "what I need", "es": "lo que necesito", "pron": "juat ai niid", "ej": "What I need is a clear explanation, not excuses.", "ejes": "Lo que necesito es una explicación clara, no excusas.", "cog": false },
+        { "t": "what matters", "es": "lo que importa", "pron": "juat máters", "ej": "What matters is that we learn from the failure.", "ejes": "Lo que importa es que aprendamos del fracaso.", "cog": false },
+        { "t": "what struck me", "es": "lo que me llamó la atención", "pron": "juat struc mi", "ej": "What struck me was how calm she remained.", "ejes": "Lo que me llamó la atención fue lo tranquila que se mantuvo.", "cog": false },
+        { "t": "what annoys me", "es": "lo que me fastidia", "pron": "juat anóis mi", "ej": "What annoys me is the lack of transparency.", "ejes": "Lo que me fastidia es la falta de transparencia.", "cog": false },
+        { "t": "what we lack", "es": "lo que nos falta", "pron": "juat ui lac", "ej": "What we lack is not talent but direction.", "ejes": "Lo que nos falta no es talento sino rumbo.", "cog": false },
+        { "t": "foresight", "es": "previsión", "pron": "fórsait", "ej": "Good foresight could have prevented the crisis.", "ejes": "Una buena previsión habría evitado la crisis.", "cog": false },
+        { "t": "excuse", "es": "excusa", "pron": "iksquíus", "ej": "He always has an excuse for being late.", "ejes": "Siempre tiene una excusa para llegar tarde.", "cog": true },
+        { "t": "direction", "es": "rumbo, dirección", "pron": "dairécshon", "ej": "The company needs a new strategic direction.", "ejes": "La empresa necesita un nuevo rumbo estratégico.", "cog": true }
+      ],
+      "frases": [
+        { "t": "What I need is a clear explanation.", "es": "Lo que necesito es una explicación clara.", "pron": "juat ai niid is a clir eksplanéishon" },
+        { "t": "What struck me was how calm she remained.", "es": "Lo que me llamó la atención fue lo tranquila que se mantuvo.", "pron": "juat struc mi uas jau calm shi riméind" },
+        { "t": "What annoys me is the constant lack of transparency.", "es": "Lo que me fastidia es la constante falta de transparencia.", "pron": "juat anóis mi is da cónstant lac ov transpárensi" },
+        { "t": "What we lack is direction, not talent.", "es": "Lo que nos falta es rumbo, no talento.", "pron": "juat ui lac is dairécshon, not tálent" },
+        { "t": "What matters most is that we learn from this.", "es": "Lo que más importa es que aprendamos de esto.", "pron": "juat máters moust is dat ui lern from dis" }
+      ],
+      "dialogo": {
+        "titulo": "Reunión de estrategia",
+        "lineas": [
+          { "q": "A", "t": "What we lack is direction. The talent is there, but nobody knows where we're heading.", "es": "Lo que nos falta es rumbo. El talento está, pero nadie sabe hacia dónde vamos." },
+          { "q": "B", "t": "What annoys me is the endless excuses. Everyone blames someone else.", "es": "Lo que me fastidia son las excusas interminables. Todos culpan a otro." },
+          { "q": "A", "t": "What struck me in the last report was the absence of foresight.", "es": "Lo que me llamó la atención del último informe fue la ausencia de previsión." },
+          { "q": "B", "t": "Exactly. What I need is a clear plan with deadlines.", "es": "Exacto. Lo que necesito es un plan claro con plazos." },
+          { "q": "A", "t": "Fair. What matters now is that we agree on three priorities by Friday.", "es": "Justo. Lo que importa ahora es que acordemos tres prioridades para el viernes." }
+        ]
+      },
+      "nota": "Después de what-clause + is, puedes usar un sustantivo o un verbo con to: What I want is to rest. What I need is a break."
+    },
+    {
+      "id": "en-c1-u2-l3",
+      "n": 3,
+      "titulo": "The reason why y the thing is",
+      "objetivo": "Explicar causas y hacer observaciones con the reason why, the thing is y that's why.",
+      "intro": "Estas fórmulas ponen la causa en primer plano. Truco: después de the reason why... is viene that + oración, nunca because: The reason is that, no «The reason is because».",
+      "palabras": [
+        { "t": "the reason why", "es": "la razón por la que", "pron": "da rízon juai", "ej": "The reason why he left is that the pay was too low.", "ejes": "La razón por la que se fue es que el sueldo era muy bajo.", "cog": false },
+        { "t": "the thing is", "es": "el problema es que, lo que pasa es que", "pron": "da zin is", "ej": "The thing is, we simply don't have the budget.", "ejes": "Lo que pasa es que simplemente no tenemos el presupuesto.", "cog": false },
+        { "t": "that's why", "es": "por eso", "pron": "dats juai", "ej": "That's why I decided to resign.", "ejes": "Por eso decidí renunciar.", "cog": false },
+        { "t": "the point is", "es": "el punto es que", "pron": "da point is", "ej": "The point is that nobody was consulted.", "ejes": "El punto es que no se consultó a nadie.", "cog": false },
+        { "t": "the trouble is", "es": "el problema es que", "pron": "da trábol is", "ej": "The trouble is, nobody reads the manual.", "ejes": "El problema es que nadie lee el manual.", "cog": false },
+        { "t": "tedious", "es": "tedioso", "pron": "tídios", "ej": "The paperwork was long and tedious.", "ejes": "El papeleo fue largo y tedioso.", "cog": true },
+        { "t": "shortcoming", "es": "defecto, deficiencia", "pron": "shórtcamin", "ej": "The main shortcoming of the proposal is its cost.", "ejes": "La principal deficiencia de la propuesta es su costo.", "cog": false },
+        { "t": "overdue", "es": "atrasado, vencido", "pron": "ouverdiú", "ej": "The payment is three weeks overdue.", "ejes": "El pago lleva tres semanas de atraso.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The reason why I left is that the pay was too low.", "es": "La razón por la que me fui es que el sueldo era muy bajo.", "pron": "da rízon juai ai left is dat da pei uas tu lou" },
+        { "t": "The thing is, we don't have the budget.", "es": "Lo que pasa es que no tenemos el presupuesto.", "pron": "da zin is, ui dont jav da báyet" },
+        { "t": "That's why I think we should wait.", "es": "Por eso creo que deberíamos esperar.", "pron": "dats juai ai zinc ui shud ueit" },
+        { "t": "The point is that nobody was consulted.", "es": "El punto es que no se consultó a nadie.", "pron": "da point is dat nóubadi uas consáltid" },
+        { "t": "The trouble is, the payment is already overdue.", "es": "El problema es que el pago ya está atrasado.", "pron": "da trábol is, da péiment is olrédi ouverdiú" }
+      ],
+      "dialogo": {
+        "titulo": "Una renuncia",
+        "lineas": [
+          { "q": "A", "t": "I'd like to understand the reason why you decided to leave the company.", "es": "Me gustaría entender la razón por la que decidiste dejar la empresa." },
+          { "q": "B", "t": "The thing is, my role changed and the work became tedious.", "es": "Lo que pasa es que mi puesto cambió y el trabajo se volvió tedioso." },
+          { "q": "A", "t": "The trouble is, we never realized it. That's why we should have listened earlier.", "es": "El problema es que nunca nos dimos cuenta. Por eso debimos escuchar antes." },
+          { "q": "B", "t": "The point is that I raised it twice, and nothing changed.", "es": "El punto es que lo planteé dos veces y nada cambió." },
+          { "q": "A", "t": "That's a fair shortcoming on our part. Thank you for your honesty.", "es": "Es una deficiencia justa de nuestra parte. Gracias por tu honestidad." }
+        ]
+      },
+      "nota": "Es muy común decir The reason is that + oración. Evita «The reason is because»; los hablantes nativos lo usan, pero en escritura formal se considera redundante."
+    },
+    {
+      "id": "en-c1-u2-l4",
+      "n": 4,
+      "titulo": "All I did was y the only thing",
+      "objetivo": "Minimizar o enfatizar acciones con all I did was, the only thing y what happened was.",
+      "intro": "Con all o the only thing destacas lo poco o lo único que algo es. Truco: tras all I did was y what I did was el verbo suele ir sin to o en infinitivo: All I did was ask.",
+      "palabras": [
+        { "t": "all I did was", "es": "lo único que hice fue", "pron": "ol ai did uas", "ej": "All I did was ask a simple question.", "ejes": "Lo único que hice fue una pregunta sencilla.", "cog": false },
+        { "t": "the only thing", "es": "lo único que", "pron": "di óunli zin", "ej": "The only thing I ask is a bit of patience.", "ejes": "Lo único que pido es un poco de paciencia.", "cog": false },
+        { "t": "what happened was", "es": "lo que pasó fue", "pron": "juat jápend uas", "ej": "What happened was that the server crashed.", "ejes": "Lo que pasó fue que el servidor se cayó.", "cog": false },
+        { "t": "all it takes", "es": "todo lo que hace falta", "pron": "ol it teiks", "ej": "All it takes is one honest conversation.", "ejes": "Todo lo que hace falta es una conversación honesta.", "cog": false },
+        { "t": "merely", "es": "simplemente", "pron": "mírli", "ej": "I was merely trying to help.", "ejes": "Simplemente trataba de ayudar.", "cog": false },
+        { "t": "downplay", "es": "restar importancia", "pron": "daunplei", "ej": "He tends to downplay his achievements.", "ejes": "Tiende a restar importancia a sus logros.", "cog": false },
+        { "t": "blown out of proportion", "es": "exagerado", "pron": "blóun aut ov propórshon", "ej": "The incident was blown out of proportion by the press.", "ejes": "La prensa exageró el incidente.", "cog": false },
+        { "t": "innocuous", "es": "inofensivo", "pron": "inócuius", "ej": "It was an innocuous remark, nothing more.", "ejes": "Fue un comentario inofensivo, nada más.", "cog": true }
+      ],
+      "frases": [
+        { "t": "All I did was ask a simple question.", "es": "Lo único que hice fue una pregunta sencilla.", "pron": "ol ai did uas ask a símpol cuéschon" },
+        { "t": "The only thing I ask is a bit of patience.", "es": "Lo único que pido es un poco de paciencia.", "pron": "di óunli zin ai ask is a bit ov péishens" },
+        { "t": "What happened was that the server crashed.", "es": "Lo que pasó fue que el servidor se cayó.", "pron": "juat jápend uas dat da sérver crasht" },
+        { "t": "All it takes is one honest conversation.", "es": "Todo lo que hace falta es una conversación honesta.", "pron": "ol it teiks is uan ónest conversséishon" },
+        { "t": "The incident was blown out of proportion.", "es": "El incidente fue exagerado.", "pron": "di ínsident uas blóun aut ov propórshon" }
+      ],
+      "dialogo": {
+        "titulo": "Malentendido en la oficina",
+        "lineas": [
+          { "q": "A", "t": "I heard you upset the client. What happened was a misunderstanding, wasn't it?", "es": "Me dijeron que molestaste al cliente. Lo que pasó fue un malentendido, ¿no?" },
+          { "q": "B", "t": "Yes. All I did was ask about the invoice. It was an innocuous question.", "es": "Sí. Lo único que hice fue preguntar por la factura. Fue una pregunta inofensiva." },
+          { "q": "A", "t": "I think it was blown out of proportion. The only thing they want is an apology.", "es": "Creo que se exageró. Lo único que quieren es una disculpa." },
+          { "q": "B", "t": "I don't want to downplay it. I was merely trying to be efficient.", "es": "No quiero restarle importancia. Simplemente trataba de ser eficiente." },
+          { "q": "A", "t": "All it takes is a short call. I'll set it up for you.", "es": "Todo lo que hace falta es una llamada corta. Yo te la organizo." }
+        ]
+      },
+      "nota": "All I did was + infinitivo sin to es muy natural: All I did was call. Con to también se acepta: All I wanted was to help."
+    },
+    {
+      "id": "en-c1-u2-l5",
+      "n": 5,
+      "titulo": "Repaso: poner el foco",
+      "objetivo": "Combinar it is... that, what... is y the reason why en un mismo discurso.",
+      "intro": "Mezcla las tres familias: It was..., What..., The reason.... Truco: varía; si repites siempre la misma estructura, el énfasis pierde su efecto.",
+      "palabras": [
+        { "t": "pivotal", "es": "fundamental, decisivo", "pron": "pívotal", "ej": "Her speech played a pivotal role in the vote.", "ejes": "Su discurso tuvo un papel decisivo en la votación.", "cog": false },
+        { "t": "underlying", "es": "subyacente", "pron": "anderlaiin", "ej": "We must address the underlying cause of the problem.", "ejes": "Debemos abordar la causa subyacente del problema.", "cog": false },
+        { "t": "outcome", "es": "resultado", "pron": "áutcam", "ej": "The outcome surprised even the experts.", "ejes": "El resultado sorprendió incluso a los expertos.", "cog": false },
+        { "t": "stand out", "es": "destacar", "pron": "stand aut", "ej": "Her work will stand out among the applications.", "ejes": "Su trabajo destacará entre las solicitudes.", "cog": false },
+        { "t": "emphasize", "es": "enfatizar", "pron": "émfasaiz", "ej": "I want to emphasize how important this is.", "ejes": "Quiero enfatizar lo importante que es esto.", "cog": true },
+        { "t": "deciding factor", "es": "factor decisivo", "pron": "disáidin fáctor", "ej": "Price was the deciding factor for the board.", "ejes": "El precio fue el factor decisivo para la junta.", "cog": false },
+        { "t": "stem from", "es": "derivar de, provenir de", "pron": "stem from", "ej": "Most conflicts stem from poor communication.", "ejes": "La mayoría de los conflictos provienen de una mala comunicación.", "cog": false },
+        { "t": "overshadow", "es": "eclipsar, opacar", "pron": "ouvershádou", "ej": "One mistake should not overshadow years of success.", "ejes": "Un error no debería opacar años de éxito.", "cog": false }
+      ],
+      "frases": [
+        { "t": "It was her speech that played a pivotal role.", "es": "Fue su discurso el que tuvo un papel decisivo.", "pron": "it uas jer spich dat pleid a pívotal roul" },
+        { "t": "What we must address is the underlying cause.", "es": "Lo que debemos abordar es la causa subyacente.", "pron": "juat ui mast adrés is di anderlaiin cos" },
+        { "t": "The reason why the deal collapsed is that trust had gone.", "es": "La razón por la que se cayó el trato es que se había perdido la confianza.", "pron": "da rízon juai da dil colápst is dat trast jad gon" },
+        { "t": "All I want to emphasize is how pivotal this moment is.", "es": "Lo único que quiero enfatizar es lo decisivo que es este momento.", "pron": "ol ai uont tu émfasaiz is jau pívotal dis móument is" },
+        { "t": "It is rarely the outcome that stays with us, but the process.", "es": "Rara vez es el resultado lo que nos queda, sino el proceso.", "pron": "it is rérli di áutcam dat steis uid as, bat da próses" }
+      ],
+      "dialogo": {
+        "titulo": "Análisis de un fracaso",
+        "lineas": [
+          { "q": "A", "t": "What surprised me about the outcome was how quickly it happened.", "es": "Lo que me sorprendió del resultado fue lo rápido que ocurrió." },
+          { "q": "B", "t": "It was the underlying tension that mattered. Most conflicts stem from poor communication.", "es": "Fue la tensión subyacente lo que importó. La mayoría de los conflictos provienen de mala comunicación." },
+          { "q": "A", "t": "The reason why the project stalled is that nobody owned it.", "es": "La razón por la que el proyecto se estancó es que nadie se hizo cargo." },
+          { "q": "B", "t": "All I want to emphasize is that one failure shouldn't overshadow our progress.", "es": "Lo único que quiero enfatizar es que un fracaso no debería opacar nuestro avance." },
+          { "q": "A", "t": "Agreed. What will make us stand out is how we respond.", "es": "De acuerdo. Lo que nos hará destacar es cómo respondamos." },
+          { "q": "B", "t": "Then let's make that the deciding factor in our next review.", "es": "Entonces hagamos de eso el factor decisivo en nuestra próxima evaluación." }
+        ]
+      },
+      "nota": "Las oraciones hendidas son muy útiles para corregir: No, it was Tuesday that we met, not Wednesday."
+    }
+  ]
+}

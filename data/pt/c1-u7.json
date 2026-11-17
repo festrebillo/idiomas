@@ -1,0 +1,751 @@
+{
+  "id": "pt-c1-u7",
+  "idioma": "pt",
+  "nivel": "C1",
+  "n": 7,
+  "titulo": "Informes y propuestas",
+  "resumen": "Aprenderás el lenguaje de los informes y las propuestas: estructura, fórmulas de recomendación («recomenda-se que + subjuntivo») y el formato profesional de los documentos.",
+  "puedo": [
+    "Estructurar un informe: resumen ejecutivo, diagnóstico, conclusiones y anexos.",
+    "Redactar recomendaciones: «Recomenda-se que a empresa adote...».",
+    "Presentar una propuesta: objetivo, justificativa, plazo, presupuesto y riesgos.",
+    "Citar tablas, gráficos y anexos con precisión.",
+    "Cerrar un documento con fórmulas profesionales: «diante do exposto», «fico à disposição»."
+  ],
+  "gramatica": {
+    "titulo": "Recomendar con «se»: recomenda-se que + subjuntivo",
+    "texto": "En informes y propuestas las recomendaciones suelen ser impersonales: no dices «yo recomiendo», sino Recomenda-se que... (se recomienda que...). Después de «que» se usa el subjuntivo: Recomenda-se que a empresa adote novas medidas.\nOtras fórmulas: Sugere-se rever o orçamento (+ infinitivo), É necessário que haja mais controle (+ subjuntivo), Convém evitar atrasos (+ infinitivo), Espera-se que os resultados melhorem.\nCon sustantivos plurales, el verbo del «se» concuerda: Propõe-se a criação de um comitê, pero Propõem-se três medidas.\nTruco: «verbo + se» + infinitivo o «que + subjuntivo» es la pareja natural de la recomendación formal.",
+    "tabla": [
+      [
+        "Recomenda-se que a empresa adote novas medidas.",
+        "Se recomienda que la empresa adopte nuevas medidas.",
+        "rekomenda-si ki a empréza adóti nóvas medídas"
+      ],
+      [
+        "Sugere-se rever o orçamento.",
+        "Se sugiere revisar el presupuesto.",
+        "suyéri-si rrevér u orsaméntu"
+      ],
+      [
+        "É necessário que haja mais controle.",
+        "Es necesario que haya más control.",
+        "é nesesáriu ki áya máis kontrólu"
+      ],
+      [
+        "Convém evitar atrasos.",
+        "Conviene evitar retrasos.",
+        "konvéin evitár atrázus"
+      ],
+      [
+        "Propõe-se a criação de um comitê.",
+        "Se propone la creación de un comité.",
+        "propóyi-si a kriasáun dyi un komité"
+      ],
+      [
+        "Propõem-se três medidas.",
+        "Se proponen tres medidas.",
+        "propóiem-si trés medídas"
+      ]
+    ],
+    "errores": [
+      "No uses indicativo tras «recomenda-se que»: es «adote» (subjuntivo), no «adota».",
+      "No dejes el verbo en singular con sustantivo plural: «Propõem-se três medidas», no «Propõe-se três medidas».",
+      "No escribas «informe» (palabra poco usada en portugués) para el documento: usa «relatório». «Informe» existe, pero significa comunicado o aviso."
+    ]
+  },
+  "practica": [
+    "Lee un relatório anual de una empresa brasileña (en su web de relaciones con inversores) y subraya 8 recomendaciones o conclusiones (12 minutos).",
+    "Escribe un resumen ejecutivo de 6 líneas sobre un tema de tu trabajo con 3 recomendaciones impersonales (10 minutos).",
+    "Escribe una propuesta de una página con objetivo, plazo y presupuesto; revisa el uso del subjuntivo (12 minutos).",
+    "Escucha un podcast de negocios y anota 5 fórmulas de cierre profesionales (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-c1-u7-l1",
+      "n": 1,
+      "titulo": "Lenguaje de informe",
+      "objetivo": "Reconocer las partes de un informe y su vocabulario básico.",
+      "intro": "Un informe bien organizado se lee rápido. Truco: «resumo executivo» abre el documento, «diagnóstico» describe el problema y «balanço» resume el periodo.",
+      "palabras": [
+        {
+          "t": "relatório",
+          "es": "informe",
+          "pron": "rrelatóriu",
+          "ej": "O relatório será entregue na segunda.",
+          "ejes": "El informe será entregado el lunes.",
+          "cog": false
+        },
+        {
+          "t": "resumo executivo",
+          "es": "resumen ejecutivo",
+          "pron": "rezúmu ezekutívu",
+          "ej": "O resumo executivo vem na primeira página.",
+          "ejes": "El resumen ejecutivo va en la primera página.",
+          "cog": false
+        },
+        {
+          "t": "diagnóstico",
+          "es": "diagnóstico",
+          "pron": "dyiagnóstiku",
+          "ej": "O diagnóstico revela falhas de controle.",
+          "ejes": "El diagnóstico revela fallas de control.",
+          "cog": true
+        },
+        {
+          "t": "panorama",
+          "es": "panorama",
+          "pron": "panoráma",
+          "ej": "O panorama atual é preocupante.",
+          "ejes": "El panorama actual es preocupante.",
+          "cog": true
+        },
+        {
+          "t": "levantamento",
+          "es": "relevamiento / estudio",
+          "pron": "levantaméntu",
+          "ej": "O levantamento mostra queda nas vendas.",
+          "ejes": "El estudio muestra caída en las ventas.",
+          "cog": false
+        },
+        {
+          "t": "balanço",
+          "es": "balance",
+          "pron": "baláns",
+          "ej": "O balanço do ano foi positivo.",
+          "ejes": "El balance del año fue positivo.",
+          "cog": true
+        },
+        {
+          "t": "achados",
+          "es": "hallazgos",
+          "pron": "ashádus",
+          "ej": "Os achados da pesquisa surpreendem.",
+          "ejes": "Los hallazgos de la investigación sorprenden.",
+          "cog": false
+        },
+        {
+          "t": "escopo",
+          "es": "alcance",
+          "pron": "eskópu",
+          "ej": "O escopo do projeto foi ampliado.",
+          "ejes": "El alcance del proyecto fue ampliado.",
+          "cog": true
+        },
+        {
+          "t": "cronograma",
+          "es": "cronograma",
+          "pron": "kronográma",
+          "ej": "O cronograma prevê seis etapas.",
+          "ejes": "El cronograma prevé seis etapas.",
+          "cog": true
+        }
+      ],
+      "frases": [
+        {
+          "t": "O relatório traz um diagnóstico claro da situação.",
+          "es": "El informe trae un diagnóstico claro de la situación.",
+          "pron": "u rrelatóriu trái un dyiagnóstiku kláru da situasáun"
+        },
+        {
+          "t": "O resumo executivo apresenta os principais achados.",
+          "es": "El resumen ejecutivo presenta los principales hallazgos.",
+          "pron": "u rezúmu ezekutívu apresénta us prinsipáis ashádus"
+        },
+        {
+          "t": "O escopo do trabalho está definido no cronograma.",
+          "es": "El alcance del trabajo está definido en el cronograma.",
+          "pron": "u eskópu du trabáliu está definídu nu kronográma"
+        },
+        {
+          "t": "Segundo o levantamento, as vendas caíram dez por cento.",
+          "es": "Según el relevamiento, las ventas cayeron diez por ciento.",
+          "pron": "segúndu u levantaméntu, as véndas kaíram dyés por séntu"
+        },
+        {
+          "t": "O balanço do semestre foi positivo.",
+          "es": "El balance del semestre fue positivo.",
+          "pron": "u baláns du semestri fói pozitívu"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Preparando o relatório",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Já terminou o relatório do trimestre?",
+            "es": "¿Ya terminaste el informe del trimestre?"
+          },
+          {
+            "q": "B",
+            "t": "Quase. O resumo executivo está pronto, falta o diagnóstico.",
+            "es": "Casi. El resumen ejecutivo está listo, falta el diagnóstico."
+          },
+          {
+            "q": "A",
+            "t": "E o levantamento das vendas, já está incluído no panorama?",
+            "es": "¿Y el estudio de ventas, ya está incluido en el panorama?"
+          },
+          {
+            "q": "B",
+            "t": "Está. Os achados mostram que o balanço do semestre é positivo.",
+            "es": "Sí. Los hallazgos muestran que el balance del semestre es positivo."
+          },
+          {
+            "q": "A",
+            "t": "Ótimo. Confirme também o escopo e o cronograma antes de enviar.",
+            "es": "Excelente. Confirma también el alcance y el cronograma antes de enviar."
+          }
+        ]
+      },
+      "nota": "En un informe formal, el «resumo executivo» se escribe al final pero se coloca al principio: el lector ocupado solo lo lee a él. Cuida que sea breve, claro y con la conclusión principal."
+    },
+    {
+      "id": "pt-c1-u7-l2",
+      "n": 2,
+      "titulo": "Recomendar con tacto",
+      "objetivo": "Formular recomendaciones formales con vocabulario preciso.",
+      "intro": "Recomendar es parte del informe. Truco: «recomendável» y «aconselhável» son adjetivos formales; «convir» solo se usa en tercera persona: «convém».",
+      "palabras": [
+        {
+          "t": "recomendar",
+          "es": "recomendar",
+          "pron": "rrekomendár",
+          "ej": "Vamos recomendar a revisão do contrato.",
+          "ejes": "Vamos a recomendar la revisión del contrato.",
+          "cog": true
+        },
+        {
+          "t": "propor",
+          "es": "proponer",
+          "pron": "propór",
+          "ej": "Gostaria de propor uma nova abordagem.",
+          "ejes": "Quisiera proponer un nuevo enfoque.",
+          "cog": true
+        },
+        {
+          "t": "aconselhar",
+          "es": "aconsejar",
+          "pron": "akonselyár",
+          "ej": "Posso aconselhar a equipe a esperar.",
+          "ejes": "Puedo aconsejar al equipo esperar.",
+          "cog": false
+        },
+        {
+          "t": "convir",
+          "es": "convenir",
+          "pron": "konvír",
+          "ej": "Pode convir a todos rever o orçamento.",
+          "ejes": "Puede convenir a todos revisar el presupuesto.",
+          "cog": true
+        },
+        {
+          "t": "recomendável",
+          "es": "recomendable",
+          "pron": "rrekomendávew",
+          "ej": "É recomendável adiar a decisão.",
+          "ejes": "Es recomendable posponer la decisión.",
+          "cog": true
+        },
+        {
+          "t": "aconselhável",
+          "es": "aconsejable",
+          "pron": "akonselyávew",
+          "ej": "Seria aconselhável ouvir os clientes.",
+          "ejes": "Sería aconsejable escuchar a los clientes.",
+          "cog": false
+        },
+        {
+          "t": "prioritário",
+          "es": "prioritario",
+          "pron": "prioritáriu",
+          "ej": "O tema é prioritário para a diretoria.",
+          "ejes": "El tema es prioritario para la dirección.",
+          "cog": true
+        },
+        {
+          "t": "viável",
+          "es": "viable",
+          "pron": "viávew",
+          "ej": "A proposta parece viável.",
+          "ejes": "La propuesta parece viable.",
+          "cog": true
+        },
+        {
+          "t": "factível",
+          "es": "factible",
+          "pron": "fatívew",
+          "ej": "O prazo é factível.",
+          "ejes": "El plazo es factible.",
+          "cog": true
+        }
+      ],
+      "frases": [
+        {
+          "t": "Recomenda-se que a diretoria adote novos critérios.",
+          "es": "Se recomienda que la dirección adopte nuevos criterios.",
+          "pron": "rrekomenda-si ki a dyiretória adóti nóvus kritériuz"
+        },
+        {
+          "t": "É aconselhável ouvir os clientes antes de decidir.",
+          "es": "Es aconsejable escuchar a los clientes antes de decidir.",
+          "pron": "é akonselyávew ouvír us klyéntyis ántyis dyi dyisidír"
+        },
+        {
+          "t": "Sugere-se que o prazo seja ampliado em duas semanas.",
+          "es": "Se sugiere que el plazo se amplíe en dos semanas.",
+          "pron": "suyéri-si ki u prázu séya ampliádu ein dóis semánas"
+        },
+        {
+          "t": "A proposta parece viável e factível.",
+          "es": "La propuesta parece viable y factible.",
+          "pron": "a propósta paréci viávew i fatívew"
+        },
+        {
+          "t": "Convém registrar todas as decisões por escrito.",
+          "es": "Conviene registrar todas las decisiones por escrito.",
+          "pron": "konvéin rregistrár tódas as dyisisóins por eskrítu"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Reunião de revisão",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "O que o senhor recomenda para o próximo trimestre?",
+            "es": "¿Qué recomienda usted para el próximo trimestre?"
+          },
+          {
+            "q": "B",
+            "t": "Recomenda-se que a diretoria adote critérios mais claros de avaliação.",
+            "es": "Se recomienda que la dirección adopte criterios más claros de evaluación."
+          },
+          {
+            "q": "A",
+            "t": "E quanto ao prazo? Seria viável concluir tudo em março?",
+            "es": "¿Y respecto al plazo? ¿Sería viable concluir todo en marzo?"
+          },
+          {
+            "q": "B",
+            "t": "Acho factível, mas seria aconselhável ampliar o prazo em duas semanas.",
+            "es": "Creo que es factible, pero sería aconsejable ampliar el plazo en dos semanas."
+          },
+          {
+            "q": "A",
+            "t": "Perfeito. Vou propor essa ampliação na próxima reunião.",
+            "es": "Perfecto. Voy a proponer esa ampliación en la próxima reunión."
+          }
+        ]
+      },
+      "nota": "En recomendaciones formales se prefiere el condicional («seria aconselhável») para sonar cortés, y el subjuntivo tras «que». Evita órdenes directas («faça isto») en un informe."
+    },
+    {
+      "id": "pt-c1-u7-l3",
+      "n": 3,
+      "titulo": "Formato y organización",
+      "objetivo": "Citar partes y elementos del documento con precisión.",
+      "intro": "Un informe se navega por sus partes. Truco: «anexo» es material adicional al final; «apêndice» lo elabora el propio autor; «legenda» explica un gráfico.",
+      "palabras": [
+        {
+          "t": "sumário",
+          "es": "índice",
+          "pron": "sumáriu",
+          "ej": "O sumário aparece na segunda página.",
+          "ejes": "El índice aparece en la segunda página.",
+          "cog": false
+        },
+        {
+          "t": "anexo",
+          "es": "anexo",
+          "pron": "anéksu",
+          "ej": "O anexo traz a planilha completa.",
+          "ejes": "El anexo trae la planilla completa.",
+          "cog": true
+        },
+        {
+          "t": "apêndice",
+          "es": "apéndice",
+          "pron": "apéndisi",
+          "ej": "O apêndice contém os questionários.",
+          "ejes": "El apéndice contiene los cuestionarios.",
+          "cog": true
+        },
+        {
+          "t": "tabela",
+          "es": "tabla",
+          "pron": "tabéla",
+          "ej": "A tabela resume os custos.",
+          "ejes": "La tabla resume los costos.",
+          "cog": false
+        },
+        {
+          "t": "gráfico",
+          "es": "gráfico",
+          "pron": "gráfiku",
+          "ej": "O gráfico mostra a evolução mensal.",
+          "ejes": "El gráfico muestra la evolución mensual.",
+          "cog": true
+        },
+        {
+          "t": "legenda",
+          "es": "leyenda",
+          "pron": "leyénda",
+          "ej": "A legenda explica as cores do gráfico.",
+          "ejes": "La leyenda explica los colores del gráfico.",
+          "cog": true
+        },
+        {
+          "t": "seção",
+          "es": "sección",
+          "pron": "seksáun",
+          "ej": "Cada seção tem um título claro.",
+          "ejes": "Cada sección tiene un título claro.",
+          "cog": true
+        },
+        {
+          "t": "tópico",
+          "es": "tema / punto",
+          "pron": "tópiku",
+          "ej": "Cada tópico foi resumido em uma linha.",
+          "ejes": "Cada punto fue resumido en una línea.",
+          "cog": true
+        },
+        {
+          "t": "fonte",
+          "es": "fuente",
+          "pron": "fóntyi",
+          "ej": "Toda tabela deve indicar a fonte.",
+          "ejes": "Toda tabla debe indicar la fuente.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Veja o gráfico na página cinco, com legenda.",
+          "es": "Vea el gráfico en la página cinco, con leyenda.",
+          "pron": "véya u gráfiku na páyina sínku, kon leyénda"
+        },
+        {
+          "t": "Toda tabela deve indicar a fonte dos dados.",
+          "es": "Toda tabla debe indicar la fuente de los datos.",
+          "pron": "tóda tabéla déve indikár a fóntyi dus dádus"
+        },
+        {
+          "t": "Os questionários estão no apêndice A.",
+          "es": "Los cuestionarios están en el apéndice A.",
+          "pron": "us kestyonáriuz estáun nu apéndisi á"
+        },
+        {
+          "t": "O sumário lista todas as seções do relatório.",
+          "es": "El índice enumera todas las secciones del informe.",
+          "pron": "u sumáriu lísta tódas as seksóins du rrelatóriu"
+        },
+        {
+          "t": "Cada tópico foi resumido em uma linha.",
+          "es": "Cada punto fue resumido en una línea.",
+          "pron": "káda tópiku fói rezumídu ein úma línia"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Revisão de formato",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "O sumário já está atualizado com todas as seções?",
+            "es": "¿El índice ya está actualizado con todas las secciones?"
+          },
+          {
+            "q": "B",
+            "t": "Sim. Coloquei o gráfico principal na seção três, com legenda e fonte.",
+            "es": "Sí. Puse el gráfico principal en la sección tres, con leyenda y fuente."
+          },
+          {
+            "q": "A",
+            "t": "E a planilha completa? Pode ir como anexo.",
+            "es": "¿Y la planilla completa? Puede ir como anexo."
+          },
+          {
+            "q": "B",
+            "t": "Já está. Os questionários vão no apêndice, para não pesar no corpo do texto.",
+            "es": "Ya está. Los cuestionarios van en el apéndice, para no cargar el cuerpo del texto."
+          },
+          {
+            "q": "A",
+            "t": "Ótimo. Revise cada tópico para que caiba em uma linha.",
+            "es": "Excelente. Revisa cada punto para que quepa en una línea."
+          }
+        ]
+      },
+      "nota": "En el Brasil formal, un documento sigue normas (ABNT) para citas, tablas y referencias; si trabajas con universidades o el sector público, conviene conocerlas."
+    },
+    {
+      "id": "pt-c1-u7-l4",
+      "n": 4,
+      "titulo": "Propuesta de proyecto",
+      "objetivo": "Presentar una propuesta con objetivo, plazo, presupuesto y riesgos.",
+      "intro": "Una propuesta convence con números y plazos. Truco: «orçamento estimado», «prazo de execução» y «retorno sobre o investimento» son las tres claves.",
+      "palabras": [
+        {
+          "t": "viabilidade",
+          "es": "viabilidad",
+          "pron": "viabilidádyi",
+          "ej": "A viabilidade do projeto foi comprovada.",
+          "ejes": "La viabilidad del proyecto fue comprobada.",
+          "cog": true
+        },
+        {
+          "t": "orçamento estimado",
+          "es": "presupuesto estimado",
+          "pron": "orsaméntu estimádu",
+          "ej": "O orçamento estimado é de cem mil reais.",
+          "ejes": "El presupuesto estimado es de cien mil reales.",
+          "cog": false
+        },
+        {
+          "t": "retorno sobre o investimento",
+          "es": "retorno de la inversión",
+          "pron": "retórnu sóbri u investiméntu",
+          "ej": "O retorno sobre o investimento é de dois anos.",
+          "ejes": "El retorno de la inversión es de dos años.",
+          "cog": false
+        },
+        {
+          "t": "prazo de execução",
+          "es": "plazo de ejecución",
+          "pron": "prázu dyi ezekusáun",
+          "ej": "O prazo de execução é de seis meses.",
+          "ejes": "El plazo de ejecución es de seis meses.",
+          "cog": false
+        },
+        {
+          "t": "etapa",
+          "es": "etapa",
+          "pron": "etápa",
+          "ej": "A primeira etapa começa em março.",
+          "ejes": "La primera etapa comienza en marzo.",
+          "cog": true
+        },
+        {
+          "t": "entregável",
+          "es": "entregable",
+          "pron": "entregávew",
+          "ej": "Cada entregável tem data definida.",
+          "ejes": "Cada entregable tiene fecha definida.",
+          "cog": false
+        },
+        {
+          "t": "benefício",
+          "es": "beneficio",
+          "pron": "benefísiu",
+          "ej": "O principal benefício é a economia.",
+          "ejes": "El principal beneficio es el ahorro.",
+          "cog": true
+        },
+        {
+          "t": "risco",
+          "es": "riesgo",
+          "pron": "rrísku",
+          "ej": "O maior risco é o atraso do fornecedor.",
+          "ejes": "El mayor riesgo es el retraso del proveedor.",
+          "cog": true
+        },
+        {
+          "t": "contrapartida",
+          "es": "contrapartida",
+          "pron": "kontrapartída",
+          "ej": "A empresa oferece contrapartida social.",
+          "ejes": "La empresa ofrece una contrapartida social.",
+          "cog": true
+        }
+      ],
+      "frases": [
+        {
+          "t": "O orçamento estimado cobre todas as etapas.",
+          "es": "El presupuesto estimado cubre todas las etapas.",
+          "pron": "u orsaméntu estimádu kóbri tódas as etápas"
+        },
+        {
+          "t": "O prazo de execução é de seis meses.",
+          "es": "El plazo de ejecución es de seis meses.",
+          "pron": "u prázu dyi ezekusáun é dyi séis mézis"
+        },
+        {
+          "t": "O retorno sobre o investimento ocorre em dois anos.",
+          "es": "El retorno de la inversión ocurre en dos años.",
+          "pron": "u retórnu sóbri u investiméntu okórri ein dóis ánus"
+        },
+        {
+          "t": "A viabilidade técnica foi confirmada por especialistas.",
+          "es": "La viabilidad técnica fue confirmada por especialistas.",
+          "pron": "a viabilidádyi téknika fói konfirmáda por espesialístas"
+        },
+        {
+          "t": "O maior risco é o atraso do fornecedor.",
+          "es": "El mayor riesgo es el retraso del proveedor.",
+          "pron": "u maiór rrísku é u atrázu du fornesedór"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Apresentando a proposta",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Na minha proposta, o orçamento estimado é de cem mil reais.",
+            "es": "En mi propuesta, el presupuesto estimado es de cien mil reales."
+          },
+          {
+            "q": "B",
+            "t": "E qual é o prazo de execução? Precisamos de resultados ainda este ano.",
+            "es": "¿Y cuál es el plazo de ejecución? Necesitamos resultados todavía este año."
+          },
+          {
+            "q": "A",
+            "t": "Seis meses, divididos em três etapas, cada uma com um entregável definido.",
+            "es": "Seis meses, divididos en tres etapas, cada una con un entregable definido."
+          },
+          {
+            "q": "B",
+            "t": "E o retorno sobre o investimento? Quais são os riscos?",
+            "es": "¿Y el retorno de la inversión? ¿Cuáles son los riesgos?"
+          },
+          {
+            "q": "A",
+            "t": "O retorno ocorre em dois anos. O maior risco é o atraso do fornecedor, e já preparamos uma contrapartida.",
+            "es": "El retorno ocurre en dos años. El mayor riesgo es el retraso del proveedor, y ya preparamos una contrapartida."
+          }
+        ]
+      },
+      "nota": "Los números de la propuesta deben ser realistas y justificados; «estimado» recuerda que no son definitivos. En Brasil se habla de «reais» y se escribe R$ 100.000,00."
+    },
+    {
+      "id": "pt-c1-u7-l5",
+      "n": 5,
+      "titulo": "Repaso: fórmulas de cierre",
+      "objetivo": "Cerrar un informe o una propuesta con fórmulas profesionales.",
+      "intro": "Las fórmulas de cierre dan un aire profesional. Truco: «diante do exposto» resume; «fico à disposição» ofrece ayuda; «no aguardo de» espera una respuesta.",
+      "palabras": [
+        {
+          "t": "diante do exposto",
+          "es": "por lo expuesto",
+          "pron": "dyiántyi du espóstu",
+          "ej": "Diante do exposto, recomendo a aprovação.",
+          "ejes": "Por lo expuesto, recomiendo la aprobación.",
+          "cog": false
+        },
+        {
+          "t": "conforme solicitado",
+          "es": "según lo solicitado",
+          "pron": "konfórmi solisitádu",
+          "ej": "Conforme solicitado, envio o relatório.",
+          "ejes": "Según lo solicitado, envío el informe.",
+          "cog": false
+        },
+        {
+          "t": "em atenção a",
+          "es": "en atención a",
+          "pron": "ein atensáun a",
+          "ej": "Em atenção a seu pedido, preparei um resumo.",
+          "ejes": "En atención a su pedido, preparé un resumen.",
+          "cog": false
+        },
+        {
+          "t": "segue em anexo",
+          "es": "se adjunta",
+          "pron": "ségi ein anéksu",
+          "ej": "Segue em anexo o cronograma completo.",
+          "ejes": "Se adjunta el cronograma completo.",
+          "cog": false
+        },
+        {
+          "t": "fico à disposição",
+          "es": "quedo a su disposición",
+          "pron": "fíku a dyispozisáun",
+          "ej": "Fico à disposição para esclarecimentos.",
+          "ejes": "Quedo a su disposición para aclaraciones.",
+          "cog": false
+        },
+        {
+          "t": "no aguardo de",
+          "es": "a la espera de",
+          "pron": "nu agwárdu dyi",
+          "ej": "No aguardo de uma resposta, agradeço.",
+          "ejes": "A la espera de una respuesta, agradezco.",
+          "cog": false
+        },
+        {
+          "t": "a título de",
+          "es": "a modo de",
+          "pron": "a títulu dyi",
+          "ej": "A título de exemplo, cito o caso de São Paulo.",
+          "ejes": "A modo de ejemplo, cito el caso de São Paulo.",
+          "cog": false
+        },
+        {
+          "t": "em caráter urgente",
+          "es": "con carácter urgente",
+          "pron": "ein karáter urgéntyi",
+          "ej": "Precisamos de uma decisão em caráter urgente.",
+          "ejes": "Necesitamos una decisión con carácter urgente.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Diante do exposto, recomendo a aprovação do projeto.",
+          "es": "Por lo expuesto, recomiendo la aprobación del proyecto.",
+          "pron": "dyiántyi du espóstu, rrekoméndu a aprovasáun du proyétu"
+        },
+        {
+          "t": "Conforme solicitado, segue em anexo o relatório final.",
+          "es": "Según lo solicitado, se adjunta el informe final.",
+          "pron": "konfórmi solisitádu, ségi ein anéksu u rrelatóriu finál"
+        },
+        {
+          "t": "Fico à disposição para qualquer esclarecimento.",
+          "es": "Quedo a su disposición para cualquier aclaración.",
+          "pron": "fíku a dyispozisáun pára kuawkér esklaresiméntu"
+        },
+        {
+          "t": "No aguardo de sua resposta, agradeço desde já.",
+          "es": "A la espera de su respuesta, agradezco desde ya.",
+          "pron": "nu agwárdu dyi súa rrespósta, agradésu dézdi yá"
+        },
+        {
+          "t": "A título de exemplo, apresento o caso da filial de Lima.",
+          "es": "A modo de ejemplo, presento el caso de la filial de Lima.",
+          "pron": "a títulu dyi eyémplu, aprezéntu u kázu da filiáw dyi líma"
+        }
+      ],
+      "dialogo": {
+        "titulo": "E-mail de encaminhamento",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Como devo encerrar o e-mail com o relatório final?",
+            "es": "¿Cómo debo cerrar el correo con el informe final?"
+          },
+          {
+            "q": "B",
+            "t": "Comece com: Conforme solicitado, segue em anexo o relatório final.",
+            "es": "Empieza con: Según lo solicitado, se adjunta el informe final."
+          },
+          {
+            "q": "A",
+            "t": "E para fechar? Quero ser cortês, mas direto.",
+            "es": "¿Y para cerrar? Quiero ser cortés, pero directo."
+          },
+          {
+            "q": "B",
+            "t": "Diante do exposto, recomendo a aprovação. Fico à disposição para esclarecimentos.",
+            "es": "Por lo expuesto, recomiendo la aprobación. Quedo a su disposición para aclaraciones."
+          },
+          {
+            "q": "A",
+            "t": "Perfeito. Acrescento ainda: no aguardo de sua resposta, atenciosamente.",
+            "es": "Perfecto. Añado además: a la espera de su respuesta, atentamente."
+          }
+        ]
+      },
+      "nota": "«Atenciosamente» es el cierre estándar de un correo formal; con más cercanía se usa «cordialmente» o «abraços». Evita «sem mais para o momento» en correos actuales: suena anticuado."
+    }
+  ]
+}

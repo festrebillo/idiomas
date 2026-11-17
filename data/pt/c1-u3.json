@@ -1,0 +1,759 @@
+{
+  "id": "pt-c1-u3",
+  "idioma": "pt",
+  "nivel": "C1",
+  "n": 3,
+  "titulo": "Matices y connotación",
+  "resumen": "Aprenderás a elegir entre sinónimos según su carga (positiva, neutra o negativa) y su registro (formal, neutro o coloquial) para sonar preciso y natural.",
+  "puedo": [
+    "Distinguir sinónimos con carga positiva y negativa: «determinado» frente a «teimoso».",
+    "Elegir el registro: «solicitar» (formal), «pedir» (neutro), «dar um toque» (coloquial).",
+    "Evitar palabras ofensivas o inadecuadas en contextos profesionales.",
+    "Usar eufemismos y matices al describir personas y situaciones.",
+    "Reconocer cuándo un verbo de decir cambia el tono: «afirmar», «insinuar», «vociferar»."
+  ],
+  "gramatica": {
+    "titulo": "Sinónimos: misma idea, distinta carga y registro",
+    "texto": "Dos palabras pueden significar casi lo mismo y, sin embargo, transmitir una opinión distinta. Eso es la connotación.\nCarga: «determinado» elogia; «teimoso» critica; «obstinado» está en medio. Elegir bien muestra tu postura sin decirla.\nRegistro: formal (solicitar, residir, auxiliar), neutro (pedir, morar, ajudar) y coloquial (grana, bacana, furada). En una reunión o un informe, usa el formal o el neutro; con amigos, el coloquial.\nTruco: antes de elegir una palabra, pregúntate dos cosas: ¿quiero elogiar, criticar o ser neutro? ¿Con quién hablo?\nCuidado: muchas palabras que parecen simpáticas en español pueden sonar fuertes en Brasil, por ejemplo «gordo» (mejor: «acima do peso» o «robusto»).",
+    "tabla": [
+      [
+        "Ele é econômico.",
+        "Es ahorrativo (connotación positiva).",
+        "éli é ekonómiku"
+      ],
+      [
+        "Ele é sovina.",
+        "Es avaro (negativo, formal).",
+        "éli é sovína"
+      ],
+      [
+        "Ele é mão de vaca.",
+        "Es un tacaño (negativo, coloquial).",
+        "éli é máun dyi váka"
+      ],
+      [
+        "Ela é determinada.",
+        "Es decidida (positivo).",
+        "éla é determinádu"
+      ],
+      [
+        "Ela é teimosa.",
+        "Es terca (negativo).",
+        "éla é teimóza"
+      ],
+      [
+        "Ele solicitou ajuda.",
+        "Pidió ayuda (formal).",
+        "éli solisitóu ayúda"
+      ]
+    ],
+    "errores": [
+      "No uses un término coloquial en un contexto formal: «mão de vaca» o «grana» no van en un informe; escribe «avarento» y «recursos».",
+      "No traduzcas «gordo» o «viejo» sin pensar: en portugués suenan más duros; usa «robusto», «acima do peso», «idoso».",
+      "No confundas «esperto» (listo, avispado) con «experto»; «experto» es «especialista» o «perito»."
+    ]
+  },
+  "practica": [
+    "Escribe 5 pares de sinónimos (positivo y negativo) para describir a una persona y úsalos en frases (8 minutos).",
+    "Lee una crónica de opinión y subraya 6 palabras con carga positiva o negativa; reescribe una frase con carga neutra (10 minutos).",
+    "Mira un video de telenoticias y otro de un canal de entretenimiento y anota 5 diferencias de registro (10 minutos).",
+    "Reescribe un mensaje informal de WhatsApp como correo formal y compara las palabras elegidas (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-c1-u3-l1",
+      "n": 1,
+      "titulo": "Positivo o negativo",
+      "objetivo": "Elegir entre adjetivos de carga positiva, neutra o negativa.",
+      "intro": "Dos adjetivos, dos opiniones. Truco: busca el que muestre tu postura; «determinado» suena a elogio; «teimoso» y «arrogante», a crítica.",
+      "palabras": [
+        {
+          "t": "determinado",
+          "es": "decidido",
+          "pron": "determinádu",
+          "ej": "Ele é um profissional determinado.",
+          "ejes": "Él es un profesional decidido.",
+          "cog": true
+        },
+        {
+          "t": "teimoso",
+          "es": "terco",
+          "pron": "teimózu",
+          "ej": "Meu irmão é teimoso demais.",
+          "ejes": "Mi hermano es demasiado terco.",
+          "cog": false
+        },
+        {
+          "t": "obstinado",
+          "es": "obstinado",
+          "pron": "obstinádu",
+          "ej": "Ele é obstinado no trabalho.",
+          "ejes": "Él es obstinado en el trabajo.",
+          "cog": true
+        },
+        {
+          "t": "econômico",
+          "es": "ahorrativo",
+          "pron": "ekonómiku",
+          "ej": "Prefiro um colega econômico a um gastador.",
+          "ejes": "Prefiero un compañero ahorrativo a un derrochador.",
+          "cog": true
+        },
+        {
+          "t": "sovina",
+          "es": "avaro",
+          "pron": "sovína",
+          "ej": "Chamaram o patrão de sovina.",
+          "ejes": "Llamaron avaro al patrón.",
+          "cog": false
+        },
+        {
+          "t": "confiante",
+          "es": "seguro de sí",
+          "pron": "konfiántyi",
+          "ej": "Ela entrou confiante na sala.",
+          "ejes": "Ella entró segura de sí en la sala.",
+          "cog": false
+        },
+        {
+          "t": "arrogante",
+          "es": "arrogante",
+          "pron": "arrogántyi",
+          "ej": "Ele é arrogante com os colegas.",
+          "ejes": "Él es arrogante con sus colegas.",
+          "cog": true
+        },
+        {
+          "t": "prudente",
+          "es": "prudente",
+          "pron": "prudéntyi",
+          "ej": "Foi prudente esperar.",
+          "ejes": "Fue prudente esperar.",
+          "cog": true
+        },
+        {
+          "t": "medroso",
+          "es": "miedoso",
+          "pron": "medrózu",
+          "ej": "O gato é medroso.",
+          "ejes": "El gato es miedoso.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Ela é determinada, não teimosa.",
+          "es": "Ella es decidida, no terca.",
+          "pron": "éla é determinada, náun teimóza"
+        },
+        {
+          "t": "Meu tio é econômico, mas muitos o chamam de sovina.",
+          "es": "Mi tío es ahorrativo, pero muchos lo llaman avaro.",
+          "pron": "méu tíu é ekonómiku, máis múitus u shámam dyi sovína"
+        },
+        {
+          "t": "Ele parece confiante, mas às vezes soa arrogante.",
+          "es": "Parece seguro, pero a veces suena arrogante.",
+          "pron": "éli parési konfiántyi, máis as vézis sóa arrogántyi"
+        },
+        {
+          "t": "Prefiro ser prudente a ser medroso.",
+          "es": "Prefiero ser prudente a ser miedoso.",
+          "pron": "prefíru sér prudéntyi a sér medrózu"
+        },
+        {
+          "t": "Não sou teimoso, sou obstinado.",
+          "es": "No soy terco, soy obstinado.",
+          "pron": "náun sóu teimózu, sóu obstinádu"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Opinião sobre o novo chefe",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Você viu como o novo diretor negociou com o fornecedor?",
+            "es": "¿Viste cómo negoció el nuevo director con el proveedor?"
+          },
+          {
+            "q": "B",
+            "t": "Vi. Eu o acho determinado, mas o Paulo diz que ele é teimoso.",
+            "es": "Sí. Lo veo decidido, pero Paulo dice que es terco."
+          },
+          {
+            "q": "A",
+            "t": "É questão de ponto de vista. Ele é econômico com o orçamento, e isso, para mim, é virtude.",
+            "es": "Es cuestión de punto de vista. Es ahorrativo con el presupuesto, y eso para mí es una virtud."
+          },
+          {
+            "q": "B",
+            "t": "Para os outros, isso é ser sovina. Eu prefiro dizer que ele é prudente.",
+            "es": "Para los demás eso es ser avaro. Yo prefiero decir que es prudente."
+          },
+          {
+            "q": "A",
+            "t": "Tomara que seja confiante sem ser arrogante.",
+            "es": "Ojalá sea seguro de sí sin ser arrogante."
+          }
+        ]
+      },
+      "nota": "La misma conducta se puede elogiar o criticar según la palabra elegida: ahí está el poder de la connotación."
+    },
+    {
+      "id": "pt-c1-u3-l2",
+      "n": 2,
+      "titulo": "Formal, neutro o coloquial",
+      "objetivo": "Reconocer y elegir el registro adecuado de verbos y palabras comunes.",
+      "intro": "Cada situación pide su registro. Truco: formal para escribir y hablar con superiores; coloquial entre amigos; nunca mezcles ambos en el mismo texto.",
+      "palabras": [
+        {
+          "t": "solicitar",
+          "es": "solicitar",
+          "pron": "solisitár",
+          "ej": "Vou solicitar um reembolso.",
+          "ejes": "Voy a solicitar un reembolso.",
+          "cog": true
+        },
+        {
+          "t": "residir",
+          "es": "residir",
+          "pron": "rezidyír",
+          "ej": "Ele pretende residir em Lima.",
+          "ejes": "Él piensa residir en Lima.",
+          "cog": true
+        },
+        {
+          "t": "auxiliar",
+          "es": "auxiliar / ayudar",
+          "pron": "ausilyár",
+          "ej": "Posso auxiliar vocês nessa etapa?",
+          "ejes": "¿Puedo ayudarlos en esta etapa?",
+          "cog": true
+        },
+        {
+          "t": "indagar",
+          "es": "indagar / preguntar",
+          "pron": "indagár",
+          "ej": "Ele resolveu indagar o motivo.",
+          "ejes": "Él decidió indagar el motivo.",
+          "cog": true
+        },
+        {
+          "t": "iniciar",
+          "es": "iniciar",
+          "pron": "inisyár",
+          "ej": "Vamos iniciar a reunião.",
+          "ejes": "Vamos a iniciar la reunión.",
+          "cog": true
+        },
+        {
+          "t": "adquirir",
+          "es": "adquirir",
+          "pron": "adkirír",
+          "ej": "Pretendo adquirir um imóvel.",
+          "ejes": "Pienso adquirir un inmueble.",
+          "cog": true
+        },
+        {
+          "t": "grana",
+          "es": "plata (coloquial)",
+          "pron": "grána",
+          "ej": "Não tenho grana agora.",
+          "ejes": "No tengo plata ahora.",
+          "cog": false
+        },
+        {
+          "t": "bacana",
+          "es": "genial (coloquial)",
+          "pron": "bakána",
+          "ej": "Achei bacana a ideia.",
+          "ejes": "Me pareció genial la idea.",
+          "cog": false
+        },
+        {
+          "t": "furada",
+          "es": "mala idea (coloquial)",
+          "pron": "furáda",
+          "ej": "Essa viagem foi uma furada.",
+          "ejes": "Ese viaje fue un fiasco.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Solicito que o senhor aguarde um momento.",
+          "es": "Le solicito que espere un momento.",
+          "pron": "solísitu ki u senhór agwárdi un moméntu"
+        },
+        {
+          "t": "Posso auxiliar em alguma coisa?",
+          "es": "¿Puedo ayudar en algo?",
+          "pron": "pósu ausilyár ein áwguma kóiza"
+        },
+        {
+          "t": "Pretendo adquirir um carro novo.",
+          "es": "Pienso adquirir un auto nuevo.",
+          "pron": "preténdu adkirír un kárru nóvu"
+        },
+        {
+          "t": "Não tenho grana para essa viagem.",
+          "es": "No tengo plata para ese viaje.",
+          "pron": "náun téñu grána pára ésa vyáyein"
+        },
+        {
+          "t": "Achei bacana a sua proposta.",
+          "es": "Me pareció genial tu propuesta.",
+          "pron": "ashéi bakána a súa propósta"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Atendimento ao cliente",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Boa tarde. Posso auxiliar o senhor em alguma coisa?",
+            "es": "Buenas tardes. ¿Puedo ayudar al señor en algo?"
+          },
+          {
+            "q": "B",
+            "t": "Boa tarde. Pretendo adquirir um notebook, mas não tenho muita grana.",
+            "es": "Buenas tardes. Pienso adquirir una laptop, pero no tengo mucha plata."
+          },
+          {
+            "q": "A",
+            "t": "Entendo. Posso solicitar um desconto ao gerente, se quiser.",
+            "es": "Entiendo. Puedo solicitar un descuento al gerente, si desea."
+          },
+          {
+            "q": "B",
+            "t": "Que bacana! Mas não quero cair numa furada com um aparelho ruim.",
+            "es": "¡Qué genial! Pero no quiero caer en un mal negocio con un aparato malo."
+          },
+          {
+            "q": "A",
+            "t": "Fique tranquilo. Vamos iniciar pelo modelo mais confiável.",
+            "es": "Quede tranquilo. Empecemos por el modelo más confiable."
+          }
+        ]
+      },
+      "nota": "En portugués escrito formal se prefieren los verbos de origen latino (solicitar, residir); en la conversación se usan «pedir», «morar». «Grana» y «bacana» son coloquiales de Brasil."
+    },
+    {
+      "id": "pt-c1-u3-l3",
+      "n": 3,
+      "titulo": "Carga irónica y sutil",
+      "objetivo": "Entender adjetivos cuya carga cambia con el contexto.",
+      "intro": "Algunos adjetivos cambian de sentido según quien los diga. Truco: «esperto» es elogio a veces y sospecha otras; «malandro» puede ser simpático o delictivo.",
+      "palabras": [
+        {
+          "t": "simplório",
+          "es": "simplón",
+          "pron": "simplóriu",
+          "ej": "Era um argumento simplório.",
+          "ejes": "Era un argumento simplón.",
+          "cog": false
+        },
+        {
+          "t": "ingênuo",
+          "es": "ingenuo",
+          "pron": "inyénuu",
+          "ej": "Fui ingênuo ao confiar nele.",
+          "ejes": "Fui ingenuo al confiar en él.",
+          "cog": true
+        },
+        {
+          "t": "esperto",
+          "es": "listo / avispado",
+          "pron": "espértu",
+          "ej": "Ele é esperto e sempre se dá bem.",
+          "ejes": "Es avispado y siempre le va bien.",
+          "cog": false
+        },
+        {
+          "t": "astuto",
+          "es": "astuto",
+          "pron": "astútu",
+          "ej": "O advogado foi astuto na negociação.",
+          "ejes": "El abogado fue astuto en la negociación.",
+          "cog": true
+        },
+        {
+          "t": "malandro",
+          "es": "pícaro / pillo",
+          "pron": "malándru",
+          "ej": "Meu primo é um malandro simpático.",
+          "ejes": "Mi primo es un pícaro simpático.",
+          "cog": false
+        },
+        {
+          "t": "temerário",
+          "es": "temerario",
+          "pron": "temerário",
+          "ej": "Foi um investimento temerário.",
+          "ejes": "Fue una inversión temeraria.",
+          "cog": true
+        },
+        {
+          "t": "excêntrico",
+          "es": "excêntrico",
+          "pron": "eksséntriku",
+          "ej": "Ele é um artista excêntrico.",
+          "ejes": "Es un artista excêntrico.",
+          "cog": true
+        },
+        {
+          "t": "extravagante",
+          "es": "extravagante",
+          "pron": "estravagántyi",
+          "ej": "Ele tem um estilo extravagante.",
+          "ejes": "Tiene un estilo extravagante.",
+          "cog": true
+        },
+        {
+          "t": "ousado",
+          "es": "audaz",
+          "pron": "ouzádu",
+          "ej": "O projeto é ousado, mas viável.",
+          "ejes": "El proyecto es audaz, pero viable.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Ele é esperto, mas ninguém confia nele.",
+          "es": "Es avispado, pero nadie confía en él.",
+          "pron": "éli é espértu, máis ningéin konfía ein éli"
+        },
+        {
+          "t": "Foi um plano ousado, quase temerário.",
+          "es": "Fue un plan audaz, casi temerario.",
+          "pron": "fói un plánu ouzádu, kázi temerário"
+        },
+        {
+          "t": "Achei simplório o argumento do relatório.",
+          "es": "Me pareció simplón el argumento del informe.",
+          "pron": "ashéi simplóriu u arguméntu du relatóriu"
+        },
+        {
+          "t": "Meu vizinho é excêntrico, mas muito gentil.",
+          "es": "Mi vecino es excêntrico, pero muy amable.",
+          "pron": "méu vizíñu é eksséntriku, máis múitu yentíw"
+        },
+        {
+          "t": "Ela é astuta e sabe negociar.",
+          "es": "Ella es astuta y sabe negociar.",
+          "pron": "éla é astúta i sábi negosiár"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Falando de um concorrente",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "O dono da empresa rival é esperto, não é?",
+            "es": "El dueño de la empresa rival es avispado, ¿no?"
+          },
+          {
+            "q": "B",
+            "t": "Esperto e astuto. Eu diria até um pouco malandro nas negociações.",
+            "es": "Avispado y astuto. Yo diría incluso un poco pícaro en las negociaciones."
+          },
+          {
+            "q": "A",
+            "t": "Mas o último investimento dele foi temerário.",
+            "es": "Pero su última inversión fue temeraria."
+          },
+          {
+            "q": "B",
+            "t": "Foi ousado, sim. Ainda assim, o argumento dele nunca é simplório.",
+            "es": "Fue audaz, sí. Aun así, su argumento nunca es simplón."
+          },
+          {
+            "q": "A",
+            "t": "Reconheço. Só não vamos ser ingênuos com ele.",
+            "es": "Lo reconozco. Solo no seamos ingenuos con él."
+          }
+        ]
+      },
+      "nota": "La palabra «malandro» en Brasil tiene una carga ambigua: puede ser un pícaro encantador (malandragem) o un delincuente, según el contexto y el tono."
+    },
+    {
+      "id": "pt-c1-u3-l4",
+      "n": 4,
+      "titulo": "Verbos de decir con matiz",
+      "objetivo": "Elegir verbos de decir según el tono y la intención.",
+      "intro": "«Dizer» es neutro, pero hay verbos que añaden actitud. Truco: «sussurrar» es bajo, «vociferar» es gritar con rabia, «insinuar» es decir sin decir.",
+      "palabras": [
+        {
+          "t": "afirmar",
+          "es": "afirmar",
+          "pron": "afirmár",
+          "ej": "Ele vai afirmar que nada sabia.",
+          "ejes": "Él va a afirmar que no sabía nada.",
+          "cog": true
+        },
+        {
+          "t": "sustentar",
+          "es": "sostener",
+          "pron": "sustentár",
+          "ej": "Consigo sustentar essa tese.",
+          "ejes": "Puedo sostener esa tesis.",
+          "cog": false
+        },
+        {
+          "t": "insinuar",
+          "es": "insinuar",
+          "pron": "insinuár",
+          "ej": "Ela quis insinuar que eu errei.",
+          "ejes": "Ella quiso insinuar que me equivoqué.",
+          "cog": true
+        },
+        {
+          "t": "murmurar",
+          "es": "murmurar",
+          "pron": "murmurár",
+          "ej": "Prefiro murmurar a gritar.",
+          "ejes": "Prefiero murmurar a gritar.",
+          "cog": true
+        },
+        {
+          "t": "sussurrar",
+          "es": "susurrar",
+          "pron": "susurrár",
+          "ej": "Vou sussurrar o segredo.",
+          "ejes": "Voy a susurrar el secreto.",
+          "cog": true
+        },
+        {
+          "t": "vociferar",
+          "es": "vociferar",
+          "pron": "vosiferár",
+          "ej": "Não precisa vociferar para ser ouvido.",
+          "ejes": "No hace falta vociferar para ser escuchado.",
+          "cog": true
+        },
+        {
+          "t": "confessar",
+          "es": "confesar",
+          "pron": "konfesár",
+          "ej": "Preciso confessar um erro.",
+          "ejes": "Necesito confesar un error.",
+          "cog": true
+        },
+        {
+          "t": "retrucar",
+          "es": "replicar",
+          "pron": "retrukár",
+          "ej": "Ele costuma retrucar tudo o que ouve.",
+          "ejes": "Suele replicar todo lo que oye.",
+          "cog": false
+        },
+        {
+          "t": "ressalvar",
+          "es": "hacer la salvedad",
+          "pron": "resalvár",
+          "ej": "Gostaria de ressalvar um ponto.",
+          "ejes": "Quisiera hacer la salvedad de un punto.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Ela insinuou que eu tinha errado.",
+          "es": "Ella insinuó que yo me había equivocado.",
+          "pron": "éla insinuóu ki éu tyiña erádu"
+        },
+        {
+          "t": "Ele vociferou contra a decisão.",
+          "es": "Él vociferó contra la decisión.",
+          "pron": "éli vosiferóu kóntra a dyisisáun"
+        },
+        {
+          "t": "Preciso confessar que errei.",
+          "es": "Necesito confesar que me equivoqué.",
+          "pron": "presísu konfesár ki erréi"
+        },
+        {
+          "t": "Ela sussurrou o segredo ao meu ouvido.",
+          "es": "Ella susurró el secreto a mi oído.",
+          "pron": "éla susurróu u segrédu au méu óuvidu"
+        },
+        {
+          "t": "Ele retrucou sem pensar.",
+          "es": "Él replicó sin pensar.",
+          "pron": "éli retrukóu séin pensár"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Uma discussão acalorada",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Você está insinuando que eu cometi o erro?",
+            "es": "¿Estás insinuando que yo cometí el error?"
+          },
+          {
+            "q": "B",
+            "t": "Não insinuei nada. Apenas afirmei que o relatório saiu errado.",
+            "es": "No insinué nada. Solo afirmé que el informe salió mal."
+          },
+          {
+            "q": "A",
+            "t": "Não precisa vociferar. Eu mesmo posso confessar que revisei às pressas.",
+            "es": "No hace falta vociferar. Yo mismo puedo confesar que revisé apresuradamente."
+          },
+          {
+            "q": "B",
+            "t": "Obrigado. Prefiro conversar a retrucar a cada frase.",
+            "es": "Gracias. Prefiero conversar a replicar en cada frase."
+          },
+          {
+            "q": "A",
+            "t": "Concordo. Vamos sussurrar menos e resolver mais.",
+            "es": "De acuerdo. Susurremos menos y resolvamos más."
+          }
+        ]
+      },
+      "nota": "«Dizer», «falar» y «contar» son neutros; los verbos de este bloque añaden actitud. Un buen narrador elige el verbo que muestra el tono sin necesitar adverbios."
+    },
+    {
+      "id": "pt-c1-u3-l5",
+      "n": 5,
+      "titulo": "Repaso: palabras con peso",
+      "objetivo": "Reflexionar sobre la connotación y el tono al hablar de un texto.",
+      "intro": "Cierra con el vocabulario para hablar de matices. Truco: «conotação» es lo que la palabra sugiere; «pejorativo» critica; «elogioso» elogia; «eufemismo» suaviza.",
+      "palabras": [
+        {
+          "t": "conotação",
+          "es": "connotación",
+          "pron": "konotasáun",
+          "ej": "A palavra tem conotação negativa.",
+          "ejes": "La palabra tiene connotación negativa.",
+          "cog": true
+        },
+        {
+          "t": "pejorativo",
+          "es": "peyorativo",
+          "pron": "peyoratívu",
+          "ej": "Esse termo é pejorativo.",
+          "ejes": "Ese término es peyorativo.",
+          "cog": true
+        },
+        {
+          "t": "elogioso",
+          "es": "elogioso",
+          "pron": "elogyózu",
+          "ej": "Foi um comentário elogioso.",
+          "ejes": "Fue un comentario elogioso.",
+          "cog": true
+        },
+        {
+          "t": "eufemismo",
+          "es": "eufemismo",
+          "pron": "eufemízmu",
+          "ej": "«Demissão» é um eufemismo para «corte».",
+          "ejes": "«Desvinculación» es un eufemismo de «despido».",
+          "cog": true
+        },
+        {
+          "t": "sutileza",
+          "es": "sutileza",
+          "pron": "sutiléza",
+          "ej": "Falta sutileza no texto.",
+          "ejes": "Falta sutileza en el texto.",
+          "cog": true
+        },
+        {
+          "t": "nuance",
+          "es": "matiz",
+          "pron": "nuáns",
+          "ej": "Cada nuance muda o sentido.",
+          "ejes": "Cada matiz cambia el sentido.",
+          "cog": false
+        },
+        {
+          "t": "tom",
+          "es": "tono",
+          "pron": "tóm",
+          "ej": "O tom da carta é duro.",
+          "ejes": "El tono de la carta es duro.",
+          "cog": false
+        },
+        {
+          "t": "registro",
+          "es": "registro",
+          "pron": "rreyístru",
+          "ej": "Mantenha o mesmo registro no e-mail.",
+          "ejes": "Mantén el mismo registro en el correo.",
+          "cog": true
+        },
+        {
+          "t": "ressonância",
+          "es": "resonancia",
+          "pron": "resonánsia",
+          "ej": "O discurso teve grande ressonância.",
+          "ejes": "El discurso tuvo gran resonancia.",
+          "cog": true
+        }
+      ],
+      "frases": [
+        {
+          "t": "Essa palavra tem uma conotação pejorativa.",
+          "es": "Esa palabra tiene una connotación peyorativa.",
+          "pron": "ésa paláwra téin úma konotasáun peyoratíva"
+        },
+        {
+          "t": "O tom do e-mail foi elogioso, mas frio.",
+          "es": "El tono del correo fue elogioso, pero frío.",
+          "pron": "u tóm du iméiu fói elogyózu, máis fríu"
+        },
+        {
+          "t": "Dizer «ajuste» é um eufemismo para «corte».",
+          "es": "Decir «ajuste» es un eufemismo de «recorte».",
+          "pron": "dyizér ayústi é un eufemízmu pára kórtyi"
+        },
+        {
+          "t": "Falta sutileza na escolha do termo.",
+          "es": "Falta sutileza en la elección del término.",
+          "pron": "fáwta sutiléza na eskólya du térmu"
+        },
+        {
+          "t": "Cada nuance muda o sentido da frase.",
+          "es": "Cada matiz cambia el sentido de la frase.",
+          "pron": "káda nuáns múda u sentídu da frázi"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Revisando um comunicado",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Esse termo me soa pejorativo. Podemos escolher outro?",
+            "es": "Ese término me suena peyorativo. ¿Podemos elegir otro?"
+          },
+          {
+            "q": "B",
+            "t": "Claro. Qual seria um registro mais neutro?",
+            "es": "Claro. ¿Cuál sería un registro más neutro?"
+          },
+          {
+            "q": "A",
+            "t": "«Ajuste de pessoal» é um eufemismo, mas evita o tom agressivo de «corte».",
+            "es": "«Ajuste de personal» es un eufemismo, pero evita el tono agresivo de «recorte»."
+          },
+          {
+            "q": "B",
+            "t": "Concordo. Falta sutileza no resto do texto, e a conotação geral está dura.",
+            "es": "De acuerdo. Falta sutileza en el resto del texto, y la connotación general es dura."
+          },
+          {
+            "q": "A",
+            "t": "Vamos suavizar o tom e manter um comentário elogioso à equipe.",
+            "es": "Suavicemos el tono y mantengamos un comentario elogioso al equipo."
+          }
+        ]
+      },
+      "nota": "«Nuance» se escribe igual que en francés y se usa mucho en Brasil. Además, «matiz» existe, pero es más técnico; «nuance» suena natural en una conversación culta."
+    }
+  ]
+}

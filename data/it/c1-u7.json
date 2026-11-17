@@ -1,0 +1,218 @@
+{
+  "id": "it-c1-u7",
+  "idioma": "it",
+  "nivel": "C1",
+  "n": 7,
+  "titulo": "Informes y propuestas",
+  "resumen": "Aprenderás el lenguaje de informes y propuestas: estructura del documento, descripción de datos, recomendaciones con si raccomanda y sarebbe opportuno, y fórmulas de formato.",
+  "puedo": [
+    "Estructurar un informe con oggetto, premessa, metodologia, risultanze y conclusioni.",
+    "Describir cambios en los datos con impennata, flessione, stabilizzarsi y attestarsi su.",
+    "Formular recomendaciones con si raccomanda di, sarebbe opportuno y è auspicabile.",
+    "Redactar una propuesta con preventivo, cronoprogramma y fórmulas de cierre.",
+    "Adaptar el tono: impersonal y prudente, nunca imperativo."
+  ],
+  "gramatica": {
+    "titulo": "Recomendar con cortesía: si impersonal y condizionale",
+    "texto": "En un informe no se manda; se recomienda. El italiano usa dos recursos:\nEl «si» impersonal o pasivante con verbos de recomendación: Si raccomanda di verificare i dati. Si propone di avviare un progetto pilota. Con sustantivos plurales el verbo concuerda: Si propongono nuove misure.\nEl condizionale con verbos y adjetivos de oportunidad: Sarebbe opportuno rivedere il budget. Occorrerebbe un piano più chiaro.\nTruco: si no puedes evitar un deber, atenúalo: «È necessario» es firme, «sarebbe opportuno» es una sugerencia.\nDespués de «è auspicabile che» o «si ritiene che» va congiuntivo: Si ritiene che il costo sia eccessivo.",
+    "tabla": [
+      ["Si raccomanda di verificare i dati.", "Se recomienda verificar los datos.", "si raccománda di verificáre i dáti"],
+      ["Sarebbe opportuno rivedere il budget.", "Sería oportuno revisar el presupuesto.", "sarébbe opportúno rivedére il búdyet"],
+      ["Si propongono nuove misure.", "Se proponen nuevas medidas.", "si propóngono nuóve mizúre"],
+      ["È auspicabile una maggiore collaborazione.", "Es deseable una mayor colaboración.", "e auspicábile úna maddyóre colaboratsióne"],
+      ["Si ritiene che il costo sia eccessivo.", "Se considera que el costo es excesivo.", "si ritiéne ke il cósto sía ecchessívo"]
+    ],
+    "errores": [
+      "Usar el imperativo o «dovete» en un informe: suena a orden; mejor «si raccomanda di» o «sarebbe opportuno».",
+      "No concordar el verbo en la forma pasivante: «Si propongono nuove misure» (plural), no «Si propone nuove misure».",
+      "Usar indicativo tras «si ritiene che» o «è auspicabile che»: va congiuntivo («che sia», no «che è»)."
+    ]
+  },
+  "practica": [
+    "Lee un informe o una relazione pública de un ente italiano (por ejemplo, de Istat o de un ministerio) y subraya las fórmulas de recomendación (12 minutos).",
+    "Escribe un informe de una página sobre un problema de tu trabajo con oggetto, premessa, risultanze y tres raccomandazioni (15 minutos).",
+    "Convierte diez frases directas en frases de recomendación: «Hay que reducir costos» pasa a «Sarebbe opportuno ridurre i costi» (8 minutos).",
+    "Describe en voz alta un gráfico de datos reales con impennata, flessione y rispetto a (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-c1-u7-l1",
+      "n": 1,
+      "titulo": "Estructura de un informe",
+      "objetivo": "Reconocer y redactar las partes de un informe profesional.",
+      "intro": "Un informe bien hecho se lee en un minuto: asunto, objetivo, método, resultados y conclusiones. Truco: pon la síntesis al principio para el lector con prisa.",
+      "palabras": [
+        { "t": "la relazione", "es": "el informe", "pron": "la relatsióne", "ej": "La relazione sarà presentata al consiglio.", "ejes": "El informe será presentado al consejo.", "cog": false },
+        { "t": "sintesi", "es": "síntesis, resumen", "pron": "síntesi", "ej": "In sintesi, il progetto è sostenibile.", "ejes": "En síntesis, el proyecto es sostenible.", "cog": true },
+        { "t": "la metodologia", "es": "la metodología", "pron": "la metodolodyía", "ej": "La metodologia adottata è descritta nel capitolo due.", "ejes": "La metodología adoptada se describe en el capítulo dos.", "cog": true },
+        { "t": "il campione", "es": "la muestra", "pron": "il campióne", "ej": "Il campione comprende cento aziende.", "ejes": "La muestra incluye cien empresas.", "cog": false },
+        { "t": "le risultanze", "es": "los resultados, los hallazgos", "pron": "le risultántse", "ej": "Le risultanze dell'indagine sono positive.", "ejes": "Los resultados de la investigación son positivos.", "cog": false },
+        { "t": "l'ambito", "es": "el ámbito", "pron": "lámbito", "ej": "L'ambito dello studio è limitato al nord.", "ejes": "El ámbito del estudio se limita al norte.", "cog": true },
+        { "t": "il sommario", "es": "el índice, el sumario", "pron": "il sommário", "ej": "Il sommario riassume le sezioni principali.", "ejes": "El sumario resume las secciones principales.", "cog": true },
+        { "t": "l'oggetto", "es": "el asunto, el objeto", "pron": "lodyétto", "ej": "L'oggetto della relazione è la sicurezza.", "ejes": "El asunto del informe es la seguridad.", "cog": false },
+        { "t": "lo scopo", "es": "el propósito, el fin", "pron": "lo scópo", "ej": "Lo scopo del documento è informare.", "ejes": "El propósito del documento es informar.", "cog": false }
+      ],
+      "frases": [
+        { "t": "L'oggetto della relazione è la sicurezza sul lavoro.", "es": "El asunto del informe es la seguridad laboral.", "pron": "lodyétto délla relatsióne e la sicurétsa sul lavóro" },
+        { "t": "Lo scopo del documento è fornire una sintesi chiara.", "es": "El propósito del documento es ofrecer una síntesis clara.", "pron": "lo scópo del documénto e forníre úna síntesi kiára" },
+        { "t": "La metodologia si basa su interviste e questionari.", "es": "La metodología se basa en entrevistas y cuestionarios.", "pron": "la metodolodyía si básia su intervíste e cuestionári" },
+        { "t": "Le risultanze mostrano un quadro in miglioramento.", "es": "Los resultados muestran un cuadro en mejora.", "pron": "le risultántse móstrano un cuádro in milyoraménto" },
+        { "t": "Il campione è composto da duecento dipendenti.", "es": "La muestra está compuesta por doscientos empleados.", "pron": "il campióne e compósto da duechénto dipendénti" }
+      ],
+      "dialogo": {
+        "titulo": "Preparare la relazione",
+        "lineas": [
+          { "q": "A", "t": "Ho abbozzato il sommario: oggetto, scopo, metodologia, risultanze, conclusioni. Ti sembra che manchi qualcosa?", "es": "Esbocé el sumario: asunto, propósito, metodología, resultados, conclusiones. ¿Te parece que falta algo?" },
+          { "q": "B", "t": "Aggiungerei una sintesi iniziale di mezza pagina: il direttore difficilmente leggerà l'intera relazione, ma la sintesi sì.", "es": "Añadiría una síntesis inicial de media página: el director difícilmente leerá todo el informe, pero la síntesis sí." },
+          { "q": "A", "t": "Hai ragione. Nella parte sulla metodologia devo indicare anche l'ambito dello studio e come ho scelto il campione.", "es": "Tienes razón. En la parte de metodología debo indicar también el ámbito del estudio y cómo elegí la muestra." },
+          { "q": "B", "t": "Esatto. Specifica che il campione comprende duecento dipendenti di tre sedi: così il lettore capisce quanto sono affidabili le risultanze.", "es": "Exacto. Especifica que la muestra incluye a doscientos empleados de tres sedes: así el lector entiende cuán fiables son los resultados." },
+          { "q": "A", "t": "Perfetto. Preparo una bozza entro giovedì e la mando per un parere, così la relazione sarà pronta per il consiglio di venerdì.", "es": "Perfecto. Preparo un borrador antes del jueves y te lo envío para tu opinión, así el informe estará listo para el consejo del viernes." }
+        ]
+      },
+      "nota": "«Relazione» es un informe elaborado; «rapporto» es más general («rapporto annuale») y significa también «relación» entre personas; «verbale» es el acta de una reunión."
+    },
+    {
+      "id": "it-c1-u7-l2",
+      "n": 2,
+      "titulo": "Describir datos y tendencias",
+      "objetivo": "Describir cambios numéricos con verbos y sustantivos precisos.",
+      "intro": "Un informe vive de números. Truco: usa «rispetto a» para comparar y verbos específicos (stabilizzarsi, dimezzarsi) en vez de «cambiare».",
+      "palabras": [
+        { "t": "impennata", "es": "repunte brusco, disparada", "pron": "impennáta", "ej": "Si registra un'impennata dei prezzi.", "ejes": "Se registra una disparada de los precios.", "cog": false },
+        { "t": "flessione", "es": "descenso, baja", "pron": "flessióne", "ej": "La flessione delle vendite è stata lieve.", "ejes": "El descenso de las ventas fue leve.", "cog": false },
+        { "t": "oscillare", "es": "oscilar", "pron": "oscillare", "ej": "I prezzi tendono a oscillare nel corso dell'anno.", "ejes": "Los precios tienden a oscilar a lo largo del año.", "cog": true },
+        { "t": "stabilizzarsi", "es": "estabilizarse", "pron": "stabilidsársi", "ej": "Il tasso dovrebbe stabilizzarsi entro giugno.", "ejes": "La tasa debería estabilizarse antes de junio.", "cog": true },
+        { "t": "dimezzarsi", "es": "reducirse a la mitad", "pron": "dimedsársi", "ej": "Le richieste rischiano di dimezzarsi.", "ejes": "Las solicitudes corren el riesgo de reducirse a la mitad.", "cog": false },
+        { "t": "raddoppiare", "es": "duplicarse", "pron": "raddoppiáre", "ej": "I costi potrebbero raddoppiare in due anni.", "ejes": "Los costos podrían duplicarse en dos años.", "cog": false },
+        { "t": "il picco", "es": "el pico, el máximo", "pron": "il píco", "ej": "Il picco di vendite si registra a dicembre.", "ejes": "El pico de ventas se registra en diciembre.", "cog": false },
+        { "t": "attestarsi su", "es": "situarse en, estabilizarse en", "pron": "attestársi su", "ej": "L'inflazione dovrebbe attestarsi su valori moderati.", "ejes": "La inflación debería situarse en valores moderados.", "cog": false },
+        { "t": "rispetto a", "es": "respecto a, en comparación con", "pron": "rispétto a", "ej": "Rispetto a un anno fa, il fatturato è cresciuto.", "ejes": "En comparación con hace un año, la facturación creció.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Rispetto allo scorso anno, il fatturato è cresciuto del dieci per cento.", "es": "Respecto del año pasado, la facturación creció un diez por ciento.", "pron": "rispétto allo scórso ánno il fatturáto e crescíuto del diéchi per chénto" },
+        { "t": "Dopo l'impennata di marzo, i prezzi si sono stabilizzati.", "es": "Tras el repunte de marzo, los precios se estabilizaron.", "pron": "dópo limpennáta di márso i préttsi si sóno stabilidsáti" },
+        { "t": "La disoccupazione si è attestata intorno al sette per cento.", "es": "El desempleo se ha situado en torno al siete por ciento.", "pron": "la disoccupatsióne si e attestáta intórno al sétte per chénto" },
+        { "t": "Il picco di richieste è stato raggiunto in dicembre.", "es": "El pico de solicitudes se alcanzó en diciembre.", "pron": "il píco di richiéste e státo radyúnto in dichémbre" },
+        { "t": "Le vendite rischiano di dimezzarsi se non interveniamo.", "es": "Las ventas corren el riesgo de reducirse a la mitad si no intervenimos.", "pron": "le véndite rískiano di dimedsársi se non interveniámo" }
+      ],
+      "dialogo": {
+        "titulo": "Commentare un grafico",
+        "lineas": [
+          { "q": "A", "t": "Guardando il grafico, c'è stata un'impennata dei costi a marzo, seguita da una flessione ad aprile e da un periodo di oscillazione.", "es": "Mirando el gráfico, hubo una disparada de los costos en marzo, seguida de un descenso en abril y de un período de oscilación." },
+          { "q": "B", "t": "Sì, e rispetto allo scorso anno il picco è arrivato un mese prima. Mi chiedo se i costi tenderanno a stabilizzarsi o a raddoppiare.", "es": "Sí, y respecto del año pasado el pico llegó un mes antes. Me pregunto si los costos tenderán a estabilizarse o a duplicarse." },
+          { "q": "A", "t": "Le previsioni dicono che dovrebbero attestarsi su valori più alti dell'anno scorso, ma non è da escludere un ulteriore aumento.", "es": "Las previsiones dicen que deberían situarse en valores más altos que el año pasado, pero no se puede descartar un nuevo aumento." },
+          { "q": "B", "t": "Allora nella relazione propongo di descrivere i tre scenari possibili, con le relative ipotesi, senza lasciarci andare ad allarmismi.", "es": "Entonces en el informe propongo describir los tres escenarios posibles, con sus respectivas hipótesis, sin dejarnos llevar por alarmismos." },
+          { "q": "A", "t": "Ottima scelta. Così il lettore vede i dati chiaramente e ognuno può farsi la propria opinione senza forzature.", "es": "Excelente decisión. Así el lector ve los datos con claridad y cada uno puede formarse su propia opinión sin forzamientos." }
+        ]
+      },
+      "nota": "«Aumentare», «crescere» e «salire» son sinónimos casi perfectos; «impennarsi» y «schizzare» son más intensos. Para descensos: «calare», «scendere», «diminuire» y el sustantivo «flessione»."
+    },
+    {
+      "id": "it-c1-u7-l3",
+      "n": 3,
+      "titulo": "Recomendaciones y propuestas",
+      "objetivo": "Formular recomendaciones con tono cortés y profesional.",
+      "intro": "Recomendar en italiano es un arte de la cortesía: nunca se manda. Truco: alterna el «si» impersonal con el condizionale para no repetir siempre la misma fórmula.",
+      "palabras": [
+        { "t": "si raccomanda di", "es": "se recomienda", "pron": "si raccománda di", "ej": "Si raccomanda di verificare i dati.", "ejes": "Se recomienda verificar los datos.", "cog": false },
+        { "t": "sarebbe opportuno", "es": "sería oportuno", "pron": "sarébbe opportúno", "ej": "Sarebbe opportuno rivedere il budget.", "ejes": "Sería oportuno revisar el presupuesto.", "cog": false },
+        { "t": "si suggerisce di", "es": "se sugiere", "pron": "si suddyerísce di", "ej": "Si suggerisce di avviare un progetto pilota.", "ejes": "Se sugiere iniciar un proyecto piloto.", "cog": false },
+        { "t": "si propone di", "es": "se propone", "pron": "si propóne di", "ej": "Si propone di anticipare la scadenza.", "ejes": "Se propone adelantar el plazo.", "cog": false },
+        { "t": "è auspicabile", "es": "es deseable", "pron": "e auspicábile", "ej": "È auspicabile una maggiore collaborazione.", "ejes": "Es deseable una mayor colaboración.", "cog": false },
+        { "t": "si rende necessario", "es": "se hace necesario", "pron": "si rénde necessário", "ej": "Si rende necessario un intervento urgente.", "ejes": "Se hace necesaria una intervención urgente.", "cog": false },
+        { "t": "è consigliabile", "es": "es aconsejable", "pron": "e consilyábile", "ej": "È consigliabile attendere i risultati.", "ejes": "Es aconsejable esperar los resultados.", "cog": false },
+        { "t": "occorrerebbe", "es": "haría falta", "pron": "occorrerébbe", "ej": "Occorrerebbe un piano più chiaro.", "ejes": "Haría falta un plan más claro.", "cog": false },
+        { "t": "si ritiene che", "es": "se considera que", "pron": "si ritiéne ke", "ej": "Si ritiene che il costo sia eccessivo.", "ejes": "Se considera que el costo es excesivo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Si raccomanda di verificare i dati prima della pubblicazione.", "es": "Se recomienda verificar los datos antes de la publicación.", "pron": "si raccománda di verificáre i dáti príma délla pubblicatsióne" },
+        { "t": "Sarebbe opportuno rivedere il budget entro il mese.", "es": "Sería oportuno revisar el presupuesto antes de fin de mes.", "pron": "sarébbe opportúno rivedére il búdyet éntro il mése" },
+        { "t": "Si propongono tre misure per ridurre i tempi di consegna.", "es": "Se proponen tres medidas para reducir los plazos de entrega.", "pron": "si propóngono tre mizúre per ridúrre i témpi di consénia" },
+        { "t": "È auspicabile che le due sedi collaborino di più.", "es": "Es deseable que las dos sedes colaboren más.", "pron": "e auspicábile ke le dúe sédi colláborino di piú" },
+        { "t": "Si ritiene che il costo sia eccessivo rispetto ai benefici.", "es": "Se considera que el costo es excesivo respecto de los beneficios.", "pron": "si ritiéne ke il cósto sía ecchessívo rispétto ai benefíchi" }
+      ],
+      "dialogo": {
+        "titulo": "Conclusioni della relazione",
+        "lineas": [
+          { "q": "A", "t": "Nella parte finale scrivo: dovete rivedere subito il budget. Le sembra una formula adatta alla direzione?", "es": "En la parte final escribo: deben revisar inmediatamente el presupuesto. ¿Le parece una fórmula adecuada para la dirección?" },
+          { "q": "B", "t": "No, è troppo diretta. Scriva piuttosto: sarebbe opportuno rivedere il budget, e si raccomanda di farlo entro il mese.", "es": "No, es demasiado directa. Escriba más bien: sería oportuno revisar el presupuesto, y se recomienda hacerlo antes de fin de mes." },
+          { "q": "A", "t": "Capisco. Per la collaborazione tra le sedi posso scrivere: è auspicabile che le due sedi collaborino di più?", "es": "Entiendo. Para la colaboración entre sedes, ¿puedo escribir: es deseable que las dos sedes colaboren más?" },
+          { "q": "B", "t": "Perfetto, con il congiuntivo. Se vuole segnalare un problema urgente, usi: si rende necessario un intervento immediato.", "es": "Perfecto, con el subjuntivo. Si quiere señalar un problema urgente, use: se hace necesaria una intervención inmediata." },
+          { "q": "A", "t": "Grazie. Ritengo che con queste formule il testo risulti più professionale e meno aggressivo; riscrivo le conclusioni stasera.", "es": "Gracias. Considero que con estas fórmulas el texto resulta más profesional y menos agresivo; reescribo las conclusiones esta noche." }
+        ]
+      },
+      "nota": "«Occorre» y «bisogna» expresan necesidad; en el condizionale («occorrerebbe», «bisognerebbe») se vuelven sugerencia. Es el truco más usado en informes para no sonar autoritario."
+    },
+    {
+      "id": "it-c1-u7-l4",
+      "n": 4,
+      "titulo": "Formato, propuestas y cierre",
+      "objetivo": "Redactar una propuesta o comunicación con las fórmulas de formato adecuadas.",
+      "intro": "El formato también comunica: oggetto claro, allegati identificados y cierre cortés. Truco: en Italia, el correo formal cierra con «Distinti saluti» o «Cordiali saluti».",
+      "palabras": [
+        { "t": "in allegato", "es": "adjunto, en anexo", "pron": "in allegáto", "ej": "In allegato trovate la relazione completa.", "ejes": "Adjunto encontrarán el informe completo.", "cog": false },
+        { "t": "si allega", "es": "se adjunta", "pron": "si allega", "ej": "Si allega il preventivo dettagliato.", "ejes": "Se adjunta el presupuesto detallado.", "cog": false },
+        { "t": "il verbale", "es": "el acta", "pron": "il verbále", "ej": "Il verbale della riunione è già disponibile.", "ejes": "El acta de la reunión ya está disponible.", "cog": false },
+        { "t": "all'ordine del giorno", "es": "en el orden del día", "pron": "allórdine del dyórno", "ej": "Il punto è all'ordine del giorno di lunedì.", "ejes": "El punto está en el orden del día del lunes.", "cog": false },
+        { "t": "la bozza", "es": "el borrador", "pron": "la bóttsa", "ej": "La bozza del documento è pronta.", "ejes": "El borrador del documento está listo.", "cog": false },
+        { "t": "il preventivo", "es": "el presupuesto (estimación de costos)", "pron": "il preventívo", "ej": "Il preventivo supera il budget previsto.", "ejes": "El presupuesto supera el monto previsto.", "cog": false },
+        { "t": "stanziare", "es": "asignar, destinar (fondos)", "pron": "stantsiáre", "ej": "Il comune ha deciso di stanziare nuovi fondi.", "ejes": "El municipio decidió asignar nuevos fondos.", "cog": false },
+        { "t": "distinti saluti", "es": "atentamente, saludos cordiales", "pron": "distínti salúti", "ej": "Chiudo l'email con distinti saluti.", "ejes": "Cierro el correo con atentos saludos.", "cog": false },
+        { "t": "ai fini di", "es": "a los efectos de, con el fin de", "pron": "ai fíni di", "ej": "Ai fini di una corretta valutazione, servono più dati.", "ejes": "A los efectos de una evaluación correcta, hacen falta más datos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "In allegato trovate la bozza della proposta e il preventivo.", "es": "Adjuntos encontrarán el borrador de la propuesta y el presupuesto.", "pron": "in allegáto trováte la bóttsa délla propósta e il preventívo" },
+        { "t": "Il punto è all'ordine del giorno della riunione di lunedì.", "es": "El punto está en el orden del día de la reunión del lunes.", "pron": "il púnto e allórdine del dyórno délla riunióne di lunedí" },
+        { "t": "Il verbale verrà inviato a tutti entro due giorni.", "es": "El acta será enviada a todos antes de dos días.", "pron": "il verbále verrá inviáto a túti éntro dúe dyórni" },
+        { "t": "Ai fini di una corretta valutazione, servono altri dati.", "es": "A los efectos de una evaluación correcta, hacen falta otros datos.", "pron": "ai fíni di úna corrétta valutatsióne sérvono áltri dáti" },
+        { "t": "Restiamo a disposizione per ogni chiarimento. Distinti saluti.", "es": "Quedamos a disposición para cualquier aclaración. Atentamente.", "pron": "restiámo a dispositsióne per óñi chiariménto distínti salúti" }
+      ],
+      "dialogo": {
+        "titulo": "Inviare una proposta",
+        "lineas": [
+          { "q": "A", "t": "Ho preparato la proposta. Nell'oggetto ho scritto: proposta di progetto pilota, e in allegato ho messo la bozza e il preventivo.", "es": "Preparé la propuesta. En el asunto escribí: propuesta de proyecto piloto, y adjunté el borrador y el presupuesto." },
+          { "q": "B", "t": "Bene. Ricordati di citare il punto all'ordine del giorno di lunedì, così i partecipanti sanno che ne discuteremo in riunione.", "es": "Bien. Recuerda mencionar el punto del orden del día del lunes, así los participantes saben que lo discutiremos en la reunión." },
+          { "q": "A", "t": "Certo. Aggiungo anche che, ai fini di una valutazione corretta, servirebbero i dati degli ultimi due anni, se disponibili.", "es": "Claro. Añado también que, a los efectos de una evaluación correcta, harían falta los datos de los últimos dos años, si están disponibles." },
+          { "q": "B", "t": "Giusto. Per il costo, indica che il comune potrebbe stanziare fondi se il preventivo non supera la soglia prevista.", "es": "Correcto. Para el costo, indica que el municipio podría asignar fondos si el presupuesto no supera el umbral previsto." },
+          { "q": "A", "t": "Va bene. Chiudo con: restiamo a disposizione per ogni chiarimento, distinti saluti. Poi invio e preparo il verbale della riunione.", "es": "Bien. Cierro con: quedamos a disposición para cualquier aclaración, atentamente. Luego envío y preparo el acta de la reunión." }
+        ]
+      },
+      "nota": "«Preventivo» es un presupuesto previo a contratar; «budget» (anglicismo habitual) es el presupuesto asignado; «bilancio» es el balance contable. No los mezcles en un informe."
+    },
+    {
+      "id": "it-c1-u7-l5",
+      "n": 5,
+      "titulo": "Repaso: una propuesta completa",
+      "objetivo": "Combinar estructura, datos, recomendaciones y formato en una propuesta breve.",
+      "intro": "Repasa redactando una propuesta de una página: situación, datos, recomendaciones y calendario. Truco: cierra siempre con un siguiente paso concreto.",
+      "palabras": [
+        { "t": "fattibilità", "es": "la viabilidad", "pron": "fattibilitá", "ej": "Lo studio di fattibilità è già stato approvato.", "ejes": "El estudio de viabilidad ya fue aprobado.", "cog": false },
+        { "t": "criticità", "es": "puntos críticos, problemas", "pron": "criticitá", "ej": "Sono emerse alcune criticità nella fase iniziale.", "ejes": "Surgieron algunos puntos críticos en la fase inicial.", "cog": false },
+        { "t": "il cronoprogramma", "es": "el cronograma", "pron": "il cronoprográmma", "ej": "Il cronoprogramma prevede tre fasi.", "ejes": "El cronograma prevé tres fases.", "cog": false },
+        { "t": "il monitoraggio", "es": "el seguimiento, el monitoreo", "pron": "il monitoráddyo", "ej": "Il monitoraggio dei risultati sarà mensile.", "ejes": "El seguimiento de los resultados será mensual.", "cog": false },
+        { "t": "le tempistiche", "es": "los tiempos, los plazos", "pron": "le tempístiche", "ej": "Le tempistiche sono state rispettate.", "ejes": "Los plazos se han respetado.", "cog": false },
+        { "t": "indicatore", "es": "indicador", "pron": "indicatóre", "ej": "Ogni indicatore deve essere misurabile.", "ejes": "Cada indicador debe ser medible.", "cog": true },
+        { "t": "la stima", "es": "la estimación", "pron": "la stíma", "ej": "La stima dei costi è prudente.", "ejes": "La estimación de los costos es prudente.", "cog": false },
+        { "t": "attuabile", "es": "realizable, factible", "pron": "attuábile", "ej": "La proposta è realmente attuabile.", "ejes": "La propuesta es realmente realizable.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Lo studio di fattibilità ha evidenziato alcune criticità.", "es": "El estudio de viabilidad ha puesto de relieve algunos puntos críticos.", "pron": "lo stúdio di fattibilitá a evidentsiáto álcune criticitá" },
+        { "t": "Il cronoprogramma prevede tre fasi e un monitoraggio mensile.", "es": "El cronograma prevé tres fases y un seguimiento mensual.", "pron": "il cronoprográmma prevéde tre fási e un monitoráddyo mensíle" },
+        { "t": "Sarebbe opportuno definire indicatori misurabili per ogni fase.", "es": "Sería oportuno definir indicadores medibles para cada fase.", "pron": "sarébbe opportúno definíre indicatóri misurábili per óñi fáse" },
+        { "t": "La stima dei costi è prudente e la proposta è attuabile.", "es": "La estimación de costos es prudente y la propuesta es factible.", "pron": "la stíma dei cósti e prudénte e la propósta e attuábile" },
+        { "t": "Si raccomanda di rispettare le tempistiche concordate.", "es": "Se recomienda respetar los plazos acordados.", "pron": "si raccománda di rispettáre le tempístiche concordáte" }
+      ],
+      "dialogo": {
+        "titulo": "Presentare la proposta",
+        "lineas": [
+          { "q": "A", "t": "Lo studio di fattibilità ha evidenziato alcune criticità, ma la proposta resta attuabile se rispettiamo il cronoprogramma e le tempistiche.", "es": "El estudio de viabilidad ha puesto de relieve algunos puntos críticos, pero la propuesta sigue siendo realizable si respetamos el cronograma y los plazos." },
+          { "q": "B", "t": "La stima dei costi mi sembra prudente. Sarebbe però opportuno definire indicatori misurabili, altrimenti il monitoraggio perde senso.", "es": "La estimación de los costos me parece prudente. Sería, sin embargo, oportuno definir indicadores medibles, de lo contrario el seguimiento pierde sentido." },
+          { "q": "A", "t": "Concordo. Propongo di inserire tre indicatori per fase, con un monitoraggio mensile, e di sospendere il progetto se i risultati non arrivano.", "es": "De acuerdo. Propongo incluir tres indicadores por fase, con un seguimiento mensual, y suspender el proyecto si los resultados no llegan." },
+          { "q": "B", "t": "Si raccomanda anche di prevedere un fondo per le emergenze: in base alle esperienze passate, le criticità emergono quasi sempre a metà percorso.", "es": "Se recomienda también prever un fondo para emergencias: según las experiencias pasadas, los puntos críticos surgen casi siempre a mitad del recorrido." },
+          { "q": "A", "t": "Ottima osservazione. Aggiorno la relazione e la invio entro venerdì, in allegato con il preventivo e la bozza del cronoprogramma.", "es": "Excelente observación. Actualizo el informe y lo envío antes del viernes, adjunto con el presupuesto y el borrador del cronograma." }
+        ]
+      },
+      "nota": "Una propuesta convincente responde tres preguntas: ¿qué se propone?, ¿cuánto cuesta y cuánto tarda?, ¿cómo se mide el éxito? Si tu documento las contesta con claridad, ya está casi listo."
+    }
+  ]
+}

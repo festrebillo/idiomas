@@ -1,0 +1,221 @@
+{
+  "id": "en-c1-u9",
+  "idioma": "en",
+  "nivel": "C1",
+  "n": 9,
+  "titulo": "Estructuras formales y subjuntivo",
+  "resumen": "Aprenderás el subjuntivo formal del inglés (I suggest that he be), las estructuras hipotéticas con were to y las inversiones formales como Should you need o Had I known.",
+  "puedo": [
+    "Usar el subjuntivo después de verbos como suggest, insist y recommend.",
+    "Usar el subjuntivo después de adjetivos como essential, vital e imperative.",
+    "Hablar de situaciones hipotéticas con if I were, were to y as though.",
+    "Usar inversiones formales como Should you need, Had I known y Were it not for.",
+    "Escribir correos y propuestas con un registro formal y preciso."
+  ],
+  "gramatica": {
+    "titulo": "El subjuntivo formal: suggest that he be",
+    "texto": "Después de verbos de petición o recomendación (suggest, recommend, insist, demand, propose, require) y de adjetivos como essential o vital, el inglés formal usa la forma base del verbo en TODAS las personas, sin -s y sin tiempo: I suggest that he be on time. It is essential that she attend.\nPara negar, pon not delante del verbo: We recommend that he not sign yet.\nEn inglés británico es común should + verbo (I suggest that he should be on time), y en el habla diaria se usa también el indicativo, pero en documentos, reuniones y exámenes el subjuntivo suena más preciso y culto.\nEl subjuntivo del español es distinto: aquí no cambia con el tiempo, solo usa la forma simple del verbo. Con to be es siempre be (I suggest that they be informed) y en hipótesis irreales se usa were para todas las personas (if I were you).",
+    "tabla": [
+      ["I suggest that he be on time.", "Sugiero que él llegue a tiempo.", "ai sagyést dat ji bi on taim"],
+      ["It is vital that she attend.", "Es vital que ella asista.", "it is váital dat shi atend"],
+      ["We insist that the fee be paid.", "Insistimos en que se pague la tarifa.", "ui insíst dat da fi bi peid"],
+      ["They recommend that he not resign.", "Recomiendan que él no renuncie.", "dei recoménd dat ji not risáin"],
+      ["If I were you, I would wait.", "Si yo fuera tú, esperaría.", "if ai uer iu, ai uud ueit"],
+      ["Should you need help, call me.", "Si llegara a necesitar ayuda, llámeme.", "shud iu nid jelp, col mi"]
+    ],
+    "errores": [
+      "No agregues -s en el subjuntivo: es I suggest that he go, no «that he goes» (en un registro formal).",
+      "No uses to + infinitivo con suggest: es I suggest that you leave o I suggest leaving, no «I suggest you to leave».",
+      "No digas «if I was you» en un texto formal: es if I were you."
+    ]
+  },
+  "practica": [
+    "Escribe 8 oraciones con suggest, recommend e insist usando that + forma base del verbo, sobre situaciones de tu trabajo (12 minutos).",
+    "Redacta un correo formal de 6 líneas con Should you require... y It is essential that... (15 minutos).",
+    "Lee en voz alta 5 veces el cuadro de la gramática, tapando la columna en español (8 minutos).",
+    "Lee un reglamento, contrato o política de empresa en inglés y subraya 6 casos de subjuntivo o inversión (15 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-c1-u9-l1",
+      "n": 1,
+      "titulo": "Verbos que piden el subjuntivo",
+      "objetivo": "Usar suggest, recommend, insist y demand con that + forma base del verbo.",
+      "intro": "En inglés formal, después de verbos de petición, la acción va en forma base: I recommend that he be present. Truco: no hay -s ni pasado; piensa en que el verbo queda desnudo, como en un reglamento.",
+      "palabras": [
+        { "t": "stipulate", "es": "estipular", "pron": "stípiuleit", "ej": "Clauses stipulate that payment be made in advance.", "ejes": "Las cláusulas estipulan que el pago se haga por adelantado.", "cog": true },
+        { "t": "insist", "es": "insistir", "pron": "insíst", "ej": "Please insist that he apologize in person.", "ejes": "Por favor, insiste en que él se disculpe en persona.", "cog": true },
+        { "t": "recommend", "es": "recomendar", "pron": "recoménd", "ej": "I recommend that she review the draft first.", "ejes": "Recomiendo que ella revise primero el borrador.", "cog": true },
+        { "t": "demand", "es": "exigir", "pron": "dimánd", "ej": "Workers demand that salaries be reviewed.", "ejes": "Los trabajadores exigen que se revisen los salarios.", "cog": false },
+        { "t": "propose", "es": "proponer", "pron": "propóus", "ej": "I propose that we postpone the vote.", "ejes": "Propongo que pospongamos la votación.", "cog": true },
+        { "t": "request", "es": "solicitar", "pron": "rikuést", "ej": "They request that the report be submitted by Friday.", "ejes": "Solicitan que el informe se entregue el viernes.", "cog": true },
+        { "t": "urge", "es": "instar, exhortar", "pron": "erdsh", "ej": "Experts urge that the law be amended.", "ejes": "Los expertos instan a que se modifique la ley.", "cog": false },
+        { "t": "stipulation", "es": "condición estipulada", "pron": "stipiuléishon", "ej": "The main stipulation is that every employee sign the form.", "ejes": "La condición principal es que cada empleado firme el formulario.", "cog": true }
+      ],
+      "frases": [
+        { "t": "I suggest that he be present at the meeting.", "es": "Sugiero que él esté presente en la reunión.", "pron": "ai sagyést dat ji bi prézent at da míitin" },
+        { "t": "The board insists that the budget be approved today.", "es": "La junta insiste en que el presupuesto se apruebe hoy.", "pron": "da bord insísts dat da báyet bi aprúvd tudéi" },
+        { "t": "We recommend that she not sign the agreement yet.", "es": "Recomendamos que ella todavía no firme el acuerdo.", "pron": "ui recoménd dat shi not sáin di agrímint iet" },
+        { "t": "The regulations require that every visitor register.", "es": "El reglamento exige que todo visitante se registre.", "pron": "da reguiuléishons riquáier dat évri vísitor réyistar" },
+        { "t": "It was proposed that the deadline be extended.", "es": "Se propuso que se ampliara el plazo.", "pron": "it uas propóusd dat da dédlain bi iksténded" }
+      ],
+      "dialogo": {
+        "titulo": "Una reunión de directorio",
+        "lineas": [
+          { "q": "A", "t": "I propose that the committee review the proposal before we vote on it.", "es": "Propongo que el comité revise la propuesta antes de que votemos." },
+          { "q": "B", "t": "I would go further and recommend that the finance director be involved from the start.", "es": "Yo iría más lejos y recomendaría que el director de finanzas participe desde el inicio." },
+          { "q": "A", "t": "That makes sense, although the shareholders insist that no decision be made without them.", "es": "Tiene sentido, aunque los accionistas insisten en que no se tome ninguna decisión sin ellos." },
+          { "q": "B", "t": "Then I suggest that we send them the summary today and request that they reply by Monday.", "es": "Entonces sugiero que les enviemos el resumen hoy y les pidamos que respondan el lunes." },
+          { "q": "A", "t": "Agreed. The statutes also stipulate that any change be recorded in the minutes.", "es": "De acuerdo. Los estatutos también estipulan que todo cambio quede en el acta." },
+          { "q": "B", "t": "Good point. I will ask the secretary that it be done immediately.", "es": "Buen punto. Le pediré a la secretaria que se haga de inmediato." }
+        ]
+      },
+      "nota": "Con suggest también puedes evitar el subjuntivo: I suggest meeting early (verbo + -ing). Pero con insist, demand y require el subjuntivo es lo más habitual en textos formales."
+    },
+    {
+      "id": "en-c1-u9-l2",
+      "n": 2,
+      "titulo": "Adjetivos que piden el subjuntivo",
+      "objetivo": "Usar it is essential, vital o imperative that + forma base del verbo.",
+      "intro": "La misma regla funciona con adjetivos de importancia: It is essential that he attend. Truco: la estructura es It is + adjetivo + that + sujeto + verbo base.",
+      "palabras": [
+        { "t": "essential", "es": "esencial", "pron": "esénshal", "ej": "It is essential that every participant arrive early.", "ejes": "Es esencial que todos los participantes lleguen temprano.", "cog": true },
+        { "t": "imperative", "es": "imprescindible, urgente", "pron": "impérativ", "ej": "It is imperative that we act before the deadline.", "ejes": "Es imprescindible que actuemos antes del plazo.", "cog": true },
+        { "t": "vital", "es": "vital", "pron": "váital", "ej": "It is vital that the data remain confidential.", "ejes": "Es vital que los datos sigan siendo confidenciales.", "cog": true },
+        { "t": "crucial", "es": "crucial", "pron": "crúshal", "ej": "It is crucial that he understand the risks.", "ejes": "Es crucial que él entienda los riesgos.", "cog": true },
+        { "t": "advisable", "es": "aconsejable", "pron": "adváisabol", "ej": "It is advisable that you consult a lawyer first.", "ejes": "Es aconsejable que consultes antes a un abogado.", "cog": false },
+        { "t": "desirable", "es": "deseable", "pron": "disáirabol", "ej": "It is desirable that candidates speak two languages.", "ejes": "Es deseable que los candidatos hablen dos idiomas.", "cog": true },
+        { "t": "mandatory", "es": "obligatorio", "pron": "mándatori", "ej": "Attendance at the training is mandatory.", "ejes": "La asistencia a la capacitación es obligatoria.", "cog": false },
+        { "t": "preferable", "es": "preferible", "pron": "préferabol", "ej": "It is preferable that the meeting take place online.", "ejes": "Es preferible que la reunión se realice en línea.", "cog": true }
+      ],
+      "frases": [
+        { "t": "It is essential that she be informed immediately.", "es": "Es esencial que se le informe de inmediato.", "pron": "it is esénshal dat shi bi infórmd imídietli" },
+        { "t": "It is imperative that we reduce costs this quarter.", "es": "Es imprescindible que reduzcamos los costos este trimestre.", "pron": "it is impérativ dat ui ridiús costs dis cuórter" },
+        { "t": "It is vital that nobody leak the figures.", "es": "Es vital que nadie filtre las cifras.", "pron": "it is váital dat nóubadi lik da fíguiurs" },
+        { "t": "It is advisable that you keep a copy of the receipt.", "es": "Es aconsejable que conserves una copia del recibo.", "pron": "it is adváisabol dat iu kip a cópi ov da risít" },
+        { "t": "Is it really necessary that he come to every meeting?", "es": "¿Es realmente necesario que él venga a todas las reuniones?", "pron": "is it rili nésesari dat ji cam tu évri míitin" }
+      ],
+      "dialogo": {
+        "titulo": "Preparar una auditoría",
+        "lineas": [
+          { "q": "A", "t": "It is imperative that the accounts be ready before the auditors arrive on Monday.", "es": "Es imprescindible que las cuentas estén listas antes de que lleguen los auditores el lunes." },
+          { "q": "B", "t": "I understand, but it is also essential that each department verify its own figures first.", "es": "Lo entiendo, pero también es esencial que cada área verifique primero sus propias cifras." },
+          { "q": "A", "t": "Absolutely. It is advisable that we hold a short briefing tomorrow morning.", "es": "Por supuesto. Es aconsejable que hagamos una breve reunión mañana temprano." },
+          { "q": "B", "t": "Would it be preferable that the briefing take place online, given the travel schedules?", "es": "¿Sería preferible que la reunión sea en línea, dados los horarios de viaje?" },
+          { "q": "A", "t": "Yes, and attendance is mandatory for the heads of department.", "es": "Sí, y la asistencia es obligatoria para los jefes de área." },
+          { "q": "B", "t": "Then it is crucial that we send the invitation today.", "es": "Entonces es crucial que enviemos la invitación hoy." }
+        ]
+      },
+      "nota": "Con necessary, important y better también funciona: It is important that he be told. En el habla diaria muchos dicen It is important that he is told, pero el subjuntivo es la forma más cuidada."
+    },
+    {
+      "id": "en-c1-u9-l3",
+      "n": 3,
+      "titulo": "Hipótesis: were to y as though",
+      "objetivo": "Hablar de situaciones hipotéticas con were to, if only, suppose y as though.",
+      "intro": "Para lo irreal o improbable, el inglés usa were para todas las personas: If I were you. Truco: were to + verbo suena más formal y habla de algo poco probable: If the market were to collapse, we would adapt.",
+      "palabras": [
+        { "t": "were to", "es": "llegara a (hipótesis formal)", "pron": "uer tu", "ej": "If the prices were to rise, demand would fall.", "ejes": "Si los precios llegaran a subir, la demanda caería.", "cog": false },
+        { "t": "as though", "es": "como si", "pron": "as dóu", "ej": "He speaks as though he knew everything.", "ejes": "Habla como si lo supiera todo.", "cog": false },
+        { "t": "if only", "es": "ojalá, si tan solo", "pron": "if óunli", "ej": "If only I had more time to prepare.", "ejes": "Ojalá tuviera más tiempo para prepararme.", "cog": false },
+        { "t": "suppose", "es": "supongamos, ¿y si", "pron": "sapóus", "ej": "Suppose they refuse our offer, what then?", "ejes": "Supongamos que rechazan nuestra oferta, ¿y entonces?", "cog": true },
+        { "t": "would rather", "es": "preferiría", "pron": "uud ráder", "ej": "I would rather you told him yourself.", "ejes": "Preferiría que se lo dijeras tú mismo.", "cog": false },
+        { "t": "high time", "es": "ya es hora", "pron": "jai taim", "ej": "It's high time we updated the website.", "ejes": "Ya es hora de que actualicemos el sitio web.", "cog": false },
+        { "t": "hypothetical", "es": "hipotético", "pron": "jaipoétical", "ej": "This is a purely hypothetical scenario.", "ejes": "Este es un escenario puramente hipotético.", "cog": true },
+        { "t": "provided that", "es": "siempre que, con la condición de que", "pron": "prováided dat", "ej": "You may leave early provided that the work is finished.", "ejes": "Puedes salir temprano siempre que el trabajo esté terminado.", "cog": false }
+      ],
+      "frases": [
+        { "t": "If I were you, I would renegotiate the terms.", "es": "Si yo fuera tú, renegociaría las condiciones.", "pron": "if ai uer iu, ai uud rinegóushieit da terms" },
+        { "t": "If the client were to cancel, we would lose the contract.", "es": "Si el cliente llegara a cancelar, perderíamos el contrato.", "pron": "if da cláient uer tu cánsel, ui uud lus da cóntract" },
+        { "t": "She acts as though she were the manager.", "es": "Actúa como si fuera la gerente.", "pron": "shi acts as dóu shi uer da mánayer" },
+        { "t": "It's high time we reviewed our strategy.", "es": "Ya es hora de que revisemos nuestra estrategia.", "pron": "its jai taim ui rivíud áuer stráteyi" },
+        { "t": "I would rather you didn't mention it to anyone.", "es": "Preferiría que no se lo mencionaras a nadie.", "pron": "ai uud ráder iu dídent ménshon it tu éniuan" }
+      ],
+      "dialogo": {
+        "titulo": "Un escenario complicado",
+        "lineas": [
+          { "q": "A", "t": "Suppose our main supplier were to raise prices by twenty percent, what would we do?", "es": "Supongamos que nuestro principal proveedor llegara a subir los precios un veinte por ciento, ¿qué haríamos?" },
+          { "q": "B", "t": "It's a hypothetical question, but it's high time we had a contingency plan.", "es": "Es una pregunta hipotética, pero ya es hora de que tengamos un plan de contingencia." },
+          { "q": "A", "t": "If I were the director, I would look for a second supplier immediately.", "es": "Si yo fuera el director, buscaría de inmediato un segundo proveedor." },
+          { "q": "B", "t": "He talks as though the problem had already happened, though.", "es": "Aunque él habla como si el problema ya hubiera ocurrido." },
+          { "q": "A", "t": "I would rather we were prepared than surprised.", "es": "Prefiero que estemos preparados antes que sorprendidos." },
+          { "q": "B", "t": "Fair enough, provided that we keep the costs under control.", "es": "Es justo, siempre que mantengamos los costos bajo control." }
+        ]
+      },
+      "nota": "If only + pasado expresa un deseo sobre el presente (If only I knew); If only + had + participio expresa arrepentimiento del pasado (If only I had known)."
+    },
+    {
+      "id": "en-c1-u9-l4",
+      "n": 4,
+      "titulo": "Inversiones formales",
+      "objetivo": "Usar Should you, Had I y Were it not for en lugar de if en registro formal.",
+      "intro": "En lugar de if, el inglés formal invierte el orden: Should you need help (= If you should need help). Truco: Should, Had y Were se ponen al inicio, antes del sujeto, y if desaparece.",
+      "palabras": [
+        { "t": "should you", "es": "si llegara usted a", "pron": "shud iu", "ej": "Please contact us should you have any questions.", "ejes": "Por favor, contáctenos si tuviera alguna pregunta.", "cog": false },
+        { "t": "had I known", "es": "de haber sabido", "pron": "jad ai noun", "ej": "Had I known the risks, I would have declined.", "ejes": "De haber sabido los riesgos, habría declinado.", "cog": false },
+        { "t": "were it not for", "es": "de no ser por", "pron": "uer it not for", "ej": "Were it not for your help, we would have failed.", "ejes": "De no ser por tu ayuda, habríamos fracasado.", "cog": false },
+        { "t": "not only", "es": "no solo", "pron": "not óunli", "ej": "Not only did she resign, but she also left the country.", "ejes": "No solo renunció, sino que además se fue del país.", "cog": false },
+        { "t": "seldom", "es": "rara vez", "pron": "séldom", "ej": "Seldom have I seen such dedication.", "ejes": "Rara vez he visto tanta dedicación.", "cog": false },
+        { "t": "hardly", "es": "apenas", "pron": "járdli", "ej": "Hardly had we arrived when the meeting began.", "ejes": "Apenas habíamos llegado cuando empezó la reunión.", "cog": false },
+        { "t": "under no circumstances", "es": "bajo ninguna circunstancia", "pron": "ánder nou sércamstansis", "ej": "Under no circumstances should you share the password.", "ejes": "Bajo ninguna circunstancia debes compartir la contraseña.", "cog": false },
+        { "t": "notwithstanding", "es": "no obstante, a pesar de", "pron": "notuidsténdin", "ej": "Notwithstanding the delay, the project was a success.", "ejes": "A pesar del retraso, el proyecto fue un éxito.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Should you require further information, please contact us.", "es": "Si requiriera más información, por favor contáctenos.", "pron": "shud iu riquáier férder infórmeishon, plis cóntact as" },
+        { "t": "Had I known about the delay, I would have called you.", "es": "De haber sabido del retraso, te habría llamado.", "pron": "jad ai noun abáut da diléi, ai uud jav cold iu" },
+        { "t": "Were it not for the sponsors, the event would not exist.", "es": "De no ser por los patrocinadores, el evento no existiría.", "pron": "uer it not for da spónsors, di ivént uud not igsíst" },
+        { "t": "Not only was the report late, but it was also inaccurate.", "es": "El informe no solo llegó tarde, sino que además era inexacto.", "pron": "not óunli uas da ripórt leit, bat it uas ólso inákiurit" },
+        { "t": "Under no circumstances should the door be left open.", "es": "Bajo ninguna circunstancia debe dejarse la puerta abierta.", "pron": "ánder nou sércamstansis shud da dor bi left óupen" }
+      ],
+      "dialogo": {
+        "titulo": "Un correo al cliente",
+        "lineas": [
+          { "q": "A", "t": "Should the client ask for a refund, we would need approval from legal first.", "es": "Si el cliente llegara a pedir un reembolso, necesitaríamos antes la aprobación de legal." },
+          { "q": "B", "t": "Had I known about the complaint earlier, I would have escalated it myself.", "es": "De haber sabido de la queja antes, yo mismo la habría escalado." },
+          { "q": "A", "t": "Seldom do customers complain so politely, so let's reply properly.", "es": "Rara vez los clientes se quejan con tanta cortesía, así que respondamos bien." },
+          { "q": "B", "t": "Not only will we apologize, but we will also offer a discount on the next order.", "es": "No solo nos disculparemos, sino que además ofreceremos un descuento en el próximo pedido." },
+          { "q": "A", "t": "Were it not for his loyalty over the years, I would hesitate to do that.", "es": "De no ser por su lealtad a lo largo de los años, dudaría en hacerlo." },
+          { "q": "B", "t": "Notwithstanding the cost, it protects the relationship.", "es": "A pesar del costo, protege la relación." }
+        ]
+      },
+      "nota": "Después de not only, seldom, hardly y under no circumstances el verbo auxiliar va ANTES del sujeto: Seldom have I seen. Es un rasgo muy típico del inglés escrito y de los discursos."
+    },
+    {
+      "id": "en-c1-u9-l5",
+      "n": 5,
+      "titulo": "Repaso: un comunicado formal",
+      "objetivo": "Combinar subjuntivo, hipótesis e inversiones en un texto formal coherente.",
+      "intro": "Mezcla las tres herramientas: subjuntivo (I recommend that he be), hipótesis (were to) e inversión (Should you). Truco: elige una sola estructura por frase para que el texto no suene recargado.",
+      "palabras": [
+        { "t": "hereby", "es": "por la presente", "pron": "jirbái", "ej": "We hereby confirm your appointment.", "ejes": "Por la presente confirmamos su nombramiento.", "cog": false },
+        { "t": "comply", "es": "cumplir (con una norma)", "pron": "compláy", "ej": "All staff must comply with the new policy.", "ejes": "Todo el personal debe cumplir con la nueva política.", "cog": true },
+        { "t": "refrain from", "es": "abstenerse de", "pron": "rifréin from", "ej": "Please refrain from using your phone during the session.", "ejes": "Por favor abstenerse de usar el teléfono durante la sesión.", "cog": false },
+        { "t": "pursuant to", "es": "de conformidad con", "pron": "pursuánt tu", "ej": "Pursuant to Article 5, the fee is non-refundable.", "ejes": "De conformidad con el Artículo 5, la tarifa no es reembolsable.", "cog": false },
+        { "t": "unless otherwise stated", "es": "salvo indicación contraria", "pron": "anlés áderuais stéited", "ej": "Unless otherwise stated, prices include tax.", "ejes": "Salvo indicación contraria, los precios incluyen impuestos.", "cog": false },
+        { "t": "in the event of", "es": "en caso de", "pron": "in di ivént ov", "ej": "In the event of fire, use the stairs.", "ejes": "En caso de incendio, use las escaleras.", "cog": false },
+        { "t": "inform", "es": "informar", "pron": "infórm", "ej": "We regret to inform you that the flight is canceled.", "ejes": "Lamentamos informarle que el vuelo ha sido cancelado.", "cog": true },
+        { "t": "undertake", "es": "comprometerse a", "pron": "andertéic", "ej": "We undertake to reply within two working days.", "ejes": "Nos comprometemos a responder en dos días hábiles.", "cog": false }
+      ],
+      "frases": [
+        { "t": "We recommend that all employees comply with the new policy.", "es": "Recomendamos que todos los empleados cumplan con la nueva política.", "pron": "ui recoménd dat ol emplóiis compláy uid da niu pólisi" },
+        { "t": "Should any problem arise, please inform us at once.", "es": "Si surgiera algún problema, por favor infórmenos de inmediato.", "pron": "shud éni próblem aráis, plis infórm as at uans" },
+        { "t": "In the event of a delay, passengers will be notified.", "es": "En caso de retraso, se notificará a los pasajeros.", "pron": "in di ivént ov a diléi, pásenyers uil bi nóutifaid" },
+        { "t": "It is essential that visitors refrain from taking photographs.", "es": "Es esencial que los visitantes se abstengan de tomar fotografías.", "pron": "it is esénshal dat vísitors rifréin from téikin fóutografs" },
+        { "t": "If the situation were to worsen, we would close the office.", "es": "Si la situación llegara a empeorar, cerraríamos la oficina.", "pron": "if da sichuéishon uer tu uérsen, ui uud clóus di ófis" },
+        { "t": "We hereby undertake to respect the agreed terms.", "es": "Por la presente nos comprometemos a respetar los términos acordados.", "pron": "ui jirbái andertéic tu rispéct di agrid terms" }
+      ],
+      "dialogo": {
+        "titulo": "Redactar un aviso oficial",
+        "lineas": [
+          { "q": "A", "t": "I suggest that the notice begin with: We hereby inform all staff of the new policy.", "es": "Sugiero que el aviso comience con: Por la presente informamos al personal de la nueva política." },
+          { "q": "B", "t": "Good. It is essential that it also state who must comply and by when.", "es": "Bien. Es esencial que también indique quién debe cumplir y para cuándo." },
+          { "q": "A", "t": "Pursuant to the internal code, employees must refrain from using personal devices.", "es": "De conformidad con el código interno, los empleados deben abstenerse de usar dispositivos personales." },
+          { "q": "B", "t": "And should anyone have questions, they can contact human resources.", "es": "Y si alguien tuviera preguntas, puede contactar a recursos humanos." },
+          { "q": "A", "t": "Were it not for your suggestions, the text would be far too vague.", "es": "De no ser por tus sugerencias, el texto sería demasiado vago." },
+          { "q": "B", "t": "Thank you. I will circulate it as soon as legal approves it.", "es": "Gracias. Lo circularé en cuanto legal lo apruebe." }
+        ]
+      },
+      "nota": "Este registro es propio de contratos, avisos y correos corporativos. En una conversación entre amigos suena exagerado: allí basta con If you need help, tell me."
+    }
+  ]
+}

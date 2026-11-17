@@ -1,0 +1,218 @@
+{
+  "id": "it-c1-u3",
+  "idioma": "it",
+  "nivel": "C1",
+  "n": 3,
+  "titulo": "Matices y connotación",
+  "resumen": "Aprenderás a elegir entre sinónimos italianos según su carga positiva o negativa y su registro: tenace u ostinato, abitazione o casa, elogiare o adulare.",
+  "puedo": [
+    "Distinguir entre sinónimos con carga positiva, neutra o negativa (tenace, ostinato).",
+    "Elegir el verbo de opinión con el matiz exacto (elogiare, adulare, stroncare).",
+    "Adaptar el registro: formal, neutro o coloquial (abitazione, casa, tetto).",
+    "Reconocer y usar eufemismos habituales en la prensa y en el trabajo.",
+    "Explicar por qué una palabra suena mejor o peor en una situación concreta."
+  ],
+  "gramatica": {
+    "titulo": "Misma idea, distinta carga",
+    "texto": "En italiano muchos sinónimos describen la misma realidad pero con una valoración distinta. La connotación puede ser positiva, neutra o negativa, y el registro formal, neutro o coloquial.\nEjemplo: una persona que no cede puede ser tenace (valoración positiva), costante (neutra) u ostinata (negativa).\nTruco: antes de elegir la palabra pregúntate dos cosas. ¿Quiero elogiar, describir o criticar? ¿Hablo con un jefe, con un amigo o en un informe?\nUn mismo hecho cambia de tono según el adjetivo: «sfacciato» y «schietto» describen a alguien que dice las cosas sin rodeos, pero el primero reprocha y el segundo aprueba.",
+    "tabla": [
+      ["È una persona tenace.", "Es una persona perseverante (elogio).", "e úna persóna tenáche"],
+      ["È una persona ostinata.", "Es una persona terca (crítica).", "e úna persóna ostináta"],
+      ["Una dimora storica", "Una residencia histórica (registro elevado).", "úna dimóra stórica"],
+      ["Non ho quattrini.", "No tengo plata (coloquial).", "non o cuattríni"],
+      ["Elogiare / adulare", "Elogiar (sincero) / adular (interesado).", "elogiáre adulare"]
+    ],
+    "errores": [
+      "Traducir siempre «terco» por «ostinato»: en italiano es crítica fuerte; si quieres reconocer constancia, usa «tenace».",
+      "Usar «quattrini» o «sbafare» en un correo formal: son coloquiales; en un texto profesional va «denaro» o «consumare».",
+      "Confundir «sfacciato» (descarado, negativo) con «schietto» (franco, positivo): cambia el significado de la frase."
+    ]
+  },
+  "practica": [
+    "Lee dos reseñas de una misma película en periódicos italianos distintos y subraya los adjetivos que revelan la valoración del autor (12 minutos).",
+    "Escribe tres frases sobre un mismo hecho con carga distinta (elogio, neutro, crítica) usando pares como tenace/ostinato (8 minutos).",
+    "Escucha un podcast de actualidad italiano y anota tres eufemismos o palabras con carga que oigas (10 minutos).",
+    "Reescribe un mensaje coloquial en registro formal cambiando solo el vocabulario y compáralo con el original (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-c1-u3-l1",
+      "n": 1,
+      "titulo": "Personas: elogio o crítica",
+      "objetivo": "Elegir entre adjetivos de carácter parecidos pero con valoración opuesta.",
+      "intro": "Dos adjetivos pueden describir el mismo comportamiento y uno elogia mientras el otro critica. Truco: aprende los pares juntos, por ejemplo tenace / ostinato.",
+      "palabras": [
+        { "t": "tenace", "es": "tenaz, perseverante", "pron": "tenáche", "ej": "È una professionista tenace e molto preparata.", "ejes": "Es una profesional tenaz y muy preparada.", "cog": true },
+        { "t": "ostinato", "es": "terco, obstinado", "pron": "ostináto", "ej": "Sei troppo ostinato per ascoltare un consiglio.", "ejes": "Eres demasiado terco para escuchar un consejo.", "cog": true },
+        { "t": "schietto", "es": "franco, directo", "pron": "skiétto", "ej": "Apprezzo il suo modo schietto di parlare.", "ejes": "Aprecio su manera franca de hablar.", "cog": false },
+        { "t": "sfacciato", "es": "descarado", "pron": "sfachiáto", "ej": "È stato sfacciato a chiedere un aumento il primo giorno.", "ejes": "Fue descarado al pedir un aumento el primer día.", "cog": false },
+        { "t": "ambizioso", "es": "ambicioso", "pron": "ambitsióso", "ej": "È un giovane ambizioso e brillante.", "ejes": "Es un joven ambicioso y brillante.", "cog": true },
+        { "t": "arrivista", "es": "arribista", "pron": "arrivísta", "ej": "Lo considerano un arrivista senza scrupoli.", "ejes": "Lo consideran un arribista sin escrúpulos.", "cog": true },
+        { "t": "curioso", "es": "curioso, inquisitivo", "pron": "curióso", "ej": "È un bambino curioso e pieno di domande.", "ejes": "Es un niño curioso y lleno de preguntas.", "cog": true },
+        { "t": "ficcanaso", "es": "entrometido, metiche", "pron": "ficcanáso", "ej": "Non fare il ficcanaso, non sono affari tuoi.", "ejes": "No seas metiche, no son asuntos tuyos.", "cog": false },
+        { "t": "tirchio", "es": "tacaño", "pron": "tírkio", "ej": "Il capo è un po' tirchio con i bonus.", "ejes": "El jefe es algo tacaño con los bonos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Lui è tenace, ma suo fratello è semplicemente ostinato.", "es": "Él es tenaz, pero su hermano es simplemente terco.", "pron": "lui e tenáche ma súo fratélo e semplichemente ostináto" },
+        { "t": "Preferisco un collega schietto a uno sfacciato.", "es": "Prefiero un colega franco a uno descarado.", "pron": "preferísco un colléga skiétto a úno sfachiáto" },
+        { "t": "Non è un arrivista: è semplicemente molto ambizioso.", "es": "No es un arribista: es simplemente muy ambicioso.", "pron": "non e un arrivísta e semplichemente mólto ambitsióso" },
+        { "t": "Essere curiosi è una virtù, fare il ficcanaso no.", "es": "Ser curioso es una virtud, ser entrometido no.", "pron": "ésere curióssi e úna virtú fáre il ficcanáso no" },
+        { "t": "Il nostro direttore è risparmiatore, non tirchio.", "es": "Nuestro director es ahorrador, no tacaño.", "pron": "il nóstro direttóre e risparmiatóre non tírkio" }
+      ],
+      "dialogo": {
+        "titulo": "Un giudizio sul nuovo collega",
+        "lineas": [
+          { "q": "A", "t": "Che impressione ti ha fatto Davide? A me sembra molto ambizioso, ma non vorrei che fosse un arrivista.", "es": "¿Qué impresión te causó Davide? A mí me parece muy ambicioso, pero no querría que fuera un arribista." },
+          { "q": "B", "t": "Direi che è tenace più che ostinato: quando ha un'idea la difende con i dati, non con la testardaggine.", "es": "Diría que es tenaz más que terco: cuando tiene una idea la defiende con datos, no con cabezonería." },
+          { "q": "A", "t": "Concordo. Mi piace anche il suo modo schietto di parlare, anche se qualcuno in ufficio lo trova un po' sfacciato.", "es": "De acuerdo. Me gusta también su manera franca de hablar, aunque alguien en la oficina lo encuentre algo descarado." },
+          { "q": "B", "t": "Dipende dall'orecchio di chi ascolta. È curioso di tutto, e per questo fa molte domande, ma non è un ficcanaso.", "es": "Depende del oído de quien escucha. Es curioso por todo, y por eso hace muchas preguntas, pero no es un entrometido." },
+          { "q": "A", "t": "Allora lo coinvolgiamo nel progetto nuovo. E speriamo che il capo non sia tirchio con il suo contratto.", "es": "Entonces lo incluimos en el proyecto nuevo. Y esperemos que el jefe no sea tacaño con su contrato." }
+        ]
+      },
+      "nota": "«Ostinato» y «testardo» critican; «tenace» y «determinato» elogian. Entre «curioso» y «ficcanaso» el límite es la intromisión: el primero pregunta por interés, el segundo se mete donde no lo llaman."
+    },
+    {
+      "id": "it-c1-u3-l2",
+      "n": 2,
+      "titulo": "Verbos de valoración y de habla",
+      "objetivo": "Elegir el verbo con el matiz justo para elogiar, criticar o declarar algo.",
+      "intro": "Los verbos de habla traen su propia opinión: elogiar no es adular, y criticar no es estroncare. Truco: busca si el verbo deja ver la intención de quien habla.",
+      "palabras": [
+        { "t": "elogiare", "es": "elogiar", "pron": "elodyiáre", "ej": "La giuria ha voluto elogiare il suo coraggio.", "ejes": "El jurado quiso elogiar su valentía.", "cog": true },
+        { "t": "adulare", "es": "adular", "pron": "adulare", "ej": "Non serve adulare il capo per ottenere un aumento.", "ejes": "No hace falta adular al jefe para conseguir un aumento.", "cog": true },
+        { "t": "biasimare", "es": "reprochar, censurar", "pron": "biasimáre", "ej": "Nessuno potrebbe biasimare la sua scelta.", "ejes": "Nadie podría censurar su decisión.", "cog": false },
+        { "t": "stroncare", "es": "criticar duramente, demoler", "pron": "stroncáre", "ej": "I critici hanno voluto stroncare il suo ultimo film.", "ejes": "Los críticos quisieron demoler su última película.", "cog": false },
+        { "t": "vantarsi", "es": "jactarse, presumir", "pron": "vantársi", "ej": "Non è elegante vantarsi dei propri successi.", "ejes": "No es elegante jactarse de los propios éxitos.", "cog": false },
+        { "t": "millantare", "es": "alardear, fanfarronear", "pron": "milantáre", "ej": "Non devi millantare competenze che non hai.", "ejes": "No debes alardear de competencias que no tienes.", "cog": false },
+        { "t": "ammettere", "es": "admitir, reconocer", "pron": "ammétere", "ej": "Bisogna ammettere che avevi ragione.", "ejes": "Hay que admitir que tenías razón.", "cog": true },
+        { "t": "confessare", "es": "confesar", "pron": "confessáre", "ej": "Devo confessare che non ho letto il documento.", "ejes": "Debo confesar que no leí el documento.", "cog": true },
+        { "t": "insinuare", "es": "insinuar", "pron": "insinuáre", "ej": "Non voglio insinuare che abbia sbagliato di proposito.", "ejes": "No quiero insinuar que se haya equivocado a propósito.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Ho voluto elogiare il suo impegno, non adularlo.", "es": "Quise elogiar su compromiso, no adularlo.", "pron": "o volúto elodyiáre il súo impéño non adulárlo" },
+        { "t": "La stampa ha stroncato il nuovo romanzo senza pietà.", "es": "La prensa demolió la nueva novela sin piedad.", "pron": "la stámpa a stroncáto il nuóvo romántso sénsa pietá" },
+        { "t": "Devo ammettere che la proposta mi ha sorpreso.", "es": "Debo admitir que la propuesta me sorprendió.", "pron": "dévo ammétere ke la propósta mi a sorpréso" },
+        { "t": "Non vorrei insinuare nulla, ma i conti non tornano.", "es": "No quisiera insinuar nada, pero las cuentas no cuadran.", "pron": "non vorréi insinuáre núlla ma i cónti non tórnano" },
+        { "t": "Si vanta di conoscere tutti, ma in realtà non conosce nessuno.", "es": "Se jacta de conocer a todos, pero en realidad no conoce a nadie.", "pron": "si vánta di conóscere túti ma in realtá non conósce nessúno" }
+      ],
+      "dialogo": {
+        "titulo": "La recensione",
+        "lineas": [
+          { "q": "A", "t": "Hai letto come hanno stroncato il suo libro? Io non lo biasimo per essersi offeso, la critica è stata davvero feroce.", "es": "¿Leíste cómo demolieron su libro? Yo no lo censuro por haberse ofendido, la crítica fue realmente feroz." },
+          { "q": "B", "t": "Devo ammettere che ho avuto la stessa impressione. Non voglio insinuare nulla, ma sembra che il recensore avesse un conto in sospeso.", "es": "Debo admitir que tuve la misma impresión. No quiero insinuar nada, pero parece que el reseñista tenía una cuenta pendiente." },
+          { "q": "A", "t": "Eppure anche lui si vanta di essere imparziale. Poi però elogia solo gli amici, e adula chi può aiutarlo nella carriera.", "es": "Y sin embargo él también presume de ser imparcial. Después solo elogia a los amigos y adula a quien puede ayudarlo en su carrera." },
+          { "q": "B", "t": "Se devo essere sincero, confesso che il libro non mi è piaciuto neanche a me, ma non c'è bisogno di essere così crudeli.", "es": "Si debo ser sincero, confieso que el libro tampoco me gustó a mí, pero no hace falta ser tan cruel." },
+          { "q": "A", "t": "Hai ragione: la critica si fa con argomenti, non con arroganza e senza millantare competenze che non si hanno.", "es": "Tienes razón: la crítica se hace con argumentos, no con arrogancia ni alardeando de competencias que no se tienen." }
+        ]
+      },
+      "nota": "«Biasimare» se usa casi siempre en negativo («non ti biasimo») para decir que entiendes al otro. «Vantarsi» y «millantare» tienen carga negativa; «millantare» implica además que lo dicho es falso."
+    },
+    {
+      "id": "it-c1-u3-l3",
+      "n": 3,
+      "titulo": "Registro: formal, neutro y coloquial",
+      "objetivo": "Reconocer el registro de una palabra y elegir la adecuada según la situación.",
+      "intro": "La misma realidad tiene palabras de registro alto, neutro o coloquial. Truco: en un correo profesional elige la opción neutra o formal; en una charla con amigos puedes usar la coloquial.",
+      "palabras": [
+        { "t": "abitazione", "es": "vivienda (formal)", "pron": "abitatsióne", "ej": "L'abitazione principale è esente dall'imposta.", "ejes": "La vivienda principal está exenta del impuesto.", "cog": false },
+        { "t": "dimora", "es": "morada, residencia (elevado)", "pron": "dimóra", "ej": "Il conte ha eletto la sua dimora in campagna.", "ejes": "El conde estableció su morada en el campo.", "cog": false },
+        { "t": "quattrini", "es": "plata, dinero (coloquial)", "pron": "cuattríni", "ej": "Non ho i quattrini per una vacanza così.", "ejes": "No tengo plata para unas vacaciones así.", "cog": false },
+        { "t": "denaro", "es": "dinero (formal/neutro)", "pron": "denáro", "ej": "Il denaro non basta a risolvere tutto.", "ejes": "El dinero no basta para resolverlo todo.", "cog": false },
+        { "t": "impiego", "es": "empleo, puesto", "pron": "impiégo", "ej": "Ha trovato un impiego stabile in banca.", "ejes": "Encontró un empleo estable en un banco.", "cog": false },
+        { "t": "spegnersi", "es": "fallecer (eufemismo)", "pron": "spegnérsi", "ej": "Ha vissuto fino a spegnersi serenamente nel sonno.", "ejes": "Vivió hasta fallecer serenamente mientras dormía.", "cog": false },
+        { "t": "crepare", "es": "reventar, morir (coloquial, vulgar)", "pron": "crepáre", "ej": "Fa così caldo che qui si rischia di crepare.", "ejes": "Hace tanto calor que aquí uno corre el riesgo de reventar.", "cog": false },
+        { "t": "sbafare", "es": "engullir, comer a costa ajena", "pron": "sbafáre", "ej": "Non puoi sbafare tutto il buffet da solo.", "ejes": "No puedes engullir todo el bufé tú solo.", "cog": false },
+        { "t": "redarguire", "es": "reprender (formal)", "pron": "redarguíre", "ej": "Il preside dovette redarguire gli studenti.", "ejes": "El director tuvo que reprender a los estudiantes.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Nel contratto si parla di abitazione, non di casa.", "es": "En el contrato se habla de vivienda, no de casa.", "pron": "nel contrátto si párla di abitatsióne non di cása" },
+        { "t": "Con tutti questi quattrini potresti comprarti una barca.", "es": "Con toda esa plata podrías comprarte un bote.", "pron": "con túti cuésti cuattríni potrésti compráriti úna bárca" },
+        { "t": "Il nonno si è spento nel sonno, dopo una vita serena.", "es": "El abuelo falleció dormido, después de una vida serena.", "pron": "il nónno si e spénto nel sónno dópo úna víta seréna" },
+        { "t": "Preferisco dire denaro in un testo scritto e soldi a voce.", "es": "Prefiero decir denaro en un texto escrito y soldi de viva voz.", "pron": "preferísco díre denáro in un técsto scritto e sóldi a vóche" },
+        { "t": "Quello sbafa a ufo a ogni cena di lavoro.", "es": "Ese come de gorra en cada cena de trabajo.", "pron": "cuéllo sbáfa a úfo a óñi chéna di lavóro" }
+      ],
+      "dialogo": {
+        "titulo": "Scrivere o parlare",
+        "lineas": [
+          { "q": "A", "t": "Nella lettera ufficiale ho scritto che l'abitazione dei clienti è inagibile, ma al telefono ho detto semplicemente che la casa è danneggiata.", "es": "En la carta oficial escribí que la vivienda de los clientes es inhabitable, pero por teléfono dije simplemente que la casa está dañada." },
+          { "q": "B", "t": "Fai bene: lo stesso fatto richiede parole diverse. Nel verbale useresti dimora solo in un testo letterario o storico.", "es": "Haces bien: el mismo hecho requiere palabras distintas. En el acta usarías morada solo en un texto literario o histórico." },
+          { "q": "A", "t": "Esatto. E per i soldi, nel documento ho messo denaro; quattrini lo lascio per le chiacchiere con i colleghi.", "es": "Exacto. Y para el dinero, en el documento puse denaro; quattrini lo dejo para las charlas con los colegas." },
+          { "q": "B", "t": "Attenzione anche ai verbi: dire che qualcuno è crepato in una lettera di condoglianze sarebbe una gaffe, si scrive che si è spento.", "es": "Atención también a los verbos: decir que alguien reventó en una carta de condolencias sería una metida de pata, se escribe que falleció." },
+          { "q": "A", "t": "Lo so bene. E in un commento severo scriverei redarguire, non sgridare, perché il tono deve restare formale.", "es": "Lo sé bien. Y en un comentario severo escribiría redarguire, no sgridare, porque el tono debe seguir siendo formal." }
+        ]
+      },
+      "nota": "«Crepare» y «sbafare» son coloquiales; «spegnersi» y «scomparire» son eufemismos de muerte. En la comunicación profesional, el registro neutro es siempre una buena opción."
+    },
+    {
+      "id": "it-c1-u3-l4",
+      "n": 4,
+      "titulo": "Eufemismos y lenguaje con carga",
+      "objetivo": "Reconocer los eufemismos más usados en la prensa y el trabajo, y explicar su efecto.",
+      "intro": "Algunas palabras se eligen para suavizar la realidad o para disfrazarla. Truco: cuando leas «razionalizzazione» o «esuberi», pregúntate qué realidad suavizan.",
+      "palabras": [
+        { "t": "eufemismo", "es": "eufemismo", "pron": "eufemísmo", "ej": "«Ristrutturazione» è spesso un eufemismo per licenziamenti.", "ejes": "«Reestructuración» es muchas veces un eufemismo de despidos.", "cog": true },
+        { "t": "edulcorare", "es": "edulcorar, suavizar", "pron": "edulcoráre", "ej": "Il portavoce ha cercato di edulcorare la notizia.", "ejes": "El portavoz intentó edulcorar la noticia.", "cog": true },
+        { "t": "esuberi", "es": "excedentes de personal (despidos)", "pron": "esubéri", "ej": "L'azienda ha annunciato duecento esuberi.", "ejes": "La empresa anunció doscientos despidos por excedente.", "cog": false },
+        { "t": "razionalizzazione", "es": "racionalización (ajuste)", "pron": "ratsionalidsatsióne", "ej": "La razionalizzazione dei costi è iniziata a gennaio.", "ejes": "El ajuste de costos comenzó en enero.", "cog": true },
+        { "t": "non vedente", "es": "persona ciega (invidente)", "pron": "non vedénte", "ej": "L'evento è accessibile anche a un non vedente.", "ejes": "El evento es accesible también para una persona ciega.", "cog": false },
+        { "t": "operatore ecologico", "es": "operario de limpieza urbana", "pron": "operatóre ecolódyico", "ej": "L'operatore ecologico passa ogni mattina alle sei.", "ejes": "El operario de limpieza pasa cada mañana a las seis.", "cog": false },
+        { "t": "politicamente corretto", "es": "políticamente correcto", "pron": "politicaménte corrétto", "ej": "Il linguaggio politicamente corretto divide l'opinione pubblica.", "ejes": "El lenguaje políticamente correcto divide a la opinión pública.", "cog": true },
+        { "t": "sfumatura", "es": "matiz", "pron": "sfumatúra", "ej": "Ogni sfumatura di significato conta.", "ejes": "Cada matiz de significado cuenta.", "cog": false },
+        { "t": "connotazione", "es": "connotación", "pron": "connotatsióne", "ej": "La parola ha una connotazione negativa.", "ejes": "La palabra tiene una connotación negativa.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Parlare di esuberi invece di licenziamenti è un eufemismo.", "es": "Hablar de excedentes en vez de despidos es un eufemismo.", "pron": "parláre di esubéri invéche di lichentsiaménti e un eufemísmo" },
+        { "t": "La razionalizzazione ha colpito soprattutto i reparti amministrativi.", "es": "El ajuste afectó sobre todo a los departamentos administrativos.", "pron": "la ratsionalidsatsióne a colpíto soprattútto i repárti amministratíi" },
+        { "t": "Un non vedente ha vinto il premio di letteratura.", "es": "Una persona ciega ganó el premio de literatura.", "pron": "un non vedénte a vínto il prémio di letteratúra" },
+        { "t": "Il portavoce ha edulcorato i dati dell'ultimo trimestre.", "es": "El portavoz edulcoró los datos del último trimestre.", "pron": "il portavóche a edulcoráto i dáti dellúltimo trimestre" },
+        { "t": "Ogni parola ha una connotazione che dipende dal contesto.", "es": "Cada palabra tiene una connotación que depende del contexto.", "pron": "óñi paróla a una connotatsióne ke dipénde dal contésto" }
+      ],
+      "dialogo": {
+        "titulo": "Le parole dell'azienda",
+        "lineas": [
+          { "q": "A", "t": "Nel comunicato parlano di razionalizzazione e di esuberi: è un eufemismo evidente per dire che licenzieranno quasi cento persone.", "es": "En el comunicado hablan de racionalización y de excedentes: es un eufemismo evidente para decir que despedirán a casi cien personas." },
+          { "q": "B", "t": "Il portavoce ha cercato di edulcorare la notizia, ma ogni sfumatura rivela più di quanto vorrebbe. La connotazione resta pesante.", "es": "El portavoz intentó edulcorar la noticia, pero cada matiz revela más de lo que querría. La connotación sigue siendo pesada." },
+          { "q": "A", "t": "Anche il linguaggio politicamente corretto ha i suoi limiti: a volte nasconde i problemi invece di risolverli.", "es": "También el lenguaje políticamente correcto tiene sus límites: a veces esconde los problemas en vez de resolverlos." },
+          { "q": "B", "t": "Dipende. Dire non vedente invece di cieco può essere un segno di rispetto, mentre operatore ecologico per spazzino non cambia il lavoro.", "es": "Depende. Decir no vedente en vez de cieco puede ser una señal de respeto, mientras que operatore ecologico para barrendero no cambia el trabajo." },
+          { "q": "A", "t": "Proprio questo è il punto: le parole nuove aiutano solo se cambiano anche le condizioni reali, altrimenti è pura cosmesi.", "es": "Justamente ese es el punto: las palabras nuevas ayudan solo si cambian también las condiciones reales, de lo contrario es pura cosmética." }
+        ]
+      },
+      "nota": "No todos los eufemismos son negativos: algunos, como «non vedente» o «non udente», nacieron para respetar a las personas. Lo que cuenta es si la nueva palabra cambia la realidad o solo la oculta."
+    },
+    {
+      "id": "it-c1-u3-l5",
+      "n": 5,
+      "titulo": "Repaso: elegir bien la palabra",
+      "objetivo": "Aplicar la idea de connotación y registro para analizar y reescribir un texto breve.",
+      "intro": "Repasa leyendo un mismo hecho contado de tres formas y eligiendo la más adecuada. Truco: pregúntate siempre quién escribe, a quién y para qué.",
+      "palabras": [
+        { "t": "accezione", "es": "la acepción", "pron": "atchetsióne", "ej": "In questa accezione la parola è positiva.", "ejes": "En esta acepción la palabra es positiva.", "cog": true },
+        { "t": "valenza", "es": "el valor, la carga de significado", "pron": "la valéntsa", "ej": "La parola ha una valenza ironica.", "ejes": "La palabra tiene un valor irónico.", "cog": false },
+        { "t": "peggiorativo", "es": "peyorativo", "pron": "peddyoratívo", "ej": "Il termine ha un senso peggiorativo.", "ejes": "El término tiene un sentido peyorativo.", "cog": true },
+        { "t": "spregiativo", "es": "despectivo", "pron": "spredyatívo", "ej": "È un tono spregiativo, quasi offensivo.", "ejes": "Es un tono despectivo, casi ofensivo.", "cog": false },
+        { "t": "il gergo", "es": "la jerga", "pron": "il dyérgo", "ej": "Il gergo giovanile cambia molto in fretta.", "ejes": "La jerga juvenil cambia muy rápido.", "cog": false },
+        { "t": "sottinteso", "es": "lo sobrentendido", "pron": "sottintéso", "ej": "Nel suo discorso c'era un sottinteso evidente.", "ejes": "En su discurso había un sobrentendido evidente.", "cog": false },
+        { "t": "il registro", "es": "el registro", "pron": "il redyístro", "ej": "Il registro dell'email deve restare formale.", "ejes": "El registro del correo debe seguir siendo formal.", "cog": true },
+        { "t": "in senso lato", "es": "en sentido amplio", "pron": "in sénso láto", "ej": "In senso lato, anche questa è una critica.", "ejes": "En sentido amplio, esta también es una crítica.", "cog": false }
+      ],
+      "frases": [
+        { "t": "In questa accezione la parola ha una valenza positiva.", "es": "En esta acepción la palabra tiene un valor positivo.", "pron": "in cuésta atchetsióne la paróla a úna valéntsa positíva" },
+        { "t": "Il tono era spregiativo, e il sottinteso evidente.", "es": "El tono era despectivo, y lo sobrentendido evidente.", "pron": "il tóno éra spredyatívo e il sottintéso evidénte" },
+        { "t": "Nel gergo giovanile quella parola non è peggiorativa.", "es": "En la jerga juvenil esa palabra no es peyorativa.", "pron": "nel dyérgo dyovanile cuélla paróla non e peddyoratíva" },
+        { "t": "Devi cambiare il registro: questa email è troppo informale.", "es": "Debes cambiar el registro: este correo es demasiado informal.", "pron": "dévi cambiáre il redyístro cuésta imeíl e tróppo informále" },
+        { "t": "In senso lato, ostinato e tenace descrivono la stessa persona.", "es": "En sentido amplio, ostinato y tenace describen a la misma persona.", "pron": "in sénso láto ostináto e tenáche descrívono la stéssa persóna" }
+      ],
+      "dialogo": {
+        "titulo": "Rivedere un testo",
+        "lineas": [
+          { "q": "A", "t": "Ho riletto la tua email: il registro è troppo informale, e quel quattrini nel secondo paragrafo suona fuori luogo con il direttore.", "es": "Releí tu correo: el registro es demasiado informal, y ese quattrini del segundo párrafo suena fuera de lugar con el director." },
+          { "q": "B", "t": "Hai ragione, lo cambio con denaro. Ma sull'aggettivo ostinato non sono sicuro: in questa accezione secondo me non è peggiorativo.", "es": "Tienes razón, lo cambio por denaro. Pero sobre el adjetivo ostinato no estoy seguro: en esta acepción en mi opinión no es peyorativo." },
+          { "q": "A", "t": "Invece lo è: la valenza è negativa. Se vuoi elogiare la sua costanza, scrivi tenace, o il lettore capirà un sottinteso che non intendi.", "es": "En cambio sí lo es: el valor es negativo. Si quieres elogiar su constancia, escribe tenace, o el lector entenderá un sobrentendido que no pretendes." },
+          { "q": "B", "t": "Capisco. In senso lato i due aggettivi si somigliano, ma il tono cambia completamente, e nel gergo d'ufficio è facile equivocare.", "es": "Entiendo. En sentido amplio los dos adjetivos se parecen, pero el tono cambia por completo, y en la jerga de oficina es fácil equivocarse." },
+          { "q": "A", "t": "Esatto. Evita anche i toni spregiativi: una critica ben formulata convince di più di una battuta fuori misura.", "es": "Exacto. Evita también los tonos despectivos: una crítica bien formulada convence más que una broma desmedida." }
+        ]
+      },
+      "nota": "Al leer prensa italiana, fíjate en qué adjetivo elige el periodista para un mismo hecho: es la forma más rápida de detectar su postura sin que lo diga abiertamente."
+    }
+  ]
+}

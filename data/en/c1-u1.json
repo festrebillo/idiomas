@@ -1,0 +1,216 @@
+{
+  "id": "en-c1-u1",
+  "idioma": "en",
+  "nivel": "C1",
+  "n": 1,
+  "titulo": "Énfasis e inversión",
+  "resumen": "Aprenderás a dar énfasis con adverbios negativos al inicio de la oración (never, rarely, not only, no sooner) y la inversión de sujeto y auxiliar que exigen.",
+  "puedo": [
+    "Usar never, rarely y seldom al inicio de la oración con la inversión correcta.",
+    "Construir not only... but also y no sooner... than con énfasis.",
+    "Usar hardly y scarcely con when para sucesos inmediatos.",
+    "Emplear under no circumstances y at no point en lenguaje formal.",
+    "Reconocer la inversión en la lectura de prensa y discursos."
+  ],
+  "gramatica": {
+    "titulo": "Inversión tras un adverbio negativo",
+    "texto": "Cuando una expresión negativa o restrictiva abre la oración, el auxiliar pasa delante del sujeto, como en una pregunta. Orden normal: I have never seen such a mess. Con énfasis: Never have I seen such a mess.\nSi el verbo no tiene auxiliar, se añade do, does o did: Rarely does she complain. Seldom did they arrive on time.\nEsto ocurre con never, rarely, seldom, hardly, scarcely, no sooner, not only, under no circumstances, at no point, little. Es un registro formal o literario, frecuente en discursos, prensa y escritura cuidada.\nTruco: si empiezas con la expresión negativa, haz de la oración una pregunta sin signo de interrogación.",
+    "tabla": [
+      ["Never have I seen such talent.", "Nunca he visto tanto talento.", "néver jav ai siin sach tálent"],
+      ["Rarely does he ask for help.", "Rara vez pide ayuda.", "rérli das ji ask for jelp"],
+      ["Not only did she apologize, but she also paid.", "No solo se disculpó, sino que también pagó.", "not óunli did shi apólogaiz, bat shi ólsou peid"],
+      ["No sooner had we arrived than it rained.", "Apenas habíamos llegado cuando llovió.", "nou súner jad ui aráivd dan it reind"],
+      ["Hardly had he left when she called.", "Apenas se fue, ella llamó.", "járdli jad ji left juen shi cold"],
+      ["Under no circumstances should you sign it.", "Bajo ninguna circunstancia debes firmarlo.", "ánder nou sérkamstansis shud iu sain it"]
+    ],
+    "errores": [
+      "No mantengas el orden normal tras la expresión negativa: es Never have I seen it, no «Never I have seen it».",
+      "No olvides el auxiliar do cuando no lo hay: Rarely does she complain, no «Rarely she complains».",
+      "Con no sooner usa than, no when: No sooner had we sat down than the show began."
+    ]
+  },
+  "practica": [
+    "Lee un editorial de The Economist o The Guardian y subraya 5 oraciones con inversión; reescríbelas en orden normal (15 minutos).",
+    "Escribe 8 oraciones con never, rarely, not only y no sooner sobre tu trabajo o tus estudios (15 minutos).",
+    "Escucha un discurso famoso en inglés (por ejemplo, de una graduación) y anota las inversiones que oigas (12 minutos).",
+    "Graba 1 minuto de audio contando una crisis en el trabajo con al menos 4 inversiones (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-c1-u1-l1",
+      "n": 1,
+      "titulo": "Never, rarely y seldom",
+      "objetivo": "Abrir oraciones con never, rarely y seldom e invertir el auxiliar.",
+      "intro": "Los adverbios de frecuencia negativa ganan fuerza al inicio de la oración. Truco: después del adverbio viene un auxiliar, como si hicieras una pregunta: Rarely do we see this.",
+      "palabras": [
+        { "t": "never before", "es": "nunca antes", "pron": "néver bifór", "ej": "Never before have I witnessed such a collapse.", "ejes": "Nunca antes había presenciado un colapso así.", "cog": false },
+        { "t": "seldom", "es": "rara vez", "pron": "séldom", "ej": "Seldom does the board approve a budget so quickly.", "ejes": "Rara vez la junta aprueba un presupuesto tan rápido.", "cog": false },
+        { "t": "rarely", "es": "casi nunca", "pron": "rérli", "ej": "Rarely do consultants admit their mistakes.", "ejes": "Casi nunca los consultores admiten sus errores.", "cog": false },
+        { "t": "scarcely", "es": "apenas", "pron": "skérsli", "ej": "Scarcely anyone noticed the change in policy.", "ejes": "Apenas alguien notó el cambio de política.", "cog": false },
+        { "t": "unprecedented", "es": "sin precedentes", "pron": "anprésidentid", "ej": "The merger created an unprecedented opportunity.", "ejes": "La fusión creó una oportunidad sin precedentes.", "cog": true },
+        { "t": "reluctant", "es": "reacio", "pron": "rilóctant", "ej": "He was reluctant to share the figures.", "ejes": "Era reacio a compartir las cifras.", "cog": true },
+        { "t": "meticulous", "es": "meticuloso", "pron": "metíquiulos", "ej": "She is meticulous about every detail.", "ejes": "Ella es meticulosa con cada detalle.", "cog": true },
+        { "t": "candor", "es": "franqueza", "pron": "cándor", "ej": "I admired her candor during the meeting.", "ejes": "Admiré su franqueza durante la reunión.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Never have I seen such dedication.", "es": "Nunca he visto tanta dedicación.", "pron": "néver jav ai siin sach dedikéishon" },
+        { "t": "Rarely does he ask for help, even when he needs it.", "es": "Rara vez pide ayuda, incluso cuando la necesita.", "pron": "rérli das ji ask for jelp, ívn juen ji niids it" },
+        { "t": "Seldom have the markets reacted so sharply.", "es": "Rara vez los mercados han reaccionado de forma tan brusca.", "pron": "séldom jav da márquets riáctid sou sharpli" },
+        { "t": "Never before had the company faced such scrutiny.", "es": "Nunca antes la empresa había enfrentado tanto escrutinio.", "pron": "néver bifór jad da cámpani feist sach scrútini" },
+        { "t": "Scarcely anyone read the full report.", "es": "Apenas alguien leyó el informe completo.", "pron": "skérsli éniuan red da ful ripórt" }
+      ],
+      "dialogo": {
+        "titulo": "Tras la auditoría",
+        "lineas": [
+          { "q": "A", "t": "Never before have I seen the auditors so meticulous about a minor expense.", "es": "Nunca antes había visto a los auditores tan meticulosos con un gasto menor." },
+          { "q": "B", "t": "Seldom does a department face this level of scrutiny, so I'm not surprised.", "es": "Rara vez un departamento enfrenta este nivel de escrutinio, así que no me sorprende." },
+          { "q": "A", "t": "Rarely do I feel nervous, but this time the stakes are unprecedented.", "es": "Casi nunca me pongo nervioso, pero esta vez lo que está en juego no tiene precedentes." },
+          { "q": "B", "t": "Be candid with them. Scarcely anyone punishes honesty in these situations.", "es": "Sé franco con ellos. Apenas alguien castiga la honestidad en estas situaciones." },
+          { "q": "A", "t": "You're right. I was reluctant to admit the error, but I'll do it today.", "es": "Tienes razón. Era reacio a admitir el error, pero lo haré hoy." }
+        ]
+      },
+      "nota": "Seldom y rarely son casi sinónimos; seldom suena algo más literario. En conversación normal es más común hardly ever, sin inversión."
+    },
+    {
+      "id": "en-c1-u1-l2",
+      "n": 2,
+      "titulo": "Not only... but also",
+      "objetivo": "Enfatizar dos hechos con not only seguido de inversión.",
+      "intro": "Not only al inicio añade énfasis a una información sorprendente. Truco: la inversión va solo en la primera parte; después de but also el orden es normal: Not only did she win, but she also broke the record.",
+      "palabras": [
+        { "t": "not only", "es": "no solo", "pron": "not óunli", "ej": "Not only did the plan fail, but it also cost us millions.", "ejes": "No solo fracasó el plan, sino que nos costó millones.", "cog": false },
+        { "t": "but also", "es": "sino también", "pron": "bat ólsou", "ej": "She was not only brilliant but also generous.", "ejes": "Ella no solo era brillante, sino también generosa.", "cog": false },
+        { "t": "not merely", "es": "no simplemente", "pron": "not mírli", "ej": "It was not merely a mistake; it was negligence.", "ejes": "No fue simplemente un error; fue negligencia.", "cog": false },
+        { "t": "outstanding", "es": "sobresaliente", "pron": "autstándin", "ej": "Her outstanding performance impressed the committee.", "ejes": "Su desempeño sobresaliente impresionó al comité.", "cog": false },
+        { "t": "undermine", "es": "socavar", "pron": "andermáin", "ej": "Constant criticism can undermine a team's confidence.", "ejes": "La crítica constante puede socavar la confianza de un equipo.", "cog": false },
+        { "t": "jeopardize", "es": "poner en peligro", "pron": "yépardaiz", "ej": "A single leak could jeopardize the entire deal.", "ejes": "Una sola filtración podría poner en peligro todo el acuerdo.", "cog": false },
+        { "t": "flawless", "es": "impecable", "pron": "flólis", "ej": "The presentation was flawless from start to finish.", "ejes": "La presentación fue impecable de principio a fin.", "cog": false },
+        { "t": "acclaim", "es": "elogio, reconocimiento", "pron": "aclém", "ej": "The film received critical acclaim worldwide.", "ejes": "La película recibió elogios de la crítica en todo el mundo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Not only did she apologize, but she also offered compensation.", "es": "No solo se disculpó, sino que ofreció una compensación.", "pron": "not óunli did shi apólogaiz, bat shi ólsou ófferd compenséishon" },
+        { "t": "Not only is the design flawless, but it is also affordable.", "es": "No solo el diseño es impecable, sino también económico.", "pron": "not óunli is da disáin flólis, bat it is ólsou afórdabol" },
+        { "t": "Not only have they lost money, but they have also lost trust.", "es": "No solo han perdido dinero, sino también la confianza.", "pron": "not óunli jav dei lost máni, bat dei jav ólsou lost trast" },
+        { "t": "Not merely a setback, this could jeopardize the whole project.", "es": "No es un simple contratiempo; podría poner en peligro todo el proyecto.", "pron": "not mírli a sétbac, dis cud yépardaiz da jol próyect" },
+        { "t": "Not only did the novel win acclaim, it also sold millions of copies.", "es": "La novela no solo ganó reconocimiento, también vendió millones de copias.", "pron": "not óunli did da nóvel uin aclém, it ólsou sold mílions ov cópis" }
+      ],
+      "dialogo": {
+        "titulo": "Elogio a una colega",
+        "lineas": [
+          { "q": "A", "t": "Not only did Laura deliver a flawless presentation, but she also answered every question.", "es": "Laura no solo dio una presentación impecable, sino que respondió todas las preguntas." },
+          { "q": "B", "t": "Not only that, she did it with only a day's notice.", "es": "Y no solo eso: lo hizo con un solo día de aviso." },
+          { "q": "A", "t": "Her outstanding work has earned the client's acclaim.", "es": "Su trabajo sobresaliente se ha ganado el reconocimiento del cliente." },
+          { "q": "B", "t": "Yes, and unlike others, she never tries to undermine her colleagues.", "es": "Sí, y a diferencia de otros, nunca intenta socavar a sus colegas." },
+          { "q": "A", "t": "We should nominate her. Not only does she deserve it, but the team needs the morale boost.", "es": "Deberíamos nominarla. No solo lo merece, sino que el equipo necesita el impulso de ánimo." }
+        ]
+      },
+      "nota": "Not only puede ir en medio de la oración sin inversión: She is not only talented but also humble. La inversión es solo para abrir la oración."
+    },
+    {
+      "id": "en-c1-u1-l3",
+      "n": 3,
+      "titulo": "No sooner... than y hardly... when",
+      "objetivo": "Expresar que un suceso ocurrió justo después de otro con no sooner y hardly.",
+      "intro": "Estas estructuras dicen que algo pasó casi al instante tras otra cosa. Truco: ambas usan el past perfect invertido (had + sujeto + participio); no sooner va con than, y hardly o scarcely con when.",
+      "palabras": [
+        { "t": "no sooner", "es": "apenas, en cuanto", "pron": "nou súner", "ej": "No sooner had I sat down than the phone rang.", "ejes": "Apenas me senté, sonó el teléfono.", "cog": false },
+        { "t": "hardly", "es": "apenas", "pron": "járdli", "ej": "Hardly had the meeting started when the power went out.", "ejes": "Apenas había empezado la reunión cuando se fue la luz.", "cog": false },
+        { "t": "the moment", "es": "en el momento en que", "pron": "da móument", "ej": "I knew the moment she walked in that something was wrong.", "ejes": "Supe en el momento en que entró que algo andaba mal.", "cog": false },
+        { "t": "abruptly", "es": "de repente, bruscamente", "pron": "abráptli", "ej": "The talks ended abruptly after the walkout.", "ejes": "Las negociaciones terminaron bruscamente tras la salida de los delegados.", "cog": true },
+        { "t": "unfold", "es": "desarrollarse", "pron": "anfóuld", "ej": "We watched the crisis unfold in real time.", "ejes": "Vimos desarrollarse la crisis en tiempo real.", "cog": false },
+        { "t": "swiftly", "es": "con rapidez", "pron": "suíftli", "ej": "The firm responded swiftly to the allegations.", "ejes": "La firma respondió con rapidez a las acusaciones.", "cog": false },
+        { "t": "backfire", "es": "salir el tiro por la culata", "pron": "bacfáier", "ej": "Their aggressive campaign began to backfire.", "ejes": "Su agresiva campaña empezó a volverse en su contra.", "cog": false },
+        { "t": "aftermath", "es": "secuelas, consecuencias", "pron": "áfterzmaz", "ej": "In the aftermath of the scandal, the CEO resigned.", "ejes": "Tras el escándalo, el director ejecutivo renunció.", "cog": false }
+      ],
+      "frases": [
+        { "t": "No sooner had we arrived than it started to rain.", "es": "Apenas llegamos, empezó a llover.", "pron": "nou súner jad ui aráivd dan it started tu rein" },
+        { "t": "Hardly had she finished speaking when the audience applauded.", "es": "Apenas terminó de hablar, el público aplaudió.", "pron": "járdli jad shi fínisht spíkin juen di ódiens aplódid" },
+        { "t": "Scarcely had the news broken when shares plunged.", "es": "Apenas se dio la noticia, las acciones se desplomaron.", "pron": "skérsli jad da nius brouken juen shers plangd" },
+        { "t": "No sooner was the policy announced than critics attacked it.", "es": "Apenas se anunció la política, los críticos la atacaron.", "pron": "nou súner uas da pólisi anáunst dan crítics atákt it" },
+        { "t": "Hardly had the dust settled when a new problem emerged.", "es": "Apenas se asentó el polvo, surgió un nuevo problema.", "pron": "járdli jad da dast sétld juen a niu próblem imérrd" }
+      ],
+      "dialogo": {
+        "titulo": "La crisis de ayer",
+        "lineas": [
+          { "q": "A", "t": "No sooner had the article been published than the phones started ringing.", "es": "Apenas se publicó el artículo, empezaron a sonar los teléfonos." },
+          { "q": "B", "t": "Hardly had I opened my email when forty messages appeared.", "es": "Apenas abrí mi correo, aparecieron cuarenta mensajes." },
+          { "q": "A", "t": "We responded swiftly, but the aftermath was still messy.", "es": "Respondimos con rapidez, pero las secuelas igual fueron complicadas." },
+          { "q": "B", "t": "Our first statement backfired. Scarcely had we issued it when journalists pounced.", "es": "Nuestro primer comunicado salió mal. Apenas lo emitimos, los periodistas saltaron encima." },
+          { "q": "A", "t": "Let's watch how this unfolds before we say anything else.", "es": "Veamos cómo se desarrolla esto antes de decir algo más." }
+        ]
+      },
+      "nota": "En el inglés cotidiano se dice As soon as I sat down, the phone rang. La versión con inversión es más formal y dramática."
+    },
+    {
+      "id": "en-c1-u1-l4",
+      "n": 4,
+      "titulo": "Under no circumstances y little",
+      "objetivo": "Dar prohibiciones y énfasis formales con under no circumstances, at no point y little.",
+      "intro": "Estas expresiones aparecen en reglamentos, contratos y discursos. Truco: cualquier frase con no (at no time, on no account, in no way) abierta al inicio provoca inversión.",
+      "palabras": [
+        { "t": "under no circumstances", "es": "bajo ninguna circunstancia", "pron": "ánder nou sérkamstansis", "ej": "Under no circumstances should staff disclose passwords.", "ejes": "Bajo ninguna circunstancia el personal debe revelar contraseñas.", "cog": false },
+        { "t": "at no point", "es": "en ningún momento", "pron": "at nou point", "ej": "At no point did the manager mention the delay.", "ejes": "En ningún momento el gerente mencionó el retraso.", "cog": false },
+        { "t": "on no account", "es": "de ningún modo", "pron": "on nou acáunt", "ej": "On no account must the doors be left unlocked.", "ejes": "De ningún modo deben dejarse las puertas sin llave.", "cog": false },
+        { "t": "in no way", "es": "de ninguna manera", "pron": "in nou uei", "ej": "In no way am I suggesting that you were careless.", "ejes": "De ninguna manera sugiero que fueras descuidado.", "cog": false },
+        { "t": "little", "es": "poco (énfasis: apenas)", "pron": "lítol", "ej": "Little did they know that the deal was already dead.", "ejes": "Poco sabían que el trato ya estaba muerto.", "cog": false },
+        { "t": "prohibited", "es": "prohibido", "pron": "projíbitid", "ej": "Photography is strictly prohibited in the gallery.", "ejes": "Se prohíbe estrictamente fotografiar en la galería.", "cog": true },
+        { "t": "disclose", "es": "revelar, divulgar", "pron": "disclóus", "ej": "You must not disclose confidential information.", "ejes": "No debes divulgar información confidencial.", "cog": false },
+        { "t": "stringent", "es": "estricto, riguroso", "pron": "strínyent", "ej": "The company enforces stringent security rules.", "ejes": "La empresa aplica reglas de seguridad estrictas.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Under no circumstances should you share your password.", "es": "Bajo ninguna circunstancia debes compartir tu contraseña.", "pron": "ánder nou sérkamstansis shud iu sher ior pásuerd" },
+        { "t": "At no point was the client informed of the risk.", "es": "En ningún momento se informó al cliente del riesgo.", "pron": "at nou point uas da cláient infórmd ov da risk" },
+        { "t": "On no account may visitors enter the laboratory.", "es": "De ningún modo pueden entrar visitantes al laboratorio.", "pron": "on nou acáunt mei vísitors énter da lábratori" },
+        { "t": "Little did she realize how serious the situation was.", "es": "Poco se imaginaba lo grave que era la situación.", "pron": "lítol did shi ríalaiz jau síirios da sitiuéishon uas" },
+        { "t": "In no way does this decision reflect on your performance.", "es": "De ninguna manera esta decisión refleja tu desempeño.", "pron": "in nou uei das dis disíshon riflect on ior performans" }
+      ],
+      "dialogo": {
+        "titulo": "Normas de seguridad",
+        "lineas": [
+          { "q": "A", "t": "Under no circumstances should you disclose the client list to anyone outside the firm.", "es": "Bajo ninguna circunstancia debes revelar la lista de clientes a nadie fuera de la firma." },
+          { "q": "B", "t": "Understood. Are the rules always this stringent?", "es": "Entendido. ¿Las reglas siempre son tan estrictas?" },
+          { "q": "A", "t": "Yes. Little did our competitors expect that we would tighten them after the leak.", "es": "Sí. Poco esperaban nuestros competidores que las endureceríamos tras la filtración." },
+          { "q": "B", "t": "At no point did I receive that information during my induction.", "es": "En ningún momento recibí esa información durante mi inducción." },
+          { "q": "A", "t": "In no way is that your fault. I'll send you the full policy today.", "es": "De ninguna manera es culpa tuya. Te enviaré hoy la política completa." }
+        ]
+      },
+      "nota": "Little did + sujeto + infinitivo suele usarse en narración para sugerir que alguien ignoraba lo que vendría: Little did he know..."
+    },
+    {
+      "id": "en-c1-u1-l5",
+      "n": 5,
+      "titulo": "Repaso: inversión en acción",
+      "objetivo": "Combinar las estructuras de inversión en un relato o discurso formal.",
+      "intro": "Mezcla todo lo visto: never, rarely, not only, no sooner, under no circumstances. Truco: úsalas con moderación; una o dos inversiones bien colocadas dan más fuerza que diez seguidas.",
+      "palabras": [
+        { "t": "scrutiny", "es": "escrutinio", "pron": "scrútini", "ej": "The merger faced intense scrutiny from regulators.", "ejes": "La fusión enfrentó un escrutinio intenso de los reguladores.", "cog": true },
+        { "t": "emphatic", "es": "enfático, rotundo", "pron": "emfátic", "ej": "She gave an emphatic denial of the rumors.", "ejes": "Ella desmintió los rumores de forma rotunda.", "cog": true },
+        { "t": "resilience", "es": "resiliencia", "pron": "rizílians", "ej": "The team showed remarkable resilience after the defeat.", "ejes": "El equipo mostró una resiliencia notable tras la derrota.", "cog": true },
+        { "t": "overwhelmed", "es": "abrumado", "pron": "ouverjuélmd", "ej": "I was overwhelmed by the number of applications.", "ejes": "Me abrumó la cantidad de solicitudes.", "cog": false },
+        { "t": "vindicated", "es": "reivindicado, justificado", "pron": "víndicetid", "ej": "The results left the scientist vindicated.", "ejes": "Los resultados dejaron reivindicado al científico.", "cog": true },
+        { "t": "sheer", "es": "puro, mero", "pron": "shir", "ej": "The sheer scale of the project amazed everyone.", "ejes": "La enorme magnitud del proyecto asombró a todos.", "cog": false },
+        { "t": "prevail", "es": "prevalecer, imponerse", "pron": "privéil", "ej": "Common sense must prevail in the end.", "ejes": "El sentido común debe prevalecer al final.", "cog": true },
+        { "t": "tenacity", "es": "tenacidad", "pron": "tenásiti", "ej": "Her tenacity eventually paid off.", "ejes": "Su tenacidad finalmente dio frutos.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Never have I been so overwhelmed by sheer volume of work.", "es": "Nunca me había abrumado tanto el puro volumen de trabajo.", "pron": "néver jav ai bin sou ouverjuélmd bai shir vólium ov uerk" },
+        { "t": "Not only did she show tenacity, but she also showed resilience.", "es": "No solo mostró tenacidad, sino también resiliencia.", "pron": "not óunli did shi shou tenásiti, bat shi ólsou shou rizílians" },
+        { "t": "No sooner had the results appeared than he felt vindicated.", "es": "Apenas aparecieron los resultados, se sintió reivindicado.", "pron": "nou súner jad da rizálts apírd dan ji felt víndicetid" },
+        { "t": "Rarely does common sense prevail in such disputes.", "es": "Rara vez prevalece el sentido común en estas disputas.", "pron": "rérli das cómon sens privéil in sach dispiúts" },
+        { "t": "Under no circumstances will we tolerate this behavior.", "es": "Bajo ninguna circunstancia toleraremos este comportamiento.", "pron": "ánder nou sérkamstansis uil ui tólereit dis bijéivior" }
+      ],
+      "dialogo": {
+        "titulo": "Discurso de fin de año",
+        "lineas": [
+          { "q": "A", "t": "Never has this department faced such intense scrutiny as it did this year.", "es": "Nunca este departamento enfrentó un escrutinio tan intenso como este año." },
+          { "q": "B", "t": "True. Not only did we survive, but we also grew.", "es": "Cierto. No solo sobrevivimos, sino que también crecimos." },
+          { "q": "A", "t": "Rarely do teams show such resilience under pressure.", "es": "Rara vez los equipos muestran tanta resiliencia bajo presión." },
+          { "q": "B", "t": "No sooner had we fixed one problem than another one appeared.", "es": "Apenas arreglábamos un problema, aparecía otro." },
+          { "q": "A", "t": "Exactly. Little did I imagine that we would end the year vindicated.", "es": "Exacto. Poco imaginaba que terminaríamos el año reivindicados." },
+          { "q": "B", "t": "Your tenacity made the difference. Let's make that the headline of the speech.", "es": "Tu tenacidad marcó la diferencia. Hagamos de eso el titular del discurso." }
+        ]
+      },
+      "nota": "En un discurso, una inversión al inicio de un párrafo funciona como un golpe de efecto. Ponla en la frase más importante, no en todas."
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "id": "it-c1-u5",
+  "idioma": "it",
+  "nivel": "C1",
+  "n": 5,
+  "titulo": "Ironía, humor y sentido figurado",
+  "resumen": "Aprenderás a reconocer y usar la ironía, el sarcasmo, las metáforas y los modi di dire, y a dar matices con los alterati: -ino, -one, -accio, -astro.",
+  "puedo": [
+    "Distinguir entre ironía, sarcasmo y burla en una conversación.",
+    "Entender y usar modi di dire como gettare la spugna o fare orecchie da mercante.",
+    "Hacer y entender bromas, juegos de palabras y frasi spiritose sin ofender.",
+    "Dar matices afectivos o despectivos con los alterati (librone, parolaccia, poetastro).",
+    "Reconocer el sentido figurado de una expresión y explicarlo."
+  ],
+  "gramatica": {
+    "titulo": "Los alterati: sufijos que cambian el matiz",
+    "texto": "Los alterati son palabras a las que se añade un sufijo para cambiar el tamaño o la actitud del hablante.\nDiminutivos y vezzeggiativi: -ino, -etto, -ello. Pequeño o afectuoso: casetta, ragazzino, furbetto.\nAccrescitivi: -one. Grande, a veces con ironía: librone, stanzone.\nPeggiorativi y dispregiativi: -accio, -astro, -ucolo. Negativo o despectivo: parolaccia, poetastro, tipaccio.\nTruco: el sufijo expresa la opinión de quien habla, no siempre un tamaño real. Un «furbetto» es pillín; un «mammone» es un adulto demasiado dependiente de su madre.\nNo todas las palabras admiten todos los sufijos; muchos alterati ya tienen significado propio (il tavolino, la manina).",
+    "tabla": [
+      ["la casetta", "la casita (pequeña, acogedora)", "la casétta"],
+      ["il librone", "el libro grande, el mamotreto", "il libróne"],
+      ["la parolaccia", "la mala palabra", "la parolácha"],
+      ["il poetastro", "el poetastro, mal poeta", "il poetástro"],
+      ["il furbetto", "el pillín, el listillo", "il furbétto"]
+    ],
+    "errores": [
+      "Crear alterati por analogía con el español: «perrito» no es «perrino», sino «cagnolino».",
+      "Usar «-accio» o «-astro» como si fueran neutros: son siempre negativos, como «ragazzaccio» o «poetastro».",
+      "Olvidar que el sufijo puede cambiar el género: «la stanza» pasa a «lo stanzone» o «lo stanzino» (masculino)."
+    ]
+  },
+  "practica": [
+    "Lee una columna humorística de un diario italiano (por ejemplo, de la sección de opinión o satírica) y subraya tres expresiones irónicas o figuradas (12 minutos).",
+    "Escucha un monólogo de un comediante italiano o un sketch en vídeo y anota dos juegos de palabras que entiendas (10 minutos).",
+    "Escribe un párrafo de seis líneas con tres modi di dire y dos alterati con matiz afectivo o despectivo (10 minutos).",
+    "Cuéntale a una persona o graba un audio sobre una anécdota graciosa usando una ironía suave y una autoironía (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-c1-u5-l1",
+      "n": 1,
+      "titulo": "Ironía y sarcasmo",
+      "objetivo": "Reconocer el tono irónico o sarcástico y responder con naturalidad.",
+      "intro": "La ironía dice una cosa para sugerir otra; el sarcasmo, además, hiere. Truco: en italiano el tono y el contexto marcan la diferencia, no solo las palabras.",
+      "palabras": [
+        { "t": "ironia", "es": "ironía", "pron": "ironía", "ej": "Non capisco se c'è ironia nelle sue parole.", "ejes": "No sé si hay ironía en sus palabras.", "cog": true },
+        { "t": "sarcasmo", "es": "sarcasmo", "pron": "sarcásmo", "ej": "Il suo sarcasmo ferisce più di un insulto.", "ejes": "Su sarcasmo hiere más que un insulto.", "cog": true },
+        { "t": "sarcastico", "es": "sarcástico", "pron": "sarcástico", "ej": "Mi ha risposto con un tono sarcastico.", "ejes": "Me respondió con un tono sarcástico.", "cog": true },
+        { "t": "frecciatina", "es": "indirecta, pulla", "pron": "frechatína", "ej": "Ha lanciato una frecciatina al direttore.", "ejes": "Lanzó una indirecta al director.", "cog": false },
+        { "t": "prendere in giro", "es": "tomar el pelo, burlarse de", "pron": "préndere in dyíro", "ej": "Smettila di prendere in giro il collega.", "ejes": "Deja de burlarte del colega.", "cog": false },
+        { "t": "canzonare", "es": "burlarse, mofarse de", "pron": "cantsonáre", "ej": "Non è bello canzonare chi sbaglia.", "ejes": "No está bien burlarse de quien se equivoca.", "cog": false },
+        { "t": "pungente", "es": "punzante", "pron": "pundyénte", "ej": "Il suo umorismo è molto pungente.", "ejes": "Su humor es muy punzante.", "cog": false },
+        { "t": "tagliente", "es": "cortante, mordaz", "pron": "talyénte", "ej": "Ha una risposta sempre tagliente.", "ejes": "Tiene una respuesta siempre mordaz.", "cog": false },
+        { "t": "alludere", "es": "aludir", "pron": "allúdere", "ej": "Non voglio alludere a nessuno in particolare.", "ejes": "No quiero aludir a nadie en particular.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Bravo, hai proprio fatto un ottimo lavoro!", "es": "¡Bravo, has hecho un trabajo estupendo! (con ironía).", "pron": "brávo ái própio fátto un óttimo lavóro" },
+        { "t": "Che bella giornata per restare in coda per due ore.", "es": "Qué lindo día para quedarse dos horas en la cola.", "pron": "ke bélla dyornáta per restáre in códa per dúe óre" },
+        { "t": "Non prenderla sul personale, era solo una frecciatina.", "es": "No lo tomes como algo personal, era solo una indirecta.", "pron": "non prendérla sul personále éra sólo úna frechatína" },
+        { "t": "Il suo sarcasmo tagliente ha messo tutti a disagio.", "es": "Su sarcasmo mordaz puso a todos incómodos.", "pron": "il súo sarcásmo talyénte a méso túti a disádyo" },
+        { "t": "Mi sembra che tu mi stia prendendo in giro.", "es": "Me parece que me estás tomando el pelo.", "pron": "mi sémbra ke tu mi stía prendéndo in dyíro" }
+      ],
+      "dialogo": {
+        "titulo": "Un commento ironico",
+        "lineas": [
+          { "q": "A", "t": "Hai visto la presentazione del nuovo direttore? Bravo davvero, ha parlato quaranta minuti senza dire una sola cosa concreta.", "es": "¿Viste la presentación del nuevo director? Bravo de verdad, habló cuarenta minutos sin decir una sola cosa concreta." },
+          { "q": "B", "t": "Non so se sia ironia o sarcasmo la tua. A me è sembrata una frecciatina un po' pungente, e forse non del tutto giusta.", "es": "No sé si lo tuyo es ironía o sarcasmo. A mí me pareció una indirecta algo punzante, y quizás no del todo justa." },
+          { "q": "A", "t": "Non volevo prendere in giro nessuno, volevo solo alludere al fatto che tutti sappiamo come finirà: con un'altra riunione inutile.", "es": "No quería burlarme de nadie, solo quería aludir a que todos sabemos cómo terminará: con otra reunión inútil." },
+          { "q": "B", "t": "Capisco, ma un tono tagliente non aiuta. Se vuoi criticare, fallo con argomenti: l'ironia funziona solo se l'altro la coglie.", "es": "Entiendo, pero un tono mordaz no ayuda. Si quieres criticar, hazlo con argumentos: la ironía funciona solo si el otro la capta." },
+          { "q": "A", "t": "Hai ragione. Non è bello canzonare chi ci prova, anche se ci prova male. Gli scriverò due righe costruttive.", "es": "Tienes razón. No está bien burlarse de quien lo intenta, aunque lo intente mal. Le escribiré dos líneas constructivas." }
+        ]
+      },
+      "nota": "Con colegas, jefes o desconocidos, el sarcasmo es un riesgo: sin la cara y el tono, un mensaje escrito irónico se lee casi siempre como crítica seria. En correos profesionales, mejor evitarlo."
+    },
+    {
+      "id": "it-c1-u5-l2",
+      "n": 2,
+      "titulo": "Metáforas y modi di dire",
+      "objetivo": "Entender y usar modi di dire italianos con su sentido figurado.",
+      "intro": "El italiano está lleno de imágenes: no se dice «rendirse», se «tira la esponja». Truco: aprende cada expresión entera y piensa en la imagen, no en la traducción palabra por palabra.",
+      "palabras": [
+        { "t": "gettare la spugna", "es": "tirar la toalla (rendirse)", "pron": "dyettáre la spúña", "ej": "Non voglio gettare la spugna adesso.", "ejes": "No quiero tirar la toalla ahora.", "cog": false },
+        { "t": "menare il can per l'aia", "es": "andarse por las ramas", "pron": "menáre il can per láia", "ej": "Smettila di menare il can per l'aia e rispondi.", "ejes": "Deja de andarte por las ramas y responde.", "cog": false },
+        { "t": "fare orecchie da mercante", "es": "hacerse el sordo", "pron": "fáre orécchie da mercánte", "ej": "Non puoi fare orecchie da mercante davanti alle critiche.", "ejes": "No puedes hacerte el sordo ante las críticas.", "cog": false },
+        { "t": "ingoiare il rospo", "es": "tragarse el sapo", "pron": "ingoiáre il róspo", "ej": "A volte bisogna ingoiare il rospo per la pace.", "ejes": "A veces hay que tragarse el sapo por la paz.", "cog": false },
+        { "t": "al verde", "es": "sin dinero, pelado", "pron": "al vérde", "ej": "Sono rimasto al verde a metà mese.", "ejes": "Me quedé sin dinero a mitad de mes.", "cog": false },
+        { "t": "avere le mani in pasta", "es": "estar metido, tener influencia", "pron": "avére le máni in pásta", "ej": "Vorrebbe avere le mani in pasta in ogni progetto.", "ejes": "Querría estar metido en cada proyecto.", "cog": false },
+        { "t": "nella stessa barca", "es": "en el mismo barco", "pron": "nélla stéssa bárca", "ej": "Siamo tutti nella stessa barca, quindi collaboriamo.", "ejes": "Estamos todos en el mismo barco, así que colaboremos.", "cog": false },
+        { "t": "prendere due piccioni con una fava", "es": "matar dos pájaros de un tiro", "pron": "préndere dúe pichóni con úna fáva", "ej": "Con questa mossa possiamo prendere due piccioni con una fava.", "ejes": "Con esta jugada podemos matar dos pájaros de un tiro.", "cog": false },
+        { "t": "rompere il ghiaccio", "es": "romper el hielo", "pron": "rómpere il guiácho", "ej": "Una battuta aiuta a rompere il ghiaccio.", "ejes": "Una broma ayuda a romper el hielo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Dopo tre rifiuti non ha gettato la spugna.", "es": "Después de tres rechazos no tiró la toalla.", "pron": "dópo tre rifiúti non a dyettáto la spúña" },
+        { "t": "Smettila di menare il can per l'aia, dimmi la verità.", "es": "Deja de andarte por las ramas, dime la verdad.", "pron": "smétila di menáre il can per láia dimmi la veritá" },
+        { "t": "Il capo ha fatto orecchie da mercante alla mia richiesta.", "es": "El jefe se hizo el sordo ante mi pedido.", "pron": "il cápo a fátto orécchie da mercánte alla mía richiésta" },
+        { "t": "A fine mese sono sempre al verde.", "es": "A fin de mes siempre estoy sin dinero.", "pron": "a fíne mése sóno sémpre al vérde" },
+        { "t": "Siamo nella stessa barca: o ci salviamo tutti o nessuno.", "es": "Estamos en el mismo barco: o nos salvamos todos o ninguno.", "pron": "siámo nélla stéssa bárca o chi salviámo túti o nessúno" }
+      ],
+      "dialogo": {
+        "titulo": "Una trattativa difficile",
+        "lineas": [
+          { "q": "A", "t": "Il cliente fa orecchie da mercante da settimane: ogni volta che propongo un compromesso, menano il can per l'aia.", "es": "El cliente se hace el sordo desde hace semanas: cada vez que propongo un compromiso, se andan por las ramas." },
+          { "q": "B", "t": "Lo so, ma non possiamo gettare la spugna ora. Siamo nella stessa barca: se salta questo contratto, restiamo tutti al verde.", "es": "Lo sé, pero no podemos tirar la toalla ahora. Estamos en el mismo barco: si se cae este contrato, nos quedamos todos sin dinero." },
+          { "q": "A", "t": "Allora forse conviene ingoiare il rospo e accettare una riduzione del prezzo, anche se mi costa parecchio.", "es": "Entonces quizás conviene tragarse el sapo y aceptar una reducción del precio, aunque me cueste bastante." },
+          { "q": "B", "t": "Aspetta. Potremmo prendere due piccioni con una fava: offriamo lo sconto in cambio di un contratto biennale.", "es": "Espera. Podríamos matar dos pájaros de un tiro: ofrecemos el descuento a cambio de un contrato bienal." },
+          { "q": "A", "t": "Ottima idea. Domani rompo il ghiaccio io, con una telefonata informale, e poi voi avete le mani in pasta con i dettagli.", "es": "Excelente idea. Mañana rompo el hielo yo, con una llamada informal, y luego ustedes meten las manos en los detalles." }
+        ]
+      },
+      "nota": "Los modi di dire casi nunca se pueden cambiar: no se dice «lanciare la spugna» ni «menare il cane per l'aia». Usa la forma exacta; si no la conoces, prefiere una expresión literal."
+    },
+    {
+      "id": "it-c1-u5-l3",
+      "n": 3,
+      "titulo": "Humor y bromas",
+      "objetivo": "Hacer una broma, reaccionar a ella y hablar de humor con vocabulario preciso.",
+      "intro": "El humor depende de la cultura: lo gracioso en Roma puede no serlo en Lima. Truco: la autoironía (reírse de uno mismo) casi nunca ofende.",
+      "palabras": [
+        { "t": "battuta", "es": "chiste, broma, ocurrencia", "pron": "battúta", "ej": "Ha fatto una battuta che ha rotto la tensione.", "ejes": "Hizo una broma que rompió la tensión.", "cog": false },
+        { "t": "umorismo", "es": "humor", "pron": "umorísmo", "ej": "Ha un senso dell'umorismo molto raffinato.", "ejes": "Tiene un sentido del humor muy refinado.", "cog": true },
+        { "t": "spiritoso", "es": "gracioso, ocurrente", "pron": "spiritóso", "ej": "Il tuo collega è davvero spiritoso.", "ejes": "Tu colega es realmente gracioso.", "cog": false },
+        { "t": "scherzare", "es": "bromear", "pron": "skerzáre", "ej": "Non c'è da scherzare su questi temi.", "ejes": "No hay que bromear con estos temas.", "cog": false },
+        { "t": "autoironia", "es": "autoironía", "pron": "autoironía", "ej": "Serve una buona dose di autoironia.", "ejes": "Hace falta una buena dosis de autoironía.", "cog": true },
+        { "t": "ridere a crepapelle", "es": "morirse de risa", "pron": "ridére a crepapélle", "ej": "Quella scena mi fa ridere a crepapelle.", "ejes": "Esa escena me hace morir de risa.", "cog": false },
+        { "t": "buttare in ridere", "es": "tomar a broma, quitar hierro", "pron": "buttáre in ridére", "ej": "Meglio non buttare in ridere un problema serio.", "ejes": "Mejor no tomar a broma un problema serio.", "cog": false },
+        { "t": "fare una gaffe", "es": "meter la pata", "pron": "fáre úna gáf", "ej": "Rischia di fare una gaffe davanti ai clienti.", "ejes": "Corre el riesgo de meter la pata delante de los clientes.", "cog": false },
+        { "t": "freddura", "es": "chiste flojo, juego de palabras soso", "pron": "freddúra", "ej": "Ha raccontato una freddura che nessuno ha capito.", "ejes": "Contó un chiste malo que nadie entendió.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Con una battuta ha sciolto la tensione in sala.", "es": "Con una broma disolvió la tensión en la sala.", "pron": "con úna battúta a shóltto la tensióne in sála" },
+        { "t": "Ha un grande senso dell'umorismo e molta autoironia.", "es": "Tiene un gran sentido del humor y mucha autoironía.", "pron": "a un gránde sénso delumorísmo e mólta autoironía" },
+        { "t": "Sulle cose serie non si scherza mai.", "es": "Con las cosas serias nunca se bromea.", "pron": "sulle cóse séri non si squérza mái" },
+        { "t": "Ha fatto una gaffe terribile e ha provato a buttarla in ridere.", "es": "Cometió una metida de pata terrible e intentó quitarle hierro.", "pron": "a fátto úna gaf terríbile e a provato a buttárla in ridére" },
+        { "t": "Eravamo così stanchi che ridevamo a crepapelle per niente.", "es": "Estábamos tan cansados que nos reíamos a carcajadas por nada.", "pron": "eravámo cosí stánchi ke ridevámo a crepapélle per niénte" }
+      ],
+      "dialogo": {
+        "titulo": "Una cena di lavoro",
+        "lineas": [
+          { "q": "A", "t": "Ieri sera il nostro direttore ha fatto una gaffe terribile con il cliente, poi ha provato a buttarla in ridere, ma peggiorando le cose.", "es": "Ayer por la noche nuestro director cometió una metida de pata terrible con el cliente, luego intentó quitarle hierro, pero empeoró las cosas." },
+          { "q": "B", "t": "Per fortuna il cliente ha un grande senso dell'umorismo: ha risposto con una battuta e tutti hanno ripreso a respirare.", "es": "Por suerte el cliente tiene un gran sentido del humor: respondió con una broma y todos volvieron a respirar." },
+          { "q": "A", "t": "Sì, ma non c'è da scherzare sul prezzo di un contratto. Dopo, il direttore ha raccontato una freddura così brutta che nessuno ha riso.", "es": "Sí, pero no hay que bromear con el precio de un contrato. Después, el director contó un chiste malo tan pésimo que nadie rió." },
+          { "q": "B", "t": "A me ha fatto ridere a crepapelle, ma proprio per la goffaggine. Per fortuna è spiritoso con se stesso: ci vuole molta autoironia.", "es": "A mí me hizo morir de risa, pero justamente por la torpeza. Por suerte es gracioso consigo mismo: hace falta mucha autoironía." },
+          { "q": "A", "t": "Concordo: chi sa ridere di sé ha già mezzo risolto il problema, e la prossima volta forse farà più attenzione.", "es": "Estoy de acuerdo: quien sabe reírse de sí mismo ya tiene medio resuelto el problema, y la próxima vez quizás tendrá más cuidado." }
+        ]
+      },
+      "nota": "El humor negro, el político y el religioso son terreno delicado en ambientes profesionales italianos. Una buena regla: bromea sobre ti o sobre situaciones, no sobre personas concretas."
+    },
+    {
+      "id": "it-c1-u5-l4",
+      "n": 4,
+      "titulo": "Alterati con matiz",
+      "objetivo": "Usar sufijos diminutivos, aumentativos y despectivos para expresar la actitud del hablante.",
+      "intro": "Con un sufijo puedes decir cariño, ironía o desprecio sin cambiar de palabra. Truco: -ino y -etto suelen ser afectuosos; -accio y -astro, despectivos.",
+      "palabras": [
+        { "t": "parolaccia", "es": "mala palabra, grosería", "pron": "parolácha", "ej": "Il bambino ha detto una parolaccia a tavola.", "ejes": "El niño dijo una mala palabra en la mesa.", "cog": false },
+        { "t": "librone", "es": "libro grande, mamotreto", "pron": "libróne", "ej": "Mi ha prestato un librone di mille pagine.", "ejes": "Me prestó un mamotreto de mil páginas.", "cog": false },
+        { "t": "poetastro", "es": "poetastro", "pron": "poetástro", "ej": "Non sopporto quel poetastro presuntuoso.", "ejes": "No soporto a ese poetastro presuntuoso.", "cog": true },
+        { "t": "stanzino", "es": "cuartito, trastero", "pron": "stantsíno", "ej": "Tiene le scope nello stanzino.", "ejes": "Guarda las escobas en el trastero.", "cog": false },
+        { "t": "tipaccio", "es": "tipejo, tipo desagradable", "pron": "tipácho", "ej": "Quel tipaccio non mi piace per niente.", "ejes": "Ese tipejo no me gusta para nada.", "cog": false },
+        { "t": "tempaccio", "es": "tiempo horrible", "pron": "tempácho", "ej": "Con questo tempaccio non esco.", "ejes": "Con este tiempo horrible no salgo.", "cog": false },
+        { "t": "mammone", "es": "hijo de mamá (despectivo)", "pron": "mammóne", "ej": "A trent'anni è ancora un mammone.", "ejes": "A los treinta años sigue siendo un hijo de mamá.", "cog": false },
+        { "t": "furbetto", "es": "pillín, listillo", "pron": "furbétto", "ej": "Sei un furbetto, hai già capito tutto.", "ejes": "Eres un pillín, ya lo entendiste todo.", "cog": false },
+        { "t": "scarponi", "es": "botas de montaña", "pron": "scarpóni", "ej": "Per la neve servono scarponi robusti.", "ejes": "Para la nieve hacen falta botas de montaña robustas.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Ha detto una parolaccia davanti ai clienti.", "es": "Dijo una mala palabra delante de los clientes.", "pron": "a détto úna parolácha davánti ai cliénti" },
+        { "t": "Mi ha regalato un librone di storia dell'arte.", "es": "Me regaló un mamotreto de historia del arte.", "pron": "mi a regaláto un librone di stória delárte" },
+        { "t": "Quel poetastro crede di essere un genio.", "es": "Ese poetastro cree que es un genio.", "pron": "cuel poetástro créde di ésere un dyénio" },
+        { "t": "Che tempaccio, non si può uscire con questa pioggia.", "es": "Qué tiempo horrible, no se puede salir con esta lluvia.", "pron": "ke tempácho non si púo uscíre con cuésta piódya" },
+        { "t": "Non fare il furbetto, lo so che hai capito benissimo.", "es": "No hagas el pillín, sé que entendiste perfectamente.", "pron": "non fáre il furbétto lo só ke ái capíto benissimo" }
+      ],
+      "dialogo": {
+        "titulo": "Chiacchiere in ufficio",
+        "lineas": [
+          { "q": "A", "t": "Hai visto il collaboratore nuovo? Sembra un tipaccio, ma in realtà è un furbetto simpatico: ha già capito come funziona tutto.", "es": "¿Viste al colaborador nuevo? Parece un tipejo, pero en realidad es un pillín simpático: ya entendió cómo funciona todo." },
+          { "q": "B", "t": "Io l'ho trovato un po' mammone: ieri ha telefonato alla madre per chiedere dove fossero i suoi scarponi prima di una gita aziendale.", "es": "A mí me pareció algo hijo de mamá: ayer llamó a su madre para preguntar dónde estaban sus botas antes de una excursión de la empresa." },
+          { "q": "A", "t": "Vero, con questo tempaccio sono serviti davvero. Mi ha prestato un librone sulla storia dell'azienda, mille pagine di aneddoti.", "es": "Cierto, con este tiempo horrible sí sirvieron. Me prestó un mamotreto sobre la historia de la empresa, mil páginas de anécdotas." },
+          { "q": "B", "t": "Il suo autore è un poetastro locale, scrive versi pessimi. Non dire parolacce, però: l'ho appena conosciuto e mi sembra gentile.", "es": "Su autor es un poetastro local, escribe versos pésimos. No digas malas palabras, sin embargo: acabo de conocerlo y me parece amable." },
+          { "q": "A", "t": "Hai ragione, scusa. Tengo il libro nello stanzino finché non trovo il tempo di restituirlo, senza dirgli cosa ne penso davvero.", "es": "Tienes razón, disculpa. Guardo el libro en el trastero hasta que encuentre tiempo de devolverlo, sin decirle lo que realmente pienso." }
+        ]
+      },
+      "nota": "Muchos alterati ya son palabras con vida propia: «il tavolino» no es una mesa pequeña cualquiera sino una mesita; «il cartellone» es un cartel. Aprende los más comunes como palabras nuevas."
+    },
+    {
+      "id": "it-c1-u5-l5",
+      "n": 5,
+      "titulo": "Repaso: sentido figurado y matiz",
+      "objetivo": "Combinar ironía, imágenes y alterati para entender y producir un texto con tono personal.",
+      "intro": "Repasa analizando un breve texto irónico: ¿qué dice, qué quiere decir y cómo lo marca? Truco: la ironía se reconoce porque lo dicho choca con la realidad.",
+      "palabras": [
+        { "t": "metafora", "es": "metáfora", "pron": "metáfora", "ej": "Questa metafora è molto efficace.", "ejes": "Esta metáfora es muy eficaz.", "cog": true },
+        { "t": "similitudine", "es": "símil, comparación", "pron": "similitúdine", "ej": "Usa una similitudine tratta dalla natura.", "ejes": "Usa un símil sacado de la naturaleza.", "cog": true },
+        { "t": "in senso figurato", "es": "en sentido figurado", "pron": "in sénso figuráto", "ej": "In senso figurato, significa non arrendersi.", "ejes": "En sentido figurado, significa no rendirse.", "cog": false },
+        { "t": "doppio senso", "es": "doble sentido", "pron": "dóppio sénso", "ej": "La battuta ha un doppio senso evidente.", "ejes": "La broma tiene un doble sentido evidente.", "cog": false },
+        { "t": "ambiguità", "es": "ambigüedad", "pron": "ambiguitá", "ej": "Evitiamo ogni ambiguità nel testo.", "ejes": "Evitemos toda ambigüedad en el texto.", "cog": true },
+        { "t": "ammiccare", "es": "guiñar el ojo, hacer un guiño", "pron": "ammiccáre", "ej": "Ha voluto ammiccare al pubblico con una battuta.", "ejes": "Quiso hacer un guiño al público con una broma.", "cog": false },
+        { "t": "sottintendere", "es": "dar a entender, sobrentender", "pron": "sottintendére", "ej": "Le sue parole sembrano sottintendere una critica.", "ejes": "Sus palabras parecen dar a entender una crítica.", "cog": false },
+        { "t": "figurato", "es": "figurado", "pron": "figuráto", "ej": "È un uso figurato, non letterale.", "ejes": "Es un uso figurado, no literal.", "cog": true }
+      ],
+      "frases": [
+        { "t": "In senso figurato, gettare la spugna vuol dire arrendersi.", "es": "En sentido figurado, tirar la toalla quiere decir rendirse.", "pron": "in sénso figuráto dyettáre la spúña vuól díre arréndersi" },
+        { "t": "La battuta ha un doppio senso che pochi hanno colto.", "es": "La broma tiene un doble sentido que pocos captaron.", "pron": "la battúta a un dóppio sénso ke póki ánno cólto" },
+        { "t": "Il testo lascia un'ambiguità voluta sull'intenzione dell'autore.", "es": "El texto deja una ambigüedad voluntaria sobre la intención del autor.", "pron": "il técsto láscia unambiguitá volúta sul intentsióne dellautóre" },
+        { "t": "Ha voluto sottintendere che il progetto è fallito.", "es": "Quiso dar a entender que el proyecto fracasó.", "pron": "a volúto sottintendére ke il progétto e falíto" },
+        { "t": "La metafora del viaggio funziona benissimo in questo discorso.", "es": "La metáfora del viaje funciona muy bien en este discurso.", "pron": "la metáfora del viádyo funtsióna benísimo in cuésto discórso" }
+      ],
+      "dialogo": {
+        "titulo": "Analizzare un discorso",
+        "lineas": [
+          { "q": "A", "t": "Hai notato la metafora del viaggio nel suo discorso? In senso figurato, ci invitava a non gettare la spugna alla prima difficoltà.", "es": "¿Notaste la metáfora del viaje en su discurso? En sentido figurado, nos invitaba a no tirar la toalla a la primera dificultad." },
+          { "q": "B", "t": "Sì, ma c'era anche un doppio senso: sembrava sottintendere che qualcuno in sala abbia già mollato, con una bella frecciatina.", "es": "Sí, pero había también un doble sentido: parecía dar a entender que alguien en la sala ya se había rendido, con una buena indirecta." },
+          { "q": "A", "t": "Può darsi. Ha voluto ammiccare al pubblico con una battuta, e ha lasciato una certa ambiguità volutamente: così ognuno capisce quello che vuole.", "es": "Puede ser. Quiso hacer un guiño al público con una broma, y dejó cierta ambigüedad a propósito: así cada uno entiende lo que quiere." },
+          { "q": "B", "t": "Il rischio è che un tono ironico non venga colto da tutti; in un discorso ufficiale preferirei meno sarcasmo e più chiarezza.", "es": "El riesgo es que un tono irónico no sea captado por todos; en un discurso oficial preferiría menos sarcasmo y más claridad." },
+          { "q": "A", "t": "Concordo: un uso figurato funziona se il pubblico lo riconosce. Altrimenti si rischia di fare una gaffe e di dover buttare tutto in ridere.", "es": "De acuerdo: un uso figurado funciona si el público lo reconoce. Si no, se corre el riesgo de meter la pata y tener que tomarlo todo a broma." }
+        ]
+      },
+      "nota": "Si entiendes una expresión italiana literalmente y el resultado no tiene sentido, busca su sentido figurado. Muchos modi di dire se entienden mejor si piensas en la historia de su imagen."
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "id": "en-c1-u8",
+  "idioma": "en",
+  "nivel": "C1",
+  "n": 8,
+  "titulo": "Negociación y diplomacia",
+  "resumen": "Aprenderás a negociar con tacto: suavizar desacuerdos, hacer concesiones, proponer condiciones y cerrar acuerdos o rechazar con diplomacia.",
+  "puedo": [
+    "Expresar desacuerdo sin ofender (with all due respect, I'm afraid...).",
+    "Hacer concesiones y poner condiciones (provided that, on condition that).",
+    "Presentar propuestas y contraofertas con claridad.",
+    "Rechazar una oferta o cerrar un acuerdo con diplomacia.",
+    "Usar modales y tiempos de cortesía (I was wondering if, would it be possible)."
+  ],
+  "gramatica": {
+    "titulo": "Cortesía con modales y tiempos de distancia",
+    "texto": "En una negociación el tono pesa tanto como el contenido. El inglés suaviza una petición o un desacuerdo con verbos modales y con tiempos que crean distancia (pasado y condicional).\nDirecto: I want a discount. Más suave: I would like a discount. Aún más suave: I was wondering if we could get a discount.\nDirecto: That is impossible. Más suave: That might be difficult. Aún más suave: I'm afraid that could be a little difficult.\nFórmulas útiles: Would it be possible to...?, Would you mind...?, I wonder if..., We might consider...\nTruco: pasado = distancia = cortesía. I was wondering suena más cortés que I wonder.",
+    "tabla": [
+      ["I would like a better price.", "Me gustaría un mejor precio.", "ai uud laik a béter prais"],
+      ["I was wondering if you could lower it.", "Me preguntaba si podrían bajarlo.", "ai uas uóndrin if iu cud lóuer it"],
+      ["Would it be possible to extend the deadline?", "¿Sería posible extender el plazo?", "uud it bi pósibol tu extend da dédlain"],
+      ["I'm afraid that might be difficult.", "Me temo que eso podría ser difícil.", "aim afréid dat mait bi dífical"],
+      ["We might consider a compromise.", "Podríamos considerar un compromiso.", "ui mait consíder a cómpromais"],
+      ["With all due respect, I disagree.", "Con el debido respeto, no estoy de acuerdo.", "uid ol diú rispéct, ai disagrí"]
+    ],
+    "errores": [
+      "No uses «I want» en una negociación: suena brusco. Di I would like o We would appreciate.",
+      "No traduzcas «con permiso, no estoy de acuerdo» como «with permission»: se dice with all due respect o if I may say so.",
+      "No digas «No, that is not possible» a secas: añade I'm afraid y una alternativa: I'm afraid that's not possible, but we could..."
+    ]
+  },
+  "practica": [
+    "Mira una escena de negociación en una serie (por ejemplo, Suits) y anota 6 fórmulas de cortesía o desacuerdo (15 minutos).",
+    "Reescribe 8 frases directas en versiones corteses con would, could, I was wondering (12 minutos).",
+    "Practica en voz alta una negociación de precio con un amigo o con una grabación, usando 4 concesiones (15 minutos).",
+    "Escribe un correo de 100 palabras que rechace con tacto una oferta y proponga una alternativa (15 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-c1-u8-l1",
+      "n": 1,
+      "titulo": "Suavizar un desacuerdo",
+      "objetivo": "Expresar desacuerdo con firmeza y tacto.",
+      "intro": "Disentir no significa ser descortés. Truco: reconoce primero lo válido del otro y luego introduce tu posición con una fórmula suave: I see where you're coming from, but...",
+      "palabras": [
+        { "t": "with all due respect", "es": "con el debido respeto", "pron": "uid ol diú rispéct", "ej": "With all due respect, I think the numbers tell a different story.", "ejes": "Con el debido respeto, creo que las cifras cuentan otra historia.", "cog": false },
+        { "t": "I take your point", "es": "entiendo tu punto", "pron": "ai teik ior point", "ej": "I take your point, but we have to consider the costs.", "ejes": "Entiendo tu punto, pero debemos considerar los costos.", "cog": false },
+        { "t": "I'm not entirely convinced", "es": "no estoy del todo convencido", "pron": "aim not entáierli convínst", "ej": "I'm not entirely convinced that this is the best option.", "ejes": "No estoy del todo convencido de que sea la mejor opción.", "cog": false },
+        { "t": "I see where you're coming from", "es": "veo de dónde vienes", "pron": "ai si juer iur cómin from", "ej": "I see where you're coming from, but our situation is different.", "ejes": "Veo de dónde vienes, pero nuestra situación es distinta.", "cog": false },
+        { "t": "reservations", "es": "reservas, dudas", "pron": "reservéishons", "ej": "We still have some reservations about the timeline.", "ejes": "Aún tenemos algunas reservas sobre el cronograma.", "cog": false },
+        { "t": "at odds with", "es": "en desacuerdo con", "pron": "at ods uid", "ej": "Their proposal is at odds with our budget.", "ejes": "Su propuesta choca con nuestro presupuesto.", "cog": false },
+        { "t": "common ground", "es": "terreno común", "pron": "cómon graund", "ej": "We should look for common ground before we decide.", "ejes": "Deberíamos buscar un terreno común antes de decidir.", "cog": false },
+        { "t": "tactfully", "es": "con tacto", "pron": "tácfuli", "ej": "She tactfully pointed out the error in the contract.", "ejes": "Ella señaló con tacto el error del contrato.", "cog": false }
+      ],
+      "frases": [
+        { "t": "With all due respect, I think the numbers tell a different story.", "es": "Con el debido respeto, creo que las cifras cuentan otra historia.", "pron": "uid ol diú rispéct, ai zinc da námbers tel a díferent stóri" },
+        { "t": "I take your point, but we must consider the costs.", "es": "Entiendo tu punto, pero debemos considerar los costos.", "pron": "ai teik ior point, bat ui mast consíder da costs" },
+        { "t": "I'm not entirely convinced this is the best option.", "es": "No estoy del todo convencido de que sea la mejor opción.", "pron": "aim not entáierli convínst dis is da best ópshon" },
+        { "t": "We still have some reservations about the timeline.", "es": "Aún tenemos algunas reservas sobre el cronograma.", "pron": "ui stil jav sam reservéishons abáut da táimlain" },
+        { "t": "Their proposal is at odds with our budget.", "es": "Su propuesta choca con nuestro presupuesto.", "pron": "der propóusal is at ods uid áuer báyet" }
+      ],
+      "dialogo": {
+        "titulo": "Desacuerdo educado",
+        "lineas": [
+          { "q": "A", "t": "I see where you're coming from, but I'm not entirely convinced by the schedule.", "es": "Veo de dónde vienes, pero no me convence del todo el cronograma." },
+          { "q": "B", "t": "With all due respect, we have little room to move on the deadline.", "es": "Con el debido respeto, tenemos poco margen en el plazo." },
+          { "q": "A", "t": "I take your point. Still, we have some reservations about the cost.", "es": "Entiendo tu punto. Aun así, tenemos algunas reservas sobre el costo." },
+          { "q": "B", "t": "I understand. Your position seems at odds with our budget, but let's look for common ground.", "es": "Entiendo. Su posición parece chocar con nuestro presupuesto, pero busquemos un terreno común." },
+          { "q": "A", "t": "Agreed. Perhaps we could split the work into two phases.", "es": "De acuerdo. Quizá podríamos dividir el trabajo en dos fases." }
+        ]
+      },
+      "nota": "Evita but demasiado pronto: I see your point, but suele borrar lo que dijiste antes. Alternativa: I see your point, and at the same time..."
+    },
+    {
+      "id": "en-c1-u8-l2",
+      "n": 2,
+      "titulo": "Concesiones y condiciones",
+      "objetivo": "Hacer concesiones condicionadas con provided that, as long as y on condition that.",
+      "intro": "Ceder algo a cambio de otra cosa es el corazón de una negociación. Truco: usa provided that o on condition that para dejar claro que tu concesión depende de la otra parte.",
+      "palabras": [
+        { "t": "provided that", "es": "siempre que, con la condición de que", "pron": "prováidid dat", "ej": "We will agree provided that the payment is made in advance.", "ejes": "Aceptaremos siempre que el pago se haga por adelantado.", "cog": false },
+        { "t": "on condition that", "es": "a condición de que", "pron": "on condíshon dat", "ej": "He signed on condition that the terms remain confidential.", "ejes": "Firmó a condición de que los términos sigan siendo confidenciales.", "cog": false },
+        { "t": "as long as", "es": "mientras, siempre que", "pron": "as long as", "ej": "That works for us as long as delivery is on time.", "ejes": "Eso nos sirve siempre que la entrega sea puntual.", "cog": false },
+        { "t": "concession", "es": "concesión", "pron": "conséshon", "ej": "Each side must make a concession to reach a deal.", "ejes": "Cada parte debe hacer una concesión para llegar a un trato.", "cog": true },
+        { "t": "meet halfway", "es": "encontrarse a medio camino", "pron": "mit jáfuei", "ej": "We are willing to meet halfway on the price.", "ejes": "Estamos dispuestos a encontrarnos a medio camino en el precio.", "cog": false },
+        { "t": "give ground", "es": "ceder terreno", "pron": "guiv graund", "ej": "Neither party was ready to give ground.", "ejes": "Ninguna parte estaba lista para ceder terreno.", "cog": false },
+        { "t": "in exchange for", "es": "a cambio de", "pron": "in ikschéinch for", "ej": "We offer a discount in exchange for a longer contract.", "ejes": "Ofrecemos un descuento a cambio de un contrato más largo.", "cog": false },
+        { "t": "flexible", "es": "flexible", "pron": "fléxibol", "ej": "We can be flexible on the delivery date.", "ejes": "Podemos ser flexibles con la fecha de entrega.", "cog": true }
+      ],
+      "frases": [
+        { "t": "We will agree provided that payment is made in advance.", "es": "Aceptaremos siempre que el pago se haga por adelantado.", "pron": "ui uil agrí prováidid dat péiment is meid in advans" },
+        { "t": "That works for us as long as delivery is on time.", "es": "Eso nos sirve siempre que la entrega sea puntual.", "pron": "dat uerks for as as long as delíveri is on taim" },
+        { "t": "We are willing to meet you halfway on the price.", "es": "Estamos dispuestos a encontrarnos a medio camino en el precio.", "pron": "ui ar uílin tu mit iu jáfuei on da prais" },
+        { "t": "We offer a discount in exchange for a longer contract.", "es": "Ofrecemos un descuento a cambio de un contrato más largo.", "pron": "ui ófer a dískaunt in ikschéinch for a lónguer cóntract" },
+        { "t": "Neither party was ready to give ground.", "es": "Ninguna parte estaba lista para ceder terreno.", "pron": "níder pári uas rédi tu guiv graund" }
+      ],
+      "dialogo": {
+        "titulo": "Negociando un contrato",
+        "lineas": [
+          { "q": "A", "t": "We can offer a discount in exchange for a longer contract.", "es": "Podemos ofrecer un descuento a cambio de un contrato más largo." },
+          { "q": "B", "t": "We are willing to meet you halfway on the price, provided that delivery is on time.", "es": "Estamos dispuestos a encontrarnos a medio camino en el precio, siempre que la entrega sea puntual." },
+          { "q": "A", "t": "That works for us as long as you can be flexible on the payment dates.", "es": "Eso nos sirve siempre que puedan ser flexibles con las fechas de pago." },
+          { "q": "B", "t": "A reasonable concession. We would also like the terms kept confidential.", "es": "Una concesión razonable. También quisiéramos que los términos se mantengan confidenciales." },
+          { "q": "A", "t": "Agreed, on condition that your team signs by Friday.", "es": "De acuerdo, a condición de que su equipo firme el viernes." }
+        ]
+      },
+      "nota": "Provided that y providing that significan lo mismo. Provided suele ser más formal; as long as, más común en conversación."
+    },
+    {
+      "id": "en-c1-u8-l3",
+      "n": 3,
+      "titulo": "Propuestas y contraofertas",
+      "objetivo": "Presentar una oferta, contraofertar y definir límites con claridad.",
+      "intro": "Negociar es proponer, responder y ajustar. Truco: antes de contraofertar, resume lo que acordaron: So, if I understand correctly... Así evitas malentendidos.",
+      "palabras": [
+        { "t": "put on the table", "es": "poner sobre la mesa", "pron": "put on da téibol", "ej": "We should put on the table every option we have.", "ejes": "Deberíamos poner sobre la mesa todas las opciones que tenemos.", "cog": false },
+        { "t": "counteroffer", "es": "contraoferta", "pron": "cáunter-ófer", "ej": "They rejected our offer and made a counteroffer.", "ejes": "Rechazaron nuestra oferta e hicieron una contraoferta.", "cog": false },
+        { "t": "bottom line", "es": "lo esencial, el límite", "pron": "bótom lain", "ej": "The bottom line is that we cannot go below this price.", "ejes": "Lo esencial es que no podemos bajar de este precio.", "cog": false },
+        { "t": "leverage", "es": "poder de negociación, ventaja", "pron": "lévridy", "ej": "Having two offers gives us leverage.", "ejes": "Tener dos ofertas nos da poder de negociación.", "cog": false },
+        { "t": "stand firm", "es": "mantenerse firme", "pron": "stand ferm", "ej": "We must stand firm on the quality requirements.", "ejes": "Debemos mantenernos firmes en los requisitos de calidad.", "cog": false },
+        { "t": "non-negotiable", "es": "no negociable", "pron": "non-negóushiabol", "ej": "Safety standards are non-negotiable.", "ejes": "Las normas de seguridad no son negociables.", "cog": false },
+        { "t": "sticking point", "es": "punto de bloqueo", "pron": "stícin point", "ej": "The main sticking point is the delivery date.", "ejes": "El principal punto de bloqueo es la fecha de entrega.", "cog": false },
+        { "t": "ballpark figure", "es": "cifra aproximada", "pron": "bólpark fíguiur", "ej": "Can you give me a ballpark figure for the project?", "ejes": "¿Me puedes dar una cifra aproximada del proyecto?", "cog": false }
+      ],
+      "frases": [
+        { "t": "Let's put all the options on the table.", "es": "Pongamos todas las opciones sobre la mesa.", "pron": "lets put ol di ópshons on da téibol" },
+        { "t": "They rejected our offer and made a counteroffer.", "es": "Rechazaron nuestra oferta e hicieron una contraoferta.", "pron": "dei rijéctid áuer ófer and meid a cáunter-ófer" },
+        { "t": "The bottom line is that we cannot go below this price.", "es": "Lo esencial es que no podemos bajar de este precio.", "pron": "da bótom lain is dat ui cánot gou bilóu dis prais" },
+        { "t": "Safety standards are non-negotiable.", "es": "Las normas de seguridad no son negociables.", "pron": "séifti stándards ar non-negóushiabol" },
+        { "t": "The main sticking point is the delivery date.", "es": "El principal punto de bloqueo es la fecha de entrega.", "pron": "da mein stícin point is da delíveri deit" }
+      ],
+      "dialogo": {
+        "titulo": "Contraoferta",
+        "lineas": [
+          { "q": "A", "t": "Let's put all the options on the table. Can you give me a ballpark figure?", "es": "Pongamos todas las opciones sobre la mesa. ¿Me puedes dar una cifra aproximada?" },
+          { "q": "B", "t": "Around two hundred thousand. The bottom line is that we cannot go below that.", "es": "Alrededor de doscientos mil. Lo esencial es que no podemos bajar de eso." },
+          { "q": "A", "t": "I see. We would like to make a counteroffer, given the leverage of our other bid.", "es": "Entiendo. Quisiéramos hacer una contraoferta, dado el poder que nos da nuestra otra propuesta." },
+          { "q": "B", "t": "Understood, though safety standards are non-negotiable.", "es": "Entendido, aunque las normas de seguridad no son negociables." },
+          { "q": "A", "t": "Agreed. Then the main sticking point is the price. We'll stand firm there, but be flexible elsewhere.", "es": "De acuerdo. Entonces el principal punto de bloqueo es el precio. Nos mantendremos firmes ahí, pero seremos flexibles en lo demás." }
+        ]
+      },
+      "nota": "Conocer tu bottom line antes de empezar, y la del otro si puedes, es la mejor preparación. Nunca la reveles al inicio."
+    },
+    {
+      "id": "en-c1-u8-l4",
+      "n": 4,
+      "titulo": "Cerrar o rechazar con tacto",
+      "objetivo": "Cerrar un acuerdo o rechazar una oferta de manera diplomática.",
+      "intro": "Cerrar bien un trato, o decir que no con elegancia, mantiene la relación abierta. Truco: al rechazar, agradece, explica brevemente y ofrece una alternativa o deja la puerta abierta.",
+      "palabras": [
+        { "t": "seal the deal", "es": "cerrar el trato", "pron": "sil da dil", "ej": "A handshake helped us seal the deal.", "ejes": "Un apretón de manos nos ayudó a cerrar el trato.", "cog": false },
+        { "t": "finalize", "es": "finalizar, ultimar", "pron": "fáinalaiz", "ej": "We hope to finalize the contract by Friday.", "ejes": "Esperamos ultimar el contrato para el viernes.", "cog": true },
+        { "t": "decline", "es": "rechazar cortésmente", "pron": "diclain", "ej": "We regret that we must decline your kind offer.", "ejes": "Lamentamos tener que rechazar su amable oferta.", "cog": true },
+        { "t": "regret to inform", "es": "lamentar informar", "pron": "rigrét tu infórm", "ej": "We regret to inform you that the position is filled.", "ejes": "Lamentamos informarle que el puesto ya fue cubierto.", "cog": false },
+        { "t": "stalemate", "es": "punto muerto", "pron": "stéilmeit", "ej": "The talks ended in a stalemate.", "ejes": "Las conversaciones terminaron en un punto muerto.", "cog": false },
+        { "t": "back out", "es": "echarse atrás", "pron": "bac aut", "ej": "The investors threatened to back out of the deal.", "ejes": "Los inversionistas amenazaron con echarse atrás del trato.", "cog": false },
+        { "t": "leave the door open", "es": "dejar la puerta abierta", "pron": "liv da dor óupen", "ej": "We would like to leave the door open for future talks.", "ejes": "Nos gustaría dejar la puerta abierta a futuras conversaciones.", "cog": false },
+        { "t": "mutually beneficial", "es": "beneficioso para ambas partes", "pron": "miúchuali benefíshial", "ej": "We want a mutually beneficial agreement.", "ejes": "Queremos un acuerdo beneficioso para ambas partes.", "cog": false }
+      ],
+      "frases": [
+        { "t": "A handshake helped us seal the deal.", "es": "Un apretón de manos nos ayudó a cerrar el trato.", "pron": "a jándsheic jelpt as sil da dil" },
+        { "t": "We hope to finalize the contract by Friday.", "es": "Esperamos ultimar el contrato para el viernes.", "pron": "ui joup tu fáinalaiz da cóntract bai fráidei" },
+        { "t": "We regret to inform you that we must decline your offer.", "es": "Lamentamos informarle que debemos rechazar su oferta.", "pron": "ui rigrét tu infórm iu dat ui mast diclain ior ófer" },
+        { "t": "The talks ended in a stalemate.", "es": "Las conversaciones terminaron en un punto muerto.", "pron": "da tocs éndid in a stéilmeit" },
+        { "t": "We want an agreement that is mutually beneficial.", "es": "Queremos un acuerdo beneficioso para ambas partes.", "pron": "ui uont an agrímen dat is miúchuali benefíshial" }
+      ],
+      "dialogo": {
+        "titulo": "Una respuesta diplomática",
+        "lineas": [
+          { "q": "A", "t": "We regret to inform you that we must decline your offer at this time.", "es": "Lamentamos informarle que debemos rechazar su oferta en este momento." },
+          { "q": "B", "t": "I understand. Was the price the main issue, or was it the timeline?", "es": "Entiendo. ¿El problema principal fue el precio o el cronograma?" },
+          { "q": "A", "t": "Both, I'm afraid. We would like to leave the door open for future talks, though.", "es": "Ambos, me temo. Aunque nos gustaría dejar la puerta abierta a futuras conversaciones." },
+          { "q": "B", "t": "Of course. We want a mutually beneficial agreement, and we hope to finalize something eventually.", "es": "Por supuesto. Queremos un acuerdo beneficioso para ambas partes y esperamos ultimar algo con el tiempo." },
+          { "q": "A", "t": "Thank you for your understanding. Let's avoid a stalemate and speak again next month.", "es": "Gracias por su comprensión. Evitemos un punto muerto y hablemos de nuevo el mes que viene." }
+        ]
+      },
+      "nota": "Un no bien dicho vale más que un sí forzado. Agradece siempre la oferta aunque la rechaces: Thank you for the opportunity."
+    },
+    {
+      "id": "en-c1-u8-l5",
+      "n": 5,
+      "titulo": "Repaso: una negociación completa",
+      "objetivo": "Conducir una negociación completa: abrir, discrepar, conceder y cerrar con diplomacia.",
+      "intro": "Une todo en el orden de una negociación real: abrir, explorar, discrepar con tacto, conceder, cerrar. Truco: antes de cada intervención, decide tu objetivo y tu límite.",
+      "palabras": [
+        { "t": "leeway", "es": "margen de maniobra", "pron": "líuei", "ej": "We have some leeway on the delivery date.", "ejes": "Tenemos algo de margen en la fecha de entrega.", "cog": false },
+        { "t": "tentative", "es": "provisional, tentativo", "pron": "téntativ", "ej": "We reached a tentative agreement on Friday.", "ejes": "Llegamos a un acuerdo provisional el viernes.", "cog": true },
+        { "t": "reciprocate", "es": "corresponder", "pron": "risíprokeit", "ej": "We hope you will reciprocate our flexibility.", "ejes": "Esperamos que corresponda a nuestra flexibilidad.", "cog": true },
+        { "t": "clarify", "es": "aclarar", "pron": "clárifai", "ej": "Could you clarify what you mean by flexible terms?", "ejes": "¿Podría aclarar qué entiende por términos flexibles?", "cog": true },
+        { "t": "reconsider", "es": "reconsiderar", "pron": "riconsíder", "ej": "Would you be willing to reconsider your position?", "ejes": "¿Estaría dispuesto a reconsiderar su postura?", "cog": true },
+        { "t": "come to terms", "es": "llegar a un acuerdo", "pron": "cam tu terms", "ej": "After long talks, the two sides had to come to terms.", "ejes": "Tras largas conversaciones, las dos partes tuvieron que llegar a un acuerdo.", "cog": false },
+        { "t": "trade-off", "es": "compensación, intercambio", "pron": "tréid-of", "ej": "Every deal involves a trade-off.", "ejes": "Todo acuerdo implica una compensación.", "cog": false },
+        { "t": "wrap up", "es": "concluir, cerrar", "pron": "rap ap", "ej": "Let's wrap up the meeting with a short summary.", "ejes": "Cerremos la reunión con un breve resumen.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Could you clarify what you mean by flexible terms?", "es": "¿Podría aclarar qué entiende por términos flexibles?", "pron": "cud iu clárifai juat iu min bai fléxibol terms" },
+        { "t": "Would you be willing to reconsider your position?", "es": "¿Estaría dispuesto a reconsiderar su postura?", "pron": "uud iu bi uílin tu riconsíder ior posíshon" },
+        { "t": "We hope you will reciprocate our flexibility.", "es": "Esperamos que corresponda a nuestra flexibilidad.", "pron": "ui joup iu uil risíprokeit áuer flexibíliti" },
+        { "t": "Every deal involves a trade-off.", "es": "Todo acuerdo implica una compensación.", "pron": "évri dil inbólvs a tréid-of" },
+        { "t": "Let's wrap up the meeting with a short summary.", "es": "Cerremos la reunión con un breve resumen.", "pron": "lets rap ap da míitin uid a short sámari" }
+      ],
+      "dialogo": {
+        "titulo": "Cierre de una negociación",
+        "lineas": [
+          { "q": "A", "t": "Could you clarify what you mean by flexible terms? I want to be sure we understand each other.", "es": "¿Podría aclarar qué entiende por términos flexibles? Quiero asegurarme de que nos entendemos." },
+          { "q": "B", "t": "We have some leeway on the delivery date, provided that payment is made upfront.", "es": "Tenemos algo de margen en la fecha de entrega, siempre que el pago se haga por adelantado." },
+          { "q": "A", "t": "With all due respect, upfront payment is hard for us. Would you reconsider?", "es": "Con el debido respeto, el pago por adelantado nos resulta difícil. ¿Lo reconsideraría?" },
+          { "q": "B", "t": "Every deal involves a trade-off. We could accept fifty percent upfront.", "es": "Todo acuerdo implica una compensación. Podríamos aceptar un cincuenta por ciento por adelantado." },
+          { "q": "A", "t": "That seems fair. We reached a tentative agreement, then. We hope you will reciprocate with a discount.", "es": "Me parece justo. Entonces llegamos a un acuerdo provisional. Esperamos que corresponda con un descuento." },
+          { "q": "B", "t": "Of course. Let's wrap up with a short summary of everything we agreed on.", "es": "Por supuesto. Cerremos con un breve resumen de todo lo acordado." }
+        ]
+      },
+      "nota": "Después de una negociación, confirma por escrito lo acordado en un correo breve: es una práctica profesional que evita malentendidos."
+    }
+  ]
+}

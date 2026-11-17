@@ -1,0 +1,221 @@
+{
+  "id": "en-c1-u14",
+  "idioma": "en",
+  "nivel": "C1",
+  "n": 14,
+  "titulo": "Formación de palabras",
+  "resumen": "Aprenderás cómo los prefijos y sufijos crean familias de palabras, para multiplicar tu vocabulario y deducir el significado de palabras nuevas.",
+  "puedo": [
+    "Formar palabras negativas con un-, in-, im-, il-, ir-, dis- y mis-.",
+    "Usar prefijos de grado, tiempo y relación como over-, under-, re-, pre- y co-.",
+    "Crear sustantivos con -ness, -ment, -ity, -ship y -ance.",
+    "Crear adjetivos, verbos y adverbios con -able, -ous, -ize, -ify y -ly.",
+    "Reconocer y usar familias de palabras completas."
+  ],
+  "gramatica": {
+    "titulo": "Prefijos y sufijos: una palabra, muchas formas",
+    "texto": "Casi toda palabra del inglés avanzado viene de una raíz a la que se añaden piezas. Un prefijo va al principio y cambia el sentido (reliable = unreliable). Un sufijo va al final y cambia la categoría gramatical (decide = decision = decisive = decisively).\nSufijos comunes: sustantivos -tion, -ment, -ness, -ity, -ship; adjetivos -able, -ous, -ful, -ive, -al; verbos -ize, -ify, -en; adverbios -ly.\nPrefijos de negación: un- (unfair), in- (inaccurate), im- delante de b, m, p (impossible), il- delante de l (illegal), ir- delante de r (irregular), dis- (disagree).\nTruco: al ver una palabra nueva, separa raíz, prefijo y sufijo. Casi siempre puedes deducir el significado por el contexto y las piezas.",
+    "tabla": [
+      ["reliable = unreliable", "confiable = poco confiable", "riláiabol = anriláiabol"],
+      ["possible = impossible", "posible = imposible", "pósibol = impósibol"],
+      ["decide = decision = decisive", "decidir = decisión = decisivo", "disáid = disíshon = disáisiv"],
+      ["standard = standardize", "estándar = estandarizar", "stándard = stándardais"],
+      ["strong = strengthen", "fuerte = fortalecer", "stron = strénzen"],
+      ["careful = carefully", "cuidadoso = cuidadosamente", "kérful = kérfuli"]
+    ],
+    "errores": [
+      "No uses in- siempre: delante de p, b y m es im- (impossible, imbalance); delante de l es il- (illegal); delante de r es ir- (irregular).",
+      "No confundas -ing y -ed en adjetivos: bored (aburrido, la persona) y boring (aburrido, la cosa).",
+      "No añadas sufijos al azar: no existe «decidement»; la familia es decision, decisive, decisively. Comprueba en un diccionario."
+    ]
+  },
+  "practica": [
+    "Elige 10 palabras de tu trabajo y escribe la familia de cada una: verbo, sustantivo, adjetivo y adverbio (15 minutos).",
+    "Lee un artículo y subraya 10 palabras con prefijo o sufijo; explica el significado separando las piezas (15 minutos).",
+    "Escribe 8 oraciones usando pares como reliable y unreliable, possible e impossible (12 minutos).",
+    "Repasa tu lista de vocabulario: añade a cada palabra su sustantivo, adjetivo y adverbio si existen (15 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-c1-u14-l1",
+      "n": 1,
+      "titulo": "Prefijos de negación",
+      "objetivo": "Formar palabras con sentido contrario usando un-, in-, im-, il-, ir-, dis- y mis-.",
+      "intro": "Los prefijos de negación dan el significado opuesto, pero cada raíz acepta uno distinto. Truco: im- va delante de p, b, m; il- delante de l; ir- delante de r; el resto suele aceptar in- o un-.",
+      "palabras": [
+        { "t": "unreliable", "es": "poco confiable", "pron": "anriláiabol", "ej": "The old printer is completely unreliable.", "ejes": "La impresora vieja es totalmente poco confiable.", "cog": false },
+        { "t": "inaccurate", "es": "inexacto", "pron": "inákiurit", "ej": "The article contained several inaccurate figures.", "ejes": "El artículo tenía varias cifras inexactas.", "cog": true },
+        { "t": "impractical", "es": "poco práctico", "pron": "impráctical", "ej": "That plan is expensive and impractical.", "ejes": "Ese plan es caro y poco práctico.", "cog": true },
+        { "t": "illegal", "es": "ilegal", "pron": "ilígal", "ej": "It is illegal to park here.", "ejes": "Es ilegal estacionar aquí.", "cog": true },
+        { "t": "irresponsible", "es": "irresponsable", "pron": "irrispónsibol", "ej": "It was irresponsible to ignore the warning.", "ejes": "Fue irresponsable ignorar la advertencia.", "cog": true },
+        { "t": "disloyal", "es": "desleal", "pron": "dislóyal", "ej": "He was accused of being disloyal to the company.", "ejes": "Lo acusaron de ser desleal a la empresa.", "cog": true },
+        { "t": "misinterpret", "es": "malinterpretar", "pron": "misintérpret", "ej": "Many readers misinterpret the author's irony.", "ejes": "Muchos lectores malinterpretan la ironía del autor.", "cog": true },
+        { "t": "nonexistent", "es": "inexistente", "pron": "nonigzístent", "ej": "Their support was practically nonexistent.", "ejes": "Su apoyo era prácticamente inexistente.", "cog": true }
+      ],
+      "frases": [
+        { "t": "The data was unreliable, so we discarded it.", "es": "Los datos eran poco confiables, así que los descartamos.", "pron": "da déita uas anriláiabol, sou ui diskárded it" },
+        { "t": "It is illegal to copy the software without a license.", "es": "Es ilegal copiar el software sin licencia.", "pron": "it is ilígal tu cópi da sóftuer uidáut a láisens" },
+        { "t": "It was irresponsible to publish the story without checking.", "es": "Fue irresponsable publicar la historia sin verificarla.", "pron": "it uas irrispónsibol tu pábliish da stori uidáut chékin" },
+        { "t": "Don't misinterpret my silence as agreement.", "es": "No malinterpretes mi silencio como acuerdo.", "pron": "dont misintérpret mai sáilens as agrímint" },
+        { "t": "The idea is attractive but impractical.", "es": "La idea es atractiva pero poco práctica.", "pron": "di aidía is atráctiv bat impráctical" }
+      ],
+      "dialogo": {
+        "titulo": "Revisar un informe interno",
+        "lineas": [
+          { "q": "A", "t": "I'm afraid some of the figures in the report are inaccurate. We can't send it like this.", "es": "Me temo que algunas cifras del informe son inexactas. No podemos enviarlo así." },
+          { "q": "B", "t": "You're right. The source was unreliable, and nobody checked it. It was irresponsible of us.", "es": "Tienes razón. La fuente era poco confiable y nadie la verificó. Fue irresponsable de nuestra parte." },
+          { "q": "A", "t": "Also, the timeline is impractical. It's nearly impossible to finish in two weeks.", "es": "Además, el cronograma es poco práctico. Es casi imposible terminar en dos semanas." },
+          { "q": "B", "t": "I agree. Let's be careful not to misinterpret the client's request again.", "es": "De acuerdo. Cuidemos de no malinterpretar otra vez el pedido del cliente." },
+          { "q": "A", "t": "Yes. And the legal review was practically nonexistent, which is risky.", "es": "Sí. Y la revisión legal fue prácticamente inexistente, lo cual es arriesgado." },
+          { "q": "B", "t": "Let's fix all of it this week. I would hate to be accused of being disloyal to the client.", "es": "Arreglemos todo esta semana. Odiaría que me acusen de ser desleal con el cliente." }
+        ]
+      },
+      "nota": "Hay palabras con dos prefijos posibles pero con sentidos distintos: unconscious (inconsciente, sin conocimiento) e inconsiderate (desconsiderado). Conviene aprenderlas como un par."
+    },
+    {
+      "id": "en-c1-u14-l2",
+      "n": 2,
+      "titulo": "Prefijos de grado, tiempo y relación",
+      "objetivo": "Usar over-, under-, re-, pre-, post-, anti- y co- para ampliar el vocabulario.",
+      "intro": "Estos prefijos añaden matices: exceso (over-), insuficiencia (under-), repetición (re-), antes (pre-), después (post-), contra (anti-) y juntos (co-). Truco: casi siempre se pegan a la raíz sin guion.",
+      "palabras": [
+        { "t": "overestimate", "es": "sobrestimar", "pron": "ouveréstimeit", "ej": "Don't overestimate your chances of winning.", "ejes": "No sobrestimes tus posibilidades de ganar.", "cog": true },
+        { "t": "underestimate", "es": "subestimar", "pron": "anderéstimeit", "ej": "Never underestimate a determined opponent.", "ejes": "Nunca subestimes a un oponente decidido.", "cog": true },
+        { "t": "overwork", "es": "trabajar en exceso", "pron": "ouveruérc", "ej": "Many nurses overwork during winter.", "ejes": "Muchos enfermeros trabajan en exceso en invierno.", "cog": false },
+        { "t": "underpaid", "es": "mal pagado", "pron": "anderpéid", "ej": "Teachers are often underpaid and overworked.", "ejes": "Los maestros suelen estar mal pagados y sobrecargados.", "cog": false },
+        { "t": "rethink", "es": "replantear", "pron": "rizínk", "ej": "We need to rethink our whole strategy.", "ejes": "Necesitamos replantear toda nuestra estrategia.", "cog": false },
+        { "t": "prearrange", "es": "arreglar de antemano", "pron": "priaréin", "ej": "Please prearrange the meeting with the assistants.", "ejes": "Por favor, arregla de antemano la reunión con los asistentes.", "cog": false },
+        { "t": "postgraduate", "es": "de posgrado", "pron": "postgrádiuet", "ej": "She is a postgraduate student in economics.", "ejes": "Es estudiante de posgrado en economía.", "cog": true },
+        { "t": "antisocial", "es": "antisocial, poco sociable", "pron": "antisóushal", "ej": "Antisocial behavior is not tolerated here.", "ejes": "Aquí no se tolera el comportamiento antisocial.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Don't underestimate how long the project will take.", "es": "No subestimes cuánto tomará el proyecto.", "pron": "dont anderestimeit jau long da próyect uil teik" },
+        { "t": "They overestimated demand and ended up with huge stock.", "es": "Sobrestimaron la demanda y terminaron con un gran inventario.", "pron": "dei ouverestimeited dimánd and énded ap uid yiuch stoc" },
+        { "t": "We should rethink our approach to hiring.", "es": "Deberíamos replantear nuestro enfoque de contratación.", "pron": "ui shud rizínk áuer aprouch tu jáirin" },
+        { "t": "He is doing a postgraduate degree in law.", "es": "Está haciendo un posgrado en derecho.", "pron": "ji is dúin a postgrádiuet digrí in lo" },
+        { "t": "She felt underpaid and overworked.", "es": "Se sentía mal pagada y sobrecargada.", "pron": "shi felt anderpéid and ouveruérct" }
+      ],
+      "dialogo": {
+        "titulo": "Una conversación sobre trabajo",
+        "lineas": [
+          { "q": "A", "t": "I think we overestimated how fast the team could work. Everyone is exhausted.", "es": "Creo que sobrestimamos qué tan rápido podía trabajar el equipo. Todos están agotados." },
+          { "q": "B", "t": "True, and we underestimated the paperwork. We need to rethink the schedule.", "es": "Cierto, y subestimamos el papeleo. Necesitamos replantear el cronograma." },
+          { "q": "A", "t": "Also, several interns feel underpaid and overworked, which is a real concern.", "es": "Además, varios practicantes se sienten mal pagados y sobrecargados, lo cual es una preocupación real." },
+          { "q": "B", "t": "Agreed. I'll prearrange a call with HR so we can improve things.", "es": "De acuerdo. Dejaré arreglada una llamada con recursos humanos para mejorar las cosas." },
+          { "q": "A", "t": "Good. Two of them are postgraduate students and need flexible hours.", "es": "Bien. Dos de ellos son estudiantes de posgrado y necesitan horarios flexibles." },
+          { "q": "B", "t": "Right. Antisocial hours, like weekends, should not be the default.", "es": "Así es. Los horarios poco sociales, como los fines de semana, no deberían ser la norma." }
+        ]
+      },
+      "nota": "Hay prefijos de origen latino y griego muy productivos: multi- (multilingual), semi- (semiformal), mid- (midweek), ex- (ex-boss). Úsalos con guion cuando se unen a nombres propios."
+    },
+    {
+      "id": "en-c1-u14-l3",
+      "n": 3,
+      "titulo": "Sufijos que forman sustantivos",
+      "objetivo": "Crear sustantivos con -ness, -ment, -ity, -ship, -hood y -ance.",
+      "intro": "Los sufijos de sustantivo convierten ideas en conceptos: aware = awareness, achieve = achievement. Truco: -ness y -ity van con adjetivos; -ment y -tion con verbos; -ship y -hood con personas y grupos.",
+      "palabras": [
+        { "t": "awareness", "es": "conciencia, sensibilización", "pron": "uérnes", "ej": "The campaign aims to raise awareness of climate change.", "ejes": "La campaña busca crear conciencia sobre el cambio climático.", "cog": false },
+        { "t": "achievement", "es": "logro", "pron": "achívment", "ej": "Finishing the marathon was a great achievement.", "ejes": "Terminar el maratón fue un gran logro.", "cog": false },
+        { "t": "reliability", "es": "fiabilidad", "pron": "riláiabíliti", "ej": "The reliability of these machines is excellent.", "ejes": "La fiabilidad de estas máquinas es excelente.", "cog": true },
+        { "t": "flexibility", "es": "flexibilidad", "pron": "flexibíliti", "ej": "Flexibility is a key skill in modern workplaces.", "ejes": "La flexibilidad es una habilidad clave en los trabajos modernos.", "cog": true },
+        { "t": "leadership", "es": "liderazgo", "pron": "lídersip", "ej": "Strong leadership is needed during a crisis.", "ejes": "Se necesita un liderazgo firme durante una crisis.", "cog": false },
+        { "t": "neighborhood", "es": "vecindario", "pron": "néiborjud", "ej": "It's a quiet, friendly neighborhood.", "ejes": "Es un vecindario tranquilo y amigable.", "cog": false },
+        { "t": "resilience", "es": "resiliencia", "pron": "risílians", "ej": "The town showed great resilience after the flood.", "ejes": "El pueblo mostró gran resiliencia después de la inundación.", "cog": true },
+        { "t": "commitment", "es": "compromiso", "pron": "comítment", "ej": "Her commitment to the cause is admirable.", "ejes": "Su compromiso con la causa es admirable.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The campaign aims to raise awareness of the problem.", "es": "La campaña busca crear conciencia sobre el problema.", "pron": "da campéin eims tu reis uérnes ov da próblem" },
+        { "t": "Reaching the final was a remarkable achievement.", "es": "Llegar a la final fue un logro notable.", "pron": "ríchin da fáinal uas a rimárcabol achívment" },
+        { "t": "Good leadership requires patience and flexibility.", "es": "El buen liderazgo exige paciencia y flexibilidad.", "pron": "gud lídersip ricuáiers péishens and flexibíliti" },
+        { "t": "The community showed remarkable resilience.", "es": "La comunidad mostró una resiliencia notable.", "pron": "da comiúniti shoud rimárcabol risílians" },
+        { "t": "His commitment to the project never faded.", "es": "Su compromiso con el proyecto nunca decayó.", "pron": "jis comítment tu da próyect néver féided" }
+      ],
+      "dialogo": {
+        "titulo": "Una entrevista de trabajo",
+        "lineas": [
+          { "q": "A", "t": "What qualities do you think are essential in a manager?", "es": "¿Qué cualidades cree que son esenciales en un gerente?" },
+          { "q": "B", "t": "Leadership, of course, but also flexibility and a strong commitment to the team.", "es": "Liderazgo, por supuesto, pero también flexibilidad y un fuerte compromiso con el equipo." },
+          { "q": "A", "t": "Could you share an achievement you are proud of?", "es": "¿Podría compartir un logro del que esté orgulloso?" },
+          { "q": "B", "t": "I led a project that raised awareness of recycling across the whole neighborhood.", "es": "Dirigí un proyecto que creó conciencia sobre el reciclaje en todo el vecindario." },
+          { "q": "A", "t": "Impressive. And how do you show resilience when things go wrong?", "es": "Impresionante. ¿Y cómo muestra resiliencia cuando las cosas salen mal?" },
+          { "q": "B", "t": "I focus on reliability: I keep my promises and learn from every setback.", "es": "Me concentro en la fiabilidad: cumplo mis promesas y aprendo de cada contratiempo." }
+        ]
+      },
+      "nota": "Cuidado con la ortografía al añadir -ness o -ity: happy se convierte en happiness (la y pasa a i), y able en ability (se pierde la e)."
+    },
+    {
+      "id": "en-c1-u14-l4",
+      "n": 4,
+      "titulo": "Sufijos de adjetivo, verbo y adverbio",
+      "objetivo": "Crear adjetivos, verbos y adverbios con -able, -ous, -ful, -ive, -ize, -ify, -en y -ly.",
+      "intro": "Con pocos sufijos puedes cambiar la categoría de una palabra: strong = strengthen, simple = simplify, comprehend = comprehensive. Truco: -ize, -ify y -en forman verbos; -ly forma casi todos los adverbios.",
+      "palabras": [
+        { "t": "manageable", "es": "manejable", "pron": "mánaiyabol", "ej": "The workload is heavy but manageable.", "ejes": "La carga de trabajo es pesada pero manejable.", "cog": false },
+        { "t": "ambitious", "es": "ambicioso", "pron": "ambíshus", "ej": "She set an ambitious target for the year.", "ejes": "Fijó una meta ambiciosa para el año.", "cog": true },
+        { "t": "resourceful", "es": "ingenioso, con recursos", "pron": "risórsful", "ej": "He is resourceful and finds solutions quickly.", "ejes": "Es ingenioso y encuentra soluciones rápido.", "cog": false },
+        { "t": "comprehensive", "es": "exhaustivo, completo", "pron": "comprijénsiv", "ej": "We need a comprehensive review of the system.", "ejes": "Necesitamos una revisión exhaustiva del sistema.", "cog": true },
+        { "t": "standardize", "es": "estandarizar", "pron": "stándardais", "ej": "The firm decided to standardize its procedures.", "ejes": "La empresa decidió estandarizar sus procedimientos.", "cog": true },
+        { "t": "simplify", "es": "simplificar", "pron": "símplifai", "ej": "Let's simplify the process for new users.", "ejes": "Simplifiquemos el proceso para los nuevos usuarios.", "cog": true },
+        { "t": "strengthen", "es": "fortalecer", "pron": "strénzen", "ej": "The new rules strengthen consumer rights.", "ejes": "Las nuevas normas fortalecen los derechos del consumidor.", "cog": false },
+        { "t": "reluctantly", "es": "a regañadientes", "pron": "riláctantli", "ej": "He reluctantly agreed to the change.", "ejes": "Aceptó el cambio a regañadientes.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The problem is serious, but it is manageable.", "es": "El problema es serio, pero manejable.", "pron": "da próblem is sírios, bat it is mánaiyabol" },
+        { "t": "She set an ambitious target for the next year.", "es": "Fijó una meta ambiciosa para el próximo año.", "pron": "shi set an ambíshus tárguit for da next iir" },
+        { "t": "We need a comprehensive plan, not a quick fix.", "es": "Necesitamos un plan exhaustivo, no una solución rápida.", "pron": "ui nid a comprijénsiv plan, not a cuik fix" },
+        { "t": "The new law will strengthen workers' rights.", "es": "La nueva ley fortalecerá los derechos de los trabajadores.", "pron": "da niu lo uil strénzen uérkers raits" },
+        { "t": "They reluctantly accepted the proposal.", "es": "Aceptaron la propuesta a regañadientes.", "pron": "dei riláctantli acséptid da propóusal" }
+      ],
+      "dialogo": {
+        "titulo": "Reorganizar procesos",
+        "lineas": [
+          { "q": "A", "t": "Our current process is too complicated. I'd like to simplify it and standardize the forms.", "es": "Nuestro proceso actual es demasiado complicado. Me gustaría simplificarlo y estandarizar los formularios." },
+          { "q": "B", "t": "That's an ambitious goal, but it's manageable if we divide the work.", "es": "Es una meta ambiciosa, pero es manejable si dividimos el trabajo." },
+          { "q": "A", "t": "We should also write a comprehensive guide so that everyone follows the same steps.", "es": "También deberíamos escribir una guía exhaustiva para que todos sigan los mismos pasos." },
+          { "q": "B", "t": "Good idea. Some colleagues will reluctantly accept the change, though.", "es": "Buena idea. Aunque algunos colegas aceptarán el cambio a regañadientes." },
+          { "q": "A", "t": "True, but a resourceful team can adapt quickly.", "es": "Cierto, pero un equipo ingenioso puede adaptarse rápido." },
+          { "q": "B", "t": "Let's start now. Clear steps will strengthen our credibility with the client.", "es": "Empecemos ya. Pasos claros fortalecerán nuestra credibilidad con el cliente." }
+        ]
+      },
+      "nota": "Muchas veces -ize se escribe -ise en inglés británico (standardise). En inglés de EE. UU. se prefiere -ize."
+    },
+    {
+      "id": "en-c1-u14-l5",
+      "n": 5,
+      "titulo": "Repaso: familias de palabras",
+      "objetivo": "Dominar familias completas de palabras y elegir la forma correcta según la oración.",
+      "intro": "Aprender una palabra es aprender su familia: sustantivo, verbo, adjetivo y adverbio. Truco: cuando completes una oración, pregunta qué categoría falta y elige la forma adecuada.",
+      "palabras": [
+        { "t": "decisive", "es": "decisivo, resuelto", "pron": "disáisiv", "ej": "The manager took decisive action immediately.", "ejes": "La gerente tomó medidas decisivas de inmediato.", "cog": true },
+        { "t": "indecisive", "es": "indeciso", "pron": "indisáisiv", "ej": "He was indecisive and missed the opportunity.", "ejes": "Fue indeciso y perdió la oportunidad.", "cog": true },
+        { "t": "creativity", "es": "creatividad", "pron": "criativíti", "ej": "Creativity drives innovation in every industry.", "ejes": "La creatividad impulsa la innovación en toda industria.", "cog": true },
+        { "t": "creatively", "es": "de forma creativa", "pron": "criéitivli", "ej": "She solved the problem creatively.", "ejes": "Resolvió el problema de forma creativa.", "cog": true },
+        { "t": "analytical", "es": "analítico", "pron": "analítical", "ej": "He has strong analytical skills.", "ejes": "Tiene fuertes habilidades analíticas.", "cog": true },
+        { "t": "sustainable", "es": "sostenible", "pron": "sasténabol", "ej": "We need a sustainable model for growth.", "ejes": "Necesitamos un modelo sostenible de crecimiento.", "cog": true },
+        { "t": "sustainability", "es": "sostenibilidad", "pron": "sastenabíliti", "ej": "Sustainability is now a core business goal.", "ejes": "La sostenibilidad es ahora un objetivo central de las empresas.", "cog": true },
+        { "t": "innovative", "es": "innovador", "pron": "ínoveitiv", "ej": "The startup offers an innovative solution.", "ejes": "La startup ofrece una solución innovadora.", "cog": true }
+      ],
+      "frases": [
+        { "t": "The manager took decisive action immediately.", "es": "La gerente tomó medidas decisivas de inmediato.", "pron": "da mánayer tuc disáisiv ákshon imídietli" },
+        { "t": "Creativity and analytical skills are both valuable.", "es": "La creatividad y las habilidades analíticas son ambas valiosas.", "pron": "criativíti and analítical skils ar bouz váliuabol" },
+        { "t": "They solved the problem creatively, not routinely.", "es": "Resolvieron el problema de forma creativa, no rutinaria.", "pron": "dei solvd da próblem criéitivli, not rutínli" },
+        { "t": "Sustainability is no longer optional for companies.", "es": "La sostenibilidad ya no es opcional para las empresas.", "pron": "sastenabíliti is nou lónguer ópshonal for cómpanis" },
+        { "t": "An innovative idea can transform a whole sector.", "es": "Una idea innovadora puede transformar todo un sector.", "pron": "an ínoveitiv aidía can transfórm a joul séctor" },
+        { "t": "He was too indecisive to lead the team.", "es": "Era demasiado indeciso para liderar al equipo.", "pron": "ji uas tu indisáisiv tu lid da tim" }
+      ],
+      "dialogo": {
+        "titulo": "Presentar una propuesta",
+        "lineas": [
+          { "q": "A", "t": "Our proposal combines creativity with analytical rigor, which makes it innovative.", "es": "Nuestra propuesta combina creatividad con rigor analítico, lo cual la hace innovadora." },
+          { "q": "B", "t": "I like it. Is the model sustainable in the long term, though?", "es": "Me gusta. Pero, ¿el modelo es sostenible a largo plazo?" },
+          { "q": "A", "t": "Yes. Sustainability was our main concern, and we handled it creatively.", "es": "Sí. La sostenibilidad era nuestra principal preocupación y la resolvimos de forma creativa." },
+          { "q": "B", "t": "Good. We need decisive action now. The board has been indecisive for months.", "es": "Bien. Necesitamos acciones decisivas ahora. La junta ha estado indecisa por meses." },
+          { "q": "A", "t": "That's why we've made the plan comprehensive and easy to approve.", "es": "Por eso hemos hecho el plan exhaustivo y fácil de aprobar." },
+          { "q": "B", "t": "Excellent. I'll present it on Monday and strengthen the case with real data.", "es": "Excelente. Lo presentaré el lunes y reforzaré el caso con datos reales." }
+        ]
+      },
+      "nota": "Un buen diccionario de aprendizaje (como Oxford o Cambridge) muestra la familia de cada palabra. Consúltalo cada vez que aprendas una palabra nueva."
+    }
+  ]
+}

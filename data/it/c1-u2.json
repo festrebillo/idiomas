@@ -1,0 +1,215 @@
+{
+  "id": "it-c1-u2",
+  "idioma": "it",
+  "nivel": "C1",
+  "n": 2,
+  "titulo": "Estructuras enfáticas",
+  "resumen": "Aprenderás la frase scissa y la pseudo-scissa para destacar quién, qué, dónde, cuándo o por qué: è Marco che ha chiamato, ciò che serve è tempo.",
+  "puedo": [
+    "Construir una frase scissa con è... che para destacar sujeto, lugar o tiempo.",
+    "Usar ciò che, quello che y quel che para abrir una frase enfática.",
+    "Destacar la causa con è per questo che y ecco perché.",
+    "Usar è stato lui a + infinitivo para señalar al responsable.",
+    "Elegir entre frase scissa y orden neutro según el tono del texto."
+  ],
+  "gramatica": {
+    "titulo": "La frase scissa: è... che",
+    "texto": "La frase «scissa» (partida) rompe una oración en dos para poner un elemento en el centro: «Marco ha chiamato» pasa a «È Marco che ha chiamato».\nEstructura: è / era / sarà + elemento destacado + che + resto de la frase. Se puede destacar un sujeto, un lugar, un tiempo o una causa: È a Roma che vivo. È domani che parto.\nCon un sujeto o un objeto también se usa a + infinitivo: È stato lui a decidere.\nLa pseudo-scissa abre con ciò che / quello che / chi: Ciò che serve è più tempo. Chi ha sbagliato è lui.\nTruco: en español es «Fue Marco quien llamó» o «Lo que necesitamos es tiempo». Es la misma idea.",
+    "tabla": [
+      ["È Marco che ha scritto il rapporto.", "Fue Marco quien escribió el informe.", "e márco ke a scritto il rappórto"],
+      ["È a Milano che si decide tutto.", "Es en Milán donde se decide todo.", "e a milánno ke si dechíde túto"],
+      ["È stato lui a rispondere.", "Fue él quien respondió.", "e státo lui a rispóndere"],
+      ["Ciò che serve è più tempo.", "Lo que hace falta es más tiempo.", "chió ke sérve e piú témpo"],
+      ["Chi ha sbagliato è stato il fornitore.", "Quien se equivocó fue el proveedor.", "ki a sbaliáto e státo il fornitóre"]
+    ],
+    "errores": [
+      "Usar «quien» en vez de che: «È Marco chi ha chiamato» es incorrecto; en la scissa va «che» (È Marco che ha chiamato).",
+      "Olvidar la concordancia del verbo con el sujeto destacado: «Siamo noi che dobbiamo cambiare» (no «che deve»).",
+      "Traducir «lo que» como «che» a secas: en la pseudo-scissa se dice «Ciò che serve è tempo» (o «Quello che serve»), no «Che serve è tempo»."
+    ]
+  },
+  "practica": [
+    "Lee un artículo de opinión de la prensa italiana y subraya todas las frasi scisse; reescríbelas en orden neutro (12 minutos).",
+    "Escucha un podcast de entrevistas en italiano y anota tres frases que empiecen con «ciò che», «quello che» o «è... che» (10 minutos).",
+    "Escribe seis frases sobre tu trabajo: destaca con scissa el sujeto, el lugar y el tiempo (8 minutos).",
+    "Graba un minuto defendiendo una idea y usa al menos dos pseudo-scisse (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-c1-u2-l1",
+      "n": 1,
+      "titulo": "La frase scissa con è... che",
+      "objetivo": "Destacar un sujeto o un complemento con la estructura è + elemento + che.",
+      "intro": "Para decir «fue ella quien», el italiano parte la frase y pone al protagonista en medio. Truco: es + lo importante + che + el resto.",
+      "palabras": [
+        { "t": "cruciale", "es": "crucial", "pron": "cruchále", "ej": "È un passaggio cruciale per il progetto.", "ejes": "Es un paso crucial para el proyecto.", "cog": true },
+        { "t": "determinante", "es": "determinante, decisivo", "pron": "determinánte", "ej": "Il suo contributo è stato determinante.", "ejes": "Su aporte fue determinante.", "cog": true },
+        { "t": "in sostanza", "es": "en esencia, en resumen", "pron": "in sostántsa", "ej": "In sostanza, nessuno ha deciso nulla.", "ejes": "En esencia, nadie decidió nada.", "cog": false },
+        { "t": "di fatto", "es": "de hecho, en la práctica", "pron": "di fátto", "ej": "Di fatto, il contratto è già scaduto.", "ejes": "De hecho, el contrato ya venció.", "cog": false },
+        { "t": "a rigore", "es": "en rigor, estrictamente", "pron": "a rígore", "ej": "A rigore, non spetterebbe a noi.", "ejes": "En rigor, no nos correspondería a nosotros.", "cog": false },
+        { "t": "propriamente", "es": "propiamente", "pron": "propriaménte", "ej": "Non è propriamente una novità.", "ejes": "No es propiamente una novedad.", "cog": true },
+        { "t": "il discrimine", "es": "el criterio decisivo, la línea divisoria", "pron": "il discrímine", "ej": "Il discrimine è la volontà di collaborare.", "ejes": "El criterio decisivo es la voluntad de colaborar.", "cog": false },
+        { "t": "l'artefice", "es": "el artífice", "pron": "lartéfiche", "ej": "L'artefice dell'accordo è stato proprio lui.", "ejes": "El artífice del acuerdo fue precisamente él.", "cog": true },
+        { "t": "riconducibile a", "es": "atribuible a", "pron": "riconducíbile a", "ej": "Il ritardo è riconducibile a un errore di calcolo.", "ejes": "El retraso es atribuible a un error de cálculo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "È Marco che ha scritto il rapporto, non io.", "es": "Fue Marco quien escribió el informe, no yo.", "pron": "e márco ke a scritto il rappórto non ío" },
+        { "t": "È a Milano che si decide il futuro dell'azienda.", "es": "Es en Milán donde se decide el futuro de la empresa.", "pron": "e a milánno ke si dechíde il futúro delaziénda" },
+        { "t": "Non è il prezzo che mi preoccupa, sono i tempi.", "es": "No es el precio lo que me preocupa, son los plazos.", "pron": "non e il préttso ke mi preoccúpa sóno i témpi" },
+        { "t": "Siamo noi che dobbiamo cambiare approccio.", "es": "Somos nosotros quienes debemos cambiar de enfoque.", "pron": "siámo noi ke dobbiámo cambiáre approcchio" },
+        { "t": "È stato solo grazie a lei che il progetto è partito.", "es": "Fue solo gracias a ella que el proyecto arrancó.", "pron": "e státo sólo grátsie a léi ke il progétto e partíto" }
+      ],
+      "dialogo": {
+        "titulo": "Chi ha sbagliato",
+        "lineas": [
+          { "q": "A", "t": "È stato un errore cruciale: il ritardo è riconducibile a una consegna sbagliata, e di fatto abbiamo perso due settimane.", "es": "Fue un error crucial: el retraso es atribuible a una entrega equivocada, y en la práctica perdimos dos semanas." },
+          { "q": "B", "t": "Non è la consegna che mi preoccupa, è il fatto che nessuno ci abbia avvisato in tempo; in sostanza, la comunicazione ha fallito.", "es": "No es la entrega lo que me preocupa, es que nadie nos haya avisado a tiempo; en esencia, la comunicación falló." },
+          { "q": "A", "t": "A rigore, non spettava a noi controllare il magazzino, ma è a noi che il cliente chiederà spiegazioni.", "es": "En rigor, no nos correspondía a nosotros controlar el almacén, pero es a nosotros a quienes el cliente pedirá explicaciones." },
+          { "q": "B", "t": "Il discrimine sarà come reagiamo: è adesso che dobbiamo dimostrare di essere affidabili, non quando il danno sarà fatto.", "es": "El criterio decisivo será cómo reaccionemos: es ahora cuando debemos demostrar que somos fiables, no cuando el daño esté hecho." },
+          { "q": "A", "t": "Sono d'accordo. Non è propriamente una situazione grave, ma l'artefice della soluzione dovrai essere tu, e il suo contributo sarà determinante.", "es": "De acuerdo. No es propiamente una situación grave, pero el artífice de la solución tendrás que ser tú, y su aporte será determinante." }
+        ]
+      },
+      "nota": "En la frase scissa el verbo «essere» concuerda con el elemento destacado en número: «Sono loro che decidono», «È lui che decide». Si es persona, se puede usar a + infinitivo: «Sono loro a decidere»."
+    },
+    {
+      "id": "it-c1-u2-l2",
+      "n": 2,
+      "titulo": "La pseudo-scissa: ciò che, quello che, chi",
+      "objetivo": "Abrir una frase enfática con ciò que y quello che para presentar una conclusión.",
+      "intro": "Si quieres presentar algo con tono de conclusión, empieza por «lo que» y termina con es. Truco: «ciò che» es más formal; «quello che» y «quel che» son más del habla.",
+      "palabras": [
+        { "t": "ciò che conta", "es": "lo que cuenta", "pron": "chió ke cónta", "ej": "Ciò che conta è il risultato finale.", "ejes": "Lo que cuenta es el resultado final.", "cog": false },
+        { "t": "il punto debole", "es": "el punto débil", "pron": "il púnto débole", "ej": "Il punto debole è la mancanza di personale.", "ejes": "El punto débil es la falta de personal.", "cog": false },
+        { "t": "il punto di forza", "es": "el punto fuerte", "pron": "il púnto di fórtsa", "ej": "Il punto di forza è la rapidità di consegna.", "ejes": "El punto fuerte es la rapidez de entrega.", "cog": false },
+        { "t": "la priorità", "es": "la prioridad", "pron": "la prioritá", "ej": "La priorità è la sicurezza dei dati.", "ejes": "La prioridad es la seguridad de los datos.", "cog": true },
+        { "t": "l'ostacolo", "es": "el obstáculo", "pron": "lostácolo", "ej": "L'ostacolo principale è il budget.", "ejes": "El obstáculo principal es el presupuesto.", "cog": true },
+        { "t": "il traguardo", "es": "la meta, el logro", "pron": "il traguárdo", "ej": "Il traguardo è chiudere l'anno in positivo.", "ejes": "La meta es cerrar el año en positivo.", "cog": false },
+        { "t": "la posta in gioco", "es": "lo que está en juego", "pron": "la pósta in yóco", "ej": "La posta in gioco è altissima.", "ejes": "Lo que está en juego es altísimo.", "cog": false },
+        { "t": "quel che", "es": "lo que", "pron": "cuel ke", "ej": "Quel che dici non è del tutto vero.", "ejes": "Lo que dices no es del todo cierto.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Ciò che serve è una strategia a lungo termine.", "es": "Lo que hace falta es una estrategia a largo plazo.", "pron": "chió ke sérve e úna strategía a lúngo términe" },
+        { "t": "Quello che mi preoccupa è la mancanza di trasparenza.", "es": "Lo que me preocupa es la falta de transparencia.", "pron": "cuéllo ke mi preoccúpa e la mancántsa di trasparéntsa" },
+        { "t": "Quel che conta, in fondo, è la fiducia dei clienti.", "es": "Lo que cuenta, en el fondo, es la confianza de los clientes.", "pron": "cuel ke cónta in fóndo e la fidúcia dei cliénti" },
+        { "t": "Chi ha sbagliato non è stato il fornitore, ma noi.", "es": "Quien se equivocó no fue el proveedor, sino nosotros.", "pron": "ki a sbaliáto non e státo il fornitóre ma noi" },
+        { "t": "La priorità, adesso, è contenere i danni.", "es": "La prioridad, ahora, es contener los daños.", "pron": "la prioritá adésso e contenére i dánni" }
+      ],
+      "dialogo": {
+        "titulo": "Una valutazione onesta",
+        "lineas": [
+          { "q": "A", "t": "Ciò che conta, in questo momento, è capire qual è il punto debole del nostro piano e quale sia la posta in gioco.", "es": "Lo que cuenta, en este momento, es entender cuál es el punto débil de nuestro plan y cuál es lo que está en juego." },
+          { "q": "B", "t": "Il punto di forza, secondo me, è la squadra; l'ostacolo vero è che nessuno ha chiaro quale sia la priorità.", "es": "El punto fuerte, en mi opinión, es el equipo; el verdadero obstáculo es que nadie tiene claro cuál es la prioridad." },
+          { "q": "A", "t": "Quel che mi sorprende è che nessuno l'abbia detto prima. Il traguardo era chiaro, ma i passi per arrivarci no.", "es": "Lo que me sorprende es que nadie lo haya dicho antes. La meta era clara, pero los pasos para llegar a ella no." },
+          { "q": "B", "t": "Quello che propongo è di riunirci ogni lunedì per verificare gli avanzamenti, senza burocrazia e senza lunghe presentazioni.", "es": "Lo que propongo es reunirnos cada lunes para verificar los avances, sin burocracia y sin largas presentaciones." },
+          { "q": "A", "t": "Ottimo. Ciò di cui abbiamo bisogno è proprio un metodo semplice; chi lo guiderà sarà Giulia, che ha l'esperienza giusta.", "es": "Excelente. Lo que necesitamos es justamente un método sencillo; quien lo guiará será Giulia, que tiene la experiencia adecuada." }
+        ]
+      },
+      "nota": "Después de «ciò che» el verbo «essere» concuerda con lo que sigue: «Ciò che serve sono nuove risorse» (plural) o «Ciò che serve è tempo». Con «ciò di cui» se mantiene la preposición del verbo: «Ciò di cui abbiamo bisogno»."
+    },
+    {
+      "id": "it-c1-u2-l3",
+      "n": 3,
+      "titulo": "Destacar la causa, el tiempo y el lugar",
+      "objetivo": "Usar è per questo che, è allora che, è lì che y ecco para dar énfasis a la causa, al momento o al lugar.",
+      "intro": "La scissa también sirve para resaltar el porqué, el cuándo y el dónde. Truco: «ecco» es la versión corta: «Ecco perché...» = «Por eso...».",
+      "palabras": [
+        { "t": "ecco perché", "es": "por eso, he aquí por qué", "pron": "écco perké", "ej": "Ecco perché abbiamo cambiato strategia.", "ejes": "Por eso cambiamos de estrategia.", "cog": false },
+        { "t": "ecco come", "es": "así es como", "pron": "écco cóme", "ej": "Ecco come si risolve il problema.", "ejes": "Así es como se resuelve el problema.", "cog": false },
+        { "t": "è per questo che", "es": "es por eso que", "pron": "e per cuésto ke", "ej": "È per questo che ho deciso di partire.", "ejes": "Es por eso que decidí irme.", "cog": false },
+        { "t": "è allora che", "es": "es entonces cuando", "pron": "e allóra ke", "ej": "È allora che ho capito tutto.", "ejes": "Es entonces cuando lo entendí todo.", "cog": false },
+        { "t": "è lì che", "es": "es allí donde", "pron": "e lí ke", "ej": "È lì che si prendono le decisioni importanti.", "ejes": "Es allí donde se toman las decisiones importantes.", "cog": false },
+        { "t": "solo allora", "es": "solo entonces", "pron": "sólo allóra", "ej": "Solo allora ho capito la gravità.", "ejes": "Solo entonces comprendí la gravedad.", "cog": false },
+        { "t": "proprio per questo", "es": "precisamente por eso", "pron": "própio per cuésto", "ej": "Proprio per questo non voglio rischiare.", "ejes": "Precisamente por eso no quiero arriesgar.", "cog": false },
+        { "t": "è così che", "es": "es así como", "pron": "e cosí ke", "ej": "È così che nascono i grandi progetti.", "ejes": "Es así como nacen los grandes proyectos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "È per questo che ho deciso di lasciare l'incarico.", "es": "Es por eso que decidí dejar el cargo.", "pron": "e per cuésto ke o dechíso di lasciáre lincárico" },
+        { "t": "È allora che mi sono reso conto dell'errore.", "es": "Es entonces cuando me di cuenta del error.", "pron": "e allóra ke mi sóno rézo cónto delerróre" },
+        { "t": "È lì che si gioca la partita vera.", "es": "Es allí donde se juega la partida de verdad.", "pron": "e lí ke si yóca la partíta véra" },
+        { "t": "Ecco come abbiamo risolto un problema di anni.", "es": "Así es como resolvimos un problema de años.", "pron": "écco cóme abbiámo risólto un problema di ánni" },
+        { "t": "Solo allora ho capito quanto fosse importante.", "es": "Solo entonces comprendí cuán importante era.", "pron": "sólo allóra o capíto cuánto fósse importánte" }
+      ],
+      "dialogo": {
+        "titulo": "Un cambio di rotta",
+        "lineas": [
+          { "q": "A", "t": "Ecco perché ti ho chiamato: l'azienda sta cambiando rotta, ed è con te che voglio parlarne per primo.", "es": "Por eso te llamé: la empresa está cambiando de rumbo, y es contigo con quien quiero hablarlo primero." },
+          { "q": "B", "t": "Proprio per questo ero preoccupato: è stato dopo la riunione di giovedì che ho avuto la sensazione che qualcosa non andasse.", "es": "Precisamente por eso estaba preocupado: fue después de la reunión del jueves cuando tuve la sensación de que algo andaba mal." },
+          { "q": "A", "t": "È così che nascono le voci, purtroppo. Solo allora ho capito che avrei dovuto spiegare tutto fin dall'inizio.", "es": "Así es como nacen los rumores, lamentablemente. Solo entonces entendí que debería haber explicado todo desde el principio." },
+          { "q": "B", "t": "È lì che hai sbagliato, se posso dirlo: è nel silenzio che si diffondono le versioni peggiori.", "es": "Ahí es donde te equivocaste, si puedo decirlo: es en el silencio donde se difunden las peores versiones." },
+          { "q": "A", "t": "Hai ragione. È per questo che domani convoco tutti: ecco come intendo rimediare, e sarò io a parlare.", "es": "Tienes razón. Es por eso que mañana convoco a todos: así es como pienso remediarlo, y seré yo quien hable." }
+        ]
+      },
+      "nota": "En la scissa el verbo después de «che» no cambia de tiempo por la estructura: «È allora che ho capito» (pasado), «È domani che parto» (presente con valor futuro). No se usa «che» con comas en medio."
+    },
+    {
+      "id": "it-c1-u2-l4",
+      "n": 4,
+      "titulo": "Responsabilidad y acción: è stato lui a + infinitivo",
+      "objetivo": "Atribuir una acción a alguien con la estructura a + infinitivo y expresiones de responsabilidad.",
+      "intro": "Para señalar al responsable sin repetir «che», el italiano usa a + infinitivo: «È stata lei a decidere». Truco: solo vale cuando el elemento destacado es el sujeto.",
+      "palabras": [
+        { "t": "assumersi la responsabilità", "es": "asumir la responsabilidad", "pron": "assumérsi la responsabilitá", "ej": "Qualcuno deve assumersi la responsabilità dell'errore.", "ejes": "Alguien debe asumir la responsabilidad del error.", "cog": false },
+        { "t": "farsi carico di", "es": "hacerse cargo de", "pron": "fársi cárico di", "ej": "Qualcuno dovrà farsi carico di questa spesa.", "ejes": "Alguien tendrá que hacerse cargo de este gasto.", "cog": false },
+        { "t": "essere a capo di", "es": "estar a la cabeza de, dirigir", "pron": "ésere a cápo di", "ej": "Vorrei essere a capo di un team più grande.", "ejes": "Me gustaría dirigir un equipo más grande.", "cog": false },
+        { "t": "è tenuto a", "es": "está obligado a", "pron": "e tenúto a", "ej": "Il fornitore è tenuto a rispettare i termini.", "ejes": "El proveedor está obligado a respetar los plazos.", "cog": false },
+        { "t": "rispondere di", "es": "responder por", "pron": "rispóndere di", "ej": "Il direttore deve rispondere di ogni scelta.", "ejes": "El director debe responder por cada decisión.", "cog": false },
+        { "t": "all'origine di", "es": "en el origen de", "pron": "allorídyine di", "ej": "Un malinteso è all'origine di tutto.", "ejes": "Un malentendido está en el origen de todo.", "cog": false },
+        { "t": "dare il via a", "es": "dar inicio a", "pron": "dáre il vía a", "ej": "Vogliamo dare il via a un nuovo progetto.", "ejes": "Queremos dar inicio a un nuevo proyecto.", "cog": false },
+        { "t": "attribuire a", "es": "atribuir a", "pron": "attribuíre a", "ej": "Non si può attribuire a lui la colpa.", "ejes": "No se le puede atribuir a él la culpa.", "cog": true }
+      ],
+      "frases": [
+        { "t": "È stata lei a prendere la decisione finale.", "es": "Fue ella quien tomó la decisión final.", "pron": "e státa léi a prendére la dechisióne finále" },
+        { "t": "Sono loro a dover rispondere di questi risultati.", "es": "Son ellos quienes deben responder por estos resultados.", "pron": "sóno lóro a dovér rispóndere di cuésti risultáti" },
+        { "t": "Non sono stato io a dare il via a questa iniziativa.", "es": "No fui yo quien dio inicio a esta iniciativa.", "pron": "non sóno státo ío a dáre il vía a cuésta inichiatíva" },
+        { "t": "È il fornitore che è tenuto a coprire i danni.", "es": "Es el proveedor quien está obligado a cubrir los daños.", "pron": "e il fornitóre ke e tenúto a coprire i dánni" },
+        { "t": "Alla fine è toccato a me assumermi la responsabilità.", "es": "Al final me tocó a mí asumir la responsabilidad.", "pron": "alla fine e toccáto a me assumérmi la responsabilitá" }
+      ],
+      "dialogo": {
+        "titulo": "Di chi è la colpa",
+        "lineas": [
+          { "q": "A", "t": "Chi dovrà farsi carico di questa spesa? Non è stato certo il reparto commerciale a dare il via a quell'ordine.", "es": "¿Quién deberá hacerse cargo de este gasto? No fue el departamento comercial quien dio inicio a ese pedido." },
+          { "q": "B", "t": "È stato il direttore generale a firmarlo, e un malinteso è all'origine di tutto: nessuno è tenuto a pagare l'intera penale.", "es": "Fue el director general quien lo firmó, y un malentendido está en el origen de todo: nadie está obligado a pagar la penalización completa." },
+          { "q": "A", "t": "Non possiamo attribuire a una sola persona la responsabilità; chi è a capo del progetto deve comunque rispondere delle scelte fatte.", "es": "No podemos atribuir a una sola persona la responsabilidad; quien dirige el proyecto debe, de todos modos, responder por las decisiones tomadas." },
+          { "q": "B", "t": "Ammetto che toccherà a me assumermi la responsabilità: sono io a dover spiegare ai soci cosa è successo.", "es": "Admito que me tocará a mí asumir la responsabilidad: soy yo quien debe explicar a los socios lo que pasó." },
+          { "q": "A", "t": "Apprezzo la tua franchezza. Domani presenterai tu la relazione, e a decidere sul resto sarà il consiglio.", "es": "Aprecio tu franqueza. Mañana presentarás tú el informe, y quien decidirá sobre el resto será el consejo." }
+        ]
+      },
+      "nota": "«A + infinitivo» solo se destaca el sujeto: «È stato lui a rispondere». Con un complemento («È a Roma che vivo») hay que volver a «che». «Toccare a» y «spettare a» expresan a quién le corresponde algo."
+    },
+    {
+      "id": "it-c1-u2-l5",
+      "n": 5,
+      "titulo": "Repaso: argumentar con énfasis",
+      "objetivo": "Combinar scissa, pseudo-scissa y a + infinitivo en una defensa argumentada.",
+      "intro": "Repasa preparando una intervención donde cada idea clave se destaca con una estructura distinta. Truco: alterna è... che y ciò che para no sonar repetitivo.",
+      "palabras": [
+        { "t": "ribadire", "es": "reiterar, recalcar", "pron": "ribadíre", "ej": "Devo ribadire che la decisione è collegiale.", "ejes": "Debo reiterar que la decisión es colegiada.", "cog": false },
+        { "t": "a monte", "es": "en el origen, antes", "pron": "a mónte", "ej": "A monte di tutto c'è un errore di valutazione.", "ejes": "En el origen de todo hay un error de evaluación.", "cog": false },
+        { "t": "a valle", "es": "después, aguas abajo", "pron": "a válle", "ej": "A valle del processo, i controlli sono rigorosi.", "ejes": "Al final del proceso, los controles son rigurosos.", "cog": false },
+        { "t": "il fulcro", "es": "el eje, el centro", "pron": "il fúlcro", "ej": "Il fulcro del problema è la comunicazione.", "ejes": "El eje del problema es la comunicación.", "cog": false },
+        { "t": "è evidente che", "es": "es evidente que", "pron": "e evidénte ke", "ej": "È evidente che qualcosa non ha funzionato.", "ejes": "Es evidente que algo no funcionó.", "cog": false },
+        { "t": "in definitiva", "es": "en definitiva", "pron": "in definitíva", "ej": "In definitiva, la scelta è stata giusta.", "ejes": "En definitiva, la decisión fue correcta.", "cog": false },
+        { "t": "senza ombra di dubbio", "es": "sin sombra de duda", "pron": "sénsa ómbra di dúbio", "ej": "Senza ombra di dubbio, è la migliore soluzione.", "ejes": "Sin sombra de duda, es la mejor solución.", "cog": false },
+        { "t": "a pieno titolo", "es": "con pleno derecho", "pron": "a piéno títolo", "ej": "Fa parte del gruppo a pieno titolo.", "ejes": "Forma parte del grupo con pleno derecho.", "cog": false }
+      ],
+      "frases": [
+        { "t": "È a monte che bisogna intervenire, non a valle.", "es": "Es en el origen donde hay que intervenir, no al final.", "pron": "e a mónte ke bisóña intervenire non a válle" },
+        { "t": "Ciò che manca non sono i fondi, ma una visione chiara.", "es": "Lo que falta no son los fondos, sino una visión clara.", "pron": "chió ke mánca non sóno i fóndi ma úna visióne kiára" },
+        { "t": "È proprio per questo che dobbiamo agire adesso.", "es": "Es precisamente por eso que debemos actuar ahora.", "pron": "e própio per cuésto ke dobbiámo adyíre adésso" },
+        { "t": "Siamo stati noi a sbagliare, e a pagare le conseguenze.", "es": "Fuimos nosotros quienes nos equivocamos, y quienes pagamos las consecuencias.", "pron": "siámo státi noi a sbaliáre e a pagáre le consecuéntse" },
+        { "t": "In definitiva, quello che serve è un cambio di metodo.", "es": "En definitiva, lo que hace falta es un cambio de método.", "pron": "in definitíva cuéllo ke sérve e un cámbio di método" }
+      ],
+      "dialogo": {
+        "titulo": "La difesa del piano",
+        "lineas": [
+          { "q": "A", "t": "Devo ribadire che il fulcro della questione non è il costo: a monte di tutto c'è un errore di valutazione, e senza ombra di dubbio è lì che dobbiamo intervenire.", "es": "Debo reiterar que el eje de la cuestión no es el costo: en el origen de todo hay un error de evaluación, y sin sombra de duda es ahí donde debemos intervenir." },
+          { "q": "B", "t": "È evidente che qualcosa non ha funzionato, ma ciò che non capisco è perché i controlli a valle non l'abbiano segnalato prima.", "es": "Es evidente que algo no funcionó, pero lo que no entiendo es por qué los controles posteriores no lo señalaron antes." },
+          { "q": "A", "t": "È proprio per questo che propongo una revisione completa: sono loro a dover cambiare metodo, e noi a dover vigilare.", "es": "Es precisamente por eso que propongo una revisión completa: son ellos quienes deben cambiar de método, y nosotros quienes debemos vigilar." },
+          { "q": "B", "t": "Mi sembra ragionevole, anche se ciò che mi preoccupa è il tempo: non è domani che si risolve, sarà un percorso lungo.", "es": "Me parece razonable, aunque lo que me preocupa es el tiempo: no se resuelve mañana, será un camino largo." },
+          { "q": "A", "t": "Lo so. In definitiva, quello che chiedo è fiducia: sono a capo di questa squadra a pieno titolo, e ne rispondo personalmente.", "es": "Lo sé. En definitiva, lo que pido es confianza: dirijo este equipo con pleno derecho, y respondo personalmente." }
+        ]
+      },
+      "nota": "Cuando todas las frases de un texto son scisse, el efecto se vuelve pesado. Reserva la estructura para dos o tres ideas fuertes del texto."
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": "en-c1-u13",
+  "idioma": "en",
+  "nivel": "C1",
+  "n": 13,
+  "titulo": "Lectura de textos complejos",
+  "resumen": "Aprenderás a inferir lo que un texto no dice, a detectar el tono del autor, a seguir la estructura de textos largos y a leer con espíritu crítico.",
+  "puedo": [
+    "Inferir ideas implícitas y leer entre líneas.",
+    "Identificar el tono y la actitud del autor: irónico, escéptico, objetivo.",
+    "Reconocer la estructura de un texto largo y navegarlo con skim y scan.",
+    "Interpretar verbos de reporte como claim, allege y assert.",
+    "Evaluar la credibilidad y el sesgo de una fuente."
+  ],
+  "gramatica": {
+    "titulo": "Verbos de reporte: revelan la postura del autor",
+    "texto": "Cuando un autor cita lo que otros dicen, el verbo que elige muestra su actitud. Say, state y explain son neutros. Claim y allege sugieren duda: He claims he was at home (el autor no está seguro de que sea cierto). Assert, insist y maintain muestran firmeza de quien habla. Admit y concede indican que alguien reconoce algo que le cuesta.\nCon el verbo viene casi siempre that: She alleged that the funds were misused.\nTambién observa los adverbios de actitud: unfortunately, surprisingly, predictably, admittedly. Muestran lo que el autor opina sin decirlo directamente.\nTruco: al leer, pregúntate por qué el autor eligió claim y no say.",
+    "tabla": [
+      ["He says the bridge is safe.", "Dice que el puente es seguro.", "ji ses da bridsh is seif"],
+      ["He claims the bridge is safe.", "Afirma (aunque se duda) que el puente es seguro.", "ji cleims da bridsh is seif"],
+      ["She alleges that funds were misused.", "Alega que se usaron mal los fondos.", "shi aléyes dat fands uer misiúsd"],
+      ["He insists that he is innocent.", "Insiste en que es inocente.", "ji insísts dat ji is ínosent"],
+      ["The firm admits that it made errors.", "La empresa admite haber cometido errores.", "da ferm admíts dat it meid érors"],
+      ["Predictably, the vote was close.", "Como era previsible, la votación fue reñida.", "pridíctabli, da vout uas clous"]
+    ],
+    "errores": [
+      "No traduzcas claim siempre como «reclamar»: en este uso significa afirmar algo que se pone en duda, no pedir algo que te deben.",
+      "No uses actually para decir «actualmente»: actually significa en realidad; actualmente es currently.",
+      "No te quedes solo con el significado literal: pregunta qué verbo y qué adverbio usó el autor, porque ahí está su postura."
+    ]
+  },
+  "practica": [
+    "Lee un editorial de un periódico en inglés y subraya 6 verbos de reporte; clasifícalos en neutros, de duda y de firmeza (15 minutos).",
+    "Elige una noticia y escribe en 5 líneas qué dice el autor de forma explícita y qué insinúa de forma implícita (15 minutos).",
+    "Haz skim de 3 artículos largos en 10 minutos y anota la idea principal de cada uno en una frase (12 minutos).",
+    "Lee un artículo de 800 palabras y escribe un esquema con tesis, evidencias y conclusión (20 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-c1-u13-l1",
+      "n": 1,
+      "titulo": "Inferir y leer entre líneas",
+      "objetivo": "Deducir lo implícito de un texto con infer, imply, hint y subtext.",
+      "intro": "Los buenos autores no lo dicen todo: lo insinúan. Inferir es llegar a una conclusión a partir de pistas. Truco: el autor implica, tú infieres; implicar es dar la pista, inferir es interpretarla.",
+      "palabras": [
+        { "t": "infer", "es": "inferir, deducir", "pron": "infér", "ej": "From the tone, we can infer that she was upset.", "ejes": "Por el tono, podemos inferir que estaba molesta.", "cog": true },
+        { "t": "imply", "es": "dar a entender", "pron": "implái", "ej": "Does the article imply that the minister knew?", "ejes": "¿El artículo da a entender que el ministro sabía?", "cog": false },
+        { "t": "hint", "es": "insinuar, pista", "pron": "jint", "ej": "Did she hint that changes were coming?", "ejes": "¿Insinuó que venían cambios?", "cog": false },
+        { "t": "implicit", "es": "implícito", "pron": "implísit", "ej": "There is an implicit criticism in his words.", "ejes": "Hay una crítica implícita en sus palabras.", "cog": true },
+        { "t": "explicit", "es": "explícito", "pron": "ixplísit", "ej": "The rules are explicit and leave no doubt.", "ejes": "Las reglas son explícitas y no dejan dudas.", "cog": true },
+        { "t": "subtext", "es": "subtexto, mensaje oculto", "pron": "sábtekst", "ej": "The subtext of the speech was a warning.", "ejes": "El subtexto del discurso era una advertencia.", "cog": true },
+        { "t": "underlying", "es": "subyacente", "pron": "anderláiin", "ej": "The underlying cause is economic inequality.", "ejes": "La causa subyacente es la desigualdad económica.", "cog": false },
+        { "t": "read between the lines", "es": "leer entre líneas", "pron": "rid bituín da láins", "ej": "You have to read between the lines to see the real message.", "ejes": "Tienes que leer entre líneas para ver el mensaje real.", "cog": false }
+      ],
+      "frases": [
+        { "t": "We can infer that the author disagrees with the policy.", "es": "Podemos inferir que el autor no está de acuerdo con la política.", "pron": "ui can infér dat di ótor disagrís uid da pólisi" },
+        { "t": "The report implies that costs were hidden.", "es": "El informe da a entender que los costos se ocultaron.", "pron": "da ripórt implais dat costs uer jíden" },
+        { "t": "There is an implicit warning in that sentence.", "es": "Hay una advertencia implícita en esa oración.", "pron": "der is an implísit uórnin in dat séntens" },
+        { "t": "The underlying problem is a lack of trust.", "es": "El problema subyacente es la falta de confianza.", "pron": "di anderláiin próblem is a lac ov trast" },
+        { "t": "Reading between the lines, he was not happy.", "es": "Leyendo entre líneas, no estaba contento.", "pron": "rídin bituín da láins, ji uas not jápi" }
+      ],
+      "dialogo": {
+        "titulo": "Discutir un artículo",
+        "lineas": [
+          { "q": "A", "t": "The article never states it, but I think it implies that the CEO was aware of the fraud.", "es": "El artículo nunca lo dice, pero creo que da a entender que el director ejecutivo sabía del fraude." },
+          { "q": "B", "t": "Interesting. What makes you infer that? The text doesn't say it directly.", "es": "Interesante. ¿Qué te hace inferirlo? El texto no lo dice directamente." },
+          { "q": "A", "t": "Look at the subtext. He keeps hinting that nobody asked any questions.", "es": "Mira el subtexto. Sigue insinuando que nadie hizo ninguna pregunta." },
+          { "q": "B", "t": "True, there's an implicit criticism of the board. You have to read between the lines.", "es": "Cierto, hay una crítica implícita a la junta. Hay que leer entre líneas." },
+          { "q": "A", "t": "The underlying message is that nobody wanted to know the truth.", "es": "El mensaje subyacente es que nadie quería saber la verdad." },
+          { "q": "B", "t": "That is a fair reading, though the author was never explicit about it.", "es": "Es una lectura justa, aunque el autor nunca fue explícito al respecto." }
+        ]
+      },
+      "nota": "En el habla diaria, imply e infer se confunden mucho. Recuerda: el que escribe o habla implica; el que lee o escucha infiere."
+    },
+    {
+      "id": "en-c1-u13-l2",
+      "n": 2,
+      "titulo": "Tono y actitud del autor",
+      "objetivo": "Identificar si un texto es irónico, escéptico, objetivo o crítico.",
+      "intro": "Dos textos con los mismos datos pueden sonar muy distintos según el tono. Fíjate en adjetivos cargados, ironía y signos de puntuación. Truco: pregúntate si el autor informa, critica o se burla.",
+      "palabras": [
+        { "t": "ironic", "es": "irónico", "pron": "airónic", "ej": "It is ironic that the fire station burned down.", "ejes": "Es irónico que el cuartel de bomberos se quemara.", "cog": true },
+        { "t": "sarcastic", "es": "sarcástico", "pron": "sarcástic", "ej": "His sarcastic comment hurt her feelings.", "ejes": "Su comentario sarcástico hirió sus sentimientos.", "cog": true },
+        { "t": "skeptical", "es": "escéptico", "pron": "squéptical", "ej": "She was skeptical about the company's promises.", "ejes": "Era escéptica sobre las promesas de la empresa.", "cog": true },
+        { "t": "objective", "es": "objetivo", "pron": "obyéctiv", "ej": "A good journalist stays objective.", "ejes": "Un buen periodista se mantiene objetivo.", "cog": true },
+        { "t": "biased", "es": "sesgado, parcial", "pron": "báiast", "ej": "The coverage was clearly biased against the mayor.", "ejes": "La cobertura estaba claramente sesgada contra el alcalde.", "cog": false },
+        { "t": "scathing", "es": "mordaz, muy duro", "pron": "squéidin", "ej": "The critic wrote a scathing review of the film.", "ejes": "El crítico escribió una reseña muy dura de la película.", "cog": false },
+        { "t": "detached", "es": "distante, imparcial", "pron": "ditácht", "ej": "The report has a detached, clinical tone.", "ejes": "El informe tiene un tono distante y clínico.", "cog": false },
+        { "t": "tongue-in-cheek", "es": "en broma, con ironía suave", "pron": "táng-in-chic", "ej": "It was a tongue-in-cheek remark, not a serious one.", "ejes": "Fue un comentario en broma, no uno serio.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The article takes a skeptical view of the project.", "es": "El artículo adopta una visión escéptica del proyecto.", "pron": "di ártical teics a squéptical viu ov da próyect" },
+        { "t": "Her tone is scathing, almost contemptuous.", "es": "Su tono es mordaz, casi despectivo.", "pron": "jer toun is squéidin, ólmost contémchuos" },
+        { "t": "The writer's detached style gives the report credibility.", "es": "El estilo distante del autor da credibilidad al informe.", "pron": "da ráiters ditácht stail guivs da ripórt credibílity" },
+        { "t": "It was a tongue-in-cheek comment, not a serious one.", "es": "Fue un comentario en broma, no uno serio.", "pron": "it uas a tang-in-chic cóment, not a sírios uan" },
+        { "t": "The coverage seems biased, so I remain skeptical.", "es": "La cobertura parece sesgada, así que sigo siendo escéptico.", "pron": "da cóverich sims báiast, sou ai rimein squéptical" }
+      ],
+      "dialogo": {
+        "titulo": "Analizar una reseña",
+        "lineas": [
+          { "q": "A", "t": "What did you make of the review? I found the tone quite scathing.", "es": "¿Qué te pareció la reseña? Encontré el tono bastante mordaz." },
+          { "q": "B", "t": "Yes, and a bit sarcastic. It felt biased, as if the critic had decided before watching.", "es": "Sí, y algo sarcástico. Parecía sesgado, como si el crítico hubiera decidido antes de ver la película." },
+          { "q": "A", "t": "On the other hand, the last line was tongue-in-cheek, so maybe he was joking.", "es": "Por otro lado, la última línea fue en broma, así que quizás bromeaba." },
+          { "q": "B", "t": "Perhaps. The irony was obvious in itself, wasn't it? He praised the director to mock him.", "es": "Quizás. La ironía era evidente en sí misma, ¿no? Elogió al director para burlarse de él." },
+          { "q": "A", "t": "I stay skeptical of reviews like that. I prefer an objective, detached opinion.", "es": "Sigo siendo escéptico con reseñas así. Prefiero una opinión objetiva y distante." },
+          { "q": "B", "t": "Me too, although a completely detached review can feel dull.", "es": "Yo también, aunque una reseña totalmente distante puede resultar aburrida." }
+        ]
+      },
+      "nota": "La ironía en inglés suele ser seca y sutil, sobre todo en el inglés británico. No siempre hay una señal explícita de que algo es irónico."
+    },
+    {
+      "id": "en-c1-u13-l3",
+      "n": 3,
+      "titulo": "Estructura de textos largos",
+      "objetivo": "Navegar un texto largo identificando tesis, evidencia, contraargumentos y conclusión.",
+      "intro": "Un texto largo tiene una arquitectura: introducción, desarrollo y cierre. Si la ves, no te pierdes. Truco: lee primero el título, el resumen y la primera frase de cada párrafo; después decide qué partes leer a fondo.",
+      "palabras": [
+        { "t": "abstract", "es": "resumen (de un artículo)", "pron": "ábstract", "ej": "Read the abstract before the full article.", "ejes": "Lee el resumen antes del artículo completo.", "cog": true },
+        { "t": "skim", "es": "leer por encima", "pron": "skim", "ej": "Skim the headings to get an overview.", "ejes": "Lee por encima los títulos para tener una visión general.", "cog": false },
+        { "t": "scan", "es": "buscar datos específicos", "pron": "scan", "ej": "I scan the table for the exact figures.", "ejes": "Busco en la tabla las cifras exactas.", "cog": false },
+        { "t": "topic sentence", "es": "oración temática", "pron": "tópic séntens", "ej": "Each paragraph begins with a topic sentence.", "ejes": "Cada párrafo comienza con una oración temática.", "cog": false },
+        { "t": "digression", "es": "digresión", "pron": "daigréshon", "ej": "The author includes a long digression about history.", "ejes": "El autor incluye una larga digresión sobre historia.", "cog": true },
+        { "t": "signpost", "es": "señalizar, marcador del discurso", "pron": "sáinpoust", "ej": "Good writers signpost the structure of the argument.", "ejes": "Los buenos escritores señalizan la estructura del argumento.", "cog": false },
+        { "t": "annotate", "es": "anotar, comentar al margen", "pron": "ánoteit", "ej": "I like to annotate the text as I read.", "ejes": "Me gusta anotar el texto mientras leo.", "cog": true },
+        { "t": "outline", "es": "esquema", "pron": "áutlain", "ej": "Write an outline before you start the essay.", "ejes": "Escribe un esquema antes de empezar el ensayo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Start with the abstract and the conclusion.", "es": "Empieza con el resumen y la conclusión.", "pron": "start uid di ábstract and da conclúshon" },
+        { "t": "I usually skim the first paragraph and the headings.", "es": "Suelo leer por encima el primer párrafo y los títulos.", "pron": "ai iúshuali skim da ferst párágraf and da jédins" },
+        { "t": "The topic sentence tells you what the paragraph is about.", "es": "La oración temática te dice de qué trata el párrafo.", "pron": "da tópic séntens tels iu juat da párágraf is abáut" },
+        { "t": "That digression doesn't add much to the argument.", "es": "Esa digresión no aporta mucho al argumento.", "pron": "dat daigréshon dásent ad mach tu di árguiument" },
+        { "t": "Annotate the text so you can find key ideas later.", "es": "Anota el texto para encontrar las ideas clave después.", "pron": "ánoteit da text sou iu can faind ki aidías léiter" }
+      ],
+      "dialogo": {
+        "titulo": "Preparar una lectura académica",
+        "lineas": [
+          { "q": "A", "t": "I have a forty-page paper to read by tomorrow. Where do I even begin?", "es": "Tengo un artículo de cuarenta páginas que leer para mañana. ¿Por dónde empiezo?" },
+          { "q": "B", "t": "Begin with the abstract and the conclusion, then skim the headings.", "es": "Empieza con el resumen y la conclusión, luego lee por encima los títulos." },
+          { "q": "A", "t": "And if I need a specific number, can I just scan the tables?", "es": "¿Y si necesito una cifra específica, puedo simplemente buscar en las tablas?" },
+          { "q": "B", "t": "Yes. Then read each topic sentence to follow the argument without getting lost in a digression.", "es": "Sí. Después lee cada oración temática para seguir el argumento sin perderte en una digresión." },
+          { "q": "A", "t": "I'll annotate it as I go and write an outline afterward.", "es": "Lo iré anotando y escribiré un esquema después." },
+          { "q": "B", "t": "Perfect. Good authors signpost their structure, so look for phrases like firstly and in conclusion.", "es": "Perfecto. Los buenos autores señalizan su estructura, así que busca frases como firstly e in conclusion." }
+        ]
+      },
+      "nota": "Skim es leer rápido para captar la idea general; scan es buscar un dato concreto, como un nombre o una cifra. Son dos habilidades diferentes."
+    },
+    {
+      "id": "en-c1-u13-l4",
+      "n": 4,
+      "titulo": "Verbos de reporte y actitud",
+      "objetivo": "Interpretar claim, allege, assert y reportedly para detectar dudas o firmeza.",
+      "intro": "El verbo con el que un autor cita a otros revela su opinión. Claim y allege sugieren duda; assert y maintain, firmeza. Truco: si ves supposedly, so-called o reportedly, el autor toma distancia de lo que cuenta.",
+      "palabras": [
+        { "t": "claim", "es": "afirmar (con duda)", "pron": "cleim", "ej": "Some critics claim that the study was rushed.", "ejes": "Algunos críticos afirman que el estudio fue apresurado.", "cog": false },
+        { "t": "allege", "es": "alegar, afirmar sin pruebas", "pron": "aléy", "ej": "Prosecutors allege that the funds were stolen.", "ejes": "Los fiscales alegan que los fondos fueron robados.", "cog": false },
+        { "t": "assert", "es": "afirmar con firmeza", "pron": "asért", "ej": "Ministers assert that the plan will work.", "ejes": "Los ministros afirman con firmeza que el plan funcionará.", "cog": true },
+        { "t": "reportedly", "es": "según se informa", "pron": "ripórtedli", "ej": "The company is reportedly planning layoffs.", "ejes": "Según se informa, la empresa planea despidos.", "cog": false },
+        { "t": "supposedly", "es": "supuestamente", "pron": "sapóusedli", "ej": "He supposedly left the country last week.", "ejes": "Supuestamente salió del país la semana pasada.", "cog": false },
+        { "t": "so-called", "es": "supuesto, llamado así (con ironía)", "pron": "sou-cold", "ej": "These so-called experts never predicted the crisis.", "ejes": "Estos supuestos expertos nunca predijeron la crisis.", "cog": false },
+        { "t": "speculate", "es": "especular", "pron": "spéquiuleit", "ej": "Analysts speculate that rates will rise.", "ejes": "Los analistas especulan que las tasas subirán.", "cog": true },
+        { "t": "dispute", "es": "disputar, rebatir", "pron": "dispiút", "ej": "Scientists dispute the findings of that paper.", "ejes": "Los científicos rebaten las conclusiones de ese artículo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Critics claim the figures were manipulated.", "es": "Los críticos afirman que las cifras fueron manipuladas.", "pron": "críticks cleim da fíguiurs uer manípiuleited" },
+        { "t": "Prosecutors allege that he hid the documents.", "es": "Los fiscales alegan que él ocultó los documentos.", "pron": "prósecutors aléy dat ji jid da dócuments" },
+        { "t": "The company is reportedly in talks with a buyer.", "es": "Según se informa, la empresa está en conversaciones con un comprador.", "pron": "da cómpani is ripórtedli in tocs uid a báier" },
+        { "t": "These so-called experts got everything wrong.", "es": "Estos supuestos expertos se equivocaron en todo.", "pron": "dis sou-cold ékspers got évrizin ron" },
+        { "t": "Analysts speculate that the merger will fail.", "es": "Los analistas especulan que la fusión fracasará.", "pron": "ánalists spéquiuleit dat da mérher uil feil" }
+      ],
+      "dialogo": {
+        "titulo": "Leer una noticia con ojo crítico",
+        "lineas": [
+          { "q": "A", "t": "Notice how the article says the firm is reportedly in trouble. They don't confirm it.", "es": "Fíjate cómo el artículo dice que la empresa según se informa está en problemas. No lo confirma." },
+          { "q": "B", "t": "Right, and it uses claim and allege, which keeps its distance from the sources.", "es": "Cierto, y usa claim y allege, lo cual mantiene distancia de las fuentes." },
+          { "q": "A", "t": "Whereas the spokesperson asserts that everything is fine. That sounds firmer.", "es": "Mientras que el portavoz afirma con firmeza que todo está bien. Eso suena más firme." },
+          { "q": "B", "t": "True. And what about so-called experts? That phrase is clearly sarcastic.", "es": "Cierto. ¿Y los supuestos expertos? Esa frase es claramente sarcástica." },
+          { "q": "A", "t": "It is. Several analysts speculate about layoffs, but no one disputes that sales are falling.", "es": "Lo es. Varios analistas especulan sobre despidos, pero nadie disputa que las ventas bajan." },
+          { "q": "B", "t": "Exactly. The verbs reveal more than the facts themselves.", "es": "Exacto. Los verbos revelan más que los hechos mismos." }
+        ]
+      },
+      "nota": "Alleged se usa mucho en noticias judiciales: the alleged thief es el presunto ladrón, alguien de quien se dice que lo es pero no está probado."
+    },
+    {
+      "id": "en-c1-u13-l5",
+      "n": 5,
+      "titulo": "Repaso: leer con espíritu crítico",
+      "objetivo": "Evaluar la credibilidad de un texto combinando inferencia, tono, estructura y verbos de reporte.",
+      "intro": "Leer bien es evaluar. Pregúntate quién escribe, para quién, con qué pruebas y con qué intención. Truco: antes de aceptar una idea, busca una segunda fuente independiente.",
+      "palabras": [
+        { "t": "credible", "es": "creíble", "pron": "crédibol", "ej": "Is this source credible and up to date?", "ejes": "¿Es esta fuente creíble y está actualizada?", "cog": true },
+        { "t": "agenda", "es": "intereses ocultos, objetivo", "pron": "ayénda", "ej": "Be aware of the author's hidden agenda.", "ejes": "Ten en cuenta los intereses ocultos del autor.", "cog": false },
+        { "t": "spin", "es": "darle un giro favorable, sesgar", "pron": "spin", "ej": "The press office tried to put a positive spin on the news.", "ejes": "La oficina de prensa intentó dar un giro positivo a la noticia.", "cog": false },
+        { "t": "cherry-pick", "es": "elegir solo datos convenientes", "pron": "chéri-pic", "ej": "Don't cherry-pick data to support your claim.", "ejes": "No elijas solo los datos que apoyan tu afirmación.", "cog": false },
+        { "t": "hype", "es": "bombo publicitario", "pron": "jaip", "ej": "The product lived up to the hype.", "ejes": "El producto estuvo a la altura del bombo publicitario.", "cog": false },
+        { "t": "reliable", "es": "confiable", "pron": "riláiabol", "ej": "Peer-reviewed journals are generally reliable.", "ejes": "Las revistas arbitradas suelen ser confiables.", "cog": false },
+        { "t": "cross-check", "es": "contrastar, verificar con otras fuentes", "pron": "cros-chec", "ej": "Always cross-check statistics before you share them.", "ejes": "Siempre contrasta las estadísticas antes de compartirlas.", "cog": false },
+        { "t": "take with a pinch of salt", "es": "tomar con cautela", "pron": "teik uid a pinch ov solt", "ej": "Just take with a pinch of salt whatever he promises.", "ejes": "Toma con cautela todo lo que él prometa.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Is the source credible, and does it have an agenda?", "es": "¿Es la fuente creíble y tiene intereses ocultos?", "pron": "is da sors crédibol, and das it jav an ayénda" },
+        { "t": "The company tried to put a positive spin on the results.", "es": "La empresa intentó dar un giro positivo a los resultados.", "pron": "da cómpani traid tu put a pósitiv spin on da risálts" },
+        { "t": "Don't cherry-pick the data that supports your view.", "es": "No elijas solo los datos que apoyan tu punto de vista.", "pron": "dont chéri-pic da déita dat sapórts ior viu" },
+        { "t": "Always cross-check statistics before sharing them.", "es": "Siempre contrasta las estadísticas antes de compartirlas.", "pron": "ólueis cros-chec statístics bifór shérin dem" },
+        { "t": "I would take that claim with a pinch of salt.", "es": "Yo tomaría esa afirmación con cautela.", "pron": "ai uud teik dat cleim uid a pinch ov solt" },
+        { "t": "Reading between the lines, the author is skeptical.", "es": "Leyendo entre líneas, el autor es escéptico.", "pron": "rídin bituín da láins, di ótor is squéptical" }
+      ],
+      "dialogo": {
+        "titulo": "Evaluar una fuente",
+        "lineas": [
+          { "q": "A", "t": "I found a report claiming that the new product doubles sales. Is that credible?", "es": "Encontré un informe que afirma que el nuevo producto duplica las ventas. ¿Es creíble?" },
+          { "q": "B", "t": "I would take it with a pinch of salt. Who wrote it? It could have an agenda.", "es": "Yo lo tomaría con cautela. ¿Quién lo escribió? Podría tener intereses ocultos." },
+          { "q": "A", "t": "The manufacturer. I suspect they put a positive spin on the numbers.", "es": "El fabricante. Sospecho que le dieron un giro positivo a los números." },
+          { "q": "B", "t": "Exactly. They probably cherry-picked the best months. Cross-check it with an independent study.", "es": "Exacto. Probablemente eligieron los mejores meses. Contrástalo con un estudio independiente." },
+          { "q": "A", "t": "Good idea. I'll look for a more reliable source and ignore the hype.", "es": "Buena idea. Buscaré una fuente más confiable e ignoraré el bombo publicitario." },
+          { "q": "B", "t": "Reading between the lines is part of the job. Let me know what you find.", "es": "Leer entre líneas es parte del trabajo. Avísame qué encuentras." }
+        ]
+      },
+      "nota": "En inglés, take it with a pinch of salt (o a grain of salt) es una expresión muy común para pedir cautela frente a una afirmación dudosa."
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "id": "it-c1-u15",
+  "idioma": "it",
+  "nivel": "C1",
+  "n": 15,
+  "titulo": "Fraseología avanzada",
+  "resumen": "Aprenderás expresiones idiomáticas, locuciones y proverbios italianos de uso real, y cómo usarlas sin traducirlas palabra por palabra.",
+  "puedo": [
+    "Entender y usar expresiones idiomáticas frecuentes: in bocca al lupo, rompere il ghiaccio, costare un occhio della testa.",
+    "Usar locuciones adverbiales como in fin dei conti, di punto in bianco, per filo e per segno.",
+    "Reconocer y citar proverbios italianos conocidos en el momento adecuado.",
+    "Entender expresiones con animales, partes del cuerpo y objetos cotidianos.",
+    "Evitar traducciones literales de expresiones españolas."
+  ],
+  "gramatica": {
+    "titulo": "Expresiones fijas: solo se conjuga el verbo",
+    "texto": "Las expresiones idiomáticas son bloques fijos: no se cambian palabras, no se traducen literalmente y casi nunca admiten sinónimos.\nSolo se conjuga el verbo y, a veces, se ajusta el pronombre o el posesivo: Ho le mani in pasta / Ha le mani in pasta.\nEl resto de la expresión permanece invariable: fare orecchie da mercante, no «fare orecchie da venditore».\nLas locuciones adverbiales (di punto in bianco, in fin dei conti) no cambian nunca.\nTruco: no intentes entender cada palabra; aprende la expresión completa con una frase ejemplo y su sentido.",
+    "tabla": [
+      ["Costa un occhio della testa.", "Cuesta un ojo de la cara.", "cósta un ókkio délla tésta"],
+      ["Non vedo l'ora di partire.", "Tengo ganas de partir (no veo la hora).", "non védo lóra di partíre"],
+      ["Ha fatto orecchie da mercante.", "Se hizo el sordo.", "a fátto orékkie da merkánte"],
+      ["È caduto dalle nuvole.", "Se quedó sorprendido (cayó de las nubes).", "e cadúto dálle núvole"],
+      ["Siamo arrivati in extremis.", "Llegamos en el último momento.", "siámo arrivati in estrémis"]
+    ],
+    "errores": [
+      "Traducir literalmente expresiones españolas: «tomar el pelo» no es «prendere il pelo» sino «prendere in giro»; verifica cada expresión antes de usarla.",
+      "Cambiar una palabra de la expresión: «prendere due uccelli con una fava» es un error; es «due piccioni con una fava».",
+      "Usar una expresión coloquial en un contexto muy formal: «tagliare la corda» o «un casino» no se dicen en una carta oficial."
+    ]
+  },
+  "practica": [
+    "Elige diez expresiones de esta unidad y escribe una frase propia con cada una (15 minutos).",
+    "Busca en un periódico o una serie italiana tres expresiones idiomáticas nuevas y anota su sentido (12 minutos).",
+    "Graba un minuto contando una anécdota con al menos cuatro expresiones de esta unidad (8 minutos).",
+    "Compara cinco proverbios italianos con sus equivalentes en español y explica por qué se parecen o difieren (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-c1-u15-l1",
+      "n": 1,
+      "titulo": "Expresiones idiomáticas frecuentes",
+      "objetivo": "Entender y usar ocho expresiones idiomáticas de uso muy común.",
+      "intro": "Los italianos usan expresiones a diario. Truco: aprende primero las que tienen imagen clara: «in bocca al lupo» (mucha suerte) se responde «crepi!» (que muera).",
+      "palabras": [
+        { "t": "in bocca al lupo", "es": "mucha suerte", "pron": "in bókka al lúpo", "ej": "In bocca al lupo per l'esame di domani!", "ejes": "¡Mucha suerte en el examen de mañana!", "cog": false },
+        { "t": "costare un occhio della testa", "es": "costar un ojo de la cara", "pron": "costáre un ókkio délla tésta", "ej": "Quella borsa potrebbe costare un occhio della testa.", "ejes": "Ese bolso podría costar un ojo de la cara.", "cog": false },
+        { "t": "non vedo l'ora", "es": "tengo muchas ganas, no veo la hora", "pron": "non védo lóra", "ej": "Non vedo l'ora di rivederti.", "ejes": "Tengo muchas ganas de volver a verte.", "cog": false },
+        { "t": "essere al verde", "es": "estar sin dinero", "pron": "éssere al vérde", "ej": "A fine mese capita di essere al verde.", "ejes": "A fin de mes pasa que uno se queda sin dinero.", "cog": false },
+        { "t": "rompere il ghiaccio", "es": "romper el hielo", "pron": "rómpere il guiáccho", "ej": "Una battuta può rompere il ghiaccio.", "ejes": "Una broma puede romper el hielo.", "cog": false },
+        { "t": "tagliare la corda", "es": "largarse, escaparse", "pron": "talláre la córda", "ej": "Appena possibile, voglio tagliare la corda.", "ejes": "En cuanto pueda, quiero largarme.", "cog": false },
+        { "t": "fare orecchie da mercante", "es": "hacerse el sordo", "pron": "fáre orékkie da merkánte", "ej": "Non puoi fare orecchie da mercante di fronte ai consigli.", "ejes": "No puedes hacerte el sordo ante los consejos.", "cog": false },
+        { "t": "prendere due piccioni con una fava", "es": "matar dos pájaros de un tiro", "pron": "préndere dúe pichóni con úna fáva", "ej": "Voglio prendere due piccioni con una fava e unire lavoro e viaggio.", "ejes": "Quiero matar dos pájaros de un tiro y unir trabajo y viaje.", "cog": false }
+      ],
+      "frases": [
+        { "t": "In bocca al lupo per il colloquio di domani!", "es": "¡Mucha suerte en la entrevista de mañana!", "pron": "in bókka al lúpo per il collóquio di dománi" },
+        { "t": "Un ristorante così costa un occhio della testa.", "es": "Un restaurante así cuesta un ojo de la cara.", "pron": "un ristoránte cosí cósta un ókkio délla tésta" },
+        { "t": "Non vedo l'ora di cominciare il nuovo lavoro.", "es": "Tengo muchas ganas de empezar el nuevo trabajo.", "pron": "non védo lóra di cominchiáre il nuóvo lavóro" },
+        { "t": "Una battuta simpatica serve a rompere il ghiaccio.", "es": "Una broma simpática sirve para romper el hielo.", "pron": "úna battúta simpática sérve a rómpere il guiáccho" },
+        { "t": "Ha fatto orecchie da mercante e non ha ascoltato nessuno.", "es": "Se hizo el sordo y no escuchó a nadie.", "pron": "a fátto orékkie da merkánte e non a ascoltáto nessúno" }
+      ],
+      "dialogo": {
+        "titulo": "Prima del colloquio",
+        "lineas": [
+          { "q": "A", "t": "Domani ho il colloquio per quel posto a Milano; non vedo l'ora, ma sono anche molto agitata.", "es": "Mañana tengo la entrevista para ese puesto en Milán; tengo muchas ganas, pero también estoy muy nerviosa." },
+          { "q": "B", "t": "In bocca al lupo! Vedrai che andrà benissimo.", "es": "¡Mucha suerte! Verás que irá muy bien." },
+          { "q": "A", "t": "Crepi! Il problema è che devo comprare un abito nuovo, e costa un occhio della testa.", "es": "¡Gracias! El problema es que debo comprar un traje nuevo, y cuesta un ojo de la cara." },
+          { "q": "B", "t": "Capisco, anch'io sono al verde fino a fine mese; ma puoi prendere due piccioni con una fava e usare l'abito per le nozze di Marta.", "es": "Entiendo, yo también estoy sin dinero hasta fin de mes; pero puedes matar dos pájaros de un tiro y usar el traje para la boda de Marta." },
+          { "q": "A", "t": "Ottima idea! Poi inizierò il colloquio con un sorriso: serve a rompere il ghiaccio.", "es": "¡Excelente idea! Luego comenzaré la entrevista con una sonrisa: sirve para romper el hielo." }
+        ]
+      },
+      "nota": "A «in bocca al lupo» se responde «crepi il lupo» o simplemente «crepi». Responder «grazie» da mala suerte, según la tradición."
+    },
+    {
+      "id": "it-c1-u15-l2",
+      "n": 2,
+      "titulo": "Locuciones adverbiales",
+      "objetivo": "Usar locuciones fijas que dan fluidez y naturalidad al discurso.",
+      "intro": "Las locuciones adverbiales sustituyen a un adverbio y dan matices. Truco: aprende cada una dentro de una frase, para recordar cuándo usarla.",
+      "palabras": [
+        { "t": "a ogni costo", "es": "a toda costa", "pron": "a óñi cósto", "ej": "Voglio vincere a ogni costo.", "ejes": "Quiero ganar a toda costa.", "cog": false },
+        { "t": "in fin dei conti", "es": "a fin de cuentas", "pron": "in fin dei cónti", "ej": "In fin dei conti, hai fatto la scelta giusta.", "ejes": "A fin de cuentas, tomaste la decisión correcta.", "cog": false },
+        { "t": "di punto in bianco", "es": "de repente, sin previo aviso", "pron": "di púnto in biánco", "ej": "Ha deciso di partire di punto in bianco.", "ejes": "Decidió partir de repente.", "cog": false },
+        { "t": "alla lunga", "es": "a la larga", "pron": "álla lúnga", "ej": "Alla lunga questo lavoro stanca.", "ejes": "A la larga este trabajo cansa.", "cog": false },
+        { "t": "per filo e per segno", "es": "con todo detalle, punto por punto", "pron": "per fílo e per séño", "ej": "Mi ha raccontato tutto per filo e per segno.", "ejes": "Me contó todo con todo detalle.", "cog": false },
+        { "t": "a stento", "es": "a duras penas", "pron": "a sténto", "ej": "Riesco a stento a seguirti.", "ejes": "Logro seguirte a duras penas.", "cog": false },
+        { "t": "in extremis", "es": "en el último momento", "pron": "in estrémis", "ej": "Siamo arrivati in extremis, un minuto prima della chiusura.", "ejes": "Llegamos en el último momento, un minuto antes del cierre.", "cog": true },
+        { "t": "a mano a mano", "es": "poco a poco, a medida que", "pron": "a máno a máno", "ej": "A mano a mano che cresce, diventa più sicuro.", "ejes": "A medida que crece, se vuelve más seguro.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Devo finire questo lavoro a ogni costo, entro stasera.", "es": "Debo terminar este trabajo a toda costa, antes de esta noche.", "pron": "dévo finíre cuésto lavóro a óñi cósto éntro staséra" },
+        { "t": "In fin dei conti, la decisione spetta a te.", "es": "A fin de cuentas, la decisión te corresponde a ti.", "pron": "in fin dei cónti la decisióne spétta a te" },
+        { "t": "Di punto in bianco ha cambiato idea e non ha dato spiegazioni.", "es": "De repente cambió de idea y no dio explicaciones.", "pron": "di púnto in biánco a cambiáto idéa e non a dáto spiegatsióni" },
+        { "t": "Alla lunga la routine pesa anche a chi ama il proprio lavoro.", "es": "A la larga la rutina pesa incluso a quien ama su trabajo.", "pron": "álla lúnga la routín péza ánke a ki áma il própio lavóro" },
+        { "t": "Mi ha spiegato per filo e per segno come funziona il contratto.", "es": "Me explicó con todo detalle cómo funciona el contrato.", "pron": "mi a spiegáto per fílo e per séño cóme funsióna il contrátto" }
+      ],
+      "dialogo": {
+        "titulo": "Una scadenza all'ultimo minuto",
+        "lineas": [
+          { "q": "A", "t": "Sono riuscito a consegnare il progetto in extremis, un minuto prima della scadenza.", "es": "Logré entregar el proyecto en el último momento, un minuto antes del plazo." },
+          { "q": "B", "t": "Meno male! Volevi finirlo a ogni costo, anche se all'inizio sembrava impossibile.", "es": "¡Menos mal! Querías terminarlo a toda costa, aunque al principio parecía imposible." },
+          { "q": "A", "t": "Sì, alla lunga ho capito che era meglio organizzarsi prima; ora te lo racconto per filo e per segno.", "es": "Sí, a la larga entendí que era mejor organizarse antes; ahora te lo cuento con todo detalle." },
+          { "q": "B", "t": "In fin dei conti, l'importante è che sia andato bene; tutto il resto è secondario.", "es": "A fin de cuentas, lo importante es que haya ido bien; todo lo demás es secundario." },
+          { "q": "A", "t": "Hai ragione; a mano a mano che passano i giorni, la stanchezza svanisce.", "es": "Tienes razón; a medida que pasan los días, el cansancio desaparece." }
+        ]
+      },
+      "nota": "«In extremis» es una locución latina que se usa tal cual en italiano. Otras del mismo origen: «ad hoc», «de facto», «grosso modo»."
+    },
+    {
+      "id": "it-c1-u15-l3",
+      "n": 3,
+      "titulo": "Proverbios italianos",
+      "objetivo": "Reconocer y citar proverbios muy conocidos con su sentido.",
+      "intro": "Los proverbios son sabiduría popular en pocas palabras. Truco: úsalos con moderación: citar uno bien elegido da carácter, pero demasiados suenan forzados.",
+      "palabras": [
+        { "t": "chi dorme non piglia pesci", "es": "quien duerme no pesca (el que no actúa no gana)", "pron": "ki dórme non píllia pési", "ej": "Alzati presto: chi dorme non piglia pesci.", "ejes": "Levántate temprano: quien duerme no pesca.", "cog": false },
+        { "t": "chi va piano va sano e va lontano", "es": "quien va despacio va seguro y llega lejos", "pron": "ki va piáno va sáno e va lontáno", "ej": "Non avere fretta: chi va piano va sano e va lontano.", "ejes": "No tengas prisa: quien va despacio va seguro y llega lejos.", "cog": false },
+        { "t": "tra il dire e il fare c'è di mezzo il mare", "es": "del dicho al hecho hay mucho trecho", "pron": "tra il díre e il fáre che di médzo il máre", "ej": "Promettere è facile: tra il dire e il fare c'è di mezzo il mare.", "ejes": "Prometer es fácil: del dicho al hecho hay mucho trecho.", "cog": false },
+        { "t": "meglio tardi che mai", "es": "más vale tarde que nunca", "pron": "mélio tárdi ke mái", "ej": "Sei arrivato in ritardo, ma meglio tardi che mai.", "ejes": "Llegaste tarde, pero más vale tarde que nunca.", "cog": false },
+        { "t": "chi la dura la vince", "es": "quien persevera, vence", "pron": "ki la dúra la vínche", "ej": "Non mollare: chi la dura la vince.", "ejes": "No te rindas: quien persevera, vence.", "cog": false },
+        { "t": "can che abbaia non morde", "es": "perro ladrador, poco mordedor", "pron": "can ke abbáia non mórde", "ej": "Non preoccuparti per le sue minacce: can che abbaia non morde.", "ejes": "No te preocupes por sus amenazas: perro ladrador, poco mordedor.", "cog": false },
+        { "t": "a caval donato non si guarda in bocca", "es": "a caballo regalado no se le mira el diente", "pron": "a cavál donáto non si guárda in bókka", "ej": "Accetta il regalo: a caval donato non si guarda in bocca.", "ejes": "Acepta el regalo: a caballo regalado no se le mira el diente.", "cog": false },
+        { "t": "l'abito non fa il monaco", "es": "el hábito no hace al monje", "pron": "lábito non fa il mónaco", "ej": "Non giudicare dall'aspetto: l'abito non fa il monaco.", "ejes": "No juzgues por la apariencia: el hábito no hace al monje.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Chi dorme non piglia pesci, quindi muoviamoci subito.", "es": "Quien duerme no pesca, así que movámonos enseguida.", "pron": "ki dórme non píllia pési cuíndi muoviámoci súbito" },
+        { "t": "Meglio tardi che mai: finalmente hai chiamato.", "es": "Más vale tarde que nunca: por fin llamaste.", "pron": "mélio tárdi ke mái finalménte ái kiamáto" },
+        { "t": "Non lo giudicare: l'abito non fa il monaco.", "es": "No lo juzgues: el hábito no hace al monje.", "pron": "non lo dyudikáre lábito non fa il mónaco" },
+        { "t": "Ho imparato che tra il dire e il fare c'è di mezzo il mare.", "es": "Aprendí que del dicho al hecho hay mucho trecho.", "pron": "o imparáto ke tra il díre e il fáre che di médzo il máre" },
+        { "t": "Non temere i suoi toni: can che abbaia non morde.", "es": "No temas sus modos: perro ladrador, poco mordedor.", "pron": "non temére i suói tóni can ke abbáia non mórde" }
+      ],
+      "dialogo": {
+        "titulo": "Consigli di un nonno",
+        "lineas": [
+          { "q": "A", "t": "Nonno, domani voglio chiedere un aumento, ma ho paura che il capo si arrabbi.", "es": "Abuelo, mañana quiero pedir un aumento, pero temo que el jefe se enoje." },
+          { "q": "B", "t": "Chi dorme non piglia pesci, figliolo; però non essere precipitoso: chi va piano va sano e va lontano.", "es": "Quien duerme no pesca, hijo; pero no seas precipitado: quien va despacio va seguro y llega lejos." },
+          { "q": "A", "t": "Ma se mi dice di no? Tra il dire e il fare c'è di mezzo il mare, lo so.", "es": "¿Pero si me dice que no? Del dicho al hecho hay mucho trecho, lo sé." },
+          { "q": "B", "t": "Non preoccuparti, è un tipo severo ma gentile: can che abbaia non morde.", "es": "No te preocupes, es un tipo severo pero amable: perro ladrador, poco mordedor." },
+          { "q": "A", "t": "Hai ragione; e se non lo ottengo ora, meglio tardi che mai: chi la dura la vince.", "es": "Tienes razón; y si no lo consigo ahora, más vale tarde que nunca: quien persevera, vence." }
+        ]
+      },
+      "nota": "Muchos proverbios italianos tienen un equivalente casi exacto en español; otros no. Busca siempre el sentido, no la traducción literal."
+    },
+    {
+      "id": "it-c1-u15-l4",
+      "n": 4,
+      "titulo": "Expresiones con imágenes",
+      "objetivo": "Entender expresiones basadas en imágenes de la vida cotidiana.",
+      "intro": "Muchas expresiones usan animales, objetos y partes del cuerpo. Truco: imagina la escena literal; suele ser tan divertida que no se olvida.",
+      "palabras": [
+        { "t": "avere un diavolo per capello", "es": "estar furioso, echar chispas", "pron": "avére un diávolo per capéllo", "ej": "Oggi il capo sembra avere un diavolo per capello.", "ejes": "Hoy el jefe parece estar furioso.", "cog": false },
+        { "t": "essere in alto mare", "es": "estar lejos de terminar", "pron": "éssere in álto máre", "ej": "Dopo tre mesi il progetto sembra ancora essere in alto mare.", "ejes": "El proyecto aún está lejos de terminar.", "cog": false },
+        { "t": "a occhio e croce", "es": "a ojo de buen cubero", "pron": "a ókkio e króche", "ej": "A occhio e croce saranno cento persone.", "ejes": "A ojo de buen cubero habrá cien personas.", "cog": false },
+        { "t": "mettere il carro davanti ai buoi", "es": "poner el carro delante de los bueyes", "pron": "méttere il cárro davánti ai buói", "ej": "Firmare prima di leggere è come mettere il carro davanti ai buoi.", "ejes": "Firmar antes de leer es como poner el carro delante de los bueyes.", "cog": false },
+        { "t": "piove sul bagnato", "es": "llueve sobre mojado", "pron": "piove sul bañáto", "ej": "Piove sul bagnato: prima il licenziamento, ora anche l'auto in panne.", "ejes": "Llueve sobre mojado: primero el despido, ahora también el auto averiado.", "cog": false },
+        { "t": "fare il passo più lungo della gamba", "es": "gastar más de lo que se puede, ser demasiado ambicioso", "pron": "fáre il passo piú lúngo délla gámba", "ej": "Non conviene fare il passo più lungo della gamba con il mutuo.", "ejes": "No conviene gastar más de lo que se puede con la hipoteca.", "cog": false },
+        { "t": "cadere dalle nuvole", "es": "caer de las nubes, sorprenderse", "pron": "cadére dálle núvole", "ej": "Non fare finta di cadere dalle nuvole: lo sapevi già.", "ejes": "No finjas caer de las nubes: ya lo sabías.", "cog": false },
+        { "t": "un ragno dal buco", "es": "(no sacar) nada en claro", "pron": "un rágno dal búco", "ej": "Dopo ore di discussione non riesco a cavare un ragno dal buco.", "ejes": "Después de horas de discusión no logro sacar nada en claro.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Quando ha letto la notizia, aveva un diavolo per capello.", "es": "Cuando leyó la noticia, estaba furioso.", "pron": "cuándo a léto la notísia avéva un diávolo per capéllo" },
+        { "t": "A occhio e croce ci vorranno due settimane.", "es": "A ojo de buen cubero harán falta dos semanas.", "pron": "a ókkio e króche chi vorránno dúe settimáne" },
+        { "t": "Comprare la casa senza il mutuo è mettere il carro davanti ai buoi.", "es": "Comprar la casa sin la hipoteca es poner el carro delante de los bueyes.", "pron": "compráre la cása séntsa il mútuo e méttere il cárro davánti ai buói" },
+        { "t": "Piove sul bagnato: dopo la malattia, ha perso anche il lavoro.", "es": "Llueve sobre mojado: después de la enfermedad, perdió también el trabajo.", "pron": "piove sul bañáto dópo la malattía a pérso ánke il lavóro" },
+        { "t": "Con tutte queste spese rischiamo di fare il passo più lungo della gamba.", "es": "Con todos estos gastos corremos el riesgo de gastar más de lo que podemos.", "pron": "con túte cuéste spése rischiámo di fáre il passo piú lúngo délla gámba" }
+      ],
+      "dialogo": {
+        "titulo": "Un lavoro in ritardo",
+        "lineas": [
+          { "q": "A", "t": "Il capo ha un diavolo per capello: il cantiere è ancora in alto mare.", "es": "El jefe está furioso: la obra aún está lejos de terminar." },
+          { "q": "B", "t": "A occhio e croce mancano ancora tre mesi, ma lui non vuole sentire ragioni.", "es": "A ojo de buen cubero faltan aún tres meses, pero él no quiere entrar en razón." },
+          { "q": "A", "t": "Pensare di finire in due settimane era fare il passo più lungo della gamba.", "es": "Pensar en terminar en dos semanas era ser demasiado ambicioso." },
+          { "q": "B", "t": "Per di più, piove sul bagnato: il fornitore ha sbagliato anche la consegna dei materiali.", "es": "Encima, llueve sobre mojado: el proveedor se equivocó también en la entrega de los materiales." },
+          { "q": "A", "t": "Meglio fermarsi e rivedere tutto, altrimenti rischiamo di mettere il carro davanti ai buoi.", "es": "Mejor detenerse y revisar todo, de lo contrario corremos el riesgo de poner el carro delante de los bueyes." }
+        ]
+      },
+      "nota": "«Cadere dalle nuvole» expresa sorpresa genuina o fingida. Si alguien finge, se le dice «non cadere dalle nuvole»."
+    },
+    {
+      "id": "it-c1-u15-l5",
+      "n": 5,
+      "titulo": "Repaso: hablar con expresiones",
+      "objetivo": "Combinar expresiones idiomáticas, locuciones y proverbios en una conversación natural.",
+      "intro": "Repasa construyendo una conversación con varias expresiones, sin abusar. Truco: una expresión bien colocada vale más que cinco forzadas.",
+      "palabras": [
+        { "t": "dare una mano", "es": "echar una mano", "pron": "dáre úna máno", "ej": "Puoi dare una mano a Luca con la traduzione?", "ejes": "¿Puedes echar una mano a Luca con la traducción?", "cog": false },
+        { "t": "avere le mani in pasta", "es": "estar metido en el asunto, tener influencia", "pron": "avére le máni in pásta", "ej": "Gli piace avere le mani in pasta in ogni progetto.", "ejes": "Le gusta estar metido en todos los proyectos.", "cog": false },
+        { "t": "avere la coda di paglia", "es": "tener cola que le pisen, sentirse culpable", "pron": "avére la códa di páglia", "ej": "Reagisce così perché sembra avere la coda di paglia.", "ejes": "Reacciona así porque parece tener cola que le pisen.", "cog": false },
+        { "t": "menare il can per l'aia", "es": "andarse por las ramas", "pron": "menáre il can per láia", "ej": "Basta menare il can per l'aia: rispondi alla domanda.", "ejes": "Basta de andarse por las ramas: responde a la pregunta.", "cog": false },
+        { "t": "mettere le mani avanti", "es": "curarse en salud", "pron": "méttere le máni avánti", "ej": "Preferisco mettere le mani avanti: potrei sbagliare.", "ejes": "Prefiero curarme en salud: podría equivocarme.", "cog": false },
+        { "t": "tirare le somme", "es": "sacar conclusiones, hacer balance", "pron": "tiráre le sómme", "ej": "A fine anno bisogna tirare le somme.", "ejes": "A fin de año hay que hacer balance.", "cog": false },
+        { "t": "vuotare il sacco", "es": "confesarlo todo, soltar la sopa", "pron": "vuotáre il sákko", "ej": "Alla fine ha deciso di vuotare il sacco.", "ejes": "Al final decidió soltarlo todo.", "cog": false },
+        { "t": "andare a gonfie vele", "es": "ir viento en popa", "pron": "andáre a gónfie véle", "ej": "Speriamo di andare a gonfie vele anche quest'anno.", "ejes": "Esperemos ir viento en popa también este año.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Se hai bisogno, dammi una mano: sono qui.", "es": "Si necesitas, échame una mano: aquí estoy.", "pron": "se ái bisógno dámmi úna máno sóno cui" },
+        { "t": "Smettila di menare il can per l'aia e di' la verità.", "es": "Deja de andarte por las ramas y di la verdad.", "pron": "smettíla di menáre il can per láia e di la veritá" },
+        { "t": "Metto le mani avanti: i risultati potrebbero deluderti.", "es": "Me curo en salud: los resultados podrían decepcionarte.", "pron": "métto le máni avánti i risultáti potrébbero delúderti" },
+        { "t": "Quest'anno gli affari vanno a gonfie vele.", "es": "Este año los negocios van viento en popa.", "pron": "cuést ánno gli affári vánno a gónfie véle" },
+        { "t": "Alla fine del progetto bisogna tirare le somme.", "es": "Al final del proyecto hay que hacer balance.", "pron": "álla fine del progétto bisógna tiráre le sómme" }
+      ],
+      "dialogo": {
+        "titulo": "Bilancio di fine anno",
+        "lineas": [
+          { "q": "A", "t": "Quest'anno gli affari vanno a gonfie vele, ma dobbiamo ancora tirare le somme con la direzione.", "es": "Este año los negocios van viento en popa, pero aún debemos hacer balance con la dirección." },
+          { "q": "B", "t": "Ti do una mano volentieri, anche se Paolo, come sempre, vuole avere le mani in pasta in tutto.", "es": "Te echo una mano con gusto, aunque Paolo, como siempre, quiere estar metido en todo." },
+          { "q": "A", "t": "Metto le mani avanti: se i dati non tornano, non voglio menare il can per l'aia.", "es": "Me curo en salud: si los datos no cuadran, no quiero andarme por las ramas." },
+          { "q": "B", "t": "Meglio così; in fin dei conti, chi ha la coda di paglia di solito vuota il sacco in ritardo.", "es": "Mejor así; a fin de cuentas, quien tiene cola que le pisen suele soltarlo todo tarde." },
+          { "q": "A", "t": "Hai ragione: l'onestà alla lunga paga sempre, e meglio tardi che mai.", "es": "Tienes razón: la honestidad a la larga siempre paga, y más vale tarde que nunca." }
+        ]
+      },
+      "nota": "Las expresiones idiomáticas dan color al discurso, pero en un texto formal conviene reservarlas para citas o para un efecto retórico."
+    }
+  ]
+}

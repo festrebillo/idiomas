@@ -1,0 +1,216 @@
+{
+  "id": "en-c1-u6",
+  "idioma": "en",
+  "nivel": "C1",
+  "n": 6,
+  "titulo": "Escritura académica",
+  "resumen": "Aprenderás a estructurar un ensayo, a afirmar con cautela (hedging), a convertir verbos en sustantivos (nominalización) y a citar fuentes con un registro académico.",
+  "puedo": [
+    "Organizar un ensayo con introducción, tesis, párrafos y conclusión.",
+    "Usar hedging para no afirmar demasiado (tend to, appear to, arguably).",
+    "Usar nominalización para sonar académico (the implementation of, an increase in).",
+    "Citar y atribuir ideas con according to, claim, argue, highlight.",
+    "Conectar ideas con moreover, consequently, furthermore y nevertheless."
+  ],
+  "gramatica": {
+    "titulo": "Hedging: afirmar con cautela",
+    "texto": "En la escritura académica casi nunca se afirma algo de forma absoluta. Se usa hedging (cautela) para mostrar que la conclusión es probable, no segura.\nVerbos: suggest, indicate, appear to, tend to, seem to. Adverbios: arguably, possibly, presumably, largely. Estructuras: It could be argued that..., There is evidence to suggest that..., To some extent...\nAbsoluto: Social media causes depression. Cauteloso: Social media may contribute to depression in some users.\nTruco: reemplaza is por appears to be, always por often, proves por suggests, y todos por many o most.",
+    "tabla": [
+      ["The data suggest that prices will rise.", "Los datos sugieren que los precios subirán.", "da déita sagyést dat práisis uil raiz"],
+      ["Students tend to perform better in groups.", "Los alumnos tienden a rendir mejor en grupo.", "stiúdents tend tu perfórm béter in grups"],
+      ["This is arguably the best approach.", "Este es posiblemente el mejor enfoque.", "dis is árguiabli da best aprouch"],
+      ["It could be argued that the law is unfair.", "Podría argumentarse que la ley es injusta.", "it cud bi árguid dat da lo is anfér"],
+      ["The results appear to support the theory.", "Los resultados parecen respaldar la teoría.", "da risálts apír tu sapórt da zíori"],
+      ["To some extent, the policy has worked.", "En cierta medida, la política ha funcionado.", "tu sam extént, da pólisi jaz uérkt"]
+    ],
+    "errores": [
+      "No uses proves en un trabajo académico: casi nunca se «prueba» algo; usa suggests, indicates o supports.",
+      "No escribas «All students...» o «Everyone...»: generaliza menos con Many students... o Most students...",
+      "No acumules demasiados atenuadores en una misma oración: It might possibly perhaps suggest... suena débil; elige uno."
+    ]
+  },
+  "practica": [
+    "Lee el resumen (abstract) de 3 artículos científicos en Google Scholar y subraya los hedges que encuentres (15 minutos).",
+    "Escribe un párrafo de 100 palabras sobre un tema de tu campo con 4 hedges distintos (15 minutos).",
+    "Reescribe 6 afirmaciones absolutas en versiones cautelosas (10 minutos).",
+    "Escribe un esquema de ensayo (tesis, 3 argumentos, conclusión) sobre un tema de actualidad y léelo en voz alta (15 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-c1-u6-l1",
+      "n": 1,
+      "titulo": "Estructura de un ensayo",
+      "objetivo": "Organizar un ensayo con tesis, desarrollo y conclusión usando el vocabulario adecuado.",
+      "intro": "Un ensayo académico tiene tres partes: introducción con tesis, desarrollo en párrafos y conclusión. Truco: cada párrafo debe tener una sola idea principal anunciada en su primera oración (topic sentence).",
+      "palabras": [
+        { "t": "thesis statement", "es": "tesis, afirmación central", "pron": "zísis stéitment", "ej": "Your thesis statement should be clear and arguable.", "ejes": "Tu tesis debe ser clara y discutible.", "cog": false },
+        { "t": "topic sentence", "es": "oración temática", "pron": "tópic séntens", "ej": "Each paragraph begins with a topic sentence.", "ejes": "Cada párrafo empieza con una oración temática.", "cog": false },
+        { "t": "outline", "es": "esquema", "pron": "áutlain", "ej": "Write an outline before you start drafting.", "ejes": "Escribe un esquema antes de empezar el borrador.", "cog": false },
+        { "t": "put forward", "es": "plantear, proponer", "pron": "put fórguard", "ej": "The author will put forward a bold argument.", "ejes": "La autora planteará un argumento audaz.", "cog": false },
+        { "t": "in conclusion", "es": "en conclusión", "pron": "in conclúshon", "ej": "In conclusion, the evidence is inconclusive.", "ejes": "En conclusión, la evidencia no es concluyente.", "cog": false },
+        { "t": "elaborate on", "es": "ampliar, desarrollar", "pron": "eláboreit on", "ej": "Could you elaborate on your second point?", "ejes": "¿Podrías desarrollar tu segundo punto?", "cog": false },
+        { "t": "coherent", "es": "coherente", "pron": "cojírent", "ej": "A good essay is clear and coherent.", "ejes": "Un buen ensayo es claro y coherente.", "cog": true },
+        { "t": "paraphrase", "es": "parafrasear", "pron": "párafreis", "ej": "Always paraphrase the source in your own words.", "ejes": "Siempre parafrasea la fuente con tus propias palabras.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Your thesis statement should be clear and arguable.", "es": "Tu tesis debe ser clara y discutible.", "pron": "ior zísis stéitment shud bi clir and árguiabol" },
+        { "t": "Each paragraph begins with a topic sentence.", "es": "Cada párrafo empieza con una oración temática.", "pron": "ich páragraf biginz uid a tópic séntens" },
+        { "t": "Write an outline before you start drafting.", "es": "Escribe un esquema antes de empezar el borrador.", "pron": "rait an áutlain bifór iu start dráftin" },
+        { "t": "In conclusion, the evidence is inconclusive.", "es": "En conclusión, la evidencia no es concluyente.", "pron": "in conclúshon, di évidens is inconclúsiv" },
+        { "t": "Could you elaborate on your second point?", "es": "¿Podrías desarrollar tu segundo punto?", "pron": "cud iu eláboreit on ior sécond point" }
+      ],
+      "dialogo": {
+        "titulo": "Tutoría de ensayo",
+        "lineas": [
+          { "q": "A", "t": "Your essay is interesting, but the thesis statement isn't clear. What are you arguing?", "es": "Tu ensayo es interesante, pero la tesis no está clara. ¿Qué estás argumentando?" },
+          { "q": "B", "t": "That remote work improves productivity. I put forward three arguments.", "es": "Que el trabajo remoto mejora la productividad. Planteo tres argumentos." },
+          { "q": "A", "t": "Then start each paragraph with a topic sentence, and elaborate on the evidence.", "es": "Entonces empieza cada párrafo con una oración temática y desarrolla la evidencia." },
+          { "q": "B", "t": "Should I write an outline first so the essay is more coherent?", "es": "¿Debería escribir primero un esquema para que el ensayo sea más coherente?" },
+          { "q": "A", "t": "Yes, and paraphrase the sources. In conclusion, restate your thesis in fresh words.", "es": "Sí, y parafrasea las fuentes. En la conclusión, reformula tu tesis con palabras nuevas." }
+        ]
+      },
+      "nota": "Una tesis no es un hecho (The Earth is round) sino una postura discutible (Remote work improves productivity)."
+    },
+    {
+      "id": "en-c1-u6-l2",
+      "n": 2,
+      "titulo": "Hedging: cautela académica",
+      "objetivo": "Atenuar afirmaciones con verbos, adverbios y estructuras de cautela.",
+      "intro": "Evitar afirmaciones absolutas es una señal de rigor. Truco: sustituye is por appears to be y always por often; tu texto sonará más preciso y creíble.",
+      "palabras": [
+        { "t": "suggest", "es": "sugerir, indicar", "pron": "sagyést", "ej": "The findings suggest that sleep affects memory.", "ejes": "Los hallazgos sugieren que el sueño afecta la memoria.", "cog": true },
+        { "t": "appear to", "es": "parecer", "pron": "apír tu", "ej": "The results appear to support the hypothesis.", "ejes": "Los resultados parecen respaldar la hipótesis.", "cog": false },
+        { "t": "tend to", "es": "tender a", "pron": "tend tu", "ej": "Younger users tend to prefer mobile apps.", "ejes": "Los usuarios jóvenes tienden a preferir las aplicaciones móviles.", "cog": false },
+        { "t": "arguably", "es": "posiblemente, con argumentos", "pron": "árguiabli", "ej": "This is arguably the most important finding.", "ejes": "Este es posiblemente el hallazgo más importante.", "cog": false },
+        { "t": "to some extent", "es": "hasta cierto punto", "pron": "tu sam extént", "ej": "To some extent, the policy has been successful.", "ejes": "Hasta cierto punto, la política ha tenido éxito.", "cog": false },
+        { "t": "presumably", "es": "presumiblemente", "pron": "prisiúmabli", "ej": "Presumably, the sample was randomly selected.", "ejes": "Presumiblemente, la muestra fue elegida al azar.", "cog": false },
+        { "t": "largely", "es": "en gran parte", "pron": "lárdyli", "ej": "The decline is largely due to rising costs.", "ejes": "La disminución se debe en gran parte al aumento de costos.", "cog": false },
+        { "t": "it could be argued that", "es": "podría argumentarse que", "pron": "it cud bi árguid dat", "ej": "It could be argued that the reform came too late.", "ejes": "Podría argumentarse que la reforma llegó demasiado tarde.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The findings suggest that sleep affects memory.", "es": "Los hallazgos sugieren que el sueño afecta la memoria.", "pron": "da fáindins sagyést dat slip afécts mémori" },
+        { "t": "The results appear to support the hypothesis.", "es": "Los resultados parecen respaldar la hipótesis.", "pron": "da risálts apír tu sapórt da jaipóthesis" },
+        { "t": "Younger users tend to prefer mobile apps.", "es": "Los usuarios jóvenes tienden a preferir las aplicaciones móviles.", "pron": "iánguer iúsers tend tu prifér móubail aps" },
+        { "t": "It could be argued that the reform came too late.", "es": "Podría argumentarse que la reforma llegó demasiado tarde.", "pron": "it cud bi árguid dat da rifórm queim tu leit" },
+        { "t": "The decline is largely due to rising costs.", "es": "La disminución se debe en gran parte al aumento de costos.", "pron": "da diclain is lárdyli diú tu ráisin costs" }
+      ],
+      "dialogo": {
+        "titulo": "Revisión de un borrador",
+        "lineas": [
+          { "q": "A", "t": "Your draft says remote work proves productivity increases. That sounds too absolute.", "es": "Tu borrador dice que el trabajo remoto prueba que aumenta la productividad. Suena demasiado absoluto." },
+          { "q": "B", "t": "So I should say the results appear to support the idea?", "es": "¿Entonces debería decir que los resultados parecen respaldar la idea?" },
+          { "q": "A", "t": "Exactly. You could add that employees tend to report higher satisfaction.", "es": "Exacto. Podrías añadir que los empleados tienden a reportar mayor satisfacción." },
+          { "q": "B", "t": "Presumably, I should also mention the limits of the sample.", "es": "Presumiblemente, también debería mencionar los límites de la muestra." },
+          { "q": "A", "t": "Yes. It could be argued that the sample is too small. Admitting it makes your essay stronger.", "es": "Sí. Podría argumentarse que la muestra es muy pequeña. Admitirlo fortalece tu ensayo." }
+        ]
+      },
+      "nota": "El hedging no es debilidad: muestra que conoces los límites de tus datos. Pero no lo uses en cada oración."
+    },
+    {
+      "id": "en-c1-u6-l3",
+      "n": 3,
+      "titulo": "Nominalización",
+      "objetivo": "Convertir verbos y adjetivos en sustantivos para dar un tono académico.",
+      "intro": "El estilo académico prefiere sustantivos a verbos. En vez de People are increasingly unemployed, se escribe There is a rise in unemployment. Truco: toma un verbo (implement) y conviértelo en sustantivo (the implementation of).",
+      "palabras": [
+        { "t": "implementation", "es": "implementación", "pron": "implementéishon", "ej": "The implementation of the plan took two years.", "ejes": "La implementación del plan tomó dos años.", "cog": true },
+        { "t": "a rise in", "es": "un aumento en", "pron": "a raiz in", "ej": "There has been a rise in unemployment.", "ejes": "Ha habido un aumento del desempleo.", "cog": false },
+        { "t": "a decline in", "es": "una disminución de", "pron": "a diclain in", "ej": "A decline in sales worried the board.", "ejes": "Una disminución en las ventas preocupó a la junta.", "cog": false },
+        { "t": "the emergence of", "es": "el surgimiento de", "pron": "di imérdyens ov", "ej": "The emergence of AI has changed the job market.", "ejes": "El surgimiento de la IA ha cambiado el mercado laboral.", "cog": false },
+        { "t": "the development of", "es": "el desarrollo de", "pron": "da divélopment ov", "ej": "The development of vaccines saved millions.", "ejes": "El desarrollo de vacunas salvó a millones.", "cog": false },
+        { "t": "the absence of", "es": "la ausencia de", "pron": "di ábsens ov", "ej": "The absence of evidence was striking.", "ejes": "La ausencia de pruebas fue llamativa.", "cog": false },
+        { "t": "a shift towards", "es": "un giro hacia", "pron": "a shift tuuórds", "ej": "There is a shift towards renewable energy.", "ejes": "Hay un giro hacia las energías renovables.", "cog": false },
+        { "t": "the prevalence of", "es": "la prevalencia de", "pron": "da prévalens ov", "ej": "The prevalence of stress among students is worrying.", "ejes": "La prevalencia del estrés entre los estudiantes es preocupante.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The implementation of the plan took two years.", "es": "La implementación del plan tomó dos años.", "pron": "di implementéishon ov da plan tuc tu iers" },
+        { "t": "There has been a rise in unemployment.", "es": "Ha habido un aumento del desempleo.", "pron": "der jaz bin a raiz in anemplóiment" },
+        { "t": "The emergence of AI has changed the job market.", "es": "El surgimiento de la IA ha cambiado el mercado laboral.", "pron": "di imérdyens ov ei ai jaz cheindyd da yob márquet" },
+        { "t": "The absence of evidence was striking.", "es": "La ausencia de pruebas fue llamativa.", "pron": "di ábsens ov évidens uas stráikin" },
+        { "t": "There is a shift towards renewable energy.", "es": "Hay un giro hacia las energías renovables.", "pron": "der is a shift tuuórds rinúabol énerdyi" }
+      ],
+      "dialogo": {
+        "titulo": "Mejorando un texto",
+        "lineas": [
+          { "q": "A", "t": "Instead of People are using AI more, write: There has been a rise in the use of AI.", "es": "En vez de «La gente usa más la IA», escribe: Ha habido un aumento en el uso de la IA." },
+          { "q": "B", "t": "That sounds more academic. What about: The emergence of AI changed the job market?", "es": "Eso suena más académico. ¿Y: El surgimiento de la IA cambió el mercado laboral?" },
+          { "q": "A", "t": "Perfect. You can also add that there is a shift towards automation.", "es": "Perfecto. También puedes añadir que hay un giro hacia la automatización." },
+          { "q": "B", "t": "And a decline in routine jobs. The absence of clear regulation is worrying too.", "es": "Y una disminución de los empleos rutinarios. La ausencia de regulación clara también preocupa." },
+          { "q": "A", "t": "Good. Just don't overdo it. Too many nouns can make the text heavy.", "es": "Bien. Solo no exageres. Demasiados sustantivos pueden volver el texto pesado." }
+        ]
+      },
+      "nota": "La nominalización hace el texto más denso y formal, pero demasiada lo vuelve pesado. Equilibra con verbos activos."
+    },
+    {
+      "id": "en-c1-u6-l4",
+      "n": 4,
+      "titulo": "Citar y conectar ideas",
+      "objetivo": "Atribuir ideas a otros autores y conectar argumentos con conectores académicos.",
+      "intro": "En un ensayo debes atribuir las ideas a sus fuentes y enlazar tus párrafos con lógica. Truco: elige el verbo de cita según la fuerza: state (neutral), claim (dudoso), demonstrate (fuerte).",
+      "palabras": [
+        { "t": "according to", "es": "según", "pron": "acórdin tu", "ej": "According to the report, emissions fell by ten percent.", "ejes": "Según el informe, las emisiones cayeron un diez por ciento.", "cog": false },
+        { "t": "claim", "es": "afirmar, alegar", "pron": "cleim", "ej": "Critics claim that the study ignores key variables.", "ejes": "Los críticos alegan que el estudio ignora variables clave.", "cog": true },
+        { "t": "demonstrate", "es": "demostrar", "pron": "démonstreit", "ej": "Experiments demonstrate how stress affects memory.", "ejes": "Los experimentos demuestran cómo el estrés afecta la memoria.", "cog": true },
+        { "t": "highlight", "es": "destacar, resaltar", "pron": "jáilait", "ej": "The authors highlight the need for further research.", "ejes": "Los autores destacan la necesidad de más investigación.", "cog": false },
+        { "t": "moreover", "es": "además", "pron": "morouver", "ej": "The method is cheap; moreover, it is reliable.", "ejes": "El método es barato; además, es confiable.", "cog": false },
+        { "t": "consequently", "es": "en consecuencia", "pron": "cónsecuentli", "ej": "Demand rose; consequently, prices increased.", "ejes": "La demanda subió; en consecuencia, los precios aumentaron.", "cog": false },
+        { "t": "furthermore", "es": "asimismo, es más", "pron": "férdermor", "ej": "Furthermore, the data confirm earlier findings.", "ejes": "Asimismo, los datos confirman hallazgos anteriores.", "cog": false },
+        { "t": "whereas", "es": "mientras que", "pron": "juereás", "ej": "Smith favors reform, whereas Jones opposes it.", "ejes": "Smith favorece la reforma, mientras que Jones se opone.", "cog": false }
+      ],
+      "frases": [
+        { "t": "According to the report, emissions fell by ten percent.", "es": "Según el informe, las emisiones cayeron un diez por ciento.", "pron": "acórdin tu da ripórt, imíshons fel bai ten pérsent" },
+        { "t": "Critics claim that the study ignores key variables.", "es": "Los críticos alegan que el estudio ignora variables clave.", "pron": "crítics cleim dat da stádi ignórs qui várribols" },
+        { "t": "The authors highlight the need for further research.", "es": "Los autores destacan la necesidad de más investigación.", "pron": "di ózors jáilait da niid for férder risérch" },
+        { "t": "Smith favors reform, whereas Jones opposes it.", "es": "Smith favorece la reforma, mientras que Jones se opone.", "pron": "smiz féivors rifórm, juereás yóunz opóusis it" },
+        { "t": "Furthermore, the data confirm earlier findings.", "es": "Asimismo, los datos confirman hallazgos anteriores.", "pron": "férdermor, da déita confírm érlier fáindins" }
+      ],
+      "dialogo": {
+        "titulo": "Citando fuentes",
+        "lineas": [
+          { "q": "A", "t": "According to Garcia, the policy failed. But Lee claims the opposite.", "es": "Según García, la política fracasó. Pero Lee afirma lo contrario." },
+          { "q": "B", "t": "Smith favors reform, whereas Jones opposes it. Which view should I follow?", "es": "Smith favorece la reforma, mientras que Jones se opone. ¿A cuál debería seguir?" },
+          { "q": "A", "t": "Neither. Present both, then highlight where the evidence is strongest.", "es": "A ninguno. Presenta ambos y luego destaca dónde es más sólida la evidencia." },
+          { "q": "B", "t": "Moreover, I can show that recent data demonstrate a clear trend.", "es": "Además, puedo mostrar que los datos recientes demuestran una tendencia clara." },
+          { "q": "A", "t": "Good. Consequently, your conclusion will be well supported. Furthermore, cite every source properly.", "es": "Bien. En consecuencia, tu conclusión estará bien respaldada. Además, cita bien cada fuente." }
+        ]
+      },
+      "nota": "Con verbos de cita, el presente (Smith argues) es frecuente en humanidades; el pasado (Smith found) es más común para estudios concretos."
+    },
+    {
+      "id": "en-c1-u6-l5",
+      "n": 5,
+      "titulo": "Repaso: un párrafo académico",
+      "objetivo": "Escribir un párrafo académico con tesis, hedging, nominalización y citas.",
+      "intro": "Combina todo: tesis, cautela, sustantivos abstractos y fuentes. Truco: mide tu párrafo con una lista: topic sentence, evidencia, análisis y enlace al siguiente párrafo.",
+      "palabras": [
+        { "t": "evidence", "es": "evidencia, pruebas", "pron": "évidens", "ej": "There is limited evidence to support this claim.", "ejes": "Hay pocas pruebas que respalden esta afirmación.", "cog": true },
+        { "t": "reliable", "es": "fiable", "pron": "riláiabol", "ej": "The data come from a reliable source.", "ejes": "Los datos provienen de una fuente fiable.", "cog": false },
+        { "t": "bias", "es": "sesgo", "pron": "báias", "ej": "Researchers must avoid bias in their samples.", "ejes": "Los investigadores deben evitar el sesgo en sus muestras.", "cog": false },
+        { "t": "assumption", "es": "suposición", "pron": "asámpshon", "ej": "The argument rests on a questionable assumption.", "ejes": "El argumento descansa en una suposición cuestionable.", "cog": true },
+        { "t": "implication", "es": "implicación", "pron": "implicéishon", "ej": "Every finding has an implication for policy.", "ejes": "Cada hallazgo tiene una implicación para las políticas.", "cog": true },
+        { "t": "limitation", "es": "limitación", "pron": "limitéishon", "ej": "One limitation of the study is its small sample.", "ejes": "Una limitación del estudio es su muestra pequeña.", "cog": true },
+        { "t": "robust", "es": "sólido, robusto", "pron": "roubást", "ej": "The authors present a robust analysis.", "ejes": "Los autores presentan un análisis sólido.", "cog": true },
+        { "t": "synthesize", "es": "sintetizar", "pron": "sínzesaiz", "ej": "Try to synthesize the main ideas of the three studies.", "ejes": "Intenta sintetizar las ideas principales de los tres estudios.", "cog": true }
+      ],
+      "frases": [
+        { "t": "There is limited evidence to support this claim.", "es": "Hay pocas pruebas que respalden esta afirmación.", "pron": "der is límitid évidens tu sapórt dis cleim" },
+        { "t": "The argument rests on a questionable assumption.", "es": "El argumento descansa en una suposición cuestionable.", "pron": "di árguiument rests on a cuéschonabol asámpshon" },
+        { "t": "One limitation of the study is its small sample.", "es": "Una limitación del estudio es su muestra pequeña.", "pron": "uan limitéishon ov da stádi is its smol sámpol" },
+        { "t": "The findings have important implications for policy.", "es": "Los hallazgos tienen implicaciones importantes para las políticas.", "pron": "da fáindins jav impórtant implicéishons for pólisi" },
+        { "t": "The authors present a robust analysis.", "es": "Los autores presentan un análisis sólido.", "pron": "di ózors prisént a roubást análisis" }
+      ],
+      "dialogo": {
+        "titulo": "Defensa de tesis",
+        "lineas": [
+          { "q": "A", "t": "Your analysis is robust, but there's limited evidence for your third claim.", "es": "Tu análisis es sólido, pero hay pocas pruebas para tu tercera afirmación." },
+          { "q": "B", "t": "I agree. One limitation is the small sample, and some bias is possible.", "es": "Estoy de acuerdo. Una limitación es la muestra pequeña y es posible algún sesgo." },
+          { "q": "A", "t": "Your argument also rests on an assumption. Is the source reliable?", "es": "Tu argumento también descansa en una suposición. ¿La fuente es fiable?" },
+          { "q": "B", "t": "Presumably, yes, but I should check. The implications for policy are significant.", "es": "Presumiblemente sí, pero debo comprobarlo. Las implicaciones para las políticas son importantes." },
+          { "q": "A", "t": "Then synthesize the sources in your discussion and state the limits openly.", "es": "Entonces sintetiza las fuentes en tu discusión y expón los límites con franqueza." },
+          { "q": "B", "t": "Understood. In conclusion, I'll rewrite that section with more cautious language.", "es": "Entendido. En conclusión, reescribiré esa sección con un lenguaje más cauto." }
+        ]
+      },
+      "nota": "Un buen párrafo académico tiene la fórmula PEEL: Point (idea), Evidence (prueba), Explanation (análisis), Link (enlace al argumento general)."
+    }
+  ]
+}
