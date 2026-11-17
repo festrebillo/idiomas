@@ -1,0 +1,215 @@
+{
+  "id": "it-b2-u16",
+  "idioma": "it",
+  "nivel": "B2",
+  "n": 16,
+  "titulo": "Negociar y persuadir",
+  "resumen": "Aprenderás a proponer, negociar condiciones, persuadir y manejar objeciones, y repasarás lo esencial del nivel B2.",
+  "puedo": [
+    "Hacer propuestas y ofertas con el condizionale de cortesía.",
+    "Negociar precios, plazos y condiciones.",
+    "Persuadir con argumentos y destacar ventajas.",
+    "Responder a objeciones y llegar a un acuerdo.",
+    "Combinar lo aprendido en el nivel B2 en una conversación real."
+  ],
+  "gramatica": {
+    "titulo": "Suavizar y condicionar: condizionale y «a condizione che»",
+    "texto": "Al negociar, el italiano suaviza las peticiones con el condizionale: Vorrei un piccolo sconto, Potrebbe venirci incontro? Es más cortés que «Voglio» o «Può».\nPara poner condiciones se usa «a condizione che» + congiuntivo (o «se» + imperfetto de congiuntivo): Accetto, a condizione che ci sia un contratto. Se potesse ridurre il prezzo, firmeremmo subito.\nPara persuadir: Secondo me, Le garantisco che, Non Le conviene?\nTruco: antes de rechazar una oferta, reconoce lo bueno: Capisco la Sua posizione, però...\nRecuerda: con el interlocutor formal usas «Lei» (unidad 10).",
+    "tabla": [
+      ["Vorrei un piccolo sconto.", "Quisiera un pequeño descuento.", "vorrébe un píkolo scónto"],
+      ["Potrebbe venirci incontro?", "¿Podría ayudarnos con el precio?", "potrébe venírchi incóntro"],
+      ["a condizione che ci sia", "con la condición de que haya", "a condichióne ke chi sía"],
+      ["Se potesse, firmeremmo.", "Si pudiera, firmaríamos.", "se potésse firmerémmo"],
+      ["Capisco la Sua posizione.", "Entiendo su posición.", "capísco la súa posisióne"],
+      ["Le garantisco che...", "Le garantizo que...", "le garantísco ke"]
+    ],
+    "errores": [
+      "No uses «voglio» para pedir: «Vorrei» es mucho más cortés.",
+      "«A condizione che» pide congiuntivo: «a condizione che sia», no «a condizione che è».",
+      "«Venire incontro» no es «venir al encuentro» físico: significa ceder un poco, hacer una concesión."
+    ]
+  },
+  "practica": [
+    "Escribe una pequeña negociación de seis líneas entre cliente y vendedor usando «vorrei» y «a condizione che» (10 minutos).",
+    "Di en voz alta tres argumentos para convencer a un amigo de viajar a Italia (5 minutos).",
+    "Practica responder a una objeción con «Capisco... però...» en voz alta, cinco veces (5 minutos).",
+    "Repasa las unidades 9 a 15 y escribe una frase con cada tema (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b2-u16-l1",
+      "n": 1,
+      "titulo": "Proponer y ofrecer",
+      "objetivo": "Hacer propuestas y ofertas de forma cortés.",
+      "intro": "En una negociación se empieza con una propuesta clara y amable. Truco: usa el condizionale («vorrei», «potremmo») para sonar profesional.",
+      "palabras": [
+        { "t": "la proposta", "es": "la propuesta", "pron": "la propósta", "ej": "La proposta è molto interessante.", "ejes": "La propuesta es muy interesante.", "cog": true },
+        { "t": "proporre", "es": "proponer", "pron": "propórre", "ej": "Vorrei proporre una soluzione.", "ejes": "Quisiera proponer una solución.", "cog": true },
+        { "t": "offrire", "es": "ofrecer", "pron": "offríre", "ej": "Possiamo offrire uno sconto del dieci per cento.", "ejes": "Podemos ofrecer un descuento del diez por ciento.", "cog": false },
+        { "t": "l'offerta", "es": "la oferta", "pron": "lofférta", "ej": "L'offerta è valida fino a venerdì.", "ejes": "La oferta es válida hasta el viernes.", "cog": false },
+        { "t": "il prezzo", "es": "el precio", "pron": "il prétso", "ej": "Il prezzo è troppo alto.", "ejes": "El precio es demasiado alto.", "cog": false },
+        { "t": "sconto", "es": "el descuento", "pron": "scónto", "ej": "Posso avere uno sconto?", "ejes": "¿Puedo tener un descuento?", "cog": false },
+        { "t": "compromesso", "es": "el compromiso, el término medio", "pron": "compromésso", "ej": "Cerchiamo un compromesso.", "ejes": "Busquemos un término medio.", "cog": true },
+        { "t": "venire incontro", "es": "ceder, ayudar con el precio", "pron": "veníre incóntro", "ej": "Possiamo venire incontro alle vostre richieste.", "ejes": "Podemos ceder ante sus solicitudes.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Vorrei fare una proposta.", "es": "Quisiera hacer una propuesta.", "pron": "vorrébe fáre úna propósta" },
+        { "t": "Possiamo offrire uno sconto del dieci per cento.", "es": "Podemos ofrecer un descuento del diez por ciento.", "pron": "possiámo offríre úno scónto del diéchi per chénto" },
+        { "t": "L'offerta è valida fino a venerdì.", "es": "La oferta es válida hasta el viernes.", "pron": "lofférta e válida fíno a venerdí" },
+        { "t": "Cerchiamo un compromesso.", "es": "Busquemos un término medio.", "pron": "kerkiámo un compromésso" },
+        { "t": "Potrebbe venirci incontro sul prezzo?", "es": "¿Podría ayudarnos con el precio?", "pron": "potrébe venírchi incóntro sul prétso" }
+      ],
+      "dialogo": {
+        "titulo": "La prima offerta",
+        "lineas": [
+          { "q": "A", "t": "Buongiorno, vorrei fare una proposta.", "es": "Buenos días, quisiera hacer una propuesta." },
+          { "q": "B", "t": "Prego, dica pure.", "es": "Por favor, diga." },
+          { "q": "A", "t": "Possiamo offrire uno sconto del dieci per cento.", "es": "Podemos ofrecer un descuento del diez por ciento." },
+          { "q": "B", "t": "Il prezzo è ancora un po' alto.", "es": "El precio todavía es un poco alto." },
+          { "q": "A", "t": "Cerchiamo un compromesso, allora.", "es": "Busquemos un término medio, entonces." }
+        ]
+      },
+      "nota": "En italiano la oferta se llama «offerta» y la propuesta, «proposta». «Offerta» también es «promoción» en una tienda: «Sono in offerta»."
+    },
+    {
+      "id": "it-b2-u16-l2",
+      "n": 2,
+      "titulo": "Condiciones y contratos",
+      "objetivo": "Poner condiciones y hablar de acuerdos y contratos.",
+      "intro": "Negociar es pactar condiciones. Truco: «a condizione che» + congiuntivo suena firme y educado.",
+      "palabras": [
+        { "t": "a condizione che", "es": "con la condición de que", "pron": "a condichióne ke", "ej": "Accetto, a condizione che ci sia un contratto.", "ejes": "Acepto, con la condición de que haya contrato.", "cog": false },
+        { "t": "il contratto", "es": "el contrato", "pron": "il contrátto", "ej": "Il contratto è pronto.", "ejes": "El contrato está listo.", "cog": true },
+        { "t": "clausola", "es": "la cláusula", "pron": "cláusola", "ej": "Questa clausola è importante.", "ejes": "Esta cláusula es importante.", "cog": true },
+        { "t": "la trattativa", "es": "la negociación", "pron": "la trattatíva", "ej": "La trattativa è durata due settimane.", "ejes": "La negociación duró dos semanas.", "cog": false },
+        { "t": "concludere un accordo", "es": "cerrar un acuerdo", "pron": "conclúdere un accórdo", "ej": "Vogliamo concludere un accordo entro venerdì.", "ejes": "Queremos cerrar un acuerdo antes del viernes.", "cog": false },
+        { "t": "accettare", "es": "aceptar", "pron": "acchettáre", "ej": "Posso accettare solo con delle garanzie.", "ejes": "Puedo aceptar solo con garantías.", "cog": true },
+        { "t": "rifiutare", "es": "rechazar", "pron": "rifiutáre", "ej": "Devo rifiutare l'offerta.", "ejes": "Debo rechazar la oferta.", "cog": false },
+        { "t": "garanzia", "es": "la garantía", "pron": "garantsía", "ej": "Vorrei una garanzia scritta.", "ejes": "Quisiera una garantía por escrito.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Accetto, a condizione che ci sia un contratto.", "es": "Acepto, con la condición de que haya contrato.", "pron": "acchétto a condichióne ke chi sía un contrátto" },
+        { "t": "Se potesse ridurre il prezzo, firmeremmo subito.", "es": "Si pudiera reducir el precio, firmaríamos de inmediato.", "pron": "se potésse ridúre il prétso firmerémmo súbito" },
+        { "t": "Vogliamo concludere un accordo entro venerdì.", "es": "Queremos cerrar un acuerdo antes del viernes.", "pron": "volliámo conclúdere un accórdo éntro venerdí" },
+        { "t": "Vorrei una garanzia scritta.", "es": "Quisiera una garantía por escrito.", "pron": "vorrébe úna garantsía scrítta" },
+        { "t": "La trattativa è durata due settimane.", "es": "La negociación duró dos semanas.", "pron": "la trattatíva e duráta dúe settimáne" }
+      ],
+      "dialogo": {
+        "titulo": "Al tavolo delle trattative",
+        "lineas": [
+          { "q": "A", "t": "Accettiamo l'offerta, a condizione che ci sia una garanzia.", "es": "Aceptamos la oferta, con la condición de que haya garantía." },
+          { "q": "B", "t": "Va bene, possiamo mettere una clausola nel contratto.", "es": "Está bien, podemos poner una cláusula en el contrato." },
+          { "q": "A", "t": "E il prezzo?", "es": "¿Y el precio?" },
+          { "q": "B", "t": "Se potessimo ridurlo, firmeremmo subito.", "es": "Si pudiéramos reducirlo, firmaríamos de inmediato." },
+          { "q": "A", "t": "Facciamo un compromesso: meno cinque per cento.", "es": "Hagamos un término medio: menos cinco por ciento." }
+        ]
+      },
+      "nota": "El «periodo ipotetico» de la unidad 2 aparece aquí: «Se potessimo, firmeremmo». Es la estructura clásica de una negociación cortés."
+    },
+    {
+      "id": "it-b2-u16-l3",
+      "n": 3,
+      "titulo": "Persuadir con argumentos",
+      "objetivo": "Convencer destacando ventajas y garantías.",
+      "intro": "Persuadir no es presionar: es dar razones claras. Truco: empieza con «secondo me» y termina con una ventaja concreta.",
+      "palabras": [
+        { "t": "convincere", "es": "convencer", "pron": "convínchere", "ej": "Voglio convincere i colleghi.", "ejes": "Quiero convencer a los colegas.", "cog": false },
+        { "t": "secondo me", "es": "en mi opinión", "pron": "secóndo me", "ej": "Secondo me, è la scelta migliore.", "ejes": "En mi opinión, es la mejor elección.", "cog": false },
+        { "t": "il vantaggio", "es": "la ventaja", "pron": "il vantádyo", "ej": "Il vantaggio principale è il prezzo.", "ejes": "La ventaja principal es el precio.", "cog": false },
+        { "t": "lo svantaggio", "es": "la desventaja", "pron": "lo svantádyo", "ej": "Lo svantaggio è il tempo di consegna.", "ejes": "La desventaja es el tiempo de entrega.", "cog": false },
+        { "t": "le garantisco che", "es": "le garantizo que", "pron": "le garantísco ke", "ej": "Le garantisco che rispettiamo la scadenza.", "ejes": "Le garantizo que cumplimos el plazo.", "cog": false },
+        { "t": "fidarsi", "es": "confiar", "pron": "fidársi", "ej": "Può fidarsi di noi.", "ejes": "Puede confiar en nosotros.", "cog": false },
+        { "t": "conviene", "es": "conviene", "pron": "convíene", "ej": "Conviene acquistare adesso.", "ejes": "Conviene comprar ahora.", "cog": true },
+        { "t": "sono convinto che", "es": "estoy convencido de que", "pron": "sóno convínto ke", "ej": "Sono convinto che funzionerà.", "ejes": "Estoy convencido de que funcionará.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Secondo me, è la scelta migliore.", "es": "En mi opinión, es la mejor elección.", "pron": "secóndo me e la shélta milióre" },
+        { "t": "Il vantaggio principale è il prezzo.", "es": "La ventaja principal es el precio.", "pron": "il vantádyo principále e il prétso" },
+        { "t": "Le garantisco che rispettiamo la scadenza.", "es": "Le garantizo que cumplimos el plazo.", "pron": "le garantísco ke rispettiámo la scadénsa" },
+        { "t": "Può fidarsi di noi.", "es": "Puede confiar en nosotros.", "pron": "puó fidársi di nói" },
+        { "t": "Sono convinto che funzionerà.", "es": "Estoy convencido de que funcionará.", "pron": "sóno convínto ke funtsionerá" }
+      ],
+      "dialogo": {
+        "titulo": "Convincere un cliente",
+        "lineas": [
+          { "q": "A", "t": "Secondo me, questa offerta Le conviene.", "es": "En mi opinión, esta oferta le conviene." },
+          { "q": "B", "t": "Quali sono i vantaggi?", "es": "¿Cuáles son las ventajas?" },
+          { "q": "A", "t": "Il prezzo è basso e le garantisco che rispettiamo i tempi.", "es": "El precio es bajo y le garantizo que cumplimos los plazos." },
+          { "q": "B", "t": "E gli svantaggi?", "es": "¿Y las desventajas?" },
+          { "q": "A", "t": "Sono convinto che non ne troverà.", "es": "Estoy convencido de que no encontrará ninguna." }
+        ]
+      },
+      "nota": "En ventas, «Le conviene» (le conviene) es una expresión muy usada. Se acompaña de un dato concreto: «Le conviene, perché risparmia il venti per cento»."
+    },
+    {
+      "id": "it-b2-u16-l4",
+      "n": 4,
+      "titulo": "Objeciones y cierre del acuerdo",
+      "objetivo": "Responder a objeciones, ceder y cerrar un acuerdo con cortesía.",
+      "intro": "Cuando el otro duda, primero se reconoce su posición. Truco: «Capisco, però...» abre la puerta sin cerrar el diálogo.",
+      "palabras": [
+        { "t": "capisco la Sua posizione", "es": "entiendo su posición", "pron": "capísco la súa posisióne", "ej": "Capisco la Sua posizione, ma il prezzo è fisso.", "ejes": "Entiendo su posición, pero el precio es fijo.", "cog": false },
+        { "t": "il problema è che", "es": "el problema es que", "pron": "il probléma e ke", "ej": "Il problema è che non abbiamo tempo.", "ejes": "El problema es que no tenemos tiempo.", "cog": false },
+        { "t": "a questo punto", "es": "a esta altura, llegados a este punto", "pron": "a cuésto púnto", "ej": "A questo punto, è meglio decidere.", "ejes": "A esta altura, es mejor decidir.", "cog": false },
+        { "t": "mi lasci pensare", "es": "déjeme pensarlo", "pron": "mi láshi pensáre", "ej": "Mi lasci pensare fino a domani.", "ejes": "Déjeme pensarlo hasta mañana.", "cog": false },
+        { "t": "per me va bene", "es": "por mí está bien", "pron": "per me va béne", "ej": "Per me va bene, firmiamo.", "ejes": "Por mí está bien, firmemos.", "cog": false },
+        { "t": "ci rifletto", "es": "lo pienso, lo reflexiono", "pron": "chi riflétto", "ej": "Ci rifletto e Le rispondo domani.", "ejes": "Lo pienso y le respondo mañana.", "cog": false },
+        { "t": "la disponibilità", "es": "la disposición, la amabilidad", "pron": "la disponibilitá", "ej": "La ringrazio per la disponibilità.", "ejes": "Le agradezco su disposición.", "cog": false },
+        { "t": "stringere un accordo", "es": "sellar un acuerdo", "pron": "strínyere un accórdo", "ej": "Siamo contenti di stringere un accordo.", "ejes": "Estamos contentos de sellar un acuerdo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Capisco la Sua posizione, però il prezzo è fisso.", "es": "Entiendo su posición, pero el precio es fijo.", "pron": "capísco la súa posisióne peró il prétso e físso" },
+        { "t": "Mi lasci pensare fino a domani.", "es": "Déjeme pensarlo hasta mañana.", "pron": "mi láshi pensáre fíno a dománi" },
+        { "t": "Ci rifletto e Le rispondo domani.", "es": "Lo pienso y le respondo mañana.", "pron": "chi riflétto e le rispóndo dománi" },
+        { "t": "Per me va bene, firmiamo.", "es": "Por mí está bien, firmemos.", "pron": "per me va béne firmiámo" },
+        { "t": "La ringrazio per la disponibilità.", "es": "Le agradezco su disposición.", "pron": "la ringrátsio per la disponibilitá" }
+      ],
+      "dialogo": {
+        "titulo": "L'accordo finale",
+        "lineas": [
+          { "q": "A", "t": "Capisco la Sua posizione, ma il prezzo è fisso.", "es": "Entiendo su posición, pero el precio es fijo." },
+          { "q": "B", "t": "Mi lasci pensare fino a domani.", "es": "Déjeme pensarlo hasta mañana." },
+          { "q": "A", "t": "Certo, a questo punto non abbiamo fretta.", "es": "Claro, a esta altura no tenemos prisa." },
+          { "q": "B", "t": "Per me va bene, accetto, a condizione che ci sia un contratto.", "es": "Por mí está bien, acepto, con la condición de que haya contrato." },
+          { "q": "A", "t": "Ottimo, La ringrazio per la disponibilità.", "es": "Excelente, le agradezco su disposición." }
+        ]
+      },
+      "nota": "En una negociación el silencio es útil: «Mi lasci pensare» da tiempo y no compromete. «Ci rifletto» es más informal; con «Lei» se prefiere «Mi lasci pensare»."
+    },
+    {
+      "id": "it-b2-u16-l5",
+      "n": 5,
+      "titulo": "Repaso general del nivel B2",
+      "objetivo": "Combinar idiomas, registro, conectores y negociación en una conversación completa.",
+      "intro": "Esta lección repasa lo mejor del nivel B2. Truco: elige una situación (comprar un auto, alquilar un local) y recorre todo: saludo formal, propuesta, objeción y acuerdo.",
+      "palabras": [
+        { "t": "buongiorno", "es": "buenos días", "pron": "buonyórno", "ej": "Buongiorno, come posso aiutarLa?", "ejes": "Buenos días, ¿cómo puedo ayudarlo?", "cog": false },
+        { "t": "vorrei", "es": "quisiera", "pron": "vorrébe", "ej": "Vorrei fare una proposta.", "ejes": "Quisiera hacer una propuesta.", "cog": false },
+        { "t": "costare un occhio della testa", "es": "costar un ojo de la cara", "pron": "costáre un ókkio déla tésta", "ej": "Non può costare un occhio della testa.", "ejes": "No puede costar un ojo de la cara.", "cog": false },
+        { "t": "tuttavia", "es": "sin embargo", "pron": "tuttavía", "ej": "Il prezzo è alto; tuttavia la qualità è ottima.", "ejes": "El precio es alto; sin embargo la calidad es excelente.", "cog": false },
+        { "t": "sebbene", "es": "aunque", "pron": "sebbéne", "ej": "Sebbene sia caro, ne vale la pena.", "ejes": "Aunque es caro, vale la pena.", "cog": false },
+        { "t": "quanto più", "es": "cuanto más", "pron": "cuánto piú", "ej": "Quanto più aspettiamo, tanto più costa.", "ejes": "Cuanto más esperamos, tanto más cuesta.", "cog": false },
+        { "t": "ne ho bisogno", "es": "lo necesito", "pron": "ne o bisóño", "ej": "Ne ho bisogno subito.", "ejes": "Lo necesito de inmediato.", "cog": false },
+        { "t": "di cui", "es": "del que", "pron": "di cúi", "ej": "È l'offerta di cui parlavo.", "ejes": "Es la oferta de la que hablaba.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Buongiorno, vorrei fare una proposta.", "es": "Buenos días, quisiera hacer una propuesta.", "pron": "buonyórno vorrébe fáre úna propósta" },
+        { "t": "Il prezzo è alto; tuttavia la qualità è ottima.", "es": "El precio es alto; sin embargo la calidad es excelente.", "pron": "il prétso e álto tuttavía la cualitá e óttima" },
+        { "t": "Sebbene sia caro, ne vale la pena.", "es": "Aunque es caro, vale la pena.", "pron": "sebbéne sía cáro ne vále la péna" },
+        { "t": "Quanto più aspettiamo, tanto più costa.", "es": "Cuanto más esperamos, tanto más cuesta.", "pron": "cuánto piú aspettiámo tánto piú cósta" },
+        { "t": "Accetto, a condizione che ci sia un contratto.", "es": "Acepto, con la condición de que haya contrato.", "pron": "acchétto a condichióne ke chi sía un contrátto" }
+      ],
+      "dialogo": {
+        "titulo": "Comprare un'auto",
+        "lineas": [
+          { "q": "A", "t": "Buongiorno, mi dica. Come posso aiutarLa?", "es": "Buenos días, dígame. ¿Cómo puedo ayudarlo?" },
+          { "q": "B", "t": "Vorrei comprare quest'auto, ma costa un occhio della testa.", "es": "Quisiera comprar este auto, pero cuesta un ojo de la cara." },
+          { "q": "A", "t": "Sebbene sia cara, la qualità è ottima. Posso fare uno sconto.", "es": "Aunque es cara, la calidad es excelente. Puedo hacer un descuento." },
+          { "q": "B", "t": "Quanto più aspetto, tanto più sale il prezzo: accetto, a condizione che ci sia una garanzia.", "es": "Cuanto más espero, tanto más sube el precio: acepto, con la condición de que haya garantía." },
+          { "q": "A", "t": "Perfetto, la ringrazio per la disponibilità.", "es": "Perfecto, le agradezco su disposición." }
+        ]
+      },
+      "nota": "¡Has terminado el nivel B2! Ahora puedes expresarte con precisión en el trabajo, en reuniones y en negociaciones. El siguiente paso es el nivel C1."
+    }
+  ]
+}

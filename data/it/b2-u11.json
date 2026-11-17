@@ -1,0 +1,719 @@
+{
+  "id": "it-b2-u11",
+  "idioma": "it",
+  "nivel": "B2",
+  "n": 11,
+  "titulo": "Presentaciones y reuniones",
+  "resumen": "Aprenderás el lenguaje para presentar un tema, participar en una reunión, interrumpir con cortesía y comentar datos.",
+  "puedo": [
+    "Abrir y estructurar una presentación breve.",
+    "Participar en una reunión: proponer, aprobar y aplazar.",
+    "Interrumpir y pedir la palabra con cortesía.",
+    "Describir gráficos y datos que suben o bajan.",
+    "Cerrar una presentación y agradecer."
+  ],
+  "gramatica": {
+    "titulo": "Organizar el discurso con conectores y futuro",
+    "texto": "En una presentación el italiano ordena las ideas con fórmulas fijas y suele usar el futuro simple para anunciar lo que vas a hacer: Oggi vi parlerò di..., Vedremo tre punti.\nPara estructurar: innanzitutto / in primo luogo (primero), poi (luego), infine (por último), passiamo a (pasemos a).\nPara dirigirte al público: Gentili colleghi, signore e signori. Con el grupo se usa «voi».\nPara interrumpir con cortesía: Scusi se La interrompo, Posso aggiungere una cosa?, Mi permette?\nTruco: anuncia siempre cuántos puntos tendrá la presentación; el público te seguirá mejor.",
+    "tabla": [
+      [
+        "Oggi vi parlerò di...",
+        "Hoy les hablaré de...",
+        "ódyi vi parleró di"
+      ],
+      [
+        "In primo luogo",
+        "En primer lugar",
+        "in prímo luógo"
+      ],
+      [
+        "Passiamo al punto successivo",
+        "Pasemos al punto siguiente",
+        "passiámo al púnto suchessívo"
+      ],
+      [
+        "Scusi se La interrompo",
+        "Disculpe que lo interrumpa",
+        "scúsi se la interrómpo"
+      ],
+      [
+        "Posso aggiungere una cosa?",
+        "¿Puedo añadir algo?",
+        "pósso adyundyére úna cósa"
+      ],
+      [
+        "Per concludere",
+        "Para concluir",
+        "per concludére"
+      ]
+    ],
+    "errores": [
+      "Se dice «parlare di» (hablar de), no «parlare su» ni «parlare sobre»: «Vi parlerò di marketing».",
+      "«Gentili colleghi» (no «queridos colegas»): «Gentile/i» es el saludo formal.",
+      "«Riunione» es la reunión; «incontro» es un encuentro o cita; no uses «reunión» en italiano."
+    ]
+  },
+  "practica": [
+    "Prepara una presentación de un minuto sobre tu trabajo o tus estudios usando «in primo luogo», «poi» e «infine» (8 minutos).",
+    "Di en voz alta cinco formas de interrumpir con cortesía, con tono amable (5 minutos).",
+    "Describe en voz alta un gráfico real (precios, clima) con «aumentare», «diminuire» y porcentajes (6 minutos).",
+    "Escribe el acta («verbale») de cinco líneas de una reunión imaginaria (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b2-u11-l1",
+      "n": 1,
+      "titulo": "Abrir una presentación",
+      "objetivo": "Saludar al público, presentar el tema y anunciar la estructura.",
+      "intro": "Una buena presentación empieza saludando y diciendo qué vas a explicar. Truco: «Oggi vi parlerò di...» es la fórmula más usada para abrir.",
+      "palabras": [
+        {
+          "t": "gentili colleghi",
+          "es": "estimados colegas",
+          "pron": "yentíli colléghi",
+          "ej": "Buongiorno a tutti, gentili colleghi.",
+          "ejes": "Buenos días a todos, estimados colegas.",
+          "cog": false
+        },
+        {
+          "t": "vi parlerò di",
+          "es": "les hablaré de",
+          "pron": "vi parleró di",
+          "ej": "Oggi vi parlerò di sostenibilità.",
+          "ejes": "Hoy les hablaré de sostenibilidad.",
+          "cog": false
+        },
+        {
+          "t": "l'obiettivo",
+          "es": "el objetivo",
+          "pron": "lobiettívo",
+          "ej": "L'obiettivo è ridurre i costi.",
+          "ejes": "El objetivo es reducir los costos.",
+          "cog": false
+        },
+        {
+          "t": "in primo luogo",
+          "es": "en primer lugar",
+          "pron": "in prímo luógo",
+          "ej": "In primo luogo, vediamo i dati.",
+          "ejes": "En primer lugar, veamos los datos.",
+          "cog": false
+        },
+        {
+          "t": "passiamo a",
+          "es": "pasemos a",
+          "pron": "passiámo a",
+          "ej": "Passiamo a un altro tema.",
+          "ejes": "Pasemos a otro tema.",
+          "cog": false
+        },
+        {
+          "t": "il pubblico",
+          "es": "el público",
+          "pron": "il púbblico",
+          "ej": "Il pubblico ascolta con attenzione.",
+          "ejes": "El público escucha con atención.",
+          "cog": true
+        },
+        {
+          "t": "la durata",
+          "es": "la duración",
+          "pron": "la duráta",
+          "ej": "La durata è di venti minuti.",
+          "ejes": "La duración es de veinte minutos.",
+          "cog": true
+        },
+        {
+          "t": "domande",
+          "es": "preguntas",
+          "pron": "doménde",
+          "ej": "Alla fine ci sarà tempo per le domande.",
+          "ejes": "Al final habrá tiempo para preguntas.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Buongiorno a tutti, e grazie di essere qui.",
+          "es": "Buenos días a todos, y gracias por estar aquí.",
+          "pron": "buonyórno a túti e grátsie di ésere cuí"
+        },
+        {
+          "t": "Oggi vi parlerò del nuovo progetto.",
+          "es": "Hoy les hablaré del nuevo proyecto.",
+          "pron": "ódyi vi parleró del nuóvo progétto"
+        },
+        {
+          "t": "L'obiettivo è spiegare tre punti.",
+          "es": "El objetivo es explicar tres puntos.",
+          "pron": "lobiettívo e spiegáre tré púnti"
+        },
+        {
+          "t": "In primo luogo, vediamo i risultati.",
+          "es": "En primer lugar, veamos los resultados.",
+          "pron": "in prímo luógo vediámo i risultáti"
+        },
+        {
+          "t": "Alla fine ci sarà tempo per le domande.",
+          "es": "Al final habrá tiempo para preguntas.",
+          "pron": "ala fíne chi sará témpo per le doménde"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Prima di cominciare",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Sei pronto per la presentazione?",
+            "es": "¿Estás listo para la presentación?"
+          },
+          {
+            "q": "B",
+            "t": "Quasi. Non so come cominciare.",
+            "es": "Casi. No sé cómo empezar."
+          },
+          {
+            "q": "A",
+            "t": "Saluta tutti e di' di cosa parlerai.",
+            "es": "Saluda a todos y di de qué hablarás."
+          },
+          {
+            "q": "B",
+            "t": "«Gentili colleghi, oggi vi parlerò del progetto.»",
+            "es": "«Estimados colegas, hoy les hablaré del proyecto.»"
+          },
+          {
+            "q": "A",
+            "t": "Perfetto. Poi dì l'obiettivo e la durata.",
+            "es": "Perfecto. Luego di el objetivo y la duración."
+          }
+        ]
+      },
+      "nota": "«Obiettivo» se escribe con «bi»: obiettivo. En la lengua escrita también se usa «scopo» (fin) y «traguardo» (meta)."
+    },
+    {
+      "id": "it-b2-u11-l2",
+      "n": 2,
+      "titulo": "En la reunión",
+      "objetivo": "Participar en una reunión: orden del día, propuestas, acuerdos y plazos.",
+      "intro": "En una reunión se usan palabras muy concretas. Truco: «riunione» = reunión de trabajo; «incontro» = encuentro o cita informal.",
+      "palabras": [
+        {
+          "t": "la riunione",
+          "es": "la reunión",
+          "pron": "la riunióne",
+          "ej": "La riunione comincia alle nove.",
+          "ejes": "La reunión comienza a las nueve.",
+          "cog": false
+        },
+        {
+          "t": "l'ordine del giorno",
+          "es": "el orden del día",
+          "pron": "lórdine del yórno",
+          "ej": "L'ordine del giorno ha tre punti.",
+          "ejes": "El orden del día tiene tres puntos.",
+          "cog": false
+        },
+        {
+          "t": "il verbale",
+          "es": "el acta",
+          "pron": "il verbále",
+          "ej": "Chi scrive il verbale?",
+          "ejes": "¿Quién redacta el acta?",
+          "cog": false
+        },
+        {
+          "t": "proporre",
+          "es": "proponer",
+          "pron": "propórre",
+          "ej": "Vorrei proporre una soluzione.",
+          "ejes": "Quisiera proponer una solución.",
+          "cog": true
+        },
+        {
+          "t": "approvare",
+          "es": "aprobar",
+          "pron": "approváre",
+          "ej": "Il consiglio deve approvare il budget.",
+          "ejes": "El consejo debe aprobar el presupuesto.",
+          "cog": true
+        },
+        {
+          "t": "rimandare",
+          "es": "aplazar",
+          "pron": "rimandáre",
+          "ej": "Dobbiamo rimandare la decisione.",
+          "ejes": "Debemos aplazar la decisión.",
+          "cog": false
+        },
+        {
+          "t": "la scadenza",
+          "es": "el plazo, la fecha límite",
+          "pron": "la scadénsa",
+          "ej": "La scadenza è venerdì.",
+          "ejes": "La fecha límite es el viernes.",
+          "cog": false
+        },
+        {
+          "t": "essere d'accordo",
+          "es": "estar de acuerdo",
+          "pron": "éssere dacórdo",
+          "ej": "Spero di essere d'accordo con voi.",
+          "ejes": "Espero estar de acuerdo con ustedes.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "La riunione comincia alle nove in punto.",
+          "es": "La reunión empieza a las nueve en punto.",
+          "pron": "la riunióne cominchia ále nóve in púnto"
+        },
+        {
+          "t": "L'ordine del giorno ha tre punti.",
+          "es": "El orden del día tiene tres puntos.",
+          "pron": "lórdine del yórno a tré púnti"
+        },
+        {
+          "t": "Vorrei proporre una soluzione.",
+          "es": "Quisiera proponer una solución.",
+          "pron": "vorrébe propórre úna solutsióne"
+        },
+        {
+          "t": "Dobbiamo rimandare la decisione.",
+          "es": "Debemos aplazar la decisión.",
+          "pron": "dobbiámo rimandáre la dechisióne"
+        },
+        {
+          "t": "La scadenza è venerdì prossimo.",
+          "es": "La fecha límite es el próximo viernes.",
+          "pron": "la scadénsa e venerdí próssimo"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Riunione del team",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Cominciamo: l'ordine del giorno ha tre punti.",
+            "es": "Empecemos: el orden del día tiene tres puntos."
+          },
+          {
+            "q": "B",
+            "t": "Vorrei proporre di anticipare la consegna.",
+            "es": "Quisiera proponer adelantar la entrega."
+          },
+          {
+            "q": "A",
+            "t": "Siete d'accordo?",
+            "es": "¿Están de acuerdo?"
+          },
+          {
+            "q": "B",
+            "t": "Non del tutto. Dobbiamo rimandare la decisione.",
+            "es": "No del todo. Debemos aplazar la decisión."
+          },
+          {
+            "q": "A",
+            "t": "Va bene. Chi scrive il verbale?",
+            "es": "Está bien. ¿Quién redacta el acta?"
+          }
+        ]
+      },
+      "nota": "En italiano «il budget» y «il team» se usan tal cual en el trabajo. Para «el presupuesto» también existe «il bilancio previsionale», pero «budget» es más común."
+    },
+    {
+      "id": "it-b2-u11-l3",
+      "n": 3,
+      "titulo": "Interrumpir con cortesía",
+      "objetivo": "Pedir la palabra, interrumpir y expresar desacuerdo con educación.",
+      "intro": "Interrumpir sin ofender se hace con fórmulas suaves. Truco: casi todas llevan «scusi» o una pregunta con «posso» o «potrei» (condicional).",
+      "palabras": [
+        {
+          "t": "scusi se La interrompo",
+          "es": "disculpe que lo interrumpa",
+          "pron": "scúsi se la interrómpo",
+          "ej": "Scusi se La interrompo, ho una domanda.",
+          "ejes": "Disculpe que lo interrumpa, tengo una pregunta.",
+          "cog": false
+        },
+        {
+          "t": "posso aggiungere",
+          "es": "puedo añadir",
+          "pron": "pósso adyundyére",
+          "ej": "Posso aggiungere una cosa?",
+          "ejes": "¿Puedo añadir algo?",
+          "cog": false
+        },
+        {
+          "t": "mi permette",
+          "es": "me permite",
+          "pron": "mi permétte",
+          "ej": "Mi permette di fare una domanda?",
+          "ejes": "¿Me permite hacer una pregunta?",
+          "cog": false
+        },
+        {
+          "t": "un momento, per favore",
+          "es": "un momento, por favor",
+          "pron": "un moménto per favóre",
+          "ej": "Un momento, per favore: non ho capito.",
+          "ejes": "Un momento, por favor: no entendí.",
+          "cog": false
+        },
+        {
+          "t": "se non ho capito male",
+          "es": "si no entendí mal",
+          "pron": "se non o capíto mále",
+          "ej": "Se non ho capito male, il costo aumenta.",
+          "ejes": "Si no entendí mal, el costo aumenta.",
+          "cog": false
+        },
+        {
+          "t": "non sono del tutto d'accordo",
+          "es": "no estoy del todo de acuerdo",
+          "pron": "non sóno del túto dacórdo",
+          "ej": "Mi dispiace, non sono del tutto d'accordo.",
+          "ejes": "Lo siento, no estoy del todo de acuerdo.",
+          "cog": false
+        },
+        {
+          "t": "lasci finire",
+          "es": "déjeme terminar",
+          "pron": "láshi finíre",
+          "ej": "Mi lasci finire, per favore.",
+          "ejes": "Déjeme terminar, por favor.",
+          "cog": false
+        },
+        {
+          "t": "a questo proposito",
+          "es": "a este respecto",
+          "pron": "a cuésto propósito",
+          "ej": "A questo proposito, ho un'idea.",
+          "ejes": "A este respecto, tengo una idea.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Scusi se La interrompo, posso aggiungere una cosa?",
+          "es": "Disculpe que lo interrumpa, ¿puedo añadir algo?",
+          "pron": "scúsi se la interrómpo pósso adyundyére úna cósa"
+        },
+        {
+          "t": "Mi permette di fare una domanda?",
+          "es": "¿Me permite hacer una pregunta?",
+          "pron": "mi permétte di fáre úna doménda"
+        },
+        {
+          "t": "Se non ho capito male, il costo aumenta.",
+          "es": "Si no entendí mal, el costo aumenta.",
+          "pron": "se non o capíto mále il cósto aumenta"
+        },
+        {
+          "t": "Non sono del tutto d'accordo.",
+          "es": "No estoy del todo de acuerdo.",
+          "pron": "non sóno del túto dacórdo"
+        },
+        {
+          "t": "A questo proposito, vorrei dire una cosa.",
+          "es": "A este respecto, quisiera decir algo.",
+          "pron": "a cuésto propósito vorrébe díre úna cósa"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Una domanda in riunione",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Quindi il costo aumenterà del dieci per cento.",
+            "es": "Entonces el costo aumentará un diez por ciento."
+          },
+          {
+            "q": "B",
+            "t": "Scusi se La interrompo, posso aggiungere una cosa?",
+            "es": "Disculpe que lo interrumpa, ¿puedo añadir algo?"
+          },
+          {
+            "q": "A",
+            "t": "Prego, dica pure.",
+            "es": "Por favor, diga."
+          },
+          {
+            "q": "B",
+            "t": "Se non ho capito male, il costo era già incluso.",
+            "es": "Si no entendí mal, el costo ya estaba incluido."
+          },
+          {
+            "q": "A",
+            "t": "Ha ragione. Grazie della precisazione.",
+            "es": "Tiene razón. Gracias por la aclaración."
+          }
+        ]
+      },
+      "nota": "«Prego, dica pure» es la respuesta cortés a quien pide la palabra: significa «adelante, diga». «Pure» suaviza la frase."
+    },
+    {
+      "id": "it-b2-u11-l4",
+      "n": 4,
+      "titulo": "Diapositivas, datos y gráficos",
+      "objetivo": "Describir gráficos, aumentos y descensos con vocabulario preciso.",
+      "intro": "Los datos se describen con verbos de cambio. Truco: «aumentare» sube y «diminuire» baja; «in crescita» y «in calo» describen la tendencia.",
+      "palabras": [
+        {
+          "t": "la diapositiva",
+          "es": "la diapositiva",
+          "pron": "la diapositíva",
+          "ej": "La diapositiva è molto chiara.",
+          "ejes": "La diapositiva es muy clara.",
+          "cog": true
+        },
+        {
+          "t": "il grafico",
+          "es": "el gráfico",
+          "pron": "il gráfico",
+          "ej": "Il grafico mostra le vendite.",
+          "ejes": "El gráfico muestra las ventas.",
+          "cog": true
+        },
+        {
+          "t": "i dati",
+          "es": "los datos",
+          "pron": "i dáti",
+          "ej": "I dati sono molto chiari.",
+          "ejes": "Los datos son muy claros.",
+          "cog": true
+        },
+        {
+          "t": "aumentare",
+          "es": "aumentar",
+          "pron": "aumentáre",
+          "ej": "Le vendite hanno cominciato ad aumentare.",
+          "ejes": "Las ventas han empezado a aumentar.",
+          "cog": true
+        },
+        {
+          "t": "diminuire",
+          "es": "disminuir",
+          "pron": "diminuíre",
+          "ej": "Le spese devono diminuire.",
+          "ejes": "Los gastos deben disminuir.",
+          "cog": true
+        },
+        {
+          "t": "la percentuale",
+          "es": "el porcentaje",
+          "pron": "la perchentuále",
+          "ej": "La percentuale è salita al venti per cento.",
+          "ejes": "El porcentaje ha subido al veinte por ciento.",
+          "cog": false
+        },
+        {
+          "t": "in crescita",
+          "es": "en crecimiento",
+          "pron": "in creshíta",
+          "ej": "Il mercato è in crescita.",
+          "ejes": "El mercado está en crecimiento.",
+          "cog": false
+        },
+        {
+          "t": "in calo",
+          "es": "en descenso",
+          "pron": "in cálo",
+          "ej": "I prezzi sono in calo.",
+          "ejes": "Los precios están en descenso.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Il grafico mostra un aumento del dieci per cento.",
+          "es": "El gráfico muestra un aumento del diez por ciento.",
+          "pron": "il gráfico móstra un aumento del diéchi per chénto"
+        },
+        {
+          "t": "Le vendite sono in crescita da tre mesi.",
+          "es": "Las ventas están en crecimiento desde hace tres meses.",
+          "pron": "le véndite sóno in creshíta da tré mési"
+        },
+        {
+          "t": "I costi sono in calo rispetto all'anno scorso.",
+          "es": "Los costos están en descenso respecto al año pasado.",
+          "pron": "i cósti sóno in cálo rispétto al ánno scórso"
+        },
+        {
+          "t": "Come vedete in questa diapositiva, i dati sono chiari.",
+          "es": "Como ven en esta diapositiva, los datos son claros.",
+          "pron": "cóme vedéte in cuésta diapositíva i dáti sóno quiári"
+        },
+        {
+          "t": "La percentuale è salita al venti per cento.",
+          "es": "El porcentaje ha subido al veinte por ciento.",
+          "pron": "la perchentuále e salíta al vénti per chénto"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Commento ai dati",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Guardate il grafico: le vendite sono in crescita.",
+            "es": "Miren el gráfico: las ventas están en crecimiento."
+          },
+          {
+            "q": "B",
+            "t": "Di quanto sono aumentate?",
+            "es": "¿Cuánto han aumentado?"
+          },
+          {
+            "q": "A",
+            "t": "Del quindici per cento rispetto all'anno scorso.",
+            "es": "Un quince por ciento respecto al año pasado."
+          },
+          {
+            "q": "B",
+            "t": "E i costi?",
+            "es": "¿Y los costos?"
+          },
+          {
+            "q": "A",
+            "t": "Sono in calo, e questa è una buona notizia.",
+            "es": "Están en descenso, y eso es una buena noticia."
+          }
+        ]
+      },
+      "nota": "Para porcentajes se dice «per cento»: «il dieci per cento». Los verbos «salire» y «scendere» también se usan: «i prezzi sono saliti / scesi»."
+    },
+    {
+      "id": "it-b2-u11-l5",
+      "n": 5,
+      "titulo": "Repaso: una presentación completa",
+      "objetivo": "Combinar apertura, estructura, datos y cierre en una presentación breve.",
+      "intro": "Repasa todo con una presentación entera: saludo, estructura, datos y conclusión. Truco: termina siempre agradeciendo y abriendo la ronda de preguntas.",
+      "palabras": [
+        {
+          "t": "per concludere",
+          "es": "para concluir",
+          "pron": "per concludére",
+          "ej": "Per concludere, riassumo i punti principali.",
+          "ejes": "Para concluir, resumo los puntos principales.",
+          "cog": false
+        },
+        {
+          "t": "riassumere",
+          "es": "resumir",
+          "pron": "riassúmere",
+          "ej": "Posso riassumere la proposta?",
+          "ejes": "¿Puedo resumir la propuesta?",
+          "cog": false
+        },
+        {
+          "t": "il risultato",
+          "es": "el resultado",
+          "pron": "il risultáto",
+          "ej": "Il risultato è molto positivo.",
+          "ejes": "El resultado es muy positivo.",
+          "cog": true
+        },
+        {
+          "t": "la proposta",
+          "es": "la propuesta",
+          "pron": "la propósta",
+          "ej": "La proposta è stata approvata.",
+          "ejes": "La propuesta fue aprobada.",
+          "cog": true
+        },
+        {
+          "t": "ringraziare",
+          "es": "agradecer",
+          "pron": "ringratsiáre",
+          "ej": "Voglio ringraziare tutti per l'attenzione.",
+          "ejes": "Quiero agradecer a todos por la atención.",
+          "cog": false
+        },
+        {
+          "t": "il prossimo passo",
+          "es": "el siguiente paso",
+          "pron": "il próssimo pásso",
+          "ej": "Il prossimo passo è la firma del contratto.",
+          "ejes": "El siguiente paso es la firma del contrato.",
+          "cog": false
+        },
+        {
+          "t": "a vostra disposizione",
+          "es": "a su disposición (ustedes)",
+          "pron": "a vóstra disposisióne",
+          "ej": "Sono a vostra disposizione per le domande.",
+          "ejes": "Estoy a su disposición para las preguntas.",
+          "cog": false
+        },
+        {
+          "t": "il punto",
+          "es": "el punto",
+          "pron": "il púnto",
+          "ej": "Questo è il punto più importante.",
+          "ejes": "Este es el punto más importante.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Per concludere, riassumo i punti principali.",
+          "es": "Para concluir, resumo los puntos principales.",
+          "pron": "per concludére riassúmo i púnti principáli"
+        },
+        {
+          "t": "Il risultato è stato molto positivo.",
+          "es": "El resultado fue muy positivo.",
+          "pron": "il risultáto e státo molto positívo"
+        },
+        {
+          "t": "Il prossimo passo è la firma del contratto.",
+          "es": "El siguiente paso es la firma del contrato.",
+          "pron": "il próssimo pásso e la fírma del contrátto"
+        },
+        {
+          "t": "Vi ringrazio per l'attenzione.",
+          "es": "Les agradezco por la atención.",
+          "pron": "vi ringrátsio per latensióne"
+        },
+        {
+          "t": "Sono a vostra disposizione per le domande.",
+          "es": "Estoy a su disposición para las preguntas.",
+          "pron": "sóno a vóstra disposisióne per le doménde"
+        }
+      ],
+      "dialogo": {
+        "titulo": "La conclusione",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Per concludere, riassumo i punti principali.",
+            "es": "Para concluir, resumo los puntos principales."
+          },
+          {
+            "q": "B",
+            "t": "Quindi il risultato è positivo?",
+            "es": "¿Entonces el resultado es positivo?"
+          },
+          {
+            "q": "A",
+            "t": "Sì, le vendite sono in crescita. Il prossimo passo è la firma del contratto.",
+            "es": "Sí, las ventas están en crecimiento. El siguiente paso es la firma del contrato."
+          },
+          {
+            "q": "B",
+            "t": "Complimenti per la presentazione!",
+            "es": "¡Felicitaciones por la presentación!"
+          },
+          {
+            "q": "A",
+            "t": "Vi ringrazio per l'attenzione. Sono a vostra disposizione per le domande.",
+            "es": "Les agradezco por la atención. Estoy a su disposición para las preguntas."
+          }
+        ]
+      },
+      "nota": "En italiano se dice «Complimenti» para felicitar por un buen trabajo; «Congratulazioni» se reserva para logros más grandes (un ascenso, una boda)."
+    }
+  ]
+}

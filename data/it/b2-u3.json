@@ -1,0 +1,223 @@
+{
+  "id": "it-b2-u3",
+  "idioma": "it",
+  "nivel": "B2",
+  "n": 3,
+  "titulo": "Deseos y arrepentimientos",
+  "resumen": "Aprenderás a expresar deseos difíciles de cumplir y lamentos por lo que no hiciste: magari, se solo avessi, avrei dovuto y el condizionale passato.",
+  "puedo": [
+    "Expresar un deseo con «magari» y con «vorrei che» + congiuntivo.",
+    "Usar «se solo avessi» y «se almeno» para lamentar algo.",
+    "Formar el condizionale passato: avrei dovuto, avrei potuto, sarei andato.",
+    "Hablar de arrepentimientos con «mi dispiace di» y «peccato che».",
+    "Consolar a alguien y relativizar un error."
+  ],
+  "gramatica": {
+    "titulo": "Condizionale passato: lo que habría sido",
+    "texto": "El condizionale passato dice lo que habría pasado o lo que debías haber hecho. Se forma con el condizionale de avere o essere + participio: avrei fatto, sarei andato (con essere, el participio concuerda: saremmo andate).\nSirve para:\n1. Lamentos: Avrei dovuto studiare di più.\n2. Deseos ya imposibles: Avrei voluto vederti.\n3. Hechos no confirmados: Secondo il giornale, il ministro sarebbe in ospedale (noticia no verificada).\nPara deseos se usa también «magari» + congiuntivo: Magari fossi più alto! (¡ojalá fuera más alto!) o «se solo / se almeno» + congiuntivo trapassato: Se solo avessi ascoltato!\nTruco: «avrei dovuto + infinitivo» = «debería haber + participio»: Avrei dovuto chiamarti = Debería haberte llamado.",
+    "tabla": [
+      ["Avrei dovuto studiare.", "Debería haber estudiado.", "avréi dovúto studiáre"],
+      ["Avrei voluto vederti.", "Habría querido verte.", "avréi volúto vedérti"],
+      ["Sarei andato volentieri.", "Habría ido con gusto.", "saréi andáto volentiéri"],
+      ["Magari fossi più alto!", "¡Ojalá fuera más alto!", "magári fóssi piú álto"],
+      ["Se solo avessi ascoltato!", "¡Si solo hubiera escuchado!", "se sólo avéssi ascoltáto"]
+    ],
+    "errores": [
+      "No uses «dovevo» para el lamento: «avrei dovuto studiare» (debería haber estudiado) y «dovevo studiare» (tenía que estudiar) significan cosas distintas.",
+      "«Magari» no es «quizá» siempre: en una respuesta, «Magari!» = «¡ojalá!»; con indicativo puede ser «a lo mejor»: Magari viene domani.",
+      "Con essere el participio concuerda: «lei sarebbe venuta», no «sarebbe venuto»; y no confundas «avrei» (yo) con «avrebbe» (él/ella)."
+    ]
+  },
+  "practica": [
+    "Escribe cinco arrepentimientos con «Avrei dovuto...» y cinco deseos con «Magari...» (8 minutos).",
+    "Termina en voz alta diez veces: «Se solo avessi...» pensando en cosas del trabajo, la casa y los viajes (6 minutos).",
+    "Mira una escena de una serie italiana con subtítulos y anota cada condizionale passato que oigas (10 minutos).",
+    "Escribe un mensaje breve a un amigo disculpándote por algo, usando «avrei dovuto» y «mi dispiace di» (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b2-u3-l1",
+      "n": 1,
+      "titulo": "Magari y vorrei che: deseos",
+      "objetivo": "Expresar deseos difíciles o imposibles con «magari» y «vorrei che».",
+      "intro": "«Magari» es el «ojalá» italiano; se usa con congiuntivo imperfetto. Truco: «Magari!» solo, como respuesta, significa «¡ojalá!» (¡qué bueno sería!).",
+      "palabras": [
+        { "t": "magari", "es": "ojalá", "pron": "magári", "ej": "Magari fosse già venerdì!", "ejes": "¡Ojalá ya fuera viernes!", "cog": false },
+        { "t": "vorrei che", "es": "quisiera que", "pron": "vorréi ke", "ej": "Vorrei che tu fossi qui.", "ejes": "Quisiera que estuvieras aquí.", "cog": false },
+        { "t": "speriamo che", "es": "esperemos que", "pron": "speriámo ke", "ej": "Speriamo che il tempo regga.", "ejes": "Esperemos que el tiempo aguante.", "cog": false },
+        { "t": "desiderare", "es": "desear", "pron": "desideráre", "ej": "Non si può desiderare tutto nella vita.", "ejes": "No se puede desear todo en la vida.", "cog": true },
+        { "t": "ho il sogno di", "es": "tengo el sueño de", "pron": "o il sóño di", "ej": "Ho il sogno di aprire una libreria.", "ejes": "Tengo el sueño de abrir una librería.", "cog": false },
+        { "t": "sperare", "es": "esperar (tener esperanza)", "pron": "speráre", "ej": "Non smetto di sperare in una buona notizia.", "ejes": "No dejo de esperar una buena noticia.", "cog": false },
+        { "t": "fosse", "es": "fuera / estuviera (3.ª persona)", "pron": "fósse", "ej": "Se solo fosse così semplice!", "ejes": "¡Ojalá fuera tan sencillo!", "cog": false },
+        { "t": "un giorno", "es": "algún día", "pron": "un yórno", "ej": "Un giorno vorrei vivere al mare.", "ejes": "Algún día quisiera vivir junto al mar.", "cog": false },
+        { "t": "chissà", "es": "quién sabe", "pron": "quissá", "ej": "Chissà se un giorno ci riuscirò.", "ejes": "Quién sabe si algún día lo lograré.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Magari avessi più tempo per leggere!", "es": "¡Ojalá tuviera más tiempo para leer!", "pron": "magári avéssi piú témpo per léyere" },
+        { "t": "Vorrei che mia madre potesse vedere tutto questo.", "es": "Quisiera que mi madre pudiera ver todo esto.", "pron": "vorréi ke mía mádre potésse vedére túto cuésto" },
+        { "t": "Speriamo che domani il tempo sia migliore.", "es": "Esperemos que mañana el tiempo sea mejor.", "pron": "speriámo ke dománi il témpo sía miñióre" },
+        { "t": "Magari fosse così facile!", "es": "¡Ojalá fuera así de fácil!", "pron": "magári fósse cosí fáchile" },
+        { "t": "Un giorno vorrei vivere in una casa sul lago.", "es": "Algún día quisiera vivir en una casa junto al lago.", "pron": "un yórno vorréi vivére in úna cása sul lágo" }
+      ],
+      "dialogo": {
+        "titulo": "Giovedì pomeriggio",
+        "lineas": [
+          { "q": "A", "t": "Che stanchezza! Vorrei che fosse già venerdì.", "es": "¡Qué cansancio! Quisiera que ya fuera viernes." },
+          { "q": "B", "t": "Magari! Io avrei bisogno di una settimana di ferie.", "es": "¡Ojalá! Yo necesitaría una semana de vacaciones." },
+          { "q": "A", "t": "Un giorno vorrei vivere al mare, senza orari.", "es": "Algún día quisiera vivir junto al mar, sin horarios." },
+          { "q": "B", "t": "Speriamo che il capo dica di sì alle ferie di agosto.", "es": "Esperemos que el jefe diga que sí a las vacaciones de agosto." },
+          { "q": "A", "t": "Chissà. Magari quest'anno è di buon umore.", "es": "Quién sabe. A lo mejor este año está de buen humor." },
+          { "q": "B", "t": "Magari! Altrimenti ci resta il caffè.", "es": "¡Ojalá! Si no, nos queda el café." }
+        ]
+      },
+      "nota": "Después de «sperare» y «desiderare» el verbo va en indicativo (spero che venga); después de «vorrei che» siempre congiuntivo."
+    },
+    {
+      "id": "it-b2-u3-l2",
+      "n": 2,
+      "titulo": "Se solo avessi: lamentos",
+      "objetivo": "Expresar lamentos con «se solo / se almeno» + congiuntivo trapassato.",
+      "intro": "«Se solo avessi...» es una exclamación de arrepentimiento: la hipótesis que ya no puedes cambiar. Truco: no necesita segunda parte; la frase termina con una exclamación.",
+      "palabras": [
+        { "t": "se solo", "es": "si solo", "pron": "se sólo", "ej": "Se solo avessi ascoltato!", "ejes": "¡Si solo hubiera escuchado!", "cog": false },
+        { "t": "se almeno", "es": "si al menos", "pron": "se alméno", "ej": "Se almeno avessi chiamato!", "ejes": "¡Si al menos hubiera llamado!", "cog": false },
+        { "t": "peccato che", "es": "qué lástima que", "pron": "peccáto ke", "ej": "Peccato che tu non sia venuto.", "ejes": "Qué lástima que no hayas venido.", "cog": false },
+        { "t": "che peccato", "es": "qué pena", "pron": "ke peccáto", "ej": "Che peccato, la festa era bellissima.", "ejes": "Qué pena, la fiesta estuvo hermosa.", "cog": false },
+        { "t": "mi dispiace di", "es": "lamento", "pron": "mi dispiáche di", "ej": "Mi dispiace di averti deluso.", "ejes": "Lamento haberte decepcionado.", "cog": false },
+        { "t": "rimorso", "es": "remordimiento", "pron": "rimórso", "ej": "Ho un rimorso per quello che ho detto.", "ejes": "Tengo un remordimiento por lo que dije.", "cog": true },
+        { "t": "mi sono pentito", "es": "me arrepentí", "pron": "mi sóno pentíto", "ej": "Mi sono pentito di non averlo detto.", "ejes": "Me arrepentí de no haberlo dicho.", "cog": false },
+        { "t": "sbagliare", "es": "equivocarse, fallar", "pron": "sbaliáre", "ej": "Può capitare di sbagliare strada.", "ejes": "Puede pasar equivocarse de camino.", "cog": false },
+        { "t": "ormai", "es": "a estas alturas", "pron": "ormái", "ej": "Ormai è troppo tardi per cambiare idea.", "ejes": "A estas alturas es demasiado tarde para cambiar de idea.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Se solo avessi ascoltato i tuoi consigli!", "es": "¡Si solo hubiera escuchado tus consejos!", "pron": "se sólo avéssi ascoltáto i túoi consílli" },
+        { "t": "Se almeno mi avessi avvisato, avrei potuto aiutarti.", "es": "Si al menos me hubieras avisado, habría podido ayudarte.", "pron": "se alméno mi avéssi avvisáto avréi potúto aiutárti" },
+        { "t": "Peccato che tu non sia venuto alla festa.", "es": "Qué lástima que no vinieras a la fiesta.", "pron": "peccáto ke tu non sía venúto alla fésta" },
+        { "t": "Mi dispiace di averti risposto così male.", "es": "Lamento haberte respondido tan mal.", "pron": "mi dispiáche di avérti rispósto cosí mále" },
+        { "t": "Ormai è tardi, ma mi pento di non aver chiamato.", "es": "A estas alturas es tarde, pero me arrepiento de no haber llamado.", "pron": "ormái e tárdi ma mi pénto di non avér quiamáto" }
+      ],
+      "dialogo": {
+        "titulo": "Un errore di troppo",
+        "lineas": [
+          { "q": "A", "t": "Hai visto? Hanno chiuso l'offerta ieri.", "es": "¿Viste? Cerraron la oferta ayer." },
+          { "q": "B", "t": "Se solo avessi comprato i biglietti la settimana scorsa!", "es": "¡Si solo hubiera comprado los boletos la semana pasada!" },
+          { "q": "A", "t": "Ti avevo avvisato, ma eri troppo occupato.", "es": "Te había avisado, pero estabas muy ocupado." },
+          { "q": "B", "t": "Lo so, mi dispiace di non averti ascoltato.", "es": "Lo sé, lamento no haberte escuchado." },
+          { "q": "A", "t": "Pazienza, ormai è fatta. Ne troveremo altri.", "es": "Paciencia, ya está hecho. Encontraremos otros." },
+          { "q": "B", "t": "Peccato, però: erano a metà prezzo!", "es": "Qué lástima, eso sí: ¡estaban a mitad de precio!" }
+        ]
+      },
+      "nota": "Para consolar: «pazienza», «non fa niente», «capita a tutti», «non te la prendere» (no te lo tomes a mal)."
+    },
+    {
+      "id": "it-b2-u3-l3",
+      "n": 3,
+      "titulo": "Avrei dovuto: condizionale passato",
+      "objetivo": "Formar el condizionale passato con los verbos modales y usarlo para lamentos y reproches.",
+      "intro": "Avrei + participio = «habría + participio». Con dovere, potere y volere se obtienen reproches y lamentos. Truco: «avrei dovuto» traduce «debería haber», «avresti potuto» traduce «podrías haber».",
+      "palabras": [
+        { "t": "avrei dovuto", "es": "debería haber", "pron": "avréi dovúto", "ej": "Avrei dovuto studiare di più.", "ejes": "Debería haber estudiado más.", "cog": false },
+        { "t": "avrei potuto", "es": "habría podido, podría haber", "pron": "avréi potúto", "ej": "Avrei potuto chiamarti prima.", "ejes": "Podría haberte llamado antes.", "cog": false },
+        { "t": "avrei voluto", "es": "habría querido", "pron": "avréi volúto", "ej": "Avrei voluto aiutarti di più.", "ejes": "Habría querido ayudarte más.", "cog": false },
+        { "t": "avresti dovuto", "es": "deberías haber", "pron": "avrésti dovúto", "ej": "Avresti dovuto dirmelo subito.", "ejes": "Deberías habérmelo dicho enseguida.", "cog": false },
+        { "t": "sarei andato", "es": "habría ido", "pron": "saréi andáto", "ej": "Sarei andato volentieri alla festa.", "ejes": "Habría ido con gusto a la fiesta.", "cog": false },
+        { "t": "sarebbe stato meglio", "es": "habría sido mejor", "pron": "sarébbe státo méñio", "ej": "Sarebbe stato meglio aspettare.", "ejes": "Habría sido mejor esperar.", "cog": false },
+        { "t": "avrebbe fatto", "es": "habría hecho", "pron": "avrébbe fátto", "ej": "Mia sorella avrebbe fatto lo stesso.", "ejes": "Mi hermana habría hecho lo mismo.", "cog": false },
+        { "t": "al tuo posto", "es": "en tu lugar", "pron": "al túo pósto", "ej": "Al tuo posto avrei detto di no.", "ejes": "En tu lugar habría dicho que no.", "cog": false },
+        { "t": "a quel punto", "es": "en ese punto", "pron": "a cuel púnto", "ej": "A quel punto avremmo dovuto fermarci.", "ejes": "En ese punto deberíamos habernos detenido.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Avrei dovuto studiare di più per l'esame.", "es": "Debería haber estudiado más para el examen.", "pron": "avréi dovúto studiáre di piú per lesáme" },
+        { "t": "Avresti potuto avvisarmi prima di partire.", "es": "Podrías haberme avisado antes de salir.", "pron": "avrésti potúto avvisármi príma di partíre" },
+        { "t": "Avrei voluto essere lì con voi.", "es": "Habría querido estar allí con ustedes.", "pron": "avréi volúto ésere lí con vói" },
+        { "t": "Sarebbe stato meglio parlarne subito.", "es": "Habría sido mejor hablarlo enseguida.", "pron": "sarébbe státo méñio parlárne súbito" },
+        { "t": "Al tuo posto non avrei accettato quelle condizioni.", "es": "En tu lugar no habría aceptado esas condiciones.", "pron": "al túo pósto non avréi accettáto cuélle condisióni" }
+      ],
+      "dialogo": {
+        "titulo": "Un rimprovero amichevole",
+        "lineas": [
+          { "q": "A", "t": "Ho dimenticato di inviare il report. Il capo è furioso.", "es": "Olvidé enviar el informe. El jefe está furioso." },
+          { "q": "B", "t": "Avresti dovuto controllare la lista, come ti avevo detto.", "es": "Deberías haber revisado la lista, como te dije." },
+          { "q": "A", "t": "Lo so, avrei potuto svegliarmi prima.", "es": "Lo sé, podría haberme levantado antes." },
+          { "q": "B", "t": "Sarebbe stato meglio avvisare il capo ieri sera.", "es": "Habría sido mejor avisar al jefe anoche." },
+          { "q": "A", "t": "Al mio posto cosa avresti fatto?", "es": "En mi lugar, ¿qué habrías hecho?" },
+          { "q": "B", "t": "Avrei chiamato subito e avrei chiesto scusa.", "es": "Habría llamado enseguida y habría pedido disculpas." }
+        ]
+      },
+      "nota": "Con modales + infinitivo con essere: «sarei dovuto andare» o «avrei dovuto andare» (ambos correctos). El primero es más literario, el segundo más común."
+    },
+    {
+      "id": "it-b2-u3-l4",
+      "n": 4,
+      "titulo": "Condizionale passato: noticias no confirmadas y cortesía",
+      "objetivo": "Usar el condizionale passato para noticias no confirmadas y para suavizar peticiones y críticas.",
+      "intro": "El condizionale passato también se usa en periodismo para algo no confirmado: «il ministro sarebbe in ospedale» (según se dice). Truco: en un periódico, «sarebbe» y «avrebbe» significan «parece que», «según fuentes».",
+      "palabras": [
+        { "t": "secondo fonti", "es": "según fuentes", "pron": "secóndo fónti", "ej": "Secondo fonti ufficiali, l'incidente sarebbe stato causato dal maltempo.", "ejes": "Según fuentes oficiales, el accidente habría sido causado por el mal tiempo.", "cog": false },
+        { "t": "a quanto pare", "es": "al parecer", "pron": "a cuánto páre", "ej": "A quanto pare, il volo è stato annullato.", "ejes": "Al parecer, el vuelo ha sido cancelado.", "cog": false },
+        { "t": "sarebbe", "es": "sería, habría (no confirmado)", "pron": "sarébbe", "ej": "Il sindaco sarebbe già partito per Roma.", "ejes": "El alcalde ya habría partido a Roma.", "cog": false },
+        { "t": "avrebbe", "es": "habría (no confirmado)", "pron": "avrébbe", "ej": "L'azienda avrebbe licenziato venti persone.", "ejes": "La empresa habría despedido a veinte personas.", "cog": false },
+        { "t": "avrei bisogno", "es": "necesitaría", "pron": "avréi bisóño", "ej": "Avrei bisogno di un favore.", "ejes": "Necesitaría un favor.", "cog": false },
+        { "t": "ti dispiacerebbe", "es": "¿te molestaría?", "pron": "ti dispiacherébbe", "ej": "Ti dispiacerebbe aprire la finestra?", "ejes": "¿Te molestaría abrir la ventana?", "cog": false },
+        { "t": "avrei una domanda", "es": "tendría una pregunta", "pron": "avréi úna dománda", "ej": "Scusi, avrei una domanda.", "ejes": "Disculpe, tendría una pregunta.", "cog": false },
+        { "t": "smentire", "es": "desmentir", "pron": "smentíre", "ej": "Il governo vuole smentire la notizia.", "ejes": "El gobierno quiere desmentir la noticia.", "cog": false },
+        { "t": "la notizia", "es": "la noticia", "pron": "la notítsia", "ej": "La notizia è stata confermata ieri.", "ejes": "La noticia fue confirmada ayer.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Secondo fonti ufficiali, il ministro sarebbe già arrivato.", "es": "Según fuentes oficiales, el ministro ya habría llegado.", "pron": "secóndo fónti ufficiáli il minístro sarébbe yá arriváto" },
+        { "t": "A quanto pare, l'azienda avrebbe chiuso due sedi.", "es": "Al parecer, la empresa habría cerrado dos sedes.", "pron": "a cuánto páre lasiénda avrébbe quiúso dúe sédi" },
+        { "t": "Ti dispiacerebbe spostare la macchina?", "es": "¿Te molestaría mover el auto?", "pron": "ti dispiacherébbe spostáre la máccina" },
+        { "t": "Scusi, avrei una domanda da farle.", "es": "Disculpe, tendría una pregunta para hacerle.", "pron": "scúsi avréi úna dománda da fárle" },
+        { "t": "Il governo ha smentito la notizia ieri sera.", "es": "El gobierno desmintió la noticia anoche.", "pron": "il govérno a smentíto la notítsia ieri séra" }
+      ],
+      "dialogo": {
+        "titulo": "Ultime notizie",
+        "lineas": [
+          { "q": "A", "t": "Hai letto? Il treno sarebbe stato fermato da uno sciopero.", "es": "¿Leíste? El tren habría sido detenido por una huelga." },
+          { "q": "B", "t": "Secondo fonti sindacali, sì, ma l'azienda ha smentito.", "es": "Según fuentes sindicales, sí, pero la empresa lo ha desmentido." },
+          { "q": "A", "t": "Avrei bisogno di arrivare a Napoli entro le tre.", "es": "Necesitaría llegar a Nápoles antes de las tres." },
+          { "q": "B", "t": "Ti dispiacerebbe controllare sul sito, prima di partire?", "es": "¿Te molestaría revisar en el sitio antes de salir?" },
+          { "q": "A", "t": "Certo. A quanto pare, il servizio è regolare.", "es": "Claro. Al parecer, el servicio es normal." },
+          { "q": "B", "t": "Meglio così, avrei odiato un'altra attesa!", "es": "Mejor así, ¡habría odiado otra espera!" }
+        ]
+      },
+      "nota": "En periodismo el condizionale indica que la noticia no está confirmada; no uses esa construcción para tus propias afirmaciones: sonaría evasivo."
+    },
+    {
+      "id": "it-b2-u3-l5",
+      "n": 5,
+      "titulo": "Repaso: consolar y relativizar",
+      "objetivo": "Combinar deseos, lamentos y consuelo en una conversación sobre errores y segundas oportunidades.",
+      "intro": "Cuando alguien lamenta algo, ofrece consuelo con frases hechas y con el condizionale. Truco: «pazienza» y «non fa niente» cierran el tema con calidez.",
+      "palabras": [
+        { "t": "pazienza", "es": "paciencia, qué se le va a hacer", "pron": "patsiénsa", "ej": "Pazienza, andrà meglio la prossima volta.", "ejes": "Paciencia, irá mejor la próxima vez.", "cog": true },
+        { "t": "non fa niente", "es": "no pasa nada", "pron": "non fa niénte", "ej": "Non fa niente, può capitare a tutti.", "ejes": "No pasa nada, le puede pasar a cualquiera.", "cog": false },
+        { "t": "non te la prendere", "es": "no te lo tomes a mal", "pron": "non te la préndere", "ej": "Non te la prendere, non era per te.", "ejes": "No te lo tomes a mal, no era por ti.", "cog": false },
+        { "t": "la prossima volta", "es": "la próxima vez", "pron": "la prósima vólta", "ej": "La prossima volta partiremo prima.", "ejes": "La próxima vez saldremos antes.", "cog": false },
+        { "t": "col senno di poi", "es": "con la sabiduría que da el paso del tiempo", "pron": "col sénno di pói", "ej": "Col senno di poi tutto sembra facile.", "ejes": "Con la sabiduría que da el tiempo todo parece fácil.", "cog": false },
+        { "t": "rimediare", "es": "remediar, arreglar", "pron": "rimediáre", "ej": "Possiamo ancora rimediare all'errore.", "ejes": "Todavía podemos remediar el error.", "cog": false },
+        { "t": "una seconda occasione", "es": "una segunda oportunidad", "pron": "úna secónda occasióne", "ej": "Tutti meritano una seconda occasione.", "ejes": "Todos merecen una segunda oportunidad.", "cog": false },
+        { "t": "imparare dagli errori", "es": "aprender de los errores", "pron": "imparáre dañi erróri", "ej": "Bisogna imparare dagli errori.", "ejes": "Hay que aprender de los errores.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Non fa niente, può succedere a chiunque.", "es": "No pasa nada, le puede pasar a cualquiera.", "pron": "non fa niénte puó succédere a quiúnque" },
+        { "t": "Col senno di poi avrei fatto una scelta diversa.", "es": "Con lo que sé ahora habría hecho una elección distinta.", "pron": "col sénno di pói avréi fátto úna scélta divérsa" },
+        { "t": "Magari avessimo più tempo per rimediare!", "es": "¡Ojalá tuviéramos más tiempo para remediarlo!", "pron": "magári avéssimo piú témpo per rimediáre" },
+        { "t": "Quella volta avrei dovuto fidarmi del mio istinto.", "es": "Esa vez debería haber confiado en mi instinto.", "pron": "cuélla vólta avréi dovúto fidármi del mio instínto" },
+        { "t": "Tutti meritano una seconda occasione.", "es": "Todos merecen una segunda oportunidad.", "pron": "túti méritano úna secónda occasióne" }
+      ],
+      "dialogo": {
+        "titulo": "Un amico che ascolta",
+        "lineas": [
+          { "q": "A", "t": "Ho perso il colloquio perché sono arrivato in ritardo.", "es": "Perdí la entrevista porque llegué tarde." },
+          { "q": "B", "t": "Mi dispiace. Avresti dovuto partire prima, ma capita.", "es": "Lo siento. Deberías haber salido antes, pero pasa." },
+          { "q": "A", "t": "Se solo avessi controllato il traffico!", "es": "¡Si solo hubiera revisado el tráfico!" },
+          { "q": "B", "t": "Col senno di poi è sempre facile. Pazienza.", "es": "Con la sabiduría del tiempo es siempre fácil. Paciencia." },
+          { "q": "A", "t": "Magari mi daranno una seconda occasione.", "es": "A lo mejor me darán una segunda oportunidad." },
+          { "q": "B", "t": "Chiedila! Alla peggio, la prossima volta andrà meglio.", "es": "¡Pídela! En el peor de los casos, la próxima vez irá mejor." }
+        ]
+      },
+      "nota": "Cuando alguien te cuenta un error, evita decir «te lo dije»; en italiano se dice «te l'avevo detto» y suena a reproche. Mejor: «Pazienza, la prossima volta andrà meglio»."
+    }
+  ]
+}

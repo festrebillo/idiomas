@@ -1,0 +1,223 @@
+{
+  "id": "it-b2-u2",
+  "idioma": "it",
+  "nivel": "B2",
+  "n": 2,
+  "titulo": "Situaciones hipotéticas",
+  "resumen": "Aprenderás a imaginar situaciones irreales o pasadas con «se» + congiuntivo imperfetto o trapassato y el condizionale.",
+  "puedo": [
+    "Formar el periodo ipotetico del 2.º tipo: se avessi... farei...",
+    "Formar el periodo ipotetico del 3.º tipo: se avessi saputo... avrei detto...",
+    "Conjugar el congiuntivo imperfetto de los verbos más usados.",
+    "Usar «come se», «qualora» y «a meno che» con congiuntivo.",
+    "Imaginar y comentar situaciones posibles o ya imposibles."
+  ],
+  "gramatica": {
+    "titulo": "Periodo ipotetico: se + congiuntivo, condizionale",
+    "texto": "Para imaginar algo irreal o poco probable usa «se» + congiuntivo, y en la otra parte el condizionale.\n2.º tipo (presente imaginario): Se avessi tempo, viaggerei di più. = congiuntivo imperfetto + condizionale presente.\n3.º tipo (pasado imposible de cambiar): Se avessi saputo, sarei venuto. = congiuntivo trapassato + condizionale passato.\nCongiuntivo imperfetto: -assi, -assi, -asse, -assimo, -aste, -assero (parlassi), -essi (vendessi), -issi (partissi). Irregulares: fossi, avessi, facessi, dicessi, stessi, dessi.\nTruco: la estructura es igual al español (si tuviera... haría...), pero en italiano el indicativo imperfetto en esa posición es solo coloquial: Se avevo tempo, venivo (informal).\nTambién se puede mezclar: Se avessi studiato, ora avrei un lavoro.",
+    "tabla": [
+      ["Se avessi tempo, viaggerei.", "Si tuviera tiempo, viajaría.", "se avéssi témpo viaggeréi"],
+      ["Se fossi ricco, comprerei una casa.", "Si fuera rico, compraría una casa.", "se fóssi ríco compreréi una cása"],
+      ["Se potessi, verrei.", "Si pudiera, vendría.", "se potéssi verréi"],
+      ["Se avessi saputo, sarei venuto.", "Si hubiera sabido, habría venido.", "se avéssi sapúto saréi venúto"],
+      ["Se fossi partito prima, avrei preso il treno.", "Si hubiera salido antes, habría tomado el tren.", "se fóssi partíto príma avréi preso il tréno"]
+    ],
+    "errores": [
+      "No pongas condizionale después de «se»: «se avessi tempo, viaggerei», no «se avrei tempo, viaggerei».",
+      "El congiuntivo de «fare» es «facessi» y el de «dire» es «dicessi», no «fassi» ni «disessi».",
+      "En el 3.º tipo se necesita el trapassato del congiuntivo: «se avessi saputo», no «se avessi saputo»; y el participio con essere concuerda: «se fossi partita»."
+    ]
+  },
+  "practica": [
+    "Escribe diez frases que empiecen con «Se avessi...» o «Se fossi...» sobre lo que harías con un millón de soles (8 minutos).",
+    "Escribe cinco arrepentimientos de tu vida con «Se avessi... avrei...» (7 minutos).",
+    "Conjuga en voz alta el congiuntivo imperfetto de parlare, avere, essere, fare, dire y stare, tres veces (6 minutos).",
+    "Responde en voz alta a la pregunta «Cosa faresti se...?» con cinco situaciones que se te ocurran (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b2-u2-l1",
+      "n": 1,
+      "titulo": "Si tuviera... haría: segundo tipo",
+      "objetivo": "Formar el periodo ipotetico del 2.º tipo para imaginar situaciones irreales en el presente.",
+      "intro": "Se + congiuntivo imperfetto + condizionale presente: «se avessi, farei». Truco: en la parte con «se» el verbo termina en -ssi, en la otra termina en -rei.",
+      "palabras": [
+        { "t": "se potessi", "es": "si pudiera", "pron": "se potéssi", "ej": "Se potessi, partirei domani.", "ejes": "Si pudiera, me iría mañana.", "cog": false },
+        { "t": "se avessi", "es": "si tuviera", "pron": "se avéssi", "ej": "Se avessi più tempo, imparerei il piano.", "ejes": "Si tuviera más tiempo, aprendería piano.", "cog": false },
+        { "t": "se fossi", "es": "si fuera / estuviera", "pron": "se fóssi", "ej": "Se fossi al tuo posto, accetterei.", "ejes": "Si estuviera en tu lugar, aceptaría.", "cog": false },
+        { "t": "vincere alla lotteria", "es": "ganar la lotería", "pron": "víncere alla lotteríia", "ej": "Se potessi vincere alla lotteria, smetterei di lavorare.", "ejes": "Si pudiera ganar la lotería, dejaría de trabajar.", "cog": false },
+        { "t": "trasferirsi", "es": "mudarse (de ciudad o país)", "pron": "trasferírsi", "ej": "Mi piacerebbe trasferirsi in campagna.", "ejes": "Me gustaría mudarme al campo.", "cog": false },
+        { "t": "ne varrebbe la pena", "es": "valdría la pena", "pron": "ne varrébbe la péna", "ej": "Con un buon stipendio ne varrebbe la pena.", "ejes": "Con un buen sueldo valdría la pena.", "cog": false },
+        { "t": "mi piacerebbe", "es": "me gustaría", "pron": "mi piacherébbe", "ej": "Mi piacerebbe vivere a Firenze.", "ejes": "Me gustaría vivir en Florencia.", "cog": false },
+        { "t": "ci penserei", "es": "lo pensaría", "pron": "chi pensereí", "ej": "Non è una cattiva offerta, ci penserei.", "ejes": "No es una mala oferta, lo pensaría.", "cog": false },
+        { "t": "al tuo posto", "es": "en tu lugar", "pron": "al túo pósto", "ej": "Al tuo posto non direi niente.", "ejes": "En tu lugar no diría nada.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Se avessi più tempo, viaggerei di più.", "es": "Si tuviera más tiempo, viajaría más.", "pron": "se avéssi piú témpo viaggeréi di piú" },
+        { "t": "Se fossi ricco, comprerei una casa sul mare.", "es": "Si fuera rico, compraría una casa frente al mar.", "pron": "se fóssi ríco compreréi úna cása sul máre" },
+        { "t": "Al tuo posto, accetterei il lavoro a Milano.", "es": "En tu lugar, aceptaría el trabajo en Milán.", "pron": "al túo pósto accetteréi il lavóro a miláno" },
+        { "t": "Se potessi scegliere, vivrei in montagna.", "es": "Si pudiera elegir, viviría en la montaña.", "pron": "se potéssi shéñere vivréi in montáña" },
+        { "t": "Se mi offrissero quel posto, ci penserei seriamente.", "es": "Si me ofrecieran ese puesto, lo pensaría en serio.", "pron": "se mi offríssero cuél pósto chi pensereí seriaménte" }
+      ],
+      "dialogo": {
+        "titulo": "Un sogno ad occhi aperti",
+        "lineas": [
+          { "q": "A", "t": "Cosa faresti se vincessi alla lotteria?", "es": "¿Qué harías si ganaras la lotería?" },
+          { "q": "B", "t": "Mi licenzierei e mi trasferirei in Sicilia.", "es": "Renunciaría y me mudaría a Sicilia." },
+          { "q": "A", "t": "E non ti annoieresti senza lavorare?", "es": "¿Y no te aburrirías sin trabajar?" },
+          { "q": "B", "t": "Forse sì, ma aprirei un piccolo ristorante.", "es": "Quizá sí, pero abriría un pequeño restaurante." },
+          { "q": "A", "t": "Al tuo posto io viaggerei per un anno intero.", "es": "En tu lugar, yo viajaría un año entero." },
+          { "q": "B", "t": "Mi piacerebbe, ma ne varrebbe la pena solo con la famiglia.", "es": "Me gustaría, pero valdría la pena solo con la familia." }
+        ]
+      },
+      "nota": "«Se» siempre lleva congiuntivo en el 2.º tipo. Fíjate: «se potessi» (con congiuntivo) pero «quando posso» (con indicativo) para algo real."
+    },
+    {
+      "id": "it-b2-u2-l2",
+      "n": 2,
+      "titulo": "Congiuntivo imperfetto: las formas",
+      "objetivo": "Conjugar el congiuntivo imperfetto, incluidos los verbos irregulares más frecuentes.",
+      "intro": "Las terminaciones son -ssi, -ssi, -sse, -ssimo, -ste, -ssero sobre la raíz del imperfetto. Truco: parlassi, vendessi, partissi; los irregulares siguen el imperfetto: facevo, facessi; dicevo, dicessi.",
+      "palabras": [
+        { "t": "parlassi", "es": "hablara", "pron": "parlássi", "ej": "Vorrei che tu parlassi più piano.", "ejes": "Quisiera que hablaras más despacio.", "cog": false },
+        { "t": "vendessi", "es": "vendiera", "pron": "vendéssi", "ej": "Se vendessi la macchina, avrei più soldi.", "ejes": "Si vendiera el auto, tendría más dinero.", "cog": false },
+        { "t": "partissi", "es": "partiera, saliera", "pron": "partíssi", "ej": "Se partissi domani, arriverei lunedì.", "ejes": "Si saliera mañana, llegaría el lunes.", "cog": false },
+        { "t": "facessi", "es": "hiciera", "pron": "fachéssi", "ej": "Se facessi sport, starei meglio.", "ejes": "Si hiciera deporte, estaría mejor.", "cog": false },
+        { "t": "dicessi", "es": "dijera", "pron": "dichéssi", "ej": "E se dicessi la verità?", "ejes": "¿Y si dijera la verdad?", "cog": false },
+        { "t": "stessi", "es": "estuviera", "pron": "stéssi", "ej": "Se stessi meglio, uscirei con voi.", "ejes": "Si estuviera mejor, saldría con ustedes.", "cog": false },
+        { "t": "dessi", "es": "diera", "pron": "déssi", "ej": "Se ti dessi un consiglio, lo seguiresti?", "ejes": "Si te diera un consejo, ¿lo seguirías?", "cog": false },
+        { "t": "bevessi", "es": "bebiera", "pron": "bevéssi", "ej": "Se bevessi meno caffè, dormirei meglio.", "ejes": "Si bebiera menos café, dormiría mejor.", "cog": false },
+        { "t": "venissero", "es": "vinieran", "pron": "venísero", "ej": "Se venissero tutti, la sala sarebbe piena.", "ejes": "Si vinieran todos, la sala estaría llena.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Se parlassi meglio l'italiano, lavorerei a Roma.", "es": "Si hablara mejor italiano, trabajaría en Roma.", "pron": "se parlássi méñio litaliáno lavorerei a róma" },
+        { "t": "Se facessi più sport, starei meglio.", "es": "Si hiciera más deporte, estaría mejor.", "pron": "se fachéssi piú spórt stareí méñio" },
+        { "t": "Se tu dicessi la verità, tutti ti capirebbero.", "es": "Si dijeras la verdad, todos te entenderían.", "pron": "se tu dichéssi la veritá túti ti capirébbero" },
+        { "t": "Vorrei che i miei amici venissero alla festa.", "es": "Quisiera que mis amigos vinieran a la fiesta.", "pron": "vorréi ke i miei amíchi venísero alla fésta" },
+        { "t": "Se bevessi meno caffè, dormirei meglio.", "es": "Si bebiera menos café, dormiría mejor.", "pron": "se bevéssi méno caffé dormiréi méñio" }
+      ],
+      "dialogo": {
+        "titulo": "Buoni propositi",
+        "lineas": [
+          { "q": "A", "t": "Dormo male da settimane.", "es": "Duermo mal desde hace semanas." },
+          { "q": "B", "t": "Se bevessi meno caffè, dormiresti meglio.", "es": "Si bebieras menos café, dormirías mejor." },
+          { "q": "A", "t": "Hai ragione, e se facessi un po' di sport la sera?", "es": "Tienes razón, ¿y si hiciera un poco de deporte por la noche?" },
+          { "q": "B", "t": "Meglio di mattina; la sera ti sveglierebbe troppo.", "es": "Mejor por la mañana; por la noche te activaría demasiado." },
+          { "q": "A", "t": "Vorrei che tutto fosse più semplice.", "es": "Quisiera que todo fuera más sencillo." },
+          { "q": "B", "t": "Se partissimo per il weekend, ti rilasseresti.", "es": "Si saliéramos el fin de semana, te relajarías." }
+        ]
+      },
+      "nota": "Para las personas io y tu la forma es idéntica (parlassi); en la lengua escrita se usa el pronombre cuando hay duda: «che io parlassi», «che tu parlassi»."
+    },
+    {
+      "id": "it-b2-u2-l3",
+      "n": 3,
+      "titulo": "Si hubiera sabido: tercer tipo",
+      "objetivo": "Hablar de condiciones pasadas que ya no se pueden cambiar con el periodo ipotetico del 3.º tipo.",
+      "intro": "Se + congiuntivo trapassato (avessi/fossi + participio) + condizionale passato (avrei/sarei + participio). Truco: es una estructura gemela de la española «si hubiera... habría...».",
+      "palabras": [
+        { "t": "se avessi saputo", "es": "si hubiera sabido", "pron": "se avéssi sapúto", "ej": "Se avessi saputo, non sarei venuto.", "ejes": "Si hubiera sabido, no habría venido.", "cog": false },
+        { "t": "se fossi partito", "es": "si hubiera salido", "pron": "se fóssi partíto", "ej": "Se fossi partito prima, non avrei trovato traffico.", "ejes": "Si hubiera salido antes, no habría encontrado tráfico.", "cog": false },
+        { "t": "se avessi studiato", "es": "si hubiera estudiado", "pron": "se avéssi studiáto", "ej": "Se avessi studiato di più, avrei superato l'esame.", "ejes": "Si hubiera estudiado más, habría aprobado el examen.", "cog": false },
+        { "t": "avrei detto", "es": "habría dicho", "pron": "avréi détto", "ej": "Non avrei detto niente senza il tuo permesso.", "ejes": "No habría dicho nada sin tu permiso.", "cog": false },
+        { "t": "sarei arrivato", "es": "habría llegado", "pron": "saréi arriváto", "ej": "In taxi sarei arrivato in tempo.", "ejes": "En taxi habría llegado a tiempo.", "cog": false },
+        { "t": "avrebbero potuto", "es": "habrían podido", "pron": "avrébbero potúto", "ej": "Avrebbero potuto avvisarci prima.", "ejes": "Habrían podido avisarnos antes.", "cog": false },
+        { "t": "superare l'esame", "es": "aprobar el examen", "pron": "superáre lesáme", "ej": "Ho studiato tanto per superare l'esame.", "ejes": "Estudié mucho para aprobar el examen.", "cog": false },
+        { "t": "rimpiangere", "es": "lamentar, añorar", "pron": "rimpiánchere", "ej": "Non voglio rimpiangere questa decisione.", "ejes": "No quiero lamentar esta decisión.", "cog": false },
+        { "t": "a quest'ora", "es": "a esta hora", "pron": "a cuest óra", "ej": "A quest'ora saremmo già a casa.", "ejes": "A esta hora ya estaríamos en casa.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Se avessi saputo la verità, non sarei venuto.", "es": "Si hubiera sabido la verdad, no habría venido.", "pron": "se avéssi sapúto la veritá non saréi venúto" },
+        { "t": "Se fossimo partiti prima, avremmo preso il treno.", "es": "Si hubiéramos salido antes, habríamos tomado el tren.", "pron": "se fossímo partíti príma avrémmo préso il tréno" },
+        { "t": "Se avessi studiato di più, avrei superato l'esame.", "es": "Si hubiera estudiado más, habría aprobado el examen.", "pron": "se avéssi studiáto di piú avréi superáto lesáme" },
+        { "t": "Se tu mi avessi avvisato, ti avrei aiutato.", "es": "Si me hubieras avisado, te habría ayudado.", "pron": "se tu mi avéssi avvisáto ti avréi aiutáto" },
+        { "t": "Se non fosse piovuto, saremmo andati al mare.", "es": "Si no hubiera llovido, habríamos ido a la playa.", "pron": "se non fósse piovúto sarémmo andáti al máre" }
+      ],
+      "dialogo": {
+        "titulo": "Col senno di poi",
+        "lineas": [
+          { "q": "A", "t": "Hai perso il volo, vero?", "es": "Perdiste el vuelo, ¿verdad?" },
+          { "q": "B", "t": "Sì. Se fossi partito mezz'ora prima, non avrei trovato tutto quel traffico.", "es": "Sí. Si hubiera salido media hora antes, no habría encontrado todo ese tráfico." },
+          { "q": "A", "t": "Se mi avessi chiamato, ti avrei portato io.", "es": "Si me hubieras llamado, te habría llevado yo." },
+          { "q": "B", "t": "Lo so, avrei dovuto chiedertelo.", "es": "Lo sé, debí pedírtelo." },
+          { "q": "A", "t": "E il colloquio?", "es": "¿Y la entrevista?" },
+          { "q": "B", "t": "Se avessi avuto più fortuna, a quest'ora sarei già a Torino.", "es": "Si hubiera tenido más suerte, a esta hora ya estaría en Turín." }
+        ]
+      },
+      "nota": "Se mezcla a menudo: «Se avessi studiato (pasado), ora avrei un lavoro (presente)» y «se fossi più paziente (presente), non avrei litigato (pasado)». Es perfectamente correcto."
+    },
+    {
+      "id": "it-b2-u2-l4",
+      "n": 4,
+      "titulo": "Otras hipótesis: come se, qualora, a meno che",
+      "objetivo": "Usar conectores de condición e hipótesis que piden congiuntivo.",
+      "intro": "Más allá de «se» hay conectores que llevan congiuntivo: «come se», «qualora», «a meno che», «a condizione che». Truco: tras «come se» siempre congiuntivo imperfetto o trapassato.",
+      "palabras": [
+        { "t": "come se", "es": "como si", "pron": "cóme se", "ej": "Parla come se sapesse tutto.", "ejes": "Habla como si lo supiera todo.", "cog": false },
+        { "t": "qualora", "es": "en caso de que, si llegara a", "pron": "cualóra", "ej": "Qualora ci fossero problemi, chiamami.", "ejes": "En caso de que hubiera problemas, llámame.", "cog": false },
+        { "t": "a meno che", "es": "a menos que", "pron": "a méno ke", "ej": "Vengo, a meno che non piova.", "ejes": "Voy, a menos que llueva.", "cog": false },
+        { "t": "a condizione che", "es": "con la condición de que", "pron": "a condisióne ke", "ej": "Ti presto la macchina a condizione che tu faccia attenzione.", "ejes": "Te presto el auto con la condición de que tengas cuidado.", "cog": false },
+        { "t": "nel caso in cui", "es": "en el caso de que", "pron": "nel cáso in cúi", "ej": "Nel caso in cui tu non possa venire, avvisami.", "ejes": "En el caso de que no puedas venir, avísame.", "cog": false },
+        { "t": "supponiamo che", "es": "supongamos que", "pron": "supponiámo ke", "ej": "Supponiamo che il progetto fallisca: cosa facciamo?", "ejes": "Supongamos que el proyecto fracase: ¿qué hacemos?", "cog": false },
+        { "t": "ammettiamo che", "es": "admitamos que", "pron": "ammettiámo ke", "ej": "Ammettiamo che tu abbia ragione.", "ejes": "Admitamos que tengas razón.", "cog": false },
+        { "t": "immaginare", "es": "imaginar", "pron": "immaginiáre", "ej": "Prova a immaginare una vita senza telefono.", "ejes": "Intenta imaginar una vida sin teléfono.", "cog": true },
+        { "t": "purché", "es": "siempre que, con tal de que", "pron": "purké", "ej": "Esco con voi purché torniamo presto.", "ejes": "Salgo con ustedes con tal de que volvamos pronto.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Parla come se sapesse tutto, ma non è vero.", "es": "Habla como si lo supiera todo, pero no es cierto.", "pron": "párla cóme se sapésse túto ma non e véro" },
+        { "t": "Mi ha guardato come se non mi avesse mai visto.", "es": "Me miró como si nunca me hubiera visto.", "pron": "mi a guardáto cóme se non mi avésse mai vísto" },
+        { "t": "Qualora ci fossero ritardi, ti avviserò subito.", "es": "En caso de que hubiera retrasos, te avisaré de inmediato.", "pron": "cualóra chi fóssero ritárdi ti avviseró súbito" },
+        { "t": "Vengo a cena, a meno che non mi chiamino dal lavoro.", "es": "Voy a la cena, a menos que me llamen del trabajo.", "pron": "véngo a chéna a méno ke non mi quiámino dal lavóro" },
+        { "t": "Ti presto l'auto purché tu guidi con prudenza.", "es": "Te presto el auto siempre que manejes con prudencia.", "pron": "ti présto lauto purké tu guídi con prudénsa" }
+      ],
+      "dialogo": {
+        "titulo": "Un piano con delle condizioni",
+        "lineas": [
+          { "q": "A", "t": "Allora, domani andiamo in montagna?", "es": "Entonces, ¿mañana vamos a la montaña?" },
+          { "q": "B", "t": "Sì, a meno che non piova.", "es": "Sí, a menos que llueva." },
+          { "q": "A", "t": "E qualora piovesse, cosa facciamo?", "es": "¿Y en caso de que lloviera, qué hacemos?" },
+          { "q": "B", "t": "Andiamo al cinema; ammettiamo che sia una buona alternativa.", "es": "Vamos al cine; admitamos que es una buena alternativa." },
+          { "q": "A", "t": "Ti presto lo zaino purché tu lo riporti pulito.", "es": "Te presto la mochila siempre que la devuelvas limpia." },
+          { "q": "B", "t": "Promesso! Parlate come se fossi sempre io a fare danni.", "es": "¡Prometido! Hablan como si siempre fuera yo quien hace daños." }
+        ]
+      },
+      "nota": "Cuidado: «come se» no es lo mismo que «come». «Come sai» (indicativo) = «como sabes»; «come se sapessi» = «como si supieras»."
+    },
+    {
+      "id": "it-b2-u2-l5",
+      "n": 5,
+      "titulo": "Repaso: imaginar, dudar y lamentar",
+      "objetivo": "Combinar los tres tipos de hipótesis en una conversación natural.",
+      "intro": "Repasa: 2.º tipo para imaginar el presente, 3.º tipo para lamentar el pasado y los conectores con congiuntivo. Truco: antes de hablar pregúntate: ¿hipótesis presente o pasado? Elige imperfetto o trapassato.",
+      "palabras": [
+        { "t": "ipotizzare", "es": "suponer, plantear una hipótesis", "pron": "ipotiddsáre", "ej": "Possiamo ipotizzare diverse soluzioni.", "ejes": "Podemos plantear diversas soluciones.", "cog": true },
+        { "t": "l'ipotesi", "es": "la hipótesis", "pron": "lipótesi", "ej": "L'ipotesi più probabile è un errore umano.", "ejes": "La hipótesis más probable es un error humano.", "cog": true },
+        { "t": "a quest'ora", "es": "a esta hora", "pron": "a cuest óra", "ej": "A quest'ora saremmo già arrivati.", "ejes": "A esta hora ya habríamos llegado.", "cog": false },
+        { "t": "sarebbe meglio", "es": "sería mejor", "pron": "sarébbe méñio", "ej": "Sarebbe meglio chiedere prima.", "ejes": "Sería mejor preguntar antes.", "cog": false },
+        { "t": "magari", "es": "ojalá, quizá", "pron": "magári", "ej": "Magari fosse così facile!", "ejes": "¡Ojalá fuera tan fácil!", "cog": false },
+        { "t": "il rimpianto", "es": "el arrepentimiento", "pron": "il rimpiánto", "ej": "Il rimpianto più grande è non aver viaggiato.", "ejes": "El mayor arrepentimiento es no haber viajado.", "cog": false },
+        { "t": "in teoria", "es": "en teoría", "pron": "in teoría", "ej": "In teoria dovremmo arrivare alle sei.", "ejes": "En teoría deberíamos llegar a las seis.", "cog": true },
+        { "t": "in pratica", "es": "en la práctica", "pron": "in prátika", "ej": "In pratica non è cambiato nulla.", "ejes": "En la práctica no ha cambiado nada.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Se avessi studiato medicina, ora sarei dottore.", "es": "Si hubiera estudiado medicina, ahora sería doctor.", "pron": "se avéssi studiáto medichína óra saréi dottóre" },
+        { "t": "Se potessi tornare indietro, accetterei quell'offerta.", "es": "Si pudiera volver atrás, aceptaría esa oferta.", "pron": "se potéssi tornáre indiétro accettereí cuellofférta" },
+        { "t": "Ammettiamo che abbia ragione lui: cosa cambierebbe?", "es": "Admitamos que él tenga razón: ¿qué cambiaría?", "pron": "ammettiámo ke ábbia radsióne lúi cósa cambierébbe" },
+        { "t": "Sarebbe meglio chiedere prima di decidere.", "es": "Sería mejor preguntar antes de decidir.", "pron": "sarébbe méñio quiedére príma di dechídere" },
+        { "t": "In teoria è facile, in pratica è tutta un'altra cosa.", "es": "En teoría es fácil, en la práctica es otra cosa.", "pron": "in teoría e fáchile in prátika e túta unáltra cósa" }
+      ],
+      "dialogo": {
+        "titulo": "E se fosse andata diversamente?",
+        "lineas": [
+          { "q": "A", "t": "A volte mi chiedo cosa sarebbe successo se avessi accettato quel lavoro a Madrid.", "es": "A veces me pregunto qué habría pasado si hubiera aceptado ese trabajo en Madrid." },
+          { "q": "B", "t": "Magari saresti più felice, o magari no. Non si può sapere.", "es": "Quizá serías más feliz, o quizá no. No se puede saber." },
+          { "q": "A", "t": "In teoria avrei guadagnato di più.", "es": "En teoría habría ganado más." },
+          { "q": "B", "t": "Sì, ma non avresti conosciuto Luisa.", "es": "Sí, pero no habrías conocido a Luisa." },
+          { "q": "A", "t": "Hai ragione. Sarebbe stato un rimpianto diverso.", "es": "Tienes razón. Habría sido un arrepentimiento distinto." },
+          { "q": "B", "t": "Appunto: ogni scelta lascia un rimpianto, qualunque sia.", "es": "Exacto: toda elección deja un arrepentimiento, sea cual sea." }
+        ]
+      },
+      "nota": "En el habla informal oirás «Se lo sapevo, non venivo» (indicativo en las dos partes). Se entiende y es común, pero en B2 conviene dominar la forma estándar con congiuntivo y condizionale."
+    }
+  ]
+}

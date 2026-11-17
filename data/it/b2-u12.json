@@ -1,0 +1,719 @@
+{
+  "id": "it-b2-u12",
+  "idioma": "it",
+  "nivel": "B2",
+  "n": 12,
+  "titulo": "Verbos con infinitivo, gerundio y preposiciones",
+  "resumen": "Aprenderás qué preposición (a, di, da o ninguna) lleva cada verbo antes de un infinitivo, y a usar «stare + gerundio» para acciones en curso.",
+  "puedo": [
+    "Usar verbos que llevan «a» + infinitivo: cominciare a, continuare a.",
+    "Usar verbos que llevan «di» + infinitivo: smettere di, cercare di.",
+    "Usar «stare + gerundio» y «stare per + infinitivo».",
+    "Usar «da + infinitivo»: qualcosa da bere, difficile da capire.",
+    "Elegir bien la preposición sin traducir del español."
+  ],
+  "gramatica": {
+    "titulo": "Verbo + preposición + infinitivo",
+    "texto": "En italiano muchos verbos piden una preposición fija antes de un infinitivo. No hay regla general: hay que aprender el verbo con su preposición.\nCon «a»: cominciare a, continuare a, imparare a, riuscire a, aiutare a, provare a.\nCon «di»: smettere di, cercare di, finire di, decidere di, sperare di, dimenticare di.\nSin preposición: dovere, potere, volere, sapere, preferire, piacere.\nAdemás, «stare + gerundio» expresa una acción que ocurre ahora: sto mangiando, stavo uscendo. «Stare per + infinitivo» indica que algo está a punto de ocurrir: sto per partire.\nTruco: aprende el verbo con su preposición en una frase corta: smettere di fumare.",
+    "tabla": [
+      [
+        "cominciare a lavorare",
+        "empezar a trabajar",
+        "cominchiáre a lavoráre"
+      ],
+      [
+        "continuare a studiare",
+        "seguir estudiando",
+        "continuáre a studiáre"
+      ],
+      [
+        "smettere di fumare",
+        "dejar de fumar",
+        "smétere di fumáre"
+      ],
+      [
+        "cercare di capire",
+        "tratar de entender",
+        "cherkáre di capíre"
+      ],
+      [
+        "sto mangiando",
+        "estoy comiendo",
+        "sto mandyándo"
+      ],
+      [
+        "sto per uscire",
+        "estoy por salir",
+        "sto per ushíre"
+      ]
+    ],
+    "errores": [
+      "«Dejar de + infinitivo» es «smettere di», no «lasciare di»: «Ho smesso di fumare».",
+      "«Tratar de» es «cercare di», no «trattare di»: «Cerco di capire».",
+      "«Stare» + gerundio, no «essere» + gerundio: «Sto leggendo», no «Sono leggendo»."
+    ]
+  },
+  "practica": [
+    "Escribe diez frases con verbos distintos: cinco con «a» y cinco con «di» (8 minutos).",
+    "Di en voz alta qué estás haciendo ahora mismo con «sto + gerundio» (3 minutos).",
+    "Haz una lista de seis cosas que has dejado o empezado este año con «smettere di» y «cominciare a» (6 minutos).",
+    "Escribe cinco frases con «da + infinitivo» sobre tu casa o tu trabajo (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b2-u12-l1",
+      "n": 1,
+      "titulo": "Verbos con «a» + infinitivo",
+      "objetivo": "Usar los verbos que piden «a» antes de un infinitivo.",
+      "intro": "Estos verbos indican inicio, continuidad o esfuerzo y piden «a». Truco: cuando hay idea de avanzar o seguir, casi siempre va «a».",
+      "palabras": [
+        {
+          "t": "cominciare a",
+          "es": "empezar a",
+          "pron": "cominchiáre a",
+          "ej": "Domani devo cominciare a lavorare presto.",
+          "ejes": "Mañana debo empezar a trabajar temprano.",
+          "cog": false
+        },
+        {
+          "t": "continuare a",
+          "es": "seguir, continuar",
+          "pron": "continuáre a",
+          "ej": "Voglio continuare a studiare italiano.",
+          "ejes": "Quiero seguir estudiando italiano.",
+          "cog": true
+        },
+        {
+          "t": "imparare a",
+          "es": "aprender a",
+          "pron": "imparáre a",
+          "ej": "Voglio imparare a guidare.",
+          "ejes": "Quiero aprender a manejar.",
+          "cog": false
+        },
+        {
+          "t": "riuscire a",
+          "es": "lograr",
+          "pron": "riushíre a",
+          "ej": "Spero di riuscire a dormire.",
+          "ejes": "Espero lograr dormir.",
+          "cog": false
+        },
+        {
+          "t": "aiutare a",
+          "es": "ayudar a",
+          "pron": "aiutáre a",
+          "ej": "Posso aiutare a cucinare?",
+          "ejes": "¿Puedo ayudar a cocinar?",
+          "cog": false
+        },
+        {
+          "t": "provare a",
+          "es": "probar a, intentar",
+          "pron": "provváre a",
+          "ej": "Vuoi provare a chiamare Luca?",
+          "ejes": "¿Quieres probar a llamar a Luca?",
+          "cog": false
+        },
+        {
+          "t": "si è messo a",
+          "es": "ponerse a",
+          "pron": "méttersi a",
+          "ej": "Si è messo a piangere.",
+          "ejes": "Se puso a llorar.",
+          "cog": false
+        },
+        {
+          "t": "invitare a",
+          "es": "invitar a",
+          "pron": "invitáre a",
+          "ej": "Vorrei invitare a cena i colleghi.",
+          "ejes": "Quisiera invitar a cenar a los colegas.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Ho cominciato a studiare italiano a gennaio.",
+          "es": "Empecé a estudiar italiano en enero.",
+          "pron": "o cominchiáto a studiáre italiáno a yenáio"
+        },
+        {
+          "t": "Continua a piovere da ieri.",
+          "es": "Sigue lloviendo desde ayer.",
+          "pron": "continúa a piovére da iéri"
+        },
+        {
+          "t": "Non riesco a dormire stanotte.",
+          "es": "No logro dormir esta noche.",
+          "pron": "non riésco a dormíre stanótte"
+        },
+        {
+          "t": "Mi ha invitato a cenare da lei.",
+          "es": "Me invitó a cenar en su casa.",
+          "pron": "mi a invitáto a chenáre da léi"
+        },
+        {
+          "t": "Voglio imparare a suonare il piano.",
+          "es": "Quiero aprender a tocar el piano.",
+          "pron": "vólio imparáre a suonáre il piáno"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Un nuovo hobby",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Ho cominciato a suonare la chitarra.",
+            "es": "Empecé a tocar la guitarra."
+          },
+          {
+            "q": "B",
+            "t": "Che bello! Riesci già a suonare una canzone?",
+            "es": "¡Qué bien! ¿Ya logras tocar una canción?"
+          },
+          {
+            "q": "A",
+            "t": "Quasi. Mia sorella mi aiuta a esercitarmi.",
+            "es": "Casi. Mi hermana me ayuda a practicar."
+          },
+          {
+            "q": "B",
+            "t": "Continua a provare, vedrai che migliori.",
+            "es": "Sigue intentando, verás que mejoras."
+          },
+          {
+            "q": "A",
+            "t": "Grazie! Ti invito a sentire il mio primo concerto.",
+            "es": "¡Gracias! Te invito a escuchar mi primer concierto."
+          }
+        ]
+      },
+      "nota": "Cuando el infinitivo empieza con vocal, «a» se vuelve «ad» en la escritura cuidada: «ad abitare», «ad aiutare». Es opcional en el habla."
+    },
+    {
+      "id": "it-b2-u12-l2",
+      "n": 2,
+      "titulo": "Verbos con «di» + infinitivo",
+      "objetivo": "Usar los verbos que piden «di» antes de un infinitivo.",
+      "intro": "Estos verbos hablan de intención, final o recuerdo y piden «di». Truco: «smettere di», «finire di» y «cercare di» son los tres más útiles.",
+      "palabras": [
+        {
+          "t": "smettere di",
+          "es": "dejar de",
+          "pron": "smétere di",
+          "ej": "Voglio smettere di fumare.",
+          "ejes": "Quiero dejar de fumar.",
+          "cog": false
+        },
+        {
+          "t": "cercare di",
+          "es": "tratar de, intentar",
+          "pron": "cherkáre di",
+          "ej": "Devo cercare di arrivare presto.",
+          "ejes": "Debo tratar de llegar temprano.",
+          "cog": false
+        },
+        {
+          "t": "finire di",
+          "es": "terminar de",
+          "pron": "finíre di",
+          "ej": "Devo finire di lavorare alle sei.",
+          "ejes": "Debo terminar de trabajar a las seis.",
+          "cog": false
+        },
+        {
+          "t": "decidere di",
+          "es": "decidir",
+          "pron": "dechídere di",
+          "ej": "Dobbiamo decidere di partire domani.",
+          "ejes": "Debemos decidir partir mañana.",
+          "cog": true
+        },
+        {
+          "t": "spero di",
+          "es": "esperar, tener la esperanza de",
+          "pron": "speráre di",
+          "ej": "Spero di vederti presto.",
+          "ejes": "Espero verte pronto.",
+          "cog": false
+        },
+        {
+          "t": "dimenticare di",
+          "es": "olvidar",
+          "pron": "dimenticáre di",
+          "ej": "Non devo dimenticare di chiudere la porta.",
+          "ejes": "No debo olvidar cerrar la puerta.",
+          "cog": false
+        },
+        {
+          "t": "ricordati di",
+          "es": "acordarse de",
+          "pron": "ricordársi di",
+          "ej": "Ricordati di comprare il pane.",
+          "ejes": "Acuérdate de comprar pan.",
+          "cog": false
+        },
+        {
+          "t": "penso di",
+          "es": "pensar, tener la intención de",
+          "pron": "pensáre di",
+          "ej": "Penso di andare al mare.",
+          "ejes": "Pienso ir al mar.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Voglio smettere di fumare.",
+          "es": "Quiero dejar de fumar.",
+          "pron": "vólio smétere di fumáre"
+        },
+        {
+          "t": "Cerco di arrivare presto.",
+          "es": "Trato de llegar temprano.",
+          "pron": "chérco di arriváre présto"
+        },
+        {
+          "t": "Ho finito di lavorare alle sei.",
+          "es": "Terminé de trabajar a las seis.",
+          "pron": "o finíto di lavoráre ále sei"
+        },
+        {
+          "t": "Abbiamo deciso di partire domani.",
+          "es": "Decidimos partir mañana.",
+          "pron": "abbiámo dechíso di partíre dománi"
+        },
+        {
+          "t": "Ricordati di comprare il pane.",
+          "es": "Acuérdate de comprar pan.",
+          "pron": "ricórdati di compráre il páne"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Buoni propositi",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Quest'anno ho deciso di smettere di fumare.",
+            "es": "Este año decidí dejar de fumar."
+          },
+          {
+            "q": "B",
+            "t": "Complimenti! Cerchi di fare sport?",
+            "es": "¡Felicitaciones! ¿Tratas de hacer deporte?"
+          },
+          {
+            "q": "A",
+            "t": "Sì, spero di correre tre volte a settimana.",
+            "es": "Sí, espero correr tres veces por semana."
+          },
+          {
+            "q": "B",
+            "t": "Ricordati di bere molta acqua.",
+            "es": "Acuérdate de beber mucha agua."
+          },
+          {
+            "q": "A",
+            "t": "Non dimenticherò di farlo.",
+            "es": "No me olvidaré de hacerlo."
+          }
+        ]
+      },
+      "nota": "Con «pensare» hay dos usos: «pensare di + infinitivo» = tener la intención; «pensare a + algo» = pensar en algo: «Penso a mia madre»."
+    },
+    {
+      "id": "it-b2-u12-l3",
+      "n": 3,
+      "titulo": "«Stare» + gerundio y «stare per»",
+      "objetivo": "Decir lo que estás haciendo ahora y lo que estás a punto de hacer.",
+      "intro": "«Stare + gerundio» es el «estoy + -ando/-iendo» español. Truco: el gerundio italiano es -ando (-are) o -endo (-ere, -ire): mangiando, leggendo, dormendo.",
+      "palabras": [
+        {
+          "t": "sto mangiando",
+          "es": "estoy comiendo",
+          "pron": "sto mandyándo",
+          "ej": "Non posso rispondere: sto mangiando.",
+          "ejes": "No puedo responder: estoy comiendo.",
+          "cog": false
+        },
+        {
+          "t": "sto leggendo",
+          "es": "estoy leyendo",
+          "pron": "sto ledyéndo",
+          "ej": "Sto leggendo un libro molto bello.",
+          "ejes": "Estoy leyendo un libro muy lindo.",
+          "cog": false
+        },
+        {
+          "t": "stai facendo",
+          "es": "estás haciendo",
+          "pron": "stái fachéndo",
+          "ej": "Che cosa stai facendo?",
+          "ejes": "¿Qué estás haciendo?",
+          "cog": false
+        },
+        {
+          "t": "stavo uscendo",
+          "es": "estaba saliendo",
+          "pron": "stávo ushéndo",
+          "ej": "Stavo uscendo quando hai chiamato.",
+          "ejes": "Estaba saliendo cuando llamaste.",
+          "cog": false
+        },
+        {
+          "t": "stanno arrivando",
+          "es": "están llegando",
+          "pron": "stánno arrivándo",
+          "ej": "Gli ospiti stanno arrivando.",
+          "ejes": "Los invitados están llegando.",
+          "cog": false
+        },
+        {
+          "t": "sto per partire",
+          "es": "estoy por partir",
+          "pron": "sto per partíre",
+          "ej": "Sto per partire per Roma.",
+          "ejes": "Estoy por partir a Roma.",
+          "cog": false
+        },
+        {
+          "t": "stava per piovere",
+          "es": "estaba por llover",
+          "pron": "stáva per piovére",
+          "ej": "Stava per piovere quando siamo usciti.",
+          "ejes": "Estaba por llover cuando salimos.",
+          "cog": false
+        },
+        {
+          "t": "in questo momento",
+          "es": "en este momento",
+          "pron": "in cuésto moménto",
+          "ej": "In questo momento sto lavorando.",
+          "ejes": "En este momento estoy trabajando.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Che cosa stai facendo?",
+          "es": "¿Qué estás haciendo?",
+          "pron": "ke cósa stái fachéndo"
+        },
+        {
+          "t": "Sto leggendo un libro molto bello.",
+          "es": "Estoy leyendo un libro muy lindo.",
+          "pron": "sto ledyéndo un líbro mólto béllo"
+        },
+        {
+          "t": "Stavo uscendo quando hai chiamato.",
+          "es": "Estaba saliendo cuando llamaste.",
+          "pron": "stávo ushéndo cuándo ái quiamáto"
+        },
+        {
+          "t": "Gli ospiti stanno arrivando.",
+          "es": "Los invitados están llegando.",
+          "pron": "lli óspiti stánno arrivándo"
+        },
+        {
+          "t": "Sto per partire per Roma.",
+          "es": "Estoy por partir a Roma.",
+          "pron": "sto per partíre per róma"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Al telefono",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Pronto, che cosa stai facendo?",
+            "es": "Aló, ¿qué estás haciendo?"
+          },
+          {
+            "q": "B",
+            "t": "Sto cucinando. E tu?",
+            "es": "Estoy cocinando. ¿Y tú?"
+          },
+          {
+            "q": "A",
+            "t": "Stavo uscendo, ma sto per tornare a casa.",
+            "es": "Estaba saliendo, pero estoy por volver a casa."
+          },
+          {
+            "q": "B",
+            "t": "Perché? Sta piovendo?",
+            "es": "¿Por qué? ¿Está lloviendo?"
+          },
+          {
+            "q": "A",
+            "t": "Sì, e stanno arrivando le nuvole nere.",
+            "es": "Sí, y están llegando nubes negras."
+          }
+        ]
+      },
+      "nota": "Con «stare + gerundio», los pronombres pueden ir antes o después: «Lo sto leggendo» o «Sto leggendolo». Los irregulares frecuentes: fare (facendo), dire (dicendo), bere (bevendo)."
+    },
+    {
+      "id": "it-b2-u12-l4",
+      "n": 4,
+      "titulo": "«Da» + infinitivo",
+      "objetivo": "Decir qué hay que hacer o qué se puede hacer con «da» + infinitivo.",
+      "intro": "«Da» + infinitivo expresa utilidad o necesidad: qualcosa da mangiare (algo para comer). Truco: tras un adjetivo, «da» indica si algo es fácil o difícil de hacer.",
+      "palabras": [
+        {
+          "t": "qualcosa da bere",
+          "es": "algo de beber",
+          "pron": "cualcósa da bére",
+          "ej": "Vuoi qualcosa da bere?",
+          "ejes": "¿Quieres algo de beber?",
+          "cog": false
+        },
+        {
+          "t": "niente da fare",
+          "es": "no hay nada que hacer",
+          "pron": "niénte da fáre",
+          "ej": "Per oggi non c'è niente da fare.",
+          "ejes": "Por hoy no hay nada que hacer.",
+          "cog": false
+        },
+        {
+          "t": "molto da fare",
+          "es": "mucho por hacer",
+          "pron": "mólto da fáre",
+          "ej": "Abbiamo molto da fare oggi.",
+          "ejes": "Tenemos mucho por hacer hoy.",
+          "cog": false
+        },
+        {
+          "t": "difficile da capire",
+          "es": "difícil de entender",
+          "pron": "diffíchile da capíre",
+          "ej": "Questo testo è difficile da capire.",
+          "ejes": "Este texto es difícil de entender.",
+          "cog": false
+        },
+        {
+          "t": "facile da usare",
+          "es": "fácil de usar",
+          "pron": "fáchile da usáre",
+          "ej": "L'applicazione è facile da usare.",
+          "ejes": "La aplicación es fácil de usar.",
+          "cog": false
+        },
+        {
+          "t": "da vedere",
+          "es": "para ver, digno de verse",
+          "pron": "da vedére",
+          "ej": "Roma è una città da vedere.",
+          "ejes": "Roma es una ciudad digna de verse.",
+          "cog": false
+        },
+        {
+          "t": "da mangiare",
+          "es": "para comer",
+          "pron": "da mandyáre",
+          "ej": "Ho portato qualcosa da mangiare.",
+          "ejes": "Traje algo para comer.",
+          "cog": false
+        },
+        {
+          "t": "cose da fare",
+          "es": "cosas por hacer",
+          "pron": "cóse da fáre",
+          "ej": "Ho tante cose da fare oggi.",
+          "ejes": "Tengo muchas cosas por hacer hoy.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Vuoi qualcosa da bere?",
+          "es": "¿Quieres algo de beber?",
+          "pron": "vuói cualcósa da bére"
+        },
+        {
+          "t": "Questo testo è difficile da capire.",
+          "es": "Este texto es difícil de entender.",
+          "pron": "cuésto tésto e diffíchile da capíre"
+        },
+        {
+          "t": "L'applicazione è facile da usare.",
+          "es": "La aplicación es fácil de usar.",
+          "pron": "laplicatsióne e fáchile da usáre"
+        },
+        {
+          "t": "Abbiamo molto da fare oggi.",
+          "es": "Tenemos mucho por hacer hoy.",
+          "pron": "abbiámo mólto da fáre ódyi"
+        },
+        {
+          "t": "Roma è una città da vedere.",
+          "es": "Roma es una ciudad digna de verse.",
+          "pron": "róma e úna chittá da vedére"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Una giornata piena",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Hai tante cose da fare oggi?",
+            "es": "¿Tienes muchas cosas por hacer hoy?"
+          },
+          {
+            "q": "B",
+            "t": "Sì, ho molto da fare e poco tempo.",
+            "es": "Sí, tengo mucho por hacer y poco tiempo."
+          },
+          {
+            "q": "A",
+            "t": "Vuoi qualcosa da bere o da mangiare?",
+            "es": "¿Quieres algo de beber o de comer?"
+          },
+          {
+            "q": "B",
+            "t": "Un caffè, grazie. Questo programma è difficile da usare.",
+            "es": "Un café, gracias. Este programa es difícil de usar."
+          },
+          {
+            "q": "A",
+            "t": "Ti aiuto io, è facile da imparare.",
+            "es": "Te ayudo yo, es fácil de aprender."
+          }
+        ]
+      },
+      "nota": "«Da» + infinitivo también indica la finalidad de un objeto: «una tazza da tè» (una taza para té), «una sala da pranzo» (un comedor). Con «niente» y «qualcosa» se usa siempre: «niente da dire», «qualcosa da leggere»."
+    },
+    {
+      "id": "it-b2-u12-l5",
+      "n": 5,
+      "titulo": "Repaso: a, di, da y gerundio",
+      "objetivo": "Combinar las construcciones de la unidad en situaciones cotidianas.",
+      "intro": "Repasa todos los patrones. Truco: «a» para empezar y seguir; «di» para dejar, terminar e intentar; «da» para cosas por hacer; «stare + gerundio» para lo que pasa ahora.",
+      "palabras": [
+        {
+          "t": "cominciare a",
+          "es": "empezar a",
+          "pron": "cominchiáre a",
+          "ej": "Domani devo cominciare a lavorare presto.",
+          "ejes": "Mañana debo empezar a trabajar temprano.",
+          "cog": false
+        },
+        {
+          "t": "smettere di",
+          "es": "dejar de",
+          "pron": "smétere di",
+          "ej": "Voglio smettere di fumare.",
+          "ejes": "Quiero dejar de fumar.",
+          "cog": false
+        },
+        {
+          "t": "continuare a",
+          "es": "seguir",
+          "pron": "continuáre a",
+          "ej": "Voglio continuare a imparare.",
+          "ejes": "Quiero seguir aprendiendo.",
+          "cog": true
+        },
+        {
+          "t": "cercare di",
+          "es": "tratar de",
+          "pron": "cherkáre di",
+          "ej": "Devo cercare di arrivare presto.",
+          "ejes": "Debo tratar de llegar temprano.",
+          "cog": false
+        },
+        {
+          "t": "sto studiando",
+          "es": "estoy estudiando",
+          "pron": "sto studiándo",
+          "ej": "Adesso sto studiando.",
+          "ejes": "Ahora estoy estudiando.",
+          "cog": false
+        },
+        {
+          "t": "sto per",
+          "es": "estoy por",
+          "pron": "sto per",
+          "ej": "Sto per uscire.",
+          "ejes": "Estoy por salir.",
+          "cog": false
+        },
+        {
+          "t": "da fare",
+          "es": "por hacer",
+          "pron": "da fáre",
+          "ej": "Ho molto da fare.",
+          "ejes": "Tengo mucho por hacer.",
+          "cog": false
+        },
+        {
+          "t": "riuscire a",
+          "es": "lograr",
+          "pron": "riushíre a",
+          "ej": "Spero di riuscire a dormire.",
+          "ejes": "Espero lograr dormir.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Smetti di lamentarti e comincia a lavorare!",
+          "es": "¡Deja de quejarte y empieza a trabajar!",
+          "pron": "smétti di lamentárti e cominchia a lavoráre"
+        },
+        {
+          "t": "Cerco di non arrivare mai tardi.",
+          "es": "Trato de no llegar nunca tarde.",
+          "pron": "chérco di non arriváre máii tárdi"
+        },
+        {
+          "t": "Adesso sto studiando e non posso uscire.",
+          "es": "Ahora estoy estudiando y no puedo salir.",
+          "pron": "adésso sto studiándo e non pósso ushíre"
+        },
+        {
+          "t": "Sto per uscire, ho ancora molto da fare.",
+          "es": "Estoy por salir, todavía tengo mucho por hacer.",
+          "pron": "sto per ushíre o ancóra mólto da fáre"
+        },
+        {
+          "t": "Non riesco a capire questa regola.",
+          "es": "No logro entender esta regla.",
+          "pron": "non riésco a capíre cuésta régola"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Una giornata di studio",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Che cosa stai facendo?",
+            "es": "¿Qué estás haciendo?"
+          },
+          {
+            "q": "B",
+            "t": "Sto studiando. Cerco di finire entro le sei.",
+            "es": "Estoy estudiando. Trato de terminar antes de las seis."
+          },
+          {
+            "q": "A",
+            "t": "Non riesci a concentrarti?",
+            "es": "¿No logras concentrarte?"
+          },
+          {
+            "q": "B",
+            "t": "Sì, ma ho ancora molto da fare.",
+            "es": "Sí, pero todavía tengo mucho por hacer."
+          },
+          {
+            "q": "A",
+            "t": "Smetti di pensare e continua a studiare!",
+            "es": "¡Deja de pensar y sigue estudiando!"
+          }
+        ]
+      },
+      "nota": "Si dudas de la preposición, busca el verbo en el diccionario: casi todos indican «+ a», «+ di» o «+ inf.». Con el tiempo se memorizan por frecuencia."
+    }
+  ]
+}

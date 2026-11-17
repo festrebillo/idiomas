@@ -1,0 +1,724 @@
+{
+  "id": "pt-b2-u4",
+  "idioma": "pt",
+  "nivel": "B2",
+  "n": 4,
+  "titulo": "Pasiva avanzada y «hacer que otro haga»",
+  "resumen": "Aprenderás a distinguir «foi feito» de «está feito», y a decir que otra persona hace algo por ti con «mandar / fazer / deixar + infinitivo».",
+  "puedo": [
+    "Distinguir la acción («foi aprovado») del estado («está aprovado»).",
+    "Leer noticias y avisos formales con pasiva.",
+    "Decir que alguien hace algo por mí: «mandei consertar o carro».",
+    "Usar «fazer» y «deixar» + infinitivo: «ele me fez rir», «deixe entrar».",
+    "Pedir y contratar servicios: orçamento, reforma, conserto."
+  ],
+  "gramatica": {
+    "titulo": "Quién hace la acción: mandar / fazer / deixar + infinitivo",
+    "texto": "En portugués hay una forma muy natural de decir que otra persona hace algo por ti: mandar + infinitivo. Mandei consertar o carro (Hice arreglar el carro / Llevé el carro a arreglar). Aquí tú no lo arreglas; lo arregla otro.\nOtras dos fórmulas parecidas: «fazer + infinitivo» (causar que alguien haga algo): O filme me fez chorar (La película me hizo llorar); y «deixar + infinitivo» (permitir): Deixe eles entrarem.\nCon la pasiva distingue acción y estado: «foi aprovado» (fue aprobado: la acción) frente a «está aprovado» (está aprobado: el resultado). También se usa «ter + participio» para el resultado: Tenho o carro consertado.\nTruco: si no sabes qué verbo usar, pregúntate: ¿lo mando hacer?, ¿lo hago hacer?, ¿lo dejo hacer?",
+    "tabla": [
+      [
+        "mandei consertar o carro",
+        "hice arreglar el carro",
+        "mandéi konsertár u kárru"
+      ],
+      [
+        "fiz ele esperar",
+        "lo hice esperar",
+        "fís éli esperár"
+      ],
+      [
+        "deixe ele entrar",
+        "déjalo entrar",
+        "déyshi éli entrár"
+      ],
+      [
+        "foi aprovado",
+        "fue aprobado",
+        "fói aprovádu"
+      ],
+      [
+        "está aprovado",
+        "está aprobado",
+        "está aprovádu"
+      ],
+      [
+        "mandou buscar",
+        "mandó buscar",
+        "mandóu buskár"
+      ]
+    ],
+    "errores": [
+      "No traduzcas «hice arreglar el carro» como «fiz arrumar o carro» si quieres decir que lo arregló otra persona: usa «mandei consertar».",
+      "Con «fazer + infinitivo», el pronombre va antes del infinitivo: «ele me fez rir», no «ele fez-me rir» en conversación.",
+      "No confundas «foi cancelado» (fue cancelado, la acción) con «está cancelado» (está cancelado, el estado actual)."
+    ]
+  },
+  "practica": [
+    "Escribe 6 cosas que mandas hacer o harías hacer a otros: «mandei lavar o carro...» (7 minutos).",
+    "Lee un titular de noticias en portugués y subraya 4 verbos en pasiva (foi + participio) (5 minutos).",
+    "Pide un orçamento imaginario a un amigo diciendo qué quieres que se arregle (6 minutos).",
+    "Escribe 4 frases con «fazer + infinitivo»: «Isso me fez pensar...» (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b2-u4-l1",
+      "n": 1,
+      "titulo": "Acción y estado: foi feito / está feito",
+      "objetivo": "Diferenciar la pasiva de acción de la pasiva de estado.",
+      "intro": "«Foi» cuenta el momento en que algo se hizo. «Está» describe cómo queda. Truco: pregunta «¿cuándo ocurrió?» (foi) o «¿cómo está ahora?» (está).",
+      "palabras": [
+        {
+          "t": "foi aprovado",
+          "es": "fue aprobado",
+          "pron": "fói aprovádu",
+          "ej": "O orçamento foi aprovado ontem.",
+          "ejes": "El presupuesto fue aprobado ayer.",
+          "cog": false
+        },
+        {
+          "t": "está aprovado",
+          "es": "está aprobado",
+          "pron": "está aprovádu",
+          "ej": "O projeto já está aprovado.",
+          "ejes": "El proyecto ya está aprobado.",
+          "cog": false
+        },
+        {
+          "t": "foi cancelado",
+          "es": "fue cancelado",
+          "pron": "fói kanseládu",
+          "ej": "O voo foi cancelado por causa do tempo.",
+          "ejes": "El vuelo fue cancelado por el clima.",
+          "cog": false
+        },
+        {
+          "t": "está cancelado",
+          "es": "está cancelado",
+          "pron": "está kanseládu",
+          "ej": "O curso está cancelado até segunda ordem.",
+          "ejes": "El curso está cancelado hasta nuevo aviso.",
+          "cog": false
+        },
+        {
+          "t": "está reservado",
+          "es": "está reservado",
+          "pron": "está rezervádu",
+          "ej": "O quarto já está reservado.",
+          "ejes": "La habitación ya está reservada.",
+          "cog": false
+        },
+        {
+          "t": "foi entregue",
+          "es": "fue entregado",
+          "pron": "fói entrégui",
+          "ej": "O pacote foi entregue de manhã.",
+          "ejes": "El paquete fue entregado por la mañana.",
+          "cog": false
+        },
+        {
+          "t": "está pronto",
+          "es": "está listo",
+          "pron": "está próntu",
+          "ej": "O relatório está pronto.",
+          "ejes": "El informe está listo.",
+          "cog": false
+        },
+        {
+          "t": "foi divulgado",
+          "es": "fue divulgado",
+          "pron": "fói divulgádu",
+          "ej": "O resultado foi divulgado hoje.",
+          "ejes": "El resultado fue divulgado hoy.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "O contrato foi assinado ontem.",
+          "es": "El contrato fue firmado ayer.",
+          "pron": "u kontrátu fói asinádu óntein"
+        },
+        {
+          "t": "O contrato já está assinado.",
+          "es": "El contrato ya está firmado.",
+          "pron": "u kontrátu yá está asinádu"
+        },
+        {
+          "t": "A reunião foi cancelada por causa da chuva.",
+          "es": "La reunión fue cancelada por la lluvia.",
+          "pron": "a reuniáun fói kanselára por káuza da shúva"
+        },
+        {
+          "t": "A mesa está reservada para as oito.",
+          "es": "La mesa está reservada para las ocho.",
+          "pron": "a méza está rezervára pára as óitu"
+        },
+        {
+          "t": "O pedido foi entregue e a conta está paga.",
+          "es": "El pedido fue entregado y la cuenta está pagada.",
+          "pron": "u pedídu fói entrégui i a kónta está pága"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Na recepção do hotel",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Boa tarde. O meu quarto já está reservado?",
+            "es": "Buenas tardes. ¿Mi habitación ya está reservada?"
+          },
+          {
+            "q": "B",
+            "t": "Sim, a reserva foi confirmada hoje cedo.",
+            "es": "Sí, la reserva fue confirmada hoy temprano."
+          },
+          {
+            "q": "A",
+            "t": "E o pagamento? Foi aprovado?",
+            "es": "¿Y el pago? ¿Fue aprobado?"
+          },
+          {
+            "q": "B",
+            "t": "Foi, e a fatura já está pronta para o senhor.",
+            "es": "Sí, y la factura ya está lista para usted."
+          },
+          {
+            "q": "A",
+            "t": "Ótimo. O café da manhã está incluído?",
+            "es": "Perfecto. ¿El desayuno está incluido?"
+          }
+        ]
+      },
+      "nota": "El participio concuerda: «a reserva está confirmada», «os quartos estão reservados». Con «foi» y «está» se aplica igual."
+    },
+    {
+      "id": "pt-b2-u4-l2",
+      "n": 2,
+      "titulo": "Pasiva en noticias y textos formales",
+      "objetivo": "Entender y usar pasiva con agente en textos formales.",
+      "intro": "En los periódicos la pasiva es el estilo habitual. Truco: busca «foi + participio + pelo / pela / por» y sabrás quién hizo qué.",
+      "palabras": [
+        {
+          "t": "foi assinado",
+          "es": "fue firmado",
+          "pron": "fói asinádu",
+          "ej": "O acordo foi assinado pelas duas empresas.",
+          "ejes": "El acuerdo fue firmado por las dos empresas.",
+          "cog": false
+        },
+        {
+          "t": "foi anunciado",
+          "es": "fue anunciado",
+          "pron": "fói anunsiádu",
+          "ej": "O novo plano foi anunciado ontem.",
+          "ejes": "El nuevo plan fue anunciado ayer.",
+          "cog": false
+        },
+        {
+          "t": "foi investigado",
+          "es": "fue investigado",
+          "pron": "fói investigádu",
+          "ej": "O caso foi investigado pela polícia.",
+          "ejes": "El caso fue investigado por la policía.",
+          "cog": false
+        },
+        {
+          "t": "foi eleito",
+          "es": "fue elegido",
+          "pron": "fói eléitu",
+          "ej": "O novo presidente foi eleito em outubro.",
+          "ejes": "El nuevo presidente fue elegido en octubre.",
+          "cog": false
+        },
+        {
+          "t": "foi demitido",
+          "es": "fue despedido",
+          "pron": "fói dyimitídu",
+          "ej": "O diretor foi demitido pela empresa.",
+          "ejes": "El director fue despedido por la empresa.",
+          "cog": false
+        },
+        {
+          "t": "será realizado",
+          "es": "será realizado",
+          "pron": "será realizádu",
+          "ej": "O evento será realizado em março.",
+          "ejes": "El evento será realizado en marzo.",
+          "cog": false
+        },
+        {
+          "t": "foi aberta",
+          "es": "fue abierta",
+          "pron": "fói abérta",
+          "ej": "A investigação foi aberta ontem.",
+          "ejes": "La investigación fue abierta ayer.",
+          "cog": false
+        },
+        {
+          "t": "a medida",
+          "es": "la medida",
+          "pron": "a medída",
+          "ej": "A medida foi criticada por muitos.",
+          "ejes": "La medida fue criticada por muchos.",
+          "cog": true
+        }
+      ],
+      "frases": [
+        {
+          "t": "O projeto de lei foi aprovado pelo Senado.",
+          "es": "El proyecto de ley fue aprobado por el Senado.",
+          "pron": "u proyétu dyi léi fói aprovádu pélu senádu"
+        },
+        {
+          "t": "A obra será entregue pela prefeitura em junho.",
+          "es": "La obra será entregada por la alcaldía en junio.",
+          "pron": "a óbra será entrégui péla prefeitúra ein yúñu"
+        },
+        {
+          "t": "Dois suspeitos foram presos pela polícia.",
+          "es": "Dos sospechosos fueron detenidos por la policía.",
+          "pron": "dóis suspéitus fórau prézus péla polícia"
+        },
+        {
+          "t": "A medida foi criticada pela oposição.",
+          "es": "La medida fue criticada por la oposición.",
+          "pron": "a medída fói kritikáda péla opozisáun"
+        },
+        {
+          "t": "O novo prefeito foi eleito com ampla maioria.",
+          "es": "El nuevo alcalde fue elegido con amplia mayoría.",
+          "pron": "u nóvu preféitu fói eléitu kon ámpla maioría"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Comentando as notícias",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Você viu que o novo plano foi anunciado ontem?",
+            "es": "¿Viste que el nuevo plan fue anunciado ayer?"
+          },
+          {
+            "q": "B",
+            "t": "Vi. Dizem que a medida foi criticada pela oposição.",
+            "es": "Vi. Dicen que la medida fue criticada por la oposición."
+          },
+          {
+            "q": "A",
+            "t": "E o acordo com a empresa? Foi assinado?",
+            "es": "¿Y el acuerdo con la empresa? ¿Fue firmado?"
+          },
+          {
+            "q": "B",
+            "t": "Foi assinado pelas duas partes na semana passada.",
+            "es": "Fue firmado por las dos partes la semana pasada."
+          },
+          {
+            "q": "A",
+            "t": "Quando o resultado será divulgado oficialmente?",
+            "es": "¿Cuándo será divulgado oficialmente el resultado?"
+          }
+        ]
+      },
+      "nota": "En conversación, los brasileños dicen «assinaram o contrato» más que «o contrato foi assinado». La pasiva con agente es más típica del periodismo."
+    },
+    {
+      "id": "pt-b2-u4-l3",
+      "n": 3,
+      "titulo": "Mandar, fazer, deixar + infinitivo",
+      "objetivo": "Decir que otra persona hace algo por mí, por mi causa o con mi permiso.",
+      "intro": "Tres verbos, tres ideas. Truco: «mandar» = encargar, «fazer» = provocar, «deixar» = permitir.",
+      "palabras": [
+        {
+          "t": "mandar consertar",
+          "es": "hacer arreglar",
+          "pron": "mandár konsertár",
+          "ej": "Vou mandar consertar o notebook.",
+          "ejes": "Voy a hacer arreglar la laptop.",
+          "cog": false
+        },
+        {
+          "t": "mandar fazer",
+          "es": "mandar hacer",
+          "pron": "mandár fazér",
+          "ej": "Eu quero mandar fazer um terno.",
+          "ejes": "Quiero mandar hacer un traje.",
+          "cog": false
+        },
+        {
+          "t": "mandar embora",
+          "es": "despedir / echar",
+          "pron": "mandár embóra",
+          "ej": "Vão mandar embora metade da equipe.",
+          "ejes": "Van a despedir a la mitad del equipo.",
+          "cog": false
+        },
+        {
+          "t": "mandar buscar",
+          "es": "mandar a recoger",
+          "pron": "mandár buskár",
+          "ej": "Vou mandar buscar as encomendas.",
+          "ejes": "Voy a mandar a recoger los pedidos.",
+          "cog": false
+        },
+        {
+          "t": "fazer esperar",
+          "es": "hacer esperar",
+          "pron": "fazér esperár",
+          "ej": "Não gosto de fazer esperar os clientes.",
+          "ejes": "No me gusta hacer esperar a los clientes.",
+          "cog": false
+        },
+        {
+          "t": "fazer rir",
+          "es": "hacer reír",
+          "pron": "fazér rír",
+          "ej": "Ele sabe fazer rir qualquer plateia.",
+          "ejes": "Él sabe hacer reír a cualquier público.",
+          "cog": false
+        },
+        {
+          "t": "deixar entrar",
+          "es": "dejar entrar",
+          "pron": "deishár entrár",
+          "ej": "Os guardas não vão deixar entrar ninguém.",
+          "ejes": "Los guardias no van a dejar entrar a nadie.",
+          "cog": false
+        },
+        {
+          "t": "deixar sair",
+          "es": "dejar salir",
+          "pron": "deishár saír",
+          "ej": "Meu pai não quer deixar sair tarde.",
+          "ejes": "Mi padre no quiere dejar salir tarde.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Mandei consertar o carro na oficina.",
+          "es": "Hice arreglar el carro en el taller.",
+          "pron": "mandéi konsertár u kárru na ofisína"
+        },
+        {
+          "t": "Ele me fez rir a tarde toda.",
+          "es": "Él me hizo reír toda la tarde.",
+          "pron": "éli mi fís rír a tárdyi tóda"
+        },
+        {
+          "t": "Não me deixaram entrar sem convite.",
+          "es": "No me dejaron entrar sin invitación.",
+          "pron": "náun mi deishárau entrár sin konvítyi"
+        },
+        {
+          "t": "A chefe mandou todos saírem mais cedo.",
+          "es": "La jefa mandó a todos a salir más temprano.",
+          "pron": "a shéfi mandóu tódus saírem máis sédu"
+        },
+        {
+          "t": "Mandamos fazer o bolo na padaria da esquina.",
+          "es": "Mandamos hacer el pastel en la panadería de la esquina.",
+          "pron": "mandámus fazér u bólu na padaría da eskína"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Em casa, antes da festa",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Você mesma fez o bolo de aniversário?",
+            "es": "¿Tú misma hiciste el pastel de cumpleaños?"
+          },
+          {
+            "q": "B",
+            "t": "Não, mandei fazer na padaria da esquina.",
+            "es": "No, mandé hacerlo en la panadería de la esquina."
+          },
+          {
+            "q": "A",
+            "t": "E a decoração? Quem fez?",
+            "es": "¿Y la decoración? ¿Quién la hizo?"
+          },
+          {
+            "q": "B",
+            "t": "Mandei buscar umas flores e meu irmão montou tudo.",
+            "es": "Mandé buscar unas flores y mi hermano armó todo."
+          },
+          {
+            "q": "A",
+            "t": "Não vai deixar as crianças entrarem na sala antes da hora, né?",
+            "es": "No vas a dejar entrar a los niños a la sala antes de hora, ¿no?"
+          }
+        ]
+      },
+      "nota": "«Mandar fazer um terno» es la forma natural de decir que se lo hace un sastre; nunca digas «fazer um terno» si lo encargas."
+    },
+    {
+      "id": "pt-b2-u4-l4",
+      "n": 4,
+      "titulo": "Contratar y encargar servicios",
+      "objetivo": "Pedir y gestionar servicios con vocabulario de conserto y reforma.",
+      "intro": "Cuando necesitas a alguien que lo haga por ti, usa estas palabras. Truco: la secuencia típica es orçamento, prazo, execução, pagamento.",
+      "palabras": [
+        {
+          "t": "o conserto",
+          "es": "el arreglo",
+          "pron": "u konsértu",
+          "ej": "O conserto do carro ficou caro.",
+          "ejes": "El arreglo del carro salió caro.",
+          "cog": false
+        },
+        {
+          "t": "orçamento",
+          "es": "presupuesto",
+          "pron": "u orsaméntu",
+          "ej": "Peça um orçamento antes de começar.",
+          "ejes": "Pide un presupuesto antes de empezar.",
+          "cog": false
+        },
+        {
+          "t": "a reforma",
+          "es": "la remodelación",
+          "pron": "a reforma",
+          "ej": "A reforma da cozinha demorou dois meses.",
+          "ejes": "La remodelación de la cocina tardó dos meses.",
+          "cog": false
+        },
+        {
+          "t": "o encanador",
+          "es": "el plomero",
+          "pron": "u enkanadór",
+          "ej": "O encanador chega às duas horas.",
+          "ejes": "El plomero llega a las dos.",
+          "cog": false
+        },
+        {
+          "t": "a oficina",
+          "es": "el taller",
+          "pron": "a ofisína",
+          "ej": "Levei o carro para a oficina.",
+          "ejes": "Llevé el carro al taller.",
+          "cog": false
+        },
+        {
+          "t": "o prazo",
+          "es": "el plazo",
+          "pron": "u prázu",
+          "ej": "O prazo da obra é de um mês.",
+          "ejes": "El plazo de la obra es de un mes.",
+          "cog": false
+        },
+        {
+          "t": "contratar",
+          "es": "contratar",
+          "pron": "kontratár",
+          "ej": "Vamos contratar uma empresa especializada.",
+          "ejes": "Vamos a contratar una empresa especializada.",
+          "cog": true
+        },
+        {
+          "t": "o serviço",
+          "es": "el servicio / el trabajo",
+          "pron": "u servísu",
+          "ej": "O serviço ficou muito bem feito.",
+          "ejes": "El trabajo quedó muy bien hecho.",
+          "cog": true
+        }
+      ],
+      "frases": [
+        {
+          "t": "Mandei fazer um orçamento para a reforma.",
+          "es": "Hice hacer un presupuesto para la remodelación.",
+          "pron": "mandéi fazér ún orsaméntu pára a reforma"
+        },
+        {
+          "t": "O prazo do conserto é de três dias úteis.",
+          "es": "El plazo del arreglo es de tres días hábiles.",
+          "pron": "u prázu du konsértu é dyi trés días úteis"
+        },
+        {
+          "t": "Vou mandar o encanador consertar o vazamento.",
+          "es": "Voy a mandar al plomero a arreglar la fuga.",
+          "pron": "vóu mandár u enkanadór konsertár u vazaméntu"
+        },
+        {
+          "t": "Contratamos uma empresa para fazer o serviço.",
+          "es": "Contratamos una empresa para hacer el trabajo.",
+          "pron": "kontratámus úma empréza pára fazér u servísu"
+        },
+        {
+          "t": "O carro está na oficina desde ontem.",
+          "es": "El carro está en el taller desde ayer.",
+          "pron": "u kárru está na ofisína dézdyi óntein"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Reforma na cozinha",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "A cozinha está horrível. Preciso mandar fazer uma reforma.",
+            "es": "La cocina está horrible. Necesito mandar hacer una remodelación."
+          },
+          {
+            "q": "B",
+            "t": "Já pediu um orçamento?",
+            "es": "¿Ya pediste un presupuesto?"
+          },
+          {
+            "q": "A",
+            "t": "Pedi três. Um deles dá o prazo de um mês.",
+            "es": "Pedí tres. Uno de ellos da un plazo de un mes."
+          },
+          {
+            "q": "B",
+            "t": "Contrate quem fez a reforma do meu vizinho. O serviço ficou ótimo.",
+            "es": "Contrata a quien hizo la remodelación de mi vecino. El trabajo quedó excelente."
+          },
+          {
+            "q": "A",
+            "t": "Boa dica. Vou mandar o encanador dele passar aqui amanhã.",
+            "es": "Buen dato. Voy a mandar a su plomero a venir mañana."
+          }
+        ]
+      },
+      "nota": "Muchos brasileños dicen «o carro está no conserto» o «está na oficina». «Conserto» también significa arreglo en general: «tem conserto» (tiene arreglo)."
+    },
+    {
+      "id": "pt-b2-u4-l5",
+      "n": 5,
+      "titulo": "Repaso: tareas que otros hacen por mí",
+      "objetivo": "Combinar pasiva y causativo para describir un proyecto con otras personas.",
+      "intro": "Junta todo: lo que se hizo (pasiva), lo que mandaste hacer y lo que está listo. Truco: haz una lista de tres cosas «feitas», tres «mandadas» y tres «prontas».",
+      "palabras": [
+        {
+          "t": "providenciar",
+          "es": "gestionar / encargarse de",
+          "pron": "providensiár",
+          "ej": "Vou providenciar os documentos hoje.",
+          "ejes": "Voy a gestionar los documentos hoy.",
+          "cog": false
+        },
+        {
+          "t": "responsável por",
+          "es": "responsable de",
+          "pron": "responsável por",
+          "ej": "Quem é o responsável por esse setor?",
+          "ejes": "¿Quién es el responsable de este sector?",
+          "cog": false
+        },
+        {
+          "t": "ficar pronto",
+          "es": "quedar listo",
+          "pron": "ficár próntu",
+          "ej": "O pedido vai ficar pronto amanhã.",
+          "ejes": "El pedido va a quedar listo mañana.",
+          "cog": false
+        },
+        {
+          "t": "encomendar",
+          "es": "encargar",
+          "pron": "enkomendár",
+          "ej": "Vou encomendar as flores hoje.",
+          "ejes": "Voy a encargar las flores hoy.",
+          "cog": false
+        },
+        {
+          "t": "delegar",
+          "es": "delegar",
+          "pron": "delegár",
+          "ej": "É preciso delegar tarefas.",
+          "ejes": "Es necesario delegar tareas.",
+          "cog": true
+        },
+        {
+          "t": "ficar a cargo",
+          "es": "quedar a cargo",
+          "pron": "ficár a kárgu",
+          "ej": "Ela vai ficar a cargo do evento.",
+          "ejes": "Ella va a quedar a cargo del evento.",
+          "cog": false
+        },
+        {
+          "t": "o responsável",
+          "es": "el responsable",
+          "pron": "u responsável",
+          "ej": "O responsável pelo projeto saiu.",
+          "ejes": "El responsable del proyecto salió.",
+          "cog": true
+        },
+        {
+          "t": "ter pronto",
+          "es": "tener listo",
+          "pron": "tér próntu",
+          "ej": "Gostaria de ter pronto até sexta.",
+          "ejes": "Me gustaría tenerlo listo hasta el viernes.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Mandei providenciar tudo para a reunião de amanhã.",
+          "es": "Hice gestionar todo para la reunión de mañana.",
+          "pron": "mandéi providensiár túdu pára a reuniáun dyi amañán"
+        },
+        {
+          "t": "O relatório foi entregue e o orçamento está aprovado.",
+          "es": "El informe fue entregado y el presupuesto está aprobado.",
+          "pron": "u relatóriu fói entrégui i u orsaméntu está aprovádu"
+        },
+        {
+          "t": "Ela vai ficar a cargo da equipe nova.",
+          "es": "Ella va a quedar a cargo del equipo nuevo.",
+          "pron": "éla vái ficár a kárgu da ekípi nóva"
+        },
+        {
+          "t": "Preciso delegar mais para não me sobrecarregar.",
+          "es": "Necesito delegar más para no sobrecargarme.",
+          "pron": "presízu delegár máis pára náun mi sobrekarregár"
+        },
+        {
+          "t": "O pedido vai ficar pronto até sexta.",
+          "es": "El pedido va a quedar listo hasta el viernes.",
+          "pron": "u pedídu vái ficár próntu até séxta"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Organizando um evento",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Quem é o responsável pela decoração do evento?",
+            "es": "¿Quién es el responsable de la decoración del evento?"
+          },
+          {
+            "q": "B",
+            "t": "A Clara ficou a cargo. Ela mandou buscar as flores hoje cedo.",
+            "es": "Clara quedó a cargo. Mandó buscar las flores hoy temprano."
+          },
+          {
+            "q": "A",
+            "t": "E os convites? Já foram enviados?",
+            "es": "¿Y las invitaciones? ¿Ya fueron enviadas?"
+          },
+          {
+            "q": "B",
+            "t": "Foram enviados ontem e o orçamento já está aprovado.",
+            "es": "Fueron enviadas ayer y el presupuesto ya está aprobado."
+          },
+          {
+            "q": "A",
+            "t": "Ótimo. Preciso delegar mais tarefas, senão não dou conta.",
+            "es": "Perfecto. Necesito delegar más tareas, si no, no doy abasto."
+          },
+          {
+            "q": "B",
+            "t": "Pode deixar, eu mando providenciar o resto.",
+            "es": "Déjalo en mis manos, yo hago gestionar el resto."
+          }
+        ]
+      },
+      "nota": "«Pode deixar» (déjalo en mis manos) es una fórmula muy útil para asumir una tarea. «Dar conta» significa «poder con todo»."
+    }
+  ]
+}

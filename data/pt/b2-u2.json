@@ -1,0 +1,724 @@
+{
+  "id": "pt-b2-u2",
+  "idioma": "pt",
+  "nivel": "B2",
+  "n": 2,
+  "titulo": "Situaciones hipotéticas",
+  "resumen": "Aprenderás el futuro do pretérito (faria, seria) y la fórmula «se + imperfeito do subjuntivo» para hablar de situaciones imaginarias: «se eu tivesse tempo, viajaria».",
+  "puedo": [
+    "Decir qué haría en una situación imaginaria: «eu viajaria».",
+    "Formar frases con «se eu tivesse / fosse / pudesse».",
+    "Dar consejos con «no seu lugar» y «se fosse você».",
+    "Hacer pedidos y propuestas corteses con «poderia» y «gostaria».",
+    "Hablar de sueños y planes que quizá no ocurran."
+  ],
+  "gramatica": {
+    "titulo": "Se + imperfeito do subjuntivo, + futuro do pretérito",
+    "texto": "Para hablar de algo imaginario o poco probable, el portugués une dos tiempos: «se» + imperfeito do subjuntivo (la condición) y el futuro do pretérito (el resultado). Se eu tivesse tempo, viajaria mais (Si tuviera tiempo, viajaría más).\nEl futuro do pretérito se forma con el infinitivo + terminaciones -ia, -ias, -ia, -íamos, -iam: faria, seria, teria. Irregulares: fazer-faria, dizer-diria, trazer-traria.\nEl imperfeito do subjuntivo sale de la forma «eles» del perfeito sin -ram: eles tiveram-tivesse, eles foram-fosse, eles puderam-pudesse, eles quiseram-quisesse.\nTruco: la parte con «se» nunca lleva futuro do pretérito. Si cambias el orden, la idea es igual: Eu viajaria mais se tivesse tempo.",
+    "tabla": [
+      [
+        "se eu tivesse",
+        "si yo tuviera",
+        "si éu tivési"
+      ],
+      [
+        "se eu fosse",
+        "si yo fuera",
+        "si éu fósi"
+      ],
+      [
+        "se eu pudesse",
+        "si yo pudiera",
+        "si éu pudési"
+      ],
+      [
+        "eu viajaria",
+        "yo viajaría",
+        "éu viayaría"
+      ],
+      [
+        "eu seria",
+        "yo sería",
+        "éu sería"
+      ],
+      [
+        "eu faria / eu diria",
+        "yo haría / yo diría",
+        "éu faría / éu dyiría"
+      ]
+    ],
+    "errores": [
+      "No pongas el condicional después de «se»: «se eu teria tempo» es incorrecto; di «se eu tivesse tempo».",
+      "En la conversación, muchos brasileños usan «ia + infinitivo» en lugar del condicional (eu ia viajar), pero para el B2 domina «viajaria».",
+      "No traduzcas «si yo fuera» como «se eu era»: se usa el subjuntivo «se eu fosse»."
+    ]
+  },
+  "practica": [
+    "Escribe 8 frases: «Se eu ganhasse na loteria, eu...» con planes distintos (8 minutos).",
+    "Lee en voz alta cinco veces: «Se eu tivesse tempo, viajaria; se eu fosse rico, ajudaria» (4 minutos).",
+    "Pide un consejo imaginario a un amigo con «O que você faria no meu lugar?» y responde con condicional (6 minutos).",
+    "Escribe un párrafo de 6 líneas sobre cómo sería tu vida en otro país (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b2-u2-l1",
+      "n": 1,
+      "titulo": "Futuro do pretérito: lo que haría",
+      "objetivo": "Usar el condicional simple para decir qué haría o sería.",
+      "intro": "El futuro do pretérito es el «haría, sería». Truco: toma el infinitivo completo y añade -ia: viajar-viajaria; solo fazer, dizer y trazer cambian.",
+      "palabras": [
+        {
+          "t": "faria",
+          "es": "haría",
+          "pron": "faría",
+          "ej": "Eu faria diferente no seu lugar.",
+          "ejes": "Yo haría distinto en tu lugar.",
+          "cog": false
+        },
+        {
+          "t": "poderia",
+          "es": "podría",
+          "pron": "podería",
+          "ej": "Você poderia me ajudar?",
+          "ejes": "¿Podrías ayudarme?",
+          "cog": false
+        },
+        {
+          "t": "gostaria",
+          "es": "me gustaría",
+          "pron": "gostaría",
+          "ej": "Eu gostaria de um café.",
+          "ejes": "Me gustaría un café.",
+          "cog": false
+        },
+        {
+          "t": "seria",
+          "es": "sería",
+          "pron": "sería",
+          "ej": "Isso seria perfeito.",
+          "ejes": "Eso sería perfecto.",
+          "cog": true
+        },
+        {
+          "t": "teria",
+          "es": "tendría",
+          "pron": "tería",
+          "ej": "Ela teria mais tempo livre.",
+          "ejes": "Ella tendría más tiempo libre.",
+          "cog": false
+        },
+        {
+          "t": "viajaria",
+          "es": "viajaría",
+          "pron": "viayaría",
+          "ej": "Eu viajaria pelo mundo todo.",
+          "ejes": "Yo viajaría por todo el mundo.",
+          "cog": true
+        },
+        {
+          "t": "moraria",
+          "es": "viviría",
+          "pron": "moraría",
+          "ej": "Eu moraria perto do mar.",
+          "ejes": "Yo viviría cerca del mar.",
+          "cog": false
+        },
+        {
+          "t": "diria",
+          "es": "diría",
+          "pron": "dyiría",
+          "ej": "Eu diria a verdade a ele.",
+          "ejes": "Yo le diría la verdad.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Eu gostaria de falar com o gerente.",
+          "es": "Me gustaría hablar con el gerente.",
+          "pron": "éu gostaría dyi falár kon u yerénti"
+        },
+        {
+          "t": "Você poderia repetir, por favor?",
+          "es": "¿Podría repetir, por favor?",
+          "pron": "vosé podería repetír, por favór"
+        },
+        {
+          "t": "Eu viajaria muito mais se pudesse.",
+          "es": "Yo viajaría mucho más si pudiera.",
+          "pron": "éu viayaría múitu máis si pudési"
+        },
+        {
+          "t": "Isso seria ótimo para todo mundo.",
+          "es": "Eso sería genial para todos.",
+          "pron": "ísu sería ótimu pára tódu múndu"
+        },
+        {
+          "t": "Ele diria isso na frente de todos?",
+          "es": "¿Él diría eso delante de todos?",
+          "pron": "éli dyiría ísu na fréntyi dyi tódus"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Planejando o futuro",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Se você pudesse escolher, onde moraria?",
+            "es": "Si pudieras elegir, ¿dónde vivirías?"
+          },
+          {
+            "q": "B",
+            "t": "Moraria em Florianópolis, perto da praia.",
+            "es": "Viviría en Florianópolis, cerca de la playa."
+          },
+          {
+            "q": "A",
+            "t": "E o que você faria lá o dia todo?",
+            "es": "¿Y qué harías allá todo el día?"
+          },
+          {
+            "q": "B",
+            "t": "Trabalharia de casa e surfaria nos fins de semana.",
+            "es": "Trabajaría desde casa y surfearía los fines de semana."
+          },
+          {
+            "q": "A",
+            "t": "Seria uma vida perfeita, não?",
+            "es": "Sería una vida perfecta, ¿no?"
+          }
+        ]
+      },
+      "nota": "«Poderia» y «gostaria» son el modo más cortés de pedir en Brasil: «Você poderia me passar o sal?» suena amable en cualquier situación."
+    },
+    {
+      "id": "pt-b2-u2-l2",
+      "n": 2,
+      "titulo": "Se eu tivesse, se eu fosse",
+      "objetivo": "Formar la condición irreal con el imperfeito do subjuntivo.",
+      "intro": "La condición irreal usa formas que parecen raras al principio: tivesse, fosse, pudesse. Truco: salen de «eles» del perfeito: tiveram, foram, puderam quitando -ram y añadiendo -sse.",
+      "palabras": [
+        {
+          "t": "tivesse",
+          "es": "tuviera",
+          "pron": "tivési",
+          "ej": "Se eu tivesse mais tempo, estudaria japonês.",
+          "ejes": "Si tuviera más tiempo, estudiaría japonés.",
+          "cog": false
+        },
+        {
+          "t": "fosse",
+          "es": "fuera / fuese",
+          "pron": "fósi",
+          "ej": "Se eu fosse você, aceitaria a proposta.",
+          "ejes": "Si yo fuera tú, aceptaría la propuesta.",
+          "cog": false
+        },
+        {
+          "t": "pudesse",
+          "es": "pudiera",
+          "pron": "pudési",
+          "ej": "Se eu pudesse, mudaria de emprego.",
+          "ejes": "Si pudiera, cambiaría de empleo.",
+          "cog": false
+        },
+        {
+          "t": "soubesse",
+          "es": "supiera",
+          "pron": "soubési",
+          "ej": "Se ela soubesse, ficaria brava.",
+          "ejes": "Si ella supiera, se enojaría.",
+          "cog": false
+        },
+        {
+          "t": "quisesse",
+          "es": "quisiera",
+          "pron": "kizési",
+          "ej": "Se ele quisesse, conseguiria o cargo.",
+          "ejes": "Si él quisiera, conseguiría el puesto.",
+          "cog": false
+        },
+        {
+          "t": "fizesse",
+          "es": "hiciera",
+          "pron": "fizési",
+          "ej": "Se você fizesse exercício, dormiria melhor.",
+          "ejes": "Si hicieras ejercicio, dormirías mejor.",
+          "cog": false
+        },
+        {
+          "t": "morasse",
+          "es": "viviera",
+          "pron": "morási",
+          "ej": "Se eu morasse aqui, andaria a pé.",
+          "ejes": "Si viviera aquí, andaría a pie.",
+          "cog": false
+        },
+        {
+          "t": "ganhasse",
+          "es": "ganara",
+          "pron": "gañási",
+          "ej": "Se eu ganhasse mais, compraria um carro.",
+          "ejes": "Si ganara más, compraría un carro.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Se eu tivesse tempo, aprenderia a tocar violão.",
+          "es": "Si tuviera tiempo, aprendería a tocar guitarra.",
+          "pron": "si éu tivési témpu, aprendería a tokár violáun"
+        },
+        {
+          "t": "Se ela soubesse a verdade, não aceitaria.",
+          "es": "Si ella supiera la verdad, no aceptaría.",
+          "pron": "si éla soubési a verdádyi, náun aseitaría"
+        },
+        {
+          "t": "Se você fosse mais paciente, tudo seria mais fácil.",
+          "es": "Si fueras más paciente, todo sería más fácil.",
+          "pron": "si vosé fósi máis pasiénti, túdu sería máis fásil"
+        },
+        {
+          "t": "Se nós pudéssemos, viajaríamos amanhã.",
+          "es": "Si pudiéramos, viajaríamos mañana.",
+          "pron": "si nós pudésemus, viayaríamus amañán"
+        },
+        {
+          "t": "Se eles quisessem, mudariam de cidade.",
+          "es": "Si quisieran, cambiarían de ciudad.",
+          "pron": "si éles kizésein, mudaríam dyi sidádyi"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Sonhos de trabalho",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Se você pudesse mudar de profissão, o que faria?",
+            "es": "Si pudieras cambiar de profesión, ¿qué harías?"
+          },
+          {
+            "q": "B",
+            "t": "Se eu pudesse, seria fotógrafo e viajaria o ano inteiro.",
+            "es": "Si pudiera, sería fotógrafo y viajaría todo el año."
+          },
+          {
+            "q": "A",
+            "t": "E por que não tenta?",
+            "es": "¿Y por qué no lo intentas?"
+          },
+          {
+            "q": "B",
+            "t": "Se eu ganhasse mais, largaria o escritório amanhã mesmo.",
+            "es": "Si ganara más, dejaría la oficina mañana mismo."
+          },
+          {
+            "q": "A",
+            "t": "Se fosse você, começaria com um curso aos sábados.",
+            "es": "Yo, en tu lugar, empezaría con un curso los sábados."
+          }
+        ]
+      },
+      "nota": "Con «nós» el imperfeito do subjuntivo lleva tilde: «pudéssemos», «fôssemos». Con «eles», termina en -ssem: «tivessem», «quisessem»."
+    },
+    {
+      "id": "pt-b2-u2-l3",
+      "n": 3,
+      "titulo": "Consejos y condiciones",
+      "objetivo": "Dar consejos hipotéticos y poner condiciones.",
+      "intro": "Con estas fórmulas aconsejas sin sonar mandón. Truco: «Se fosse você...» siempre abre con subjuntivo y cierra con condicional.",
+      "palabras": [
+        {
+          "t": "no seu lugar",
+          "es": "en tu lugar",
+          "pron": "nu séu lugár",
+          "ej": "No seu lugar, eu pediria desculpas.",
+          "ejes": "En tu lugar, yo pediría disculpas.",
+          "cog": false
+        },
+        {
+          "t": "se fosse você",
+          "es": "si fuera tú",
+          "pron": "si fósi vosé",
+          "ej": "Eu diria que sim se fosse você.",
+          "ejes": "Yo diría que sí si fuera tú.",
+          "cog": false
+        },
+        {
+          "t": "e se",
+          "es": "¿y si...?",
+          "pron": "i si",
+          "ej": "E se a gente fosse ao cinema?",
+          "ejes": "¿Y si fuéramos al cine?",
+          "cog": false
+        },
+        {
+          "t": "imagine que",
+          "es": "imagina que",
+          "pron": "imáyini ki",
+          "ej": "Imagine que você ganhou uma viagem.",
+          "ejes": "Imagina que ganaste un viaje.",
+          "cog": false
+        },
+        {
+          "t": "supondo que",
+          "es": "suponiendo que",
+          "pron": "supóndu ki",
+          "ej": "Supondo que ele aceite, o que fazemos?",
+          "ejes": "Suponiendo que él acepte, ¿qué hacemos?",
+          "cog": false
+        },
+        {
+          "t": "a menos que",
+          "es": "a menos que",
+          "pron": "a ménus ki",
+          "ej": "Vou ficar, a menos que chova.",
+          "ejes": "Me voy a quedar, a menos que llueva.",
+          "cog": false
+        },
+        {
+          "t": "desde que",
+          "es": "siempre que / con tal de que",
+          "pron": "dézdyi ki",
+          "ej": "Eu ajudo, desde que você peça.",
+          "ejes": "Yo ayudo, siempre que lo pidas.",
+          "cog": false
+        },
+        {
+          "t": "caso contrário",
+          "es": "de lo contrario",
+          "pron": "kázu kontráriu",
+          "ej": "Avise antes; caso contrário, não poderemos esperar.",
+          "ejes": "Avisa antes; de lo contrario, no podremos esperar.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "No seu lugar, eu aceitaria a oferta.",
+          "es": "En tu lugar, yo aceptaría la oferta.",
+          "pron": "nu séu lugár, éu aseitaría a oférta"
+        },
+        {
+          "t": "E se a gente tentasse de novo?",
+          "es": "¿Y si lo intentáramos de nuevo?",
+          "pron": "i si a yénti tentási dyi nóvu"
+        },
+        {
+          "t": "Eu iria, desde que o evento fosse gratuito.",
+          "es": "Yo iría, siempre que el evento fuera gratuito.",
+          "pron": "éu iría, dézdyi ki u evéntu fósi gratuítu"
+        },
+        {
+          "t": "Imagine que você tivesse um ano livre.",
+          "es": "Imagina que tuvieras un año libre.",
+          "pron": "imáyini ki vosé tivési ún áno lívri"
+        },
+        {
+          "t": "Se fosse você, eu avisaria o chefe hoje.",
+          "es": "Yo en tu lugar avisaría al jefe hoy.",
+          "pron": "si fósi vosé, éu avisaría u shéfi óyi"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Um conselho entre amigos",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Recebi duas ofertas de trabalho e não sei qual escolher.",
+            "es": "Recibí dos ofertas de trabajo y no sé cuál elegir."
+          },
+          {
+            "q": "B",
+            "t": "E se você pedisse mais tempo para decidir?",
+            "es": "¿Y si pidieras más tiempo para decidir?"
+          },
+          {
+            "q": "A",
+            "t": "Boa ideia. Mas o que você faria no meu lugar?",
+            "es": "Buena idea. Pero ¿qué harías en mi lugar?"
+          },
+          {
+            "q": "B",
+            "t": "Se fosse você, escolheria a que paga melhor, a menos que a outra tivesse mais futuro.",
+            "es": "Yo escogería la que paga mejor, a menos que la otra tuviera más futuro."
+          },
+          {
+            "q": "A",
+            "t": "Vou pensar, desde que eles me deem uma semana.",
+            "es": "Voy a pensarlo, siempre que me den una semana."
+          }
+        ]
+      },
+      "nota": "«A menos que» y «desde que» llevan subjuntivo: «a menos que chova», «desde que você peça». No uses indicativo después de ellos."
+    },
+    {
+      "id": "pt-b2-u2-l4",
+      "n": 4,
+      "titulo": "Sueños y planes imaginarios",
+      "objetivo": "Hablar de sueños con vocabulario de dinero, trabajo y vida.",
+      "intro": "Los sueños necesitan vocabulario concreto. Truco: invéntate una lotería ganada y construye 5 frases con «se eu ganhasse...».",
+      "palabras": [
+        {
+          "t": "a loteria",
+          "es": "la lotería",
+          "pron": "a lotería",
+          "ej": "Se eu ganhasse a loteria, mudaria de país.",
+          "ejes": "Si ganara la lotería, cambiaría de país.",
+          "cog": true
+        },
+        {
+          "t": "a herança",
+          "es": "la herencia",
+          "pron": "a heránsa",
+          "ej": "Ela recebeu a herança do avô.",
+          "ejes": "Ella recibió la herencia de su abuelo.",
+          "cog": false
+        },
+        {
+          "t": "largar tudo",
+          "es": "dejarlo todo",
+          "pron": "largár túdu",
+          "ej": "Às vezes penso em largar tudo.",
+          "ejes": "A veces pienso en dejarlo todo.",
+          "cog": false
+        },
+        {
+          "t": "negócio próprio",
+          "es": "negocio propio",
+          "pron": "negósiu própriu",
+          "ej": "Gostaria de ter um negócio próprio.",
+          "ejes": "Me gustaría tener un negocio propio.",
+          "cog": false
+        },
+        {
+          "t": "no exterior",
+          "es": "en el extranjero",
+          "pron": "nu estériór",
+          "ej": "Meu primo mora no exterior.",
+          "ejes": "Mi primo vive en el extranjero.",
+          "cog": false
+        },
+        {
+          "t": "sossego",
+          "es": "tranquilidad",
+          "pron": "sosségu",
+          "ej": "Eu procuro sossego no campo.",
+          "ejes": "Busco tranquilidad en el campo.",
+          "cog": false
+        },
+        {
+          "t": "uma fortuna",
+          "es": "una fortuna",
+          "pron": "a fortúna",
+          "ej": "Ele gastou uma fortuna na viagem.",
+          "ejes": "Él gastó una fortuna en el viaje.",
+          "cog": true
+        },
+        {
+          "t": "aposentar-se",
+          "es": "jubilarse",
+          "pron": "aposentár-si",
+          "ej": "Ele pretende aposentar-se aos sessenta anos.",
+          "ejes": "Él piensa jubilarse a los sesenta años.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Se eu ganhasse na loteria, abriria um negócio próprio.",
+          "es": "Si ganara la lotería, abriría un negocio propio.",
+          "pron": "si éu gañási na lotería, abriría ún negósiu própriu"
+        },
+        {
+          "t": "Se tivesse uma herança, eu viajaria pelo mundo.",
+          "es": "Si tuviera una herencia, viajaría por el mundo.",
+          "pron": "si tivési úma heránsa, éu viayaría pélu múndu"
+        },
+        {
+          "t": "Às vezes eu largaria tudo e moraria no exterior.",
+          "es": "A veces dejaría todo y viviría en el extranjero.",
+          "pron": "ás vézis éu largaría túdu i moraría nu estériór"
+        },
+        {
+          "t": "Ele só quer sossego depois de se aposentar.",
+          "es": "Él solo quiere tranquilidad después de jubilarse.",
+          "pron": "éli só kéri sosségu depóis dyi si aposentár"
+        },
+        {
+          "t": "Com uma fortuna, eu compraria uma casa na serra.",
+          "es": "Con una fortuna, compraría una casa en la sierra.",
+          "pron": "kon úma fortúna, éu komprária úma káza na sérra"
+        }
+      ],
+      "dialogo": {
+        "titulo": "O que você faria?",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Se você ganhasse na loteria, o que faria primeiro?",
+            "es": "Si ganaras la lotería, ¿qué harías primero?"
+          },
+          {
+            "q": "B",
+            "t": "Pagaria as dívidas e abriria um negócio próprio.",
+            "es": "Pagaría las deudas y abriría un negocio propio."
+          },
+          {
+            "q": "A",
+            "t": "Eu largaria tudo e moraria no exterior por um tempo.",
+            "es": "Yo dejaría todo y viviría en el extranjero por un tiempo."
+          },
+          {
+            "q": "B",
+            "t": "Sério? E sua família iria com você?",
+            "es": "¿En serio? ¿Y tu familia iría contigo?"
+          },
+          {
+            "q": "A",
+            "t": "Iria, desde que tivéssemos sossego e uma casa boa.",
+            "es": "Iría, siempre que tuviéramos tranquilidad y una buena casa."
+          }
+        ]
+      },
+      "nota": "«Largar tudo» es coloquial y muy brasileño: «larguei tudo e fui morar na praia». Para algo más formal, usa «abandonar»."
+    },
+    {
+      "id": "pt-b2-u2-l5",
+      "n": 5,
+      "titulo": "Repaso: y si todo fuera distinto",
+      "objetivo": "Combinar condición irreal, condicional y consejos en una conversación.",
+      "intro": "Cierra la unidad mezclando todo: condiciones, consejos y sueños. Truco: dos columnas, «se + subjuntivo» a la izquierda y «condicional» a la derecha.",
+      "palabras": [
+        {
+          "t": "hipótese",
+          "es": "hipótesis",
+          "pron": "ipótezi",
+          "ej": "Isso é só uma hipótese.",
+          "ejes": "Eso es solo una hipótesis.",
+          "cog": true
+        },
+        {
+          "t": "talvez",
+          "es": "quizás",
+          "pron": "talvés",
+          "ej": "Talvez ele venha à festa.",
+          "ejes": "Quizás él venga a la fiesta.",
+          "cog": false
+        },
+        {
+          "t": "provavelmente",
+          "es": "probablemente",
+          "pron": "provavelméntyi",
+          "ej": "Provavelmente ela aceitaria.",
+          "ejes": "Probablemente ella aceptaría.",
+          "cog": true
+        },
+        {
+          "t": "se bem que",
+          "es": "aunque / si bien",
+          "pron": "si béin ki",
+          "ej": "Gostei, se bem que achei caro.",
+          "ejes": "Me gustó, aunque lo encontré caro.",
+          "cog": false
+        },
+        {
+          "t": "valer a pena",
+          "es": "valer la pena",
+          "pron": "valér a péna",
+          "ej": "Esse curso vai valer a pena.",
+          "ejes": "Ese curso va a valer la pena.",
+          "cog": false
+        },
+        {
+          "t": "arriscar",
+          "es": "arriesgar",
+          "pron": "arriskár",
+          "ej": "Eu preferiria não arriscar.",
+          "ejes": "Yo preferiría no arriesgar.",
+          "cog": false
+        },
+        {
+          "t": "preferiria",
+          "es": "preferiría",
+          "pron": "preferiría",
+          "ej": "Eu preferiria ficar em casa.",
+          "ejes": "Yo preferiría quedarme en casa.",
+          "cog": false
+        },
+        {
+          "t": "mudar de ideia",
+          "es": "cambiar de opinión",
+          "pron": "mudár dyi idéia",
+          "ej": "Ela pode mudar de ideia.",
+          "ejes": "Ella puede cambiar de opinión.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Se eu fosse você, não arriscaria tanto.",
+          "es": "Yo en tu lugar no arriesgaría tanto.",
+          "pron": "si éu fósi vosé, náun arriskaría tántu"
+        },
+        {
+          "t": "Eu preferiria ficar em casa, se pudesse.",
+          "es": "Yo preferiría quedarme en casa, si pudiera.",
+          "pron": "éu preferiría ficár ein káza, si pudési"
+        },
+        {
+          "t": "Provavelmente ela mudaria de ideia se soubesse.",
+          "es": "Probablemente ella cambiaría de opinión si supiera.",
+          "pron": "provavelméntyi éla mudaría dyi idéia si soubési"
+        },
+        {
+          "t": "Valeria a pena tentar, se bem que seria arriscado.",
+          "es": "Valdría la pena intentarlo, aunque sería arriesgado.",
+          "pron": "valería a péna tentár, si béin ki sería arriskádu"
+        },
+        {
+          "t": "E se a gente adiasse a viagem?",
+          "es": "¿Y si pospusiéramos el viaje?",
+          "pron": "i si a yénti adiási a viáyen"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Uma decisão difícil",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Se eu aceitasse o cargo no Rio, teria que mudar de cidade.",
+            "es": "Si aceptara el puesto en Río, tendría que mudarme de ciudad."
+          },
+          {
+            "q": "B",
+            "t": "Provavelmente valeria a pena. O salário seria bem melhor.",
+            "es": "Probablemente valdría la pena. El salario sería mucho mejor."
+          },
+          {
+            "q": "A",
+            "t": "Se bem que eu preferiria ficar perto da minha família.",
+            "es": "Aunque yo preferiría quedarme cerca de mi familia."
+          },
+          {
+            "q": "B",
+            "t": "E se você pedisse trabalho remoto?",
+            "es": "¿Y si pidieras trabajo remoto?"
+          },
+          {
+            "q": "A",
+            "t": "Boa ideia. Se eles aceitassem, eu ficaria muito feliz.",
+            "es": "Buena idea. Si aceptaran, estaría muy feliz."
+          },
+          {
+            "q": "B",
+            "t": "Então tenta. Se fosse eu, não perderia a chance.",
+            "es": "Entonces inténtalo. Yo no perdería la oportunidad."
+          }
+        ]
+      },
+      "nota": "«Talvez» lleva subjuntivo (talvez ele venha), un tema que verás de nuevo en la unidad 6. «Se bem que» introduce una reserva: «aunque»."
+    }
+  ]
+}

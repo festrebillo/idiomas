@@ -1,0 +1,219 @@
+{
+  "id": "pt-b2-u13",
+  "idioma": "pt",
+  "nivel": "B2",
+  "n": 13,
+  "titulo": "Relativas avanzadas y participio absoluto",
+  "resumen": "Aprenderás los relativos «cujo», «o qual», «onde» y «em que» para unir ideas con más elegancia, y el participio absoluto (terminado o trabalho, saímos) muy usado en textos y noticias.",
+  "puedo": [
+    "Usar «cujo / cuja / cujos / cujas» para indicar posesión.",
+    "Usar «o qual / a qual / os quais / as quais» después de una preposición.",
+    "Elegir entre «onde», «em que» y «no qual» según el contexto.",
+    "Entender y usar el participio absoluto («terminado o trabalho...»).",
+    "Unir dos frases en una sola con un relativo."
+  ],
+  "gramatica": {
+    "titulo": "«Cujo»: el relativo de posesión",
+    "texto": "«Cujo» significa «cuyo» y une dos frases indicando que algo pertenece a alguien: O escritor cujo livro li ontem veio ao Brasil (El escritor cuyo libro leí ayer vino a Brasil).\nLa regla clave: «cujo» concuerda con la cosa poseída, no con el poseedor. Si el sustantivo que sigue es masculino singular, «cujo»; femenino singular, «cuja»; plurales, «cujos / cujas»: a mulher cuja filha estuda aqui; os alunos cujos pais chegaram.\nDespués de «cujo» nunca va artículo: «cujo livro», no «cujo o livro». Si hay una preposición, va antes: o homem de cujo carro falei.",
+    "tabla": [
+      ["o autor cujo livro li", "el autor cuyo libro leí", "u autór kúyu lívru lí"],
+      ["a empresa cuja sede fica aqui", "la empresa cuya sede queda aquí", "a empresa kúya sédi fíka akí"],
+      ["os amigos cujos pais viajaram", "los amigos cuyos padres viajaron", "us amígus kúyus páis viayárau"],
+      ["as casas cujas portas são azuis", "las casas cuyas puertas son azules", "as kázas kúyas pórtas sáun azúis"],
+      ["a pessoa de cujo nome esqueci", "la persona de cuyo nombre me olvidé", "a pesóa dyi kúyu nómi eskesí"]
+    ],
+    "errores": [
+      "«Cujo» concuerda con lo poseído: «a casa cujas janelas», no «a casa cujo janelas».",
+      "No pongas artículo después de «cujo»: «cujo livro», no «cujo o livro».",
+      "En la conversación se dice «que o... dele» o «de quem»; «cujo» se ve más en textos y en el habla formal."
+    ]
+  },
+  "practica": [
+    "Une 6 pares de frases con «cujo / cuja»: «Conheço uma mulher. O filho dela é médico» (8 minutos).",
+    "Lee una noticia en portugués y marca los relativos «o qual», «onde» y «em que» (8 minutos).",
+    "Escribe 6 frases con participio absoluto: «Terminado o trabalho, fomos embora» (8 minutos).",
+    "Dicta en voz alta 5 frases relativas largas y grábate (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b2-u13-l1",
+      "n": 1,
+      "titulo": "Cujo, cuja, cujos, cujas",
+      "objetivo": "Unir dos frases indicando posesión con «cujo».",
+      "intro": "«Cujo» une dos ideas y dice «de quién es». Truco: reemplázalo mentalmente por «de él / de ella» (cuyo libro = el libro de él) y acuérdate de que concuerda con lo que se tiene.",
+      "palabras": [
+        { "t": "cujo", "es": "cuyo (masculino)", "pron": "kúyu", "ej": "O autor cujo livro li veio ao Brasil.", "ejes": "El autor cuyo libro leí vino a Brasil.", "cog": false },
+        { "t": "cuja", "es": "cuya (femenino)", "pron": "kúya", "ej": "A empresa cuja sede fica em São Paulo é grande.", "ejes": "La empresa cuya sede queda en São Paulo es grande.", "cog": false },
+        { "t": "cujos", "es": "cuyos", "pron": "kúyus", "ej": "Os alunos cujos pais chegaram estão felizes.", "ejes": "Los alumnos cuyos padres llegaron están felices.", "cog": false },
+        { "t": "cujas", "es": "cuyas", "pron": "kúyas", "ej": "As casas cujas portas são azuis são antigas.", "ejes": "Las casas cuyas puertas son azules son antiguas.", "cog": false },
+        { "t": "dono", "es": "dueño", "pron": "dónu", "ej": "O dono do restaurante é meu amigo.", "ejes": "El dueño del restaurante es mi amigo.", "cog": false },
+        { "t": "escritor", "es": "escritor", "pron": "eskritór", "ej": "Esse escritor ganhou um prêmio.", "ejes": "Ese escritor ganó un premio.", "cog": true },
+        { "t": "sede", "es": "sede", "pron": "sédi", "ej": "A sede da empresa fica no centro.", "ejes": "La sede de la empresa queda en el centro.", "cog": true },
+        { "t": "vizinho", "es": "vecino", "pron": "vizíñu", "ej": "Meu vizinho tem um cachorro grande.", "ejes": "Mi vecino tiene un perro grande.", "cog": false },
+        { "t": "sobrenome", "es": "apellido", "pron": "sobrenómi", "ej": "Qual é o seu sobrenome?", "ejes": "¿Cuál es tu apellido?", "cog": false }
+      ],
+      "frases": [
+        { "t": "O escritor cujo livro li ontem veio ao Brasil.", "es": "El escritor cuyo libro leí ayer vino a Brasil.", "pron": "u eskritór kúyu lívru lí óntein véyu au brasíu" },
+        { "t": "A empresa cuja sede fica aqui é muito grande.", "es": "La empresa cuya sede queda aquí es muy grande.", "pron": "a empresa kúya sédi fíka akí é múitu grándyi" },
+        { "t": "Os alunos cujos pais chegaram estão felizes.", "es": "Los alumnos cuyos padres llegaron están felices.", "pron": "us alúnus kúyus páis shegárau estáun felízis" },
+        { "t": "Conheço um vizinho cujo sobrenome é Silva.", "es": "Conozco a un vecino cuyo apellido es Silva.", "pron": "koñésu ún vizíñu kúyu sobrenómi é síwva" },
+        { "t": "As casas cujas portas são azuis são antigas.", "es": "Las casas cuyas puertas son azules son antiguas.", "pron": "as kázas kúyas pórtas sáun azúis sáun antígas" }
+      ],
+      "dialogo": {
+        "titulo": "Conhecendo o bairro",
+        "lineas": [
+          { "q": "A", "t": "Você conhece o dono cujo restaurante abriu aqui?", "es": "¿Conoces al dueño cuyo restaurante abrió aquí?" },
+          { "q": "B", "t": "Conheço, é o escritor cujos livros eu leio.", "es": "Sí, es el escritor cuyos libros leo." },
+          { "q": "A", "t": "Que coincidência! O sobrenome dele é o mesmo do meu vizinho.", "es": "¡Qué coincidencia! Su apellido es el mismo que el de mi vecino." },
+          { "q": "B", "t": "É a família cuja casa tem portas azuis?", "es": "¿Es la familia cuya casa tiene puertas azules?" },
+          { "q": "A", "t": "Essa mesma! São pessoas cujos filhos estudam comigo.", "es": "¡Esa misma! Son personas cuyos hijos estudian conmigo." }
+        ]
+      },
+      "nota": "En la conversación diaria muchos brasileños evitan «cujo» y dicen «o cara que o livro dele eu li». En textos escritos «cujo» queda más elegante."
+    },
+    {
+      "id": "pt-b2-u13-l2",
+      "n": 2,
+      "titulo": "O qual, a qual, os quais, as quais",
+      "objetivo": "Usar «o qual» y sus formas, sobre todo después de preposición.",
+      "intro": "«O qual» sustituye a «que» y es útil después de preposiciones: o projeto sobre o qual falamos. Truco: concuerda con lo que reemplaza (o qual / a qual / os quais / as quais).",
+      "palabras": [
+        { "t": "o qual", "es": "el cual", "pron": "u kuáu", "ej": "O projeto, o qual foi aprovado, começa hoje.", "ejes": "El proyecto, el cual fue aprobado, empieza hoy.", "cog": false },
+        { "t": "a qual", "es": "la cual", "pron": "a kuáu", "ej": "A reunião, a qual durou duas horas, foi útil.", "ejes": "La reunión, la cual duró dos horas, fue útil.", "cog": false },
+        { "t": "os quais", "es": "los cuales", "pron": "us kuáis", "ej": "Os resultados, os quais são positivos, serão publicados.", "ejes": "Los resultados, los cuales son positivos, serán publicados.", "cog": false },
+        { "t": "as quais", "es": "las cuales", "pron": "as kuáis", "ej": "As propostas, as quais chegaram ontem, foram analisadas.", "ejes": "Las propuestas, las cuales llegaron ayer, fueron analizadas.", "cog": false },
+        { "t": "sobre o qual", "es": "sobre el cual", "pron": "sóbri u kuáu", "ej": "É o tema sobre o qual falamos ontem.", "ejes": "Es el tema sobre el cual hablamos ayer.", "cog": false },
+        { "t": "com o qual", "es": "con el cual", "pron": "kon u kuáu", "ej": "Esse é o colega com o qual trabalho.", "ejes": "Ese es el colega con el cual trabajo.", "cog": false },
+        { "t": "pela qual", "es": "por la cual", "pron": "péla kuáu", "ej": "É a pessoa pela qual estou esperando.", "ejes": "Es la persona por la cual estoy esperando.", "cog": false },
+        { "t": "para a qual", "es": "para la cual", "pron": "pára a kuáu", "ej": "É a vaga para a qual me candidatei.", "ejes": "Es el puesto para el cual postulé.", "cog": false },
+        { "t": "dos quais", "es": "de los cuales", "pron": "dus kuáis", "ej": "São amigos dos quais gosto muito.", "ejes": "Son amigos a quienes aprecio mucho.", "cog": false }
+      ],
+      "frases": [
+        { "t": "O projeto, o qual foi aprovado, começa hoje.", "es": "El proyecto, el cual fue aprobado, empieza hoy.", "pron": "u proyétu u kuáu fói aprovádu kómesa óyi" },
+        { "t": "É o tema sobre o qual falamos ontem.", "es": "Es el tema sobre el cual hablamos ayer.", "pron": "é u téma sóbri u kuáu falámus óntein" },
+        { "t": "Esse é o colega com o qual trabalho.", "es": "Este es el colega con el cual trabajo.", "pron": "ésyi é u koléga kon u kuáu trabálu" },
+        { "t": "As propostas, as quais chegaram ontem, foram boas.", "es": "Las propuestas, las cuales llegaron ayer, fueron buenas.", "pron": "as propóstas as kuáis shegárau óntein fórau bóas" },
+        { "t": "É a vaga para a qual me candidatei.", "es": "Es el puesto para el cual postulé.", "pron": "é a vága pára a kuáu mi kandidatéi" }
+      ],
+      "dialogo": {
+        "titulo": "Uma entrevista de emprego",
+        "lineas": [
+          { "q": "A", "t": "Essa é a vaga para a qual você se candidatou?", "es": "¿Este es el puesto para el cual postulaste?" },
+          { "q": "B", "t": "Sim, é a vaga sobre a qual conversamos.", "es": "Sí, es el puesto sobre el cual conversamos." },
+          { "q": "A", "t": "O diretor, com o qual você falou, gostou muito.", "es": "El director, con el cual hablaste, quedó muy conforme." },
+          { "q": "B", "t": "Que bom! Foram duas reuniões, as quais correram bem.", "es": "¡Qué bien! Fueron dos reuniones, las cuales salieron bien." },
+          { "q": "A", "t": "Os resultados, os quais saem hoje, devem ser positivos.", "es": "Los resultados, los cuales salen hoy, deberían ser positivos." }
+        ]
+      },
+      "nota": "Con coma («, o qual») se añade información extra. Después de preposición se prefiere «o qual»; sin preposición, «que» es lo habitual."
+    },
+    {
+      "id": "pt-b2-u13-l3",
+      "n": 3,
+      "titulo": "Onde, em que, no qual",
+      "objetivo": "Hablar de lugares, momentos y circunstancias con relativos.",
+      "intro": "«Onde» es para lugares; «em que» y «no qual» sirven para lugares, épocas y situaciones. Truco: «o dia em que» (el día en que) es más natural que «o dia onde».",
+      "palabras": [
+        { "t": "onde", "es": "donde", "pron": "óndyi", "ej": "A cidade onde nasci é pequena.", "ejes": "La ciudad donde nací es pequeña.", "cog": false },
+        { "t": "em que", "es": "en que", "pron": "ein ki", "ej": "O dia em que cheguei choveu muito.", "ejes": "El día en que llegué llovió mucho.", "cog": false },
+        { "t": "no qual", "es": "en el cual", "pron": "nu kuáu", "ej": "É o prédio no qual eu trabalho.", "ejes": "Es el edificio en el cual trabajo.", "cog": false },
+        { "t": "na qual", "es": "en la cual", "pron": "na kuáu", "ej": "É a empresa na qual comecei a carreira.", "ejes": "Es la empresa en la cual comencé mi carrera.", "cog": false },
+        { "t": "o motivo pelo qual", "es": "el motivo por el cual", "pron": "u motívu pélu kuáu", "ej": "Esse é o motivo pelo qual saí.", "ejes": "Ese es el motivo por el cual me fui.", "cog": false },
+        { "t": "a época", "es": "la época", "pron": "a époka", "ej": "A época em que moramos aqui foi boa.", "ejes": "La época en que vivimos aquí fue buena.", "cog": true },
+        { "t": "o momento", "es": "el momento", "pron": "u moméntu", "ej": "O momento em que ele chegou foi especial.", "ejes": "El momento en que llegó fue especial.", "cog": true },
+        { "t": "a razão", "es": "la razón", "pron": "a razáun", "ej": "A razão da minha viagem é trabalho.", "ejes": "La razón de mi viaje es trabajo.", "cog": true },
+        { "t": "o lugar", "es": "el lugar", "pron": "u lugár", "ej": "Esse é o lugar onde nos conhecemos.", "ejes": "Ese es el lugar donde nos conocimos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "A cidade onde nasci fica no interior.", "es": "La ciudad donde nací queda en el interior.", "pron": "a sidádi óndyi nasí fíka nu interiór" },
+        { "t": "O dia em que cheguei choveu muito.", "es": "El día en que llegué llovió mucho.", "pron": "u día ein ki shegéi shovéu múitu" },
+        { "t": "É o prédio no qual eu trabalho.", "es": "Es el edificio en el cual trabajo.", "pron": "é u prédyiu nu kuáu éu trabálu" },
+        { "t": "Esse é o motivo pelo qual saí do emprego.", "es": "Ese es el motivo por el cual dejé el empleo.", "pron": "ésyi é u motívu pélu kuáu saí du empréigu" },
+        { "t": "Foi a época em que morei no Rio.", "es": "Fue la época en que viví en Río.", "pron": "fói a époka ein ki moréi nu ríu" }
+      ],
+      "dialogo": {
+        "titulo": "Lembranças da cidade",
+        "lineas": [
+          { "q": "A", "t": "Esse é o lugar onde nos conhecemos, lembra?", "es": "Este es el lugar donde nos conocimos, ¿recuerdas?" },
+          { "q": "B", "t": "Lembro. Foi na época em que eu trabalhava aqui.", "es": "Recuerdo. Fue en la época en que yo trabajaba aquí." },
+          { "q": "A", "t": "O prédio no qual você trabalhava ainda existe.", "es": "El edificio en el cual trabajabas aún existe." },
+          { "q": "B", "t": "Que bom. O dia em que saí daqui foi difícil.", "es": "Qué bien. El día en que me fui de aquí fue difícil." },
+          { "q": "A", "t": "Qual foi o motivo pelo qual você saiu?", "es": "¿Cuál fue el motivo por el cual te fuiste?" }
+        ]
+      },
+      "nota": "«Onde» funciona para lugares físicos. Para tiempo o situaciones usa «em que»: «a situação em que estamos», no «a situação onde estamos»."
+    },
+    {
+      "id": "pt-b2-u13-l4",
+      "n": 4,
+      "titulo": "Participio absoluto",
+      "objetivo": "Entender y usar frases como «terminado o trabalho, fomos embora».",
+      "intro": "El participio absoluto abre una frase con un participio que concuerda con el sustantivo: «Terminada a reunião, saímos». Truco: equivale a «cuando terminó la reunión».",
+      "palabras": [
+        { "t": "terminado o trabalho", "es": "terminado el trabajo", "pron": "terminádu u trabálu", "ej": "Terminado o trabalho, fomos jantar.", "ejes": "Terminado el trabajo, fuimos a cenar.", "cog": false },
+        { "t": "concluída a reunião", "es": "concluida la reunión", "pron": "konkluída a reuniáun", "ej": "Concluída a reunião, todos saíram.", "ejes": "Concluida la reunión, todos salieron.", "cog": false },
+        { "t": "feito isso", "es": "hecho esto", "pron": "féitu ísu", "ej": "Feito isso, podemos começar.", "ejes": "Hecho esto, podemos empezar.", "cog": false },
+        { "t": "dito isso", "es": "dicho esto", "pron": "dítu ísu", "ej": "Dito isso, passemos ao próximo tema.", "ejes": "Dicho esto, pasemos al siguiente tema.", "cog": false },
+        { "t": "aprovado o plano", "es": "aprobado el plan", "pron": "aprovádu u plánu", "ej": "Aprovado o plano, começa a obra.", "ejes": "Aprobado el plan, empieza la obra.", "cog": false },
+        { "t": "resolvido o problema", "es": "resuelto el problema", "pron": "rezowvídu u problíma", "ej": "Resolvido o problema, voltamos ao trabalho.", "ejes": "Resuelto el problema, volvemos al trabajo.", "cog": false },
+        { "t": "assinado o contrato", "es": "firmado el contrato", "pron": "asinádu u kontrátu", "ej": "Assinado o contrato, a empresa abre em maio.", "ejes": "Firmado el contrato, la empresa abre en mayo.", "cog": false },
+        { "t": "chegada a hora", "es": "llegada la hora", "pron": "shegáda a óra", "ej": "Chegada a hora, ele saiu sem falar.", "ejes": "Llegada la hora, se fue sin hablar.", "cog": false },
+        { "t": "particípio", "es": "participio", "pron": "partisípiu", "ej": "O particípio concorda com o substantivo.", "ejes": "El participio concuerda con el sustantivo.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Terminado o trabalho, fomos jantar.", "es": "Terminado el trabajo, fuimos a cenar.", "pron": "terminádu u trabálu fómus yantár" },
+        { "t": "Concluída a reunião, todos saíram.", "es": "Concluida la reunión, todos salieron.", "pron": "konkluída a reuniáun tódus saíram" },
+        { "t": "Dito isso, vamos ao próximo ponto.", "es": "Dicho esto, vamos al siguiente punto.", "pron": "dítu ísu vámus au prósimu póntu" },
+        { "t": "Resolvido o problema, tudo voltou ao normal.", "es": "Resuelto el problema, todo volvió a la normalidad.", "pron": "rezowvídu u problíma túdu vowtóu au normáu" },
+        { "t": "Assinado o contrato, a obra começa.", "es": "Firmado el contrato, la obra comienza.", "pron": "asinádu u kontrátu a óbra komésa" }
+      ],
+      "dialogo": {
+        "titulo": "Depois da assinatura",
+        "lineas": [
+          { "q": "A", "t": "Assinado o contrato, o que acontece agora?", "es": "Firmado el contrato, ¿qué pasa ahora?" },
+          { "q": "B", "t": "Aprovado o plano, a obra começa na segunda.", "es": "Aprobado el plan, la obra comienza el lunes." },
+          { "q": "A", "t": "E se aparecer algum problema?", "es": "¿Y si aparece algún problema?" },
+          { "q": "B", "t": "Resolvido o problema, seguimos. Dito isso, não se preocupe.", "es": "Resuelto el problema, seguimos. Dicho esto, no te preocupes." },
+          { "q": "A", "t": "Terminado o trabalho, vamos comemorar.", "es": "Terminado el trabajo, vamos a celebrar." }
+        ]
+      },
+      "nota": "El participio absoluto es más escrito que hablado. «Dito isso» y «feito isso» sí se oyen en reuniones y presentaciones."
+    },
+    {
+      "id": "pt-b2-u13-l5",
+      "n": 5,
+      "titulo": "Repaso: frases largas bien unidas",
+      "objetivo": "Combinar relativos y participio absoluto en frases largas.",
+      "intro": "Une ideas con cujo, o qual, onde, em que y el participio absoluto. Truco: empieza con dos frases cortas y únelas con el relativo correcto.",
+      "palabras": [
+        { "t": "cujo", "es": "cuyo", "pron": "kúyu", "ej": "É o diretor cujo projeto foi aprovado.", "ejes": "Es el director cuyo proyecto fue aprobado.", "cog": false },
+        { "t": "o que", "es": "lo que", "pron": "u ki", "ej": "Não sei o que ele quer dizer.", "ejes": "No sé lo que quiere decir.", "cog": false },
+        { "t": "tudo o que", "es": "todo lo que", "pron": "túdu u ki", "ej": "Tudo o que ela disse é verdade.", "ejes": "Todo lo que ella dijo es verdad.", "cog": false },
+        { "t": "aquilo que", "es": "aquello que", "pron": "akílu ki", "ej": "Aquilo que você viu não é real.", "ejes": "Aquello que viste no es real.", "cog": false },
+        { "t": "quem", "es": "quien", "pron": "kéin", "ej": "Quem chegar primeiro escolhe a mesa.", "ejes": "Quien llegue primero elige la mesa.", "cog": false },
+        { "t": "onde", "es": "donde", "pron": "óndyi", "ej": "O café onde trabalho abre cedo.", "ejes": "El café donde trabajo abre temprano.", "cog": false },
+        { "t": "em que", "es": "en que", "pron": "ein ki", "ej": "O ano em que viajei foi ótimo.", "ejes": "El año en que viajé fue excelente.", "cog": false },
+        { "t": "dito isso", "es": "dicho esto", "pron": "dítu ísu", "ej": "Dito isso, vamos ao assunto seguinte.", "ejes": "Dicho esto, vamos al asunto siguiente.", "cog": false },
+        { "t": "o qual", "es": "el cual", "pron": "u kuáu", "ej": "É um dado, o qual ainda precisa de revisão.", "ejes": "Es un dato, el cual aún necesita revisión.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Esse é o diretor cujo projeto foi aprovado.", "es": "Este es el director cuyo proyecto fue aprobado.", "pron": "ésyi é u dyiretór kúyu proyétu fói aprovádu" },
+        { "t": "Tudo o que ela disse é verdade.", "es": "Todo lo que ella dijo es verdad.", "pron": "túdu u ki éla dyísi é verdádyi" },
+        { "t": "A cidade onde moro tem uma praia linda.", "es": "La ciudad donde vivo tiene una playa hermosa.", "pron": "a sidádi óndyi móru téin úma práya línda" },
+        { "t": "O ano em que viajei foi inesquecível.", "es": "El año en que viajé fue inolvidable.", "pron": "u ánu ein ki viayéi fói ineskesível" },
+        { "t": "Dito isso, vamos votar o plano.", "es": "Dicho esto, votemos el plan.", "pron": "dítu ísu vámus votár u plánu" }
+      ],
+      "dialogo": {
+        "titulo": "Conversa de fim de ano",
+        "lineas": [
+          { "q": "A", "t": "O ano em que viajei foi inesquecível.", "es": "El año en que viajé fue inolvidable." },
+          { "q": "B", "t": "A cidade onde você ficou é famosa, não é?", "es": "La ciudad donde te quedaste es famosa, ¿no?" },
+          { "q": "A", "t": "É. Conheci um chef cujo restaurante é incrível.", "es": "Sí. Conocí a un chef cuyo restaurante es increíble." },
+          { "q": "B", "t": "Tudo o que você conta me dá vontade de ir.", "es": "Todo lo que cuentas me da ganas de ir." },
+          { "q": "A", "t": "Dito isso, vamos planejar a próxima viagem juntos.", "es": "Dicho esto, planeemos juntos el próximo viaje." }
+        ]
+      },
+      "nota": "Para unir frases en la conversación, «que» basta casi siempre. Guarda «cujo», «o qual» y el participio absoluto para presentaciones, informes y textos."
+    }
+  ]
+}

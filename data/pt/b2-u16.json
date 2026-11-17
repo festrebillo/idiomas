@@ -1,0 +1,219 @@
+{
+  "id": "pt-b2-u16",
+  "idioma": "pt",
+  "nivel": "B2",
+  "n": 16,
+  "titulo": "Negociar y persuadir",
+  "resumen": "Aprenderás a proponer, negociar y convencer en portugués, usando hipótesis suaves («se o senhor aceitasse, poderíamos...»), y repasarás lo mejor del nivel B2.",
+  "puedo": [
+    "Hacer propuestas y ofertas con cortesía.",
+    "Negociar precio, plazo y condiciones.",
+    "Persuadir con argumentos, ventajas y ejemplos.",
+    "Responder a objeciones, rechazar con tacto y llegar a un acuerdo.",
+    "Combinar expresiones, conectores y relativos del nivel B2 en un discurso."
+  ],
+  "gramatica": {
+    "titulo": "Hipótesis suaves: se + imperfecto de subjuntivo + condicional",
+    "texto": "Para negociar con tacto, plantea una hipótesis y su consecuencia: Se o senhor aceitasse, poderíamos fechar hoje (Si usted aceptara, podríamos cerrar hoy). La estructura es «se» + imperfecto del subjuntivo (aceitasse, pudesse, tivesse) + condicional (poderíamos, faria, daria).\nEl condicional se forma con el infinitivo + terminaciones -ia, -ias, -ia, -íamos, -iam: faria, daria, aceitaria. Suena más cortés que el presente: Daria um desconto (Daría un descuento).\nTambién puedes usar «caso» + subjuntivo (en caso de que): Caso o senhor concorde, assinamos hoje.",
+    "tabla": [
+      ["Se você aceitasse, fecharíamos.", "Si aceptaras, cerraríamos.", "si vosé aseitási fecharíamus"],
+      ["Se eu pudesse, daria desconto.", "Si pudiera, daría descuento.", "si éu pudési daría deskóntu"],
+      ["Se tivéssemos tempo, esperaríamos.", "Si tuviéramos tiempo, esperaríamos.", "si tivésemus témpu esperaríamus"],
+      ["Poderíamos reduzir o prazo.", "Podríamos reducir el plazo.", "poderíamus redusír u prázu"],
+      ["Caso concorde, assinamos hoje.", "Si está de acuerdo, firmamos hoy.", "kázu konkórdi asinámus óyi"]
+    ],
+    "errores": [
+      "Después de «se» en una hipótesis irreal no uses condicional: «se eu pudesse», no «se eu poderia».",
+      "El condicional de «ter» es «teria» y el de «fazer» es «faria»: son irregulares, no «fazeria».",
+      "«Caso» va con subjuntivo: «caso o senhor concorde», no «caso o senhor concorda»."
+    ]
+  },
+  "practica": [
+    "Escribe 6 frases con «se + subjuntivo + condicional» para ofrecer un descuento o un plazo (8 minutos).",
+    "Simula en voz alta una negociación de precio de 2 minutos: tú vendes un servicio (10 minutos).",
+    "Escribe un correo formal de 8 líneas proponiendo un acuerdo a un cliente (10 minutos).",
+    "Repasa las 8 unidades del nivel B2 y escribe 10 frases con tus expresiones favoritas (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b2-u16-l1",
+      "n": 1,
+      "titulo": "Proponer y ofrecer",
+      "objetivo": "Hacer propuestas y ofertas con cortesía y sugerir alternativas.",
+      "intro": "Una buena propuesta es clara y amable: «Que tal...?», «Poderíamos...», «Estou disposto a...». Truco: el condicional «poderíamos» suaviza cualquier oferta.",
+      "palabras": [
+        { "t": "proposta", "es": "propuesta", "pron": "propósta", "ej": "Recebi uma proposta interessante.", "ejes": "Recibí una propuesta interesante.", "cog": true },
+        { "t": "oferta", "es": "oferta", "pron": "oférta", "ej": "A oferta é válida até sexta.", "ejes": "La oferta es válida hasta el viernes.", "cog": true },
+        { "t": "que tal", "es": "qué tal si", "pron": "ki táu", "ej": "Que tal fecharmos o acordo hoje?", "ejes": "¿Qué tal si cerramos el acuerdo hoy?", "cog": false },
+        { "t": "e se", "es": "¿y si?", "pron": "i si", "ej": "E se dividíssemos o custo?", "ejes": "¿Y si dividiéramos el costo?", "cog": false },
+        { "t": "poderíamos", "es": "podríamos", "pron": "poderíamus", "ej": "Poderíamos começar na segunda.", "ejes": "Podríamos empezar el lunes.", "cog": false },
+        { "t": "estou disposto a", "es": "estoy dispuesto a", "pron": "estóu dyispóstu a", "ej": "Estou disposto a ouvir a sua proposta.", "ejes": "Estoy dispuesto a escuchar su propuesta.", "cog": false },
+        { "t": "sugestão", "es": "sugerencia", "pron": "suyestáun", "ej": "Tenho uma sugestão para o senhor.", "ejes": "Tengo una sugerencia para usted.", "cog": false },
+        { "t": "contraproposta", "es": "contrapropuesta", "pron": "kontrapropósta", "ej": "Vou enviar uma contraproposta amanhã.", "ejes": "Voy a enviar una contrapropuesta mañana.", "cog": true },
+        { "t": "parceria", "es": "alianza, asociación", "pron": "parserría", "ej": "Queremos uma parceria de longo prazo.", "ejes": "Queremos una alianza a largo plazo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Que tal fecharmos o acordo hoje?", "es": "¿Qué tal si cerramos el acuerdo hoy?", "pron": "ki táu fecharmus u akórdu óyi" },
+        { "t": "E se dividíssemos o custo?", "es": "¿Y si dividiéramos el costo?", "pron": "i si dyividísemus u kústu" },
+        { "t": "Poderíamos começar na segunda-feira.", "es": "Podríamos empezar el lunes.", "pron": "poderíamus komesár na segundafeira" },
+        { "t": "Estou disposto a ouvir a sua proposta.", "es": "Estoy dispuesto a escuchar su propuesta.", "pron": "estóu dyispóstu a ouvír a súa propósta" },
+        { "t": "Queremos uma parceria de longo prazo.", "es": "Queremos una alianza a largo plazo.", "pron": "keremus úma parserría dyi lóngu prázu" }
+      ],
+      "dialogo": {
+        "titulo": "Primeira conversa de negócios",
+        "lineas": [
+          { "q": "A", "t": "Boa tarde. Temos uma proposta para o senhor.", "es": "Buenas tardes. Tenemos una propuesta para usted." },
+          { "q": "B", "t": "Estou disposto a ouvir. Qual é a oferta?", "es": "Estoy dispuesto a escuchar. ¿Cuál es la oferta?" },
+          { "q": "A", "t": "Queremos uma parceria de longo prazo. Que tal começarmos em março?", "es": "Queremos una alianza a largo plazo. ¿Qué tal si empezamos en marzo?" },
+          { "q": "B", "t": "Gosto da ideia. E se dividíssemos os custos?", "es": "Me gusta la idea. ¿Y si dividiéramos los costos?" },
+          { "q": "A", "t": "Poderíamos estudar isso. Enviarei uma contraproposta.", "es": "Podríamos estudiarlo. Enviaré una contrapropuesta." }
+        ]
+      },
+      "nota": "En negociaciones brasileñas, un tono cordial es parte del negocio: se suele empezar con una conversación amable antes de hablar del precio."
+    },
+    {
+      "id": "pt-b2-u16-l2",
+      "n": 2,
+      "titulo": "Precio, plazo y condiciones",
+      "objetivo": "Negociar descuento, formas de pago y plazos.",
+      "intro": "Al negociar se habla de valor, desconto (descuento), prazo (plazo) y formas de pago. Truco: «à vista» es pagar en el acto y «parcelado» es en cuotas.",
+      "palabras": [
+        { "t": "desconto", "es": "descuento", "pron": "deskóntu", "ej": "Podemos dar um desconto de dez por cento.", "ejes": "Podemos dar un descuento del diez por ciento.", "cog": false },
+        { "t": "valor", "es": "valor, precio", "pron": "valór", "ej": "Qual é o valor total do contrato?", "ejes": "¿Cuál es el valor total del contrato?", "cog": true },
+        { "t": "à vista", "es": "al contado", "pron": "a vísta", "ej": "Pagando à vista, o desconto é maior.", "ejes": "Pagando al contado, el descuento es mayor.", "cog": false },
+        { "t": "parcelado", "es": "en cuotas", "pron": "parseládu", "ej": "O pagamento pode ser parcelado em seis vezes.", "ejes": "El pago puede ser en cuotas de seis veces.", "cog": false },
+        { "t": "condições", "es": "condiciones", "pron": "kondisóins", "ej": "Quais são as condições de pagamento?", "ejes": "¿Cuáles son las condiciones de pago?", "cog": true },
+        { "t": "ceder", "es": "ceder", "pron": "sedér", "ej": "Podemos ceder um pouco no prazo.", "ejes": "Podemos ceder un poco en el plazo.", "cog": true },
+        { "t": "abrir mão de", "es": "renunciar a", "pron": "abrír máun dyi", "ej": "Não posso abrir mão de uma garantia.", "ejes": "No puedo renunciar a una garantía.", "cog": false },
+        { "t": "fechar negócio", "es": "cerrar trato", "pron": "fechár negósiu", "ej": "Vamos fechar negócio hoje?", "ejes": "¿Cerramos trato hoy?", "cog": false },
+        { "t": "orçamento", "es": "presupuesto", "pron": "orsaméntu", "ej": "O orçamento está acima do esperado.", "ejes": "El presupuesto está por encima de lo esperado.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Podemos dar um desconto de dez por cento.", "es": "Podemos dar un descuento del diez por ciento.", "pron": "podémus dár ún deskóntu dyi déz por séntu" },
+        { "t": "Pagando à vista, o desconto é maior.", "es": "Pagando al contado, el descuento es mayor.", "pron": "pagándu a vísta u deskóntu é maiór" },
+        { "t": "O pagamento pode ser parcelado em seis vezes.", "es": "El pago puede ser en seis cuotas.", "pron": "u pagaméntu pódyi sér parseládu ein séis vézis" },
+        { "t": "Se pudéssemos, abriríamos mão do prazo.", "es": "Si pudiéramos, renunciaríamos al plazo.", "pron": "si pudésemus abriríamus máun du prázu" },
+        { "t": "Vamos fechar negócio hoje?", "es": "¿Cerramos trato hoy?", "pron": "vámus fechár negósiu óyi" }
+      ],
+      "dialogo": {
+        "titulo": "Discutindo o preço",
+        "lineas": [
+          { "q": "A", "t": "O valor total do orçamento é alto para nós.", "es": "El valor total del presupuesto es alto para nosotros." },
+          { "q": "B", "t": "Se o senhor pagasse à vista, daríamos um desconto de dez por cento.", "es": "Si usted pagara al contado, daríamos un descuento del diez por ciento." },
+          { "q": "A", "t": "E se fosse parcelado em seis vezes, quais seriam as condições?", "es": "¿Y si fuera en seis cuotas, cuáles serían las condiciones?" },
+          { "q": "B", "t": "Poderíamos ceder um pouco no prazo, mas não posso abrir mão da garantia.", "es": "Podríamos ceder un poco en el plazo, pero no puedo renunciar a la garantía." },
+          { "q": "A", "t": "Está bem. Vamos fechar negócio hoje.", "es": "Está bien. Cerremos trato hoy." }
+        ]
+      },
+      "nota": "«Pagar à vista» no necesita ser en efectivo: significa pagar todo de una vez. En tiendas brasileñas es común oír «no cartão, em até dez vezes»."
+    },
+    {
+      "id": "pt-b2-u16-l3",
+      "n": 3,
+      "titulo": "Persuadir con argumentos",
+      "objetivo": "Convencer con ventajas, ejemplos y seguridad.",
+      "intro": "Persuadir es dar buenas razones: ventaja, beneficio, ejemplo. Truco: usa «garanto que» y «pense bem» para dar seguridad sin presionar.",
+      "palabras": [
+        { "t": "argumento", "es": "argumento", "pron": "argumentú", "ej": "Seu argumento é muito forte.", "ejes": "Su argumento es muy fuerte.", "cog": true },
+        { "t": "vantagem", "es": "ventaja", "pron": "vantáyein", "ej": "A maior vantagem é o preço baixo.", "ejes": "La mayor ventaja es el precio bajo.", "cog": false },
+        { "t": "benefício", "es": "beneficio", "pron": "benefísiu", "ej": "O benefício principal é a economia de tempo.", "ejes": "El beneficio principal es el ahorro de tiempo.", "cog": true },
+        { "t": "convencer", "es": "convencer", "pron": "konvensér", "ej": "Quero convencer o cliente com dados.", "ejes": "Quiero convencer al cliente con datos.", "cog": true },
+        { "t": "vale a pena", "es": "vale la pena", "pron": "váli a péna", "ej": "Esse investimento vale a pena.", "ejes": "Esta inversión vale la pena.", "cog": false },
+        { "t": "garanto que", "es": "garantizo que", "pron": "garántu ki", "ej": "Garanto que a qualidade é excelente.", "ejes": "Garantizo que la calidad es excelente.", "cog": false },
+        { "t": "pense bem", "es": "piénselo bien", "pron": "pénsi béin", "ej": "Pense bem antes de decidir.", "ejes": "Piénselo bien antes de decidir.", "cog": false },
+        { "t": "sem dúvida", "es": "sin duda", "pron": "séin dúvida", "ej": "Sem dúvida, é a melhor opção.", "ejes": "Sin duda, es la mejor opción.", "cog": false },
+        { "t": "imagine", "es": "imagine", "pron": "imáyini", "ej": "Imagine ter mais tempo para a família.", "ejes": "Imagine tener más tiempo para la familia.", "cog": true }
+      ],
+      "frases": [
+        { "t": "A maior vantagem é o preço baixo.", "es": "La mayor ventaja es el precio bajo.", "pron": "a maiór vantáyein é u présu báishu" },
+        { "t": "Esse investimento vale a pena.", "es": "Esta inversión vale la pena.", "pron": "ésyi investiméntu váli a péna" },
+        { "t": "Garanto que a qualidade é excelente.", "es": "Garantizo que la calidad es excelente.", "pron": "garántu ki a kualidádyi é eselénti" },
+        { "t": "Pense bem antes de decidir.", "es": "Piénselo bien antes de decidir.", "pron": "pénsi béin ántyis dyi desidír" },
+        { "t": "Imagine ter mais tempo para a família.", "es": "Imagine tener más tiempo para la familia.", "pron": "imáyini tér máis témpu pára a famíliya" }
+      ],
+      "dialogo": {
+        "titulo": "Vendendo uma ideia",
+        "lineas": [
+          { "q": "A", "t": "Imagine ter mais tempo para a família com esse sistema.", "es": "Imagine tener más tiempo para la familia con este sistema." },
+          { "q": "B", "t": "Qual é a maior vantagem?", "es": "¿Cuál es la mayor ventaja?" },
+          { "q": "A", "t": "O benefício principal é a economia. Garanto que vale a pena.", "es": "El beneficio principal es el ahorro. Garantizo que vale la pena." },
+          { "q": "B", "t": "Seu argumento é forte, mas preciso pensar bem.", "es": "Su argumento es fuerte, pero necesito pensarlo bien." },
+          { "q": "A", "t": "Pense bem. Sem dúvida, é a melhor opção do mercado.", "es": "Piénselo bien. Sin duda, es la mejor opción del mercado." }
+        ]
+      },
+      "nota": "En ventas brasileñas es común usar «vale a pena» y «garanto» para dar confianza; úsalas con datos reales para no sonar exagerado."
+    },
+    {
+      "id": "pt-b2-u16-l4",
+      "n": 4,
+      "titulo": "Objeciones y cierre",
+      "objetivo": "Responder a objeciones, rechazar con tacto y cerrar un acuerdo.",
+      "intro": "Rechazar bien también es persuadir: «entendo o seu ponto, mas...» mantiene la relación. Truco: ofrece un «meio-termo» (punto medio) antes de decir que no.",
+      "palabras": [
+        { "t": "entendo o seu ponto", "es": "entiendo su punto", "pron": "enténdu u séu póntu", "ej": "Entendo o seu ponto, mas preciso de mais tempo.", "ejes": "Entiendo su punto, pero necesito más tiempo.", "cog": false },
+        { "t": "lamento", "es": "lamento", "pron": "laméntu", "ej": "Lamento, mas não é possível.", "ejes": "Lo lamento, pero no es posible.", "cog": false },
+        { "t": "recusar", "es": "rechazar", "pron": "rekuzár", "ej": "Tive que recusar a oferta.", "ejes": "Tuve que rechazar la oferta.", "cog": false },
+        { "t": "aceitar", "es": "aceptar", "pron": "aseitár", "ej": "Vou aceitar a proposta.", "ejes": "Voy a aceptar la propuesta.", "cog": true },
+        { "t": "meio-termo", "es": "punto medio", "pron": "méiu térmu", "ej": "Podemos chegar a um meio-termo.", "ejes": "Podemos llegar a un punto medio.", "cog": false },
+        { "t": "chegar a um acordo", "es": "llegar a un acuerdo", "pron": "shegár a ún akórdu", "ej": "Vamos chegar a um acordo hoje.", "ejes": "Vamos a llegar a un acuerdo hoy.", "cog": false },
+        { "t": "assinar", "es": "firmar", "pron": "asinár", "ej": "Podemos assinar o contrato agora?", "ejes": "¿Podemos firmar el contrato ahora?", "cog": false },
+        { "t": "infelizmente", "es": "lamentablemente", "pron": "infelizméntyi", "ej": "Infelizmente, o prazo é impossível.", "ejes": "Lamentablemente, el plazo es imposible.", "cog": false },
+        { "t": "concordar", "es": "estar de acuerdo", "pron": "konkordár", "ej": "Quero concordar com a sua proposta.", "ejes": "Quiero estar de acuerdo con su propuesta.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Entendo o seu ponto, mas preciso de mais tempo.", "es": "Entiendo su punto, pero necesito más tiempo.", "pron": "enténdu u séu póntu mais presísu dyi máis témpu" },
+        { "t": "Infelizmente, o prazo é impossível.", "es": "Lamentablemente, el plazo es imposible.", "pron": "infelizméntyi u prázu é imposível" },
+        { "t": "Podemos chegar a um meio-termo.", "es": "Podemos llegar a un punto medio.", "pron": "podémus shegár a ún méiu térmu" },
+        { "t": "Caso o senhor concorde, assinamos hoje.", "es": "Si usted está de acuerdo, firmamos hoy.", "pron": "kázu u señór konkórdyi asinámus óyi" },
+        { "t": "Vamos chegar a um acordo hoje.", "es": "Vamos a llegar a un acuerdo hoy.", "pron": "vámus shegár a ún akórdu óyi" }
+      ],
+      "dialogo": {
+        "titulo": "Fechando o acordo",
+        "lineas": [
+          { "q": "A", "t": "Entendo o seu ponto, mas infelizmente o prazo é curto.", "es": "Entiendo su punto, pero lamentablemente el plazo es corto." },
+          { "q": "B", "t": "Se tivéssemos mais tempo, aceitaríamos o contrato agora.", "es": "Si tuviéramos más tiempo, aceptaríamos el contrato ahora." },
+          { "q": "A", "t": "Podemos chegar a um meio-termo: estender o prazo em duas semanas.", "es": "Podemos llegar a un punto medio: extender el plazo dos semanas." },
+          { "q": "B", "t": "Caso o senhor concorde, assinamos hoje.", "es": "Si usted está de acuerdo, firmamos hoy." },
+          { "q": "A", "t": "Concordo. Vamos chegar a um acordo e assinar agora.", "es": "De acuerdo. Lleguemos a un acuerdo y firmemos ahora." }
+        ]
+      },
+      "nota": "Para decir que no con tacto: «Infelizmente não é possível, mas podemos...». Ofrece siempre una alternativa."
+    },
+    {
+      "id": "pt-b2-u16-l5",
+      "n": 5,
+      "titulo": "Repaso general del nivel B2",
+      "objetivo": "Combinar expresiones, conectores y relativos del nivel B2 en una negociación completa.",
+      "intro": "Esta lección repasa todo el nivel: expresiones idiomáticas, registro formal, conectores y relativos. Truco: graba una negociación de 2 minutos usando al menos 5 estructuras distintas.",
+      "palabras": [
+        { "t": "pôr as cartas na mesa", "es": "poner las cartas sobre la mesa", "pron": "pór as kártas na méza", "ej": "Vamos pôr as cartas na mesa antes de assinar.", "ejes": "Pongamos las cartas sobre la mesa antes de firmar.", "cog": false },
+        { "t": "de comum acordo", "es": "de común acuerdo", "pron": "dyi komúm akórdu", "ej": "Decidimos de comum acordo cancelar a reunião.", "ejes": "Decidimos de común acuerdo cancelar la reunión.", "cog": false },
+        { "t": "a longo prazo", "es": "a largo plazo", "pron": "a lóngu prázu", "ej": "A longo prazo, a parceria traz lucro.", "ejes": "A largo plazo, la alianza trae ganancias.", "cog": false },
+        { "t": "conquistar", "es": "conquistar, ganarse", "pron": "konkistár", "ej": "Quero conquistar a confiança do cliente.", "ejes": "Quiero ganarme la confianza del cliente.", "cog": true },
+        { "t": "lucro", "es": "ganancia", "pron": "lúkru", "ej": "O lucro do ano foi alto.", "ejes": "La ganancia del año fue alta.", "cog": false },
+        { "t": "cujo", "es": "cuyo", "pron": "kúyu", "ej": "É um sócio cujo conselho eu respeito.", "ejes": "Es un socio cuyo consejo respeto.", "cog": false },
+        { "t": "quanto mais", "es": "cuanto más", "pron": "kuántu máis", "ej": "Quanto mais conversamos, mais confiamos.", "ejes": "Cuanto más conversamos, más confiamos.", "cog": false },
+        { "t": "embora", "es": "aunque", "pron": "embóra", "ej": "Embora seja difícil, vale a pena tentar.", "ejes": "Aunque sea difícil, vale la pena intentar.", "cog": false },
+        { "t": "portanto", "es": "por lo tanto", "pron": "portántu", "ej": "O preço é justo, portanto podemos assinar.", "ejes": "El precio es justo, por lo tanto podemos firmar.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Vamos pôr as cartas na mesa antes de assinar.", "es": "Pongamos las cartas sobre la mesa antes de firmar.", "pron": "vámus pór as kártas na méza ántyis dyi asinár" },
+        { "t": "Decidimos de comum acordo fechar o negócio.", "es": "Decidimos de común acuerdo cerrar el trato.", "pron": "desidímus dyi komúm akórdu fechár u negósiu" },
+        { "t": "Quanto mais conversamos, mais confiamos.", "es": "Cuanto más conversamos, más confiamos.", "pron": "kuántu máis konversámus máis konfiámus" },
+        { "t": "Embora seja difícil, vale a pena tentar.", "es": "Aunque sea difícil, vale la pena intentar.", "pron": "embóra séya dyifísiw váli a péna tentár" },
+        { "t": "A longo prazo, a parceria traz lucro.", "es": "A largo plazo, la alianza trae ganancias.", "pron": "a lóngu prázu a parserría tráz lúkru" }
+      ],
+      "dialogo": {
+        "titulo": "Uma negociação completa",
+        "lineas": [
+          { "q": "A", "t": "Vamos pôr as cartas na mesa: o valor é alto, mas a qualidade é excelente.", "es": "Pongamos las cartas sobre la mesa: el valor es alto, pero la calidad es excelente." },
+          { "q": "B", "t": "Embora seja alto, entendo o seu ponto. A longo prazo, o lucro compensa.", "es": "Aunque sea alto, entiendo su punto. A largo plazo, la ganancia compensa." },
+          { "q": "A", "t": "Quanto mais conversamos, mais confio em você. Se pudesse, daria um desconto.", "es": "Cuanto más conversamos, más confío en usted. Si pudiera, daría un descuento." },
+          { "q": "B", "t": "Poderíamos chegar a um meio-termo: decidimos de comum acordo.", "es": "Podríamos llegar a un punto medio: decidimos de común acuerdo." },
+          { "q": "A", "t": "Ótimo. Portanto, vamos fechar negócio e assinar hoje.", "es": "Excelente. Por lo tanto, cerremos trato y firmemos hoy." }
+        ]
+      },
+      "nota": "¡Felicidades! Has completado el nivel B2. Repasa las expresiones de la unidad 9, el registro de la 10 y los conectores de la 15 para consolidar."
+    }
+  ]
+}

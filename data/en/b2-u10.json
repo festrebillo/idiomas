@@ -1,0 +1,221 @@
+{
+  "id": "en-b2-u10",
+  "idioma": "en",
+  "nivel": "B2",
+  "n": 10,
+  "titulo": "Registro formal e informal",
+  "resumen": "Aprenderás a elegir entre inglés formal e informal: verbos con partícula frente a verbos formales, contracciones y frases de cortesía.",
+  "puedo": [
+    "Distinguir un tono formal de uno informal.",
+    "Cambiar un phrasal verb por un verbo formal equivalente.",
+    "Usar contracciones en conversación y evitarlas en textos formales.",
+    "Escribir un correo formal con saludo y cierre adecuados.",
+    "Adaptar lo que digo según la persona con la que hablo."
+  ],
+  "gramatica": {
+    "titulo": "Phrasal verb (informal) o verbo formal",
+    "texto": "Para decir lo mismo, el inglés suele tener dos opciones. Los phrasal verbs (verbo + partícula) son más informales y se usan al hablar: find out, ask for, put off. Los verbos de origen latino son más formales y se usan al escribir informes o cartas: discover, request, postpone.\nEjemplos: We need to find out the reason (informal) y We need to determine the reason (formal).\nTambién cambian las contracciones: al hablar dices I'm, don't, it's; en un texto formal escribes I am, do not, it is.\nTruco: con amigos y colegas cercanos, usa lo informal; con clientes, jefes que no conoces o por escrito oficial, lo formal.",
+    "tabla": [
+      ["find out", "averiguar (informal)", "faind aut"],
+      ["discover / determine", "descubrir / determinar (formal)", "discóver / ditérmin"],
+      ["ask for", "pedir (informal)", "ask for"],
+      ["request", "solicitar (formal)", "ricuést"],
+      ["put off", "posponer (informal)", "put of"],
+      ["postpone", "posponer (formal)", "poustpóun"]
+    ],
+    "errores": [
+      "No uses lenguaje muy informal en un correo a un cliente: «Hey, gonna send it soon» suena poco profesional.",
+      "No mezcles registros en la misma frase: evita «We shall commence ASAP, guys».",
+      "No pienses que formal es siempre mejor: con amigos, request o purchase suenan fríos y raros."
+    ]
+  },
+  "practica": [
+    "Toma 6 phrasal verbs que conozcas y busca su verbo formal equivalente (10 minutos).",
+    "Reescribe un mensaje informal tuyo como correo formal de 5 líneas (12 minutos).",
+    "Di en voz alta la misma petición de dos maneras: a un amigo y a un jefe (6 minutos).",
+    "Lee un correo de empresa en inglés y subraya 5 expresiones formales (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b2-u10-l1",
+      "n": 1,
+      "titulo": "Informal y formal",
+      "objetivo": "Reconocer palabras informales y sus equivalentes formales.",
+      "intro": "El mismo mensaje cambia según a quién se lo dices. Truco: las palabras largas, de origen latino, casi siempre son más formales.",
+      "palabras": [
+        { "t": "buy", "es": "comprar (informal)", "pron": "bai", "ej": "I want to buy a new laptop.", "ejes": "Quiero comprar una laptop nueva.", "cog": false },
+        { "t": "purchase", "es": "adquirir (formal)", "pron": "pérches", "ej": "You may purchase tickets online.", "ejes": "Puede adquirir entradas por internet.", "cog": false },
+        { "t": "help", "es": "ayudar (informal)", "pron": "jelp", "ej": "Can you help me with this?", "ejes": "¿Puedes ayudarme con esto?", "cog": false },
+        { "t": "assist", "es": "asistir, ayudar (formal)", "pron": "asíst", "ej": "How may I assist you?", "ejes": "¿En qué puedo ayudarle?", "cog": true },
+        { "t": "start", "es": "empezar (informal)", "pron": "start", "ej": "The class will start at nine.", "ejes": "La clase empezará a las nueve.", "cog": false },
+        { "t": "commence", "es": "comenzar (formal)", "pron": "comíns", "ej": "The meeting will commence at nine.", "ejes": "La reunión comenzará a las nueve.", "cog": true },
+        { "t": "enough", "es": "suficiente (informal)", "pron": "inóf", "ej": "We have enough time.", "ejes": "Tenemos tiempo suficiente.", "cog": false },
+        { "t": "sufficient", "es": "suficiente (formal)", "pron": "sufíshent", "ej": "The funds are sufficient.", "ejes": "Los fondos son suficientes.", "cog": true },
+        { "t": "kids", "es": "niños (informal)", "pron": "kids", "ej": "My kids are at school.", "ejes": "Mis hijos están en la escuela.", "cog": false }
+      ],
+      "frases": [
+        { "t": "How may I assist you?", "es": "¿En qué puedo ayudarle?", "pron": "jau mei ai asíst iu" },
+        { "t": "Can you help me, please?", "es": "¿Puedes ayudarme, por favor?", "pron": "can iu jelp mi plis" },
+        { "t": "The event will commence at noon.", "es": "El evento comenzará a mediodía.", "pron": "di ivént uil comíns at nun" },
+        { "t": "The film starts at eight.", "es": "La película empieza a las ocho.", "pron": "da film starts at eit" },
+        { "t": "Tickets may be purchased online.", "es": "Las entradas pueden adquirirse en línea.", "pron": "tíkets mei bi pérchest onláin" }
+      ],
+      "dialogo": {
+        "titulo": "En una tienda",
+        "lineas": [
+          { "q": "A", "t": "Good afternoon. How may I assist you?", "es": "Buenas tardes. ¿En qué puedo ayudarle?" },
+          { "q": "B", "t": "I'd like to buy a gift for my kids.", "es": "Quisiera comprar un regalo para mis hijos." },
+          { "q": "A", "t": "Certainly. Is your budget sufficient for this toy?", "es": "Por supuesto. ¿Su presupuesto alcanza para este juguete?" },
+          { "q": "B", "t": "Yes, I have enough. Can you help me choose?", "es": "Sí, tengo suficiente. ¿Me ayuda a elegir?" },
+          { "q": "A", "t": "Of course.", "es": "Por supuesto." }
+        ]
+      },
+      "nota": "Un vendedor educado dice How may I assist you? (formal). Entre amigos basta con Need help?"
+    },
+    {
+      "id": "en-b2-u10-l2",
+      "n": 2,
+      "titulo": "Phrasal verb o verbo formal",
+      "objetivo": "Cambiar phrasal verbs por verbos formales y viceversa.",
+      "intro": "Cada phrasal verb informal tiene un primo formal. Truco: aprende los pares juntos, por ejemplo, find out y discover.",
+      "palabras": [
+        { "t": "find out", "es": "averiguar", "pron": "faind aut", "ej": "I'll find out the price.", "ejes": "Averiguaré el precio.", "cog": false },
+        { "t": "discover", "es": "descubrir", "pron": "discóver", "ej": "We discover new things every day.", "ejes": "Descubrimos cosas nuevas cada día.", "cog": true },
+        { "t": "ask for", "es": "pedir", "pron": "ask for", "ej": "Don't be shy to ask for help.", "ejes": "No tengas pena de pedir ayuda.", "cog": false },
+        { "t": "request", "es": "solicitar", "pron": "ricuést", "ej": "You can request a refund.", "ejes": "Puede solicitar un reembolso.", "cog": true },
+        { "t": "put off", "es": "posponer", "pron": "put of", "ej": "Don't put off your homework.", "ejes": "No pospongas tu tarea.", "cog": false },
+        { "t": "postpone", "es": "posponer (formal)", "pron": "poustpóun", "ej": "They had to postpone the event.", "ejes": "Tuvieron que posponer el evento.", "cog": true },
+        { "t": "look into", "es": "investigar", "pron": "luk íntu", "ej": "We will look into the problem.", "ejes": "Investigaremos el problema.", "cog": false },
+        { "t": "investigate", "es": "investigar (formal)", "pron": "invéstigueit", "ej": "The police will investigate the case.", "ejes": "La policía investigará el caso.", "cog": true },
+        { "t": "come up with", "es": "idear", "pron": "com op uid", "ej": "Can you come up with a better plan?", "ejes": "¿Puedes idear un plan mejor?", "cog": false }
+      ],
+      "frases": [
+        { "t": "I'll find out and let you know.", "es": "Averiguaré y te aviso.", "pron": "ail faind aut and let iu nou" },
+        { "t": "You may request a copy of the report.", "es": "Puede solicitar una copia del informe.", "pron": "iu mei ricuést a cópi ov da ripórt" },
+        { "t": "We need to postpone the meeting.", "es": "Necesitamos posponer la reunión.", "pron": "ui nid tu poustpóun da mítin" },
+        { "t": "Let's not put it off any longer.", "es": "No lo pospongamos más.", "pron": "lets not put it of eni lónguer" },
+        { "t": "The team will investigate the cause.", "es": "El equipo investigará la causa.", "pron": "da tim uil invéstigueit da cos" }
+      ],
+      "dialogo": {
+        "titulo": "Un cambio de fecha",
+        "lineas": [
+          { "q": "A", "t": "Hi Sam, we have to put off the meeting until Friday.", "es": "Hola, Sam, tenemos que posponer la reunión hasta el viernes." },
+          { "q": "B", "t": "Why? Can you come up with a better date?", "es": "¿Por qué? ¿Puedes proponer una fecha mejor?" },
+          { "q": "A", "t": "I'll find out when the client is free and tell you.", "es": "Averiguaré cuándo está libre el cliente y te aviso." },
+          { "q": "B", "t": "Fine. Please ask for confirmation by email.", "es": "Bien. Por favor, pide confirmación por correo." },
+          { "q": "A", "t": "Will do.", "es": "Lo haré." }
+        ]
+      },
+      "nota": "En una carta formal escribirías: We regret to inform you that the meeting has been postponed. Entre colegas: We had to put off the meeting."
+    },
+    {
+      "id": "en-b2-u10-l3",
+      "n": 3,
+      "titulo": "Contracciones y habla coloquial",
+      "objetivo": "Usar contracciones al hablar y saber cuándo evitarlas.",
+      "intro": "Al hablar, los nativos contraen casi todo. Truco: en un correo formal, escribe las formas completas; en un chat, usa las contracciones.",
+      "palabras": [
+        { "t": "gonna", "es": "voy a (hablado)", "pron": "gónna", "ej": "I'm gonna call you later.", "ejes": "Te voy a llamar más tarde.", "cog": false, "truco": "Solo se dice al hablar; se escribe going to." },
+        { "t": "wanna", "es": "quiero (hablado)", "pron": "uónna", "ej": "I wanna go home now.", "ejes": "Quiero irme a casa ya.", "cog": false },
+        { "t": "gotta", "es": "tengo que (hablado)", "pron": "gótta", "ej": "I gotta run, see you.", "ejes": "Tengo que irme, nos vemos.", "cog": false },
+        { "t": "kinda", "es": "algo, un poco (hablado)", "pron": "káinda", "ej": "It's kinda cold today.", "ejes": "Hoy hace algo de frío.", "cog": false },
+        { "t": "yeah", "es": "sí (informal)", "pron": "ie", "ej": "Yeah, I know what you mean.", "ejes": "Sí, sé a qué te refieres.", "cog": false },
+        { "t": "cool", "es": "genial (informal)", "pron": "cul", "ej": "That's a cool idea.", "ejes": "Es una idea genial.", "cog": false },
+        { "t": "guys", "es": "chicos, gente", "pron": "gais", "ej": "Hey guys, are you ready?", "ejes": "Oigan, chicos, ¿están listos?", "cog": false },
+        { "t": "pretty", "es": "bastante (informal)", "pron": "príti", "ej": "It's pretty good.", "ejes": "Está bastante bien.", "cog": false },
+        { "t": "stuff", "es": "cosas", "pron": "stof", "ej": "I have a lot of stuff to do.", "ejes": "Tengo muchas cosas que hacer.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I'm gonna be late.", "es": "Voy a llegar tarde.", "pron": "aim gónna bi leit" },
+        { "t": "I gotta go now.", "es": "Tengo que irme ya.", "pron": "ai gótta gou nau" },
+        { "t": "It's pretty cool, isn't it?", "es": "Está bastante genial, ¿no?", "pron": "its príti cul ísent it" },
+        { "t": "We don't have to decide today.", "es": "No tenemos que decidir hoy.", "pron": "ui dont jav tu disáid tudéi" },
+        { "t": "I am not able to attend.", "es": "No me es posible asistir.", "pron": "ai am not éibol tu aténd" }
+      ],
+      "dialogo": {
+        "titulo": "Un mensaje de voz",
+        "lineas": [
+          { "q": "A", "t": "Hey, where are you? Are you coming?", "es": "Oye, ¿dónde estás? ¿Vienes?" },
+          { "q": "B", "t": "Yeah, I'm gonna be there in ten minutes.", "es": "Sí, llego en diez minutos." },
+          { "q": "A", "t": "Cool. The guys are kinda hungry.", "es": "Genial. Los chicos tienen algo de hambre." },
+          { "q": "B", "t": "I gotta stop at the bank first. Don't wait for me.", "es": "Tengo que pasar por el banco primero. No me esperen." },
+          { "q": "A", "t": "No problem, see you soon.", "es": "Sin problema, nos vemos pronto." }
+        ]
+      },
+      "nota": "Gonna, wanna y gotta se oyen mucho, pero no los escribas en un trabajo formal. En esos casos usa going to, want to y have to."
+    },
+    {
+      "id": "en-b2-u10-l4",
+      "n": 4,
+      "titulo": "Correos formales",
+      "objetivo": "Escribir saludos, peticiones y cierres de un correo formal.",
+      "intro": "Un correo formal sigue una estructura fija. Truco: aprende el saludo y el cierre como bloques, y cambia solo el contenido.",
+      "palabras": [
+        { "t": "regarding", "es": "con respecto a", "pron": "riguárdin", "ej": "I am writing regarding your order.", "ejes": "Le escribo con respecto a su pedido.", "cog": false },
+        { "t": "attach", "es": "adjuntar", "pron": "atách", "ej": "I attach the invoice.", "ejes": "Adjunto la factura.", "cog": false },
+        { "t": "inform", "es": "informar", "pron": "infórm", "ej": "I regret to inform you of a delay.", "ejes": "Lamento informarle de un retraso.", "cog": true },
+        { "t": "inquire", "es": "consultar, preguntar", "pron": "incuáir", "ej": "I am writing to inquire about the job.", "ejes": "Le escribo para consultar sobre el puesto.", "cog": false },
+        { "t": "apologize", "es": "disculparse", "pron": "apólochais", "ej": "We apologize for the inconvenience.", "ejes": "Nos disculpamos por las molestias.", "cog": true },
+        { "t": "inconvenience", "es": "molestia", "pron": "inconvíniens", "ej": "We apologize for the inconvenience.", "ejes": "Nos disculpamos por la molestia.", "cog": true },
+        { "t": "sincerely", "es": "atentamente", "pron": "sinsírli", "ej": "Sincerely, Laura Diaz", "ejes": "Atentamente, Laura Díaz", "cog": true },
+        { "t": "enclose", "es": "adjuntar (en papel)", "pron": "enclóus", "ej": "I enclose a copy of my resume.", "ejes": "Adjunto una copia de mi currículum.", "cog": false },
+        { "t": "assistance", "es": "ayuda, asistencia", "pron": "asístens", "ej": "Thank you for your assistance.", "ejes": "Gracias por su ayuda.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Dear Mr. Lopez,", "es": "Estimado Sr. López:", "pron": "dir míster lópez" },
+        { "t": "I am writing to inquire about the position.", "es": "Le escribo para consultar sobre el puesto.", "pron": "ai am ráitin tu incuáir abáut da pozíshon" },
+        { "t": "Please find the report attached.", "es": "Encuentre adjunto el informe.", "pron": "plis faind da ripórt atácht" },
+        { "t": "We apologize for any inconvenience.", "es": "Nos disculpamos por cualquier molestia.", "pron": "ui apólochais for éni inconvíniens" },
+        { "t": "I look forward to hearing from you.", "es": "Quedo atento a su respuesta.", "pron": "ai luk fórguard tu jírin from iu" },
+        { "t": "Sincerely, Laura Diaz", "es": "Atentamente, Laura Díaz", "pron": "sinsírli laura dias" }
+      ],
+      "dialogo": {
+        "titulo": "Al teléfono sobre un correo",
+        "lineas": [
+          { "q": "A", "t": "Hello, I'm calling regarding the email I sent yesterday.", "es": "Hola, llamo con respecto al correo que envié ayer." },
+          { "q": "B", "t": "Yes, I received it. Thank you for your assistance.", "es": "Sí, lo recibí. Gracias por su ayuda." },
+          { "q": "A", "t": "I attached the invoice, but I want to inquire about the delivery date.", "es": "Adjunté la factura, pero quiero consultar la fecha de entrega." },
+          { "q": "B", "t": "We apologize for the inconvenience. It will arrive on Monday.", "es": "Nos disculpamos por la molestia. Llegará el lunes." },
+          { "q": "A", "t": "Perfect, thank you.", "es": "Perfecto, gracias." }
+        ]
+      },
+      "nota": "En EE. UU., Sincerely es el cierre formal más común. Si no conoces el nombre del destinatario, empieza con Dear Sir or Madam."
+    },
+    {
+      "id": "en-b2-u10-l5",
+      "n": 5,
+      "titulo": "Repaso: cada situación, su tono",
+      "objetivo": "Elegir el registro adecuado en distintas situaciones.",
+      "intro": "Practica cambiar de tono: amigo, jefe, cliente, desconocido. Truco: antes de hablar o escribir, pregúntate a quién le hablas.",
+      "palabras": [
+        { "t": "polite", "es": "educado, cortés", "pron": "poláit", "ej": "Please be polite to the customers.", "ejes": "Por favor, sé cortés con los clientes.", "cog": false },
+        { "t": "casual", "es": "informal, relajado", "pron": "cáyual", "ej": "The dress code is casual.", "ejes": "El código de vestimenta es informal.", "cog": true },
+        { "t": "formal", "es": "formal", "pron": "fórmal", "ej": "This is a formal letter.", "ejes": "Esta es una carta formal.", "cog": true },
+        { "t": "tone", "es": "tono", "pron": "toun", "ej": "I don't like his tone.", "ejes": "No me gusta su tono.", "cog": true },
+        { "t": "polish", "es": "pulir, mejorar", "pron": "pólish", "ej": "I need to polish my writing.", "ejes": "Necesito pulir mi redacción.", "cog": false },
+        { "t": "rude", "es": "grosero", "pron": "rud", "ej": "It's rude to interrupt.", "ejes": "Es grosero interrumpir.", "cog": false },
+        { "t": "respectful", "es": "respetuoso", "pron": "rispéctful", "ej": "He is always respectful.", "ejes": "Él siempre es respetuoso.", "cog": true },
+        { "t": "address", "es": "dirigirse a", "pron": "adrés", "ej": "How do I address the director?", "ejes": "¿Cómo me dirijo al director?", "cog": false },
+        { "t": "reply", "es": "responder", "pron": "riplái", "ej": "Please reply by Friday.", "ejes": "Por favor, responda antes del viernes.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Would you mind sending me the file?", "es": "¿Le importaría enviarme el archivo?", "pron": "uud iu maind séndin mi da fail" },
+        { "t": "Send me the file, will you?", "es": "Mándame el archivo, ¿sí?", "pron": "send mi da fail uil iu" },
+        { "t": "I'd be grateful if you could reply soon.", "es": "Le agradecería que respondiera pronto.", "pron": "aid bi gréitful if iu cud riplái sun" },
+        { "t": "It's rude to interrupt people.", "es": "Es grosero interrumpir a la gente.", "pron": "its rud tu interrópt pípol" },
+        { "t": "Hey, can you send me the file?", "es": "Oye, ¿me mandas el archivo?", "pron": "jei can iu send mi da fail" }
+      ],
+      "dialogo": {
+        "titulo": "Dos tonos distintos",
+        "lineas": [
+          { "q": "A", "t": "Hey Lucy, can you reply to Tom's email? I'm swamped.", "es": "Oye, Lucy, ¿puedes responder el correo de Tom? Estoy agobiado." },
+          { "q": "B", "t": "Sure. How should I address him? He's the new director.", "es": "Claro. ¿Cómo me dirijo a él? Es el nuevo director." },
+          { "q": "A", "t": "Be polite and formal. Use Dear Mr. Brown.", "es": "Sé cortés y formal. Usa Dear Mr. Brown." },
+          { "q": "B", "t": "Okay. I'll polish the tone and keep it respectful.", "es": "Bien. Puliré el tono y lo mantendré respetuoso." },
+          { "q": "A", "t": "Perfect, thanks.", "es": "Perfecto, gracias." }
+        ]
+      },
+      "nota": "La cortesía en inglés suele usar would y could: Could you possibly help me? suena más amable que Can you help me?"
+    }
+  ]
+}

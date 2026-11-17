@@ -1,0 +1,724 @@
+{
+  "id": "pt-b2-u6",
+  "idioma": "pt",
+  "nivel": "B2",
+  "n": 6,
+  "titulo": "Deducir y especular",
+  "resumen": "Aprenderás a expresar probabilidad y suposición: «deve ser» (casi seguro), «pode ser que / talvez + subjuntivo» (posible) y «será que...?» (me pregunto si).",
+  "puedo": [
+    "Decir qué creo casi seguro: «deve estar em casa».",
+    "Expresar posibilidad con subjuntivo: «talvez ele venha», «pode ser que chova».",
+    "Hacerme preguntas de duda: «será que ela vem?».",
+    "Deducir a partir de pistas: «com certeza», «ao que tudo indica».",
+    "Hablar de causas posibles de un hecho."
+  ],
+  "gramatica": {
+    "titulo": "Probabilidad: deve ser, pode ser que, talvez + subjuntivo",
+    "texto": "Para decir que algo es muy probable, usa «dever» en presente + infinitivo: Ele deve estar em casa (Debe de estar en casa). Para el pasado: «deve ter + participio»: Ele deve ter esquecido (Debe de haberse olvidado).\nPara algo solo posible, usa expresiones con subjuntivo: Talvez ele venha, Pode ser que chova, É possível que ela saiba. Estas expresiones SIEMPRE llevan subjuntivo presente cuando miran al presente o al futuro.\nPara preguntarte algo en voz alta: Será que ela vem? (¿Vendrá?). Aquí el verbo va en indicativo.\nTruco: «deve» = estoy casi seguro; «talvez / pode ser que» = es posible, pero no lo sé.",
+    "tabla": [
+      [
+        "Ele deve estar em casa.",
+        "Debe de estar en casa.",
+        "éli dévi estár ein káza"
+      ],
+      [
+        "Ela deve ter esquecido.",
+        "Debe de haberlo olvidado.",
+        "éla dévi tér eskesídu"
+      ],
+      [
+        "Talvez ele venha.",
+        "Quizás venga.",
+        "talvés éli véña"
+      ],
+      [
+        "Pode ser que chova.",
+        "Puede ser que llueva.",
+        "pódyi sér ki shóva"
+      ],
+      [
+        "É provável que saiba.",
+        "Es probable que sepa.",
+        "é provável ki sáiba"
+      ],
+      [
+        "Será que ela vem?",
+        "¿Vendrá ella?",
+        "será ki éla vein"
+      ]
+    ],
+    "errores": [
+      "No uses indicativo después de «talvez» o «pode ser que»: «talvez ele vem» es incorrecto; di «talvez ele venha».",
+      "«Deve» no es «debe» como obligación en este uso: «deve estar em casa» significa «probablemente está en casa».",
+      "«Será que...?» no es futuro literal: «Será que ela vem?» significa «¿vendrá?» (una duda), no «¿será que ella vendrá?»."
+    ]
+  },
+  "practica": [
+    "Escribe 8 frases con «deve» sobre qué estarán haciendo ahora tus amigos (6 minutos).",
+    "Escribe 6 frases con «talvez», «pode ser que» y «é possível que» (7 minutos).",
+    "Juega a detective: mira una foto y haz 5 suposiciones en voz alta (5 minutos).",
+    "Escribe 5 preguntas con «será que...?» sobre algo que te intriga (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b2-u6-l1",
+      "n": 1,
+      "titulo": "Deve ser: casi seguro",
+      "objetivo": "Hacer deducciones con «deve + infinitivo» y «deve ter + participio».",
+      "intro": "«Dever» también sirve para deducir. Truco: piensa en «debe de» del español: deve ser, deve estar, deve ter feito.",
+      "palabras": [
+        {
+          "t": "deve ser",
+          "es": "debe de ser",
+          "pron": "dévi sér",
+          "ej": "Isso deve ser um erro.",
+          "ejes": "Eso debe de ser un error.",
+          "cog": false
+        },
+        {
+          "t": "deve estar",
+          "es": "debe de estar",
+          "pron": "dévi estár",
+          "ej": "Ele deve estar no trabalho.",
+          "ejes": "Él debe de estar en el trabajo.",
+          "cog": false
+        },
+        {
+          "t": "deve ter",
+          "es": "debe de haber / tener",
+          "pron": "dévi tér",
+          "ej": "Ela deve ter perdido o ônibus.",
+          "ejes": "Ella debe de haber perdido el bus.",
+          "cog": false
+        },
+        {
+          "t": "certamente",
+          "es": "ciertamente",
+          "pron": "sertaméntyi",
+          "ej": "Certamente ele já chegou.",
+          "ejes": "Ciertamente él ya llegó.",
+          "cog": true
+        },
+        {
+          "t": "com certeza",
+          "es": "con seguridad",
+          "pron": "kon sertéza",
+          "ej": "Com certeza ela esqueceu de ligar.",
+          "ejes": "Seguro que ella olvidó llamar.",
+          "cog": false
+        },
+        {
+          "t": "parece que",
+          "es": "parece que",
+          "pron": "paréci ki",
+          "ej": "Parece que vai chover hoje.",
+          "ejes": "Parece que va a llover hoy.",
+          "cog": false
+        },
+        {
+          "t": "tem de ser",
+          "es": "tiene que ser",
+          "pron": "téin dyi sér",
+          "ej": "Tem de ser ele, não há outra pessoa.",
+          "ejes": "Tiene que ser él, no hay otra persona.",
+          "cog": false
+        },
+        {
+          "t": "não deve",
+          "es": "no debe de",
+          "pron": "náun dévi",
+          "ej": "Ele não deve saber da festa.",
+          "ejes": "Él no debe de saber de la fiesta.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Ele deve estar em casa, a luz está acesa.",
+          "es": "Debe de estar en casa, la luz está encendida.",
+          "pron": "éli dévi estár ein káza, a lús está asésa"
+        },
+        {
+          "t": "Ela deve ter esquecido o nosso encontro.",
+          "es": "Debe de haberse olvidado de nuestra cita.",
+          "pron": "éla dévi tér eskesídu u nósu enkóntru"
+        },
+        {
+          "t": "Isso deve ser caro, olha o tamanho.",
+          "es": "Eso debe de ser caro, mira el tamaño.",
+          "pron": "ísu dévi sér káru, ólha u tamáñu"
+        },
+        {
+          "t": "Parece que o trânsito está pior hoje.",
+          "es": "Parece que el tráfico está peor hoy.",
+          "pron": "paréci ki u tránzitu está piór óyi"
+        },
+        {
+          "t": "Eles não devem saber da mudança.",
+          "es": "Ellos no deben de saber del cambio.",
+          "pron": "éles náun dévem sabér da mudánsa"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Onde está o Paulo?",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "O Paulo ainda não chegou. Onde será que ele está?",
+            "es": "Paulo todavía no llegó. ¿Dónde estará?"
+          },
+          {
+            "q": "B",
+            "t": "Ele deve estar preso no trânsito, como sempre.",
+            "es": "Debe de estar atrapado en el tráfico, como siempre."
+          },
+          {
+            "q": "A",
+            "t": "Ou deve ter esquecido da reunião.",
+            "es": "O debe de haberse olvidado de la reunión."
+          },
+          {
+            "q": "B",
+            "t": "Não, ele não deve ter esquecido. Parece que tinha reunião fora.",
+            "es": "No, no debe de haberse olvidado. Parece que tenía reunión afuera."
+          },
+          {
+            "q": "A",
+            "t": "Certamente vai ligar quando chegar.",
+            "es": "Seguro que llamará cuando llegue."
+          }
+        ]
+      },
+      "nota": "«Deve ser» también sirve para consolar o expresar empatía: «Deve ser difícil» (Debe de ser difícil), muy común en conversaciones."
+    },
+    {
+      "id": "pt-b2-u6-l2",
+      "n": 2,
+      "titulo": "Pode ser que, talvez: posibilidad",
+      "objetivo": "Expresar posibilidad con subjuntivo.",
+      "intro": "Cuando solo es posible, el verbo pasa a subjuntivo. Truco: «talvez ele venha» suena a «quizá venga»; el verbo cambia a subjuntivo presente (-a en verbos -er/-ir, -e en verbos -ar).",
+      "palabras": [
+        {
+          "t": "talvez",
+          "es": "quizás",
+          "pron": "talvés",
+          "ej": "Talvez ele chegue mais tarde.",
+          "ejes": "Quizás él llegue más tarde.",
+          "cog": false
+        },
+        {
+          "t": "pode ser que",
+          "es": "puede ser que",
+          "pron": "pódyi sér ki",
+          "ej": "Pode ser que ela precise de ajuda.",
+          "ejes": "Puede ser que ella necesite ayuda.",
+          "cog": false
+        },
+        {
+          "t": "quem sabe",
+          "es": "quién sabe / quizá",
+          "pron": "kéin sábi",
+          "ej": "Quem sabe a gente se encontra amanhã.",
+          "ejes": "Quizá nos encontramos mañana.",
+          "cog": false
+        },
+        {
+          "t": "é possível que",
+          "es": "es posible que",
+          "pron": "é posível ki",
+          "ej": "É possível que o voo atrase.",
+          "ejes": "Es posible que el vuelo se retrase.",
+          "cog": false
+        },
+        {
+          "t": "é provável que",
+          "es": "es probable que",
+          "pron": "é provável ki",
+          "ej": "É provável que ele aceite a oferta.",
+          "ejes": "Es probable que él acepte la oferta.",
+          "cog": false
+        },
+        {
+          "t": "duvido que",
+          "es": "dudo que",
+          "pron": "duvídu ki",
+          "ej": "Duvido que ele venha hoje.",
+          "ejes": "Dudo que él venga hoy.",
+          "cog": false
+        },
+        {
+          "t": "não creio que",
+          "es": "no creo que",
+          "pron": "náun kréiu ki",
+          "ej": "Não creio que ela saiba a verdade.",
+          "ejes": "No creo que ella sepa la verdad.",
+          "cog": false
+        },
+        {
+          "t": "é improvável que",
+          "es": "es improbable que",
+          "pron": "é improvável ki",
+          "ej": "É improvável que chova hoje.",
+          "ejes": "Es improbable que llueva hoy.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Talvez ele venha à festa de sábado.",
+          "es": "Quizás él venga a la fiesta del sábado.",
+          "pron": "talvés éli véña a fécta dyi sábadu"
+        },
+        {
+          "t": "Pode ser que o chefe aceite a proposta.",
+          "es": "Puede ser que el jefe acepte la propuesta.",
+          "pron": "pódyi sér ki u shéfi aséiti a propósta"
+        },
+        {
+          "t": "É possível que o trem chegue atrasado.",
+          "es": "Es posible que el tren llegue retrasado.",
+          "pron": "é posível ki u tréin shégui atrazádu"
+        },
+        {
+          "t": "Duvido que ela saiba da novidade.",
+          "es": "Dudo que ella sepa de la novedad.",
+          "pron": "duvídu ki éla sáiba da novidádyi"
+        },
+        {
+          "t": "Quem sabe a gente consiga viajar em julho.",
+          "es": "Quizá logremos viajar en julio.",
+          "pron": "kéin sábi a yénti konsíga viayár ein yúliu"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Planos para o fim de semana",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "O que você vai fazer no sábado?",
+            "es": "¿Qué vas a hacer el sábado?"
+          },
+          {
+            "q": "B",
+            "t": "Talvez eu vá à praia, se o tempo ajudar.",
+            "es": "Quizás vaya a la playa, si el clima ayuda."
+          },
+          {
+            "q": "A",
+            "t": "Pode ser que chova. A previsão não está boa.",
+            "es": "Puede ser que llueva. El pronóstico no es bueno."
+          },
+          {
+            "q": "B",
+            "t": "É possível. Nesse caso, quem sabe a gente vá ao cinema.",
+            "es": "Es posible. En ese caso, quizá vayamos al cine."
+          },
+          {
+            "q": "A",
+            "t": "Boa ideia. Duvido que tenha lugar para tanta gente, mas vamos tentar.",
+            "es": "Buena idea. Dudo que haya sitio para tanta gente, pero vamos a intentar."
+          }
+        ]
+      },
+      "nota": "«Talvez» también aparece con indicativo cuando va después del verbo («Ele vem, talvez»), pero antes del verbo siempre usa subjuntivo."
+    },
+    {
+      "id": "pt-b2-u6-l3",
+      "n": 3,
+      "titulo": "Será que...? y la duda",
+      "objetivo": "Hacerse preguntas de duda y suposición.",
+      "intro": "«Será que» es el recurso para dudar en voz alta. Truco: va con indicativo y suena natural, cercano y muy brasileño.",
+      "palabras": [
+        {
+          "t": "será que",
+          "es": "¿acaso...? / me pregunto si",
+          "pron": "será ki",
+          "ej": "Será que ela vem hoje?",
+          "ejes": "¿Vendrá ella hoy?",
+          "cog": false
+        },
+        {
+          "t": "imagino que",
+          "es": "imagino que",
+          "pron": "imazhínu ki",
+          "ej": "Imagino que ele esteja ocupado.",
+          "ejes": "Imagino que él esté ocupado.",
+          "cog": false
+        },
+        {
+          "t": "suponho que",
+          "es": "supongo que",
+          "pron": "supóñu ki",
+          "ej": "Suponho que ela já saiba.",
+          "ejes": "Supongo que ella ya sepa.",
+          "cog": false
+        },
+        {
+          "t": "me parece que",
+          "es": "me parece que",
+          "pron": "mi paréci ki",
+          "ej": "Me parece que ele está mentindo.",
+          "ejes": "Me parece que él está mintiendo.",
+          "cog": false
+        },
+        {
+          "t": "acho que",
+          "es": "creo que",
+          "pron": "áshu ki",
+          "ej": "Acho que vai dar certo.",
+          "ejes": "Creo que va a salir bien.",
+          "cog": false
+        },
+        {
+          "t": "deve haver",
+          "es": "debe de haber",
+          "pron": "dévi avér",
+          "ej": "Deve haver um motivo para isso.",
+          "ejes": "Debe de haber un motivo para eso.",
+          "cog": false
+        },
+        {
+          "t": "quem será",
+          "es": "quién será",
+          "pron": "kéin será",
+          "ej": "Quem será que bateu à porta?",
+          "ejes": "¿Quién será que tocó a la puerta?",
+          "cog": false
+        },
+        {
+          "t": "o que será",
+          "es": "qué será",
+          "pron": "u ki será",
+          "ej": "O que será que aconteceu com ele?",
+          "ejes": "¿Qué le habrá pasado?",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Será que ele esqueceu de mim?",
+          "es": "¿Se habrá olvidado de mí?",
+          "pron": "será ki éli eskeséu dyi mim"
+        },
+        {
+          "t": "Quem será que bateu na porta a essa hora?",
+          "es": "¿Quién será que llamó a la puerta a esta hora?",
+          "pron": "kéin será ki batéu na pórta a ésa óra"
+        },
+        {
+          "t": "Me parece que ela já sabe de tudo.",
+          "es": "Me parece que ella ya lo sabe todo.",
+          "pron": "mi paréci ki éla yá sábi dyi túdu"
+        },
+        {
+          "t": "Imagino que a reunião tenha sido longa.",
+          "es": "Imagino que la reunión haya sido larga.",
+          "pron": "imazhínu ki a reuniáun téña sídu lónga"
+        },
+        {
+          "t": "Deve haver outra explicação para isso.",
+          "es": "Debe de haber otra explicación para eso.",
+          "pron": "dévi avér ótra esplikasáun pára ísu"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Um barulho estranho",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Você ouviu aquele barulho no corredor?",
+            "es": "¿Oíste ese ruido en el pasillo?"
+          },
+          {
+            "q": "B",
+            "t": "Ouvi. Será que tem alguém lá fora?",
+            "es": "Sí. ¿Habrá alguien afuera?"
+          },
+          {
+            "q": "A",
+            "t": "Quem será que está batendo na porta a essa hora?",
+            "es": "¿Quién será que está tocando la puerta a esta hora?"
+          },
+          {
+            "q": "B",
+            "t": "Deve ser o vizinho. Imagino que tenha perdido a chave.",
+            "es": "Debe de ser el vecino. Imagino que haya perdido la llave."
+          },
+          {
+            "q": "A",
+            "t": "Pode ser. Vou olhar pelo olho mágico.",
+            "es": "Puede ser. Voy a mirar por la mirilla."
+          }
+        ]
+      },
+      "nota": "«Será que» también se usa en preguntas retóricas: «Será que eu fiz algo errado?» expresa preocupación, no solo curiosidad."
+    },
+    {
+      "id": "pt-b2-u6-l4",
+      "n": 4,
+      "titulo": "Indicios y conclusiones",
+      "objetivo": "Hablar de pistas y llegar a conclusiones lógicas.",
+      "intro": "Deducir es leer pistas. Truco: usa «pelo visto» y «ao que tudo indica» para presentar una conclusión sin afirmarla del todo.",
+      "palabras": [
+        {
+          "t": "indício",
+          "es": "indicio",
+          "pron": "indísiu",
+          "ej": "Esse é o único indício que temos.",
+          "ejes": "Ese es el único indicio que tenemos.",
+          "cog": true
+        },
+        {
+          "t": "pista",
+          "es": "pista",
+          "pron": "písta",
+          "ej": "A polícia seguiu uma pista falsa.",
+          "ejes": "La policía siguió una pista falsa.",
+          "cog": true
+        },
+        {
+          "t": "prova",
+          "es": "prueba",
+          "pron": "próva",
+          "ej": "Não há prova de que ele mentiu.",
+          "ejes": "No hay prueba de que él mintió.",
+          "cog": false
+        },
+        {
+          "t": "deduzir",
+          "es": "deducir",
+          "pron": "dedyuzír",
+          "ej": "Dá para deduzir pela expressão dele.",
+          "ejes": "Se puede deducir por su expresión.",
+          "cog": true
+        },
+        {
+          "t": "concluir",
+          "es": "concluir",
+          "pron": "konkluír",
+          "ej": "Posso concluir que ela tinha razão.",
+          "ejes": "Puedo concluir que ella tenía razón.",
+          "cog": true
+        },
+        {
+          "t": "pelo visto",
+          "es": "por lo visto",
+          "pron": "pélu vístu",
+          "ej": "Pelo visto, ele não vem mais.",
+          "ejes": "Por lo visto, él ya no viene.",
+          "cog": false
+        },
+        {
+          "t": "ao que tudo indica",
+          "es": "todo indica que",
+          "pron": "au ki túdu indíka",
+          "ej": "Ao que tudo indica, o plano falhou.",
+          "ejes": "Todo indica que el plan falló.",
+          "cog": false
+        },
+        {
+          "t": "suspeitar",
+          "es": "sospechar",
+          "pron": "suspeitár",
+          "ej": "Comecei a suspeitar dele.",
+          "ejes": "Empecé a sospechar de él.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Pelo visto, ele já descobriu a verdade.",
+          "es": "Por lo visto, él ya descubrió la verdad.",
+          "pron": "pélu vístu, éli yá deskobríu a verdádyi"
+        },
+        {
+          "t": "Ao que tudo indica, o problema é no motor.",
+          "es": "Todo indica que el problema está en el motor.",
+          "pron": "au ki túdu indíka, u probléma é nu motór"
+        },
+        {
+          "t": "Não há nenhuma prova, só indícios.",
+          "es": "No hay ninguna prueba, solo indicios.",
+          "pron": "náun á ninhúma próva, só indísius"
+        },
+        {
+          "t": "Dá para deduzir que ela estava com pressa.",
+          "es": "Se puede deducir que ella tenía prisa.",
+          "pron": "dá pára dedyuzír ki éla estáva kon présa"
+        },
+        {
+          "t": "Comecei a suspeitar que alguma coisa estava errada.",
+          "es": "Empecé a sospechar que algo andaba mal.",
+          "pron": "komeséi a suspeitár ki aúma kóza estáva erráda"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Quem derrubou a planta?",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "A planta caiu e o vaso quebrou. Quem será que foi?",
+            "es": "La planta cayó y la maceta se rompió. ¿Quién habrá sido?"
+          },
+          {
+            "q": "B",
+            "t": "Olha a pista: tem pegadas pequenas no chão.",
+            "es": "Mira la pista: hay pisadas pequeñas en el suelo."
+          },
+          {
+            "q": "A",
+            "t": "Então deve ter sido o gato.",
+            "es": "Entonces debe de haber sido el gato."
+          },
+          {
+            "q": "B",
+            "t": "Ao que tudo indica, sim. Pelo visto, ele saiu correndo.",
+            "es": "Todo indica que sí. Por lo visto, salió corriendo."
+          },
+          {
+            "q": "A",
+            "t": "Não há prova, mas é a conclusão mais lógica.",
+            "es": "No hay prueba, pero es la conclusión más lógica."
+          }
+        ]
+      },
+      "nota": "«Pelo visto» se oye mucho en la conversación; «ao que tudo indica» es más formal y aparece en la prensa."
+    },
+    {
+      "id": "pt-b2-u6-l5",
+      "n": 5,
+      "titulo": "Repaso: ¿qué habrá pasado?",
+      "objetivo": "Combinar deducciones, posibilidades y dudas en una conversación.",
+      "intro": "Une todo: el casi seguro, el posible y la duda. Truco: escoge un misterio cotidiano y emite tres hipótesis, una con «deve», una con «talvez» y una con «será que».",
+      "palabras": [
+        {
+          "t": "o mistério",
+          "es": "el misterio",
+          "pron": "u mistériu",
+          "ej": "O mistério ainda não foi resolvido.",
+          "ejes": "El misterio todavía no fue resuelto.",
+          "cog": true
+        },
+        {
+          "t": "hipótese",
+          "es": "hipótesis",
+          "pron": "ipótezi",
+          "ej": "Qual é a sua hipótese?",
+          "ejes": "¿Cuál es tu hipótesis?",
+          "cog": true
+        },
+        {
+          "t": "explicação",
+          "es": "explicación",
+          "pron": "esplikasáun",
+          "ej": "Deve haver uma explicação lógica.",
+          "ejes": "Debe de haber una explicación lógica.",
+          "cog": true
+        },
+        {
+          "t": "esclarecer",
+          "es": "aclarar",
+          "pron": "esklaresér",
+          "ej": "Precisamos esclarecer essa dúvida.",
+          "ejes": "Necesitamos aclarar esa duda.",
+          "cog": false
+        },
+        {
+          "t": "descartar",
+          "es": "descartar",
+          "pron": "deskartár",
+          "ej": "Não podemos descartar essa hipótese.",
+          "ejes": "No podemos descartar esa hipótesis.",
+          "cog": true
+        },
+        {
+          "t": "confirmar",
+          "es": "confirmar",
+          "pron": "konfirmár",
+          "ej": "Vou confirmar a informação depois.",
+          "ejes": "Voy a confirmar la información después.",
+          "cog": true
+        },
+        {
+          "t": "dúvida",
+          "es": "duda",
+          "pron": "dúvida",
+          "ej": "Fiquei com uma dúvida.",
+          "ejes": "Me quedé con una duda.",
+          "cog": false
+        },
+        {
+          "t": "plausível",
+          "es": "plausible",
+          "pron": "plauzível",
+          "ej": "É uma explicação plausível.",
+          "ejes": "Es una explicación plausible.",
+          "cog": true
+        }
+      ],
+      "frases": [
+        {
+          "t": "Deve haver uma explicação lógica para isso.",
+          "es": "Debe de haber una explicación lógica para eso.",
+          "pron": "dévi avér úma esplikasáun lóyika pára ísu"
+        },
+        {
+          "t": "Talvez ele tenha se atrasado por causa do trânsito.",
+          "es": "Quizás se haya retrasado por el tráfico.",
+          "pron": "talvés éli téña si atrazádu por káuza du tránzitu"
+        },
+        {
+          "t": "Será que a gente consegue esclarecer esse mistério?",
+          "es": "¿Podremos aclarar este misterio?",
+          "pron": "será ki a yénti konsége esklaresér ési mistériu"
+        },
+        {
+          "t": "Não podemos descartar nenhuma hipótese ainda.",
+          "es": "Todavía no podemos descartar ninguna hipótesis.",
+          "pron": "náun podémus deskartár ninhúma ipótezi aínda"
+        },
+        {
+          "t": "Pode ser que a explicação seja mais simples.",
+          "es": "Puede ser que la explicación sea más simple.",
+          "pron": "pódyi sér ki a esplikasáun séya máis símplis"
+        }
+      ],
+      "dialogo": {
+        "titulo": "O caso da luz acesa",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "A luz do escritório estava acesa a noite toda. Deve ter sido esquecida.",
+            "es": "La luz de la oficina estuvo encendida toda la noche. Debe de haberse olvidado."
+          },
+          {
+            "q": "B",
+            "t": "Talvez alguém tenha trabalhado até tarde.",
+            "es": "Quizás alguien haya trabajado hasta tarde."
+          },
+          {
+            "q": "A",
+            "t": "Será que foi o novo estagiário?",
+            "es": "¿Habrá sido el nuevo pasante?"
+          },
+          {
+            "q": "B",
+            "t": "Pode ser. Mas não podemos descartar que tenha sido o segurança.",
+            "es": "Puede ser. Pero no podemos descartar que haya sido el guardia."
+          },
+          {
+            "q": "A",
+            "t": "Vou confirmar com o RH antes de tirar conclusões.",
+            "es": "Voy a confirmar con RR. HH. antes de sacar conclusiones."
+          },
+          {
+            "q": "B",
+            "t": "Boa ideia. Deve haver uma explicação simples.",
+            "es": "Buena idea. Debe de haber una explicación simple."
+          }
+        ]
+      },
+      "nota": "Escala de certeza: com certeza (casi 100%), deve (80%), provavelmente (70%), talvez (50%), duvido que (20%)."
+    }
+  ]
+}

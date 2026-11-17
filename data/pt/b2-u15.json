@@ -1,0 +1,219 @@
+{
+  "id": "pt-b2-u15",
+  "idioma": "pt",
+  "nivel": "B2",
+  "n": 15,
+  "titulo": "Conectores y cohesión",
+  "resumen": "Aprenderás los conectores que unen ideas en textos y discursos (além disso, contudo, portanto, enquanto) y el uso de «embora» con subjuntivo para escribir y hablar con más claridad.",
+  "puedo": [
+    "Añadir ideas con «além disso», «além de» y «aliás».",
+    "Contrastar con «contudo», «no entanto» y «embora».",
+    "Explicar causa y consecuencia con «portanto», «por isso» y «já que».",
+    "Situar acciones en el tiempo con «enquanto», «assim que» y «em seguida».",
+    "Resumir y reformular con «ou seja», «em suma» y «afinal»."
+  ],
+  "gramatica": {
+    "titulo": "Conectores: contraste y causa, y «embora» + subjuntivo",
+    "texto": "Los conectores son palabras que unen frases y le dan lógica a un texto. Tres grupos básicos: añadir (além disso), contrastar (contudo, no entanto, porém) y causa o consecuencia (portanto, por isso).\nLa mayoría de los conectores de contraste y consecuencia van con indicativo: Estudei muito, portanto passei. Contudo, não fiquei satisfeito.\nEl conector «embora» (aunque) siempre pide subjuntivo: Embora esteja cansado, vou trabalhar (Aunque esté cansado, voy a trabajar). «Apesar de» va con infinitivo o sustantivo: Apesar de cansado, trabalhei.\nPuntuación: «contudo», «portanto» y «no entanto» suelen ir entre comas.",
+    "tabla": [
+      ["Além disso, estudo à noite.", "Además, estudio de noche.", "aléin dísu estúdu a nóiti"],
+      ["Estudei, contudo não passei.", "Estudié, sin embargo no aprobé.", "estudéi kontúdu náun paséi"],
+      ["Choveu, portanto ficamos em casa.", "Llovió, por lo tanto nos quedamos en casa.", "shovéu portántu ficámus ein káza"],
+      ["Embora esteja cansado, vou.", "Aunque esté cansado, voy.", "embóra estéya kansádu vóu"],
+      ["Enquanto cozinho, você arruma.", "Mientras cocino, tú ordenas.", "enkuántu kosíñu vosé arúma"]
+    ],
+    "errores": [
+      "«Embora» pide subjuntivo: «embora esteja», no «embora está».",
+      "«Contudo» y «portanto» no son «pero» o «porque»: «portanto» da una consecuencia, «porque» da una causa.",
+      "«Apesar de» va seguido de infinitivo o sustantivo, no de «que» con indicativo: «apesar de chover», no «apesar que chove»."
+    ]
+  },
+  "practica": [
+    "Escribe un párrafo de 6 frases usando «além disso», «contudo» y «portanto» (10 minutos).",
+    "Reescribe 5 frases con «mas» usando «no entanto» o «contudo» (6 minutos).",
+    "Lee un artículo de opinión en portugués y subraya todos los conectores (8 minutos).",
+    "Cuenta en voz alta tu día usando «enquanto», «assim que» y «em seguida» (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b2-u15-l1",
+      "n": 1,
+      "titulo": "Añadir ideas",
+      "objetivo": "Sumar información con «além disso», «além de» y «aliás».",
+      "intro": "Para sumar argumentos sin repetir «e», usa «além disso» (además). Truco: «além de» va seguido de un sustantivo o infinitivo, y «além disso» abre una nueva frase.",
+      "palabras": [
+        { "t": "além disso", "es": "además", "pron": "aléin dísu", "ej": "Gosto do trabalho. Além disso, o salário é bom.", "ejes": "Me gusta el trabajo. Además, el salario es bueno.", "cog": false },
+        { "t": "além de", "es": "además de", "pron": "aléin dyi", "ej": "Além de estudar, ele trabalha à noite.", "ejes": "Además de estudiar, trabaja de noche.", "cog": false },
+        { "t": "bem como", "es": "así como", "pron": "béin kómu", "ej": "Precisamos de tempo, bem como de dinheiro.", "ejes": "Necesitamos tiempo, así como dinero.", "cog": false },
+        { "t": "inclusive", "es": "incluso", "pron": "inkluzívi", "ej": "Todos vieram, inclusive o chefe.", "ejes": "Todos vinieron, incluso el jefe.", "cog": true },
+        { "t": "aliás", "es": "a propósito, por cierto", "pron": "aliás", "ej": "Aliás, você já viu o resultado?", "ejes": "Por cierto, ¿ya viste el resultado?", "cog": false },
+        { "t": "ainda por cima", "es": "encima, y para colmo", "pron": "aínda por síma", "ej": "Chegou atrasado e, ainda por cima, sem desculpas.", "ejes": "Llegó tarde y, encima, sin disculpas.", "cog": false },
+        { "t": "ademais", "es": "además (formal)", "pron": "adémais", "ej": "Ademais, o custo é muito baixo.", "ejes": "Además, el costo es muy bajo.", "cog": false },
+        { "t": "também", "es": "también", "pron": "tambéin", "ej": "Eu também quero participar.", "ejes": "Yo también quiero participar.", "cog": false },
+        { "t": "outro ponto", "es": "otro punto", "pron": "óutru póntu", "ej": "Outro ponto importante é o prazo.", "ejes": "Otro punto importante es el plazo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Gosto do trabalho. Além disso, o salário é bom.", "es": "Me gusta el trabajo. Además, el salario es bueno.", "pron": "gósu du trabálu aléin dísu u saláriu é bóm" },
+        { "t": "Além de estudar, ele trabalha à noite.", "es": "Además de estudiar, él trabaja de noche.", "pron": "aléin dyi estudár éli trabálya a nóiti" },
+        { "t": "Todos vieram, inclusive o chefe.", "es": "Todos vinieron, incluso el jefe.", "pron": "tódus viéram inkluzívi u shéfi" },
+        { "t": "Aliás, você viu o e-mail de hoje?", "es": "Por cierto, ¿viste el correo de hoy?", "pron": "aliás vosé viú u iméiu dyi óyi" },
+        { "t": "Outro ponto importante é o prazo.", "es": "Otro punto importante es el plazo.", "pron": "óutru póntu importántyi é u prázu" }
+      ],
+      "dialogo": {
+        "titulo": "Escolhendo um curso",
+        "lineas": [
+          { "q": "A", "t": "Esse curso é barato. Além disso, as aulas são online.", "es": "Este curso es barato. Además, las clases son en línea." },
+          { "q": "B", "t": "Além de barato, tem certificado. Aliás, você já viu o programa?", "es": "Además de barato, tiene certificado. Por cierto, ¿ya viste el programa?" },
+          { "q": "A", "t": "Vi sim. Tem professores bons, inclusive uma doutora famosa.", "es": "Sí. Tiene buenos profesores, incluso una doctora famosa." },
+          { "q": "B", "t": "Outro ponto é o horário: ainda por cima, é à noite.", "es": "Otro punto es el horario: encima, es de noche." },
+          { "q": "A", "t": "Então eu também quero fazer. Vamos juntos?", "es": "Entonces yo también quiero hacerlo. ¿Vamos juntos?" }
+        ]
+      },
+      "nota": "«Ademais» es más formal y se encuentra en textos escritos; en la conversación se prefiere «além disso»."
+    },
+    {
+      "id": "pt-b2-u15-l2",
+      "n": 2,
+      "titulo": "Contraste y concesión",
+      "objetivo": "Marcar contraste con «contudo», «no entanto» y «embora».",
+      "intro": "Para oponer ideas hay varios conectores: «mas» (coloquial), «contudo / no entanto / porém» (más formales) y «embora» (aunque, con subjuntivo). Truco: «embora» siempre va con subjuntivo: embora seja, embora tenha.",
+      "palabras": [
+        { "t": "contudo", "es": "sin embargo", "pron": "kontúdu", "ej": "Estudei muito. Contudo, não passei.", "ejes": "Estudié mucho. Sin embargo, no aprobé.", "cog": false },
+        { "t": "no entanto", "es": "sin embargo", "pron": "nu entántu", "ej": "O preço é alto; no entanto, vale a pena.", "ejes": "El precio es alto; sin embargo, vale la pena.", "cog": false },
+        { "t": "porém", "es": "pero, sin embargo", "pron": "porém", "ej": "Quero ir, porém não tenho tempo.", "ejes": "Quiero ir, pero no tengo tiempo.", "cog": false },
+        { "t": "todavia", "es": "sin embargo", "pron": "todavía", "ej": "É difícil; todavia, não é impossível.", "ejes": "Es difícil; sin embargo, no es imposible.", "cog": false },
+        { "t": "embora", "es": "aunque (con subjuntivo)", "pron": "embóra", "ej": "Embora seja tarde, vou terminar hoje.", "ejes": "Aunque sea tarde, voy a terminar hoy.", "cog": false },
+        { "t": "apesar de", "es": "a pesar de", "pron": "apézar dyi", "ej": "Apesar de cansado, ele foi trabalhar.", "ejes": "A pesar de estar cansado, fue a trabajar.", "cog": false },
+        { "t": "mesmo assim", "es": "aun así", "pron": "mésmu asín", "ej": "Choveu, mas mesmo assim fomos à praia.", "ejes": "Llovió, pero aun así fuimos a la playa.", "cog": false },
+        { "t": "ao contrário", "es": "al contrario", "pron": "au kontráriu", "ej": "Ele não ficou triste; ao contrário, sorriu.", "ejes": "No se puso triste; al contrario, sonrió.", "cog": false },
+        { "t": "por outro lado", "es": "por otro lado", "pron": "por óutru ládu", "ej": "Gosto da cidade; por outro lado, é cara.", "ejes": "Me gusta la ciudad; por otro lado, es cara.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Estudei muito; contudo, não passei.", "es": "Estudié mucho; sin embargo, no aprobé.", "pron": "estudéi múitu kontúdu náun paséi" },
+        { "t": "O preço é alto; no entanto, vale a pena.", "es": "El precio es alto; sin embargo, vale la pena.", "pron": "u présu é áwtu nu entántu váli a péna" },
+        { "t": "Embora seja tarde, vou terminar hoje.", "es": "Aunque sea tarde, voy a terminar hoy.", "pron": "embóra séya tárdyi vóu terminár óyi" },
+        { "t": "Apesar de cansado, ele foi trabalhar.", "es": "A pesar de estar cansado, fue a trabajar.", "pron": "apézar dyi kansádu éli fói trabalyár" },
+        { "t": "Choveu, mas mesmo assim fomos à praia.", "es": "Llovió, pero aun así fuimos a la playa.", "pron": "shovéu máis mésmu asín fómus a práya" }
+      ],
+      "dialogo": {
+        "titulo": "Um plano arriscado",
+        "lineas": [
+          { "q": "A", "t": "Embora esteja chovendo, quero ir à praia.", "es": "Aunque esté lloviendo, quiero ir a la playa." },
+          { "q": "B", "t": "O plano é bom; no entanto, a previsão é ruim.", "es": "El plan es bueno; sin embargo, el pronóstico es malo." },
+          { "q": "A", "t": "Apesar de tudo, mesmo assim eu vou.", "es": "A pesar de todo, aun así yo voy." },
+          { "q": "B", "t": "Quero ir, porém tenho muito trabalho.", "es": "Quiero ir, pero tengo mucho trabajo." },
+          { "q": "A", "t": "Tudo bem. Por outro lado, a gente pode ir amanhã.", "es": "Está bien. Por otro lado, podemos ir mañana." }
+        ]
+      },
+      "nota": "«Mas» es el conector más común al hablar; «contudo», «no entanto» y «todavia» son más escritos. «Embora» lleva siempre subjuntivo."
+    },
+    {
+      "id": "pt-b2-u15-l3",
+      "n": 3,
+      "titulo": "Causa y consecuencia",
+      "objetivo": "Explicar causas y consecuencias con «porque», «já que», «portanto» y «por isso».",
+      "intro": "Para dar causas usa «já que», «visto que» o «porque»; para consecuencias, «portanto», «por isso» o «de modo que». Truco: «por isso» abre la consecuencia; «porque» abre la causa.",
+      "palabras": [
+        { "t": "portanto", "es": "por lo tanto", "pron": "portántu", "ej": "Estudei muito, portanto passei.", "ejes": "Estudié mucho, por lo tanto aprobé.", "cog": false },
+        { "t": "por isso", "es": "por eso", "pron": "por ísu", "ej": "Estava cansado, por isso dormi cedo.", "ejes": "Estaba cansado, por eso dormí temprano.", "cog": false },
+        { "t": "logo", "es": "luego, por lo tanto", "pron": "lógu", "ej": "Penso, logo existo.", "ejes": "Pienso, luego existo.", "cog": false },
+        { "t": "já que", "es": "ya que", "pron": "yá ki", "ej": "Já que você chegou, vamos começar.", "ejes": "Ya que llegaste, empecemos.", "cog": false },
+        { "t": "visto que", "es": "dado que", "pron": "vístu ki", "ej": "Visto que choveu, cancelamos o evento.", "ejes": "Dado que llovió, cancelamos el evento.", "cog": false },
+        { "t": "devido a", "es": "debido a", "pron": "devídu a", "ej": "O voo atrasou devido a uma tempestade.", "ejes": "El vuelo se retrasó debido a una tormenta.", "cog": false },
+        { "t": "graças a", "es": "gracias a", "pron": "grásas a", "ej": "Passei graças a você.", "ejes": "Aprobé gracias a ti.", "cog": false },
+        { "t": "por causa de", "es": "a causa de", "pron": "por káuza dyi", "ej": "Perdi o ônibus por causa de um acidente.", "ejes": "Perdí el bus a causa de un accidente.", "cog": false },
+        { "t": "de modo que", "es": "de modo que", "pron": "dyi módu ki", "ej": "Saí cedo, de modo que cheguei a tempo.", "ejes": "Salí temprano, de modo que llegué a tiempo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Estudei muito, portanto passei na prova.", "es": "Estudié mucho, por lo tanto aprobé el examen.", "pron": "estudéi múitu portántu paséi na próva" },
+        { "t": "Estava cansado, por isso dormi cedo.", "es": "Estaba cansado, por eso dormí temprano.", "pron": "estáva kansádu por ísu dormí sédu" },
+        { "t": "Já que você chegou, vamos começar.", "es": "Ya que llegaste, empecemos.", "pron": "yá ki vosé shegóu vámus komesár" },
+        { "t": "O voo atrasou devido à tempestade.", "es": "El vuelo se retrasó debido a la tormenta.", "pron": "u vóu atrazóu devídu a tempestádyi" },
+        { "t": "Passei na prova graças a você.", "es": "Aprobé el examen gracias a ti.", "pron": "paséi na próva grásas a vosé" }
+      ],
+      "dialogo": {
+        "titulo": "Uma viagem complicada",
+        "lineas": [
+          { "q": "A", "t": "O voo atrasou devido à tempestade.", "es": "El vuelo se retrasó debido a la tormenta." },
+          { "q": "B", "t": "Já que o voo atrasou, vamos jantar no aeroporto.", "es": "Ya que el vuelo se retrasó, cenemos en el aeropuerto." },
+          { "q": "A", "t": "Boa ideia. Perdi o trem por causa do trânsito, por isso cheguei tarde.", "es": "Buena idea. Perdí el tren por causa del tráfico, por eso llegué tarde." },
+          { "q": "B", "t": "Saí cedo, de modo que cheguei a tempo.", "es": "Yo salí temprano, de modo que llegué a tiempo." },
+          { "q": "A", "t": "Graças a você, a viagem foi tranquila, portanto obrigado.", "es": "Gracias a ti, el viaje fue tranquilo, por lo tanto gracias." }
+        ]
+      },
+      "nota": "«Por causa de» expresa una causa negativa o neutra; «graças a» expresa una causa positiva («gracias a»)."
+    },
+    {
+      "id": "pt-b2-u15-l4",
+      "n": 4,
+      "titulo": "Tiempo: enquanto, assim que, em seguida",
+      "objetivo": "Ordenar acciones en el tiempo y relacionarlas con conectores.",
+      "intro": "Para contar una secuencia usa «enquanto» (mientras), «assim que» (apenas), «em seguida» (a continuación). Truco: «enquanto» une dos acciones simultáneas; «em seguida» introduce lo que viene después.",
+      "palabras": [
+        { "t": "enquanto", "es": "mientras", "pron": "enkuántu", "ej": "Enquanto você cozinha, eu arrumo a mesa.", "ejes": "Mientras tú cocinas, yo arreglo la mesa.", "cog": false },
+        { "t": "assim que", "es": "apenas, en cuanto", "pron": "asín ki", "ej": "Assim que cheguei, liguei para você.", "ejes": "En cuanto llegué, te llamé.", "cog": false },
+        { "t": "logo que", "es": "tan pronto como", "pron": "lógu ki", "ej": "Logo que ele saiu, a chuva parou.", "ejes": "Apenas salió, la lluvia paró.", "cog": false },
+        { "t": "depois que", "es": "después de que", "pron": "depóis ki", "ej": "Depois que jantamos, saímos para caminhar.", "ejes": "Después de que cenamos, salimos a caminar.", "cog": false },
+        { "t": "antes que", "es": "antes de que", "pron": "ántyis ki", "ej": "Chegue antes que o filme comece.", "ejes": "Llega antes de que empiece la película.", "cog": false },
+        { "t": "ao mesmo tempo", "es": "al mismo tiempo", "pron": "au mésmu témpu", "ej": "Ele fala e escreve ao mesmo tempo.", "ejes": "Él habla y escribe al mismo tiempo.", "cog": false },
+        { "t": "enquanto isso", "es": "mientras tanto", "pron": "enkuántu ísu", "ej": "Enquanto isso, a equipe preparava o relatório.", "ejes": "Mientras tanto, el equipo preparaba el informe.", "cog": false },
+        { "t": "em seguida", "es": "a continuación", "pron": "ein seguída", "ej": "Primeiro leio e, em seguida, escrevo.", "ejes": "Primero leo y, a continuación, escribo.", "cog": false },
+        { "t": "por fim", "es": "por último", "pron": "por fín", "ej": "Por fim, agradeço a todos.", "ejes": "Por último, agradezco a todos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Enquanto você cozinha, eu arrumo a mesa.", "es": "Mientras tú cocinas, yo arreglo la mesa.", "pron": "enkuántu vosé kosíña éu arúmu a mésa" },
+        { "t": "Assim que cheguei, liguei para você.", "es": "En cuanto llegué, te llamé.", "pron": "asín ki shegéi ligéi pára vosé" },
+        { "t": "Depois que jantamos, saímos para caminhar.", "es": "Después de que cenamos, salimos a caminar.", "pron": "depóis ki yantámus saímus pára kamiñár" },
+        { "t": "Primeiro leio e, em seguida, escrevo.", "es": "Primero leo y, a continuación, escribo.", "pron": "priméiru léyu i ein seguída eskrévu" },
+        { "t": "Por fim, agradeço a todos.", "es": "Por último, agradezco a todos.", "pron": "por fín agradésu a tódus" }
+      ],
+      "dialogo": {
+        "titulo": "Preparando o jantar",
+        "lineas": [
+          { "q": "A", "t": "Enquanto você corta a cebola, eu arrumo a mesa.", "es": "Mientras tú cortas la cebolla, yo arreglo la mesa." },
+          { "q": "B", "t": "Assim que terminar, ponho a carne no forno.", "es": "En cuanto termine, pongo la carne en el horno." },
+          { "q": "A", "t": "Em seguida fazemos a salada. Enquanto isso, os convidados chegam.", "es": "A continuación hacemos la ensalada. Mientras tanto, llegan los invitados." },
+          { "q": "B", "t": "Depois que todos chegarem, abrimos o vinho.", "es": "Después de que lleguen todos, abrimos el vino." },
+          { "q": "A", "t": "Por fim, servimos o prato principal. Ao mesmo tempo, tocamos música.", "es": "Por último, servimos el plato principal. Al mismo tiempo, ponemos música." }
+        ]
+      },
+      "nota": "Con «assim que», «logo que» y «depois que» se usa el subjuntivo cuando la acción aún no ocurrió («assim que chegar») y el indicativo cuando ya pasó («assim que cheguei»)."
+    },
+    {
+      "id": "pt-b2-u15-l5",
+      "n": 5,
+      "titulo": "Repaso: resumir y reformular",
+      "objetivo": "Cerrar un texto o discurso con conectores de resumen y reformulación.",
+      "intro": "Para cerrar usa «em suma», «ou seja», «afinal». Truco: «ou seja» dice lo mismo con otras palabras, y «em suma» resume todo en una línea.",
+      "palabras": [
+        { "t": "ou seja", "es": "es decir", "pron": "ou séya", "ej": "A reunião é às dez, ou seja, daqui a uma hora.", "ejes": "La reunión es a las diez, es decir, dentro de una hora.", "cog": false },
+        { "t": "isto é", "es": "esto es", "pron": "ísto é", "ej": "Chegou cedo, isto é, antes das oito.", "ejes": "Llegó temprano, esto es, antes de las ocho.", "cog": false },
+        { "t": "em suma", "es": "en suma", "pron": "ein súma", "ej": "Em suma, o projeto foi um sucesso.", "ejes": "En suma, el proyecto fue un éxito.", "cog": false },
+        { "t": "em conclusão", "es": "en conclusión", "pron": "ein konklusáun", "ej": "Em conclusão, vale a pena investir.", "ejes": "En conclusión, vale la pena invertir.", "cog": false },
+        { "t": "afinal", "es": "al fin y al cabo, entonces", "pron": "afináu", "ej": "Afinal, você vai ou não vai?", "ejes": "Entonces, ¿vas o no vas?", "cog": false },
+        { "t": "de fato", "es": "de hecho", "pron": "dyi fátu", "ej": "De fato, o resultado foi melhor.", "ejes": "De hecho, el resultado fue mejor.", "cog": false },
+        { "t": "por exemplo", "es": "por ejemplo", "pron": "por ezémplu", "ej": "Gosto de frutas, por exemplo manga.", "ejes": "Me gustan las frutas, por ejemplo el mango.", "cog": false },
+        { "t": "em contrapartida", "es": "en cambio", "pron": "ein kontrapartída", "ej": "O salário é baixo; em contrapartida, o horário é flexível.", "ejes": "El salario es bajo; en cambio, el horario es flexible.", "cog": false },
+        { "t": "em resumo", "es": "en resumen", "pron": "ein rezúmu", "ej": "Em resumo, precisamos de mais tempo.", "ejes": "En resumen, necesitamos más tiempo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "A reunião é às dez, ou seja, daqui a uma hora.", "es": "La reunión es a las diez, es decir, dentro de una hora.", "pron": "a reuniáun é as déz ou séya dyi akí a úma óra" },
+        { "t": "Em suma, o projeto foi um sucesso.", "es": "En suma, el proyecto fue un éxito.", "pron": "ein súma u proyétu fói ún suséssu" },
+        { "t": "Afinal, você vai ou não vai?", "es": "Entonces, ¿vas o no vas?", "pron": "afináu vosé vái ou náun vái" },
+        { "t": "O salário é baixo; em contrapartida, o horário é flexível.", "es": "El salario es bajo; en cambio, el horario es flexible.", "pron": "u saláriu é báishu ein kontrapartída u oráriu é fleksível" },
+        { "t": "Em conclusão, vale a pena investir.", "es": "En conclusión, vale la pena invertir.", "pron": "ein konklusáun váli a péna investír" }
+      ],
+      "dialogo": {
+        "titulo": "Decidindo sobre um emprego",
+        "lineas": [
+          { "q": "A", "t": "Afinal, você vai aceitar a proposta?", "es": "Entonces, ¿vas a aceptar la propuesta?" },
+          { "q": "B", "t": "O salário é baixo; em contrapartida, o horário é flexível.", "es": "El salario es bajo; en cambio, el horario es flexible." },
+          { "q": "A", "t": "Ou seja, você trabalha menos e ganha menos.", "es": "Es decir, trabajas menos y ganas menos." },
+          { "q": "B", "t": "De fato. Por exemplo, posso estudar à tarde.", "es": "De hecho. Por ejemplo, puedo estudiar por la tarde." },
+          { "q": "A", "t": "Em suma, vale a pena. Em conclusão, aceite.", "es": "En suma, vale la pena. En conclusión, acepta." }
+        ]
+      },
+      "nota": "«Afinal» tiene dos usos: «al fin y al cabo» («afinal, é só um jogo») y «entonces» al preguntar («afinal, você vai?»)."
+    }
+  ]
+}

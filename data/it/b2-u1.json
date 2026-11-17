@@ -1,0 +1,223 @@
+{
+  "id": "it-b2-u1",
+  "idioma": "it",
+  "nivel": "B2",
+  "n": 1,
+  "titulo": "Narrar con detalle",
+  "resumen": "Aprenderás a contar historias ordenando el tiempo: trapassato prossimo para lo anterior, imperfetto para el fondo y passato prossimo para los hechos; además reconocerás el passato remoto.",
+  "puedo": [
+    "Usar el trapassato prossimo para hablar de algo anterior a otro pasado.",
+    "Combinar imperfetto y passato prossimo en un relato.",
+    "Reconocer las formas del passato remoto al leer.",
+    "Usar conectores de tiempo: all'improvviso, nel frattempo, a un certo punto.",
+    "Contar una anécdota con orden y detalle."
+  ],
+  "gramatica": {
+    "titulo": "Ordenar el pasado: trapassato, passato prossimo e imperfetto",
+    "texto": "Al narrar se juntan tres planos del pasado.\nImperfetto = el escenario y lo que duraba: Pioveva e io leggevo.\nPassato prossimo = el hecho que avanza la historia: Ho sentito un rumore.\nTrapassato prossimo = lo que ya había pasado antes de ese hecho: Avevo già chiuso la porta. Se forma con el imperfetto de avere o essere + participio: avevo mangiato, ero partito (el participio concuerda con essere: erano partite).\nTruco: si puedes añadir «ya» o «antes» en español («ya había salido»), probablemente necesitas el trapassato.\nEl passato remoto (fu, disse, nacque) aparece sobre todo en libros e historia; en B2 basta reconocerlo.",
+    "tabla": [
+      ["Pioveva.", "Llovía. (escenario)", "piovéva"],
+      ["Ho sentito un rumore.", "Oí un ruido. (hecho)", "o sentíto un rumóre"],
+      ["Avevo già chiuso la porta.", "Ya había cerrado la puerta. (antes)", "avévo yá quiúso la pórta"],
+      ["Ero partito presto.", "Había salido temprano.", "éro partíto présto"],
+      ["Erano partite il giorno prima.", "Habían salido el día anterior.", "érano partíte il yórno príma"]
+    ],
+    "errores": [
+      "No uses el passato prossimo para lo anterior: «quando sono arrivato, il film era già cominciato», no «è già cominciato».",
+      "Con los verbos de movimiento el trapassato lleva essere y concuerda: «erano arrivate», no «avevano arrivato».",
+      "El español usa mucho el pretérito simple («llegó»); en italiano hablado se dice «è arrivato», no «arrivò»."
+    ]
+  },
+  "practica": [
+    "Cuenta por escrito qué hiciste ayer, marcando con otro color lo que ya habías hecho antes de salir de casa: «Avevo già...» (8 minutos).",
+    "Graba en tu móvil una anécdota de un viaje en un minuto, usando al menos tres trapassati (6 minutos).",
+    "Lee el primer párrafo de una biografía en italiano y subraya cada passato remoto; escribe al lado el infinitivo (8 minutos).",
+    "Elige una escena de una película y cuéntala en voz alta con «mentre», «all'improvviso» y «nel frattempo» (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b2-u1-l1",
+      "n": 1,
+      "titulo": "Lo que ya había pasado: trapassato prossimo",
+      "objetivo": "Formar el trapassato prossimo y usarlo para hablar de algo anterior a otro pasado.",
+      "intro": "El trapassato prossimo es el «había + participio» español: imperfetto de avere o essere + participio. Truco: si en español dirías «ya había», aquí va «già» y el trapassato.",
+      "palabras": [
+        { "t": "avevo dimenticato", "es": "había olvidado", "pron": "avévo dimenticáto", "ej": "Avevo dimenticato le chiavi a casa.", "ejes": "Había olvidado las llaves en casa.", "cog": false },
+        { "t": "era già partito", "es": "ya se había ido", "pron": "éra yá partíto", "ej": "Quando sono arrivato, il treno era già partito.", "ejes": "Cuando llegué, el tren ya se había ido.", "cog": false },
+        { "t": "aveva appena chiuso", "es": "acababa de cerrar", "pron": "avéva appéna quiúso", "ej": "Il negozio aveva appena chiuso.", "ejes": "La tienda acababa de cerrar.", "cog": false },
+        { "t": "non avevamo ancora cenato", "es": "todavía no habíamos cenado", "pron": "non avevámo ancóra chenáto", "ej": "Non avevamo ancora cenato quando hai chiamato.", "ejes": "Todavía no habíamos cenado cuando llamaste.", "cog": false },
+        { "t": "poco prima", "es": "poco antes", "pron": "póco príma", "ej": "Ci eravamo salutati poco prima.", "ejes": "Nos habíamos despedido poco antes.", "cog": false },
+        { "t": "il giorno prima", "es": "el día anterior", "pron": "il yórno príma", "ej": "Il giorno prima avevo già comprato i biglietti.", "ejes": "El día anterior ya había comprado los boletos.", "cog": false },
+        { "t": "fino ad allora", "es": "hasta entonces", "pron": "fíno ad allóra", "ej": "Fino ad allora non avevo mai visto il mare.", "ejes": "Hasta entonces nunca había visto el mar.", "cog": false },
+        { "t": "per fortuna", "es": "por suerte", "pron": "per fortúna", "ej": "Per fortuna avevo preso l'ombrello.", "ejes": "Por suerte había llevado el paraguas.", "cog": false },
+        { "t": "mi sono accorto", "es": "me di cuenta", "pron": "mi sóno accórto", "ej": "Mi sono accorto di avere sbagliato strada.", "ejes": "Me di cuenta de que me había equivocado de camino.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Quando sono arrivata, il film era già cominciato.", "es": "Cuando llegué, la película ya había empezado.", "pron": "cuándo sóno arriváta il film éra yá cominchiáto" },
+        { "t": "Avevo dimenticato il portafoglio, così sono tornato a casa.", "es": "Había olvidado la billetera, así que volví a casa.", "pron": "avévo dimenticáto il portafóñio cosí sóno tornáto a cása" },
+        { "t": "Non ero mai stato a Venezia prima di quell'estate.", "es": "Nunca había estado en Venecia antes de ese verano.", "pron": "non éro mai státo a venétsia príma di cuell estáte" },
+        { "t": "Mi sono accorta che avevano cambiato l'orario.", "es": "Me di cuenta de que habían cambiado el horario.", "pron": "mi sóno accórta ke avévano cambiáto lorário" },
+        { "t": "Aveva studiato tanto, ma l'esame è andato male.", "es": "Había estudiado mucho, pero el examen salió mal.", "pron": "avéva studiáto tánto ma lesáme e andáto mále" }
+      ],
+      "dialogo": {
+        "titulo": "Un ritardo",
+        "lineas": [
+          { "q": "A", "t": "Ma dov'eri? Ti ho aspettato mezz'ora!", "es": "¿Pero dónde estabas? ¡Te esperé media hora!" },
+          { "q": "B", "t": "Scusa, quando sono arrivato in stazione il treno era già partito.", "es": "Perdona, cuando llegué a la estación el tren ya se había ido." },
+          { "q": "A", "t": "Ma non avevi controllato l'orario?", "es": "¿Pero no habías revisado el horario?" },
+          { "q": "B", "t": "Sì, ma avevano cambiato tutto il giorno prima e non lo sapevo.", "es": "Sí, pero lo habían cambiado todo el día anterior y no lo sabía." },
+          { "q": "A", "t": "Per fortuna avevo prenotato il ristorante per le nove.", "es": "Por suerte había reservado el restaurante para las nueve." },
+          { "q": "B", "t": "Allora ho tutto il tempo di cambiarmi!", "es": "¡Entonces tengo todo el tiempo para cambiarme!" }
+        ]
+      },
+      "nota": "Con avere y verbos transitivos el participio no concuerda (avevo dimenticato le chiavi); con essere sí concuerda: eravamo partiti/partite."
+    },
+    {
+      "id": "it-b2-u1-l2",
+      "n": 2,
+      "titulo": "El escenario y la acción: imperfetto y passato prossimo",
+      "objetivo": "Combinar imperfetto y passato prossimo para contar una escena con marcadores de tiempo.",
+      "intro": "En un relato el imperfetto pinta el fondo y el passato prossimo hace avanzar la historia. Truco: pregúntate «¿esto es un cuadro o un golpe?»; cuadro = imperfetto, golpe = passato prossimo.",
+      "palabras": [
+        { "t": "mentre", "es": "mientras", "pron": "méntre", "ej": "Mentre cucinavo, è squillato il telefono.", "ejes": "Mientras cocinaba, sonó el teléfono.", "cog": false },
+        { "t": "all'improvviso", "es": "de repente", "pron": "allimprovvíso", "ej": "All'improvviso è saltata la luce.", "ejes": "De repente se fue la luz.", "cog": false },
+        { "t": "a un certo punto", "es": "en un momento dado", "pron": "a un chérto púnto", "ej": "A un certo punto ho sentito dei passi.", "ejes": "En un momento dado oí unos pasos.", "cog": false },
+        { "t": "nel frattempo", "es": "mientras tanto", "pron": "nel frattémpo", "ej": "Nel frattempo i bambini giocavano in giardino.", "ejes": "Mientras tanto los niños jugaban en el jardín.", "cog": false },
+        { "t": "di colpo", "es": "de golpe", "pron": "di cólpo", "ej": "Di colpo si è fatto buio.", "ejes": "De golpe se hizo de noche.", "cog": false },
+        { "t": "quella sera", "es": "esa noche", "pron": "cuélla séra", "ej": "Quella sera faceva un freddo cane.", "ejes": "Esa noche hacía un frío terrible.", "cog": false },
+        { "t": "alla fine", "es": "al final", "pron": "álla fíne", "ej": "Alla fine abbiamo trovato un taxi.", "ejes": "Al final encontramos un taxi.", "cog": false },
+        { "t": "stavo per", "es": "estaba a punto de", "pron": "stávo per", "ej": "Stavo per uscire quando è arrivata Marta.", "ejes": "Estaba a punto de salir cuando llegó Marta.", "cog": false },
+        { "t": "intanto", "es": "entretanto", "pron": "intánto", "ej": "Intanto la neve continuava a cadere.", "ejes": "Entretanto la nieve seguía cayendo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Mentre camminavo, ho incontrato un vecchio amico.", "es": "Mientras caminaba, me encontré con un viejo amigo.", "pron": "méntre camminávo o incontráto un vécchio amíco" },
+        { "t": "Faceva caldo e il cielo era sereno quando siamo partiti.", "es": "Hacía calor y el cielo estaba despejado cuando salimos.", "pron": "fachéva cáldo e il chélo éra seréno cuándo siámo partíti" },
+        { "t": "A un certo punto è arrivato il cameriere con il conto.", "es": "En un momento dado llegó el mozo con la cuenta.", "pron": "a un chérto púnto e arriváto il camerière con il cónto" },
+        { "t": "Stavo per addormentarmi quando ha squillato il telefono.", "es": "Estaba a punto de dormirme cuando sonó el teléfono.", "pron": "stávo per addormentármi cuándo a squilláto il teléfono" },
+        { "t": "Di colpo tutti hanno smesso di parlare.", "es": "De golpe todos dejaron de hablar.", "pron": "di cólpo tútti ánno smésso di parláre" }
+      ],
+      "dialogo": {
+        "titulo": "Una serata strana",
+        "lineas": [
+          { "q": "A", "t": "Cos'è successo ieri sera? Eri strano al telefono.", "es": "¿Qué pasó anoche? Estabas raro por teléfono." },
+          { "q": "B", "t": "Stavo cenando tranquillo quando all'improvviso è saltata la luce.", "es": "Estaba cenando tranquilo cuando de repente se fue la luz." },
+          { "q": "A", "t": "E tu cosa hai fatto?", "es": "¿Y tú qué hiciste?" },
+          { "q": "B", "t": "Ho cercato una candela, ma nel frattempo i vicini urlavano nel palazzo.", "es": "Busqué una vela, pero mientras tanto los vecinos gritaban en el edificio." },
+          { "q": "A", "t": "Quanto è durato il blackout?", "es": "¿Cuánto duró el apagón?" },
+          { "q": "B", "t": "Alla fine due ore, ma sembrava una notte intera.", "es": "Al final dos horas, pero parecía una noche entera." }
+        ]
+      },
+      "nota": "Dos acciones que avanzan una tras otra van las dos en passato prossimo: «Sono entrato e ho acceso la luce». Una acción en curso interrumpida por otra: imperfetto + passato prossimo."
+    },
+    {
+      "id": "it-b2-u1-l3",
+      "n": 3,
+      "titulo": "Reconocer el passato remoto",
+      "objetivo": "Reconocer las formas más frecuentes del passato remoto al leer historia y literatura.",
+      "intro": "El passato remoto cuenta hechos lejanos o cerrados y se usa mucho al escribir. No tienes que producirlo, solo reconocerlo. Truco: en el sur de Italia también se oye al hablar, pero el estándar usa el passato prossimo.",
+      "palabras": [
+        { "t": "fu", "es": "fue (de essere)", "pron": "fu", "ej": "Roma fu fondata, secondo la leggenda, nel 753 a.C.", "ejes": "Roma fue fundada, según la leyenda, en el 753 a.C.", "cog": false },
+        { "t": "ebbe", "es": "tuvo (de avere)", "pron": "ébbe", "ej": "Il re ebbe tre figli.", "ejes": "El rey tuvo tres hijos.", "cog": false },
+        { "t": "disse", "es": "dijo (de dire)", "pron": "díse", "ej": "Il capitano disse la verità ai soldati.", "ejes": "El capitán dijo la verdad a los soldados.", "cog": false },
+        { "t": "fece", "es": "hizo (de fare)", "pron": "féche", "ej": "Napoleone fece una lunga campagna in Italia.", "ejes": "Napoleón hizo una larga campaña en Italia.", "cog": false },
+        { "t": "andò", "es": "fue (de andare)", "pron": "andó", "ej": "Garibaldi andò in Sicilia con mille uomini.", "ejes": "Garibaldi fue a Sicilia con mil hombres.", "cog": false },
+        { "t": "nacque", "es": "nació", "pron": "nácue", "ej": "Dante nacque a Firenze nel 1265.", "ejes": "Dante nació en Florencia en 1265.", "cog": false },
+        { "t": "morì", "es": "murió", "pron": "morí", "ej": "Leonardo morì in Francia nel 1519.", "ejes": "Leonardo murió en Francia en 1519.", "cog": false },
+        { "t": "scrisse", "es": "escribió", "pron": "scrísse", "ej": "Manzoni scrisse I promessi sposi.", "ejes": "Manzoni escribió I promessi sposi.", "cog": false },
+        { "t": "vide", "es": "vio (de vedere)", "pron": "víde", "ej": "Colombo vide la terra dopo settimane di viaggio.", "ejes": "Colón vio tierra después de semanas de viaje.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Dante nacque a Firenze nel 1265 e morì a Ravenna.", "es": "Dante nació en Florencia en 1265 y murió en Rávena.", "pron": "dánte nácue a firénse nel milleduecentosessantácinque e morí a ravénna" },
+        { "t": "Il re ebbe paura e fuggì dal palazzo.", "es": "El rey tuvo miedo y huyó del palacio.", "pron": "il re ébbe paúra e fuyí dal paláttso" },
+        { "t": "Garibaldi partì da Quarto con mille volontari.", "es": "Garibaldi partió de Quarto con mil voluntarios.", "pron": "garibáldi partí da cuárto con mílle volontári" },
+        { "t": "Lei lo guardò e non disse nulla.", "es": "Ella lo miró y no dijo nada.", "pron": "léi lo guardó e non díse núlla" },
+        { "t": "Quell'anno la guerra finì e la città rinacque.", "es": "Ese año la guerra terminó y la ciudad renació.", "pron": "cuell ánno la guérra finí e la chittá rinácue" }
+      ],
+      "dialogo": {
+        "titulo": "Una lezione di storia",
+        "lineas": [
+          { "q": "A", "t": "Sto leggendo un libro su Garibaldi, ma è pieno di verbi strani.", "es": "Estoy leyendo un libro sobre Garibaldi, pero está lleno de verbos raros." },
+          { "q": "B", "t": "Sono passati remoti: partì, vinse, entrò. Si usano nei libri di storia.", "es": "Son pasados remotos: partió, venció, entró. Se usan en los libros de historia." },
+          { "q": "A", "t": "Quindi «fu» è il passato remoto di essere?", "es": "¿Entonces «fu» es el pasado remoto de essere?" },
+          { "q": "B", "t": "Esatto: «fu fondata» vuol dire «è stata fondata», ma più lontano nel tempo.", "es": "Exacto: «fu fondata» significa «è stata fondata», pero más lejano en el tiempo." },
+          { "q": "A", "t": "E nel parlare di tutti i giorni lo usate?", "es": "¿Y lo usan en el habla de todos los días?" },
+          { "q": "B", "t": "Quasi mai al nord; al sud sì, anche per fatti recenti.", "es": "Casi nunca en el norte; en el sur sí, incluso para hechos recientes." }
+        ]
+      },
+      "nota": "Los verbos regulares en -are hacen -ò (parlò), en -ere -ette o -é (vendé), en -ire -ì (partì). Los irregulares son los de esta lista: fu, ebbe, disse, fece, andò (regular), nacque, vide, scrisse."
+    },
+    {
+      "id": "it-b2-u1-l4",
+      "n": 4,
+      "titulo": "Contar una anécdota",
+      "objetivo": "Estructurar una anécdota con inicio, nudo y desenlace usando el vocabulario del relato.",
+      "intro": "Una buena anécdota tiene escenario, problema y final. Truco: empieza con el imperfetto («Era una sera di...»), introduce el problema con «a un certo punto» y cierra con «insomma».",
+      "palabras": [
+        { "t": "raccontare", "es": "contar, narrar", "pron": "raccontáre", "ej": "Voglio raccontare cosa è successo ieri.", "ejes": "Quiero contar qué pasó ayer.", "cog": false },
+        { "t": "l'aneddoto", "es": "la anécdota", "pron": "laneddóto", "ej": "L'aneddoto di mio nonno è divertente.", "ejes": "La anécdota de mi abuelo es divertida.", "cog": true },
+        { "t": "capitare", "es": "ocurrir, pasar (por casualidad)", "pron": "capitáre", "ej": "Può capitare a tutti di sbagliare.", "ejes": "Le puede pasar a cualquiera equivocarse.", "cog": false },
+        { "t": "ricordare", "es": "recordar", "pron": "ricordáre", "ej": "Non riesco a ricordare il suo nome.", "ejes": "No logro recordar su nombre.", "cog": false },
+        { "t": "il protagonista", "es": "el protagonista", "pron": "il protagonísta", "ej": "Il protagonista del racconto è un pescatore.", "ejes": "El protagonista del relato es un pescador.", "cog": true },
+        { "t": "il finale", "es": "el final", "pron": "il finále", "ej": "Il finale del film mi ha sorpreso.", "ejes": "El final de la película me sorprendió.", "cog": true },
+        { "t": "figurati", "es": "imagínate", "pron": "figuráti", "ej": "Figurati che sorpresa quando ho aperto la porta!", "ejes": "¡Imagínate qué sorpresa cuando abrí la puerta!", "cog": false },
+        { "t": "insomma", "es": "en fin, resumiendo", "pron": "insómma", "ej": "Insomma, abbiamo perso il volo.", "ejes": "En fin, perdimos el vuelo.", "cog": false },
+        { "t": "sul momento", "es": "en ese momento", "pron": "sul moménto", "ej": "Sul momento non ho capito cosa stesse succedendo.", "ejes": "En ese momento no entendí qué estaba pasando.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Ti racconto cosa mi è capitato ieri in ufficio.", "es": "Te cuento qué me pasó ayer en la oficina.", "pron": "ti raccónto cósa mi e capitáto ieri in uffíchio" },
+        { "t": "Era una sera d'inverno e io tornavo a casa a piedi.", "es": "Era una noche de invierno y yo volvía a casa a pie.", "pron": "éra úna séra dinvérno e ío tornávo a cása a piédi" },
+        { "t": "Sul momento non ho capito, poi ho cominciato a ridere.", "es": "En ese momento no entendí, luego empecé a reír.", "pron": "sul moménto non o capíto poi o cominchiáto a ridére" },
+        { "t": "Figurati che il capo era dietro di me!", "es": "¡Imagínate que el jefe estaba detrás de mí!", "pron": "figuráti ke il cápo éra diétro di me" },
+        { "t": "Insomma, è finita con una bella risata per tutti.", "es": "En fin, terminó con una buena risa para todos.", "pron": "insómma e finíta con úna bélla risáta per tútti" }
+      ],
+      "dialogo": {
+        "titulo": "Una storia da non credere",
+        "lineas": [
+          { "q": "A", "t": "Devo raccontarti cosa mi è capitato in aeroporto.", "es": "Tengo que contarte lo que me pasó en el aeropuerto." },
+          { "q": "B", "t": "Racconta, sono tutto orecchi!", "es": "¡Cuenta, soy todo oídos!" },
+          { "q": "A", "t": "Aspettavo il volo quando ho visto il mio collega di Lima.", "es": "Esperaba el vuelo cuando vi a mi colega de Lima." },
+          { "q": "B", "t": "Ma non era in vacanza?", "es": "¿Pero no estaba de vacaciones?" },
+          { "q": "A", "t": "Sì, e figurati: andava nella mia stessa città con il mio stesso volo!", "es": "Sí, y figúrate: ¡iba a mi misma ciudad en mi mismo vuelo!" },
+          { "q": "B", "t": "Insomma, avete fatto il viaggio insieme.", "es": "En fin, hicieron el viaje juntos." }
+        ]
+      },
+      "nota": "Para animar al que cuenta se dice «e poi?», «davvero?», «dai!». Para cerrar un relato, «insomma» o «morale della favola»."
+    },
+    {
+      "id": "it-b2-u1-l5",
+      "n": 5,
+      "titulo": "Repaso: una historia completa",
+      "objetivo": "Combinar trapassato, imperfetto, passato prossimo y conectores para contar una historia de principio a fin.",
+      "intro": "Junta todo: lo anterior en trapassato, el escenario en imperfetto, la acción en passato prossimo. Truco: ordena los conectores como una escalera: all'inizio, poi, dopo di che, alla fine.",
+      "palabras": [
+        { "t": "all'inizio", "es": "al principio", "pron": "allinítsio", "ej": "All'inizio non volevo andare alla festa.", "ejes": "Al principio no quería ir a la fiesta.", "cog": false },
+        { "t": "dopo di che", "es": "después de eso", "pron": "dópo di ké", "ej": "Abbiamo cenato e dopo di che siamo usciti.", "ejes": "Cenamos y después de eso salimos.", "cog": false },
+        { "t": "in seguito", "es": "más tarde, luego", "pron": "in seguíto", "ej": "In seguito ho saputo la verità.", "ejes": "Más tarde supe la verdad.", "cog": false },
+        { "t": "all'epoca", "es": "en aquella época", "pron": "allépoca", "ej": "All'epoca abitavo ancora a Cusco.", "ejes": "En aquella época vivía todavía en Cusco.", "cog": false },
+        { "t": "ormai", "es": "ya (a esas alturas)", "pron": "ormái", "ej": "Era ormai notte quando siamo arrivati.", "ejes": "Ya era de noche cuando llegamos.", "cog": false },
+        { "t": "all'improvviso", "es": "de repente", "pron": "allimprovvíso", "ej": "All'improvviso il cane ha cominciato ad abbaiare.", "ejes": "De repente el perro empezó a ladrar.", "cog": false },
+        { "t": "senza accorgersi", "es": "sin darse cuenta", "pron": "sénsa accórgersi", "ej": "Ha camminato per ore senza accorgersi del tempo.", "ejes": "Caminó durante horas sin darse cuenta del tiempo.", "cog": false },
+        { "t": "a quel punto", "es": "en ese punto", "pron": "a cuel púnto", "ej": "A quel punto ho deciso di tornare indietro.", "ejes": "En ese punto decidí volver atrás.", "cog": false }
+      ],
+      "frases": [
+        { "t": "All'epoca vivevo a Roma e non avevo ancora trovato lavoro.", "es": "En aquella época vivía en Roma y todavía no había encontrado trabajo.", "pron": "allépoca vivévo a róma e non avévo ancóra trováto lavóro" },
+        { "t": "Era ormai tardi quando ho capito che avevo sbagliato treno.", "es": "Ya era tarde cuando entendí que me había equivocado de tren.", "pron": "éra ormái tárdi cuándo o capíto ke avévo sbagliáto tréno" },
+        { "t": "Avevamo già cenato quando all'improvviso è arrivata Giulia.", "es": "Ya habíamos cenado cuando de repente llegó Giulia.", "pron": "avevámo yá chenáto cuándo allimprovvíso e arriváta yúlia" },
+        { "t": "A quel punto ho deciso di chiamare la polizia.", "es": "En ese punto decidí llamar a la policía.", "pron": "a cuel púnto o dechíso di quiamáre la polisía" },
+        { "t": "In seguito abbiamo scoperto che era tutto uno scherzo.", "es": "Más tarde descubrimos que todo era una broma.", "pron": "in seguíto abbiámo scopérto ke éra túto uno scérdso" }
+      ],
+      "dialogo": {
+        "titulo": "Un viaggio da dimenticare",
+        "lineas": [
+          { "q": "A", "t": "Com'è andato il viaggio a Milano?", "es": "¿Cómo te fue en el viaje a Milán?" },
+          { "q": "B", "t": "Un disastro: all'inizio il treno era in ritardo e avevo già perso la coincidenza.", "es": "Un desastre: al principio el tren venía retrasado y ya había perdido la conexión." },
+          { "q": "A", "t": "E poi cos'è successo?", "es": "¿Y luego qué pasó?" },
+          { "q": "B", "t": "Mentre aspettavo, mi sono accorto di aver lasciato la valigia sul primo treno.", "es": "Mientras esperaba, me di cuenta de que había dejado la maleta en el primer tren." },
+          { "q": "A", "t": "Non ci credo! L'hai recuperata?", "es": "¡No lo creo! ¿La recuperaste?" },
+          { "q": "B", "t": "Sì, in seguito mi hanno chiamato dall'ufficio oggetti smarriti.", "es": "Sí, más tarde me llamaron de la oficina de objetos perdidos." }
+        ]
+      },
+      "nota": "Un buen relato alterna los tres tiempos: trapassato (lo anterior), imperfetto (el contexto) y passato prossimo (los hechos). Revisa siempre «¿qué pasó antes?»."
+    }
+  ]
+}

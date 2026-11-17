@@ -1,0 +1,221 @@
+{
+  "id": "en-b2-u6",
+  "idioma": "en",
+  "nivel": "B2",
+  "n": 6,
+  "titulo": "Deducir y especular",
+  "resumen": "Aprenderás a deducir y especular con must, can't, might y could, en presente y en pasado, y a graduar tu seguridad con expresiones como probably, seems o looks like.",
+  "puedo": [
+    "Deducir algo en el presente con must be y can't be.",
+    "Deducir algo del pasado con must have, can't have y might have.",
+    "Graduar mi seguridad con might, could, probably y be likely to.",
+    "Usar seems, appears y looks like para razonar con evidencia.",
+    "Especular sobre situaciones cotidianas y misterios."
+  ],
+  "gramatica": {
+    "titulo": "Modales de deducción: must, can't, might",
+    "texto": "Usamos modales para decir qué tan seguros estamos de algo. Casi seguro que sí: must (He must be tired). Casi seguro que no: can't (He can't be at home). Posible: may / might / could (She might be late).\nPara el pasado: modal + have + participio: must have gone, can't have said, might have forgotten.\nPara una acción en proceso: must be + -ing (She must be sleeping); y pasado: must have been + -ing.\nTruco: must para deducir (no para obligación) se usa solo en afirmativo; en negativo se usa can't, no mustn't.\nCouldn't have es igual que can't have.",
+    "tabla": [
+      ["He must be tired.", "Debe de estar cansado.", "ji mast bi táierd"],
+      ["She can't be at home.", "No puede estar en casa.", "shi cant bi at joum"],
+      ["They might be late.", "Podrían llegar tarde.", "dei mait bi leit"],
+      ["He must have forgotten.", "Debe de haberse olvidado.", "ji mast jav forgóten"],
+      ["She can't have left yet.", "No puede haberse ido todavía.", "shi cant jav left iet"],
+      ["They might have missed the bus.", "Quizás perdieron el bus.", "dei mait jav mist da bas"]
+    ],
+    "errores": [
+      "No uses mustn't para deducir: es He can't be at home, no «He mustn't be at home».",
+      "No olvides have en el pasado: es She must have left, no «She must left».",
+      "No uses can para especular en afirmativo: es It could be true, no «It can be true» si es una posibilidad."
+    ]
+  },
+  "practica": [
+    "Mira a 6 personas en la calle o en fotos y di quiénes son y qué hacen con He must be... / She might be... (8 minutos).",
+    "Escribe 8 deducciones sobre un misterio: Someone has left the window open (10 minutos).",
+    "Mira un capítulo de una serie policial en inglés y anota 5 deducciones con must have / can't have (12 minutos).",
+    "Graba un audio de 1 minuto especulando sobre qué hizo tu vecino el fin de semana (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b2-u6-l1",
+      "n": 1,
+      "titulo": "Deducir el presente: must be y can't be",
+      "objetivo": "Decir qué es casi seguro y qué es casi imposible ahora con must be y can't be.",
+      "intro": "Must be = «debe de ser» (casi seguro). Can't be = «no puede ser». Truco: usa must cuando tienes evidencia, aunque no estés 100% seguro.",
+      "palabras": [
+        { "t": "evidence", "es": "evidencia, pruebas", "pron": "évidens", "ej": "There's no evidence he is guilty.", "ejes": "No hay pruebas de que sea culpable.", "cog": true },
+        { "t": "obviously", "es": "obviamente", "pron": "óbviusli", "ej": "She is obviously upset about something.", "ejes": "Obviamente está molesta por algo.", "cog": true },
+        { "t": "must be", "es": "debe de ser / estar", "pron": "mast bi", "ej": "You must be exhausted after the flight.", "ejes": "Debes de estar agotado después del vuelo.", "cog": false },
+        { "t": "can't be", "es": "no puede ser / estar", "pron": "cant bi", "ej": "That can't be right. Let me check again.", "ejes": "Eso no puede ser correcto. Déjame revisar de nuevo.", "cog": false },
+        { "t": "jump to conclusions", "es": "sacar conclusiones apresuradas", "pron": "yamp tu conclúshens", "ej": "Don't jump to conclusions before you know all the facts.", "ejes": "No saques conclusiones apresuradas antes de conocer los hechos.", "cog": false },
+        { "t": "no doubt", "es": "sin duda", "pron": "nou dáut", "ej": "No doubt she will win the award.", "ejes": "Sin duda ganará el premio.", "cog": false },
+        { "t": "work out", "es": "deducir, resolver", "pron": "uerk áut", "ej": "I can't work out who sent this message.", "ejes": "No logro deducir quién envió este mensaje.", "cog": false },
+        { "t": "clue", "es": "pista", "pron": "clu", "ej": "The note gave us a clue about the thief.", "ejes": "La nota nos dio una pista sobre el ladrón.", "cog": false }
+      ],
+      "frases": [
+        { "t": "You must be exhausted after such a long flight.", "es": "Debes de estar agotado después de un vuelo tan largo.", "pron": "iu mast bi iguósted áfter sach a long flait" },
+        { "t": "That can't be Maria. She's in Spain.", "es": "Esa no puede ser María. Está en España.", "pron": "dat cant bi maría. shis in spein" },
+        { "t": "He must be rich if he lives in that house.", "es": "Debe de ser rico si vive en esa casa.", "pron": "ji mast bi rich if ji livs in dat jaus" },
+        { "t": "Don't jump to conclusions without any evidence.", "es": "No saques conclusiones sin ninguna prueba.", "pron": "dont yamp tu conclúshens uizáut eni évidens" },
+        { "t": "There is no doubt he must be the author.", "es": "No hay duda de que debe de ser el autor.", "pron": "der is nou dáut ji mast bi di óuzor" }
+      ],
+      "dialogo": {
+        "titulo": "Una pista en la oficina",
+        "lineas": [
+          { "q": "A", "t": "Someone left this note on my desk. I can't work out who wrote it.", "es": "Alguien dejó esta nota en mi escritorio. No logro deducir quién la escribió." },
+          { "q": "B", "t": "It must be one of the interns. They have the same handwriting.", "es": "Debe de ser uno de los practicantes. Tienen la misma letra." },
+          { "q": "A", "t": "It can't be Luis. He's on vacation this week.", "es": "No puede ser Luis. Está de vacaciones esta semana." },
+          { "q": "B", "t": "Then it must be Carla. She's obviously upset about the schedule.", "es": "Entonces debe de ser Carla. Obviamente está molesta por el horario." },
+          { "q": "A", "t": "Don't jump to conclusions. We have no evidence yet.", "es": "No saques conclusiones apresuradas. Aún no tenemos pruebas." },
+          { "q": "B", "t": "True. But the clue is on the paper: look, it's her favorite color.", "es": "Cierto. Pero la pista está en el papel: mira, es su color favorito." }
+        ]
+      },
+      "nota": "Para obligación, la forma es have to: I have to go. Must de deducción casi nunca se usa en preguntas; se pregunta con Do you think...?"
+    },
+    {
+      "id": "en-b2-u6-l2",
+      "n": 2,
+      "titulo": "Deducir el pasado: must have y can't have",
+      "objetivo": "Hacer deducciones sobre el pasado con must have, can't have y might have + participio.",
+      "intro": "Para deducir algo del pasado: must have + participio (seguro que sí), can't have + participio (seguro que no), might have + participio (posible). Truco: es el «debe de haber» del español.",
+      "palabras": [
+        { "t": "must have", "es": "debe de haber", "pron": "mast jav", "ej": "She must have left already.", "ejes": "Debe de haberse ido ya.", "cog": false },
+        { "t": "can't have", "es": "no puede haber", "pron": "cant jav", "ej": "He can't have forgotten our meeting.", "ejes": "No puede haberse olvidado de nuestra reunión.", "cog": false },
+        { "t": "might have", "es": "pudo haber", "pron": "mait jav", "ej": "They might have taken another road.", "ejes": "Podrían haber tomado otra carretera.", "cog": false },
+        { "t": "could have", "es": "podría haber", "pron": "cud jav", "ej": "It could have been worse.", "ejes": "Podría haber sido peor.", "cog": false },
+        { "t": "disappear", "es": "desaparecer", "pron": "disapíer", "ej": "My keys seem to disappear every morning.", "ejes": "Mis llaves parecen desaparecer cada mañana.", "cog": true },
+        { "t": "mislay", "es": "extraviar", "pron": "misléi", "ej": "I always mislay my glasses.", "ejes": "Siempre extravío mis lentes.", "cog": false },
+        { "t": "steal", "es": "robar", "pron": "stil", "ej": "Someone might steal your bag here.", "ejes": "Alguien podría robarte la bolsa aquí.", "cog": false },
+        { "t": "suspicious", "es": "sospechoso", "pron": "saspíshus", "ej": "There's a suspicious package at the door.", "ejes": "Hay un paquete sospechoso en la puerta.", "cog": true }
+      ],
+      "frases": [
+        { "t": "She must have left already. Her desk is empty.", "es": "Debe de haberse ido ya. Su escritorio está vacío.", "pron": "shi mast jav left olrédi. jer desk is émpti" },
+        { "t": "He can't have forgotten our meeting.", "es": "No puede haberse olvidado de nuestra reunión.", "pron": "ji cant jav forgóten áuer míitin" },
+        { "t": "They might have taken the wrong road.", "es": "Podrían haber tomado el camino equivocado.", "pron": "dei mait jav téiken da rong roud" },
+        { "t": "Someone must have stolen my wallet.", "es": "Alguien debe de haberme robado la billetera.", "pron": "sámuan mast jav stóulen mai uálet" },
+        { "t": "It could have been much worse.", "es": "Podría haber sido mucho peor.", "pron": "it cud jav bin mach uers" }
+      ],
+      "dialogo": {
+        "titulo": "Un misterio en casa",
+        "lineas": [
+          { "q": "A", "t": "My keys have disappeared. I can't have lost them at work; I used them here.", "es": "Mis llaves han desaparecido. No puedo haberlas perdido en el trabajo; las usé aquí." },
+          { "q": "B", "t": "You might have mislaid them in the kitchen.", "es": "Quizás las extraviaste en la cocina." },
+          { "q": "A", "t": "I looked there already. Someone must have taken them.", "es": "Ya busqué ahí. Alguien debe de haberlas tomado." },
+          { "q": "B", "t": "It can't have been the kids. They were at school all morning.", "es": "No pueden haber sido los niños. Estuvieron en el colegio toda la mañana." },
+          { "q": "A", "t": "Then I must have left them in the car. That could have been a disaster!", "es": "Entonces debí dejarlas en el auto. ¡Eso podría haber sido un desastre!" },
+          { "q": "B", "t": "Go and check. It might have been worse, honestly.", "es": "Ve a revisar. Sinceramente, podría haber sido peor." }
+        ]
+      },
+      "nota": "Couldn't have = can't have para deducir: It couldn't have been him. Could have a veces indica una posibilidad que no ocurrió."
+    },
+    {
+      "id": "en-b2-u6-l3",
+      "n": 3,
+      "titulo": "Grados de certeza",
+      "objetivo": "Graduar qué tan seguro estoy con might, may, could, probably y be likely to.",
+      "intro": "No todo es 100% seguro o 0%. Hay grados: must (casi seguro), probably, likely, might, could, unlikely, can't. Truco: piensa en un porcentaje: must 95%, might 40%, can't 5%.",
+      "palabras": [
+        { "t": "probably", "es": "probablemente", "pron": "próbabli", "ej": "She will probably arrive late.", "ejes": "Probablemente llegará tarde.", "cog": true },
+        { "t": "likely", "es": "probable", "pron": "láikli", "ej": "It is likely to rain this evening.", "ejes": "Es probable que llueva esta tarde.", "cog": false },
+        { "t": "unlikely", "es": "improbable", "pron": "anláikli", "ej": "It is unlikely that he will resign.", "ejes": "Es improbable que renuncie.", "cog": false },
+        { "t": "perhaps", "es": "quizás", "pron": "perjáps", "ej": "Perhaps we should wait a little longer.", "ejes": "Quizás deberíamos esperar un poco más.", "cog": false },
+        { "t": "definitely", "es": "definitivamente", "pron": "défenitli", "ej": "He definitely knows the answer.", "ejes": "Definitivamente sabe la respuesta.", "cog": true },
+        { "t": "chances are", "es": "lo más probable es que", "pron": "chánses ar", "ej": "Chances are they already know.", "ejes": "Lo más probable es que ya lo sepan.", "cog": false },
+        { "t": "doubtful", "es": "dudoso", "pron": "dáutful", "ej": "It's doubtful that the plan will work.", "ejes": "Es dudoso que el plan funcione.", "cog": false },
+        { "t": "for sure", "es": "con seguridad", "pron": "for shur", "ej": "I can't say for sure what happened.", "ejes": "No puedo decir con seguridad qué pasó.", "cog": false }
+      ],
+      "frases": [
+        { "t": "She will probably arrive late.", "es": "Probablemente llegará tarde.", "pron": "shi uil próbabli aráiv leit" },
+        { "t": "It is unlikely that he will resign.", "es": "Es improbable que renuncie.", "pron": "it is anláikli dat ji uil risáin" },
+        { "t": "They might be at home, but I'm not sure.", "es": "Podrían estar en casa, pero no estoy seguro.", "pron": "dei mait bi at joum, bat aim not shur" },
+        { "t": "Chances are the flight will be delayed.", "es": "Lo más probable es que el vuelo se retrase.", "pron": "chánses ar da flait uil bi diléid" },
+        { "t": "I can't say for sure, but it could work.", "es": "No puedo decirlo con seguridad, pero podría funcionar.", "pron": "ai cant sei for shur, bat it cud uerk" }
+      ],
+      "dialogo": {
+        "titulo": "Pronóstico del partido",
+        "lineas": [
+          { "q": "A", "t": "Do you think Peru will win on Saturday?", "es": "¿Crees que Perú ganará el sábado?" },
+          { "q": "B", "t": "They might. The team is playing well, but chances are it will be a close game.", "es": "Podrían. El equipo juega bien, pero lo más probable es que sea un partido reñido." },
+          { "q": "A", "t": "It's doubtful they will beat Brazil, though.", "es": "Aunque es dudoso que le ganen a Brasil." },
+          { "q": "B", "t": "Perhaps. I can't say for sure. Their striker is definitely in great form.", "es": "Quizás. No puedo decirlo con seguridad. Su delantero definitivamente está en gran forma." },
+          { "q": "A", "t": "It is unlikely he will play the whole game, however; he's just recovered.", "es": "Es improbable que juegue todo el partido, sin embargo; acaba de recuperarse." },
+          { "q": "B", "t": "We will probably find out on Saturday. Let's watch it together.", "es": "Probablemente lo sabremos el sábado. Veámoslo juntos." }
+        ]
+      },
+      "nota": "Probably va entre el sujeto y el verbo (She will probably go) o al principio. Perhaps y maybe suelen ir al inicio de la oración."
+    },
+    {
+      "id": "en-b2-u6-l4",
+      "n": 4,
+      "titulo": "Deducciones con evidencia",
+      "objetivo": "Razonar con seems, appears, looks like y modales con -ing.",
+      "intro": "Cuando tienes evidencia visual, usa looks like, seems o appears. Para acciones en proceso: must be + -ing y must have been + -ing. Truco: it seems that = parece que, igual que en español.",
+      "palabras": [
+        { "t": "seem", "es": "parecer", "pron": "sim", "ej": "You seem tired today. Are you okay?", "ejes": "Pareces cansado hoy. ¿Estás bien?", "cog": false },
+        { "t": "appear", "es": "parecer, aparecer", "pron": "apíer", "ej": "Things can appear different at night.", "ejes": "Las cosas pueden parecer distintas de noche.", "cog": false },
+        { "t": "look like", "es": "parecerse a, tener pinta de", "pron": "luk laik", "ej": "Those clouds look like rain.", "ejes": "Esas nubes parecen de lluvia.", "cog": false },
+        { "t": "sound like", "es": "sonar a, parecer", "pron": "saund laik", "ej": "Does that sound like a good plan?", "ejes": "¿Eso suena como un buen plan?", "cog": false },
+        { "t": "as if", "es": "como si", "pron": "as if", "ej": "He talks as if he knew everything.", "ejes": "Habla como si lo supiera todo.", "cog": false },
+        { "t": "must be doing", "es": "debe de estar haciendo", "pron": "mast bi dúin", "ej": "She must be doing her homework now.", "ejes": "Debe de estar haciendo su tarea ahora.", "cog": false },
+        { "t": "must have been", "es": "debe de haber estado", "pron": "mast jav bin", "ej": "He must have been working all night.", "ejes": "Debe de haber estado trabajando toda la noche.", "cog": false },
+        { "t": "seemingly", "es": "aparentemente", "pron": "símingli", "ej": "Seemingly nobody noticed the mistake.", "ejes": "Aparentemente nadie notó el error.", "cog": false }
+      ],
+      "frases": [
+        { "t": "It looks like a storm is coming.", "es": "Parece que viene una tormenta.", "pron": "it luks laik a storm is cáming" },
+        { "t": "She seems to be sleeping right now.", "es": "Parece estar durmiendo ahora mismo.", "pron": "shi sims tu bi slípin rait nau" },
+        { "t": "He must have been working all night.", "es": "Debe de haber estado trabajando toda la noche.", "pron": "ji mast jav bin uérkin ol nait" },
+        { "t": "That sounds like a lot of work.", "es": "Eso suena a mucho trabajo.", "pron": "dat saunds laik a lot ov uerk" },
+        { "t": "He talks as if he owned the company.", "es": "Habla como si fuera el dueño de la empresa.", "pron": "ji toks as if ji ound da cámpani" }
+      ],
+      "dialogo": {
+        "titulo": "Un vecino misterioso",
+        "lineas": [
+          { "q": "A", "t": "There are no lights in Mr. Torres' house. He must be sleeping.", "es": "No hay luces en la casa del señor Torres. Debe de estar durmiendo." },
+          { "q": "B", "t": "It seems quiet, but his car is still outside. He might be traveling by bus.", "es": "Parece tranquila, pero su auto sigue afuera. Quizás viaja en bus." },
+          { "q": "A", "t": "It looks like he hasn't collected the mail for days.", "es": "Parece que no ha recogido el correo en días." },
+          { "q": "B", "t": "He must have been away. He seemingly goes to Cusco every month.", "es": "Debe de haber estado fuera. Aparentemente va al Cusco cada mes." },
+          { "q": "A", "t": "That sounds like a good explanation. I shouldn't worry so much.", "es": "Eso suena a una buena explicación. No debería preocuparme tanto." },
+          { "q": "B", "t": "Exactly. You talk as if something terrible had happened!", "es": "Exacto. ¡Hablas como si hubiera pasado algo terrible!" }
+        ]
+      },
+      "nota": "Para hablar con prudencia: It seems that / It appears that suena formal; looks like y sounds like son más coloquiales."
+    },
+    {
+      "id": "en-b2-u6-l5",
+      "n": 5,
+      "titulo": "Repaso: resolver un misterio",
+      "objetivo": "Usar todos los modales de deducción en una conversación de detectives.",
+      "intro": "Repasa must, can't, might y could, en presente y en pasado, con vocabulario de investigación. Truco: elige el modal según tu seguridad y añade have si hablas del pasado.",
+      "palabras": [
+        { "t": "suspect", "es": "sospechoso / sospechar", "pron": "sáspect", "ej": "The main suspect is still missing.", "ejes": "El principal sospechoso sigue desaparecido.", "cog": true },
+        { "t": "alibi", "es": "coartada", "pron": "álibai", "ej": "He has a perfect alibi for that night.", "ejes": "Tiene una coartada perfecta para esa noche.", "cog": true },
+        { "t": "motive", "es": "motivo", "pron": "móutiv", "ej": "What was the motive for the crime?", "ejes": "¿Cuál fue el motivo del crimen?", "cog": true },
+        { "t": "fingerprint", "es": "huella digital", "pron": "fínguerprint", "ej": "They found a fingerprint on the glass.", "ejes": "Encontraron una huella digital en el vaso.", "cog": false },
+        { "t": "culprit", "es": "culpable", "pron": "cálprit", "ej": "The real culprit is still free.", "ejes": "El verdadero culpable sigue libre.", "cog": false },
+        { "t": "break in", "es": "entrar a la fuerza", "pron": "breik in", "ej": "Someone tried to break in last night.", "ejes": "Alguien intentó entrar a la fuerza anoche.", "cog": false },
+        { "t": "rule out", "es": "descartar", "pron": "rul áut", "ej": "We can't rule out any possibility yet.", "ejes": "Todavía no podemos descartar ninguna posibilidad.", "cog": false },
+        { "t": "add up", "es": "cuadrar, tener sentido", "pron": "ad ap", "ej": "His story doesn't add up.", "ejes": "Su historia no cuadra.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The culprit must have entered through the window.", "es": "El culpable debe de haber entrado por la ventana.", "pron": "da cálprit mast jav éntered zru da uíndou" },
+        { "t": "He can't have done it. He has a perfect alibi.", "es": "No puede haberlo hecho. Tiene una coartada perfecta.", "pron": "ji cant jav dan it. ji jas a pérfect álibai" },
+        { "t": "It might have been an inside job.", "es": "Podría haber sido un trabajo de alguien de adentro.", "pron": "it mait jav bin an insáid yob" },
+        { "t": "His story doesn't add up at all.", "es": "Su historia no cuadra en absoluto.", "pron": "jis stóri dásent ad ap at ol" },
+        { "t": "We can't rule out any suspect just yet.", "es": "No podemos descartar a ningún sospechoso todavía.", "pron": "ui cant rul áut eni sáspect yast iet" },
+        { "t": "The motive must have been money.", "es": "El motivo debe de haber sido el dinero.", "pron": "da móutiv mast jav bin máni" }
+      ],
+      "dialogo": {
+        "titulo": "El caso del museo",
+        "lineas": [
+          { "q": "A", "t": "Someone broke into the museum last night. The culprit must have been inside before closing.", "es": "Alguien entró al museo anoche. El culpable debe de haber estado dentro antes del cierre." },
+          { "q": "B", "t": "It can't have been the guard. He has a perfect alibi.", "es": "No puede haber sido el guardia. Tiene una coartada perfecta." },
+          { "q": "A", "t": "Then it might have been an inside job. We can't rule out the staff.", "es": "Entonces podría haber sido alguien de adentro. No podemos descartar al personal." },
+          { "q": "B", "t": "His story doesn't add up. He says he was sleeping, but the lights were on.", "es": "Su historia no cuadra. Dice que dormía, pero las luces estaban encendidas." },
+          { "q": "A", "t": "What about the motive? It must have been money.", "es": "¿Y el motivo? Debe de haber sido el dinero." },
+          { "q": "B", "t": "Probably. We found a fingerprint on the glass, so we should know soon.", "es": "Probablemente. Encontramos una huella en el vidrio, así que pronto lo sabremos." }
+        ]
+      },
+      "nota": "En inglés, los detectives suelen decir Elementary, my dear Watson. La frase es de Sherlock Holmes y se usa en broma."
+    }
+  ]
+}

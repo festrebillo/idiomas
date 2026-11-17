@@ -1,0 +1,223 @@
+{
+  "id": "it-b2-u7",
+  "idioma": "it",
+  "nivel": "B2",
+  "n": 7,
+  "titulo": "Argumentar y debatir",
+  "resumen": "Aprenderás el lenguaje del debate: dar y matizar opiniones, estar de acuerdo o no, y conceder puntos con sebbene, benché y nonostante.",
+  "puedo": [
+    "Dar mi opinión con matices: secondo me, a mio avviso, sono convinto che.",
+    "Mostrar acuerdo y desacuerdo con cortesía.",
+    "Conceder un punto con sebbene, benché, nonostante y anche se.",
+    "Contraargumentar con tuttavia, d'altra parte, al contrario.",
+    "Estructurar una intervención con inizio, argomenti e conclusione."
+  ],
+  "gramatica": {
+    "titulo": "Concesión: sebbene, benché, nonostante",
+    "texto": "Para conceder un punto y luego oponerte, el italiano usa:\nSebbene / benché / nonostante / per quanto + congiuntivo: Sebbene sia caro, lo compro (aunque es caro, lo compro).\nAnche se + indicativo (hecho real) o congiuntivo imperfetto (hipótesis): Anche se è caro, lo compro / Anche se fosse caro, lo comprerei.\nNonostante + sustantivo o infinitivo: Nonostante la pioggia, siamo usciti. Nonostante + congiuntivo: Nonostante piova...\nTruco: sebbene, benché y per quanto siempre congiuntivo; «anche se» no (es el más sencillo).\nDespués de la concesión suele venir la oposición: «Ciò nonostante», «tuttavia», «comunque».",
+    "tabla": [
+      ["Sebbene sia caro, lo compro.", "Aunque es caro, lo compro.", "sebbéne sía cáro lo cómpro"],
+      ["Benché piova, usciamo.", "Aunque llueva, salimos.", "benké piova usciámo"],
+      ["Nonostante la pioggia, siamo usciti.", "A pesar de la lluvia, salimos.", "nonostánte la piódya siámo uscíti"],
+      ["Per quanto sia difficile, ce la faremo.", "Por difícil que sea, lo lograremos.", "per cuánto sía difficile che la farémo"],
+      ["Anche se è caro, lo compro.", "Aunque es caro, lo compro.", "ánche se e cáro lo cómpro"]
+    ],
+    "errores": [
+      "Después de «sebbene» y «benché» va congiuntivo: «sebbene sia», no «sebbene è».",
+      "No pongas «ma» después de la concesión: «sebbene sia caro, lo compro» (no «sebbene sia caro, ma lo compro»).",
+      "«Nonostante» + verbo conjugado pide congiuntivo («nonostante piova»); con sustantivo no hace falta: «nonostante la pioggia»."
+    ]
+  },
+  "practica": [
+    "Elige un tema de actualidad y escribe tres argumentos a favor y tres en contra con conectores de concesión (10 minutos).",
+    "Graba un minuto defendiendo una opinión con «secondo me», «sebbene» y «tuttavia» (6 minutos).",
+    "Mira un debate político italiano en vídeo y anota las expresiones de acuerdo y desacuerdo que oigas (10 minutos).",
+    "Convierte cinco frases con «aunque» en frases italianas con «sebbene», «benché» y «anche se» (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b2-u7-l1",
+      "n": 1,
+      "titulo": "Dar y matizar opiniones",
+      "objetivo": "Expresar una opinión con distintos grados de fuerza.",
+      "intro": "En un debate, la opinión se introduce con fórmulas de distinta intensidad. Truco: «secondo me» es informal; «a mio avviso» y «dal mio punto di vista» son más formales.",
+      "palabras": [
+        { "t": "secondo me", "es": "en mi opinión", "pron": "secóndo me", "ej": "Secondo me hai ragione.", "ejes": "En mi opinión tienes razón.", "cog": false },
+        { "t": "a mio avviso", "es": "a mi juicio", "pron": "a mío avvíso", "ej": "A mio avviso il progetto è troppo costoso.", "ejes": "A mi juicio el proyecto es demasiado costoso.", "cog": false },
+        { "t": "dal mio punto di vista", "es": "desde mi punto de vista", "pron": "dal mío púnto di vísta", "ej": "Dal mio punto di vista è una scelta sbagliata.", "ejes": "Desde mi punto de vista es una decisión equivocada.", "cog": false },
+        { "t": "sono convinto che", "es": "estoy convencido de que", "pron": "sóno convínto ke", "ej": "Sono convinto che sia la scelta migliore.", "ejes": "Estoy convencido de que es la mejor elección.", "cog": false },
+        { "t": "ritengo che", "es": "considero que", "pron": "riténgo ke", "ej": "Ritengo che sia necessario discuterne.", "ejes": "Considero que es necesario discutirlo.", "cog": false },
+        { "t": "mi pare che", "es": "me parece que", "pron": "mi páre ke", "ej": "Mi pare che tu abbia esagerato.", "ejes": "Me parece que exageraste.", "cog": false },
+        { "t": "a dire il vero", "es": "a decir verdad", "pron": "a díre il véro", "ej": "A dire il vero non ero d'accordo.", "ejes": "A decir verdad no estaba de acuerdo.", "cog": false },
+        { "t": "personalmente", "es": "personalmente", "pron": "personalménte", "ej": "Personalmente preferisco restare a casa.", "ejes": "Personalmente prefiero quedarme en casa.", "cog": true },
+        { "t": "in linea di principio", "es": "en principio", "pron": "in línea di princhípio", "ej": "In linea di principio sono favorevole.", "ejes": "En principio estoy a favor.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Secondo me, il lavoro da casa è una buona idea.", "es": "En mi opinión, trabajar desde casa es una buena idea.", "pron": "secóndo me il lavóro da cása e úna buóna idéa" },
+        { "t": "A mio avviso il governo dovrebbe investire di più nella scuola.", "es": "A mi juicio el gobierno debería invertir más en la educación.", "pron": "a mío avvíso il govérno dovrébbe invéstire di piú nélla scuóla" },
+        { "t": "Sono convinto che si possa trovare un accordo.", "es": "Estoy convencido de que se puede encontrar un acuerdo.", "pron": "sóno convínto ke si pósa trováre un accórdo" },
+        { "t": "Dal mio punto di vista il problema è un altro.", "es": "Desde mi punto de vista el problema es otro.", "pron": "dal mío púnto di vísta il problema e un áltro" },
+        { "t": "Ritengo che sia necessario ascoltare tutti.", "es": "Considero que es necesario escuchar a todos.", "pron": "riténgo ke sía necesário ascoltáre túti" }
+      ],
+      "dialogo": {
+        "titulo": "Lavorare da casa",
+        "lineas": [
+          { "q": "A", "t": "Secondo me il lavoro da casa è il futuro.", "es": "En mi opinión el trabajo desde casa es el futuro." },
+          { "q": "B", "t": "A dire il vero, non ne sono convinto.", "es": "A decir verdad, no estoy convencido." },
+          { "q": "A", "t": "Come mai? Dal mio punto di vista si risparmia tempo.", "es": "¿Por qué? Desde mi punto de vista se ahorra tiempo." },
+          { "q": "B", "t": "Ritengo che si perda il contatto con i colleghi.", "es": "Considero que se pierde el contacto con los colegas." },
+          { "q": "A", "t": "In linea di principio hai ragione, ma dipende dal lavoro.", "es": "En principio tienes razón, pero depende del trabajo." },
+          { "q": "B", "t": "Personalmente preferisco un sistema misto.", "es": "Personalmente prefiero un sistema mixto." }
+        ]
+      },
+      "nota": "Después de «ritengo che», «credo che» y «mi pare che» va congiuntivo; después de «sono convinto che» también. Con «secondo me» no hay congiuntivo: va una frase normal."
+    },
+    {
+      "id": "it-b2-u7-l2",
+      "n": 2,
+      "titulo": "Estar de acuerdo y no estarlo",
+      "objetivo": "Expresar acuerdo y desacuerdo de forma cortés y precisa.",
+      "intro": "En un debate se puede estar de acuerdo del todo, en parte o nada. Truco: para disentir con cortesía, empieza con una concesión: «Capisco, ma...».",
+      "palabras": [
+        { "t": "sono d'accordo", "es": "estoy de acuerdo", "pron": "sóno daccórdo", "ej": "Sono d'accordo con te al cento per cento.", "ejes": "Estoy de acuerdo contigo al cien por ciento.", "cog": false },
+        { "t": "non sono affatto d'accordo", "es": "no estoy para nada de acuerdo", "pron": "non sóno affátto daccórdo", "ej": "Non sono affatto d'accordo con questa decisione.", "ejes": "No estoy para nada de acuerdo con esta decisión.", "cog": false },
+        { "t": "hai ragione", "es": "tienes razón", "pron": "ái radsióne", "ej": "Hai ragione, ho sbagliato io.", "ejes": "Tienes razón, me equivoqué yo.", "cog": false },
+        { "t": "hai torto", "es": "estás equivocado", "pron": "ái tórto", "ej": "Su questo punto hai torto.", "ejes": "En este punto estás equivocado.", "cog": false },
+        { "t": "in parte", "es": "en parte", "pron": "in párte", "ej": "In parte hai ragione, ma non del tutto.", "ejes": "En parte tienes razón, pero no del todo.", "cog": false },
+        { "t": "capisco, ma", "es": "entiendo, pero", "pron": "capísco ma", "ej": "Capisco, ma non sono convinto.", "ejes": "Entiendo, pero no estoy convencido.", "cog": false },
+        { "t": "su questo punto", "es": "en este punto", "pron": "su cuésto púnto", "ej": "Su questo punto siamo tutti d'accordo.", "ejes": "En este punto todos estamos de acuerdo.", "cog": false },
+        { "t": "esattamente", "es": "exactamente", "pron": "esattaménte", "ej": "Esattamente quello che pensavo.", "ejes": "Exactamente lo que pensaba.", "cog": true },
+        { "t": "non necessariamente", "es": "no necesariamente", "pron": "non necessariaménte", "ej": "Non necessariamente è la scelta migliore.", "ejes": "No necesariamente es la mejor elección.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Sono d'accordo con te, ma solo in parte.", "es": "Estoy de acuerdo contigo, pero solo en parte.", "pron": "sóno daccórdo con te ma sólo in párte" },
+        { "t": "Non sono affatto d'accordo con questa proposta.", "es": "No estoy para nada de acuerdo con esta propuesta.", "pron": "non sóno affátto daccórdo con cuésta propósta" },
+        { "t": "Capisco il tuo punto di vista, ma non lo condivido.", "es": "Entiendo tu punto de vista, pero no lo comparto.", "pron": "capísco il túo púnto di vísta ma non lo condívido" },
+        { "t": "Su questo punto hai assolutamente ragione.", "es": "En este punto tienes toda la razón.", "pron": "su cuésto púnto ái assolutaménte radsióne" },
+        { "t": "Non è necessariamente vero, dipende dal caso.", "es": "No es necesariamente cierto, depende del caso.", "pron": "non e necessariaménte véro dipénde dal cáso" }
+      ],
+      "dialogo": {
+        "titulo": "Una discussione civile",
+        "lineas": [
+          { "q": "A", "t": "Credo che i social media siano pericolosi per i giovani.", "es": "Creo que las redes sociales son peligrosas para los jóvenes." },
+          { "q": "B", "t": "In parte sono d'accordo, ma non necessariamente è così.", "es": "En parte estoy de acuerdo, pero no necesariamente es así." },
+          { "q": "A", "t": "Come puoi dirlo? Ci sono studi chiari.", "es": "¿Cómo puedes decirlo? Hay estudios claros." },
+          { "q": "B", "t": "Capisco, ma gli studi dicono anche che molto dipende dall'uso.", "es": "Entiendo, pero los estudios también dicen que mucho depende del uso." },
+          { "q": "A", "t": "Su questo hai ragione.", "es": "En eso tienes razón." },
+          { "q": "B", "t": "Esattamente: il problema è l'abuso, non lo strumento.", "es": "Exacto: el problema es el abuso, no la herramienta." }
+        ]
+      },
+      "nota": "«Hai ragione» y «hai torto» usan «avere», no «essere»: «tu sei ragione» es un error típico; igual que en español («tener razón»), se usa «avere»."
+    },
+    {
+      "id": "it-b2-u7-l3",
+      "n": 3,
+      "titulo": "Conceder: sebbene, benché, nonostante",
+      "objetivo": "Usar conectores de concesión con el modo correcto.",
+      "intro": "Sebbene, benché y per quanto piden congiuntivo; «anche se» pide indicativo. Truco: concesión = «sí, pero»: reconoces un hecho y presentas lo opuesto.",
+      "palabras": [
+        { "t": "sebbene", "es": "aunque", "pron": "sebbéne", "ej": "Sebbene sia stanco, continua a lavorare.", "ejes": "Aunque está cansado, sigue trabajando.", "cog": false },
+        { "t": "benché", "es": "aunque", "pron": "benké", "ej": "Benché piova, usciamo lo stesso.", "ejes": "Aunque llueva, salimos igual.", "cog": false },
+        { "t": "nonostante", "es": "a pesar de", "pron": "nonostánte", "ej": "Nonostante la crisi, l'azienda cresce.", "ejes": "A pesar de la crisis, la empresa crece.", "cog": false },
+        { "t": "per quanto", "es": "por mucho que, aunque", "pron": "per cuánto", "ej": "Per quanto mi sforzi, non capisco.", "ejes": "Por mucho que me esfuerce, no entiendo.", "cog": false },
+        { "t": "anche se", "es": "aunque, incluso si", "pron": "ánche se", "ej": "Anche se è tardi, vengo da te.", "ejes": "Aunque es tarde, voy a tu casa.", "cog": false },
+        { "t": "malgrado", "es": "a pesar de", "pron": "malgrádo", "ej": "Malgrado tutto, siamo ancora amici.", "ejes": "A pesar de todo, seguimos siendo amigos.", "cog": false },
+        { "t": "pur", "es": "aunque (con gerundio)", "pron": "pur", "ej": "Pur essendo giovane, ha molta esperienza.", "ejes": "Aunque es joven, tiene mucha experiencia.", "cog": false },
+        { "t": "eppure", "es": "y sin embargo", "pron": "eppúre", "ej": "Ha studiato, eppure ha fallito l'esame.", "ejes": "Estudió, y sin embargo suspendió el examen.", "cog": false },
+        { "t": "ciò nonostante", "es": "a pesar de ello", "pron": "chió nonostánte", "ej": "Ciò nonostante, il progetto è andato avanti.", "ejes": "A pesar de ello, el proyecto siguió adelante.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Sebbene sia molto stanco, continua a lavorare.", "es": "Aunque está muy cansado, sigue trabajando.", "pron": "sebbéne sía mólto stánco continúa a lavoráre" },
+        { "t": "Benché piova, usciamo lo stesso.", "es": "Aunque llueva, salimos igual.", "pron": "benké piova usciámo lo stésso" },
+        { "t": "Nonostante la crisi, l'azienda ha assunto venti persone.", "es": "A pesar de la crisis, la empresa contrató a veinte personas.", "pron": "nonostánte la crísi laziénda a assúnto vénti persóne" },
+        { "t": "Per quanto mi sforzi, non riesco a capire.", "es": "Por mucho que me esfuerce, no logro entender.", "pron": "per cuánto mi sfórsi non riésco a capíre" },
+        { "t": "Anche se è tardi, vengo volentieri.", "es": "Aunque es tarde, voy con gusto.", "pron": "ánche se e tárdi véngo volentiéri" }
+      ],
+      "dialogo": {
+        "titulo": "Un difficile compromesso",
+        "lineas": [
+          { "q": "A", "t": "Nonostante la crisi, l'azienda ha deciso di assumere.", "es": "A pesar de la crisis, la empresa decidió contratar." },
+          { "q": "B", "t": "Benché sembri strano, è una buona notizia.", "es": "Aunque parezca raro, es una buena noticia." },
+          { "q": "A", "t": "Sì, anche se non tutti sono contenti.", "es": "Sí, aunque no todos están contentos." },
+          { "q": "B", "t": "Per quanto ci provino, non possono accontentare tutti.", "es": "Por mucho que lo intenten, no pueden contentar a todos." },
+          { "q": "A", "t": "Sebbene sia difficile, secondo me stanno facendo la scelta giusta.", "es": "Aunque es difícil, en mi opinión están tomando la decisión correcta." },
+          { "q": "B", "t": "Eppure, ci sarà chi protesterà.", "es": "Y sin embargo, habrá quien proteste." }
+        ]
+      },
+      "nota": "«Anche se» y «sebbene» no son intercambiables en el modo: «anche se» + indicativo, «sebbene» + congiuntivo. «Eppure» arranca una frase nueva."
+    },
+    {
+      "id": "it-b2-u7-l4",
+      "n": 4,
+      "titulo": "Contraargumentar y organizar la intervención",
+      "objetivo": "Usar conectores para contraargumentar y estructurar un discurso.",
+      "intro": "Una buena intervención tiene orden: apertura, argumentos y cierre. Truco: «in primo luogo, inoltre, infine» para ordenar; «tuttavia, d'altra parte» para contraargumentar.",
+      "palabras": [
+        { "t": "in primo luogo", "es": "en primer lugar", "pron": "in prímo luógo", "ej": "In primo luogo vorrei ringraziare tutti.", "ejes": "En primer lugar quisiera agradecer a todos.", "cog": false },
+        { "t": "inoltre", "es": "además", "pron": "inóltre", "ej": "Inoltre, il costo è troppo alto.", "ejes": "Además, el costo es demasiado alto.", "cog": false },
+        { "t": "per di più", "es": "encima, por si fuera poco", "pron": "per di piú", "ej": "Per di più, il servizio è peggiorato.", "ejes": "Encima, el servicio empeoró.", "cog": false },
+        { "t": "tuttavia", "es": "sin embargo", "pron": "tuttavía", "ej": "Tuttavia, non dobbiamo dimenticare i costi.", "ejes": "Sin embargo, no debemos olvidar los costos.", "cog": false },
+        { "t": "d'altra parte", "es": "por otro lado", "pron": "dáltra párte", "ej": "D'altra parte, il piano ha dei vantaggi.", "ejes": "Por otro lado, el plan tiene ventajas.", "cog": false },
+        { "t": "al contrario", "es": "al contrario", "pron": "al contrário", "ej": "Al contrario, i dati mostrano una crescita.", "ejes": "Al contrario, los datos muestran un crecimiento.", "cog": false },
+        { "t": "per quanto riguarda", "es": "en cuanto a", "pron": "per cuánto riguárda", "ej": "Per quanto riguarda il budget, siamo a posto.", "ejes": "En cuanto al presupuesto, estamos bien.", "cog": false },
+        { "t": "in conclusione", "es": "en conclusión", "pron": "in conclusióne", "ej": "In conclusione, direi che il progetto è valido.", "ejes": "En conclusión, diría que el proyecto es válido.", "cog": false },
+        { "t": "a favore", "es": "a favor", "pron": "a favóre", "ej": "Sono a favore della proposta.", "ejes": "Estoy a favor de la propuesta.", "cog": false }
+      ],
+      "frases": [
+        { "t": "In primo luogo, il progetto è troppo costoso.", "es": "En primer lugar, el proyecto es demasiado costoso.", "pron": "in prímo luógo il progétto e tróppo costóso" },
+        { "t": "Inoltre, i tempi di realizzazione sono troppo lunghi.", "es": "Además, los plazos de realización son demasiado largos.", "pron": "inóltre i témpi di realisatsióne sóno tróppo lúnghi" },
+        { "t": "D'altra parte, bisogna riconoscere alcuni vantaggi.", "es": "Por otro lado, hay que reconocer algunas ventajas.", "pron": "dáltra párte bisóña riconóschere álcuni vantáddyi" },
+        { "t": "Per quanto riguarda la sicurezza, non ci sono problemi.", "es": "En cuanto a la seguridad, no hay problemas.", "pron": "per cuánto riguárda la sicuréttsa non chi sóno problémi" },
+        { "t": "In conclusione, sono a favore della proposta.", "es": "En conclusión, estoy a favor de la propuesta.", "pron": "in conclusióne sóno a favóre délla propósta" }
+      ],
+      "dialogo": {
+        "titulo": "Un dibattito in classe",
+        "lineas": [
+          { "q": "A", "t": "In primo luogo, vorrei dire che sono a favore del nuovo piano.", "es": "En primer lugar, quisiera decir que estoy a favor del nuevo plan." },
+          { "q": "B", "t": "Tuttavia, non dobbiamo ignorare i costi.", "es": "Sin embargo, no debemos ignorar los costos." },
+          { "q": "A", "t": "D'altra parte, i benefici superano i costi.", "es": "Por otro lado, los beneficios superan los costos." },
+          { "q": "B", "t": "Per quanto riguarda i tempi, non sono d'accordo con te.", "es": "En cuanto a los plazos, no estoy de acuerdo contigo." },
+          { "q": "A", "t": "Inoltre, i dati mostrano una crescita costante.", "es": "Además, los datos muestran un crecimiento constante." },
+          { "q": "B", "t": "In conclusione, direi che possiamo trovare un compromesso.", "es": "En conclusión, diría que podemos encontrar un compromiso." }
+        ]
+      },
+      "nota": "Para cerrar con fuerza: «in definitiva», «in sintesi», «per tutte queste ragioni». Para tomar la palabra con cortesía: «mi permetta di dire», «vorrei aggiungere»."
+    },
+    {
+      "id": "it-b2-u7-l5",
+      "n": 5,
+      "titulo": "Repaso: un debate completo",
+      "objetivo": "Combinar opinión, acuerdo, concesión y contraargumento en un debate de principio a fin.",
+      "intro": "Repasa preparando una intervención: abre con tu postura, concede un punto, contraargumenta y cierra. Truco: la estructura «Secondo me... Sebbene... Tuttavia... In conclusione» funciona casi siempre.",
+      "palabras": [
+        { "t": "la tesi", "es": "la tesis, la postura", "pron": "la tési", "ej": "La tesi principale è chiara.", "ejes": "La tesis principal es clara.", "cog": true },
+        { "t": "l'argomento", "es": "el argumento", "pron": "largoménto", "ej": "Ho scelto l'argomento più forte.", "ejes": "Elegí el argumento más fuerte.", "cog": true },
+        { "t": "il vantaggio", "es": "la ventaja", "pron": "il vantáddyo", "ej": "Il vantaggio principale è il costo.", "ejes": "La ventaja principal es el costo.", "cog": false },
+        { "t": "lo svantaggio", "es": "la desventaja", "pron": "lo svantáddyo", "ej": "Lo svantaggio è il tempo.", "ejes": "La desventaja es el tiempo.", "cog": false },
+        { "t": "sostenere", "es": "sostener, defender", "pron": "sostenére", "ej": "Voglio sostenere questa idea in pubblico.", "ejes": "Quiero defender esta idea en público.", "cog": false },
+        { "t": "controbattere", "es": "rebatir", "pron": "controbáttere", "ej": "Non è facile controbattere a un dato.", "ejes": "No es fácil rebatir un dato.", "cog": false },
+        { "t": "convincere", "es": "convencer", "pron": "convínchere", "ej": "Cerco di convincere i miei colleghi.", "ejes": "Trato de convencer a mis colegas.", "cog": false },
+        { "t": "la proposta", "es": "la propuesta", "pron": "la propósta", "ej": "La proposta è stata approvata.", "ejes": "La propuesta fue aprobada.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Sostengo questa tesi perché i dati la confermano.", "es": "Defiendo esta tesis porque los datos la confirman.", "pron": "sosténgo cuésta tési perké i dáti la confermáno" },
+        { "t": "Sebbene la proposta abbia dei vantaggi, ha anche svantaggi.", "es": "Aunque la propuesta tiene ventajas, también tiene desventajas.", "pron": "sebbéne la propósta ábbia dei vantáddyi a ánche svantáddyi" },
+        { "t": "È difficile controbattere a un argomento così solido.", "es": "Es difícil rebatir un argumento tan sólido.", "pron": "e difficile controbáttere a un argoménto cosí sólido" },
+        { "t": "Nonostante tutto, sono riuscito a convincerli.", "es": "A pesar de todo, logré convencerlos.", "pron": "nonostánte túto sóno riuscíto a convinchérli" },
+        { "t": "In conclusione, ritengo che la proposta sia valida.", "es": "En conclusión, considero que la propuesta es válida.", "pron": "in conclusióne riténgo ke la propósta sía válida" }
+      ],
+      "dialogo": {
+        "titulo": "Un confronto finale",
+        "lineas": [
+          { "q": "A", "t": "Secondo me la proposta è valida: il vantaggio principale è il risparmio.", "es": "En mi opinión la propuesta es válida: la ventaja principal es el ahorro." },
+          { "q": "B", "t": "Sebbene il risparmio sia reale, lo svantaggio è la perdita di qualità.", "es": "Aunque el ahorro es real, la desventaja es la pérdida de calidad." },
+          { "q": "A", "t": "Tuttavia, i dati non confermano questa tesi.", "es": "Sin embargo, los datos no confirman esa tesis." },
+          { "q": "B", "t": "Nonostante i dati, resto scettico: è difficile controbattere alla mia esperienza.", "es": "A pesar de los datos, sigo escéptico: es difícil rebatir mi experiencia." },
+          { "q": "A", "t": "Capisco, ma ti prego di considerare anche l'altra parte.", "es": "Entiendo, pero te ruego que consideres también la otra parte." },
+          { "q": "B", "t": "In conclusione, possiamo fare una prova di tre mesi.", "es": "En conclusión, podemos hacer una prueba de tres meses." }
+        ]
+      },
+      "nota": "Un buen debate no es una pelea: reconocer un buen argumento del otro («è un punto valido») refuerza tu credibilidad."
+    }
+  ]
+}

@@ -1,0 +1,714 @@
+{
+  "id": "pt-b2-u9",
+  "idioma": "pt",
+  "nivel": "B2",
+  "n": 9,
+  "titulo": "Expresiones idiomáticas",
+  "resumen": "Aprenderás expresiones muy comunes del portugués de Brasil (quebrar o galho, pagar mico, tirar de letra) agrupadas por tema y cómo usarlas sin traducirlas palabra por palabra.",
+  "puedo": [
+    "Entender expresiones comunes sobre trabajo y dinero.",
+    "Usar expresiones de la vida diaria en una conversación.",
+    "Reconocer dichos con animales y comida.",
+    "Expresar emociones con frases hechas.",
+    "No traducir literalmente una expresión y elegir la equivalente en español."
+  ],
+  "gramatica": {
+    "titulo": "Las expresiones son bloques fijos",
+    "texto": "Una expresión idiomática es un bloque de palabras cuyo significado no sale de sumar sus partes: «pagar mico» no es pagar un mono, sino pasar vergüenza. Se aprende entera, como una sola palabra.\nSolo el verbo cambia de tiempo y persona; el resto del bloque queda igual: Eu quebrei o galho dele / Ele vai quebrar o galho. No traduzcas palabra por palabra: busca la equivalencia en español (quebrar o galho = sacar de un apuro; custar os olhos da cara = costar un ojo de la cara).\nMuchas se parecen al español pero con una palabra distinta: «cair a ficha» (caer el veinte), «dar com a língua nos dentes» (irse de la lengua).",
+    "tabla": [
+      [
+        "quebrar o galho",
+        "sacar de un apuro",
+        "kebrár u gáyu"
+      ],
+      [
+        "pagar mico",
+        "pasar vergüenza",
+        "pagár míku"
+      ],
+      [
+        "custar os olhos da cara",
+        "costar un ojo de la cara",
+        "kustár us óliuz da kára"
+      ],
+      [
+        "tirar de letra",
+        "hacer algo con facilidad",
+        "tirár dyi létra"
+      ],
+      [
+        "pisar na bola",
+        "meter la pata",
+        "pizár na bóla"
+      ]
+    ],
+    "errores": [
+      "No traduzcas literal: «pagar mico» no es «pagar un mono»; di «pasar vergüenza».",
+      "No cambies las palabras fijas: es «custar os olhos da cara», no «custar um olho».",
+      "Conjuga solo el verbo: «ele pisou na bola», no «ele pisou na bolas»."
+    ]
+  },
+  "practica": [
+    "Elige 6 expresiones de la unidad y escribe una frase propia con cada una (8 minutos).",
+    "Di en voz alta 5 expresiones junto con su equivalente en español (5 minutos).",
+    "Escucha una conversación o telenovela en portugués y anota 3 expresiones que oigas (10 minutos).",
+    "Cuenta por escrito algo que te pasó usando 4 expresiones de la unidad (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b2-u9-l1",
+      "n": 1,
+      "titulo": "Trabajo y dinero",
+      "objetivo": "Usar expresiones comunes del trabajo y del dinero.",
+      "intro": "En la oficina brasileña se oyen muchas frases hechas. Truco: aprende cada una con una imagen mental, por ejemplo «pôr a mão na massa» es meter las manos en la masa del pan, o sea, ponerse a trabajar.",
+      "palabras": [
+        {
+          "t": "quebrar o galho",
+          "es": "sacar de un apuro",
+          "pron": "kebrár u gáyu",
+          "ej": "Você pode quebrar o galho para mim hoje?",
+          "ejes": "¿Puedes sacarme de un apuro hoy?",
+          "cog": false
+        },
+        {
+          "t": "pôr a mão na massa",
+          "es": "ponerse a trabajar",
+          "pron": "pór a máun na mása",
+          "ej": "Chega de conversa, vamos pôr a mão na massa.",
+          "ejes": "Basta de charla, pongámonos a trabajar.",
+          "cog": false
+        },
+        {
+          "t": "custa os olhos da cara",
+          "es": "cuesta un ojo de la cara",
+          "pron": "kústa us óliuz da kára",
+          "ej": "Esse carro custa os olhos da cara.",
+          "ejes": "Ese carro cuesta un ojo de la cara.",
+          "cog": false
+        },
+        {
+          "t": "no vermelho",
+          "es": "en números rojos",
+          "pron": "nu vermélyu",
+          "ej": "A empresa está no vermelho há dois meses.",
+          "ejes": "La empresa está en números rojos hace dos meses.",
+          "cog": false
+        },
+        {
+          "t": "engolir sapo",
+          "es": "tragarse el orgullo",
+          "pron": "engolír sápu",
+          "ej": "Às vezes é preciso engolir sapo no trabalho.",
+          "ejes": "A veces hay que tragarse el orgullo en el trabajo.",
+          "cog": false
+        },
+        {
+          "t": "vestir a camisa",
+          "es": "ponerse la camiseta",
+          "pron": "vestír a kamíza",
+          "ej": "Todo mundo precisa vestir a camisa da empresa.",
+          "ejes": "Todos necesitan ponerse la camiseta de la empresa.",
+          "cog": false
+        },
+        {
+          "t": "dar um jeito",
+          "es": "encontrar una solución",
+          "pron": "dár ún yéitu",
+          "ej": "Não se preocupe, eu vou dar um jeito.",
+          "ejes": "No te preocupes, voy a encontrar una solución.",
+          "cog": false
+        },
+        {
+          "t": "pagar o pato",
+          "es": "pagar los platos rotos",
+          "pron": "pagár u pátu",
+          "ej": "Eu não quero pagar o pato pelo erro dele.",
+          "ejes": "No quiero pagar los platos rotos por su error.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Pode quebrar o galho para mim?",
+          "es": "¿Puedes sacarme de un apuro?",
+          "pron": "pódyi kebrár u gáyu pára mín"
+        },
+        {
+          "t": "Vamos pôr a mão na massa!",
+          "es": "¡Pongámonos a trabajar!",
+          "pron": "vámus pór a máun na mása"
+        },
+        {
+          "t": "Esse apartamento custa os olhos da cara.",
+          "es": "Este departamento cuesta un ojo de la cara.",
+          "pron": "ésyi apartaméntu kústa us óliuz da kára"
+        },
+        {
+          "t": "A loja está no vermelho desde janeiro.",
+          "es": "La tienda está en números rojos desde enero.",
+          "pron": "a lóya está nu vermélyu dézdyi yanéiru"
+        },
+        {
+          "t": "Eu vou dar um jeito nesse problema.",
+          "es": "Voy a encontrar una solución a este problema.",
+          "pron": "éu vóu dár ún yéitu nésyi problíma"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Um dia difícil no escritório",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "A empresa está no vermelho e o chefe está nervoso.",
+            "es": "La empresa está en números rojos y el jefe está nervioso."
+          },
+          {
+            "q": "B",
+            "t": "Pois é. Agora é hora de pôr a mão na massa.",
+            "es": "Así es. Ahora es hora de ponerse a trabajar."
+          },
+          {
+            "q": "A",
+            "t": "Você pode quebrar o galho e terminar o relatório hoje?",
+            "es": "¿Puedes sacarme de un apuro y terminar el informe hoy?"
+          },
+          {
+            "q": "B",
+            "t": "Posso, mas não quero pagar o pato pelo erro de ninguém.",
+            "es": "Puedo, pero no quiero pagar los platos rotos por el error de nadie."
+          },
+          {
+            "q": "A",
+            "t": "Tranquilo, eu vou dar um jeito com o chefe.",
+            "es": "Tranquilo, yo voy a arreglarlo con el jefe."
+          }
+        ]
+      },
+      "nota": "«Engolir sapo» se usa cuando alguien tiene que aguantar algo desagradable sin protestar. «Pagar o pato» suena muy natural en Brasil."
+    },
+    {
+      "id": "pt-b2-u9-l2",
+      "n": 2,
+      "titulo": "Vida cotidiana",
+      "objetivo": "Usar expresiones de todos los días con amigos y familia.",
+      "intro": "Estas frases aparecen en cualquier charla informal. Truco: algunas se parecen mucho al español («caer el veinte» es «cair a ficha»), así que busca el parecido.",
+      "palabras": [
+        {
+          "t": "ficar de olho",
+          "es": "vigilar, estar atento",
+          "pron": "ficár dyi ólyu",
+          "ej": "Pode ficar de olho nas crianças um minuto?",
+          "ejes": "¿Puedes vigilar a los niños un minuto?",
+          "cog": false
+        },
+        {
+          "t": "não vejo a hora",
+          "es": "no veo la hora",
+          "pron": "náun véyu a óra",
+          "ej": "Não vejo a hora de viajar nas férias.",
+          "ejes": "No veo la hora de viajar en las vacaciones.",
+          "cog": false
+        },
+        {
+          "t": "a ficha caiu",
+          "es": "cayó el veinte",
+          "pron": "a físha kaíu",
+          "ej": "Só agora a ficha caiu: ele estava brincando.",
+          "ejes": "Recién ahora cayó el veinte: estaba bromeando.",
+          "cog": false
+        },
+        {
+          "t": "ficar a ver navios",
+          "es": "quedarse con las ganas",
+          "pron": "ficár a vér navíus",
+          "ej": "Se você esperar demais, vai ficar a ver navios.",
+          "ejes": "Si esperas demasiado, te vas a quedar con las ganas.",
+          "cog": false
+        },
+        {
+          "t": "deixou na mão",
+          "es": "dejó plantado",
+          "pron": "deishóu na máun",
+          "ej": "Meu amigo me deixou na mão ontem.",
+          "ejes": "Mi amigo me dejó plantado ayer.",
+          "cog": false
+        },
+        {
+          "t": "levar a sério",
+          "es": "tomar en serio",
+          "pron": "levár a sériu",
+          "ej": "Você precisa levar a sério esse curso.",
+          "ejes": "Necesitas tomar en serio este curso.",
+          "cog": false
+        },
+        {
+          "t": "deu de ombros",
+          "es": "se encogió de hombros",
+          "pron": "déu dyi ómbrus",
+          "ej": "Quando perguntei, ele só deu de ombros.",
+          "ejes": "Cuando le pregunté, solo se encogió de hombros.",
+          "cog": false
+        },
+        {
+          "t": "de cabeça quente",
+          "es": "con la cabeza caliente",
+          "pron": "dyi kabésa kéinti",
+          "ej": "Não decida nada de cabeça quente.",
+          "ejes": "No decidas nada con la cabeza caliente.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Fica de olho no bolo, por favor.",
+          "es": "Vigila el pastel, por favor.",
+          "pron": "fíka dyi ólyu nu bólu, por favór"
+        },
+        {
+          "t": "Não vejo a hora de te encontrar.",
+          "es": "No veo la hora de verte.",
+          "pron": "náun véyu a óra dyi tyi enkontrár"
+        },
+        {
+          "t": "Agora a ficha caiu!",
+          "es": "¡Ahora sí cayó el veinte!",
+          "pron": "agóra a físha kaíu"
+        },
+        {
+          "t": "Ele me deixou na mão na última hora.",
+          "es": "Me dejó plantado a última hora.",
+          "pron": "éli mi deishóu na máun na úwtima óra"
+        },
+        {
+          "t": "Você precisa levar isso a sério.",
+          "es": "Tienes que tomar esto en serio.",
+          "pron": "vosé presísa levár ísu a sériu"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Planos para o fim de semana",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Não vejo a hora de sábado chegar!",
+            "es": "¡No veo la hora de que llegue el sábado!"
+          },
+          {
+            "q": "B",
+            "t": "Eu também. Mas o Rafael me deixou na mão de novo.",
+            "es": "Yo también. Pero Rafael me dejó plantado otra vez."
+          },
+          {
+            "q": "A",
+            "t": "Por que você não fala com ele? Ele só deu de ombros?",
+            "es": "¿Por qué no hablas con él? ¿Solo se encogió de hombros?"
+          },
+          {
+            "q": "B",
+            "t": "Sim. Mas não quero brigar de cabeça quente.",
+            "es": "Sí. Pero no quiero pelear con la cabeza caliente."
+          },
+          {
+            "q": "A",
+            "t": "Boa ideia. Fica de olho e depois conversa com calma.",
+            "es": "Buena idea. Mantente atento y después conversa con calma."
+          }
+        ]
+      },
+      "nota": "«Ficar a ver navios» viene de Portugal y también se entiende en Brasil. «A ficha caiu» recuerda a las fichas del teléfono público."
+    },
+    {
+      "id": "pt-b2-u9-l3",
+      "n": 3,
+      "titulo": "Animales y comida",
+      "objetivo": "Reconocer dichos con animales, frutas y comida.",
+      "intro": "El portugués usa animales y comida para hablar de situaciones. Truco: casi todas tienen un dicho equivalente en español; aprende la pareja.",
+      "palabras": [
+        {
+          "t": "matar dois coelhos com uma cajadada só",
+          "es": "matar dos pájaros de un tiro",
+          "pron": "matár dóis koélyus kon úma kayadáda só",
+          "ej": "Vou matar dois coelhos com uma cajadada só.",
+          "ejes": "Voy a matar dos pájaros de un tiro.",
+          "cog": false
+        },
+        {
+          "t": "faca e queijo na mão",
+          "es": "tener la sartén por el mango",
+          "pron": "fáka i kéiyu na máun",
+          "ej": "Com esse contrato, ele tem a faca e queijo na mão.",
+          "ejes": "Con ese contrato, tiene la sartén por el mango.",
+          "cog": false
+        },
+        {
+          "t": "pagar mico",
+          "es": "pasar vergüenza",
+          "pron": "pagár míku",
+          "ej": "Eu não quero pagar mico na frente de todo mundo.",
+          "ejes": "No quiero pasar vergüenza frente a todos.",
+          "cog": false
+        },
+        {
+          "t": "chorar pitangas",
+          "es": "quejarse, llorar",
+          "pron": "shorár pitángas",
+          "ej": "Pare de chorar pitangas e trabalhe.",
+          "ejes": "Deja de quejarte y trabaja.",
+          "cog": false
+        },
+        {
+          "t": "descascar um abacaxi",
+          "es": "resolver un problema difícil",
+          "pron": "deskaskár ún abakashí",
+          "ej": "Agora temos que descascar um abacaxi.",
+          "ejes": "Ahora tenemos que resolver un problema difícil.",
+          "cog": false
+        },
+        {
+          "t": "elefante branco",
+          "es": "elefante blanco",
+          "pron": "elefánti bránku",
+          "ej": "Esse prédio virou um elefante branco.",
+          "ejes": "Ese edificio se volvió un elefante blanco.",
+          "cog": true
+        },
+        {
+          "t": "enfiar o pé na jaca",
+          "es": "pasarse, desmadrarse",
+          "pron": "enfiár u pé na yáka",
+          "ej": "Na festa, ele resolveu enfiar o pé na jaca.",
+          "ejes": "En la fiesta decidió desmadrarse.",
+          "cog": false
+        },
+        {
+          "t": "cavalo dado não se olha os dentes",
+          "es": "a caballo regalado no se le mira el diente",
+          "pron": "kavalu dádu náun si ólya us déntis",
+          "ej": "Gostou do presente? Cavalo dado não se olha os dentes.",
+          "ejes": "¿Te gustó el regalo? A caballo regalado no se le mira el diente.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Vou matar dois coelhos com uma cajadada só.",
+          "es": "Voy a matar dos pájaros de un tiro.",
+          "pron": "vóu matár dóis koélyus kon úma kayadáda só"
+        },
+        {
+          "t": "Ele tem a faca e queijo na mão.",
+          "es": "Él tiene la sartén por el mango.",
+          "pron": "éli téin a fáka i kéiyu na máun"
+        },
+        {
+          "t": "Paguei mico na reunião de ontem.",
+          "es": "Pasé vergüenza en la reunión de ayer.",
+          "pron": "pagéi míku na reuniáun dyi óntein"
+        },
+        {
+          "t": "Para de chorar pitangas, vai!",
+          "es": "¡Deja de quejarte, anda!",
+          "pron": "pára dyi shorár pitángas, vái"
+        },
+        {
+          "t": "Esse projeto é um abacaxi para descascar.",
+          "es": "Este proyecto es un problema difícil de resolver.",
+          "pron": "ésyi proyétu é ún abakashí pára deskaskár"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Um projeto complicado",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Esse projeto é um abacaxi. Quem vai descascar?",
+            "es": "Este proyecto es un problema difícil. ¿Quién lo va a resolver?"
+          },
+          {
+            "q": "B",
+            "t": "Eu pego. Assim mato dois coelhos com uma cajadada só.",
+            "es": "Yo lo tomo. Así mato dos pájaros de un tiro."
+          },
+          {
+            "q": "A",
+            "t": "Cuidado para não pagar mico na apresentação.",
+            "es": "Cuidado para no pasar vergüenza en la presentación."
+          },
+          {
+            "q": "B",
+            "t": "Relaxa, o diretor tem a faca e queijo na mão e confia em mim.",
+            "es": "Relájate, el director tiene la sartén por el mango y confía en mí."
+          },
+          {
+            "q": "A",
+            "t": "Então chega de chorar pitangas e mãos à obra.",
+            "es": "Entonces basta de quejas y manos a la obra."
+          }
+        ]
+      },
+      "nota": "«Descascar um abacaxi» significa literalmente pelar una piña: es un trabajo difícil y pegajoso. «Pagar mico» viene de los monos que hacen ridiculeces."
+    },
+    {
+      "id": "pt-b2-u9-l4",
+      "n": 4,
+      "titulo": "Emociones y reacciones",
+      "objetivo": "Expresar sorpresa, miedo, alegría y ánimo con frases hechas.",
+      "intro": "Las emociones suenan más vivas con expresiones. Truco: imagina la escena: «ficar de queixo caído» es quedarse con la boca abierta.",
+      "palabras": [
+        {
+          "t": "ficar de queixo caído",
+          "es": "quedarse boquiabierto",
+          "pron": "ficár dyi kéishu kaídu",
+          "ej": "Você vai ficar de queixo caído com essa notícia.",
+          "ejes": "Te vas a quedar boquiabierto con esta noticia.",
+          "cog": false
+        },
+        {
+          "t": "dar a volta por cima",
+          "es": "salir adelante, recuperarse",
+          "pron": "dár a vólta por síma",
+          "ej": "Depois da crise, ela soube dar a volta por cima.",
+          "ejes": "Después de la crisis, supo salir adelante.",
+          "cog": false
+        },
+        {
+          "t": "tirar o chapéu",
+          "es": "quitarse el sombrero",
+          "pron": "tirár u shapéu",
+          "ej": "Tenho que tirar o chapéu para ela.",
+          "ejes": "Tengo que quitarme el sombrero ante ella.",
+          "cog": true
+        },
+        {
+          "t": "coração na mão",
+          "es": "el corazón en la mano",
+          "pron": "korasáun na máun",
+          "ej": "Fiquei com o coração na mão até o fim do jogo.",
+          "ejes": "Me quedé con el corazón en la mano hasta el final del partido.",
+          "cog": false
+        },
+        {
+          "t": "nas nuvens",
+          "es": "en las nubes, muy feliz",
+          "pron": "nas núvens",
+          "ej": "Ela está nas nuvens com a promoção.",
+          "ejes": "Ella está en las nubes con el ascenso.",
+          "cog": false
+        },
+        {
+          "t": "viajando na maionese",
+          "es": "perdido en pensamientos",
+          "pron": "viayándu na maionéze",
+          "ej": "Desculpe, eu estava viajando na maionese.",
+          "ejes": "Disculpa, estaba en la luna.",
+          "cog": false
+        },
+        {
+          "t": "água na boca",
+          "es": "hacer agua la boca",
+          "pron": "ágwa na bóka",
+          "ej": "Só de ver a foto, dá água na boca.",
+          "ejes": "Con solo ver la foto se hace agua la boca.",
+          "cog": false
+        },
+        {
+          "t": "de cabelo em pé",
+          "es": "con los pelos de punta",
+          "pron": "dyi kabélu ein pé",
+          "ej": "Essa história deixa qualquer um de cabelo em pé.",
+          "ejes": "Esa historia deja a cualquiera con los pelos de punta.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Fiquei de queixo caído com o resultado.",
+          "es": "Me quedé boquiabierto con el resultado.",
+          "pron": "fikéi dyi kéishu kaídu kon u rezuwtádu"
+        },
+        {
+          "t": "Ela soube dar a volta por cima.",
+          "es": "Ella supo salir adelante.",
+          "pron": "éla sóubi dár a vólta por síma"
+        },
+        {
+          "t": "Eu tiro o chapéu para o seu esforço.",
+          "es": "Me quito el sombrero ante tu esfuerzo.",
+          "pron": "éu tíru u shapéu pára u séu esfórsu"
+        },
+        {
+          "t": "Estou nas nuvens com a notícia.",
+          "es": "Estoy en las nubes con la noticia.",
+          "pron": "estóu nas núvens kon a notísia"
+        },
+        {
+          "t": "O filme de terror me deixou de cabelo em pé.",
+          "es": "La película de terror me dejó con los pelos de punta.",
+          "pron": "u fíwmi dyi terrór mi deishóu dyi kabélu ein pé"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Boas notícias",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Você passou no concurso? Eu fiquei de queixo caído!",
+            "es": "¿Pasaste el concurso? ¡Me quedé boquiabierto!"
+          },
+          {
+            "q": "B",
+            "t": "Passei! Estou nas nuvens até agora.",
+            "es": "¡Pasé! Estoy en las nubes hasta ahora."
+          },
+          {
+            "q": "A",
+            "t": "Depois do ano difícil que você teve, soube dar a volta por cima.",
+            "es": "Después del año difícil que tuviste, supiste salir adelante."
+          },
+          {
+            "q": "B",
+            "t": "Valeu! Na hora da prova, fiquei com o coração na mão.",
+            "es": "¡Gracias! A la hora del examen me quedé con el corazón en la mano."
+          },
+          {
+            "q": "A",
+            "t": "Eu tiro o chapéu para você. Vamos comemorar!",
+            "es": "Me quito el sombrero ante ti. ¡Vamos a celebrar!"
+          }
+        ]
+      },
+      "nota": "«Viajar na maionese» es coloquial: úsalo con amigos, no en una reunión formal. «Dar a volta por cima» es de las más usadas para hablar de superación."
+    },
+    {
+      "id": "pt-b2-u9-l5",
+      "n": 5,
+      "titulo": "Repaso: opinar y comentar",
+      "objetivo": "Combinar expresiones para opinar y contar situaciones.",
+      "intro": "Repasa lo aprendido con expresiones nuevas para comentar la actitud de otros. Truco: asocia cada expresión con una persona que conozcas.",
+      "palabras": [
+        {
+          "t": "pisar na bola",
+          "es": "meter la pata",
+          "pron": "pizár na bóla",
+          "ej": "Não quero pisar na bola e esquecer a reunião.",
+          "ejes": "No quiero meter la pata y olvidar la reunión.",
+          "cog": false
+        },
+        {
+          "t": "dar com a língua nos dentes",
+          "es": "irse de la lengua",
+          "pron": "dár kon a língwa nus déntis",
+          "ej": "Ele vai dar com a língua nos dentes sobre a surpresa.",
+          "ejes": "Se va a ir de la lengua sobre la sorpresa.",
+          "cog": false
+        },
+        {
+          "t": "em cima do muro",
+          "es": "sin tomar partido",
+          "pron": "ein síma du múru",
+          "ej": "Não fique em cima do muro, diga o que pensa.",
+          "ejes": "No te quedes sin tomar partido, di lo que piensas.",
+          "cog": false
+        },
+        {
+          "t": "bater na mesma tecla",
+          "es": "insistir con lo mismo",
+          "pron": "batér na mésma tékla",
+          "ej": "Você não precisa bater na mesma tecla.",
+          "ejes": "No necesitas insistir con lo mismo.",
+          "cog": false
+        },
+        {
+          "t": "sem pé nem cabeça",
+          "es": "sin pies ni cabeza",
+          "pron": "séin pé néin kabésa",
+          "ej": "Essa história é sem pé nem cabeça.",
+          "ejes": "Esa historia es sin pies ni cabeza.",
+          "cog": false
+        },
+        {
+          "t": "mar de rosas",
+          "es": "camino de rosas",
+          "pron": "már dyi rózas",
+          "ej": "A vida de empresário não é um mar de rosas.",
+          "ejes": "La vida de empresario no es un camino de rosas.",
+          "cog": false
+        },
+        {
+          "t": "tirar de letra",
+          "es": "hacerlo con facilidad",
+          "pron": "tirár dyi létra",
+          "ej": "Ela vai tirar de letra essa entrevista.",
+          "ejes": "Ella va a hacer esa entrevista con facilidad.",
+          "cog": false
+        },
+        {
+          "t": "abrir o jogo",
+          "es": "hablar con franqueza",
+          "pron": "abrír u yógu",
+          "ej": "Vou abrir o jogo com você: não gostei.",
+          "ejes": "Voy a hablarte con franqueza: no me gustó.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Eu pisei na bola com a minha equipe.",
+          "es": "Metí la pata con mi equipo.",
+          "pron": "éu pizéi na bóla kon a míña ekípi"
+        },
+        {
+          "t": "Ele deu com a língua nos dentes.",
+          "es": "Se fue de la lengua.",
+          "pron": "éli déu kon a língwa nus déntis"
+        },
+        {
+          "t": "Não dá para ficar em cima do muro.",
+          "es": "No se puede quedar sin tomar partido.",
+          "pron": "náun dá pára ficár ein síma du múru"
+        },
+        {
+          "t": "Essa proposta não tem pé nem cabeça.",
+          "es": "Esta propuesta no tiene pies ni cabeza.",
+          "pron": "ésa propósta náun téin pé néin kabésa"
+        },
+        {
+          "t": "Vou abrir o jogo: preciso de ajuda.",
+          "es": "Voy a hablar con franqueza: necesito ayuda.",
+          "pron": "vóu abrír u yógu: presísu dyi ayúda"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Conversa franca",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Vou abrir o jogo: a ideia do Pedro não tem pé nem cabeça.",
+            "es": "Voy a hablar con franqueza: la idea de Pedro no tiene pies ni cabeza."
+          },
+          {
+            "q": "B",
+            "t": "Mas você sempre bate na mesma tecla.",
+            "es": "Pero siempre insistes con lo mismo."
+          },
+          {
+            "q": "A",
+            "t": "É verdade. E você, vai ficar em cima do muro?",
+            "es": "Es verdad. ¿Y tú, te vas a quedar sin tomar partido?"
+          },
+          {
+            "q": "B",
+            "t": "Não, eu pisei na bola antes e agora quero acertar.",
+            "es": "No, antes metí la pata y ahora quiero acertar."
+          },
+          {
+            "q": "A",
+            "t": "Ótimo. Com a sua experiência, você tira de letra.",
+            "es": "Excelente. Con tu experiencia lo haces con facilidad."
+          }
+        ]
+      },
+      "nota": "Muchas de estas expresiones son informales. En un correo formal es mejor decir «cometi um erro» en vez de «pisei na bola»."
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": "en-b2-u14",
+  "idioma": "en",
+  "nivel": "B2",
+  "n": 14,
+  "titulo": "Cantidad y comparación avanzadas",
+  "resumen": "Aprenderás the more... the more, as... as, comparativos modificados (much, slightly) y quantifiers avanzados como plenty of o hardly any.",
+  "puedo": [
+    "Usar the + comparativo, the + comparativo para hablar de relaciones.",
+    "Comparar con as... as y expresar múltiplos como twice as...",
+    "Modificar un comparativo con much, far, slightly o a bit.",
+    "Elegir quantifiers como plenty of, a great deal of o hardly any.",
+    "Describir cantidades y diferencias con precisión."
+  ],
+  "gramatica": {
+    "titulo": "The more... the more y comparativos modificados",
+    "texto": "Para decir que dos cosas cambian juntas usa the + comparativo, the + comparativo: The more you practice, the better you get (mientras más practicas, mejor te vuelves).\nPara igualdad usa as... as: He is as tall as his father. Para negarla: not as... as (menos que).\nPuedes reforzar o suavizar un comparativo con una palabra delante: much / far / a lot (mucho más): far cheaper; slightly / a bit / a little (un poco más): slightly older. Con as... as, usa almost, nearly o just: almost as good, just as big.\nTruco: no digas «very better»; di much better.",
+    "tabla": [
+      ["The more you practice, the better you get.", "Mientras más practicas, mejor te vuelves.", "da mor iu práctis da béter iu guet"],
+      ["The sooner, the better.", "Mientras antes, mejor.", "da sunér da béter"],
+      ["He is as tall as his father.", "Es tan alto como su padre.", "ji is as tol as jis fáder"],
+      ["It's not as expensive as that one.", "No es tan caro como ese.", "its not as expénsiv as dat uan"],
+      ["This is far cheaper.", "Esto es mucho más barato.", "dis is far chíper"],
+      ["She is slightly older than me.", "Es un poco mayor que yo.", "shi is sláitli óulder dan mi"]
+    ],
+    "errores": [
+      "No digas «very better»: se dice much better o far better.",
+      "No olvides the en ambas partes: The more you read, the more you learn, no «More you read, more you learn».",
+      "No uses than con as: es as tall as, no «as tall than»."
+    ]
+  },
+  "practica": [
+    "Escribe 6 frases con the more... the more sobre tu vida (por ejemplo: the more I sleep, the better I feel) (8 minutos).",
+    "Compara 4 pares de cosas con as... as y con comparativos modificados (10 minutos).",
+    "Mira dos productos en una tienda online y descríbelos en voz alta con far, slightly y almost as (6 minutos).",
+    "Cuenta qué tienes en tu cocina con plenty of, hardly any y several (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b2-u14-l1",
+      "n": 1,
+      "titulo": "The more... the more",
+      "objetivo": "Expresar que dos cosas cambian a la vez.",
+      "intro": "Esta estructura une dos cambios: uno causa o acompaña al otro. Truco: pon the delante de cada comparativo y mantén el orden normal después.",
+      "palabras": [
+        { "t": "the sooner", "es": "mientras antes", "pron": "da sunér", "ej": "The sooner we start, the sooner we finish.", "ejes": "Mientras antes empecemos, antes terminamos.", "cog": false },
+        { "t": "the harder", "es": "mientras más duro", "pron": "da járder", "ej": "The harder you work, the more you earn.", "ejes": "Mientras más trabajas, más ganas.", "cog": false },
+        { "t": "the more", "es": "mientras más", "pron": "da mor", "ej": "The more I read, the more I learn.", "ejes": "Mientras más leo, más aprendo.", "cog": false },
+        { "t": "the less", "es": "mientras menos", "pron": "da les", "ej": "The less I sleep, the more tired I am.", "ejes": "Mientras menos duermo, más cansado estoy.", "cog": false },
+        { "t": "the better", "es": "mientras mejor", "pron": "da béter", "ej": "The more you practice, the better you get.", "ejes": "Mientras más practicas, mejor te vuelves.", "cog": false },
+        { "t": "the bigger", "es": "mientras más grande", "pron": "da bíguer", "ej": "The bigger the house, the higher the rent.", "ejes": "Mientras más grande la casa, más alto el alquiler.", "cog": false },
+        { "t": "the faster", "es": "mientras más rápido", "pron": "da fáster", "ej": "The faster you drive, the more dangerous it is.", "ejes": "Mientras más rápido manejas, más peligroso es.", "cog": false },
+        { "t": "the older", "es": "mientras mayor", "pron": "di óulder", "ej": "The older I get, the calmer I am.", "ejes": "Mientras más mayor me hago, más tranquilo estoy.", "cog": false },
+        { "t": "the cheaper", "es": "mientras más barato", "pron": "da chíper", "ej": "The cheaper the ticket, the longer the wait.", "ejes": "Mientras más barato el boleto, más larga la espera.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The more you practice, the better you get.", "es": "Mientras más practicas, mejor te vuelves.", "pron": "da mor iu práctis da béter iu guet" },
+        { "t": "The sooner, the better.", "es": "Mientras antes, mejor.", "pron": "da sunér da béter" },
+        { "t": "The more I think, the less I understand.", "es": "Mientras más pienso, menos entiendo.", "pron": "da mor ai zink da les ai onderstánd" },
+        { "t": "The bigger the city, the worse the traffic.", "es": "Mientras más grande la ciudad, peor el tráfico.", "pron": "da bíguer da síti da uers da tráfic" },
+        { "t": "The older he gets, the wiser he becomes.", "es": "Mientras más edad tiene, más sabio se vuelve.", "pron": "di óulder ji guets da uáiser ji bicóms" }
+      ],
+      "dialogo": {
+        "titulo": "En el gimnasio",
+        "lineas": [
+          { "q": "A", "t": "The more I exercise, the more energy I have.", "es": "Mientras más hago ejercicio, más energía tengo." },
+          { "q": "B", "t": "Me too. The harder I train, the better I sleep.", "es": "Yo también. Mientras más duro entreno, mejor duermo." },
+          { "q": "A", "t": "The sooner you start, the sooner you see results.", "es": "Mientras antes empieces, antes ves resultados." },
+          { "q": "B", "t": "True. The less I eat sugar, the better I feel.", "es": "Cierto. Mientras menos azúcar como, mejor me siento." },
+          { "q": "A", "t": "See you tomorrow, then!", "es": "¡Entonces nos vemos mañana!" }
+        ]
+      },
+      "nota": "Si el comparativo es corto, añade -er (the faster); si es largo, usa more (the more interesting). Es lo mismo que en los comparativos normales."
+    },
+    {
+      "id": "en-b2-u14-l2",
+      "n": 2,
+      "titulo": "As... as y múltiplos",
+      "objetivo": "Comparar igualdad y diferencias con as... as.",
+      "intro": "As... as significa tan... como. Truco: puedes decir cuántas veces es mayor con twice as... as o three times as... as.",
+      "palabras": [
+        { "t": "as tall as", "es": "tan alto como", "pron": "as tol as", "ej": "He is as tall as his father.", "ejes": "Es tan alto como su padre.", "cog": false },
+        { "t": "just as", "es": "igual de", "pron": "yost as", "ej": "This book is just as good as the movie.", "ejes": "Este libro es igual de bueno que la película.", "cog": false },
+        { "t": "not as", "es": "no tan", "pron": "not as", "ej": "It's not as hot as yesterday.", "ejes": "No hace tanto calor como ayer.", "cog": false },
+        { "t": "almost as", "es": "casi tan", "pron": "ólmoust as", "ej": "She is almost as fast as him.", "ejes": "Ella es casi tan rápida como él.", "cog": false },
+        { "t": "twice as", "es": "el doble de", "pron": "tuáis as", "ej": "This room is twice as big as mine.", "ejes": "Este cuarto es el doble de grande que el mío.", "cog": false },
+        { "t": "half as", "es": "la mitad de", "pron": "jaf as", "ej": "It's half as expensive as that one.", "ejes": "Es la mitad de caro que ese.", "cog": false },
+        { "t": "the same as", "es": "igual que", "pron": "da seim as", "ej": "My answer is the same as yours.", "ejes": "Mi respuesta es igual que la tuya.", "cog": false },
+        { "t": "as soon as", "es": "tan pronto como", "pron": "as sun as", "ej": "Call me as soon as you arrive.", "ejes": "Llámame tan pronto como llegues.", "cog": false },
+        { "t": "as much as", "es": "tanto como", "pron": "as moch as", "ej": "I don't eat as much as you.", "ejes": "No como tanto como tú.", "cog": false }
+      ],
+      "frases": [
+        { "t": "He is as tall as his father.", "es": "Es tan alto como su padre.", "pron": "ji is as tol as jis fáder" },
+        { "t": "This phone is not as expensive as that one.", "es": "Este celular no es tan caro como ese.", "pron": "dis foun is not as expénsiv as dat uan" },
+        { "t": "My house is twice as big as yours.", "es": "Mi casa es el doble de grande que la tuya.", "pron": "mai jaus is tuáis as big as iors" },
+        { "t": "She works as hard as anyone.", "es": "Trabaja tan duro como cualquiera.", "pron": "shi uerks as jard as éniuan" },
+        { "t": "Call me as soon as you can.", "es": "Llámame tan pronto como puedas.", "pron": "col mi as sun as iu can" }
+      ],
+      "dialogo": {
+        "titulo": "Comparando casas",
+        "lineas": [
+          { "q": "A", "t": "Your new house is twice as big as the old one.", "es": "Tu casa nueva es el doble de grande que la vieja." },
+          { "q": "B", "t": "Yes, but it's not as cheap, and it's just as far from work.", "es": "Sí, pero no es tan barata y está igual de lejos del trabajo." },
+          { "q": "A", "t": "Is the garden almost as large as the park?", "es": "¿El jardín es casi tan grande como el parque?" },
+          { "q": "B", "t": "Not really, but it's the same as my uncle's.", "es": "No tanto, pero es igual al de mi tío." },
+          { "q": "A", "t": "Call me as soon as you move in.", "es": "Llámame tan pronto como te mudes." }
+        ]
+      },
+      "nota": "En comparaciones negativas puedes usar not as... as o not so... as. Not as... as es más común hoy."
+    },
+    {
+      "id": "en-b2-u14-l3",
+      "n": 3,
+      "titulo": "Comparativos modificados",
+      "objetivo": "Indicar cuánta diferencia hay con much, far, slightly y a bit.",
+      "intro": "Antes de un comparativo puedes decir cuánta diferencia hay. Truco: much, far y a lot son para diferencias grandes; slightly, a bit y a little son para diferencias pequeñas.",
+      "palabras": [
+        { "t": "much", "es": "mucho", "pron": "moch", "ej": "This is much better.", "ejes": "Esto es mucho mejor.", "cog": false },
+        { "t": "far", "es": "mucho (más)", "pron": "far", "ej": "It's far more expensive.", "ejes": "Es mucho más caro.", "cog": false },
+        { "t": "a lot", "es": "mucho", "pron": "a lot", "ej": "She is a lot taller than me.", "ejes": "Ella es mucho más alta que yo.", "cog": false },
+        { "t": "slightly", "es": "ligeramente", "pron": "sláitli", "ej": "It's slightly cheaper.", "ejes": "Es ligeramente más barato.", "cog": false },
+        { "t": "a bit", "es": "un poco", "pron": "a bit", "ej": "It's a bit colder today.", "ejes": "Hoy hace un poco más de frío.", "cog": false },
+        { "t": "a little", "es": "un poquito", "pron": "a lítol", "ej": "I feel a little better.", "ejes": "Me siento un poquito mejor.", "cog": false },
+        { "t": "considerably", "es": "considerablemente", "pron": "consíderabli", "ej": "Prices rose considerably.", "ejes": "Los precios subieron considerablemente.", "cog": true },
+        { "t": "significantly", "es": "significativamente", "pron": "signífikantli", "ej": "Sales fell significantly.", "ejes": "Las ventas cayeron significativamente.", "cog": true },
+        { "t": "even", "es": "aún (más)", "pron": "ívan", "ej": "It's even worse now.", "ejes": "Ahora está aún peor.", "cog": false }
+      ],
+      "frases": [
+        { "t": "This laptop is much faster than mine.", "es": "Esta laptop es mucho más rápida que la mía.", "pron": "dis láptop is moch fáster dan main" },
+        { "t": "The new model is far more expensive.", "es": "El modelo nuevo es mucho más caro.", "pron": "da niu módel is far mor expénsiv" },
+        { "t": "Today is slightly warmer than yesterday.", "es": "Hoy está ligeramente más cálido que ayer.", "pron": "tudéi is sláitli uórmer dan iésterdei" },
+        { "t": "My brother is a bit older than me.", "es": "Mi hermano es un poco mayor que yo.", "pron": "mai bróder is a bit óulder dan mi" },
+        { "t": "The second test was even harder.", "es": "El segundo examen fue aún más difícil.", "pron": "da sécond test uas ívan járder" }
+      ],
+      "dialogo": {
+        "titulo": "Comparando celulares",
+        "lineas": [
+          { "q": "A", "t": "This phone is far more expensive than that one.", "es": "Este celular es mucho más caro que ese." },
+          { "q": "B", "t": "Yes, but the camera is a lot better.", "es": "Sí, pero la cámara es mucho mejor." },
+          { "q": "A", "t": "The battery is slightly bigger, too.", "es": "La batería también es ligeramente más grande." },
+          { "q": "B", "t": "And the screen is a bit brighter.", "es": "Y la pantalla es un poco más brillante." },
+          { "q": "A", "t": "Still, it's considerably over my budget.", "es": "Aun así, está considerablemente por encima de mi presupuesto." }
+        ]
+      },
+      "nota": "No uses very con comparativos. Muy bien es very good, pero muy mejor es much better."
+    },
+    {
+      "id": "en-b2-u14-l4",
+      "n": 4,
+      "titulo": "Quantifiers avanzados",
+      "objetivo": "Usar plenty of, hardly any, a great deal of y otros quantifiers.",
+      "intro": "Los quantifiers dicen cuánto hay de algo. Truco: algunos se usan solo con contables (several, a few) y otros con incontables (a great deal of).",
+      "palabras": [
+        { "t": "plenty of", "es": "muchos, bastante", "pron": "plénti ov", "ej": "We have plenty of time.", "ejes": "Tenemos mucho tiempo.", "cog": false },
+        { "t": "hardly any", "es": "casi nada de", "pron": "járdli éni", "ej": "There is hardly any milk left.", "ejes": "Casi no queda leche.", "cog": false },
+        { "t": "a great deal of", "es": "una gran cantidad de", "pron": "a greit dil ov", "ej": "She has a great deal of experience.", "ejes": "Tiene una gran cantidad de experiencia.", "cog": false },
+        { "t": "several", "es": "varios", "pron": "séveral", "ej": "I have several ideas.", "ejes": "Tengo varias ideas.", "cog": false },
+        { "t": "a handful of", "es": "un puñado de, unos pocos", "pron": "a jándful ov", "ej": "Only a handful of people came.", "ejes": "Solo unas pocas personas vinieron.", "cog": false },
+        { "t": "either", "es": "uno u otro", "pron": "íder", "ej": "You can take either bus.", "ejes": "Puedes tomar cualquiera de los dos buses.", "cog": false },
+        { "t": "neither", "es": "ninguno de los dos", "pron": "níder", "ej": "Neither answer is correct.", "ejes": "Ninguna de las dos respuestas es correcta.", "cog": false },
+        { "t": "each", "es": "cada uno", "pron": "ich", "ej": "Each student has a book.", "ejes": "Cada estudiante tiene un libro.", "cog": false },
+        { "t": "a number of", "es": "varios, cierto número de", "pron": "a nómber ov", "ej": "A number of guests were late.", "ejes": "Varios invitados llegaron tarde.", "cog": false }
+      ],
+      "frases": [
+        { "t": "We have plenty of time before the flight.", "es": "Tenemos mucho tiempo antes del vuelo.", "pron": "ui jav plénti ov taim bifór da flait" },
+        { "t": "There is hardly any traffic today.", "es": "Casi no hay tráfico hoy.", "pron": "der is járdli éni tráfic tudéi" },
+        { "t": "A great deal of money was spent.", "es": "Se gastó una gran cantidad de dinero.", "pron": "a greit dil ov móni uas spent" },
+        { "t": "Several people called yesterday.", "es": "Varias personas llamaron ayer.", "pron": "séveral pípol cold iésterdei" },
+        { "t": "Neither of my brothers lives here.", "es": "Ninguno de mis hermanos vive aquí.", "pron": "níder ov mai bróders livs jiar" }
+      ],
+      "dialogo": {
+        "titulo": "Preparando una cena",
+        "lineas": [
+          { "q": "A", "t": "Do we have enough food? There is hardly any rice left.", "es": "¿Tenemos suficiente comida? Casi no queda arroz." },
+          { "q": "B", "t": "We have plenty of pasta, and several tomatoes.", "es": "Tenemos mucha pasta y varios tomates." },
+          { "q": "A", "t": "Only a handful of guests are coming, so it's fine.", "es": "Solo vienen unos pocos invitados, así que está bien." },
+          { "q": "B", "t": "Neither Maria nor Paul eats meat, so I'll make vegetables.", "es": "Ni María ni Paul comen carne, así que haré verduras." },
+          { "q": "A", "t": "Perfect. Each guest will be happy.", "es": "Perfecto. Cada invitado estará contento." }
+        ]
+      },
+      "nota": "Hardly any y hardly ever ya tienen negación incluida: no uses not con ellas. Se dice There is hardly any milk, no «There isn't hardly any milk»."
+    },
+    {
+      "id": "en-b2-u14-l5",
+      "n": 5,
+      "titulo": "Repaso: comparar con precisión",
+      "objetivo": "Combinar the more... the more, as... as, modificadores y quantifiers.",
+      "intro": "Repasa todo en situaciones reales: compras, viajes y estudio. Truco: al comparar, decide primero si hay igualdad o diferencia y cuánta.",
+      "palabras": [
+        { "t": "double", "es": "doble, duplicar", "pron": "dóbol", "ej": "Prices may double in ten years.", "ejes": "Los precios pueden duplicarse en diez años.", "cog": true },
+        { "t": "increase", "es": "aumentar, aumento", "pron": "incrís", "ej": "We expect an increase in sales.", "ejes": "Esperamos un aumento en las ventas.", "cog": true },
+        { "t": "decrease", "es": "disminuir", "pron": "dicrís", "ej": "The number of visitors will decrease.", "ejes": "El número de visitantes disminuirá.", "cog": true },
+        { "t": "average", "es": "promedio", "pron": "ávrich", "ej": "The average price is fifty dollars.", "ejes": "El precio promedio es cincuenta dólares.", "cog": true },
+        { "t": "majority", "es": "mayoría", "pron": "mayóriti", "ej": "The majority of students passed.", "ejes": "La mayoría de los estudiantes aprobó.", "cog": true },
+        { "t": "minority", "es": "minoría", "pron": "mainóriti", "ej": "Only a minority agreed.", "ejes": "Solo una minoría estuvo de acuerdo.", "cog": true },
+        { "t": "compare", "es": "comparar", "pron": "compéar", "ej": "Let's compare the two offers.", "ejes": "Comparemos las dos ofertas.", "cog": true },
+        { "t": "difference", "es": "diferencia", "pron": "díferens", "ej": "There is a big difference.", "ejes": "Hay una gran diferencia.", "cog": true },
+        { "t": "similar", "es": "similar", "pron": "símilar", "ej": "The two plans are similar.", "ejes": "Los dos planes son similares.", "cog": true }
+      ],
+      "frases": [
+        { "t": "The more you read, the more you learn.", "es": "Mientras más lees, más aprendes.", "pron": "da mor iu rid da mor iu lern" },
+        { "t": "The majority of people prefer the first plan.", "es": "La mayoría de la gente prefiere el primer plan.", "pron": "da mayóriti ov pípol prifér da ferst plan" },
+        { "t": "Rent is twice as high as last year.", "es": "El alquiler es el doble que el año pasado.", "pron": "rent is tuáis as jai as last iir" },
+        { "t": "There is a big difference between the two.", "es": "Hay una gran diferencia entre los dos.", "pron": "der is a big díferens bituín da tu" },
+        { "t": "Prices are slightly higher than average.", "es": "Los precios están ligeramente por encima del promedio.", "pron": "práises ar sláitli jáier dan ávrich" },
+        { "t": "Neither plan is much cheaper than the other.", "es": "Ningún plan es mucho más barato que el otro.", "pron": "níder plan is moch chíper dan di óder" }
+      ],
+      "dialogo": {
+        "titulo": "Analizando un informe",
+        "lineas": [
+          { "q": "A", "t": "Look at the report. Sales doubled in a year.", "es": "Mira el informe. Las ventas se duplicaron en un año." },
+          { "q": "B", "t": "Yes. The more we advertise, the more we sell.", "es": "Sí. Mientras más anunciamos, más vendemos." },
+          { "q": "A", "t": "The majority of customers are young, and the average age is twenty-five.", "es": "La mayoría de los clientes es joven y la edad promedio es veinticinco." },
+          { "q": "B", "t": "The difference between this year and last year is huge.", "es": "La diferencia entre este año y el pasado es enorme." },
+          { "q": "A", "t": "Let's compare it with our competitors.", "es": "Comparémoslo con nuestros competidores." }
+        ]
+      },
+      "nota": "Los números y porcentajes aparecen mucho en inglés de negocios. Aprender increase y decrease te ayudará a leer gráficos."
+    }
+  ]
+}

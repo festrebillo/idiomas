@@ -1,0 +1,221 @@
+{
+  "id": "en-b2-u7",
+  "idioma": "en",
+  "nivel": "B2",
+  "n": 7,
+  "titulo": "Argumentar y debatir",
+  "resumen": "Aprenderás el lenguaje del debate: dar opiniones, estar de acuerdo o en desacuerdo con tacto, conceder puntos, contrastar ideas y construir argumentos sólidos.",
+  "puedo": [
+    "Dar mi opinión y reaccionar a la de otros con cortesía.",
+    "Conceder un punto con although, even though, despite e in spite of.",
+    "Contrastar ideas con however, whereas, while y on the other hand.",
+    "Apoyar un argumento con ejemplos, causas y consecuencias.",
+    "Participar en un debate informal sin perder el respeto."
+  ],
+  "gramatica": {
+    "titulo": "Conceder y contrastar: although, despite, however",
+    "texto": "Para conceder un punto y luego defender el tuyo usamos conectores de contraste. Although / even though / while + oración completa: Although it was expensive, I bought it.\nDespite / in spite of + sustantivo o -ing (sin oración): Despite the rain, we went out. Despite being tired, she kept working.\nHowever / nevertheless van entre comas y conectan dos oraciones: It was cheap. However, it broke quickly.\nWhereas / while / unlike marcan una diferencia entre dos cosas: Lima is humid, whereas Arequipa is dry.\nTruco: despite NO lleva of; in spite SÍ lleva of: in spite of.",
+    "tabla": [
+      ["Although it was late, we kept working.", "Aunque era tarde, seguimos trabajando.", "oldóu it uas leit, ui kept uérkin"],
+      ["Despite the rain, we went out.", "A pesar de la lluvia, salimos.", "dispáit da rein, ui uent aut"],
+      ["In spite of being tired, she kept going.", "A pesar de estar cansada, siguió.", "in spáit ov bíin táierd, shi kept góuin"],
+      ["It was cheap. However, it broke.", "Era barato. Sin embargo, se rompió.", "it uas chip. jauéver, it brouc"],
+      ["Lima is humid, whereas Arequipa is dry.", "Lima es húmeda, mientras que Arequipa es seca.", "lima is jiúmid, juereás arequipa is drai"],
+      ["On the one hand it's cheap; on the other, it's slow.", "Por un lado es barato; por otro, lento.", "on di uan jand its chip; on di áder, its slou"]
+    ],
+    "errores": [
+      "No uses although con but: es Although it was expensive, I bought it, no «Although it was expensive, but I bought it».",
+      "No pongas una oración completa después de despite: es Despite the rain, no «Despite it was raining» (usa although).",
+      "No digas «despite of»: es despite o in spite of."
+    ]
+  },
+  "practica": [
+    "Elige un tema (por ejemplo, trabajar desde casa) y di en voz alta 3 ventajas y 3 desventajas con on the one hand / on the other hand (8 minutos).",
+    "Escribe 8 oraciones con although, despite y however sobre tu ciudad (12 minutos).",
+    "Mira un debate corto en inglés y anota 6 expresiones para estar de acuerdo o en desacuerdo (12 minutos).",
+    "Graba un audio de 1 minuto defendiendo una opinión con un ejemplo y una consecuencia (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b2-u7-l1",
+      "n": 1,
+      "titulo": "Dar opinión y reaccionar",
+      "objetivo": "Dar mi opinión y estar de acuerdo o en desacuerdo con tacto.",
+      "intro": "En un debate ser educado importa tanto como tener razón. Usa fórmulas suaves: I tend to think, I see your point, but... Truco: para discrepar, primero reconoce algo del otro y luego añade tu idea.",
+      "palabras": [
+        { "t": "in my opinion", "es": "en mi opinión", "pron": "in mai opínion", "ej": "In my opinion, the plan is too risky.", "ejes": "En mi opinión, el plan es demasiado arriesgado.", "cog": false },
+        { "t": "I tend to think", "es": "tiendo a pensar", "pron": "ai tend tu zink", "ej": "I tend to think that people can change.", "ejes": "Tiendo a pensar que la gente puede cambiar.", "cog": false },
+        { "t": "I see your point", "es": "entiendo tu punto", "pron": "ai si ior point", "ej": "I see your point, but I disagree.", "ejes": "Entiendo tu punto, pero no estoy de acuerdo.", "cog": false },
+        { "t": "I couldn't agree more", "es": "estoy totalmente de acuerdo", "pron": "ai cúdent agrí mor", "ej": "I couldn't agree more with your idea.", "ejes": "No podría estar más de acuerdo con tu idea.", "cog": false },
+        { "t": "to be honest", "es": "para ser sincero", "pron": "tu bi ónest", "ej": "To be honest, I'm not convinced.", "ejes": "Para ser sincero, no estoy convencido.", "cog": false },
+        { "t": "disagree", "es": "estar en desacuerdo", "pron": "disagrí", "ej": "I respectfully disagree with that statement.", "ejes": "Respetuosamente no estoy de acuerdo con esa afirmación.", "cog": true },
+        { "t": "fair enough", "es": "es justo, tienes razón", "pron": "fer inóf", "ej": "Fair enough, that's a good point.", "ejes": "Es justo, es un buen punto.", "cog": false },
+        { "t": "debatable", "es": "discutible", "pron": "dibéitabol", "ej": "That is highly debatable, in my view.", "ejes": "Eso es muy discutible, en mi opinión.", "cog": true }
+      ],
+      "frases": [
+        { "t": "In my opinion, working from home is more productive.", "es": "En mi opinión, trabajar desde casa es más productivo.", "pron": "in mai opínion, uérkin from joum is mor prodáctiv" },
+        { "t": "I see your point, but I don't completely agree.", "es": "Entiendo tu punto, pero no estoy del todo de acuerdo.", "pron": "ai si ior point, bat ai dont compliítli agrí" },
+        { "t": "I couldn't agree more with you.", "es": "No podría estar más de acuerdo contigo.", "pron": "ai cúdent agrí mor uid iu" },
+        { "t": "To be honest, I'm not convinced by that argument.", "es": "Para ser sincero, ese argumento no me convence.", "pron": "tu bi ónest, aim not convínst bai dat árguiument" },
+        { "t": "That is highly debatable, isn't it?", "es": "Eso es muy discutible, ¿no?", "pron": "dat is jáili dibéitabol, ísent it" }
+      ],
+      "dialogo": {
+        "titulo": "Debate en el comedor",
+        "lineas": [
+          { "q": "A", "t": "In my opinion, everyone should work from home at least three days a week.", "es": "En mi opinión, todos deberían trabajar desde casa al menos tres días a la semana." },
+          { "q": "B", "t": "I see your point, but I tend to think the team loses communication.", "es": "Entiendo tu punto, pero tiendo a pensar que el equipo pierde comunicación." },
+          { "q": "A", "t": "Fair enough. But we can use video calls to fix that.", "es": "Es justo. Pero podemos usar videollamadas para solucionarlo." },
+          { "q": "B", "t": "To be honest, that's debatable. Calls get tiring after a while.", "es": "Para ser sincera, eso es discutible. Las llamadas cansan después de un rato." },
+          { "q": "A", "t": "I respectfully disagree, but I appreciate your view.", "es": "Respetuosamente no estoy de acuerdo, pero valoro tu opinión." },
+          { "q": "B", "t": "Same here. Let's ask the manager what he thinks.", "es": "Igualmente. Preguntemos qué piensa el gerente." }
+        ]
+      },
+      "nota": "Para suavizar un desacuerdo usa I'm afraid I disagree o I'm not so sure. Directo como No, you're wrong suena brusco."
+    },
+    {
+      "id": "en-b2-u7-l2",
+      "n": 2,
+      "titulo": "Conceder un punto",
+      "objetivo": "Reconocer un argumento contrario con although, even though, despite e in spite of.",
+      "intro": "Conceder es admitir algo que va en contra de tu idea, para luego dar la tuya. Although y even though llevan oración; despite e in spite of llevan sustantivo o -ing. Truco: la parte con although es la concesión; la otra es lo que defiendes.",
+      "palabras": [
+        { "t": "although", "es": "aunque", "pron": "oldóu", "ej": "Although it was raining, we went for a walk.", "ejes": "Aunque llovía, salimos a caminar.", "cog": false },
+        { "t": "even though", "es": "a pesar de que, aun cuando", "pron": "ivn dóu", "ej": "She smiled even though she was angry.", "ejes": "Sonrió a pesar de que estaba enojada.", "cog": false },
+        { "t": "despite", "es": "a pesar de", "pron": "dispáit", "ej": "Despite the noise, he fell asleep.", "ejes": "A pesar del ruido, se durmió.", "cog": false },
+        { "t": "in spite of", "es": "a pesar de", "pron": "in spáit ov", "ej": "They won in spite of the injuries.", "ejes": "Ganaron a pesar de las lesiones.", "cog": false },
+        { "t": "admittedly", "es": "es cierto que", "pron": "admítedli", "ej": "Admittedly, the idea has some flaws.", "ejes": "Es cierto que la idea tiene algunos defectos.", "cog": false },
+        { "t": "granted", "es": "de acuerdo, admito que", "pron": "gránted", "ej": "Granted, it's expensive, but it's worth it.", "ejes": "Admito que es caro, pero vale la pena.", "cog": false },
+        { "t": "nevertheless", "es": "no obstante", "pron": "neverdelés", "ej": "He was tired. Nevertheless, he kept working.", "ejes": "Estaba cansado. No obstante, siguió trabajando.", "cog": false },
+        { "t": "all the same", "es": "aun así", "pron": "ol da seim", "ej": "I know it's risky, but I'll do it all the same.", "ejes": "Sé que es arriesgado, pero lo haré de todos modos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Although it was expensive, I bought it.", "es": "Aunque era caro, lo compré.", "pron": "oldóu it uas ikspénsiv, ai bot it" },
+        { "t": "Despite the rain, we went out.", "es": "A pesar de la lluvia, salimos.", "pron": "dispáit da rein, ui uent aut" },
+        { "t": "In spite of being tired, she kept working.", "es": "A pesar de estar cansada, siguió trabajando.", "pron": "in spáit ov bíin táierd, shi kept uérkin" },
+        { "t": "Granted, it's difficult, but it's not impossible.", "es": "Admito que es difícil, pero no imposible.", "pron": "gránted, its dífical, bat its not impósibol" },
+        { "t": "Even though I disagree, I respect your opinion.", "es": "Aunque no estoy de acuerdo, respeto tu opinión.", "pron": "ivn dóu ai disagrí, ai rispéct ior opínion" }
+      ],
+      "dialogo": {
+        "titulo": "Elegir una universidad",
+        "lineas": [
+          { "q": "A", "t": "Although the university is expensive, I think it's worth it.", "es": "Aunque la universidad es cara, creo que vale la pena." },
+          { "q": "B", "t": "Admittedly, the education is excellent. Nevertheless, you'll have debts for years.", "es": "Es cierto que la educación es excelente. No obstante, tendrás deudas por años." },
+          { "q": "A", "t": "Granted, but despite the cost, the graduates find jobs quickly.", "es": "Admito eso, pero a pesar del costo, los egresados encuentran trabajo rápido." },
+          { "q": "B", "t": "In spite of that, there are cheaper options with good reputations.", "es": "Aun así, hay opciones más baratas con buena reputación." },
+          { "q": "A", "t": "Even though I see your point, I'll apply anyway.", "es": "Aunque entiendo tu punto, postularé de todos modos." },
+          { "q": "B", "t": "Fair enough. All the same, compare the scholarships first.", "es": "Es justo. De todos modos, compara primero las becas." }
+        ]
+      },
+      "nota": "Despite the fact that + oración equivale a although: Despite the fact that it rained, we went out."
+    },
+    {
+      "id": "en-b2-u7-l3",
+      "n": 3,
+      "titulo": "Contrastar y equilibrar",
+      "objetivo": "Presentar dos lados de un tema con on the one hand, whereas, while y unlike.",
+      "intro": "Para equilibrar un argumento, presenta dos lados: On the one hand... On the other hand... Truco: whereas y while comparan dos cosas en la misma oración; however separa dos oraciones.",
+      "palabras": [
+        { "t": "on the one hand", "es": "por un lado", "pron": "on di uan jand", "ej": "On the one hand, it saves time.", "ejes": "Por un lado, ahorra tiempo.", "cog": false },
+        { "t": "on the other hand", "es": "por otro lado", "pron": "on di áder jand", "ej": "On the other hand, it costs more.", "ejes": "Por otro lado, cuesta más.", "cog": false },
+        { "t": "whereas", "es": "mientras que", "pron": "juereás", "ej": "I like cities, whereas my wife prefers villages.", "ejes": "A mí me gustan las ciudades, mientras que a mi esposa le gustan los pueblos.", "cog": false },
+        { "t": "unlike", "es": "a diferencia de", "pron": "anláik", "ej": "Unlike my brother, I enjoy cooking.", "ejes": "A diferencia de mi hermano, a mí me gusta cocinar.", "cog": false },
+        { "t": "in contrast", "es": "en cambio", "pron": "in cóntrast", "ej": "In contrast, rural areas are quieter.", "ejes": "En cambio, las zonas rurales son más tranquilas.", "cog": true },
+        { "t": "drawback", "es": "desventaja", "pron": "drobac", "ej": "The main drawback is the price.", "ejes": "La principal desventaja es el precio.", "cog": false },
+        { "t": "advantage", "es": "ventaja", "pron": "advántich", "ej": "One advantage is the flexible schedule.", "ejes": "Una ventaja es el horario flexible.", "cog": true },
+        { "t": "weigh", "es": "sopesar, ponderar", "pron": "uei", "ej": "We need to weigh the options carefully.", "ejes": "Necesitamos sopesar las opciones con cuidado.", "cog": false }
+      ],
+      "frases": [
+        { "t": "On the one hand it saves money; on the other, it takes time.", "es": "Por un lado ahorra dinero; por otro, toma tiempo.", "pron": "on di uan jand it seivs máni; on di áder, it teiks taim" },
+        { "t": "I like the city, whereas my wife prefers the countryside.", "es": "A mí me gusta la ciudad, mientras que a mi esposa le gusta el campo.", "pron": "ai laik da síti, juereás mai uaif prifers da cántrisaid" },
+        { "t": "Unlike my brother, I enjoy cooking.", "es": "A diferencia de mi hermano, a mí me gusta cocinar.", "pron": "anláik mai bráder, ai enyói cúkin" },
+        { "t": "The main drawback is the cost.", "es": "La principal desventaja es el costo.", "pron": "da mein drobac is da cost" },
+        { "t": "One advantage is the flexible schedule.", "es": "Una ventaja es el horario flexible.", "pron": "uan advántich is da fléxibol skédyul" }
+      ],
+      "dialogo": {
+        "titulo": "Vivir en la ciudad o en el campo",
+        "lineas": [
+          { "q": "A", "t": "On the one hand, cities offer more jobs. On the other hand, they're very stressful.", "es": "Por un lado, las ciudades ofrecen más trabajo. Por otro, son muy estresantes." },
+          { "q": "B", "t": "True. Unlike big cities, small towns are quiet and safe.", "es": "Cierto. A diferencia de las grandes ciudades, los pueblos son tranquilos y seguros." },
+          { "q": "A", "t": "Yes, whereas the drawback is fewer opportunities.", "es": "Sí, mientras que la desventaja son las pocas oportunidades." },
+          { "q": "B", "t": "One advantage of rural life is lower rent. In contrast, a city flat costs a fortune.", "es": "Una ventaja de la vida rural es el alquiler más bajo. En cambio, un departamento en la ciudad cuesta una fortuna." },
+          { "q": "A", "t": "We need to weigh everything carefully before moving.", "es": "Tenemos que sopesar todo con cuidado antes de mudarnos." },
+          { "q": "B", "t": "Agreed. Let's make a list of pros and cons tonight.", "es": "De acuerdo. Hagamos una lista de pros y contras esta noche." }
+        ]
+      },
+      "nota": "While también significa mientras que: I'm tall, while my brother is short. Pero en ese sentido no es un tiempo, sino contraste."
+    },
+    {
+      "id": "en-b2-u7-l4",
+      "n": 4,
+      "titulo": "Construir un argumento sólido",
+      "objetivo": "Apoyar una idea con ejemplos, causas y consecuencias.",
+      "intro": "Un buen argumento tiene una idea, una razón y un ejemplo. Usa for instance, because of, therefore y as a result. Truco: la estructura clásica es afirmar, justificar, ejemplificar y concluir.",
+      "palabras": [
+        { "t": "for instance", "es": "por ejemplo", "pron": "for ínstans", "ej": "For instance, many cities now ban plastic bags.", "ejes": "Por ejemplo, muchas ciudades ahora prohíben las bolsas de plástico.", "cog": false },
+        { "t": "therefore", "es": "por lo tanto", "pron": "derfor", "ej": "Prices rose; therefore, sales dropped.", "ejes": "Los precios subieron; por lo tanto, las ventas bajaron.", "cog": false },
+        { "t": "as a result", "es": "como resultado", "pron": "as a risált", "ej": "As a result, many people lost their jobs.", "ejes": "Como resultado, mucha gente perdió su trabajo.", "cog": false },
+        { "t": "owing to", "es": "debido a", "pron": "óuin tu", "ej": "Owing to the strike, trains were canceled.", "ejes": "Debido a la huelga, se cancelaron los trenes.", "cog": false },
+        { "t": "back up", "es": "respaldar, apoyar", "pron": "bac ap", "ej": "You need data to back up your claim.", "ejes": "Necesitas datos para respaldar tu afirmación.", "cog": false },
+        { "t": "valid", "es": "válido", "pron": "válid", "ej": "That's a valid point, thank you.", "ejes": "Es un punto válido, gracias.", "cog": true },
+        { "t": "convince", "es": "convencer", "pron": "convíns", "ej": "It's hard to convince him to change his mind.", "ejes": "Es difícil convencerlo de que cambie de opinión.", "cog": true },
+        { "t": "counterargument", "es": "contraargumento", "pron": "cáunter-árguiument", "ej": "She has a strong counterargument.", "ejes": "Ella tiene un contraargumento sólido.", "cog": true }
+      ],
+      "frases": [
+        { "t": "For instance, many cities now ban plastic bags.", "es": "Por ejemplo, muchas ciudades ahora prohíben las bolsas de plástico.", "pron": "for ínstans, méni sítis nau ban plástic bags" },
+        { "t": "Owing to the strike, all trains were cancelled.", "es": "Debido a la huelga, todos los trenes fueron cancelados.", "pron": "óuin tu da straik, ol treins uer cánseld" },
+        { "t": "Prices rose; therefore, sales dropped.", "es": "Los precios subieron; por lo tanto, las ventas bajaron.", "pron": "práises rous; dérfor, seils dropt" },
+        { "t": "You need data to back up your claim.", "es": "Necesitas datos para respaldar tu afirmación.", "pron": "iu nid déita tu bac ap ior cleim" },
+        { "t": "That's a valid point, but there's another side.", "es": "Es un punto válido, pero hay otro lado.", "pron": "dats a válid point, bat ders anáder said" }
+      ],
+      "dialogo": {
+        "titulo": "Ciudades sin plástico",
+        "lineas": [
+          { "q": "A", "t": "I believe plastic bags should be banned. For instance, Chile banned them in 2018.", "es": "Creo que las bolsas de plástico deberían prohibirse. Por ejemplo, Chile las prohibió en 2018." },
+          { "q": "B", "t": "That's a valid point, but you need data to back up your claim.", "es": "Es un punto válido, pero necesitas datos para respaldar tu afirmación." },
+          { "q": "A", "t": "As a result of the ban, plastic waste fell by a large amount.", "es": "Como resultado de la prohibición, el desperdicio de plástico cayó mucho." },
+          { "q": "B", "t": "Granted. However, owing to higher costs, some small shops closed.", "es": "De acuerdo. Sin embargo, debido a los costos más altos, algunas tiendas pequeñas cerraron." },
+          { "q": "A", "t": "That's a strong counterargument, but the long-term benefit is bigger.", "es": "Es un contraargumento sólido, pero el beneficio a largo plazo es mayor." },
+          { "q": "B", "t": "You're starting to convince me. Therefore, let's look at the full report.", "es": "Empiezas a convencerme. Por lo tanto, veamos el informe completo." }
+        ]
+      },
+      "nota": "Because se usa con oración; because of / owing to / due to se usan con sustantivo: because of the rain."
+    },
+    {
+      "id": "en-b2-u7-l5",
+      "n": 5,
+      "titulo": "Repaso: un debate completo",
+      "objetivo": "Usar opinión, concesión, contraste y argumentos en un debate completo.",
+      "intro": "Mezcla todo: opina, reconoce el punto contrario, contrasta y argumenta. Truco: sigue este orden en tu cabeza: opinión, concesión, razón, ejemplo, conclusión.",
+      "palabras": [
+        { "t": "stance", "es": "postura", "pron": "stans", "ej": "What is your stance on this issue?", "ejes": "¿Cuál es tu postura sobre este tema?", "cog": false },
+        { "t": "controversial", "es": "controvertido", "pron": "controvérshal", "ej": "It's a very controversial topic.", "ejes": "Es un tema muy controvertido.", "cog": true },
+        { "t": "stand for", "es": "representar, defender", "pron": "stand for", "ej": "I stand for equal opportunities.", "ejes": "Defiendo la igualdad de oportunidades.", "cog": false },
+        { "t": "give in", "es": "ceder", "pron": "guiv in", "ej": "Please do not give in, even when it gets hard.", "ejes": "Por favor no cedas, aun cuando se ponga difícil.", "cog": false },
+        { "t": "common ground", "es": "terreno común", "pron": "cómon graund", "ej": "We found some common ground in the end.", "ejes": "Al final encontramos un terreno común.", "cog": false },
+        { "t": "heated", "es": "acalorado", "pron": "jítid", "ej": "It was a heated debate.", "ejes": "Fue un debate acalorado.", "cog": false },
+        { "t": "make a point", "es": "plantear un argumento", "pron": "meik a point", "ej": "You can make a point without shouting.", "ejes": "Puedes plantear un argumento sin gritar.", "cog": false },
+        { "t": "compromise", "es": "compromiso, ceder", "pron": "cómpromais", "ej": "We reached a compromise after two hours.", "ejes": "Llegamos a un compromiso después de dos horas.", "cog": true }
+      ],
+      "frases": [
+        { "t": "What is your stance on remote work?", "es": "¿Cuál es tu postura sobre el trabajo remoto?", "pron": "juat is ior stans on rimóut uerk" },
+        { "t": "Despite our differences, we found common ground.", "es": "A pesar de nuestras diferencias, encontramos terreno común.", "pron": "dispáit áuer díferenses, ui faund cómon graund" },
+        { "t": "It was a heated debate, but nobody gave in.", "es": "Fue un debate acalorado, pero nadie cedió.", "pron": "it uas a jítid dibéit, bat nóubadi guiv in" },
+        { "t": "On the one hand, I agree; on the other, I have doubts.", "es": "Por un lado, estoy de acuerdo; por otro, tengo dudas.", "pron": "on di uan jand, ai agrí; on di áder, ai jav dauts" },
+        { "t": "We eventually reached a compromise.", "es": "Finalmente llegamos a un compromiso.", "pron": "ui ivéntchuali richt a cómpromais" },
+        { "t": "However, you make a point worth considering.", "es": "Sin embargo, planteas un argumento que vale la pena considerar.", "pron": "jauéver, iu meik a point uerz consíderin" }
+      ],
+      "dialogo": {
+        "titulo": "Debate de fin de curso",
+        "lineas": [
+          { "q": "A", "t": "What's your stance on this controversial topic?", "es": "¿Cuál es tu postura sobre este tema controvertido?" },
+          { "q": "B", "t": "In my opinion, students should have less homework. Although it builds discipline, it also causes stress.", "es": "En mi opinión, los estudiantes deberían tener menos tarea. Aunque crea disciplina, también causa estrés." },
+          { "q": "A", "t": "I see your point, however, many teachers say homework helps learning.", "es": "Entiendo tu punto, sin embargo, muchos profesores dicen que la tarea ayuda a aprender." },
+          { "q": "B", "t": "Granted, but despite its benefits, too much of it backfires.", "es": "Admito eso, pero a pesar de sus beneficios, demasiada tarea sale mal." },
+          { "q": "A", "t": "Perhaps we can find common ground: less homework, but more projects.", "es": "Quizás podamos encontrar terreno común: menos tarea, pero más proyectos." },
+          { "q": "B", "t": "That's a good compromise. I couldn't agree more.", "es": "Es un buen compromiso. No podría estar más de acuerdo." }
+        ]
+      },
+      "nota": "Un buen debatiente escucha primero. Frases como What I hear you saying is... ayudan a confirmar que entendiste antes de responder."
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": "en-b2-u12",
+  "idioma": "en",
+  "nivel": "B2",
+  "n": 12,
+  "titulo": "Verbos con gerundio o infinitivo",
+  "resumen": "Aprenderás qué verbos van con -ing, cuáles con to + verbo, y los que cambian de significado, como stop, remember y try.",
+  "puedo": [
+    "Elegir entre -ing y to + verbo después de verbos comunes.",
+    "Distinguir stop doing de stop to do.",
+    "Distinguir remember doing de remember to do.",
+    "Usar try, regret y go on con el significado correcto.",
+    "Hablar de planes, hábitos y recuerdos con estos verbos."
+  ],
+  "gramatica": {
+    "titulo": "Verbos que cambian de sentido: -ing o to + verbo",
+    "texto": "Algunos verbos pueden llevar -ing (gerundio) o to + verbo (infinitivo), pero el significado cambia.\nStop doing = dejar de hacer algo: She stopped smoking (ya no fuma). Stop to do = parar para hacer algo: He stopped to buy water.\nRemember doing = recordar algo que ya pasó: I remember meeting her. Remember to do = acordarse de hacer algo: Remember to call me.\nTry doing = probar algo como experimento: Try restarting it. Try to do = intentar, esforzarse: I tried to open the door.\nRegla de oro: -ing mira al pasado o a la acción en sí; to + verbo mira al futuro o al propósito.",
+    "tabla": [
+      ["She stopped smoking.", "Dejó de fumar.", "shi stopt smóukin"],
+      ["He stopped to buy water.", "Paró para comprar agua.", "ji stopt tu bai uóter"],
+      ["I remember meeting her.", "Recuerdo haberla conocido.", "ai rimémber mítin jer"],
+      ["Remember to call me.", "Acuérdate de llamarme.", "rimémber tu col mi"],
+      ["Try restarting the phone.", "Prueba reiniciando el celular.", "trai ristártin da foun"],
+      ["I tried to open the door.", "Intenté abrir la puerta.", "ai traid tu óupen da dor"]
+    ],
+    "errores": [
+      "No digas «I stopped to smoke» si quieres decir que dejaste de fumar: significa que paraste para fumar. Di I stopped smoking.",
+      "No uses -ing después de decide, hope o plan: es I decided to go, no «I decided going».",
+      "No traduzcas «me olvidé de llamarte» como I forgot calling: es I forgot to call you."
+    ]
+  },
+  "practica": [
+    "Escribe 3 pares de oraciones con stop, remember y try (una con -ing y otra con to) (10 minutos).",
+    "Di en voz alta 6 cosas que recuerdas de tu infancia: I remember playing... (6 minutos).",
+    "Haz una lista de 8 verbos + gerundio (enjoy, avoid, mind) con una oración tuya cada uno (10 minutos).",
+    "Cuenta tus planes del fin de semana con plan to, hope to y decide to (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b2-u12-l1",
+      "n": 1,
+      "titulo": "Stop, remember y forget",
+      "objetivo": "Usar stop, remember y forget con -ing o to + verbo.",
+      "intro": "Con estos tres verbos el significado cambia. Truco: -ing es algo que ya ocurrió; to + verbo es algo que aún tienes que hacer.",
+      "palabras": [
+        { "t": "stop", "es": "parar, dejar de", "pron": "stop", "ej": "Please stop talking.", "ejes": "Por favor, deja de hablar.", "cog": false },
+        { "t": "remember", "es": "recordar, acordarse", "pron": "rimémber", "ej": "Remember to lock the door.", "ejes": "Acuérdate de cerrar con llave.", "cog": false },
+        { "t": "forget", "es": "olvidar", "pron": "forguét", "ej": "Don't forget to call Mom.", "ejes": "No olvides llamar a mamá.", "cog": false },
+        { "t": "quit", "es": "dejar (un hábito)", "pron": "cuit", "ej": "He wants to quit smoking.", "ejes": "Quiere dejar de fumar.", "cog": false },
+        { "t": "habit", "es": "hábito", "pron": "jábit", "ej": "Biting nails is a bad habit.", "ejes": "Morderse las uñas es un mal hábito.", "cog": true },
+        { "t": "childhood", "es": "infancia", "pron": "cháildjud", "ej": "I loved my childhood in Cusco.", "ejes": "Amé mi infancia en Cusco.", "cog": false },
+        { "t": "memory", "es": "recuerdo, memoria", "pron": "mémori", "ej": "This is a happy memory.", "ejes": "Este es un recuerdo feliz.", "cog": true },
+        { "t": "lock", "es": "cerrar con llave", "pron": "loc", "ej": "Did you lock the car?", "ejes": "¿Cerraste el auto con llave?", "cog": false },
+        { "t": "remind", "es": "recordar a alguien", "pron": "rimáind", "ej": "Please remind me to call him.", "ejes": "Por favor, recuérdame llamarlo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "She stopped working at six.", "es": "Dejó de trabajar a las seis.", "pron": "shi stopt uérkin at siks" },
+        { "t": "He stopped to buy some water.", "es": "Paró para comprar agua.", "pron": "ji stopt tu bai som uóter" },
+        { "t": "I remember meeting you last year.", "es": "Recuerdo haberte conocido el año pasado.", "pron": "ai rimémber mítin iu last iir" },
+        { "t": "Remember to lock the door.", "es": "Acuérdate de cerrar con llave.", "pron": "rimémber tu loc da dor" },
+        { "t": "I forgot to send the email.", "es": "Me olvidé de enviar el correo.", "pron": "ai forgót tu send di ímeil" }
+      ],
+      "dialogo": {
+        "titulo": "Antes de salir",
+        "lineas": [
+          { "q": "A", "t": "Did you lock the door? Remember to turn off the lights too.", "es": "¿Cerraste la puerta? Acuérdate también de apagar las luces." },
+          { "q": "B", "t": "I remember locking it. But I forgot to close the window.", "es": "Recuerdo haberla cerrado. Pero me olvidé de cerrar la ventana." },
+          { "q": "A", "t": "Let's stop to check before we go.", "es": "Paremos a revisar antes de irnos." },
+          { "q": "B", "t": "Good idea. I want to stop worrying about it.", "es": "Buena idea. Quiero dejar de preocuparme por eso." },
+          { "q": "A", "t": "Me too. Let's go.", "es": "Yo también. Vamos." }
+        ]
+      },
+      "nota": "I forgot to lock the door = no lo cerré. I'll never forget meeting her = nunca olvidaré haberla conocido."
+    },
+    {
+      "id": "en-b2-u12-l2",
+      "n": 2,
+      "titulo": "Try, regret y go on",
+      "objetivo": "Distinguir try, regret, go on y mean con -ing o to + verbo.",
+      "intro": "Otros verbos cambian de sentido. Truco: con try, el gerundio es un experimento; el infinitivo es un esfuerzo.",
+      "palabras": [
+        { "t": "try", "es": "probar, intentar", "pron": "trai", "ej": "Try adding more salt.", "ejes": "Prueba añadiendo más sal.", "cog": false },
+        { "t": "regret", "es": "lamentar", "pron": "rigrét", "ej": "I regret not studying more.", "ejes": "Lamento no haber estudiado más.", "cog": true },
+        { "t": "go on", "es": "continuar", "pron": "gou on", "ej": "Please go on with your story.", "ejes": "Por favor, continúa con tu historia.", "cog": false },
+        { "t": "mean", "es": "significar, implicar", "pron": "min", "ej": "Being a leader may mean working late.", "ejes": "Ser líder puede implicar trabajar hasta tarde.", "cog": false },
+        { "t": "experiment", "es": "experimento", "pron": "ekspériment", "ej": "It was a fun experiment.", "ejes": "Fue un experimento divertido.", "cog": true },
+        { "t": "effort", "es": "esfuerzo", "pron": "éfort", "ej": "It takes effort to learn.", "ejes": "Aprender requiere esfuerzo.", "cog": false },
+        { "t": "attempt", "es": "intento", "pron": "atémpt", "ej": "It was my first attempt.", "ejes": "Fue mi primer intento.", "cog": true },
+        { "t": "decision", "es": "decisión", "pron": "disíshon", "ej": "I regret that decision.", "ejes": "Lamento esa decisión.", "cog": true },
+        { "t": "inform", "es": "informar", "pron": "infórm", "ej": "We regret to inform you of the delay.", "ejes": "Lamentamos informarle del retraso.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Try turning it off and on again.", "es": "Prueba apagarlo y encenderlo otra vez.", "pron": "trai térnin it of and on aguén" },
+        { "t": "I tried to open the window, but it was stuck.", "es": "Intenté abrir la ventana, pero estaba atascada.", "pron": "ai traid tu óupen da uíndou bot it uas stoc" },
+        { "t": "I regret saying that.", "es": "Lamento haber dicho eso.", "pron": "ai rigrét séin dat" },
+        { "t": "We regret to inform you that the flight is cancelled.", "es": "Lamentamos informarle que el vuelo fue cancelado.", "pron": "ui rigrét tu infórm iu dat da flait is cánseld" },
+        { "t": "She went on talking for an hour.", "es": "Siguió hablando por una hora.", "pron": "shi uent on tókin for an áuer" }
+      ],
+      "dialogo": {
+        "titulo": "Un problema técnico",
+        "lineas": [
+          { "q": "A", "t": "My computer won't start. I tried to turn it on three times.", "es": "Mi computadora no enciende. Intenté prenderla tres veces." },
+          { "q": "B", "t": "Try pressing the power button for ten seconds.", "es": "Prueba presionando el botón de encendido diez segundos." },
+          { "q": "A", "t": "It worked! I regret not asking you sooner.", "es": "¡Funcionó! Lamento no haberte preguntado antes." },
+          { "q": "B", "t": "No problem. Go on with your report.", "es": "No hay problema. Sigue con tu informe." },
+          { "q": "A", "t": "Thanks. I'll save it this time.", "es": "Gracias. Esta vez lo guardaré." }
+        ]
+      },
+      "nota": "Regret to inform es una fórmula formal para dar malas noticias. Regret doing se usa para algo que ya hiciste."
+    },
+    {
+      "id": "en-b2-u12-l3",
+      "n": 3,
+      "titulo": "Verbos seguidos de -ing",
+      "objetivo": "Usar verbos que siempre llevan gerundio.",
+      "intro": "Algunos verbos siempre piden -ing. Truco: casi todos expresan gusto, hábito, evitar o sugerir, como enjoy, avoid y suggest.",
+      "palabras": [
+        { "t": "enjoy", "es": "disfrutar", "pron": "enyói", "ej": "I enjoy cooking on Sundays.", "ejes": "Disfruto cocinar los domingos.", "cog": false },
+        { "t": "avoid", "es": "evitar", "pron": "avóid", "ej": "Avoid driving at night.", "ejes": "Evita manejar de noche.", "cog": false },
+        { "t": "keep", "es": "seguir, continuar", "pron": "kip", "ej": "Keep trying, you'll get it.", "ejes": "Sigue intentando, lo lograrás.", "cog": false },
+        { "t": "suggest", "es": "sugerir", "pron": "sugyést", "ej": "I suggest taking a taxi.", "ejes": "Sugiero tomar un taxi.", "cog": true },
+        { "t": "mind", "es": "importar, molestar", "pron": "maind", "ej": "Do you mind waiting?", "ejes": "¿Te importa esperar?", "cog": false },
+        { "t": "consider", "es": "considerar", "pron": "consíder", "ej": "We consider moving to Lima.", "ejes": "Consideramos mudarnos a Lima.", "cog": true },
+        { "t": "finish", "es": "terminar", "pron": "fínish", "ej": "Finish eating before you go.", "ejes": "Termina de comer antes de irte.", "cog": false },
+        { "t": "practice", "es": "practicar", "pron": "práctis", "ej": "I practice speaking every day.", "ejes": "Practico hablar todos los días.", "cog": true },
+        { "t": "risk", "es": "arriesgarse a", "pron": "risk", "ej": "Don't risk losing your job.", "ejes": "No te arriesgues a perder tu trabajo.", "cog": true }
+      ],
+      "frases": [
+        { "t": "I enjoy learning new languages.", "es": "Disfruto aprender idiomas nuevos.", "pron": "ai enyói lérnin niu lánguiches" },
+        { "t": "She avoids eating fried food.", "es": "Ella evita comer comida frita.", "pron": "shi avóids ítin fraid fud" },
+        { "t": "He keeps forgetting his keys.", "es": "Siempre se olvida las llaves.", "pron": "ji kips forguétin jis kis" },
+        { "t": "Would you mind opening the window?", "es": "¿Le importaría abrir la ventana?", "pron": "uud iu maind óupenin da uíndou" },
+        { "t": "I suggest leaving early to avoid traffic.", "es": "Sugiero salir temprano para evitar el tráfico.", "pron": "ai sugyést lívin érli tu avóid tráfic" }
+      ],
+      "dialogo": {
+        "titulo": "Planes de fin de semana",
+        "lineas": [
+          { "q": "A", "t": "I'm considering going to the beach on Saturday.", "es": "Estoy considerando ir a la playa el sábado." },
+          { "q": "B", "t": "I suggest leaving early. Do you mind driving?", "es": "Sugiero salir temprano. ¿Te importa manejar?" },
+          { "q": "A", "t": "Not at all. I enjoy driving, and I always avoid traffic.", "es": "Para nada. Disfruto manejar y siempre evito el tráfico." },
+          { "q": "B", "t": "Great. We can't risk missing the sun.", "es": "Genial. No podemos arriesgarnos a perder el sol." },
+          { "q": "A", "t": "Agreed. Let's finish packing tonight.", "es": "De acuerdo. Terminemos de empacar esta noche." }
+        ]
+      },
+      "nota": "Después de una preposición también va -ing: I'm interested in learning English. Es una regla sin excepciones."
+    },
+    {
+      "id": "en-b2-u12-l4",
+      "n": 4,
+      "titulo": "Verbos seguidos de to + verbo",
+      "objetivo": "Usar verbos que siempre llevan infinitivo con to.",
+      "intro": "Otros verbos piden siempre to + verbo. Truco: casi todos expresan planes, deseos, promesas o decisiones: decide, hope, plan, promise.",
+      "palabras": [
+        { "t": "decide", "es": "decidir", "pron": "disáid", "ej": "We decide to rent a car today.", "ejes": "Decidimos alquilar un auto hoy.", "cog": true },
+        { "t": "hope", "es": "esperar, tener la esperanza", "pron": "joup", "ej": "I hope to travel next year.", "ejes": "Espero viajar el próximo año.", "cog": false },
+        { "t": "plan", "es": "planear", "pron": "plan", "ej": "They plan to move in June.", "ejes": "Planean mudarse en junio.", "cog": true },
+        { "t": "promise", "es": "prometer", "pron": "prómis", "ej": "I promise to call you.", "ejes": "Prometo llamarte.", "cog": true },
+        { "t": "manage", "es": "lograr", "pron": "mánich", "ej": "I will manage to finish on time.", "ejes": "Lograré terminar a tiempo.", "cog": false },
+        { "t": "afford", "es": "permitirse (económicamente)", "pron": "afórd", "ej": "I can't afford to buy a house.", "ejes": "No puedo permitirme comprar una casa.", "cog": false },
+        { "t": "refuse", "es": "negarse", "pron": "rifiús", "ej": "I refuse to sign the contract.", "ejes": "Me niego a firmar el contrato.", "cog": false },
+        { "t": "offer", "es": "ofrecerse", "pron": "ófer", "ej": "I offer to help you.", "ejes": "Me ofrezco a ayudarte.", "cog": true },
+        { "t": "agree", "es": "aceptar, acordar", "pron": "agrí", "ej": "They agree to meet on Monday.", "ejes": "Acuerdan reunirse el lunes.", "cog": false }
+      ],
+      "frases": [
+        { "t": "We decided to take the bus.", "es": "Decidimos tomar el bus.", "pron": "ui disáidid tu teik da bos" },
+        { "t": "I hope to see you soon.", "es": "Espero verte pronto.", "pron": "ai joup tu si iu sun" },
+        { "t": "He promised to be on time.", "es": "Prometió llegar a tiempo.", "pron": "ji prómist tu bi on taim" },
+        { "t": "They can't afford to pay the rent.", "es": "No pueden pagar el alquiler.", "pron": "dei cant afórd tu pei da rent" },
+        { "t": "She managed to get a better job.", "es": "Logró conseguir un mejor trabajo.", "pron": "shi mánichd tu guet a béter yob" }
+      ],
+      "dialogo": {
+        "titulo": "Un cambio de casa",
+        "lineas": [
+          { "q": "A", "t": "We decided to move to a bigger apartment.", "es": "Decidimos mudarnos a un apartamento más grande." },
+          { "q": "B", "t": "That's great. Can you afford to pay the higher rent?", "es": "Qué bien. ¿Pueden pagar el alquiler más alto?" },
+          { "q": "A", "t": "I managed to get a raise, so yes.", "es": "Logré conseguir un aumento, así que sí." },
+          { "q": "B", "t": "I offered to help you pack. I promise to bring boxes.", "es": "Me ofrezco a ayudarte a empacar. Prometo llevar cajas." },
+          { "q": "A", "t": "Thanks. I hope to finish by Sunday.", "es": "Gracias. Espero terminar el domingo." }
+        ]
+      },
+      "nota": "Con want, need, would like y expect también usas to + verbo: I want to learn. Recuerda que esas estructuras ya se usan en niveles anteriores."
+    },
+    {
+      "id": "en-b2-u12-l5",
+      "n": 5,
+      "titulo": "Repaso: -ing o to + verbo",
+      "objetivo": "Elegir correctamente entre -ing y to + verbo en distintos contextos.",
+      "intro": "Repasa los verbos que cambian de sentido y los que van con una sola forma. Truco: ante la duda, piensa si hablas del pasado o del propósito.",
+      "palabras": [
+        { "t": "used to", "es": "solía", "pron": "iust tu", "ej": "I used to live in Arequipa.", "ejes": "Yo solía vivir en Arequipa.", "cog": false },
+        { "t": "get used to", "es": "acostumbrarse a", "pron": "guet iust tu", "ej": "It's hard to get used to the cold.", "ejes": "Cuesta acostumbrarse al frío.", "cog": false },
+        { "t": "look forward to", "es": "esperar con ganas", "pron": "luk fórguard tu", "ej": "I look forward to seeing you.", "ejes": "Espero con ganas verte.", "cog": false },
+        { "t": "be afraid of", "es": "tener miedo de", "pron": "bi afréid ov", "ej": "Don't be afraid of making mistakes.", "ejes": "No tengas miedo de cometer errores.", "cog": false },
+        { "t": "be good at", "es": "ser bueno en", "pron": "bi gud at", "ej": "I want to be good at fixing computers.", "ejes": "Quiero ser bueno arreglando computadoras.", "cog": false },
+        { "t": "insist on", "es": "insistir en", "pron": "insíst on", "ej": "I insist on paying.", "ejes": "Insisto en pagar.", "cog": false },
+        { "t": "give up", "es": "rendirse, dejar", "pron": "guiv op", "ej": "Never give up learning.", "ejes": "Nunca dejes de aprender.", "cog": false },
+        { "t": "prefer", "es": "preferir", "pron": "prifér", "ej": "I prefer walking to driving.", "ejes": "Prefiero caminar que manejar.", "cog": false },
+        { "t": "start", "es": "empezar", "pron": "start", "ej": "I start working at nine.", "ejes": "Empiezo a trabajar a las nueve.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I used to play soccer every weekend.", "es": "Solía jugar fútbol cada fin de semana.", "pron": "ai iust tu plei sóquer évri uíkend" },
+        { "t": "I'm getting used to waking up early.", "es": "Me estoy acostumbrando a despertar temprano.", "pron": "aim guétin iust tu uéikin op érli" },
+        { "t": "I look forward to hearing from you.", "es": "Espero con ganas tener noticias tuyas.", "pron": "ai luk fórguard tu jírin from iu" },
+        { "t": "He's good at solving problems.", "es": "Es bueno resolviendo problemas.", "pron": "jis gud at sólvin próblems" },
+        { "t": "She gave up smoking last year.", "es": "Dejó de fumar el año pasado.", "pron": "shi guéiv op smóukin last iir" },
+        { "t": "I prefer to stay home tonight.", "es": "Prefiero quedarme en casa esta noche.", "pron": "ai prifér tu stei joum tunáit" }
+      ],
+      "dialogo": {
+        "titulo": "Una nueva ciudad",
+        "lineas": [
+          { "q": "A", "t": "I used to live in a small town, so I'm still getting used to the noise.", "es": "Yo solía vivir en un pueblo pequeño, así que aún me acostumbro al ruido." },
+          { "q": "B", "t": "Don't be afraid of asking for help. I'm good at giving directions.", "es": "No tengas miedo de pedir ayuda. Soy bueno dando direcciones." },
+          { "q": "A", "t": "Thanks. I look forward to exploring the city.", "es": "Gracias. Tengo ganas de explorar la ciudad." },
+          { "q": "B", "t": "I prefer to walk. Don't give up if you get lost.", "es": "Yo prefiero caminar. No te rindas si te pierdes." },
+          { "q": "A", "t": "I won't. I remember to bring my map this time.", "es": "No lo haré. Esta vez me acordé de traer mi mapa." }
+        ]
+      },
+      "nota": "To puede ser parte del infinitivo o una preposición. En look forward to y get used to es preposición, por eso se usa -ing: I look forward to meeting you."
+    }
+  ]
+}

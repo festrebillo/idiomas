@@ -1,0 +1,217 @@
+{
+  "id": "it-b2-u9",
+  "idioma": "it",
+  "nivel": "B2",
+  "n": 9,
+  "titulo": "Expresiones idiomáticas",
+  "resumen": "Aprenderás modi di dire muy comunes del italiano, agrupados por tema, y a usarlos sin traducirlos palabra por palabra.",
+  "puedo": [
+    "Entender y usar modi di dire sobre emociones y estados de ánimo.",
+    "Hablar de trabajo y dinero con expresiones fijas.",
+    "Usar expresiones para conversar y relacionarme con otros.",
+    "Describir situaciones cotidianas con imágenes típicas del italiano.",
+    "No traducir un modo di dire palabra por palabra."
+  ],
+  "gramatica": {
+    "titulo": "Los modi di dire son bloques fijos",
+    "texto": "Un modo di dire es una expresión cuyo sentido no se deduce de sus palabras: «costare un occhio della testa» no habla de ojos, significa costar muchísimo. Hay que aprenderlos como un bloque.\nSe pueden conjugar el verbo y a veces cambiar la persona, pero no se cambian ni se añaden palabras dentro del bloque: ho una fame da lupi, ha sudato sette camicie.\nMuchos tienen un equivalente en español con otra imagen: «avere la testa tra le nuvole» = «estar en las nubes»; «in bocca al lupo» = «mucha suerte». Otros se parecen mucho, pero no siempre son iguales.\nTruco: aprende cada expresión dentro de una frase completa y asóciala con la situación, no con la traducción literal.",
+    "tabla": [
+      ["in bocca al lupo", "¡mucha suerte!", "in bóca al lúpo"],
+      ["al verde", "sin un centavo", "al vérde"],
+      ["costare un occhio della testa", "costar un ojo de la cara", "costáre un ókkio déla tésta"],
+      ["fare finta di niente", "hacerse el desentendido", "fáre fínta di niénte"],
+      ["dormire come un ghiro", "dormir como un lirón", "dormíre cóme un guíro"],
+      ["in un batter d'occhio", "en un abrir y cerrar de ojos", "in un báter dókkio"]
+    ],
+    "errores": [
+      "No traduzcas literalmente: «estar en las nubes» se dice «avere la testa tra le nuvole», no «essere nelle nuvole».",
+      "No cambies las palabras del bloque: «un occhio della testa» (no «della faccia», como en español).",
+      "A «in bocca al lupo» se responde «crepi!» o «crepi il lupo!»; no se responde «gracias»."
+    ]
+  },
+  "practica": [
+    "Elige tres expresiones de la unidad y escribe una frase real con cada una sobre tu semana (6 minutos).",
+    "Busca el equivalente en español de cinco expresiones y compara la imagen que usa cada idioma (6 minutos).",
+    "Di en voz alta cada frase de la lección 4 imaginando la situación (5 minutos).",
+    "Escribe un mensaje corto a un amigo que use al menos cuatro expresiones de la unidad (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b2-u9-l1",
+      "n": 1,
+      "titulo": "Emociones y estados de ánimo",
+      "objetivo": "Expresar alegría, nervios, ilusión y vergüenza con modi di dire.",
+      "intro": "Los italianos describen sus emociones con imágenes. Truco: imagina la escena (un lobo, el cielo, la piel) y recordarás el sentido.",
+      "palabras": [
+        { "t": "in bocca al lupo", "es": "mucha suerte", "pron": "in bóca al lúpo", "ej": "In bocca al lupo per l'esame!", "ejes": "¡Mucha suerte en el examen!", "cog": false },
+        { "t": "al settimo cielo", "es": "en el séptimo cielo", "pron": "al séttimo chélo", "ej": "Marco è al settimo cielo per la promozione.", "ejes": "Marco está en el séptimo cielo por el ascenso.", "cog": false },
+        { "t": "la testa tra le nuvole", "es": "la cabeza en las nubes", "pron": "la tésta tra le núvole", "ej": "Lucia ha sempre la testa tra le nuvole.", "ejes": "Lucía siempre tiene la cabeza en las nubes.", "cog": false },
+        { "t": "a fior di pelle", "es": "a flor de piel", "pron": "a fior di pélle", "ej": "Oggi ho i nervi a fior di pelle.", "ejes": "Hoy tengo los nervios a flor de piel.", "cog": false },
+        { "t": "non vedo l'ora", "es": "no veo la hora", "pron": "non védo lóra", "ej": "Non vedo l'ora di partire.", "ejes": "No veo la hora de partir.", "cog": false },
+        { "t": "una brutta figura", "es": "un mal papel, quedar mal", "pron": "úna brútta fiúra", "ej": "Ho fatto una brutta figura davanti al capo.", "ejes": "Quedé mal delante del jefe.", "cog": false },
+        { "t": "di buon umore", "es": "de buen humor", "pron": "di buon umóre", "ej": "Stamattina sei di buon umore.", "ejes": "Esta mañana estás de buen humor.", "cog": false },
+        { "t": "fare bella figura", "es": "quedar bien", "pron": "fáre bélla fiúra", "ej": "Voglio fare bella figura alla cena.", "ejes": "Quiero quedar bien en la cena.", "cog": false }
+      ],
+      "frases": [
+        { "t": "In bocca al lupo per il colloquio!", "es": "¡Mucha suerte en la entrevista!", "pron": "in bóca al lúpo per il collóquio" },
+        { "t": "Dopo la notizia era al settimo cielo.", "es": "Después de la noticia estaba en el séptimo cielo.", "pron": "dópo la notítsia éra al séttimo chélo" },
+        { "t": "Non vedo l'ora di vederti.", "es": "No veo la hora de verte.", "pron": "non védo lóra di vedérti" },
+        { "t": "Ha sempre la testa tra le nuvole.", "es": "Siempre tiene la cabeza en las nubes.", "pron": "a sémpre la tésta tra le núvole" },
+        { "t": "Ho fatto una brutta figura alla riunione.", "es": "Quedé mal en la reunión.", "pron": "o fátto úna brútta fiúra alla riunióne" }
+      ],
+      "dialogo": {
+        "titulo": "Prima dell'esame",
+        "lineas": [
+          { "q": "A", "t": "Domani ho l'esame e ho i nervi a fior di pelle.", "es": "Mañana tengo el examen y tengo los nervios a flor de piel." },
+          { "q": "B", "t": "Tranquillo, hai studiato tanto. In bocca al lupo!", "es": "Tranquilo, has estudiado mucho. ¡Mucha suerte!" },
+          { "q": "A", "t": "Crepi! Non vedo l'ora che finisca.", "es": "¡Gracias! No veo la hora de que termine." },
+          { "q": "B", "t": "Dopo andiamo a festeggiare.", "es": "Después vamos a celebrar." },
+          { "q": "A", "t": "Se passo, sarò al settimo cielo.", "es": "Si apruebo, estaré en el séptimo cielo." }
+        ]
+      },
+      "nota": "«In bocca al lupo» es un deseo de suerte; la respuesta tradicional es «Crepi!». Decir «grazie» se considera de mala suerte para los supersticiosos."
+    },
+    {
+      "id": "it-b2-u9-l2",
+      "n": 2,
+      "titulo": "Trabajo y dinero",
+      "objetivo": "Hablar de esfuerzo, precios y carrera con expresiones fijas.",
+      "intro": "El mundo del trabajo y del dinero está lleno de imágenes. Truco: muchas se parecen al español («un ojo de la cara»), pero cambian un detalle.",
+      "palabras": [
+        { "t": "un occhio della testa", "es": "un ojo de la cara", "pron": "un ókkio déla tésta", "ej": "Quella borsa costa un occhio della testa.", "ejes": "Esa cartera cuesta un ojo de la cara.", "cog": false },
+        { "t": "sette camicie", "es": "sudar la gota gorda", "pron": "sétte camíche", "ej": "Ho sudato sette camicie per finire il progetto.", "ejes": "Sudé la gota gorda para terminar el proyecto.", "cog": false },
+        { "t": "tirare avanti", "es": "ir tirando, salir adelante", "pron": "tiráre avánti", "ej": "Con questo stipendio si riesce a tirare avanti.", "ejes": "Con este sueldo se logra ir tirando.", "cog": false },
+        { "t": "un affare", "es": "una ganga, un buen negocio", "pron": "un affáre", "ej": "Comprare questa auto è stato un affare.", "ejes": "Comprar este auto fue una ganga.", "cog": false },
+        { "t": "le mani in pasta", "es": "meter mano, estar metido", "pron": "le máni in pásta", "ej": "Il direttore ha le mani in pasta in ogni progetto.", "ejes": "El director está metido en cada proyecto.", "cog": false },
+        { "t": "dare una mano", "es": "echar una mano", "pron": "dáre úna máno", "ej": "Puoi dare una mano a Paolo con il computer?", "ejes": "¿Puedes echarle una mano a Paolo con la computadora?", "cog": false },
+        { "t": "mettere da parte", "es": "ahorrar, apartar", "pron": "méttere da párte", "ej": "Cerco di mettere da parte un po' di soldi ogni mese.", "ejes": "Trato de ahorrar algo de dinero cada mes.", "cog": false },
+        { "t": "al verde", "es": "sin un centavo", "pron": "al vérde", "ej": "A fine mese sono sempre al verde.", "ejes": "A fin de mes siempre estoy sin un centavo.", "cog": false },
+        { "t": "fare carriera", "es": "hacer carrera, ascender", "pron": "fáre carriéra", "ej": "Vuole fare carriera in banca.", "ejes": "Quiere hacer carrera en un banco.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Questo orologio costa un occhio della testa.", "es": "Este reloj cuesta un ojo de la cara.", "pron": "cuésto orolóyo cósta un ókkio déla tésta" },
+        { "t": "Ho sudato sette camicie per quel contratto.", "es": "Sudé la gota gorda por ese contrato.", "pron": "o sudáto sétte camíche per cuel contrátto" },
+        { "t": "A fine mese sono sempre al verde.", "es": "A fin de mes siempre estoy sin un centavo.", "pron": "a fíne mése sóno sémpre al vérde" },
+        { "t": "Mi dai una mano con questo file?", "es": "¿Me echas una mano con este archivo?", "pron": "mi dái úna máno con cuésto fáil" },
+        { "t": "Ogni mese metto da parte un po' di soldi.", "es": "Cada mes aparto algo de dinero.", "pron": "óñi mése métto da párte un po di sóldi" }
+      ],
+      "dialogo": {
+        "titulo": "In ufficio",
+        "lineas": [
+          { "q": "A", "t": "Hai visto il nuovo telefono di Marco?", "es": "¿Viste el teléfono nuevo de Marco?" },
+          { "q": "B", "t": "Sì, deve costare un occhio della testa.", "es": "Sí, debe costar un ojo de la cara." },
+          { "q": "A", "t": "Io a fine mese sono sempre al verde.", "es": "Yo a fin de mes siempre estoy sin un centavo." },
+          { "q": "B", "t": "Prova a mettere da parte qualcosa ogni mese.", "es": "Prueba a ahorrar algo cada mes." },
+          { "q": "A", "t": "Hai ragione. Intanto mi dai una mano con il report?", "es": "Tienes razón. Mientras tanto, ¿me echas una mano con el informe?" }
+        ]
+      },
+      "nota": "«Un affare» significa también «asunto», pero en «fare un affare» quiere decir «hacer un buen negocio» (comprar algo muy conveniente)."
+    },
+    {
+      "id": "it-b2-u9-l3",
+      "n": 3,
+      "titulo": "Hablar y relacionarse",
+      "objetivo": "Usar expresiones para describir cómo se conversa y cómo nos llevamos con los demás.",
+      "intro": "Muchas expresiones describen cómo habla una persona o cómo se lleva con otras. Truco: «peli sulla lingua» = «pelos en la lengua», pero en negativo: quien no los tiene dice todo.",
+      "palabras": [
+        { "t": "a ruota libera", "es": "sin parar, sin filtro", "pron": "a ruóta líbera", "ej": "Dopo il caffè parla a ruota libera.", "ejes": "Después del café habla sin parar.", "cog": false },
+        { "t": "prendere in giro", "es": "burlarse, tomar el pelo", "pron": "préndere in yíro", "ej": "Non devi prendere in giro tuo fratello.", "ejes": "No debes burlarte de tu hermano.", "cog": false },
+        { "t": "peli sulla lingua", "es": "pelos en la lengua", "pron": "péli súla língua", "ej": "Anna non ha peli sulla lingua.", "ejes": "Anna no tiene pelos en la lengua.", "cog": false },
+        { "t": "andare d'accordo", "es": "llevarse bien", "pron": "andáre dacórdo", "ej": "È facile andare d'accordo con Sara.", "ejes": "Es fácil llevarse bien con Sara.", "cog": false },
+        { "t": "tagliare corto", "es": "ir al grano", "pron": "talláre córto", "ej": "Per tagliare corto, la risposta è no.", "ejes": "Para ir al grano, la respuesta es no.", "cog": false },
+        { "t": "del più e del meno", "es": "de cosas sin importancia", "pron": "del piú e del méno", "ej": "Abbiamo parlato del più e del meno.", "ejes": "Hablamos de cosas sin importancia.", "cog": false },
+        { "t": "rompere il ghiaccio", "es": "romper el hielo", "pron": "rómpere il guiácho", "ej": "Una battuta può rompere il ghiaccio.", "ejes": "Una broma puede romper el hielo.", "cog": false },
+        { "t": "acqua in bocca", "es": "ni una palabra, es secreto", "pron": "ácua in bóca", "ej": "Acqua in bocca: è una sorpresa!", "ejes": "Ni una palabra: ¡es una sorpresa!", "cog": false }
+      ],
+      "frases": [
+        { "t": "Anna non ha peli sulla lingua.", "es": "Anna no tiene pelos en la lengua.", "pron": "ánna non a péli súla língua" },
+        { "t": "Per tagliare corto, non possiamo accettare.", "es": "Para ir al grano, no podemos aceptar.", "pron": "per talláre córto non possiámo achettáre" },
+        { "t": "Abbiamo parlato del più e del meno.", "es": "Hablamos de cosas sin importancia.", "pron": "abbiámo parláto del piú e del méno" },
+        { "t": "Una battuta serve a rompere il ghiaccio.", "es": "Una broma sirve para romper el hielo.", "pron": "úna batúta sérve a rómpere il guiácho" },
+        { "t": "Acqua in bocca, mi raccomando!", "es": "¡Ni una palabra, por favor!", "pron": "ácua in bóca mi racomándo" }
+      ],
+      "dialogo": {
+        "titulo": "Una festa a sorpresa",
+        "lineas": [
+          { "q": "A", "t": "Sabrina compie gli anni sabato. Facciamo una festa?", "es": "Sabrina cumple años el sábado. ¿Hacemos una fiesta?" },
+          { "q": "B", "t": "Ottima idea, ma acqua in bocca con lei!", "es": "Excelente idea, pero ni una palabra con ella." },
+          { "q": "A", "t": "Tranquillo, so tenere un segreto.", "es": "Tranquilo, sé guardar un secreto." },
+          { "q": "B", "t": "Però con Lucia parli a ruota libera!", "es": "¡Pero con Lucía hablas sin filtro!" },
+          { "q": "A", "t": "Con lei parlo solo del più e del meno.", "es": "Con ella solo hablo de cosas sin importancia." }
+        ]
+      },
+      "nota": "«Andare d'accordo» es muy frecuente: «Vado d'accordo con i miei colleghi» = me llevo bien con mis colegas. «Essere d'accordo» significa estar de acuerdo."
+    },
+    {
+      "id": "it-b2-u9-l4",
+      "n": 4,
+      "titulo": "Situaciones de cada día",
+      "objetivo": "Describir clima, hambre, rapidez y sueño con expresiones habituales.",
+      "intro": "En la vida diaria el italiano exagera con imágenes: lobos, lirones, gotas. Truco: son exageraciones que solo se usan en lenguaje coloquial.",
+      "palabras": [
+        { "t": "a dirotto", "es": "a cántaros", "pron": "a dirótto", "ej": "Fuori piove a dirotto.", "ejes": "Afuera llueve a cántaros.", "cog": false },
+        { "t": "fame da lupi", "es": "un hambre canina", "pron": "fáme da lúpi", "ej": "Ho una fame da lupi.", "ejes": "Tengo un hambre canina.", "cog": false },
+        { "t": "una goccia nel mare", "es": "una gota en el mar", "pron": "úna gótcha nel máre", "ej": "Il mio aiuto è una goccia nel mare.", "ejes": "Mi ayuda es una gota en el mar.", "cog": false },
+        { "t": "fare finta di niente", "es": "hacerse el desentendido", "pron": "fáre fínta di niénte", "ej": "Non puoi fare finta di niente.", "ejes": "No puedes hacerte el desentendido.", "cog": false },
+        { "t": "in un batter d'occhio", "es": "en un abrir y cerrar de ojos", "pron": "in un báter dókkio", "ej": "Il treno è arrivato in un batter d'occhio.", "ejes": "El tren llegó en un abrir y cerrar de ojos.", "cog": false },
+        { "t": "alla buona", "es": "sencillo, sin ceremonia", "pron": "álla buóna", "ej": "Una cena alla buona, senza formalità.", "ejes": "Una cena sencilla, sin formalidades.", "cog": false },
+        { "t": "con le mani in mano", "es": "de brazos cruzados", "pron": "con le máni in máno", "ej": "Marco non sta mai con le mani in mano.", "ejes": "Marco nunca se queda de brazos cruzados.", "cog": false },
+        { "t": "come un ghiro", "es": "como un lirón", "pron": "cóme un guíro", "ej": "Ho dormito come un ghiro.", "ejes": "Dormí como un lirón.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Fuori piove a dirotto.", "es": "Afuera llueve a cántaros.", "pron": "fuóri piove a dirótto" },
+        { "t": "Ho una fame da lupi.", "es": "Tengo un hambre canina.", "pron": "o úna fáme da lúpi" },
+        { "t": "Ho dormito come un ghiro.", "es": "Dormí como un lirón.", "pron": "o dormíto cóme un guíro" },
+        { "t": "Ci vediamo domani per una cena alla buona.", "es": "Nos vemos mañana para una cena sencilla.", "pron": "chi vediámo dománi per úna chéna álla buóna" },
+        { "t": "Il tempo è passato in un batter d'occhio.", "es": "El tiempo pasó en un abrir y cerrar de ojos.", "pron": "il témpo e passáto in un báter dókkio" }
+      ],
+      "dialogo": {
+        "titulo": "Una sera di pioggia",
+        "lineas": [
+          { "q": "A", "t": "Che tempo orribile: piove a dirotto!", "es": "Qué tiempo horrible: ¡llueve a cántaros!" },
+          { "q": "B", "t": "Restiamo a casa. Ho una fame da lupi.", "es": "Nos quedamos en casa. Tengo un hambre canina." },
+          { "q": "A", "t": "Facciamo una cena alla buona?", "es": "¿Hacemos una cena sencilla?" },
+          { "q": "B", "t": "Va bene, in un batter d'occhio è pronta.", "es": "Está bien, en un abrir y cerrar de ojos está lista." },
+          { "q": "A", "t": "Dopo dormirò come un ghiro.", "es": "Después dormiré como un lirón." }
+        ]
+      },
+      "nota": "Estas expresiones son coloquiales. En un correo formal es mejor decir «piove molto», «ho molta fame» o «rapidamente»."
+    },
+    {
+      "id": "it-b2-u9-l5",
+      "n": 5,
+      "titulo": "Repaso de modi di dire",
+      "objetivo": "Combinar las expresiones de la unidad en situaciones reales.",
+      "intro": "Repasa las expresiones de las cuatro lecciones. Truco: elige tus cinco favoritas y úsalas esta semana en conversaciones reales.",
+      "palabras": [
+        { "t": "crepi il lupo", "es": "gracias, igualmente (respuesta a in bocca al lupo)", "pron": "crépi il lúpo", "ej": "In bocca al lupo! Crepi il lupo!", "ejes": "¡Mucha suerte! ¡Gracias!", "cog": false },
+        { "t": "al settimo cielo", "es": "en el séptimo cielo", "pron": "al séttimo chélo", "ej": "Sono al settimo cielo: ho trovato lavoro!", "ejes": "Estoy en el séptimo cielo: ¡encontré trabajo!", "cog": false },
+        { "t": "un affare", "es": "una ganga", "pron": "un affáre", "ej": "A questo prezzo è proprio un affare.", "ejes": "A este precio es realmente una ganga.", "cog": false },
+        { "t": "un occhio della testa", "es": "un ojo de la cara", "pron": "un ókkio déla tésta", "ej": "L'affitto costa un occhio della testa.", "ejes": "El alquiler cuesta un ojo de la cara.", "cog": false },
+        { "t": "a ruota libera", "es": "sin parar", "pron": "a ruóta líbera", "ej": "Quando è contento parla a ruota libera.", "ejes": "Cuando está contento habla sin parar.", "cog": false },
+        { "t": "non vedo l'ora", "es": "no veo la hora", "pron": "non védo lóra", "ej": "Non vedo l'ora che arrivi l'estate.", "ejes": "No veo la hora de que llegue el verano.", "cog": false },
+        { "t": "tirare avanti", "es": "ir tirando", "pron": "tiráre avánti", "ej": "Non è facile tirare avanti con un solo stipendio.", "ejes": "No es fácil ir tirando con un solo sueldo.", "cog": false },
+        { "t": "come un ghiro", "es": "como un lirón", "pron": "cóme un guíro", "ej": "Dopo la gita ho dormito come un ghiro.", "ejes": "Después de la excursión dormí como un lirón.", "cog": false },
+        { "t": "dare una mano", "es": "echar una mano", "pron": "dáre úna máno", "ej": "Se puoi, dare una mano a Luca è un favore enorme.", "ejes": "Si puedes, echarle una mano a Luca es un gran favor.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Sono al settimo cielo: ho trovato lavoro!", "es": "Estoy en el séptimo cielo: ¡encontré trabajo!", "pron": "sóno al séttimo chélo o trováto lavóro" },
+        { "t": "A questo prezzo è proprio un affare.", "es": "A este precio es realmente una ganga.", "pron": "a cuésto prétso e própio un affáre" },
+        { "t": "L'affitto costa un occhio della testa.", "es": "El alquiler cuesta un ojo de la cara.", "pron": "laffítto cósta un ókkio déla tésta" },
+        { "t": "Non vedo l'ora che arrivi l'estate.", "es": "No veo la hora de que llegue el verano.", "pron": "non védo lóra ke arrívi lestáte" },
+        { "t": "Grazie per avermi dato una mano.", "es": "Gracias por haberme echado una mano.", "pron": "grátsie per avérmi dáto úna máno" }
+      ],
+      "dialogo": {
+        "titulo": "Una bella notizia",
+        "lineas": [
+          { "q": "A", "t": "Ho trovato lavoro! Sono al settimo cielo.", "es": "¡Encontré trabajo! Estoy en el séptimo cielo." },
+          { "q": "B", "t": "Che bella notizia! In bocca al lupo per il primo giorno.", "es": "¡Qué buena noticia! Mucha suerte el primer día." },
+          { "q": "A", "t": "Crepi il lupo! Non vedo l'ora di cominciare.", "es": "¡Gracias! No veo la hora de empezar." },
+          { "q": "B", "t": "Adesso potrai mettere da parte qualcosa.", "es": "Ahora podrás ahorrar algo." },
+          { "q": "A", "t": "Sì, basta stare al verde a fine mese!", "es": "Sí, ¡basta de quedarme sin un centavo a fin de mes!" }
+        ]
+      },
+      "nota": "Cuando conozcas una expresión nueva, escríbela siempre con una frase tuya. Así la recordarás en su contexto y no como una traducción suelta."
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": "en-b2-u3",
+  "idioma": "en",
+  "nivel": "B2",
+  "n": 3,
+  "titulo": "Deseos y arrepentimientos",
+  "resumen": "Aprenderás a expresar deseos y arrepentimientos con wish e if only (más pasado o past perfect) y a criticar o lamentar decisiones con should have.",
+  "puedo": [
+    "Expresar un deseo sobre el presente con wish + pasado simple.",
+    "Expresar un arrepentimiento sobre el pasado con wish + past perfect.",
+    "Usar should have y shouldn't have para lamentar o criticar.",
+    "Quejarme de algo que me molesta con wish + would.",
+    "Hablar de decisiones y arrepentimientos con vocabulario natural."
+  ],
+  "gramatica": {
+    "titulo": "Wish e if only: el tiempo retrocede un paso",
+    "texto": "Con wish e if only el verbo \"retrocede\" un tiempo. Para desear que el PRESENTE fuera distinto: wish + pasado simple (I wish I lived closer = vivo lejos). Para lamentar el PASADO: wish + past perfect (I wish I had studied = no estudié).\nPara quejarte de algo que alguien hace o para pedir un cambio futuro: wish + would (I wish he would call).\nPara criticar o lamentar una decisión pasada también usamos should have + participio: You should have told me.\nTruco: la forma pasada NO habla del pasado, solo marca que es irreal. If only es más fuerte y emotivo que wish.",
+    "tabla": [
+      ["I wish I lived closer.", "Ojalá viviera más cerca.", "ai uish ai livd clóuser"],
+      ["I wish I had more money.", "Ojalá tuviera más dinero.", "ai uish ai jad mor máni"],
+      ["I wish I had studied more.", "Ojalá hubiera estudiado más.", "ai uish ai jad stádid mor"],
+      ["If only she had listened!", "¡Si tan solo hubiera escuchado!", "if ónli shi jad lísend"],
+      ["I wish you would call me.", "Ojalá me llamaras.", "ai uish iu uud col mi"],
+      ["You should have told me.", "Debiste haberme dicho.", "iu shud jav tould mi"]
+    ],
+    "errores": [
+      "No uses el presente después de wish: es I wish I were taller, no «I wish I am taller».",
+      "No mezcles should have con el infinitivo: es You should have called, no «You should have call».",
+      "No uses would con I después de wish: es I wish I could, no «I wish I would»."
+    ]
+  },
+  "practica": [
+    "Escribe 6 frases con I wish + pasado sobre cosas de tu vida que quisieras distintas (8 minutos).",
+    "Di en voz alta 5 arrepentimientos con I wish I had..., y luego una lección con next time I will... (8 minutos).",
+    "Graba un audio de 1 minuto aconsejando a un amigo con You should have... y You shouldn't have... (8 minutos).",
+    "Lee las letras de dos canciones en inglés y busca wish o if only; anota qué desean (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b2-u3-l1",
+      "n": 1,
+      "titulo": "Deseos sobre el presente",
+      "objetivo": "Decir qué desearías que fuera distinto ahora con wish + pasado simple.",
+      "intro": "Usa I wish + pasado simple para algo que no es como quieres en el presente: I wish I lived closer to work. Truco: es el «ojalá + subjuntivo» del español (ojalá viviera).",
+      "palabras": [
+        { "t": "commute", "es": "trayecto al trabajo / desplazarse", "pron": "comiut", "ej": "My commute takes two hours every day.", "ejes": "Mi trayecto al trabajo toma dos horas cada día.", "cog": false },
+        { "t": "rent", "es": "alquiler / alquilar", "pron": "rent", "ej": "The rent is too high in this area.", "ejes": "El alquiler es demasiado alto en esta zona.", "cog": false },
+        { "t": "fed up", "es": "harto", "pron": "fed ap", "ej": "I'm fed up with this traffic.", "ejes": "Estoy harto de este tráfico.", "cog": false },
+        { "t": "free time", "es": "tiempo libre", "pron": "fri taim", "ej": "I wish I had more free time for my hobbies.", "ejes": "Ojalá tuviera más tiempo libre para mis pasatiempos.", "cog": false },
+        { "t": "stressful", "es": "estresante", "pron": "stresful", "ej": "My job is really stressful lately.", "ejes": "Mi trabajo es muy estresante últimamente.", "cog": false },
+        { "t": "get along with", "es": "llevarse bien con", "pron": "guet alóng uid", "ej": "I wish I could get along with my neighbors.", "ejes": "Ojalá pudiera llevarme bien con mis vecinos.", "cog": false },
+        { "t": "put on weight", "es": "subir de peso", "pron": "put on ueit", "ej": "I tend to put on weight in winter.", "ejes": "Tiendo a subir de peso en invierno.", "cog": false },
+        { "t": "come true", "es": "hacerse realidad", "pron": "cam tru", "ej": "I hope your dream will come true.", "ejes": "Espero que tu sueño se haga realidad.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I wish I lived closer to the office.", "es": "Ojalá viviera más cerca de la oficina.", "pron": "ai uish ai livd clóuser tu di ófis" },
+        { "t": "I wish I had more free time.", "es": "Ojalá tuviera más tiempo libre.", "pron": "ai uish ai jad mor fri taim" },
+        { "t": "She wishes she were taller.", "es": "Ella desearía ser más alta.", "pron": "shi uíshes shi uer tóler" },
+        { "t": "If only I didn't have to work on Saturdays.", "es": "Si tan solo no tuviera que trabajar los sábados.", "pron": "if ónli ai dídent jav tu uerk on sáterdeis" },
+        { "t": "I wish my commute weren't so long.", "es": "Ojalá mi trayecto no fuera tan largo.", "pron": "ai uish mai comiut uérent sou long" }
+      ],
+      "dialogo": {
+        "titulo": "Quejas de lunes",
+        "lineas": [
+          { "q": "A", "t": "I'm so fed up with my commute. It takes two hours every day.", "es": "Estoy harta de mi trayecto. Toma dos horas cada día." },
+          { "q": "B", "t": "I know! I wish I lived closer to work, but the rent is too high near the office.", "es": "¡Lo sé! Ojalá viviera más cerca del trabajo, pero el alquiler es muy alto cerca de la oficina." },
+          { "q": "A", "t": "And my job is so stressful lately. I wish I had more free time.", "es": "Y mi trabajo es muy estresante últimamente. Ojalá tuviera más tiempo libre." },
+          { "q": "B", "t": "If only we could work from home three days a week.", "es": "Si tan solo pudiéramos trabajar desde casa tres días a la semana." },
+          { "q": "A", "t": "Don't give up. Maybe that will come true next year.", "es": "No te rindas. Quizás eso se haga realidad el próximo año." },
+          { "q": "B", "t": "I hope so. I wish I could be as optimistic as you.", "es": "Eso espero. Ojalá pudiera ser tan optimista como tú." }
+        ]
+      },
+      "nota": "Se dice I wish I were (no was) en un registro cuidado, pero en conversación informal oirás I wish I was."
+    },
+    {
+      "id": "en-b2-u3-l2",
+      "n": 2,
+      "titulo": "Arrepentimientos del pasado",
+      "objetivo": "Lamentar algo ocurrido con wish / if only + past perfect.",
+      "intro": "Para lamentar el pasado, retrocede un paso más: I wish I had studied more. If only I had listened! Truco: es «ojalá hubiera + participio» en español.",
+      "palabras": [
+        { "t": "regret", "es": "arrepentimiento / arrepentirse", "pron": "rigrét", "ej": "I regret not studying abroad when I could.", "ejes": "Me arrepiento de no haber estudiado en el extranjero cuando pude.", "cog": true },
+        { "t": "waste", "es": "desperdiciar", "pron": "ueist", "ej": "Don't waste your time on this.", "ejes": "No desperdicies tu tiempo en esto.", "cog": false },
+        { "t": "missed opportunity", "es": "oportunidad perdida", "pron": "mist oportiúniti", "ej": "That was a missed opportunity for the company.", "ejes": "Eso fue una oportunidad perdida para la empresa.", "cog": false },
+        { "t": "lose track of", "es": "perder la cuenta de", "pron": "luz trac ov", "ej": "I tend to lose track of time when I read.", "ejes": "Tiendo a perder la noción del tiempo cuando leo.", "cog": false },
+        { "t": "let down", "es": "decepcionar, fallar", "pron": "let daun", "ej": "I never want to let down my team.", "ejes": "Nunca quiero decepcionar a mi equipo.", "cog": false },
+        { "t": "learn the hard way", "es": "aprender a golpes", "pron": "lern da jard uei", "ej": "Some people learn the hard way.", "ejes": "Algunas personas aprenden a golpes.", "cog": false },
+        { "t": "go wrong", "es": "salir mal", "pron": "gou rong", "ej": "Everything seems to go wrong on Mondays.", "ejes": "Todo parece salir mal los lunes.", "cog": false },
+        { "t": "too late", "es": "demasiado tarde", "pron": "tu leit", "ej": "It's too late to change my mind now.", "ejes": "Ya es demasiado tarde para cambiar de opinión.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I wish I had studied harder at school.", "es": "Ojalá hubiera estudiado más en el colegio.", "pron": "ai uish ai jad stádid járder at scul" },
+        { "t": "If only I had listened to my parents.", "es": "Si tan solo hubiera escuchado a mis padres.", "pron": "if ónli ai jad lísend tu mai pérents" },
+        { "t": "She wishes she hadn't let him down.", "es": "Ella desearía no haberlo decepcionado.", "pron": "shi uíshes shi jádent let jim daun" },
+        { "t": "I wish we hadn't lost track of time.", "es": "Ojalá no hubiéramos perdido la noción del tiempo.", "pron": "ai uish ui jádent lost trac ov taim" },
+        { "t": "He wished he had taken the job in Cusco.", "es": "Él deseó haber aceptado el trabajo en Cusco.", "pron": "ji uisht ji jad téiken da yob in cúsco" }
+      ],
+      "dialogo": {
+        "titulo": "Una conversación sincera",
+        "lineas": [
+          { "q": "A", "t": "Do you have any regrets, Dad?", "es": "¿Tienes algún arrepentimiento, papá?" },
+          { "q": "B", "t": "Plenty. I wish I had traveled more when I was young.", "es": "Muchos. Ojalá hubiera viajado más cuando era joven." },
+          { "q": "A", "t": "Why didn't you?", "es": "¿Por qué no lo hiciste?" },
+          { "q": "B", "t": "I was afraid of wasting money. If only I had known how fast the years go.", "es": "Tenía miedo de desperdiciar dinero. Si tan solo hubiera sabido qué rápido pasan los años." },
+          { "q": "A", "t": "It's not too late, you know.", "es": "No es demasiado tarde, ¿sabes?" },
+          { "q": "B", "t": "You're right. Some people learn the hard way, but I'm learning now.", "es": "Tienes razón. Algunos aprenden a golpes, pero yo estoy aprendiendo ahora." }
+        ]
+      },
+      "nota": "Regret + -ing = lamentar algo que ya hiciste: I regret telling her. Regret + to = lamentar tener que decir algo: I regret to inform you."
+    },
+    {
+      "id": "en-b2-u3-l3",
+      "n": 3,
+      "titulo": "Should have: criticar y lamentar",
+      "objetivo": "Decir lo que debió hacerse con should have, shouldn't have y ought to have.",
+      "intro": "Should have + participio = «debí / debiste haber». Shouldn't have + participio = «no debí haber». Truco: sirve para lamentar tus propias decisiones o criticar con tacto las de otros.",
+      "palabras": [
+        { "t": "should have", "es": "debí haber", "pron": "shud jav", "ej": "You should have told me about the problem.", "ejes": "Debiste haberme contado el problema.", "cog": false },
+        { "t": "shouldn't have", "es": "no debí haber", "pron": "shúdent jav", "ej": "I shouldn't have lost my temper.", "ejes": "No debí haber perdido los estribos.", "cog": false },
+        { "t": "ought to have", "es": "debería haber", "pron": "ot tu jav", "ej": "He ought to have apologized earlier.", "ejes": "Debería haberse disculpado antes.", "cog": false },
+        { "t": "lose your temper", "es": "perder los estribos", "pron": "luz ior témper", "ej": "Try not to lose your temper in meetings.", "ejes": "Trata de no perder los estribos en las reuniones.", "cog": false },
+        { "t": "apologize", "es": "disculparse", "pron": "apólayaiz", "ej": "You should apologize to her right away.", "ejes": "Deberías disculparte con ella de inmediato.", "cog": true },
+        { "t": "blame", "es": "culpar / culpa", "pron": "bleim", "ej": "Don't blame yourself for what happened.", "ejes": "No te culpes por lo que pasó.", "cog": false },
+        { "t": "overreact", "es": "exagerar, reaccionar de más", "pron": "ouverriác", "ej": "I think you might overreact if you hear it.", "ejes": "Creo que podrías reaccionar de más si lo escuchas.", "cog": false },
+        { "t": "double-check", "es": "revisar dos veces", "pron": "dabol chec", "ej": "Always double-check the address before you leave.", "ejes": "Siempre revisa dos veces la dirección antes de salir.", "cog": false }
+      ],
+      "frases": [
+        { "t": "You should have double-checked the address.", "es": "Debiste haber revisado la dirección dos veces.", "pron": "iu shud jav dabol-chect di adrés" },
+        { "t": "I shouldn't have lost my temper with her.", "es": "No debí haber perdido los estribos con ella.", "pron": "ai shúdent jav lost mai témper uid jer" },
+        { "t": "He ought to have apologized at once.", "es": "Debería haberse disculpado de inmediato.", "pron": "ji ot tu jav apólayaizd at uans" },
+        { "t": "We shouldn't have left the kids alone.", "es": "No debimos haber dejado solos a los niños.", "pron": "ui shúdent jav left da kids aloun" },
+        { "t": "Should I have called them first?", "es": "¿Debí haberlos llamado primero?", "pron": "shud ai jav cold dem ferst" }
+      ],
+      "dialogo": {
+        "titulo": "Después de la reunión",
+        "lineas": [
+          { "q": "A", "t": "I shouldn't have lost my temper in front of the client.", "es": "No debí haber perdido los estribos frente al cliente." },
+          { "q": "B", "t": "Honestly, you should have taken a break before things got heated.", "es": "Sinceramente, debiste haber hecho una pausa antes de que se calentaran las cosas." },
+          { "q": "A", "t": "I know. I should have double-checked the numbers, too.", "es": "Lo sé. También debí haber revisado los números dos veces." },
+          { "q": "B", "t": "Everyone makes mistakes. You ought to have asked for help, though.", "es": "Todos cometemos errores. Aunque deberías haber pedido ayuda." },
+          { "q": "A", "t": "Should I apologize to him?", "es": "¿Debería disculparme con él?" },
+          { "q": "B", "t": "Definitely. Don't blame yourself too much, but do it today.", "es": "Definitivamente. No te culpes tanto, pero hazlo hoy." }
+        ]
+      },
+      "nota": "Should have se pronuncia «shudav». Para sonar más suave al criticar, usa Maybe you should have..."
+    },
+    {
+      "id": "en-b2-u3-l4",
+      "n": 4,
+      "titulo": "Wish + would: quejas y cambios",
+      "objetivo": "Quejarme de hábitos ajenos y pedir cambios con wish + would y if only + would.",
+      "intro": "I wish he would listen = me molesta que no escuche y quisiera que cambiara. Truco: wish + would solo funciona con un sujeto distinto de I / we, porque se trata de algo que otro controla.",
+      "palabras": [
+        { "t": "annoying", "es": "molesto, fastidioso", "pron": "anóiin", "ej": "It's annoying when people interrupt me.", "ejes": "Es molesto cuando la gente me interrumpe.", "cog": false },
+        { "t": "interrupt", "es": "interrumpir", "pron": "interrapt", "ej": "Please don't interrupt while I'm talking.", "ejes": "Por favor no interrumpas mientras hablo.", "cog": true },
+        { "t": "nag", "es": "fastidiar con quejas, regañar", "pron": "nag", "ej": "My mother used to nag me about my room.", "ejes": "Mi madre solía regañarme por mi cuarto.", "cog": false },
+        { "t": "leave a mess", "es": "dejar desorden", "pron": "liv a mes", "ej": "Please don't leave a mess in the kitchen.", "ejes": "Por favor no dejes desorden en la cocina.", "cog": false },
+        { "t": "keep doing", "es": "seguir haciendo", "pron": "kip duin", "ej": "I wish you would stop. You keep doing it.", "ejes": "Ojalá pararas. Sigues haciéndolo.", "cog": false },
+        { "t": "show up", "es": "aparecer, presentarse", "pron": "shou ap", "ej": "I wish he would show up on time for once.", "ejes": "Ojalá se presentara a tiempo por una vez.", "cog": false },
+        { "t": "talk back", "es": "responder de mala manera", "pron": "tok bac", "ej": "Children shouldn't talk back to their parents.", "ejes": "Los niños no deberían responder mal a sus padres.", "cog": false },
+        { "t": "for once", "es": "por una vez", "pron": "for uans", "ej": "Could you listen to me for once?", "ejes": "¿Podrías escucharme por una vez?", "cog": false }
+      ],
+      "frases": [
+        { "t": "I wish you would stop interrupting me.", "es": "Ojalá dejaras de interrumpirme.", "pron": "ai uish iu uud stop interráptin mi" },
+        { "t": "If only he would show up on time.", "es": "Si tan solo llegara a tiempo.", "pron": "if ónli ji uud shou ap on taim" },
+        { "t": "I wish it would stop raining.", "es": "Ojalá dejara de llover.", "pron": "ai uish it uud stop réinin" },
+        { "t": "She wishes her brother wouldn't leave a mess.", "es": "Ella desea que su hermano no dejara desorden.", "pron": "shi uíshes jer bráder uúdent liv a mes" },
+        { "t": "I wish people wouldn't nag me about it.", "es": "Ojalá la gente no me fastidiara con eso.", "pron": "ai uish pípol uúdent nag mi abáut it" }
+      ],
+      "dialogo": {
+        "titulo": "Compañeros de piso",
+        "lineas": [
+          { "q": "A", "t": "I wish Tom would stop leaving a mess in the kitchen.", "es": "Ojalá Tom dejara de dejar desorden en la cocina." },
+          { "q": "B", "t": "I know. It's annoying. And he keeps showing up late for the rent.", "es": "Lo sé. Es molesto. Y siempre se presenta tarde con el alquiler." },
+          { "q": "A", "t": "I don't want to nag him, though.", "es": "Aunque no quiero fastidiarlo." },
+          { "q": "B", "t": "Why not talk to him for once? If only he would listen.", "es": "¿Por qué no hablas con él por una vez? Si tan solo escuchara." },
+          { "q": "A", "t": "You're right. I'll talk to him tonight.", "es": "Tienes razón. Hablaré con él esta noche." },
+          { "q": "B", "t": "Good. I wish people wouldn't interrupt when I'm trying to explain, too.", "es": "Bien. Ojalá la gente tampoco me interrumpiera cuando trato de explicar." }
+        ]
+      },
+      "nota": "Con wish + would hay crítica implícita: úsalo con amigos cercanos o en tono suave. Para algo que tú puedes controlar, usa could: I wish I could."
+    },
+    {
+      "id": "en-b2-u3-l5",
+      "n": 5,
+      "titulo": "Repaso: lo que debió ser",
+      "objetivo": "Combinar wish, if only y should have para hablar de deseos y arrepentimientos.",
+      "intro": "Repasa las tres formas: wish + pasado (presente), wish + past perfect (pasado) y wish + would (cambio de otros). Truco: identifica si hablas de ahora, de antes o de otra persona.",
+      "palabras": [
+        { "t": "take it for granted", "es": "darlo por sentado", "pron": "teik it for gránted", "ej": "Your health is precious, so never take it for granted.", "ejes": "Tu salud es valiosa, así que nunca la des por sentada.", "cog": false },
+        { "t": "make the most of", "es": "aprovechar al máximo", "pron": "meik da moust ov", "ej": "Make the most of every opportunity.", "ejes": "Aprovecha al máximo cada oportunidad.", "cog": false },
+        { "t": "turn back the clock", "es": "retroceder el tiempo", "pron": "tern bac da cloc", "ej": "If only I could turn back the clock.", "ejes": "Si tan solo pudiera retroceder el tiempo.", "cog": false },
+        { "t": "learn from", "es": "aprender de", "pron": "lern from", "ej": "We should learn from our mistakes.", "ejes": "Deberíamos aprender de nuestros errores.", "cog": false },
+        { "t": "move on", "es": "seguir adelante", "pron": "muv on", "ej": "It's time to move on and forgive.", "ejes": "Es hora de seguir adelante y perdonar.", "cog": false },
+        { "t": "forgive", "es": "perdonar", "pron": "forguiv", "ej": "I hope you can forgive me one day.", "ejes": "Espero que algún día puedas perdonarme.", "cog": false },
+        { "t": "hindsight", "es": "retrospectiva", "pron": "jáindsait", "ej": "Hindsight is always twenty-twenty.", "ejes": "La retrospectiva siempre ve claro.", "cog": false },
+        { "t": "closure", "es": "cierre emocional", "pron": "clóuyer", "ej": "I needed closure after the breakup.", "ejes": "Necesitaba cerrar el ciclo después de la ruptura.", "cog": false }
+      ],
+      "frases": [
+        { "t": "If only I could turn back the clock.", "es": "Si tan solo pudiera retroceder el tiempo.", "pron": "if ónli ai cud tern bac da cloc" },
+        { "t": "I wish I hadn't taken my friends for granted.", "es": "Ojalá no hubiera dado por sentados a mis amigos.", "pron": "ai uish ai jádent téiken mai frends for gránted" },
+        { "t": "You should have made the most of your time there.", "es": "Debiste haber aprovechado al máximo tu tiempo allí.", "pron": "iu shud jav meid da moust ov ior taim der" },
+        { "t": "I wish he would forgive me.", "es": "Ojalá él me perdonara.", "pron": "ai uish ji uud forguiv mi" },
+        { "t": "We shouldn't have waited so long to move on.", "es": "No debimos haber esperado tanto para seguir adelante.", "pron": "ui shúdent jav uéitid sou long tu muv on" },
+        { "t": "I wish I knew then what I know now.", "es": "Ojalá hubiera sabido entonces lo que sé ahora.", "pron": "ai uish ai niu den juat ai nou nau" }
+      ],
+      "dialogo": {
+        "titulo": "Una carta a mi yo joven",
+        "lineas": [
+          { "q": "A", "t": "If you could write a letter to your younger self, what would you say?", "es": "Si pudieras escribir una carta a tu yo joven, ¿qué dirías?" },
+          { "q": "B", "t": "I would say: don't take your friends for granted. I wish I had called them more.", "es": "Diría: no des por sentados a tus amigos. Ojalá los hubiera llamado más." },
+          { "q": "A", "t": "That's honest. Do you wish you could turn back the clock?", "es": "Eso es sincero. ¿Desearías poder retroceder el tiempo?" },
+          { "q": "B", "t": "Sometimes. But hindsight is easy. You should have seen how stubborn I was.", "es": "A veces. Pero ver las cosas después es fácil. Tendrías que haber visto lo terco que era." },
+          { "q": "A", "t": "The important thing is to learn from it and move on.", "es": "Lo importante es aprender de eso y seguir adelante." },
+          { "q": "B", "t": "Exactly. I just wish I had known that earlier.", "es": "Exacto. Solo desearía haberlo sabido antes." }
+        ]
+      },
+      "nota": "Recuerda: wish + pasado simple = presente irreal; wish + past perfect = pasado; wish + would = cambio en otros."
+    }
+  ]
+}

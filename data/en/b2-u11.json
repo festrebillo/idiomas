@@ -1,0 +1,221 @@
+{
+  "id": "en-b2-u11",
+  "idioma": "en",
+  "nivel": "B2",
+  "n": 11,
+  "titulo": "Presentaciones y reuniones",
+  "resumen": "Aprenderás el lenguaje para abrir una presentación, guiar al público, participar en reuniones e interrumpir con cortesía.",
+  "puedo": [
+    "Abrir y cerrar una presentación con frases claras.",
+    "Guiar al público con frases de señalización como moving on to.",
+    "Dar mi opinión y pedir la de otros en una reunión.",
+    "Interrumpir con cortesía usando sorry to interrupt.",
+    "Resumir acuerdos y siguientes pasos."
+  ],
+  "gramatica": {
+    "titulo": "Frases de señalización (signposting)",
+    "texto": "En una presentación o reunión, las frases de señalización le dicen al público dónde estás: al inicio, al pasar de tema o al terminar. Son bloques fijos y muy útiles.\nInicio: I'd like to talk about... Cambio de tema: Moving on to... / Let's turn to... Final: To sum up... / In conclusion...\nPara interrumpir con cortesía: Sorry to interrupt, but... / Could I just add something? Para pedir una opinión: What do you think? / Do you have any thoughts on this?\nTruco: después de about, on, to y of, el verbo va en -ing: I'd like to talk about sales; moving on to pricing.",
+    "tabla": [
+      ["I'd like to talk about...", "Quisiera hablar de...", "aid laik tu tok abáut"],
+      ["Moving on to...", "Pasando a...", "múvin on tu"],
+      ["Let's turn to...", "Pasemos a...", "lets tern tu"],
+      ["To sum up...", "En resumen...", "tu som op"],
+      ["Sorry to interrupt, but...", "Perdón por interrumpir, pero...", "sórri tu interrópt bot"],
+      ["Could I just add something?", "¿Podría añadir algo?", "cud ai yost ad sómzin"]
+    ],
+    "errores": [
+      "No digas «I'm going to talk you about»: es I'm going to talk about, sin pronombre.",
+      "No interrumpas de golpe: di Sorry to interrupt, but... para sonar cortés.",
+      "No digas «In resume»: es To sum up o In summary; resume en inglés es currículum."
+    ]
+  },
+  "practica": [
+    "Prepara una presentación de 1 minuto sobre tu trabajo usando I'd like to talk about, Moving on to y To sum up (12 minutos).",
+    "Mira una charla corta en inglés y anota 5 frases de señalización (10 minutos).",
+    "Practica en voz alta 4 maneras de interrumpir con cortesía (5 minutos).",
+    "Escribe un resumen de una reunión en 6 líneas con decisiones y siguientes pasos (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b2-u11-l1",
+      "n": 1,
+      "titulo": "Abrir una presentación",
+      "objetivo": "Saludar al público y presentar el tema de una charla.",
+      "intro": "Una buena apertura capta la atención. Truco: saluda, di quién eres, el tema y la duración.",
+      "palabras": [
+        { "t": "audience", "es": "audiencia, público", "pron": "ódiens", "ej": "The audience was very friendly.", "ejes": "El público fue muy amable.", "cog": true },
+        { "t": "outline", "es": "esquema, resumen", "pron": "áutlain", "ej": "Here is a quick outline of my talk.", "ejes": "Este es un esquema rápido de mi charla.", "cog": false },
+        { "t": "agenda", "es": "agenda, orden del día", "pron": "ayénda", "ej": "Let's look at the agenda.", "ejes": "Veamos el orden del día.", "cog": true },
+        { "t": "slide", "es": "diapositiva", "pron": "slaid", "ej": "Please look at the next slide.", "ejes": "Por favor, miren la siguiente diapositiva.", "cog": false },
+        { "t": "topic", "es": "tema", "pron": "tópic", "ej": "Today's topic is customer service.", "ejes": "El tema de hoy es el servicio al cliente.", "cog": true },
+        { "t": "welcome", "es": "dar la bienvenida", "pron": "uélcom", "ej": "I'd like to welcome everyone.", "ejes": "Quisiera dar la bienvenida a todos.", "cog": false },
+        { "t": "overview", "es": "visión general", "pron": "óuvervíu", "ej": "I'll give you a short overview.", "ejes": "Les daré una breve visión general.", "cog": false },
+        { "t": "cover", "es": "abarcar, tratar", "pron": "cóver", "ej": "Today we will cover three points.", "ejes": "Hoy trataremos tres puntos.", "cog": false },
+        { "t": "brief", "es": "breve", "pron": "brif", "ej": "My talk will be brief.", "ejes": "Mi charla será breve.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Good morning, everyone, and welcome.", "es": "Buenos días a todos y bienvenidos.", "pron": "gud mórnin évriuan and uélcom" },
+        { "t": "Today I'd like to talk about our new product.", "es": "Hoy quisiera hablar de nuestro nuevo producto.", "pron": "tudéi aid laik tu tok abáut áur niu próduct" },
+        { "t": "I'll cover three main points.", "es": "Trataré tres puntos principales.", "pron": "ail cóver zri mein points" },
+        { "t": "The talk will take about ten minutes.", "es": "La charla durará unos diez minutos.", "pron": "da tok uil teik abáut ten mínits" },
+        { "t": "Feel free to ask questions at the end.", "es": "Siéntanse libres de preguntar al final.", "pron": "fil fri tu ask cuéschons at di end" }
+      ],
+      "dialogo": {
+        "titulo": "Antes de empezar",
+        "lineas": [
+          { "q": "A", "t": "Are you ready? The audience is waiting.", "es": "¿Estás listo? El público está esperando." },
+          { "q": "B", "t": "Almost. I have the outline, but I want to check the first slide.", "es": "Casi. Tengo el esquema, pero quiero revisar la primera diapositiva." },
+          { "q": "A", "t": "Remember to welcome everyone and give a brief overview.", "es": "Recuerda dar la bienvenida y dar una visión general breve." },
+          { "q": "B", "t": "Right. Then I'll cover the topic in ten minutes.", "es": "Cierto. Luego trataré el tema en diez minutos." },
+          { "q": "A", "t": "Perfect. Good luck!", "es": "Perfecto. ¡Suerte!" }
+        ]
+      },
+      "nota": "Overview y outline se parecen: el outline es el esquema de lo que dirás; el overview es una visión general de un tema."
+    },
+    {
+      "id": "en-b2-u11-l2",
+      "n": 2,
+      "titulo": "Guiar al público",
+      "objetivo": "Pasar de un punto a otro y resaltar lo importante.",
+      "intro": "Las frases de transición evitan que el público se pierda. Truco: usa una distinta para cada punto: first, next, finally.",
+      "palabras": [
+        { "t": "firstly", "es": "en primer lugar", "pron": "férstli", "ej": "Firstly, I'll explain the problem.", "ejes": "En primer lugar, explicaré el problema.", "cog": false },
+        { "t": "moving on", "es": "pasando a", "pron": "múvin on", "ej": "Moving on, let's discuss costs.", "ejes": "Pasando a otro punto, hablemos de costos.", "cog": false },
+        { "t": "highlight", "es": "destacar", "pron": "jáilait", "ej": "I want to highlight one key result.", "ejes": "Quiero destacar un resultado clave.", "cog": false },
+        { "t": "chart", "es": "gráfico", "pron": "chart", "ej": "This chart shows our growth.", "ejes": "Este gráfico muestra nuestro crecimiento.", "cog": false },
+        { "t": "figure", "es": "cifra", "pron": "fígiur", "ej": "That figure is very high.", "ejes": "Esa cifra es muy alta.", "cog": false },
+        { "t": "refer to", "es": "referirse a", "pron": "rifér tu", "ej": "Please refer to page four.", "ejes": "Por favor, remítanse a la página cuatro.", "cog": false },
+        { "t": "as you can see", "es": "como pueden ver", "pron": "as iu can si", "ej": "As you can see, sales are up.", "ejes": "Como pueden ver, las ventas suben.", "cog": false },
+        { "t": "in other words", "es": "en otras palabras", "pron": "in óder uérds", "ej": "In other words, we need more staff.", "ejes": "En otras palabras, necesitamos más personal.", "cog": false },
+        { "t": "for example", "es": "por ejemplo", "pron": "for exámpol", "ej": "For example, sales rose in May.", "ejes": "Por ejemplo, las ventas subieron en mayo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Firstly, let me explain the situation.", "es": "En primer lugar, déjenme explicar la situación.", "pron": "férstli let mi explein da sichuéishon" },
+        { "t": "Moving on to the next point, costs.", "es": "Pasando al siguiente punto, los costos.", "pron": "múvin on tu da nekst point costs" },
+        { "t": "As you can see on this chart, sales are rising.", "es": "Como pueden ver en este gráfico, las ventas suben.", "pron": "as iu can si on dis chart seils ar ráisin" },
+        { "t": "I'd like to highlight this figure.", "es": "Quisiera destacar esta cifra.", "pron": "aid laik tu jáilait dis fígiur" },
+        { "t": "In other words, we are growing fast.", "es": "En otras palabras, crecemos rápido.", "pron": "in óder uérds ui ar gróuin fast" }
+      ],
+      "dialogo": {
+        "titulo": "Entre bastidores",
+        "lineas": [
+          { "q": "A", "t": "Your chart is clear, but add a figure for last year.", "es": "Tu gráfico es claro, pero añade una cifra del año pasado." },
+          { "q": "B", "t": "Good idea. I'll highlight it on the slide.", "es": "Buena idea. La destacaré en la diapositiva." },
+          { "q": "A", "t": "Also, use moving on when you change topics.", "es": "Además, usa moving on cuando cambies de tema." },
+          { "q": "B", "t": "Okay. And for example, I'll refer to the survey.", "es": "Bien. Y por ejemplo, me referiré a la encuesta." },
+          { "q": "A", "t": "Great. In other words, you're ready.", "es": "Genial. En otras palabras, estás listo." }
+        ]
+      },
+      "nota": "Las frases de transición no son relleno: sin ellas el público pierde el hilo, sobre todo si hablas en un segundo idioma."
+    },
+    {
+      "id": "en-b2-u11-l3",
+      "n": 3,
+      "titulo": "Participar en reuniones",
+      "objetivo": "Dar opiniones, estar de acuerdo o en desacuerdo con cortesía.",
+      "intro": "En una reunión se opina, se pregunta y se discrepa con respeto. Truco: suaviza el desacuerdo con I see your point, but...",
+      "palabras": [
+        { "t": "propose", "es": "proponer", "pron": "propóus", "ej": "I propose a short break.", "ejes": "Propongo un breve descanso.", "cog": true },
+        { "t": "suggest", "es": "sugerir", "pron": "sugyést", "ej": "I suggest a new schedule.", "ejes": "Sugiero un nuevo horario.", "cog": true },
+        { "t": "agree", "es": "estar de acuerdo", "pron": "agrí", "ej": "I agree with Ana.", "ejes": "Estoy de acuerdo con Ana.", "cog": false },
+        { "t": "disagree", "es": "no estar de acuerdo", "pron": "disagrí", "ej": "I respectfully disagree.", "ejes": "Respetuosamente no estoy de acuerdo.", "cog": true },
+        { "t": "point", "es": "punto, argumento", "pron": "point", "ej": "That's a good point.", "ejes": "Es un buen punto.", "cog": false },
+        { "t": "concern", "es": "preocupación", "pron": "consérn", "ej": "I have one concern about the budget.", "ejes": "Tengo una preocupación sobre el presupuesto.", "cog": false },
+        { "t": "opinion", "es": "opinión", "pron": "opínion", "ej": "What's your opinion?", "ejes": "¿Cuál es tu opinión?", "cog": true },
+        { "t": "vote", "es": "votar", "pron": "vout", "ej": "Let's vote on the plan.", "ejes": "Votemos el plan.", "cog": true },
+        { "t": "minutes", "es": "acta de reunión", "pron": "mínits", "ej": "Who will take the minutes?", "ejes": "¿Quién redactará el acta?", "cog": false }
+      ],
+      "frases": [
+        { "t": "I see your point, but I disagree.", "es": "Entiendo tu punto, pero no estoy de acuerdo.", "pron": "ai si ior point bot ai disagrí" },
+        { "t": "What's your opinion on this?", "es": "¿Qué opinas de esto?", "pron": "uats ior opínion on dis" },
+        { "t": "I have a concern about the schedule.", "es": "Tengo una preocupación sobre el calendario.", "pron": "ai jav a consérn abáut da skédyul" },
+        { "t": "I suggest we vote on it.", "es": "Sugiero que lo votemos.", "pron": "ai sugyést ui vout on it" },
+        { "t": "That's a very good point.", "es": "Es un punto muy bueno.", "pron": "dats a véri gud point" }
+      ],
+      "dialogo": {
+        "titulo": "Reunión de equipo",
+        "lineas": [
+          { "q": "A", "t": "I propose we move the launch to June.", "es": "Propongo que movamos el lanzamiento a junio." },
+          { "q": "B", "t": "I see your point, but I have a concern about the budget.", "es": "Entiendo tu punto, pero tengo una preocupación sobre el presupuesto." },
+          { "q": "A", "t": "That's a good point. What's your opinion, Carla?", "es": "Es un buen punto. ¿Qué opinas, Carla?" },
+          { "q": "B", "t": "I agree with Pedro. I suggest we vote.", "es": "Estoy de acuerdo con Pedro. Sugiero que votemos." },
+          { "q": "A", "t": "Fine. Someone please take the minutes.", "es": "Bien. Que alguien tome el acta, por favor." }
+        ]
+      },
+      "nota": "En inglés estadounidense, discrepar directamente puede sonar duro. Suavízalo con I see your point, but... o I'm not sure I agree."
+    },
+    {
+      "id": "en-b2-u11-l4",
+      "n": 4,
+      "titulo": "Interrumpir con cortesía",
+      "objetivo": "Interrumpir, pedir aclaraciones y volver al tema con tacto.",
+      "intro": "Interrumpir es normal en una reunión si lo haces bien. Truco: empieza con una disculpa breve y di para qué interrumpes.",
+      "palabras": [
+        { "t": "interrupt", "es": "interrumpir", "pron": "interrópt", "ej": "Sorry to interrupt, but I have a question.", "ejes": "Perdón por interrumpir, pero tengo una pregunta.", "cog": true },
+        { "t": "clarify", "es": "aclarar", "pron": "clárifai", "ej": "Could you clarify that point?", "ejes": "¿Podría aclarar ese punto?", "cog": true },
+        { "t": "repeat", "es": "repetir", "pron": "ripít", "ej": "Could you repeat that, please?", "ejes": "¿Podría repetir eso, por favor?", "cog": true },
+        { "t": "add", "es": "añadir", "pron": "ad", "ej": "May I add something?", "ejes": "¿Puedo añadir algo?", "cog": false },
+        { "t": "finish", "es": "terminar", "pron": "fínish", "ej": "Let me finish my point.", "ejes": "Déjame terminar mi punto.", "cog": false },
+        { "t": "go ahead", "es": "adelante", "pron": "gou ajéd", "ej": "Please go ahead.", "ejes": "Por favor, adelante.", "cog": false },
+        { "t": "get back to", "es": "volver a", "pron": "guet bak tu", "ej": "Let's get back to the agenda.", "ejes": "Volvamos al orden del día.", "cog": false },
+        { "t": "off topic", "es": "fuera de tema", "pron": "of tópic", "ej": "That's a bit off topic.", "ejes": "Eso está un poco fuera de tema.", "cog": false },
+        { "t": "hold on", "es": "espera un momento", "pron": "jold on", "ej": "Hold on, let me check.", "ejes": "Espera, déjame revisar.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Sorry to interrupt, but may I add something?", "es": "Perdón por interrumpir, ¿puedo añadir algo?", "pron": "sórri tu interrópt bot mei ai ad sómzin" },
+        { "t": "Could you clarify what you mean?", "es": "¿Podría aclarar lo que quiere decir?", "pron": "cud iu clárifai uat iu min" },
+        { "t": "Could you repeat that, please?", "es": "¿Podría repetirlo, por favor?", "pron": "cud iu ripít plis" },
+        { "t": "If I could just finish my point.", "es": "Si me permite terminar mi punto.", "pron": "if ai cud yost fínish mai point" },
+        { "t": "Let's get back to the main topic.", "es": "Volvamos al tema principal.", "pron": "lets guet bak tu da mein tópic" }
+      ],
+      "dialogo": {
+        "titulo": "Una pregunta a tiempo",
+        "lineas": [
+          { "q": "A", "t": "As I was saying, the costs will rise by ten percent.", "es": "Como decía, los costos subirán diez por ciento." },
+          { "q": "B", "t": "Sorry to interrupt. Could you clarify which costs?", "es": "Perdón por interrumpir. ¿Podría aclarar qué costos?" },
+          { "q": "A", "t": "Of course. Mainly transport and materials.", "es": "Por supuesto. Principalmente transporte y materiales." },
+          { "q": "B", "t": "Thank you. Please go ahead.", "es": "Gracias. Por favor, continúe." },
+          { "q": "A", "t": "Good. Now let's get back to the agenda.", "es": "Bien. Ahora volvamos al orden del día." }
+        ]
+      },
+      "nota": "Si alguien te interrumpe, puedes responder con If I could just finish... y luego dar la palabra: Please go ahead."
+    },
+    {
+      "id": "en-b2-u11-l5",
+      "n": 5,
+      "titulo": "Repaso: cerrar y dar seguimiento",
+      "objetivo": "Resumir, repartir tareas y cerrar reuniones y presentaciones.",
+      "intro": "Una reunión o presentación termina con un resumen y siguientes pasos. Truco: cierra con tres cosas: resumen, tareas y agradecimiento.",
+      "palabras": [
+        { "t": "sum up", "es": "resumir", "pron": "som op", "ej": "Let me sum up the main points.", "ejes": "Permítanme resumir los puntos principales.", "cog": false },
+        { "t": "action item", "es": "tarea asignada", "pron": "ákshon áitem", "ej": "Each action item has an owner.", "ejes": "Cada tarea asignada tiene un responsable.", "cog": false },
+        { "t": "deadline", "es": "fecha límite", "pron": "dédlain", "ej": "The deadline is Friday.", "ejes": "La fecha límite es el viernes.", "cog": false },
+        { "t": "follow up", "es": "dar seguimiento", "pron": "fólou op", "ej": "I'll follow up by email.", "ejes": "Daré seguimiento por correo.", "cog": false },
+        { "t": "decision", "es": "decisión", "pron": "disíshon", "ej": "We reached a decision today.", "ejes": "Hoy llegamos a una decisión.", "cog": true },
+        { "t": "conclusion", "es": "conclusión", "pron": "conclúshon", "ej": "In conclusion, the plan works.", "ejes": "En conclusión, el plan funciona.", "cog": true },
+        { "t": "wrap up", "es": "concluir", "pron": "rap op", "ej": "Let's wrap up in five minutes.", "ejes": "Concluyamos en cinco minutos.", "cog": false },
+        { "t": "next steps", "es": "siguientes pasos", "pron": "nekst steps", "ej": "Let's agree on the next steps.", "ejes": "Acordemos los siguientes pasos.", "cog": false },
+        { "t": "attend", "es": "asistir", "pron": "aténd", "ej": "Please attend the meeting.", "ejes": "Por favor, asistan a la reunión.", "cog": false }
+      ],
+      "frases": [
+        { "t": "To sum up, we agreed on three things.", "es": "En resumen, acordamos tres cosas.", "pron": "tu som op ui agríd on zri zings" },
+        { "t": "In conclusion, this plan will save time.", "es": "En conclusión, este plan ahorrará tiempo.", "pron": "in conclúshon dis plan uil seiv taim" },
+        { "t": "The deadline is next Friday.", "es": "La fecha límite es el próximo viernes.", "pron": "da dédlain is nekst fráidei" },
+        { "t": "I'll follow up with an email today.", "es": "Daré seguimiento con un correo hoy.", "pron": "ail fólou op uid an ímeil tudéi" },
+        { "t": "Thank you all for your time.", "es": "Gracias a todos por su tiempo.", "pron": "zank iu ol for ior taim" },
+        { "t": "Does anyone have any final questions?", "es": "¿Alguien tiene preguntas finales?", "pron": "dos énimuan jav éni fáinal cuéschons" }
+      ],
+      "dialogo": {
+        "titulo": "Al terminar la reunión",
+        "lineas": [
+          { "q": "A", "t": "Let's wrap up. To sum up, we made one decision: we launch in June.", "es": "Concluyamos. En resumen, tomamos una decisión: lanzamos en junio." },
+          { "q": "B", "t": "What are the next steps?", "es": "¿Cuáles son los siguientes pasos?" },
+          { "q": "A", "t": "Each action item has an owner. The deadline is next Friday.", "es": "Cada tarea tiene un responsable. La fecha límite es el próximo viernes." },
+          { "q": "B", "t": "I'll follow up with the minutes by email.", "es": "Daré seguimiento con el acta por correo." },
+          { "q": "A", "t": "Thank you all for attending.", "es": "Gracias a todos por asistir." }
+        ]
+      },
+      "nota": "Wrap up significa terminar, y también puede ser un nombre: a wrap-up es un cierre o resumen final."
+    }
+  ]
+}

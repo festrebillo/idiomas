@@ -1,0 +1,221 @@
+{
+  "id": "en-b2-u2",
+  "idioma": "en",
+  "nivel": "B2",
+  "n": 2,
+  "titulo": "Situaciones hipotéticas",
+  "resumen": "Aprenderás a imaginar situaciones irreales con el segundo y el tercer condicional, a mezclarlos y a usar wish e if only de forma básica.",
+  "puedo": [
+    "Formar el segundo condicional: if + pasado, would + verbo.",
+    "Formar el tercer condicional: if + past perfect, would have + participio.",
+    "Mezclar condicionales cuando el pasado afecta el presente.",
+    "Usar wish e if only para expresar deseos sencillos.",
+    "Dar consejos y plantear escenarios con what if, suppose y as long as."
+  ],
+  "gramatica": {
+    "titulo": "Condicionales irreales: if + pasado / if + past perfect",
+    "texto": "Los condicionales irreales hablan de lo que NO es real. Segundo condicional (presente o futuro imaginario): If + pasado simple, would + verbo. If I had more time, I would learn Italian (pero no tengo tiempo).\nTercer condicional (pasado que no ocurrió): If + past perfect, would have + participio. If I had studied, I would have passed (pero no estudié).\nMixto: If I had taken that job, I would be rich now (pasado irreal con resultado en el presente).\nTruco: en inglés NO se usa would en la parte del if. Con I / he / she / it se acepta were en lenguaje formal: If I were you, I would apply.",
+    "tabla": [
+      ["If I had more time, I would travel.", "Si tuviera más tiempo, viajaría.", "if ai jad mor taim, ai uud trával"],
+      ["If I were you, I would apply.", "Si yo fuera tú, postularía.", "if ai uer iu, ai uud aplái"],
+      ["If she had called, I would have answered.", "Si ella hubiera llamado, yo habría contestado.", "if shi jad cold, ai uud jav ánserd"],
+      ["What would you do if you won?", "¿Qué harías si ganaras?", "juat uud iu du if iu uan"],
+      ["If I had left earlier, I wouldn't be late now.", "Si hubiera salido antes, no estaría tarde ahora.", "if ai jad left érlier, ai uúdent bi leit nau"],
+      ["I wouldn't have gone if I had known.", "No habría ido si hubiera sabido.", "ai uúdent jav gon if ai jad noun"]
+    ],
+    "errores": [
+      "No pongas would después de if: es If I had money, I would buy it, no «If I would have money».",
+      "En el tercer condicional no uses would have en la parte if: es If I had known, no «If I would have known».",
+      "No uses el presente: es If I won the lottery, I would quit, no «If I win... I would quit» cuando es irreal."
+    ]
+  },
+  "practica": [
+    "Termina en voz alta 8 frases que empiecen con If I won a million dollars, I would... (6 minutos).",
+    "Escribe 6 oraciones en tercer condicional sobre decisiones que tomaste: If I had gone..., I would have... (12 minutos).",
+    "Responde en un audio de 1 minuto: What would you do if you could live anywhere in the world? (8 minutos).",
+    "Mira una escena de una serie en inglés y anota cuántas veces oyes if + would (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b2-u2-l1",
+      "n": 1,
+      "titulo": "Segundo condicional: imaginar el presente",
+      "objetivo": "Hablar de situaciones imaginarias del presente con if + pasado y would.",
+      "intro": "Usa if + pasado simple para imaginar algo poco probable o irreal, y would + verbo para el resultado: If I won the lottery, I would travel. Truco: el pasado aquí no habla del pasado, solo marca que es imaginario.",
+      "palabras": [
+        { "t": "afford", "es": "permitirse, poder pagar", "pron": "afórd", "ej": "I can't afford a new car right now.", "ejes": "No puedo pagar un auto nuevo ahora mismo.", "cog": false },
+        { "t": "quit", "es": "renunciar, dejar", "pron": "cuit", "ej": "I would quit my job and travel the world.", "ejes": "Renunciaría a mi trabajo y viajaría por el mundo.", "cog": false },
+        { "t": "settle down", "es": "sentar cabeza, establecerse", "pron": "sétol daun", "ej": "He wants to settle down and have a family.", "ejes": "Quiere sentar cabeza y formar una familia.", "cog": false },
+        { "t": "move abroad", "es": "mudarse al extranjero", "pron": "muv abrod", "ej": "She would move abroad if she got a good offer.", "ejes": "Ella se mudaría al extranjero si le ofrecieran algo bueno.", "cog": false },
+        { "t": "invest", "es": "invertir", "pron": "invést", "ej": "If I had savings, I would invest in land.", "ejes": "Si tuviera ahorros, invertiría en terrenos.", "cog": true },
+        { "t": "tempting", "es": "tentador", "pron": "témptin", "ej": "That offer is very tempting.", "ejes": "Esa oferta es muy tentadora.", "cog": true },
+        { "t": "if I were you", "es": "si yo fuera tú", "pron": "if ai uer iu", "ej": "Honestly, if I were you, I would say yes.", "ejes": "Sinceramente, si yo fuera tú, diría que sí.", "cog": false, "truco": "Fórmula típica para dar consejos; se usa were con todas las personas." },
+        { "t": "retire", "es": "jubilarse", "pron": "ritáier", "ej": "I would retire early if I could afford it.", "ejes": "Me jubilaría temprano si pudiera permitírmelo.", "cog": false, "truco": "Retire = jubilarse, no «retirar»." }
+      ],
+      "frases": [
+        { "t": "If I won the lottery, I would quit my job.", "es": "Si me ganara la lotería, renunciaría a mi trabajo.", "pron": "if ai uan da lótari, ai uud cuit mai yob" },
+        { "t": "What would you do if you lost your phone?", "es": "¿Qué harías si perdieras tu celular?", "pron": "juat uud iu du if iu lost ior foun" },
+        { "t": "If I were you, I wouldn't accept that offer.", "es": "Si yo fuera tú, no aceptaría esa oferta.", "pron": "if ai uer iu, ai uódent acsépt dat ófer" },
+        { "t": "If we had a bigger house, we would invite everyone.", "es": "Si tuviéramos una casa más grande, invitaríamos a todos.", "pron": "if ui jad a biguer jaus, ui uud inváit évriuan" },
+        { "t": "She would be happier if she moved abroad.", "es": "Ella sería más feliz si se mudara al extranjero.", "pron": "shi uud bi jápier if shi muvd abrod" }
+      ],
+      "dialogo": {
+        "titulo": "Un sueño imposible",
+        "lineas": [
+          { "q": "A", "t": "Be honest, Luis. What would you do if you won the lottery tomorrow?", "es": "Sé sincero, Luis. ¿Qué harías si mañana te ganaras la lotería?" },
+          { "q": "B", "t": "First, I would quit my job. Then I would invest in a small restaurant.", "es": "Primero, renunciaría a mi trabajo. Luego invertiría en un restaurante pequeño." },
+          { "q": "A", "t": "Really? I would move abroad and never come back.", "es": "¿En serio? Yo me mudaría al extranjero y nunca regresaría." },
+          { "q": "B", "t": "That's tempting, but I would miss my family too much.", "es": "Es tentador, pero extrañaría demasiado a mi familia." },
+          { "q": "A", "t": "If I were you, I would bring them with me.", "es": "Si yo fuera tú, me los llevaría conmigo." },
+          { "q": "B", "t": "Good idea. Now, if only we could afford a ticket!", "es": "Buena idea. Ahora, si tan solo pudiéramos pagar un pasaje." }
+        ]
+      },
+      "nota": "Could y might también sirven en el resultado: If I had time, I could help you (podría ayudarte)."
+    },
+    {
+      "id": "en-b2-u2-l2",
+      "n": 2,
+      "titulo": "Tercer condicional: imaginar el pasado",
+      "objetivo": "Hablar de lo que habría pasado con if + past perfect y would have + participio.",
+      "intro": "Para imaginar un pasado distinto: If + had + participio, would have + participio. If I had left earlier, I wouldn't have missed the bus. Truco: ambos lados llevan «habría / hubiera» en español.",
+      "palabras": [
+        { "t": "miss out on", "es": "perderse (una oportunidad)", "pron": "mis áut on", "ej": "I didn't want to miss out on the chance.", "ejes": "No quería perderme la oportunidad.", "cog": false },
+        { "t": "take advantage of", "es": "aprovechar", "pron": "teik advántich ov", "ej": "You should take advantage of this offer.", "ejes": "Deberías aprovechar esta oferta.", "cog": false },
+        { "t": "turn down", "es": "rechazar", "pron": "tern daun", "ej": "I had to turn down the invitation.", "ejes": "Tuve que rechazar la invitación.", "cog": false },
+        { "t": "make a mistake", "es": "cometer un error", "pron": "meik a mistéik", "ej": "It's easy to make a mistake when you're tired.", "ejes": "Es fácil cometer un error cuando estás cansado.", "cog": false },
+        { "t": "oversleep", "es": "quedarse dormido", "pron": "ouversliip", "ej": "I didn't mean to oversleep this morning.", "ejes": "No quería quedarme dormido esta mañana.", "cog": false },
+        { "t": "come to think of it", "es": "ahora que lo pienso", "pron": "cam tu zink ov it", "ej": "Come to think of it, I saw him last night.", "ejes": "Ahora que lo pienso, lo vi anoche.", "cog": false },
+        { "t": "in hindsight", "es": "en retrospectiva", "pron": "in jáindsait", "ej": "In hindsight, I should have accepted.", "ejes": "En retrospectiva, debí haber aceptado.", "cog": false },
+        { "t": "narrowly", "es": "por poco", "pron": "nárouli", "ej": "We narrowly avoided an accident.", "ejes": "Evitamos un accidente por poco.", "cog": false }
+      ],
+      "frases": [
+        { "t": "If I had left earlier, I wouldn't have missed the bus.", "es": "Si hubiera salido antes, no habría perdido el bus.", "pron": "if ai jad left érlier, ai uúdent jav mist da bas" },
+        { "t": "If she had turned down the job, she would have regretted it.", "es": "Si hubiera rechazado el trabajo, se habría arrepentido.", "pron": "if shi jad ternd daun da yob, shi uud jav rigrétid it" },
+        { "t": "We would have won if we had played better.", "es": "Habríamos ganado si hubiéramos jugado mejor.", "pron": "ui uud jav uan if ui jad pleid béter" },
+        { "t": "What would you have done if you had been there?", "es": "¿Qué habrías hecho si hubieras estado allí?", "pron": "juat uud iu jav dan if iu jad bin der" },
+        { "t": "If he hadn't overslept, he wouldn't have been late.", "es": "Si no se hubiera quedado dormido, no habría llegado tarde.", "pron": "if ji jádent ouversléept, ji uúdent jav bin leit" }
+      ],
+      "dialogo": {
+        "titulo": "Un día de mala suerte",
+        "lineas": [
+          { "q": "A", "t": "I can't believe I missed the interview. If only I had set an alarm.", "es": "No puedo creer que me perdí la entrevista. Si tan solo hubiera puesto una alarma." },
+          { "q": "B", "t": "If you had overslept by ten more minutes, you would have missed the whole morning.", "es": "Si hubieras dormido diez minutos más, te habrías perdido toda la mañana." },
+          { "q": "A", "t": "Thanks, that really helps. In hindsight, I made a huge mistake.", "es": "Gracias, eso ayuda mucho. En retrospectiva, cometí un gran error." },
+          { "q": "B", "t": "Come to think of it, didn't you turn down another offer last week?", "es": "Ahora que lo pienso, ¿no rechazaste otra oferta la semana pasada?" },
+          { "q": "A", "t": "Yes, and if I had accepted it, I wouldn't be in this situation.", "es": "Sí, y si la hubiera aceptado, no estaría en esta situación." },
+          { "q": "B", "t": "Don't be so hard on yourself. You can still take advantage of the next chance.", "es": "No seas tan duro contigo. Todavía puedes aprovechar la próxima oportunidad." }
+        ]
+      },
+      "nota": "Would have se pronuncia como «uudav»: if you had told me, I would have helped."
+    },
+    {
+      "id": "en-b2-u2-l3",
+      "n": 3,
+      "titulo": "Condicionales mixtos",
+      "objetivo": "Combinar un pasado irreal con un resultado en el presente.",
+      "intro": "A veces algo del pasado cambia el presente: If I had studied medicine, I would be a doctor now. Truco: parte if con had + participio y resultado con would + verbo, y suele aparecer now o today.",
+      "palabras": [
+        { "t": "graduate", "es": "graduarse", "pron": "gráyueit", "ej": "I will graduate next year and work abroad.", "ejes": "Me graduaré el próximo año y trabajaré en el extranjero.", "cog": false },
+        { "t": "career", "es": "carrera profesional", "pron": "caríer", "ej": "She would have a better career now.", "ejes": "Ella tendría una mejor carrera ahora.", "cog": false, "truco": "Career es la trayectoria laboral; la carrera universitaria es degree." },
+        { "t": "degree", "es": "título universitario", "pron": "digrí", "ej": "If I had a degree, I would earn more.", "ejes": "Si tuviera un título, ganaría más.", "cog": false },
+        { "t": "salary", "es": "sueldo", "pron": "sálari", "ej": "If I had asked, my salary would be higher.", "ejes": "Si hubiera preguntado, mi sueldo sería más alto.", "cog": true },
+        { "t": "stay in touch", "es": "mantener el contacto", "pron": "stei in tach", "ej": "We should stay in touch after the trip.", "ejes": "Deberíamos mantener el contacto después del viaje.", "cog": false },
+        { "t": "lose touch", "es": "perder el contacto", "pron": "luz tach", "ej": "We didn't want to lose touch after college.", "ejes": "No queríamos perder el contacto después de la universidad.", "cog": false },
+        { "t": "make up your mind", "es": "decidirse", "pron": "meik ap ior maind", "ej": "You need to make up your mind soon.", "ejes": "Tienes que decidirte pronto.", "cog": false },
+        { "t": "take a chance", "es": "arriesgarse", "pron": "teik a chans", "ej": "Sometimes you have to take a chance.", "ejes": "A veces tienes que arriesgarte.", "cog": false }
+      ],
+      "frases": [
+        { "t": "If I had studied harder, I would have a better job now.", "es": "Si hubiera estudiado más, tendría un mejor trabajo ahora.", "pron": "if ai jad stádid járder, ai uud jav a béter yob nau" },
+        { "t": "If we hadn't lost touch, we would still be friends.", "es": "Si no hubiéramos perdido el contacto, todavía seríamos amigos.", "pron": "if ui jádent lost tach, ui uud stil bi frends" },
+        { "t": "She would be rich today if she had taken that chance.", "es": "Ella sería rica hoy si hubiera aprovechado esa oportunidad.", "pron": "shi uud bi rich tudéi if shi jad téiken dat chans" },
+        { "t": "If I were braver, I would have said something yesterday.", "es": "Si fuera más valiente, habría dicho algo ayer.", "pron": "if ai uer bréiver, ai uud jav sed sámzin iésterdei" },
+        { "t": "He wouldn't have this problem if he had made up his mind.", "es": "No tendría este problema si se hubiera decidido.", "pron": "ji uúdent jav dis próblem if ji jad meid ap jis maind" }
+      ],
+      "dialogo": {
+        "titulo": "Un reencuentro",
+        "lineas": [
+          { "q": "A", "t": "Daniel! It's been ten years. If we had stayed in touch, we would have met sooner.", "es": "¡Daniel! Han pasado diez años. Si hubiéramos mantenido el contacto, nos habríamos visto antes." },
+          { "q": "B", "t": "True. I wouldn't be in sales now if I had finished my degree.", "es": "Cierto. Yo no estaría en ventas ahora si hubiera terminado mi carrera." },
+          { "q": "A", "t": "Why didn't you graduate?", "es": "¿Por qué no te graduaste?" },
+          { "q": "B", "t": "I had to take a chance on the family business. I couldn't make up my mind.", "es": "Tuve que arriesgarme con el negocio familiar. No podía decidirme." },
+          { "q": "A", "t": "And what about your salary? Is it good?", "es": "¿Y tu sueldo? ¿Es bueno?" },
+          { "q": "B", "t": "It's fine, but I'd earn more today if I had gone to university.", "es": "Está bien, pero ganaría más hoy si hubiera ido a la universidad." }
+        ]
+      },
+      "nota": "El condicional mixto más común es if + past perfect, would + verbo (pasado causa, presente resultado)."
+    },
+    {
+      "id": "en-b2-u2-l4",
+      "n": 4,
+      "titulo": "Wish, if only y escenarios",
+      "objetivo": "Expresar deseos básicos con wish e if only y plantear escenarios con what if y suppose.",
+      "intro": "I wish + pasado habla de algo que desearías distinto ahora: I wish I had more time. If only es más enfático. Truco: wish + would se usa para quejas sobre otros: I wish you would listen.",
+      "palabras": [
+        { "t": "wish", "es": "desear, ojalá", "pron": "uish", "ej": "I wish I could speak better English.", "ejes": "Ojalá pudiera hablar mejor inglés.", "cog": false },
+        { "t": "if only", "es": "si tan solo", "pron": "if ónli", "ej": "If only I knew the answer.", "ejes": "Si tan solo supiera la respuesta.", "cog": false },
+        { "t": "what if", "es": "¿y si?", "pron": "juat if", "ej": "What if we missed the flight?", "ejes": "¿Y si perdiéramos el vuelo?", "cog": false },
+        { "t": "suppose", "es": "supón que, imagina que", "pron": "sapóus", "ej": "Suppose you could meet anyone, who would it be?", "ejes": "Imagina que pudieras conocer a cualquiera, ¿quién sería?", "cog": true },
+        { "t": "as long as", "es": "siempre que", "pron": "as long as", "ej": "You can borrow it as long as you return it.", "ejes": "Puedes pedirlo prestado siempre que lo devuelvas.", "cog": false },
+        { "t": "unless", "es": "a menos que", "pron": "anlés", "ej": "I won't go unless you come with me.", "ejes": "No iré a menos que vengas conmigo.", "cog": false },
+        { "t": "provided that", "es": "siempre y cuando", "pron": "provaidid dat", "ej": "We'll start provided that everyone is here.", "ejes": "Empezaremos siempre y cuando todos estén aquí.", "cog": false },
+        { "t": "imagine", "es": "imaginar", "pron": "imáyin", "ej": "Imagine living on a desert island.", "ejes": "Imagina vivir en una isla desierta.", "cog": true }
+      ],
+      "frases": [
+        { "t": "I wish I had more free time.", "es": "Ojalá tuviera más tiempo libre.", "pron": "ai uish ai jad mor fri taim" },
+        { "t": "If only I could play the guitar.", "es": "Si tan solo pudiera tocar la guitarra.", "pron": "if ónli ai cud plei da guitar" },
+        { "t": "What if the plan doesn't work?", "es": "¿Y si el plan no funciona?", "pron": "juat if da plan dásent uerk" },
+        { "t": "I wish it would stop raining.", "es": "Ojalá dejara de llover.", "pron": "ai uish it uud stop réinin" },
+        { "t": "We can go as long as it doesn't rain.", "es": "Podemos ir siempre que no llueva.", "pron": "ui can gou as long as it dásent rein" }
+      ],
+      "dialogo": {
+        "titulo": "Planes para el feriado",
+        "lineas": [
+          { "q": "A", "t": "I wish we had a longer weekend. I'm exhausted.", "es": "Ojalá tuviéramos un fin de semana más largo. Estoy agotada." },
+          { "q": "B", "t": "Imagine having a whole week off. We could drive to the coast.", "es": "Imagina tener una semana entera libre. Podríamos manejar a la costa." },
+          { "q": "A", "t": "What if it rains? We'd be stuck in the hotel all day.", "es": "¿Y si llueve? Nos quedaríamos encerrados en el hotel todo el día." },
+          { "q": "B", "t": "We'll go as long as the forecast is good. Unless you'd rather stay home.", "es": "Iremos siempre que el pronóstico sea bueno. A menos que prefieras quedarte en casa." },
+          { "q": "A", "t": "If only I could decide! Suppose we leave Friday night?", "es": "¡Si tan solo pudiera decidirme! ¿Y si salimos el viernes en la noche?" },
+          { "q": "B", "t": "Fine, provided that you pack light.", "es": "Bien, siempre y cuando lleves poco equipaje." }
+        ]
+      },
+      "nota": "Después de wish con I / he / she / it se acepta were: I wish I were taller. Wish + would no se usa con I (no se dice I wish I would)."
+    },
+    {
+      "id": "en-b2-u2-l5",
+      "n": 5,
+      "titulo": "Repaso: decisiones y consecuencias",
+      "objetivo": "Usar condicionales irreales y deseos en una conversación sobre decisiones.",
+      "intro": "Repasa segundo, tercero y mixto con vocabulario de decisiones. Truco: antes de hablar pregúntate si imaginas el presente (past + would) o el pasado (past perfect + would have).",
+      "palabras": [
+        { "t": "dilemma", "es": "dilema", "pron": "dilema", "ej": "I'm facing a real dilemma at work.", "ejes": "Estoy ante un verdadero dilema en el trabajo.", "cog": true },
+        { "t": "weigh up", "es": "sopesar", "pron": "uei ap", "ej": "You should weigh up the pros and cons.", "ejes": "Deberías sopesar los pros y los contras.", "cog": false },
+        { "t": "pros and cons", "es": "pros y contras", "pron": "prous and cons", "ej": "Let's list the pros and cons together.", "ejes": "Hagamos juntos la lista de pros y contras.", "cog": false },
+        { "t": "gamble", "es": "apostar, arriesgar", "pron": "gámbol", "ej": "It was a gamble, but it paid off.", "ejes": "Fue una apuesta, pero valió la pena.", "cog": false },
+        { "t": "pay off", "es": "dar fruto", "pron": "pei of", "ej": "Hard work will pay off in the end.", "ejes": "El trabajo duro dará frutos al final.", "cog": false },
+        { "t": "go for it", "es": "ir con todo, atreverse", "pron": "gou for it", "ej": "If you really want it, go for it.", "ejes": "Si de verdad lo quieres, atrévete.", "cog": false },
+        { "t": "second thoughts", "es": "dudas", "pron": "sécond zots", "ej": "I'm having second thoughts about the move.", "ejes": "Estoy teniendo dudas sobre la mudanza.", "cog": false },
+        { "t": "backfire", "es": "salir el tiro por la culata", "pron": "bákfaier", "ej": "His plan might backfire.", "ejes": "Su plan podría salirle mal.", "cog": false }
+      ],
+      "frases": [
+        { "t": "If I were in your position, I would weigh up the pros and cons.", "es": "Si yo estuviera en tu lugar, sopesaría los pros y los contras.", "pron": "if ai uer in ior posíshen, ai uud uei ap da prous and cons" },
+        { "t": "If I had known, I would have gone for it.", "es": "Si lo hubiera sabido, me habría atrevido.", "pron": "if ai jad noun, ai uud jav gon for it" },
+        { "t": "I wish I hadn't taken such a big gamble.", "es": "Ojalá no hubiera arriesgado tanto.", "pron": "ai uish ai jádent téiken sach a big gámbol" },
+        { "t": "If the plan backfired, we would lose everything.", "es": "Si el plan saliera mal, lo perderíamos todo.", "pron": "if da plan bakfaird, ui uud lus évrizing" },
+        { "t": "If you hadn't had second thoughts, you would be there now.", "es": "Si no hubieras dudado, estarías allí ahora.", "pron": "if iu jádent jad sécond zots, iu uud bi der nau" },
+        { "t": "What would you do if you were in my shoes?", "es": "¿Qué harías si estuvieras en mi lugar?", "pron": "juat uud iu du if iu uer in mai shus" }
+      ],
+      "dialogo": {
+        "titulo": "Un dilema profesional",
+        "lineas": [
+          { "q": "A", "t": "I have a dilemma. They offered me a job in Madrid, but I'm having second thoughts.", "es": "Tengo un dilema. Me ofrecieron un trabajo en Madrid, pero tengo dudas." },
+          { "q": "B", "t": "If I were you, I would weigh up the pros and cons before deciding.", "es": "Si yo fuera tú, sopesaría los pros y los contras antes de decidir." },
+          { "q": "A", "t": "I did. The salary is great, but I would miss my family.", "es": "Ya lo hice. El sueldo es excelente, pero extrañaría a mi familia." },
+          { "q": "B", "t": "Honestly, if I had had that chance at your age, I would have gone for it.", "es": "Sinceramente, si yo hubiera tenido esa oportunidad a tu edad, me habría atrevido." },
+          { "q": "A", "t": "What if it backfires?", "es": "¿Y si sale mal?" },
+          { "q": "B", "t": "Then you will have learned something. Hard work always pays off eventually.", "es": "Entonces habrás aprendido algo. El trabajo duro siempre da frutos con el tiempo." }
+        ]
+      },
+      "nota": "Cuando des un consejo, If I were you, I would... suena amable y natural; evita sonar autoritario con You must."
+    }
+  ]
+}

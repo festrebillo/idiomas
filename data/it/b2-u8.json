@@ -1,0 +1,223 @@
+{
+  "id": "it-b2-u8",
+  "idioma": "it",
+  "nivel": "B2",
+  "n": 8,
+  "titulo": "Textos largos y resúmenes",
+  "resumen": "Aprenderás a resumir y parafrasear textos, y a usar conectores de texto (pertanto, infatti, tuttavia) para que lo que escribes fluya con claridad.",
+  "puedo": [
+    "Resumir un texto con las expresiones: in sintesi, in breve, il punto centrale.",
+    "Parafrasear con «cioè», «ovvero», «in altre parole».",
+    "Usar conectores de texto: pertanto, infatti, dunque, tuttavia, inoltre.",
+    "Identificar la estructura de un texto: introduzione, paragrafo, conclusione.",
+    "Escribir un resumen breve de un texto de una página."
+  ],
+  "gramatica": {
+    "titulo": "Conectores de texto: ligar las ideas",
+    "texto": "En un texto largo, los conectores muestran cómo se relacionan las ideas.\nAdición: inoltre, per di più, anche.\nCausa: infatti (en efecto, de hecho), poiché, dato che.\nConsecuencia: dunque, pertanto, quindi, perciò.\nContraste: tuttavia, però, ma, eppure, al contrario.\nOrden: in primo luogo, poi, infine, dopodiché.\nEjemplo: ad esempio, per esempio, come.\nTruco: «pertanto» y «dunque» son más formales que «quindi» y «perciò»; «infatti» confirma lo dicho antes (no se traduce «porque»).\nAl resumir se usa la 3.ª persona y el presente: L'autore sostiene che...; il testo spiega come...",
+    "tabla": [
+      ["Era stanco, quindi è andato a dormire.", "Estaba cansado, así que se fue a dormir.", "éra stánco cuíndi e andáto a dormíre"],
+      ["Aveva ragione: infatti, è arrivato primo.", "Tenía razón: de hecho, llegó primero.", "avéva radsióne infátti e arriváto prímo"],
+      ["Il piano è buono; tuttavia, costa troppo.", "El plan es bueno; sin embargo, cuesta demasiado.", "il plán e buóno tuttavía costa tróppo"],
+      ["Il costo è alto, pertanto rinunciamo.", "El costo es alto; por lo tanto, renunciamos.", "il cósto e álto pertánto rinunchiámo"],
+      ["Ci sono molti vantaggi, ad esempio il risparmio.", "Hay muchas ventajas, por ejemplo el ahorro.", "chi sóno mólti vantáddyi ad esémpio il risparmio"]
+    ],
+    "errores": [
+      "«Infatti» no significa «porque»: «Ha ragione: infatti l'ha dimostrato» (de hecho, lo demostró). Para causa usa «perché» o «poiché».",
+      "«Pertanto» va al inicio de la oración o tras una coma, no entre sujeto y verbo: «Pertanto, restiamo».",
+      "No uses «anche» como «además» al inicio: «Inoltre, ...» es más natural que «Anche, ...»."
+    ]
+  },
+  "practica": [
+    "Lee un artículo de unas 300 palabras y escribe un resumen de 5 líneas con «in sintesi» y «l'autore sostiene che» (12 minutos).",
+    "Toma un párrafo de un periódico y parafraséalo dos veces, usando «cioè» y «in altre parole» (8 minutos).",
+    "Escribe un texto de 8 líneas sobre tu día usando al menos seis conectores diferentes (10 minutos).",
+    "Subraya los conectores de un texto largo y clasifícalos en adición, causa, consecuencia y contraste (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b2-u8-l1",
+      "n": 1,
+      "titulo": "Resumir un texto",
+      "objetivo": "Resumir un texto identificando la idea principal y usando las expresiones adecuadas.",
+      "intro": "Resumir es decir lo esencial en pocas palabras: idea principal, argumentos clave y conclusión. Truco: empieza con «Il testo parla di...» y termina con «In sintesi...».",
+      "palabras": [
+        { "t": "riassumere", "es": "resumir", "pron": "riassumére", "ej": "Prova a riassumere il testo in tre righe.", "ejes": "Intenta resumir el texto en tres líneas.", "cog": false },
+        { "t": "in sintesi", "es": "en síntesis", "pron": "in síntesi", "ej": "In sintesi, il progetto è fallito per mancanza di fondi.", "ejes": "En síntesis, el proyecto fracasó por falta de fondos.", "cog": true },
+        { "t": "in breve", "es": "en breve, en pocas palabras", "pron": "in bréve", "ej": "In breve, non c'è accordo.", "ejes": "En pocas palabras, no hay acuerdo.", "cog": false },
+        { "t": "il punto centrale", "es": "el punto central", "pron": "il púnto chentrále", "ej": "Il punto centrale è la sicurezza.", "ejes": "El punto central es la seguridad.", "cog": true },
+        { "t": "l'idea principale", "es": "la idea principal", "pron": "lidéa principále", "ej": "L'idea principale è molto semplice.", "ejes": "La idea principal es muy sencilla.", "cog": true },
+        { "t": "il testo parla di", "es": "el texto trata de", "pron": "il tésto párla di", "ej": "Il testo parla di cambiamenti climatici.", "ejes": "El texto trata de cambios climáticos.", "cog": false },
+        { "t": "l'autore sostiene che", "es": "el autor sostiene que", "pron": "lautóre sostiéne ke", "ej": "L'autore sostiene che la lettura migliora la memoria.", "ejes": "El autor sostiene que la lectura mejora la memoria.", "cog": false },
+        { "t": "in poche parole", "es": "en pocas palabras", "pron": "in póke paróle", "ej": "In poche parole, abbiamo perso la gara.", "ejes": "En pocas palabras, perdimos la carrera.", "cog": false },
+        { "t": "sintetizzare", "es": "sintetizar", "pron": "sintetiddsáre", "ej": "Devi sintetizzare le informazioni principali.", "ejes": "Debes sintetizar la información principal.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Il testo parla di come cambiano le abitudini dei giovani.", "es": "El texto trata de cómo cambian los hábitos de los jóvenes.", "pron": "il tésto párla di cóme cámbiano le abitúdini dei yóvani" },
+        { "t": "L'autore sostiene che il lavoro flessibile aumenta la produttività.", "es": "El autor sostiene que el trabajo flexible aumenta la productividad.", "pron": "lautóre sostiéne ke il lavóro flessíbile aumenta la produttivitá" },
+        { "t": "In sintesi, il problema è la mancanza di tempo.", "es": "En síntesis, el problema es la falta de tiempo.", "pron": "in síntesi il probléma e la mancánsa di témpo" },
+        { "t": "Riassumere significa dire l'essenziale in poche righe.", "es": "Resumir significa decir lo esencial en pocas líneas.", "pron": "riassumére significa díre lessensiále in póke ríghe" },
+        { "t": "In poche parole, la proposta non convince nessuno.", "es": "En pocas palabras, la propuesta no convence a nadie.", "pron": "in póke paróle la propósta non convínche nesúno" }
+      ],
+      "dialogo": {
+        "titulo": "Un riassunto per il capo",
+        "lineas": [
+          { "q": "A", "t": "Hai letto il report di trenta pagine?", "es": "¿Leíste el informe de treinta páginas?" },
+          { "q": "B", "t": "Sì. In sintesi, le vendite sono calate del dieci per cento.", "es": "Sí. En síntesi, las ventas bajaron un diez por ciento." },
+          { "q": "A", "t": "E qual è il punto centrale?", "es": "¿Y cuál es el punto central?" },
+          { "q": "B", "t": "L'autore sostiene che il problema è la concorrenza online.", "es": "El autor sostiene que el problema es la competencia en línea." },
+          { "q": "A", "t": "Puoi riassumere tutto in tre righe per la riunione?", "es": "¿Puedes resumir todo en tres líneas para la reunión?" },
+          { "q": "B", "t": "Certo: il testo parla di calo, cause e possibili soluzioni.", "es": "Claro: el texto trata de la caída, sus causas y posibles soluciones." }
+        ]
+      },
+      "nota": "Para resumir hablado en una reunión: «in due parole», «per farla breve» (para abreviar). Escrito: «in sintesi», «in definitiva»."
+    },
+    {
+      "id": "it-b2-u8-l2",
+      "n": 2,
+      "titulo": "Parafrasear con otras palabras",
+      "objetivo": "Reformular una idea con otras palabras usando conectores de aclaración.",
+      "intro": "Parafrasear es decir lo mismo con otras palabras, sin copiar. Truco: usa «cioè», «ovvero» o «in altre parole» para aclarar y cambia vocabulario y estructura.",
+      "palabras": [
+        { "t": "cioè", "es": "es decir, o sea", "pron": "chioé", "ej": "È un bilingue, cioè parla due lingue.", "ejes": "Es bilingüe, es decir, habla dos lenguas.", "cog": false },
+        { "t": "ovvero", "es": "es decir, o bien", "pron": "ovvéro", "ej": "Il ristorante è chiuso, ovvero non serve più clienti.", "ejes": "El restaurante está cerrado, es decir, ya no atiende clientes.", "cog": false },
+        { "t": "in altre parole", "es": "en otras palabras", "pron": "in áltre paróle", "ej": "In altre parole, non siamo pronti.", "ejes": "En otras palabras, no estamos listos.", "cog": false },
+        { "t": "vale a dire", "es": "es decir, a saber", "pron": "vále a díre", "ej": "Ci vediamo domani, vale a dire martedì.", "ejes": "Nos vemos mañana, es decir, el martes.", "cog": false },
+        { "t": "parafrasare", "es": "parafrasear", "pron": "parafrasáre", "ej": "Devi parafrasare il testo, non copiarlo.", "ejes": "Debes parafrasear el texto, no copiarlo.", "cog": true },
+        { "t": "esprimere", "es": "expresar", "pron": "esprímere", "ej": "È difficile esprimere questo concetto.", "ejes": "Es difícil expresar este concepto.", "cog": true },
+        { "t": "il significato", "es": "el significado", "pron": "il sinificáto", "ej": "Qual è il significato di questa parola?", "ejes": "¿Cuál es el significado de esta palabra?", "cog": true },
+        { "t": "ripetere", "es": "repetir", "pron": "ripétere", "ej": "Potresti ripetere con altre parole?", "ejes": "¿Podrías repetir con otras palabras?", "cog": true },
+        { "t": "per esempio", "es": "por ejemplo", "pron": "per esémpio", "ej": "Per esempio, puoi usare un sinonimo.", "ejes": "Por ejemplo, puedes usar un sinónimo.", "cog": true }
+      ],
+      "frases": [
+        { "t": "È un bilingue, cioè parla due lingue fluentemente.", "es": "Es bilingüe, es decir, habla dos lenguas con fluidez.", "pron": "e un bilíngue chioé párla dúe língue fluenteménte" },
+        { "t": "In altre parole, il progetto è stato rimandato.", "es": "En otras palabras, el proyecto fue pospuesto.", "pron": "in áltre paróle il progétto e státo rimandáto" },
+        { "t": "Ci vediamo il giorno dopo, vale a dire giovedì.", "es": "Nos vemos al día siguiente, es decir, el jueves.", "pron": "chi vediámo il yórno dópo vále a díre yovedí" },
+        { "t": "Devi parafrasare il testo con parole tue.", "es": "Debes parafrasear el texto con tus propias palabras.", "pron": "dévi parafrasáre il tésto con paróle túe" },
+        { "t": "Qual è il significato di questa espressione?", "es": "¿Cuál es el significado de esta expresión?", "pron": "cuál e il sinificáto di cuésta espresióne" }
+      ],
+      "dialogo": {
+        "titulo": "Dire la stessa cosa",
+        "lineas": [
+          { "q": "A", "t": "Non ho capito: cosa significa «rinviare»?", "es": "No entendí: ¿qué significa «rinviare»?" },
+          { "q": "B", "t": "Vuol dire posticipare, cioè fare più tardi.", "es": "Quiere decir posponer, es decir, hacer más tarde." },
+          { "q": "A", "t": "Quindi «la riunione è rinviata» significa che si fa un altro giorno?", "es": "¿Entonces «la riunione è rinviata» significa que se hace otro día?" },
+          { "q": "B", "t": "Esatto: in altre parole, non si fa oggi.", "es": "Exacto: en otras palabras, no se hace hoy." },
+          { "q": "A", "t": "Potresti parafrasare anche «annullata»?", "es": "¿Podrías parafrasear también «annullata»?" },
+          { "q": "B", "t": "Annullata, ovvero cancellata: non si fa più.", "es": "«Annullata», es decir, cancelada: ya no se hace." }
+        ]
+      },
+      "nota": "Para parafrasear bien: cambia el orden de la frase, usa sinónimos y pasa de activa a pasiva o al revés. No copies más de tres palabras seguidas del original."
+    },
+    {
+      "id": "it-b2-u8-l3",
+      "n": 3,
+      "titulo": "Conectores de texto",
+      "objetivo": "Usar conectores de causa, consecuencia, contraste y adición con precisión.",
+      "intro": "Los conectores hacen que un texto fluya. Truco: elige uno por relación: causa (infatti), consecuencia (pertanto), contraste (tuttavia), adición (inoltre).",
+      "palabras": [
+        { "t": "pertanto", "es": "por lo tanto", "pron": "pertánto", "ej": "Il costo è alto, pertanto rinunciamo.", "ejes": "El costo es alto; por lo tanto, renunciamos.", "cog": false },
+        { "t": "dunque", "es": "así que, por tanto", "pron": "dúnque", "ej": "Dunque, cosa facciamo adesso?", "ejes": "Entonces, ¿qué hacemos ahora?", "cog": false },
+        { "t": "infatti", "es": "en efecto, de hecho", "pron": "infátti", "ej": "Aveva ragione: infatti il risultato è stato ottimo.", "ejes": "Tenía razón: de hecho, el resultado fue óptimo.", "cog": false },
+        { "t": "inoltre", "es": "además", "pron": "inóltre", "ej": "Inoltre, il prezzo è più basso.", "ejes": "Además, el precio es más bajo.", "cog": false },
+        { "t": "tuttavia", "es": "sin embargo", "pron": "tuttavía", "ej": "È difficile; tuttavia, ci proveremo.", "ejes": "Es difícil; sin embargo, lo intentaremos.", "cog": false },
+        { "t": "perciò", "es": "por eso", "pron": "perchió", "ej": "Ero stanco, perciò sono tornato a casa.", "ejes": "Estaba cansado, por eso volví a casa.", "cog": false },
+        { "t": "dopodiché", "es": "después de lo cual", "pron": "dopodiké", "ej": "Prepara la base, dopodiché aggiungi il condimento.", "ejes": "Prepara la base, después de lo cual agrega el aderezo.", "cog": false },
+        { "t": "ad esempio", "es": "por ejemplo", "pron": "ad esémpio", "ej": "Ci sono molti vantaggi, ad esempio il risparmio.", "ejes": "Hay muchas ventajas, por ejemplo el ahorro.", "cog": false },
+        { "t": "ciononostante", "es": "no obstante", "pron": "chiononostánte", "ej": "Ha piovuto; ciononostante siamo usciti.", "ejes": "Llovió; no obstante, salimos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il costo è alto, pertanto abbiamo deciso di aspettare.", "es": "El costo es alto; por lo tanto, decidimos esperar.", "pron": "il cósto e álto pertánto abbiámo dechíso di aspettáre" },
+        { "t": "Ha lavorato molto: infatti, il progetto è finito in anticipo.", "es": "Trabajó mucho: de hecho, el proyecto terminó antes de tiempo.", "pron": "a lavoráto mólto infátti il progétto e finíto in anticípo" },
+        { "t": "Il piano è buono; tuttavia, costa troppo.", "es": "El plan es bueno; sin embargo, cuesta demasiado.", "pron": "il plán e buóno tuttavía costa tróppo" },
+        { "t": "Prepara la base, dopodiché aggiungi gli ingredienti.", "es": "Prepara la base, después de lo cual agrega los ingredientes.", "pron": "prepára la báse dopodiké aggiúngi gli ingredienti" },
+        { "t": "Ci sono molti vantaggi, ad esempio il risparmio di tempo.", "es": "Hay muchas ventajas, por ejemplo el ahorro de tiempo.", "pron": "chi sóno mólti vantáddyi ad esémpio il risparmio di témpo" }
+      ],
+      "dialogo": {
+        "titulo": "Scrivere una relazione",
+        "lineas": [
+          { "q": "A", "t": "Come posso collegare meglio le idee nella relazione?", "es": "¿Cómo puedo conectar mejor las ideas en el informe?" },
+          { "q": "B", "t": "Usa «infatti» per confermare e «pertanto» per concludere.", "es": "Usa «infatti» para confirmar y «pertanto» para concluir." },
+          { "q": "A", "t": "E per contrapporre due punti?", "es": "¿Y para contraponer dos puntos?" },
+          { "q": "B", "t": "«Tuttavia» o «ciononostante»; per aggiungere, «inoltre».", "es": "«Tuttavia» o «ciononostante»; para añadir, «inoltre»." },
+          { "q": "A", "t": "Dunque, un testo ben scritto ha sempre un filo logico.", "es": "Entonces, un texto bien escrito siempre tiene un hilo lógico." },
+          { "q": "B", "t": "Esatto. Perciò rileggi sempre prima di consegnare.", "es": "Exacto. Por eso relee siempre antes de entregar." }
+        ]
+      },
+      "nota": "Evita repetir el mismo conector: alterna «quindi», «perciò», «pertanto» y «dunque». Los conectores demasiado formales (ciononostante) son más para texto escrito."
+    },
+    {
+      "id": "it-b2-u8-l4",
+      "n": 4,
+      "titulo": "Estructura del texto",
+      "objetivo": "Identificar y nombrar las partes de un texto largo.",
+      "intro": "Un texto largo tiene partes claras: introduzione, sviluppo y conclusione. Truco: cada paragrafo desarrolla una sola idea; si ves dos ideas, necesitas dos párrafos.",
+      "palabras": [
+        { "t": "l'introduzione", "es": "la introducción", "pron": "lintroduzióne", "ej": "L'introduzione presenta il tema.", "ejes": "La introducción presenta el tema.", "cog": true },
+        { "t": "il paragrafo", "es": "el párrafo", "pron": "il paragráfo", "ej": "Il paragrafo ha una sola idea.", "ejes": "El párrafo tiene una sola idea.", "cog": true },
+        { "t": "la conclusione", "es": "la conclusión", "pron": "la conclusióne", "ej": "La conclusione riassume i punti principali.", "ejes": "La conclusión resume los puntos principales.", "cog": true },
+        { "t": "il titolo", "es": "el título", "pron": "il títolo", "ej": "Il titolo è molto efficace.", "ejes": "El título es muy eficaz.", "cog": true },
+        { "t": "il capoverso", "es": "el párrafo (apartado)", "pron": "il capovérso", "ej": "Rileggi il capoverso: c'è un errore.", "ejes": "Relee el párrafo: hay un error.", "cog": false },
+        { "t": "citare", "es": "citar", "pron": "chitáre", "ej": "Puoi citare l'autore, ma indica la fonte.", "ejes": "Puedes citar al autor, pero indica la fuente.", "cog": true },
+        { "t": "la fonte", "es": "la fuente", "pron": "la fónte", "ej": "Controlla sempre la fonte.", "ejes": "Revisa siempre la fuente.", "cog": false },
+        { "t": "lo sviluppo", "es": "el desarrollo", "pron": "lo svilúppo", "ej": "Lo sviluppo del testo è chiaro.", "ejes": "El desarrollo del texto es claro.", "cog": false },
+        { "t": "la sintesi", "es": "la síntesis", "pron": "la síntesi", "ej": "La sintesi finale è molto utile.", "ejes": "La síntesis final es muy útil.", "cog": true }
+      ],
+      "frases": [
+        { "t": "L'introduzione presenta il tema e l'obiettivo del testo.", "es": "La introducción presenta el tema y el objetivo del texto.", "pron": "lintroduzióne presénta il téma e lobiettívo del tésto" },
+        { "t": "Ogni paragrafo sviluppa una sola idea.", "es": "Cada párrafo desarrolla una sola idea.", "pron": "ógni paragráfo sviluppa úna sóla idéa" },
+        { "t": "La conclusione riassume i punti principali.", "es": "La conclusión resume los puntos principales.", "pron": "la conclusióne riassúme i púnti principáli" },
+        { "t": "Quando citi un autore, devi indicare la fonte.", "es": "Cuando citas a un autor, debes indicar la fuente.", "pron": "cuándo chíti un autóre dévi indicáre la fónte" },
+        { "t": "Il titolo deve essere breve ed efficace.", "es": "El título debe ser breve y eficaz.", "pron": "il títolo déve ésere bréve ed efficáche" }
+      ],
+      "dialogo": {
+        "titulo": "Correggere una tesi",
+        "lineas": [
+          { "q": "A", "t": "Ho finito la tesi, ma non so se la struttura è chiara.", "es": "Terminé la tesis, pero no sé si la estructura es clara." },
+          { "q": "B", "t": "Vediamo: l'introduzione presenta il tema?", "es": "Veamos: ¿la introducción presenta el tema?" },
+          { "q": "A", "t": "Sì, e ogni paragrafo sviluppa un solo argomento.", "es": "Sí, y cada párrafo desarrolla un solo argumento." },
+          { "q": "B", "t": "Bene. E le citazioni? Hai indicato la fonte?", "es": "Bien. ¿Y las citas? ¿Indicaste la fuente?" },
+          { "q": "A", "t": "Sì, ma devo rivedere la conclusione.", "es": "Sí, pero debo revisar la conclusión." },
+          { "q": "B", "t": "Aggiungi una breve sintesi finale e il titolo sarà perfetto.", "es": "Agrega una breve síntesis final y el título será perfecto." }
+        ]
+      },
+      "nota": "En italiano la cita textual va entre «virgolette» (comillas); la fuente se indica al final o en nota."
+    },
+    {
+      "id": "it-b2-u8-l5",
+      "n": 5,
+      "titulo": "Repaso: escribir un resumen",
+      "objetivo": "Combinar resumen, paráfrasis y conectores para escribir un resumen completo de un texto.",
+      "intro": "Repasa escribiendo un resumen en cinco pasos: tema, idea principal, argumentos, conclusión, valoración. Truco: usa un conector por paso para que el hilo se vea.",
+      "palabras": [
+        { "t": "il tema", "es": "el tema", "pron": "il téma", "ej": "Il tema del testo è l'ambiente.", "ejes": "El tema del texto es el medio ambiente.", "cog": true },
+        { "t": "la questione", "es": "la cuestión", "pron": "la cuestióne", "ej": "La questione è molto complessa.", "ejes": "La cuestión es muy compleja.", "cog": true },
+        { "t": "l'obiettivo", "es": "el objetivo", "pron": "lobiettívo", "ej": "L'obiettivo è convincere il lettore.", "ejes": "El objetivo es convencer al lector.", "cog": false },
+        { "t": "emerge che", "es": "se desprende que", "pron": "emérye ke", "ej": "Dall'analisi emerge che il problema è la mancanza di fondi.", "ejes": "Del análisis se desprende que el problema es la falta de fondos.", "cog": false },
+        { "t": "si evince che", "es": "se deduce que", "pron": "si evínche ke", "ej": "Dai dati si evince che le vendite calano.", "ejes": "De los datos se deduce que las ventas bajan.", "cog": false },
+        { "t": "in definitiva", "es": "en definitiva", "pron": "in definitíva", "ej": "In definitiva, il progetto funziona.", "ejes": "En definitiva, el proyecto funciona.", "cog": false },
+        { "t": "dal testo emerge", "es": "del texto se desprende", "pron": "dal tésto emérye", "ej": "Dal testo emerge una visione molto critica.", "ejes": "Del texto se desprende una visión muy crítica.", "cog": false },
+        { "t": "ricapitolare", "es": "recapitular", "pron": "ricapitoláre", "ej": "Vorrei ricapitolare i punti principali.", "ejes": "Quisiera recapitular los puntos principales.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il testo affronta il tema dei cambiamenti climatici.", "es": "El texto aborda el tema de los cambios climáticos.", "pron": "il tésto affrónta il téma dei cambiaménti climátichi" },
+        { "t": "Dall'analisi emerge che il problema è la mancanza di fondi.", "es": "Del análisis se desprende que el problema es la falta de fondos.", "pron": "dallanálisi emérye ke il probléma e la mancánsa di fóndi" },
+        { "t": "L'autore porta degli esempi; inoltre, cita diverse fonti.", "es": "El autor aporta ejemplos; además, cita varias fuentes.", "pron": "lautóre pórta déñi esémpi inóltre chíta divérse fónti" },
+        { "t": "Tuttavia, la conclusione non è del tutto convincente.", "es": "Sin embargo, la conclusión no es del todo convincente.", "pron": "tuttavía la conclusióne non e del túto convinchénte" },
+        { "t": "In definitiva, il testo è chiaro e ben strutturato.", "es": "En definitiva, el texto es claro y está bien estructurado.", "pron": "in definitíva il tésto e quiáro e ben struttúrato" }
+      ],
+      "dialogo": {
+        "titulo": "Il riassunto finale",
+        "lineas": [
+          { "q": "A", "t": "Allora, com'è il tuo riassunto dell'articolo?", "es": "Entonces, ¿cómo es tu resumen del artículo?" },
+          { "q": "B", "t": "Il testo affronta il tema del lavoro da casa; dall'analisi emerge che aumenta la produttività.", "es": "El texto aborda el tema del trabajo desde casa; del análisis se desprende que aumenta la productividad." },
+          { "q": "A", "t": "E gli svantaggi? L'autore li cita?", "es": "¿Y las desventajas? ¿El autor las cita?" },
+          { "q": "B", "t": "Sì, inoltre cita tre fonti. Tuttavia, la conclusione è debole.", "es": "Sí, además cita tres fuentes. Sin embargo, la conclusión es débil." },
+          { "q": "A", "t": "In definitiva, lo consiglieresti?", "es": "En definitiva, ¿lo recomendarías?" },
+          { "q": "B", "t": "Sì, con riserva: perciò vorrei ricapitolare i punti principali nella riunione.", "es": "Sí, con reservas: por eso quisiera recapitular los puntos principales en la reunión." }
+        ]
+      },
+      "nota": "Un resumen bien hecho no incluye tu opinión; si quieres darla, sepárala con «a mio avviso» al final."
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": "en-b2-u5",
+  "idioma": "en",
+  "nivel": "B2",
+  "n": 5,
+  "titulo": "Estilo indirecto completo",
+  "resumen": "Aprenderás a contar lo que alguien dijo, preguntó u ordenó, con los cambios de tiempo necesarios y una buena variedad de verbos de reporte como admit, deny, suggest o warn.",
+  "puedo": [
+    "Reportar afirmaciones con los cambios de tiempo (backshift).",
+    "Reportar preguntas con asked if / asked where.",
+    "Reportar órdenes, pedidos y consejos con told / asked / advised + to.",
+    "Usar verbos de reporte: admit, deny, suggest, promise, warn, insist.",
+    "Resumir una conversación o una reunión con naturalidad."
+  ],
+  "gramatica": {
+    "titulo": "Estilo indirecto: retroceder un tiempo",
+    "texto": "Para contar lo que alguien dijo, normalmente el verbo retrocede un tiempo: presente pasa a pasado, pasado pasa a past perfect, will pasa a would, can pasa a could.\nDirecto: \"I am tired,\" she said. Indirecto: She said (that) she was tired.\nTambién cambian pronombres y expresiones de tiempo: today pasa a that day, tomorrow pasa a the next day, here pasa a there.\nPreguntas: sin inversión y con if / whether (He asked if I was ready) o con la palabra interrogativa (She asked where I lived).\nÓrdenes y consejos: told / asked / advised + persona + to + verbo.\nTruco: si lo que dijeron sigue siendo verdad o se reporta de inmediato, puedes no retroceder el tiempo.",
+    "tabla": [
+      ["\"I am tired.\" / She said she was tired.", "Dijo que estaba cansada.", "ai am táierd / shi sed shi uas táierd"],
+      ["\"I will call you.\" / He said he would call me.", "Dijo que me llamaría.", "ai uil col iu / ji sed ji uud col mi"],
+      ["\"I have finished.\" / She said she had finished.", "Dijo que había terminado.", "ai jav fínisht / shi sed shi jad fínisht"],
+      ["\"Where do you live?\" / He asked where I lived.", "Preguntó dónde vivía yo.", "juer du iu liv / ji askt juer ai livd"],
+      ["\"Are you ready?\" / She asked if I was ready.", "Preguntó si yo estaba listo.", "ar iu rédi / shi askt if ai uas rédi"],
+      ["\"Close the door.\" / He told me to close the door.", "Me dijo que cerrara la puerta.", "clous da dor / ji tould mi tu clous da dor"]
+    ],
+    "errores": [
+      "No uses el orden de pregunta: es She asked where I lived, no «She asked where did I live».",
+      "No digas «He told that...»: es He told me that... o He said that...",
+      "No olvides cambiar pronombres y tiempo: es She said she was tired, no «She said I am tired»."
+    ]
+  },
+  "practica": [
+    "Escucha un diálogo en inglés de 1 minuto y repórtalo en voz alta con He said that... y She asked if... (10 minutos).",
+    "Escribe 8 oraciones en estilo indirecto convirtiendo frases de tu familia o amigos (10 minutos).",
+    "Cuenta a un amigo lo que te dijeron en tu última reunión, usando 4 verbos de reporte distintos (8 minutos).",
+    "Lee una entrevista corta en inglés y subraya 5 verbos de reporte (said, claimed, admitted...) (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b2-u5-l1",
+      "n": 1,
+      "titulo": "Reportar afirmaciones",
+      "objetivo": "Contar lo que alguien dijo retrocediendo el tiempo del verbo.",
+      "intro": "Said that + oración con el verbo un tiempo atrás: \"I'm busy\" pasa a She said she was busy. Truco: si cuentas algo que acaba de decirse, no hace falta retroceder: She says she's busy.",
+      "palabras": [
+        { "t": "mention", "es": "mencionar", "pron": "ménshen", "ej": "He didn't mention the price.", "ejes": "No mencionó el precio.", "cog": true },
+        { "t": "explain", "es": "explicar", "pron": "iksplein", "ej": "Let me explain what happened.", "ejes": "Déjame explicarte lo que pasó.", "cog": true },
+        { "t": "announce", "es": "anunciar", "pron": "anáuns", "ej": "They will announce the winner tomorrow.", "ejes": "Anunciarán al ganador mañana.", "cog": true },
+        { "t": "state", "es": "declarar, afirmar", "pron": "steit", "ej": "The law will state that helmets are required.", "ejes": "La ley establecerá que los cascos son obligatorios.", "cog": false },
+        { "t": "point out", "es": "señalar, hacer notar", "pron": "point áut", "ej": "I'd like to point out one problem.", "ejes": "Quisiera señalar un problema.", "cog": false },
+        { "t": "reply", "es": "responder", "pron": "ripláis", "ej": "She didn't reply to my message.", "ejes": "No respondió a mi mensaje.", "cog": false },
+        { "t": "add", "es": "añadir", "pron": "ad", "ej": "I'd like to add something important.", "ejes": "Quisiera añadir algo importante.", "cog": false },
+        { "t": "the following day", "es": "al día siguiente", "pron": "da fólouin dei", "ej": "He called back the following day.", "ejes": "Volvió a llamar al día siguiente.", "cog": false }
+      ],
+      "frases": [
+        { "t": "She said that she was tired.", "es": "Dijo que estaba cansada.", "pron": "shi sed dat shi uas táierd" },
+        { "t": "He told me he would call me the following day.", "es": "Me dijo que me llamaría al día siguiente.", "pron": "ji tould mi ji uud col mi da fólouin dei" },
+        { "t": "They said they had already finished.", "es": "Dijeron que ya habían terminado.", "pron": "dei sed dei jad olrédi fínisht" },
+        { "t": "The manager announced that the office would close early.", "es": "El gerente anunció que la oficina cerraría temprano.", "pron": "da mánayer anáunst dat di ófis uud clous érli" },
+        { "t": "She pointed out that we had made a mistake.", "es": "Señaló que habíamos cometido un error.", "pron": "shi póintid áut dat ui jad meid a mistéik" }
+      ],
+      "dialogo": {
+        "titulo": "Contando lo que dijo el jefe",
+        "lineas": [
+          { "q": "A", "t": "What did the boss say in the meeting?", "es": "¿Qué dijo el jefe en la reunión?" },
+          { "q": "B", "t": "He said that sales had dropped and that we had to cut costs.", "es": "Dijo que las ventas habían bajado y que teníamos que reducir costos." },
+          { "q": "A", "t": "Did he mention anything about bonuses?", "es": "¿Mencionó algo sobre los bonos?" },
+          { "q": "B", "t": "He explained that there wouldn't be any this year.", "es": "Explicó que este año no habría ninguno." },
+          { "q": "A", "t": "That's disappointing. Did anyone reply?", "es": "Qué decepcionante. ¿Alguien respondió?" },
+          { "q": "B", "t": "Carlos pointed out that we had met our targets, but the boss said it wasn't enough.", "es": "Carlos señaló que habíamos cumplido las metas, pero el jefe dijo que no era suficiente." }
+        ]
+      },
+      "nota": "Say no lleva persona (She said that...); tell sí (She told me that...). Usa that si quieres ser más formal; en conversación se omite."
+    },
+    {
+      "id": "en-b2-u5-l2",
+      "n": 2,
+      "titulo": "Reportar preguntas",
+      "objetivo": "Contar lo que alguien preguntó con if, whether y palabras interrogativas sin inversión.",
+      "intro": "Las preguntas en estilo indirecto pierden la inversión: \"Where do you live?\" pasa a She asked where I lived. Para preguntas de sí o no usa if o whether. Truco: no uses do / does / did.",
+      "palabras": [
+        { "t": "whether", "es": "si (duda)", "pron": "juéder", "ej": "I wonder whether he will come.", "ejes": "Me pregunto si vendrá.", "cog": false },
+        { "t": "wonder", "es": "preguntarse", "pron": "uánder", "ej": "I often wonder what she is doing.", "ejes": "A menudo me pregunto qué estará haciendo.", "cog": false },
+        { "t": "inquire", "es": "preguntar, consultar", "pron": "incuáier", "ej": "I would like to inquire about the course.", "ejes": "Quisiera consultar sobre el curso.", "cog": false },
+        { "t": "want to know", "es": "querer saber", "pron": "uont tu nou", "ej": "I want to know what happened.", "ejes": "Quiero saber qué pasó.", "cog": false },
+        { "t": "ask around", "es": "preguntar por ahí", "pron": "ask aráund", "ej": "I will ask around in the office.", "ejes": "Preguntaré por ahí en la oficina.", "cog": false },
+        { "t": "curious", "es": "curioso", "pron": "quiúrius", "ej": "I'm curious about your plans.", "ejes": "Siento curiosidad por tus planes.", "cog": true },
+        { "t": "refund", "es": "reembolso", "pron": "rífand", "ej": "I'd like a refund for this ticket.", "ejes": "Quisiera un reembolso por este boleto.", "cog": false },
+        { "t": "get back to", "es": "responder más tarde a", "pron": "guet bac tu", "ej": "I'll get back to you tomorrow.", "ejes": "Te respondo mañana.", "cog": false }
+      ],
+      "frases": [
+        { "t": "She asked me where I lived.", "es": "Me preguntó dónde vivía.", "pron": "shi askt mi juer ai livd" },
+        { "t": "He asked if I had finished the report.", "es": "Preguntó si yo había terminado el informe.", "pron": "ji askt if ai jad fínisht da ripórt" },
+        { "t": "They wanted to know whether the shop was open.", "es": "Querían saber si la tienda estaba abierta.", "pron": "dei uóntid tu nou juéder da shop uas óupen" },
+        { "t": "The client asked how much it would cost.", "es": "El cliente preguntó cuánto costaría.", "pron": "da cláient askt jau mach it uud cost" },
+        { "t": "I wondered why she hadn't called.", "es": "Me preguntaba por qué no había llamado.", "pron": "ai uánderd juai shi jádent cold" }
+      ],
+      "dialogo": {
+        "titulo": "En la oficina de atención",
+        "lineas": [
+          { "q": "A", "t": "The customer asked whether we could give him a refund.", "es": "El cliente preguntó si podíamos darle un reembolso." },
+          { "q": "B", "t": "What did you tell him?", "es": "¿Qué le dijiste?" },
+          { "q": "A", "t": "I said I would get back to him by the end of the day.", "es": "Le dije que le respondería antes de que acabara el día." },
+          { "q": "B", "t": "He also asked how long it would take, didn't he?", "es": "También preguntó cuánto demoraría, ¿no?" },
+          { "q": "A", "t": "Yes, and he wanted to know if the money would go back to his card.", "es": "Sí, y quería saber si el dinero volvería a su tarjeta." },
+          { "q": "B", "t": "I'm curious what the manager will say. Let's ask him.", "es": "Tengo curiosidad por lo que dirá el gerente. Preguntémosle." }
+        ]
+      },
+      "nota": "Para pedir información con cortesía: Could you tell me where the station is? (sin inversión), no Where is the station?"
+    },
+    {
+      "id": "en-b2-u5-l3",
+      "n": 3,
+      "titulo": "Reportar órdenes, pedidos y consejos",
+      "objetivo": "Contar lo que alguien ordenó, pidió o aconsejó con told / asked / advised + to.",
+      "intro": "Con órdenes, pedidos y consejos la estructura es verbo + persona + to + verbo: She told me to wait. Para negar, pon not antes de to: He told us not to worry. Truco: no hay retroceso de tiempo.",
+      "palabras": [
+        { "t": "advise", "es": "aconsejar", "pron": "adváis", "ej": "I advise you to see a doctor.", "ejes": "Te aconsejo que veas a un médico.", "cog": true },
+        { "t": "recommend", "es": "recomendar", "pron": "recomend", "ej": "I recommend booking in advance.", "ejes": "Recomiendo reservar con anticipación.", "cog": true },
+        { "t": "encourage", "es": "animar, alentar", "pron": "incárich", "ej": "Teachers should encourage students to read.", "ejes": "Los profesores deberían animar a los alumnos a leer.", "cog": true },
+        { "t": "remind", "es": "recordar a alguien", "pron": "rimáind", "ej": "Please remind me to call him.", "ejes": "Por favor recuérdame llamarlo.", "cog": false },
+        { "t": "warn", "es": "advertir", "pron": "uorn", "ej": "I must warn you about the traffic.", "ejes": "Debo advertirte sobre el tráfico.", "cog": false },
+        { "t": "beg", "es": "rogar", "pron": "beg", "ej": "I beg you to be careful.", "ejes": "Te ruego que tengas cuidado.", "cog": false },
+        { "t": "instruct", "es": "indicar, instruir", "pron": "instráct", "ej": "The guide will instruct us on safety.", "ejes": "El guía nos instruirá sobre seguridad.", "cog": true },
+        { "t": "urge", "es": "instar, apremiar", "pron": "erch", "ej": "Experts urge people to stay at home.", "ejes": "Los expertos instan a la gente a quedarse en casa.", "cog": false }
+      ],
+      "frases": [
+        { "t": "She told me to wait outside.", "es": "Me dijo que esperara afuera.", "pron": "shi tould mi tu ueit autsáid" },
+        { "t": "He asked us not to make any noise.", "es": "Nos pidió que no hiciéramos ruido.", "pron": "ji askt as not tu meik eni nois" },
+        { "t": "The doctor advised me to rest for a week.", "es": "El doctor me aconsejó descansar una semana.", "pron": "da dóctor advaizd mi tu rest for a uik" },
+        { "t": "They warned us not to go out at night.", "es": "Nos advirtieron que no saliéramos de noche.", "pron": "dei uornd as not tu gou aut at nait" },
+        { "t": "My boss reminded me to send the invoice.", "es": "Mi jefe me recordó enviar la factura.", "pron": "mai bos rimáinded mi tu send di ínvois" }
+      ],
+      "dialogo": {
+        "titulo": "Antes del viaje",
+        "lineas": [
+          { "q": "A", "t": "What did the travel agent tell you?", "es": "¿Qué te dijo el agente de viajes?" },
+          { "q": "B", "t": "She advised us to book the hotel in advance and recommended going in May.", "es": "Nos aconsejó reservar el hotel con anticipación y recomendó ir en mayo." },
+          { "q": "A", "t": "Did she warn you about anything?", "es": "¿Les advirtió de algo?" },
+          { "q": "B", "t": "Yes, she warned us not to leave valuables in the room.", "es": "Sí, nos advirtió que no dejáramos objetos de valor en la habitación." },
+          { "q": "A", "t": "Good advice. Did she remind you to take your passports?", "es": "Buen consejo. ¿Les recordó llevar los pasaportes?" },
+          { "q": "B", "t": "She did, and she urged us to buy travel insurance.", "es": "Sí, y nos instó a comprar un seguro de viaje." }
+        ]
+      },
+      "nota": "Recommend, suggest y advise admiten -ing: I recommend booking early. Pero advise + persona + to: She advised me to book early."
+    },
+    {
+      "id": "en-b2-u5-l4",
+      "n": 4,
+      "titulo": "Verbos de reporte",
+      "objetivo": "Usar admit, deny, suggest, promise, insist y refuse para reportar con precisión.",
+      "intro": "En vez de repetir said, usa verbos que ya dicen la intención: admit, deny, promise. Cada uno tiene su molde: admit + -ing, promise + to, suggest + -ing. Truco: el verbo cuenta cómo lo dijeron.",
+      "palabras": [
+        { "t": "admit", "es": "admitir", "pron": "admít", "ej": "He had to admit he was wrong.", "ejes": "Tuvo que admitir que estaba equivocado.", "cog": true },
+        { "t": "deny", "es": "negar", "pron": "dinái", "ej": "She continues to deny the accusation.", "ejes": "Ella sigue negando la acusación.", "cog": true },
+        { "t": "suggest", "es": "sugerir", "pron": "sagyést", "ej": "I suggest taking a short break.", "ejes": "Sugiero tomar un breve descanso.", "cog": true },
+        { "t": "promise", "es": "prometer", "pron": "prómis", "ej": "I promise to be on time.", "ejes": "Prometo llegar a tiempo.", "cog": true },
+        { "t": "insist", "es": "insistir", "pron": "insíst", "ej": "I insist on paying for dinner.", "ejes": "Insisto en pagar la cena.", "cog": true },
+        { "t": "refuse", "es": "negarse", "pron": "rifíus", "ej": "They refuse to change the plan.", "ejes": "Se niegan a cambiar el plan.", "cog": true },
+        { "t": "claim", "es": "afirmar, alegar", "pron": "cleim", "ej": "Many people claim to have seen it.", "ejes": "Muchos afirman haberlo visto.", "cog": true },
+        { "t": "complain", "es": "quejarse", "pron": "complein", "ej": "Some guests complain about the noise.", "ejes": "Algunos huéspedes se quejan del ruido.", "cog": true }
+      ],
+      "frases": [
+        { "t": "He admitted breaking the window.", "es": "Admitió haber roto la ventana.", "pron": "ji admítid bréikin da uíndou" },
+        { "t": "She denied taking the money.", "es": "Negó haber tomado el dinero.", "pron": "shi dinaid téikin da máni" },
+        { "t": "I suggested going to the cinema.", "es": "Sugerí ir al cine.", "pron": "ai sagyéstid góuin tu da sínema" },
+        { "t": "They promised to arrive before noon.", "es": "Prometieron llegar antes del mediodía.", "pron": "dei prómist tu aráiv bifór nun" },
+        { "t": "He refused to apologize and insisted on staying.", "es": "Se negó a disculparse y se empeñó en quedarse.", "pron": "ji rifíust tu apólayaiz and insístid on stéiin" }
+      ],
+      "dialogo": {
+        "titulo": "Un malentendido",
+        "lineas": [
+          { "q": "A", "t": "Did Pablo admit that he lost the file?", "es": "¿Pablo admitió que perdió el archivo?" },
+          { "q": "B", "t": "No, he denied losing it. He claims that someone took it from his desk.", "es": "No, negó haberlo perdido. Afirma que alguien lo tomó de su escritorio." },
+          { "q": "A", "t": "I suggested checking the security cameras, but he refused.", "es": "Yo sugerí revisar las cámaras de seguridad, pero se negó." },
+          { "q": "B", "t": "Strange. Did he promise to find it by Friday?", "es": "Qué raro. ¿Prometió encontrarlo para el viernes?" },
+          { "q": "A", "t": "He promised to try, but he insisted that it wasn't his fault.", "es": "Prometió intentarlo, pero insistió en que no era su culpa." },
+          { "q": "B", "t": "Typical. Some people never admit their mistakes.", "es": "Típico. Algunas personas nunca admiten sus errores." }
+        ]
+      },
+      "nota": "Admit, deny y suggest llevan -ing o that: He admitted lying / He admitted that he lied. Promise, refuse y threaten llevan to + verbo."
+    },
+    {
+      "id": "en-b2-u5-l5",
+      "n": 5,
+      "titulo": "Repaso: resumir una conversación",
+      "objetivo": "Reportar una conversación completa combinando afirmaciones, preguntas, órdenes y verbos de reporte.",
+      "intro": "Une todo lo visto: said that, asked if, told me to y verbos como admit o warn. Truco: antes de reportar, decide qué tipo de oración era (afirmación, pregunta u orden) y elige el molde correcto.",
+      "palabras": [
+        { "t": "interview", "es": "entrevista / entrevistar", "pron": "ínterviu", "ej": "I have a job interview on Monday.", "ejes": "Tengo una entrevista de trabajo el lunes.", "cog": true },
+        { "t": "candidate", "es": "candidato", "pron": "cándideit", "ej": "The candidate seemed very confident.", "ejes": "El candidato parecía muy seguro.", "cog": true },
+        { "t": "reference", "es": "referencia", "pron": "réferens", "ej": "I need a reference from my last job.", "ejes": "Necesito una referencia de mi último trabajo.", "cog": true },
+        { "t": "background", "es": "trayectoria, antecedentes", "pron": "bákgraund", "ej": "Tell me about your background.", "ejes": "Cuéntame sobre tu trayectoria.", "cog": false },
+        { "t": "strength", "es": "fortaleza", "pron": "strenz", "ej": "My main strength is teamwork.", "ejes": "Mi principal fortaleza es el trabajo en equipo.", "cog": false },
+        { "t": "weakness", "es": "debilidad", "pron": "uíknes", "ej": "Perfectionism is my biggest weakness.", "ejes": "El perfeccionismo es mi mayor debilidad.", "cog": false },
+        { "t": "follow up", "es": "dar seguimiento", "pron": "fólou ap", "ej": "I will follow up with an email.", "ejes": "Daré seguimiento con un correo.", "cog": false },
+        { "t": "shortlist", "es": "lista corta de candidatos", "pron": "shórtlist", "ej": "She made the shortlist for the position.", "ejes": "Quedó en la lista corta para el puesto.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The interviewer asked me about my background.", "es": "El entrevistador me preguntó sobre mi trayectoria.", "pron": "di ínterviuer askt mi abáut mai bákgraund" },
+        { "t": "I told her that my main strength was teamwork.", "es": "Le dije que mi principal fortaleza era el trabajo en equipo.", "pron": "ai tould jer dat mai mein strenz uas tímuerk" },
+        { "t": "She asked if I could start the following month.", "es": "Preguntó si podía empezar el mes siguiente.", "pron": "shi askt if ai cud start da fólouin monz" },
+        { "t": "He admitted that he had been nervous.", "es": "Admitió que había estado nervioso.", "pron": "ji admítid dat ji jad bin nérvus" },
+        { "t": "They promised to follow up by Friday.", "es": "Prometieron dar seguimiento antes del viernes.", "pron": "dei prómist tu fólou ap bai fráidei" },
+        { "t": "She advised me to send two references.", "es": "Me aconsejó enviar dos referencias.", "pron": "shi adváizd mi tu send tu réferensis" }
+      ],
+      "dialogo": {
+        "titulo": "Después de la entrevista",
+        "lineas": [
+          { "q": "A", "t": "So, how did the interview go? What did they ask you?", "es": "Entonces, ¿cómo te fue en la entrevista? ¿Qué te preguntaron?" },
+          { "q": "B", "t": "They asked about my background and whether I could start next month.", "es": "Preguntaron sobre mi trayectoria y si podía empezar el mes que viene." },
+          { "q": "A", "t": "Did they mention the salary?", "es": "¿Mencionaron el sueldo?" },
+          { "q": "B", "t": "Yes, she said it would depend on my experience, and she asked me to send two references.", "es": "Sí, ella dijo que dependería de mi experiencia y me pidió que enviara dos referencias." },
+          { "q": "A", "t": "Did you admit that you were nervous?", "es": "¿Admitiste que estabas nervioso?" },
+          { "q": "B", "t": "I did, and she promised to follow up by Friday. I made the shortlist!", "es": "Sí, y ella prometió dar seguimiento antes del viernes. ¡Quedé en la lista corta!" }
+        ]
+      },
+      "nota": "En resúmenes largos alterna verbos: said, explained, pointed out, added. Suena más profesional que repetir said."
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "id": "it-b2-u14",
+  "idioma": "it",
+  "nivel": "B2",
+  "n": 14,
+  "titulo": "Cantidad y comparación avanzadas",
+  "resumen": "Aprenderás a comparar con «quanto più... tanto più», «tanto... quanto», los comparativos irregulares y el pronombre «ne» para hablar de cantidades.",
+  "puedo": [
+    "Usar «più... più» y «quanto più... tanto più» para relacionar dos cantidades.",
+    "Comparar con «tanto... quanto» y «così... come».",
+    "Usar los comparativos irregulares: migliore, peggiore, maggiore, minore.",
+    "Usar «ne» para hablar de una cantidad sin repetir el nombre.",
+    "Expresar cantidades con «un sacco di», «la maggior parte», «abbastanza»."
+  ],
+  "gramatica": {
+    "titulo": "«Ne» y las comparaciones avanzadas",
+    "texto": "«Ne» sustituye una cantidad o algo introducido por «di»: Quanti libri hai? Ne ho tre (= tengo tres de ellos). Hai fame? Ne ho tanta. En español no tiene equivalente directo: se omite o se usa «de ello».\nPara relacionar dos cantidades que crecen juntas: Più studio, più imparo; más formal: Quanto più studio, tanto più imparo.\nPara igualar: tanto... quanto (Lavora tanto quanto me), così... come (È così alto come suo padre).\nComparativos irregulares: buono (migliore), cattivo (peggiore), grande (maggiore), piccolo (minore).\nTruco: «ne» va antes del verbo y, con el passato prossimo, el participio concuerda con la cantidad: Ne ho comprate due (de ellas, cosas femeninas).",
+    "tabla": [
+      ["Ne ho tre.", "Tengo tres (de ellos).", "ne o tré"],
+      ["Non ne voglio.", "No quiero (de eso).", "non ne vólio"],
+      ["Più studio, più imparo.", "Cuanto más estudio, más aprendo.", "piú stúdio piú impáro"],
+      ["Quanto più..., tanto più...", "Cuanto más..., tanto más...", "cuánto piú tánto piú"],
+      ["tanto... quanto", "tanto... como", "tánto cuánto"],
+      ["migliore / peggiore", "mejor / peor", "milióre / pedyióre"]
+    ],
+    "errores": [
+      "«Ne» es obligatorio con cantidades: «Ne ho due», no «Ho due» (cuando se refiere a algo ya mencionado).",
+      "«Migliore» ya es comparativo: no digas «più migliore».",
+      "Con «ne» y passato prossimo, el participio concuerda: «Ne ho mangiate due» (de manzanas)."
+    ]
+  },
+  "practica": [
+    "Escribe diez frases con «ne» respondiendo preguntas con «quanto/quanti» (8 minutos).",
+    "Haz cinco comparaciones de dos objetos de tu casa con «tanto... quanto» (6 minutos).",
+    "Escribe cinco frases con «più... più» sobre tus hábitos: «Più dormo, più...» (5 minutos).",
+    "Describe tu ciudad con «la maggior parte», «un sacco di» y «abbastanza» (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b2-u14-l1",
+      "n": 1,
+      "titulo": "Más... más: relacionar cantidades",
+      "objetivo": "Decir que una cosa aumenta en relación a otra con «più... più».",
+      "intro": "Para decir «cuanto más X, más Y» el italiano repite «più». Truco: en textos formales se alarga a «quanto più... tanto più».",
+      "palabras": [
+        { "t": "più", "es": "más; cuanto más..., más...", "pron": "piú", "ej": "Più studio, più imparo.", "ejes": "Cuanto más estudio, más aprendo.", "cog": false },
+        { "t": "meno", "es": "menos; cuanto menos..., menos...", "pron": "méno", "ej": "Meno mangi, meno hai energia.", "ejes": "Cuanto menos comes, menos energía tienes.", "cog": false },
+        { "t": "quanto più", "es": "cuanto más", "pron": "cuánto piú", "ej": "Quanto più lavoro, tanto più guadagno.", "ejes": "Cuanto más trabajo, tanto más gano.", "cog": false },
+        { "t": "tanto più", "es": "tanto más", "pron": "tánto piú", "ej": "Tanto più studio, tanto più capisco.", "ejes": "Tanto más estudio, tanto más entiendo.", "cog": false },
+        { "t": "sempre più", "es": "cada vez más", "pron": "sémpre piú", "ej": "Le giornate sono sempre più lunghe.", "ejes": "Los días son cada vez más largos.", "cog": false },
+        { "t": "sempre meno", "es": "cada vez menos", "pron": "sémpre méno", "ej": "Ho sempre meno tempo.", "ejes": "Tengo cada vez menos tiempo.", "cog": false },
+        { "t": "ancora di più", "es": "todavía más", "pron": "ancóra di piú", "ej": "Mi piace ancora di più.", "ejes": "Me gusta todavía más.", "cog": false },
+        { "t": "tanto meglio", "es": "mejor aún, tanto mejor", "pron": "tánto mélio", "ej": "Se vieni, tanto meglio.", "ejes": "Si vienes, mejor aún.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Più studio, più imparo.", "es": "Cuanto más estudio, más aprendo.", "pron": "piú stúdio piú impáro" },
+        { "t": "Quanto più lavoro, tanto più guadagno.", "es": "Cuanto más trabajo, tanto más gano.", "pron": "cuánto piú lavóro tánto piú guadáño" },
+        { "t": "Le giornate sono sempre più lunghe.", "es": "Los días son cada vez más largos.", "pron": "le yornáte sóno sémpre piú lúnghe" },
+        { "t": "Ho sempre meno tempo libero.", "es": "Tengo cada vez menos tiempo libre.", "pron": "o sémpre méno témpo líbero" },
+        { "t": "Se vieni anche tu, tanto meglio.", "es": "Si vienes tú también, mejor aún.", "pron": "se viéni ánke tu tánto mélio" }
+      ],
+      "dialogo": {
+        "titulo": "Allenarsi",
+        "lineas": [
+          { "q": "A", "t": "Più mi alleno, più mi sento bene.", "es": "Cuanto más entreno, mejor me siento." },
+          { "q": "B", "t": "Io invece ho sempre meno tempo.", "es": "Yo en cambio tengo cada vez menos tiempo." },
+          { "q": "A", "t": "Quanto più ti muovi, tanto più hai energia.", "es": "Cuanto más te mueves, más energía tienes." },
+          { "q": "B", "t": "Hai ragione. Se vieni con me, tanto meglio.", "es": "Tienes razón. Si vienes conmigo, mejor aún." },
+          { "q": "A", "t": "Volentieri, domani alle sei.", "es": "Con gusto, mañana a las seis." }
+        ]
+      },
+      "nota": "«Più... più» se pronuncia con una pausa entre las dos partes: «Più studio, [pausa] più imparo». No es necesario repetir el verbo."
+    },
+    {
+      "id": "it-b2-u14-l2",
+      "n": 2,
+      "titulo": "Tanto... quanto: igualar",
+      "objetivo": "Comparar cosas de igual valor con «tanto... quanto» y «così... come».",
+      "intro": "Para decir «tanto como» se usa «tanto... quanto» o «così... come». Truco: «tanto» concuerda con el nombre y «quanto» no cambia.",
+      "palabras": [
+        { "t": "tanto quanto", "es": "tanto como", "pron": "tánto cuánto", "ej": "Lavora tanto quanto me.", "ejes": "Trabaja tanto como yo.", "cog": false },
+        { "t": "così", "es": "tan, así", "pron": "cosí", "ej": "È così alto come suo padre.", "ejes": "Es tan alto como su padre.", "cog": false },
+        { "t": "tanto talento", "es": "tanto talento", "pron": "tánto talénto", "ej": "Ha tanto talento quanto esperienza.", "ejes": "Tiene tanto talento como experiencia.", "cog": false },
+        { "t": "altrettanto", "es": "igualmente, otro tanto", "pron": "altrettánto", "ej": "Buon appetito! Altrettanto!", "ejes": "¡Buen provecho! ¡Igualmente!", "cog": false },
+        { "t": "come", "es": "como", "pron": "cóme", "ej": "Il mio fratello è alto come me.", "ejes": "Mi hermano es tan alto como yo.", "cog": false },
+        { "t": "uguali", "es": "iguales", "pron": "ugáli", "ej": "Sono uguali.", "ejes": "Son iguales.", "cog": true },
+        { "t": "ugualmente", "es": "igualmente", "pron": "ugualménte", "ej": "Ci vediamo ugualmente domani.", "ejes": "Nos vemos igualmente mañana.", "cog": true },
+        { "t": "altrettanto bene", "es": "igual de bien", "pron": "altrettánto béne", "ej": "Parla altrettanto bene di lui.", "ejes": "Habla igual de bien de él.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Lavora tanto quanto me.", "es": "Trabaja tanto como yo.", "pron": "lavóra tánto cuánto me" },
+        { "t": "È così alto come suo padre.", "es": "Es tan alto como su padre.", "pron": "e cosí álto cóme súo pádre" },
+        { "t": "Ha tanto talento quanto esperienza.", "es": "Tiene tanto talento como experiencia.", "pron": "a tánto talénto cuánto esperiénsa" },
+        { "t": "Buon appetito! Altrettanto!", "es": "¡Buen provecho! ¡Igualmente!", "pron": "buón appetíto altrettánto" },
+        { "t": "Il caffè qui è altrettanto buono.", "es": "El café aquí es igual de bueno.", "pron": "il caffé cuí e altrettánto buóno" }
+      ],
+      "dialogo": {
+        "titulo": "Due fratelli",
+        "lineas": [
+          { "q": "A", "t": "Tuo fratello è alto come te?", "es": "¿Tu hermano es tan alto como tú?" },
+          { "q": "B", "t": "Sì, ed è così simpatico come mia sorella.", "es": "Sí, y es tan simpático como mi hermana." },
+          { "q": "A", "t": "Lavora tanto quanto voi?", "es": "¿Trabaja tanto como ustedes?" },
+          { "q": "B", "t": "Ha tanto talento quanto esperienza.", "es": "Tiene tanto talento como experiencia." },
+          { "q": "A", "t": "Allora vi somigliate molto.", "es": "Entonces se parecen mucho." }
+        ]
+      },
+      "nota": "«Altrettanto» sirve para devolver un deseo: «Buon viaggio!» «Altrettanto!» (Igualmente). En italiano también se dice «anche a te»."
+    },
+    {
+      "id": "it-b2-u14-l3",
+      "n": 3,
+      "titulo": "Comparativos y superlativos irregulares",
+      "objetivo": "Usar «migliore», «peggiore», «maggiore» y «minore».",
+      "intro": "Cuatro adjetivos tienen comparativo propio. Truco: el superlativo se forma con «il/la» delante o con «-issimo»: il migliore, ottimo.",
+      "palabras": [
+        { "t": "migliore", "es": "mejor", "pron": "milióre", "ej": "Questa è la mia migliore amica.", "ejes": "Esta es mi mejor amiga.", "cog": false },
+        { "t": "peggiore", "es": "peor", "pron": "pedyióre", "ej": "Questo è il peggiore caffè che ho bevuto.", "ejes": "Este es el peor café que he bebido.", "cog": false },
+        { "t": "maggiore", "es": "mayor", "pron": "madyióre", "ej": "Mio fratello maggiore ha trent'anni.", "ejes": "Mi hermano mayor tiene treinta años.", "cog": false },
+        { "t": "minore", "es": "menor", "pron": "minóre", "ej": "Mia sorella minore studia a Roma.", "ejes": "Mi hermana menor estudia en Roma.", "cog": false },
+        { "t": "meglio", "es": "mejor (adverbio)", "pron": "mélio", "ej": "Oggi sto meglio.", "ejes": "Hoy estoy mejor.", "cog": false },
+        { "t": "peggio", "es": "peor (adverbio)", "pron": "pédyo", "ej": "Ieri stavo peggio.", "ejes": "Ayer estaba peor.", "cog": false },
+        { "t": "ottimo", "es": "excelente", "pron": "óttimo", "ej": "Il ristorante è ottimo.", "ejes": "El restaurante es excelente.", "cog": false },
+        { "t": "pessimo", "es": "pésimo", "pron": "péssimo", "ej": "Il servizio è stato pessimo.", "ejes": "El servicio fue pésimo.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Questa è la mia migliore amica.", "es": "Esta es mi mejor amiga.", "pron": "cuésta e la mía milióre amíca" },
+        { "t": "Mio fratello maggiore ha trent'anni.", "es": "Mi hermano mayor tiene treinta años.", "pron": "mío fratéllo madyióre a trentánni" },
+        { "t": "Oggi sto meglio di ieri.", "es": "Hoy estoy mejor que ayer.", "pron": "ódyi sto mélio di iéri" },
+        { "t": "Il servizio è stato pessimo.", "es": "El servicio fue pésimo.", "pron": "il servítsio e státo péssimo" },
+        { "t": "Il ristorante è ottimo, ma questo è migliore.", "es": "El restaurante es excelente, pero este es mejor.", "pron": "il ristoránte e óttimo ma cuésto e milióre" }
+      ],
+      "dialogo": {
+        "titulo": "In famiglia",
+        "lineas": [
+          { "q": "A", "t": "Hai fratelli?", "es": "¿Tienes hermanos?" },
+          { "q": "B", "t": "Sì, un fratello maggiore e una sorella minore.", "es": "Sí, un hermano mayor y una hermana menor." },
+          { "q": "A", "t": "Come va con loro?", "es": "¿Cómo te llevas con ellos?" },
+          { "q": "B", "t": "Ottimo, mia sorella è la mia migliore amica.", "es": "Excelente, mi hermana es mi mejor amiga." },
+          { "q": "A", "t": "Che fortuna! Io sto meglio con gli amici.", "es": "¡Qué suerte! Yo me llevo mejor con los amigos." }
+        ]
+      },
+      "nota": "«Meglio» y «peggio» son adverbios (modifican verbos): «sta meglio». «Migliore» y «peggiore» son adjetivos (acompañan nombres): «il migliore amico»."
+    },
+    {
+      "id": "it-b2-u14-l4",
+      "n": 4,
+      "titulo": "El pronombre «ne»",
+      "objetivo": "Usar «ne» para hablar de una cantidad sin repetir el nombre.",
+      "intro": "«Ne» sustituye una cantidad: tengo tres = ne ho tre. Truco: «ne» siempre va junto al verbo y, con el passato prossimo, el participio concuerda.",
+      "palabras": [
+        { "t": "ne ho", "es": "tengo (de eso)", "pron": "ne o", "ej": "Quanti libri hai? Ne ho tre.", "ejes": "¿Cuántos libros tienes? Tengo tres.", "cog": false },
+        { "t": "non ne ho", "es": "no tengo (de eso)", "pron": "non ne o", "ej": "Hai una penna? No, non ne ho.", "ejes": "¿Tienes un lapicero? No, no tengo.", "cog": false },
+        { "t": "ne vorrei", "es": "quisiera (de eso)", "pron": "ne vorrébe", "ej": "Ne vorrei un po'.", "ejes": "Quisiera un poco.", "cog": false },
+        { "t": "ne mangio", "es": "como (de eso)", "pron": "ne mándyo", "ej": "Del pane ne mangio due fette.", "ejes": "Del pan como dos rebanadas.", "cog": false },
+        { "t": "ne parlo", "es": "hablo de ello", "pron": "ne párlo", "ej": "Ne parlo con il capo.", "ejes": "Lo hablo con el jefe.", "cog": false },
+        { "t": "ne ho bisogno", "es": "lo necesito", "pron": "ne o bisóño", "ej": "Ne ho bisogno subito.", "ejes": "Lo necesito ahora mismo.", "cog": false },
+        { "t": "quanti ne vuoi", "es": "cuántos quieres", "pron": "cuánti ne vuói", "ej": "Quanti ne vuoi?", "ejes": "¿Cuántos quieres?", "cog": false },
+        { "t": "ne ho comprate", "es": "compré (femenino plural)", "pron": "ne o comprate", "ej": "Di mele ne ho comprate tre.", "ejes": "De manzanas compré tres.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Quanti libri hai? Ne ho tre.", "es": "¿Cuántos libros tienes? Tengo tres.", "pron": "cuánti líbri ái ne o tré" },
+        { "t": "Vuoi del caffè? Ne vorrei un po'.", "es": "¿Quieres café? Quisiera un poco.", "pron": "vuói del caffé ne vorrébe un po" },
+        { "t": "Non ne ho bisogno, grazie.", "es": "No lo necesito, gracias.", "pron": "non ne o bisóño grátsie" },
+        { "t": "Quante mele hai? Ne ho comprate sei.", "es": "¿Cuántas manzanas tienes? Compré seis.", "pron": "cuánte méle ái ne o comprate sei" },
+        { "t": "Ne parlo con il capo domani.", "es": "Lo hablo con el jefe mañana.", "pron": "ne párlo con il cápo dománi" }
+      ],
+      "dialogo": {
+        "titulo": "Al mercato",
+        "lineas": [
+          { "q": "A", "t": "Quante mele vuole?", "es": "¿Cuántas manzanas quiere?" },
+          { "q": "B", "t": "Ne vorrei sei, per favore.", "es": "Quisiera seis, por favor." },
+          { "q": "A", "t": "E delle pere?", "es": "¿Y peras?" },
+          { "q": "B", "t": "Non ne ho bisogno, ne ho già in casa.", "es": "No necesito, ya tengo en casa." },
+          { "q": "A", "t": "Allora ecco le mele: sono tre euro.", "es": "Entonces aquí tiene las manzanas: son tres euros." }
+        ]
+      },
+      "nota": "En el habla culta se concuerda el participio con el «ne» cuando es cantidad: «Ne ho comprate tre» (mele). En el habla cotidiana a veces se ve «Ne ho comprati»; es mejor la concordancia."
+    },
+    {
+      "id": "it-b2-u14-l5",
+      "n": 5,
+      "titulo": "Repaso: cantidad y comparación",
+      "objetivo": "Combinar «ne», comparaciones y expresiones de cantidad en situaciones reales.",
+      "intro": "Repasa con las expresiones de cantidad más útiles. Truco: «un sacco di» y «la maggior parte» sirven para hablar de grandes cantidades.",
+      "palabras": [
+        { "t": "un sacco di", "es": "un montón de", "pron": "un sácco di", "ej": "Ho un sacco di cose da fare.", "ejes": "Tengo un montón de cosas por hacer.", "cog": false },
+        { "t": "la maggior parte", "es": "la mayor parte", "pron": "la madyióre párte", "ej": "La maggior parte dei turisti arriva in estate.", "ejes": "La mayoría de los turistas llega en verano.", "cog": false },
+        { "t": "abbastanza", "es": "bastante", "pron": "abbastánsa", "ej": "Il caffè è abbastanza caldo.", "ejes": "El café está bastante caliente.", "cog": false },
+        { "t": "troppo", "es": "demasiado", "pron": "tróppo", "ej": "Ho mangiato troppo.", "ejes": "Comí demasiado.", "cog": false },
+        { "t": "qualche", "es": "algunos, unos cuantos", "pron": "cuálke", "ej": "Ho qualche domanda.", "ejes": "Tengo algunas preguntas.", "cog": false },
+        { "t": "parecchio", "es": "bastante, harto", "pron": "paréckio", "ej": "Ho aspettato parecchio.", "ejes": "Esperé harto.", "cog": false },
+        { "t": "metà", "es": "mitad", "pron": "metá", "ej": "Ho mangiato metà della pizza.", "ejes": "Comí la mitad de la pizza.", "cog": false },
+        { "t": "ne ho", "es": "tengo (de eso)", "pron": "ne o", "ej": "Biscotti? Ne ho ancora.", "ejes": "¿Galletas? Todavía tengo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Ho un sacco di cose da fare.", "es": "Tengo un montón de cosas por hacer.", "pron": "o un sácco di cóse da fáre" },
+        { "t": "La maggior parte dei turisti arriva in estate.", "es": "La mayoría de los turistas llega en verano.", "pron": "la madyióre párte dei turísti arríva in estáte" },
+        { "t": "Ho mangiato troppo e ne ho abbastanza.", "es": "Comí demasiado y ya tengo suficiente.", "pron": "o mandyáto tróppo e ne o abbastánsa" },
+        { "t": "Quanto più leggi, tanto più impari.", "es": "Cuanto más lees, tanto más aprendes.", "pron": "cuánto piú lédyi tánto piú impári" },
+        { "t": "Ha parecchio talento, come suo fratello.", "es": "Tiene bastante talento, como su hermano.", "pron": "a paréckio talénto cuánto súo fratéllo" }
+      ],
+      "dialogo": {
+        "titulo": "A cena",
+        "lineas": [
+          { "q": "A", "t": "Quanta pasta hai mangiato?", "es": "¿Cuánta pasta comiste?" },
+          { "q": "B", "t": "Ne ho mangiata troppa, ne ho abbastanza.", "es": "Comí demasiada, ya tengo suficiente." },
+          { "q": "A", "t": "Io ne ho ancora un sacco: ho preparato per otto.", "es": "Yo todavía tengo un montón: preparé para ocho." },
+          { "q": "B", "t": "La maggior parte la porto a casa.", "es": "La mayor parte me la llevo a casa." },
+          { "q": "A", "t": "Quanto più cucino, tanto più avanza!", "es": "¡Cuanto más cocino, tanto más sobra!" }
+        ]
+      },
+      "nota": "«Ne» con «abbastanza» da el sentido de «ya tengo suficiente»: «Ne ho abbastanza» = «ya estoy harto» (también se usa para quejas)."
+    }
+  ]
+}

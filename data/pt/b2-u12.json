@@ -1,0 +1,220 @@
+{
+  "id": "pt-b2-u12",
+  "idioma": "pt",
+  "nivel": "B2",
+  "n": 12,
+  "titulo": "Verbos con infinitivo, gerundio y preposiciones",
+  "resumen": "Aprenderás qué preposición lleva cada verbo (começar a, deixar de, acabar de, pensar em) y cuándo seguir con infinitivo o con gerundio (continuar fazendo, ficar esperando).",
+  "puedo": [
+    "Usar «começar a», «voltar a» y «aprender a» + infinitivo.",
+    "Usar «deixar de», «parar de» y «acabar de» + infinitivo.",
+    "Formar el gerundio con «continuar», «ficar», «andar» e «ir».",
+    "Elegir la preposición correcta con verbos como «pensar em», «sonhar com» y «depender de».",
+    "Evitar traducir la preposición del español sin pensar."
+  ],
+  "gramatica": {
+    "titulo": "Cada verbo pide su preposición",
+    "texto": "En portugués muchos verbos van con una preposición fija antes del infinitivo: começar a fazer, deixar de fumar, acabar de chegar, parar de chover. Esa preposición hay que aprenderla junto con el verbo.\nTambién hay verbos que van con gerundio (la forma en -ndo): continuar trabalhando, ficar esperando, andar reclamando, ir melhorando. Se forma quitando -r y agregando -ndo: falar - falando, comer - comendo, partir - partindo. En Brasil el gerundio se usa mucho en lugar de «a + infinitivo» (estou trabalhando, no «estou a trabalhar»).\nLos verbos con preposición más comunes: pensar em, sonhar com, depender de, insistir em, contar com, confiar em.",
+    "tabla": [
+      ["começar a fazer", "empezar a hacer", "komesár a fazér"],
+      ["deixar de fumar", "dejar de fumar", "deishár dyi fumár"],
+      ["acabar de chegar", "acabar de llegar", "akabár dyi shegár"],
+      ["continuar trabalhando", "seguir trabajando", "kontinuár trabalyándu"],
+      ["pensar em viajar", "pensar en viajar", "pensár ein viayár"],
+      ["sonhar com ele", "soñar con él", "soñár kon éli"]
+    ],
+    "errores": [
+      "«Acabar de» + infinitivo significa algo recién terminado: «acabei de chegar» (acabo de llegar), no «acabei chegar».",
+      "No uses «a + infinitivo» para una acción en curso en Brasil: «estou trabalhando», no «estou a trabalhar».",
+      "El español «pensar en» es «pensar em» y «soñar con» es «sonhar com»: no pongas «de» ni «a»."
+    ]
+  },
+  "practica": [
+    "Escribe 8 frases con «começar a», «voltar a» y «deixar de» sobre tu rutina (8 minutos).",
+    "Di en voz alta 6 frases con gerundio: «continuo estudando», «fico esperando» (6 minutos).",
+    "Haz una lista de 10 verbos con preposición y escribe un ejemplo con cada uno (10 minutos).",
+    "Lee un texto corto en portugués y subraya los verbos con preposición (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b2-u12-l1",
+      "n": 1,
+      "titulo": "Verbos con «a» + infinitivo",
+      "objetivo": "Usar «começar a», «voltar a», «aprender a» y similares.",
+      "intro": "Algunos verbos de inicio, repetición o aprendizaje piden «a» antes del infinitivo. Truco: piensa en un camino que empieza; el «a» es la flecha que avanza hacia la acción.",
+      "palabras": [
+        { "t": "começar a", "es": "empezar a", "pron": "komesár a", "ej": "Vou começar a estudar hoje.", "ejes": "Voy a empezar a estudiar hoy.", "cog": false },
+        { "t": "voltar a", "es": "volver a", "pron": "vowtár a", "ej": "Ele vai voltar a trabalhar depois das férias.", "ejes": "Va a volver a trabajar después de las vacaciones.", "cog": false },
+        { "t": "aprender a", "es": "aprender a", "pron": "aprendér a", "ej": "Quero aprender a cozinhar.", "ejes": "Quiero aprender a cocinar.", "cog": false },
+        { "t": "ensinar a", "es": "enseñar a", "pron": "ensinár a", "ej": "Meu pai vai ensinar a dirigir ao meu irmão.", "ejes": "Mi papá le va a enseñar a manejar a mi hermano.", "cog": false },
+        { "t": "ajudar a", "es": "ayudar a", "pron": "ayudár a", "ej": "Posso ajudar a organizar o evento.", "ejes": "Puedo ayudar a organizar el evento.", "cog": false },
+        { "t": "passar a", "es": "pasar a, comenzar a", "pron": "pasár a", "ej": "Depois do curso, vou passar a entender melhor.", "ejes": "Después del curso voy a pasar a entender mejor.", "cog": false },
+        { "t": "chegar a", "es": "llegar a", "pron": "shegár a", "ej": "Ela pode chegar a chorar de emoção.", "ejes": "Ella puede llegar a llorar de emoción.", "cog": false },
+        { "t": "decidir", "es": "decidir", "pron": "desidír", "ej": "Vou decidir mudar de emprego.", "ejes": "Voy a decidir cambiar de empleo.", "cog": true },
+        { "t": "tentar", "es": "intentar", "pron": "tentár", "ej": "Vou tentar chegar cedo.", "ejes": "Voy a intentar llegar temprano.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Vou começar a estudar inglês amanhã.", "es": "Voy a empezar a estudiar inglés mañana.", "pron": "vóu komesár a estudár inglés amañán" },
+        { "t": "Ele voltou a trabalhar na empresa.", "es": "Volvió a trabajar en la empresa.", "pron": "éli vowtóu a trabalyár na empresa" },
+        { "t": "Quero aprender a tocar violão.", "es": "Quiero aprender a tocar guitarra.", "pron": "kéru aprendér a tokár violáun" },
+        { "t": "Minha irmã me ensinou a cozinhar.", "es": "Mi hermana me enseñó a cocinar.", "pron": "míña irmán mi ensinóu a kosiñár" },
+        { "t": "Depois da mudança, passei a acordar mais cedo.", "es": "Después de la mudanza, pasé a levantarme más temprano.", "pron": "depóis da mudánsa pasei a akordár máis sédu" }
+      ],
+      "dialogo": {
+        "titulo": "Novos hábitos",
+        "lineas": [
+          { "q": "A", "t": "Eu comecei a correr todas as manhãs.", "es": "Yo empecé a correr todas las mañanas." },
+          { "q": "B", "t": "Que bom! Eu voltei a estudar francês este ano.", "es": "¡Qué bien! Yo volví a estudiar francés este año." },
+          { "q": "A", "t": "Quem te ensinou a falar francês?", "es": "¿Quién te enseñó a hablar francés?" },
+          { "q": "B", "t": "Aprendi a falar com uma amiga. Ela me ajuda a praticar.", "es": "Aprendí a hablar con una amiga. Ella me ayuda a practicar." },
+          { "q": "A", "t": "Vou tentar entrar num curso também.", "es": "Voy a intentar entrar en un curso también." }
+        ]
+      },
+      "nota": "«Tentar», «decidir» y «preferir» van sin preposición: «tentar chegar», «decidir viajar». Compáralos con «começar a»."
+    },
+    {
+      "id": "pt-b2-u12-l2",
+      "n": 2,
+      "titulo": "Verbos con «de» + infinitivo",
+      "objetivo": "Usar «deixar de», «parar de», «acabar de» y «precisar de».",
+      "intro": "Con «de» el verbo suele hablar de cortar, terminar o necesitar. Truco: «acabar de» + infinitivo es muy usado para algo que ocurrió hace poco.",
+      "palabras": [
+        { "t": "deixar de", "es": "dejar de", "pron": "deishár dyi", "ej": "Quero deixar de fumar este ano.", "ejes": "Quiero dejar de fumar este año.", "cog": false },
+        { "t": "parar de", "es": "parar de", "pron": "parár dyi", "ej": "A chuva vai parar de cair logo.", "ejes": "La lluvia va a dejar de caer pronto.", "cog": false },
+        { "t": "acabar de", "es": "acabar de", "pron": "akabár dyi", "ej": "Prefiro acabar de ler antes de sair.", "ejes": "Prefiero terminar de leer antes de salir.", "cog": false },
+        { "t": "terminar de", "es": "terminar de", "pron": "terminár dyi", "ej": "Vou terminar de ler o livro hoje.", "ejes": "Voy a terminar de leer el libro hoy.", "cog": false },
+        { "t": "precisar de", "es": "necesitar", "pron": "presisár dyi", "ej": "Vou precisar de ajuda com o relatório.", "ejes": "Voy a necesitar ayuda con el informe.", "cog": false },
+        { "t": "gostar de", "es": "gustar, querer", "pron": "gostár dyi", "ej": "Eu vou gostar de viajar com amigos.", "ejes": "Me va a gustar viajar con amigos.", "cog": false },
+        { "t": "esquecer de", "es": "olvidarse de", "pron": "eskesér dyi", "ej": "Não vou esquecer de fechar a porta.", "ejes": "No me voy a olvidar de cerrar la puerta.", "cog": false },
+        { "t": "lembrar de", "es": "acordarse de", "pron": "lembrár dyi", "ej": "Preciso lembrar de comprar o pão.", "ejes": "Tengo que acordarme de comprar el pan.", "cog": false },
+        { "t": "cansar de", "es": "cansarse de", "pron": "kansár dyi", "ej": "Vou cansar de esperar o ônibus.", "ejes": "Me voy a cansar de esperar el bus.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Quero deixar de comer açúcar.", "es": "Quiero dejar de comer azúcar.", "pron": "kéru deishár dyi komér asúkar" },
+        { "t": "Ele parou de fumar há um ano.", "es": "Él dejó de fumar hace un año.", "pron": "éli paróu dyi fumár á ún ánu" },
+        { "t": "Acabei de sair do escritório.", "es": "Acabo de salir de la oficina.", "pron": "akabéi dyi saír du eskritóriu" },
+        { "t": "Esqueci de enviar o e-mail ontem.", "es": "Me olvidé de enviar el correo ayer.", "pron": "eskesí dyi enviár u iméiu óntein" },
+        { "t": "Cansei de esperar, vou embora.", "es": "Me cansé de esperar, me voy.", "pron": "kanséi dyi esperár vóu embóra" }
+      ],
+      "dialogo": {
+        "titulo": "Um dia cheio",
+        "lineas": [
+          { "q": "A", "t": "Oi! Acabei de chegar. Cansei de esperar o ônibus.", "es": "¡Hola! Acabo de llegar. Me cansé de esperar el bus." },
+          { "q": "B", "t": "Você precisa descansar. Esqueceu de almoçar?", "es": "Tienes que descansar. ¿Te olvidaste de almorzar?" },
+          { "q": "A", "t": "Esqueci. Preciso terminar de escrever um relatório.", "es": "Sí. Necesito terminar de escribir un informe." },
+          { "q": "B", "t": "Quando você vai parar de trabalhar tanto?", "es": "¿Cuándo vas a dejar de trabajar tanto?" },
+          { "q": "A", "t": "Vou deixar de trabalhar à noite, prometo.", "es": "Voy a dejar de trabajar de noche, lo prometo." }
+        ]
+      },
+      "nota": "«Precisar de» + infinitivo se escucha muy poco; en la conversación se dice «preciso descansar» sin «de». Con sustantivo sí va «de»: «preciso de ajuda»."
+    },
+    {
+      "id": "pt-b2-u12-l3",
+      "n": 3,
+      "titulo": "Gerundio: continuar, ficar, andar, ir",
+      "objetivo": "Formar el gerundio con verbos de continuación y duración.",
+      "intro": "En portugués de Brasil el gerundio expresa acciones que continúan: «continuar trabalhando». Truco: el gerundio es siempre -ndo (falando, comendo, partindo), nunca cambia por persona.",
+      "palabras": [
+        { "t": "continuar", "es": "seguir, continuar", "pron": "kontinuár", "ej": "Vamos continuar trabalhando até tarde.", "ejes": "Vamos a seguir trabajando hasta tarde.", "cog": true },
+        { "t": "ficar esperando", "es": "quedarse esperando", "pron": "ficár esperándu", "ej": "Não quero ficar esperando o dia todo.", "ejes": "No quiero quedarme esperando todo el día.", "cog": false },
+        { "t": "ficar cantando", "es": "quedarse cantando", "pron": "ficár kantándu", "ej": "Ele gosta de ficar cantando no chuveiro.", "ejes": "Le gusta quedarse cantando en la ducha.", "cog": false },
+        { "t": "ir melhorando", "es": "ir mejorando", "pron": "ír melyorándu", "ej": "É normal ir melhorando aos poucos.", "ejes": "Es normal ir mejorando poco a poco.", "cog": false },
+        { "t": "viver reclamando", "es": "vivir quejándose", "pron": "vivér reklamándu", "ej": "Meu vizinho gosta de viver reclamando do barulho.", "ejes": "A mi vecino le gusta vivir quejándose del ruido.", "cog": false },
+        { "t": "passar o dia estudando", "es": "pasar el día estudiando", "pron": "pasár u día estudándu", "ej": "Gosto de passar o dia estudando na biblioteca.", "ejes": "Me gusta pasar el día estudiando en la biblioteca.", "cog": false },
+        { "t": "estar fazendo", "es": "estar haciendo", "pron": "estár fazéndu", "ej": "Não quero estar fazendo isso à noite.", "ejes": "No quiero estar haciendo esto de noche.", "cog": false },
+        { "t": "sair correndo", "es": "salir corriendo", "pron": "saír korréndu", "ej": "Ele ouviu o alarme e quis sair correndo.", "ejes": "Oyó la alarma y quiso salir corriendo.", "cog": false },
+        { "t": "gerúndio", "es": "gerundio", "pron": "yerúndyiu", "ej": "O gerúndio termina sempre em -ndo.", "ejes": "El gerundio siempre termina en -ndo.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Vou continuar estudando até a prova.", "es": "Voy a seguir estudiando hasta el examen.", "pron": "vóu kontinuár estudándu até a próva" },
+        { "t": "Não quero ficar esperando na fila.", "es": "No quiero quedarme esperando en la fila.", "pron": "náun kéru ficár esperándu na fíla" },
+        { "t": "Meu chefe vive reclamando do prazo.", "es": "Mi jefe vive quejándose del plazo.", "pron": "méu shéfi vívi reklamándu du prázu" },
+        { "t": "Ele saiu correndo da sala.", "es": "Salió corriendo de la sala.", "pron": "éli saíu korréndu da sála" },
+        { "t": "Passei o dia estudando para o exame.", "es": "Pasé el día estudiando para el examen.", "pron": "paséi u día estudándu pára u ezámi" }
+      ],
+      "dialogo": {
+        "titulo": "Preparando a prova",
+        "lineas": [
+          { "q": "A", "t": "Você vai continuar estudando até tarde?", "es": "¿Vas a seguir estudiando hasta tarde?" },
+          { "q": "B", "t": "Vou. Passei o dia estudando e ainda não terminei.", "es": "Sí. Pasé el día estudiando y todavía no terminé." },
+          { "q": "A", "t": "Eu não consigo ficar esperando o sono. Prefiro dormir cedo.", "es": "Yo no puedo quedarme esperando el sueño. Prefiero dormir temprano." },
+          { "q": "B", "t": "Você vive reclamando do cansaço, mas vai bem.", "es": "Vives quejándote del cansancio, pero te va bien." },
+          { "q": "A", "t": "Pois é. Vou ir melhorando aos poucos.", "es": "Así es. Voy a ir mejorando poco a poco." }
+        ]
+      },
+      "nota": "«Vou estar fazendo» (voy a estar haciendo) es muy usado en el trabajo en Brasil y suena natural, aunque algunos puristas prefieren «farei»."
+    },
+    {
+      "id": "pt-b2-u12-l4",
+      "n": 4,
+      "titulo": "Verbos con preposición fija",
+      "objetivo": "Usar la preposición correcta con verbos como «pensar em» y «sonhar com».",
+      "intro": "Estos verbos van con em, com, de, por: se aprenden en pareja. Truco: crea tarjetas con el verbo y la preposición, no con el verbo solo.",
+      "palabras": [
+        { "t": "pensar em", "es": "pensar en", "pron": "pensár ein", "ej": "Vou pensar em mudar de cidade.", "ejes": "Voy a pensar en mudarme de ciudad.", "cog": false },
+        { "t": "sonhar com", "es": "soñar con", "pron": "soñár kon", "ej": "Eu gosto de sonhar com uma casa na praia.", "ejes": "Me gusta soñar con una casa en la playa.", "cog": false },
+        { "t": "depender de", "es": "depender de", "pron": "dependér dyi", "ej": "Isso vai depender de você.", "ejes": "Eso va a depender de ti.", "cog": true },
+        { "t": "insistir em", "es": "insistir en", "pron": "insistír ein", "ej": "Ela vai insistir em pagar a conta.", "ejes": "Ella va a insistir en pagar la cuenta.", "cog": false },
+        { "t": "contar com", "es": "contar con", "pron": "kontár kon", "ej": "Você pode contar com a minha ajuda.", "ejes": "Puedes contar con mi ayuda.", "cog": false },
+        { "t": "confiar em", "es": "confiar en", "pron": "konfiár ein", "ej": "Eu preciso confiar em você.", "ejes": "Necesito confiar en ti.", "cog": false },
+        { "t": "optar por", "es": "optar por", "pron": "optár por", "ej": "Vou optar por ficar em casa.", "ejes": "Voy a optar por quedarme en casa.", "cog": true },
+        { "t": "lutar por", "es": "luchar por", "pron": "lutár por", "ej": "Vale a pena lutar por seus sonhos.", "ejes": "Vale la pena luchar por tus sueños.", "cog": false },
+        { "t": "acabar por", "es": "terminar por", "pron": "akabár por", "ej": "Ela vai acabar por aceitar a oferta.", "ejes": "Ella va a terminar por aceptar la oferta.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Estou pensando em viajar para o Rio.", "es": "Estoy pensando en viajar a Río.", "pron": "estóu pensándu ein viayár pára u ríu" },
+        { "t": "Sonho com uma casa perto da praia.", "es": "Sueño con una casa cerca de la playa.", "pron": "sóñu kon úma káza pértu da práya" },
+        { "t": "Isso depende do orçamento.", "es": "Eso depende del presupuesto.", "pron": "ísu depéndyi du orsaméntu" },
+        { "t": "Pode contar comigo para o projeto.", "es": "Puedes contar conmigo para el proyecto.", "pron": "pódyi kontár komígu pára u proyétu" },
+        { "t": "Optei por ficar em casa neste fim de semana.", "es": "Opté por quedarme en casa este fin de semana.", "pron": "optéi por ficár ein káza néstyi fín dyi semána" }
+      ],
+      "dialogo": {
+        "titulo": "Planos de futuro",
+        "lineas": [
+          { "q": "A", "t": "Estou pensando em mudar de emprego.", "es": "Estoy pensando en cambiar de empleo." },
+          { "q": "B", "t": "Sério? Você sempre sonhou com um trabalho no exterior.", "es": "¿En serio? Siempre soñaste con un trabajo en el extranjero." },
+          { "q": "A", "t": "Sim, mas depende do salário e da família.", "es": "Sí, pero depende del salario y de la familia." },
+          { "q": "B", "t": "Pode contar comigo. Eu confio em você.", "es": "Puedes contar conmigo. Confío en ti." },
+          { "q": "A", "t": "Obrigado. Vou insistir em tentar e não vou desistir.", "es": "Gracias. Voy a insistir en intentarlo y no me voy a rendir." }
+        ]
+      },
+      "nota": "«Pensar em» se usa para pensar en algo o alguien; «pensar que» introduce una opinión («penso que é bom»)."
+    },
+    {
+      "id": "pt-b2-u12-l5",
+      "n": 5,
+      "titulo": "Repaso: combinar verbos y preposiciones",
+      "objetivo": "Combinar infinitivo, gerundio y preposiciones al contar una historia.",
+      "intro": "Cuenta una mudanza o un cambio de hábito mezclando todo. Truco: para cada verbo, di la preposición en voz alta antes de continuar.",
+      "palabras": [
+        { "t": "voltar a", "es": "volver a", "pron": "vowtár a", "ej": "Quero voltar a estudar à noite.", "ejes": "Quiero volver a estudiar de noche.", "cog": false },
+        { "t": "deixar de", "es": "dejar de", "pron": "deishár dyi", "ej": "Ela quer deixar de trabalhar às sextas.", "ejes": "Ella quiere dejar de trabajar los viernes.", "cog": false },
+        { "t": "acabar de", "es": "acabar de", "pron": "akabár dyi", "ej": "Vou acabar de arrumar a casa antes de os convidados chegarem.", "ejes": "Voy a terminar de ordenar la casa antes de que lleguen los invitados.", "cog": false },
+        { "t": "continuar", "es": "seguir, continuar", "pron": "kontinuár", "ej": "Podemos continuar amanhã.", "ejes": "Podemos continuar mañana.", "cog": true },
+        { "t": "pensar em", "es": "pensar en", "pron": "pensár ein", "ej": "Vou pensar em viajar no verão.", "ejes": "Voy a pensar en viajar en el verano.", "cog": false },
+        { "t": "sonhar com", "es": "soñar con", "pron": "soñár kon", "ej": "Ela gosta de sonhar com um futuro melhor.", "ejes": "A ella le gusta soñar con un futuro mejor.", "cog": false },
+        { "t": "insistir em", "es": "insistir en", "pron": "insistír ein", "ej": "Ele vai insistir em chegar cedo.", "ejes": "Él va a insistir en llegar temprano.", "cog": false },
+        { "t": "ficar", "es": "quedarse", "pron": "ficár", "ej": "Vou ficar em casa hoje.", "ejes": "Voy a quedarme en casa hoy.", "cog": false },
+        { "t": "mudança", "es": "mudanza, cambio", "pron": "mudánsa", "ej": "A mudança foi cansativa.", "ejes": "La mudanza fue agotadora.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Deixei de fumar e voltei a correr.", "es": "Dejé de fumar y volví a correr.", "pron": "deishéi dyi fumár i vowtéi a korrér" },
+        { "t": "Acabei de terminar a mudança.", "es": "Acabo de terminar la mudanza.", "pron": "akabéi dyi terminár a mudánsa" },
+        { "t": "Pensamos em continuar morando aqui.", "es": "Pensamos en seguir viviendo aquí.", "pron": "pensámus ein kontinuár morándu akí" },
+        { "t": "Ela insiste em ficar trabalhando até tarde.", "es": "Ella insiste en quedarse trabajando hasta tarde.", "pron": "éla insíste ein ficár trabalyándu até tárdyi" },
+        { "t": "Sonho com viajar sem parar de aprender.", "es": "Sueño con viajar sin dejar de aprender.", "pron": "sóñu kon viayár sin parár dyi aprendér" }
+      ],
+      "dialogo": {
+        "titulo": "Depois da mudança",
+        "lineas": [
+          { "q": "A", "t": "Acabei de terminar a mudança!", "es": "¡Acabo de terminar la mudanza!" },
+          { "q": "B", "t": "Parabéns! Você vai continuar trabalhando no mesmo bairro?", "es": "¡Felicitaciones! ¿Vas a seguir trabajando en el mismo barrio?" },
+          { "q": "A", "t": "Vou. E voltei a estudar à noite.", "es": "Sí. Y volví a estudiar de noche." },
+          { "q": "B", "t": "Que bom. Eu deixei de estudar por falta de tempo.", "es": "Qué bien. Yo dejé de estudiar por falta de tiempo." },
+          { "q": "A", "t": "Pense em voltar também, eu sonho com você na minha turma.", "es": "Piensa en volver también, sueño con tenerte en mi grupo." }
+        ]
+      },
+      "nota": "Repasa: «começar a», «voltar a» (a); «deixar de», «acabar de», «parar de» (de); «pensar em», «insistir em» (em); «sonhar com», «contar com» (com)."
+    }
+  ]
+}

@@ -1,0 +1,724 @@
+{
+  "id": "pt-b2-u8",
+  "idioma": "pt",
+  "nivel": "B2",
+  "n": 8,
+  "titulo": "Textos largos y resúmenes",
+  "resumen": "Aprenderás a resumir, parafrasear y enlazar ideas en textos largos con conectores de causa, consecuencia, adición y contraste.",
+  "puedo": [
+    "Resumir un texto o una conversación en pocas frases.",
+    "Parafrasear con «ou seja», «em outras palavras», «quer dizer».",
+    "Enlazar causas y consecuencias: «já que», «de modo que», «devido a».",
+    "Identificar la estructura de un texto: introdução, desenvolvimento, conclusão.",
+    "Citar y atribuir ideas con precisión."
+  ],
+  "gramatica": {
+    "titulo": "Conectores de texto: causa, consecuencia y reformulación",
+    "texto": "Los conectores son el pegamento de los textos largos. Hay cuatro familias básicas:\nCausa: porque, já que, uma vez que, visto que (Já que choveu, ficamos em casa).\nConsecuencia: portanto, por isso, de modo que, por conseguinte (Choveu; portanto, ficamos em casa).\nAdición: além disso, ademais, também, ainda por cima.\nReformulación: ou seja, isto é, em outras palavras, quer dizer.\nEn un resumen, quita los ejemplos y quédate con la idea central: elimina detalles, une ideas con conectores y usa tus propias palabras.\nTruco: «já que» y «visto que» presentan una causa conocida; «porque» da una causa nueva; «portanto» pone la conclusión después de los datos.",
+    "tabla": [
+      [
+        "já que / visto que",
+        "ya que / puesto que",
+        "yá ki / vístu ki"
+      ],
+      [
+        "portanto / por isso",
+        "por lo tanto / por eso",
+        "portántu / por ísu"
+      ],
+      [
+        "de modo que",
+        "de modo que",
+        "dyi módu ki"
+      ],
+      [
+        "além disso",
+        "además",
+        "alêin dísu"
+      ],
+      [
+        "ou seja / isto é",
+        "es decir",
+        "ou séya / ístu é"
+      ],
+      [
+        "em outras palavras",
+        "en otras palabras",
+        "ein ótras palávras"
+      ]
+    ],
+    "errores": [
+      "No uses «porque» al inicio de una frase para causas conocidas: usa «já que» o «visto que».",
+      "No confundas «por que» (pregunta), «porque» (causa) y «porquê» (al final de la frase): «Por que você saiu?», «Saí porque estava cansado», «Saí, não sei o porquê».",
+      "No copies el original palabra por palabra en un resumen: parafrasea con tus palabras."
+    ]
+  },
+  "practica": [
+    "Lee un artículo corto en portugués y resúmelo en 3 frases (10 minutos).",
+    "Parafrasea 5 frases de una noticia con «ou seja» o «em outras palavras» (7 minutos).",
+    "Escribe un párrafo de 6 líneas con 5 conectores distintos sobre tu ciudad (8 minutos).",
+    "Cuenta en voz alta el argumento de una película en 60 segundos usando conectores (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b2-u8-l1",
+      "n": 1,
+      "titulo": "Resumir lo esencial",
+      "objetivo": "Resumir un texto o conversación con vocabulario preciso.",
+      "intro": "Resumir es decidir qué sobra. Truco: antes de resumir, subraya la idea principal y tacha los ejemplos.",
+      "palabras": [
+        {
+          "t": "resumir",
+          "es": "resumir",
+          "pron": "rezumír",
+          "ej": "Vou resumir o capítulo em três frases.",
+          "ejes": "Voy a resumir el capítulo en tres frases.",
+          "cog": true
+        },
+        {
+          "t": "sintetizar",
+          "es": "sintetizar",
+          "pron": "sintetizár",
+          "ej": "Ela sabe sintetizar ideias complexas.",
+          "ejes": "Ella sabe sintetizar ideas complejas.",
+          "cog": true
+        },
+        {
+          "t": "ideia principal",
+          "es": "idea principal",
+          "pron": "idéia prinsipál",
+          "ej": "Qual é a ideia principal do texto?",
+          "ejes": "¿Cuál es la idea principal del texto?",
+          "cog": false
+        },
+        {
+          "t": "o essencial",
+          "es": "lo esencial",
+          "pron": "u esensiál",
+          "ej": "O essencial é entender o contexto.",
+          "ejes": "Lo esencial es entender el contexto.",
+          "cog": true
+        },
+        {
+          "t": "destacar",
+          "es": "destacar",
+          "pron": "destakár",
+          "ej": "Vou destacar os pontos importantes.",
+          "ejes": "Voy a destacar los puntos importantes.",
+          "cog": false
+        },
+        {
+          "t": "trecho",
+          "es": "fragmento",
+          "pron": "tréshu",
+          "ej": "Leia este trecho em voz alta.",
+          "ejes": "Lee este fragmento en voz alta.",
+          "cog": false
+        },
+        {
+          "t": "síntese",
+          "es": "síntesis",
+          "pron": "síntezi",
+          "ej": "Faça uma síntese do relatório.",
+          "ejes": "Haz una síntesis del informe.",
+          "cog": true
+        },
+        {
+          "t": "em linhas gerais",
+          "es": "a grandes rasgos",
+          "pron": "ein líñas yeráis",
+          "ej": "Em linhas gerais, o projeto é simples.",
+          "ejes": "A grandes rasgos, el proyecto es simple.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Vou resumir o texto em poucas frases.",
+          "es": "Voy a resumir el texto en pocas frases.",
+          "pron": "vóu rezumír u téstu ein pókas frázis"
+        },
+        {
+          "t": "Em linhas gerais, o artigo defende o uso de energia limpa.",
+          "es": "A grandes rasgos, el artículo defiende el uso de energía limpia.",
+          "pron": "ein líñas yeráis, u artígu deféndyi u úzu dyi enerzhía límpa"
+        },
+        {
+          "t": "A ideia principal está no segundo parágrafo.",
+          "es": "La idea principal está en el segundo párrafo.",
+          "pron": "a idéia prinsipál está nu segúndu parágrafu"
+        },
+        {
+          "t": "É importante destacar os pontos-chave.",
+          "es": "Es importante destacar los puntos clave.",
+          "pron": "é importánti destakár us pontus-shávi"
+        },
+        {
+          "t": "Essa síntese deixa de fora detalhes irrelevantes.",
+          "es": "Esta síntesis deja fuera detalles irrelevantes.",
+          "pron": "ésa síntezi déisha dyi fóra detálhis irrelevántis"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Preparando um resumo",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Preciso resumir esse relatório de vinte páginas para amanhã.",
+            "es": "Necesito resumir este informe de veinte páginas para mañana."
+          },
+          {
+            "q": "B",
+            "t": "Comece pela ideia principal. O que ele defende?",
+            "es": "Empieza por la idea principal. ¿Qué defiende?"
+          },
+          {
+            "q": "A",
+            "t": "Em linhas gerais, que a empresa precisa investir em tecnologia.",
+            "es": "A grandes rasgos, que la empresa necesita invertir en tecnología."
+          },
+          {
+            "q": "B",
+            "t": "Então destaque os três trechos que provam isso.",
+            "es": "Entonces destaca los tres fragmentos que lo prueban."
+          },
+          {
+            "q": "A",
+            "t": "Boa. Vou focar no essencial e cortar os exemplos.",
+            "es": "Buena. Voy a enfocarme en lo esencial y cortar los ejemplos."
+          }
+        ]
+      },
+      "nota": "«Resumo» es un texto corto que condensa otro; «síntese» es más formal y elaborada. En la escuela y en el trabajo se usa más «resumo»."
+    },
+    {
+      "id": "pt-b2-u8-l2",
+      "n": 2,
+      "titulo": "Parafrasear y reformular",
+      "objetivo": "Decir lo mismo con otras palabras.",
+      "intro": "Parafrasear demuestra que entendiste. Truco: abre con «ou seja» o «em outras palavras» y explica con palabras más simples.",
+      "palabras": [
+        {
+          "t": "parafrasear",
+          "es": "parafrasear",
+          "pron": "parafrazeár",
+          "ej": "Peça ao aluno para parafrasear o texto.",
+          "ejes": "Pídele al alumno que parafrasee el texto.",
+          "cog": true
+        },
+        {
+          "t": "ou melhor",
+          "es": "o mejor dicho",
+          "pron": "ou meyór",
+          "ej": "Chegou ontem, ou melhor, anteontem.",
+          "ejes": "Llegó ayer, o mejor dicho, anteayer.",
+          "cog": false
+        },
+        {
+          "t": "isto é",
+          "es": "esto es / es decir",
+          "pron": "ístu é",
+          "ej": "Vou viajar na segunda, isto é, depois de amanhã.",
+          "ejes": "Voy a viajar el lunes, es decir, pasado mañana.",
+          "cog": false
+        },
+        {
+          "t": "em outras palavras",
+          "es": "en otras palabras",
+          "pron": "ein ótras palávras",
+          "ej": "Em outras palavras, ele não quer ir.",
+          "ejes": "En otras palabras, él no quiere ir.",
+          "cog": false
+        },
+        {
+          "t": "quer dizer",
+          "es": "quiere decir / o sea",
+          "pron": "kér dyizér",
+          "ej": "Quer dizer que você desistiu?",
+          "ejes": "¿O sea que desististe?",
+          "cog": false
+        },
+        {
+          "t": "dito de outro modo",
+          "es": "dicho de otro modo",
+          "pron": "dyítu dyi ótru módu",
+          "ej": "Dito de outro modo, não há tempo.",
+          "ejes": "Dicho de otro modo, no hay tiempo.",
+          "cog": false
+        },
+        {
+          "t": "citar",
+          "es": "citar",
+          "pron": "sitár",
+          "ej": "Não esqueça de citar a fonte.",
+          "ejes": "No olvides citar la fuente.",
+          "cog": true
+        },
+        {
+          "t": "citação",
+          "es": "cita",
+          "pron": "sitasáun",
+          "ej": "Essa citação é de um poeta famoso.",
+          "ejes": "Esa cita es de un poeta famoso.",
+          "cog": true
+        }
+      ],
+      "frases": [
+        {
+          "t": "Em outras palavras, o projeto foi cancelado.",
+          "es": "En otras palabras, el proyecto fue cancelado.",
+          "pron": "ein ótras palávras, u proyétu fói kanseládu"
+        },
+        {
+          "t": "Ele chega amanhã, ou melhor, depois de amanhã.",
+          "es": "Él llega mañana, o mejor dicho, pasado mañana.",
+          "pron": "éli shéga amañán, ou meyór, depóis dyi amañán"
+        },
+        {
+          "t": "Quer dizer que a reunião foi adiada?",
+          "es": "¿O sea que la reunión fue pospuesta?",
+          "pron": "kér dyizér ki a reuniáun fói adiáda"
+        },
+        {
+          "t": "Dito de outro modo, não temos orçamento.",
+          "es": "Dicho de otro modo, no tenemos presupuesto.",
+          "pron": "dyítu dyi ótru módu, náun témus orsaméntu"
+        },
+        {
+          "t": "Ao citar um autor, sempre indique a fonte.",
+          "es": "Al citar a un autor, siempre indica la fuente.",
+          "pron": "au sitár ún autór, sémpri indíki a fóntyi"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Entendendo uma explicação",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "O professor disse que a hipótese é insustentável.",
+            "es": "El profesor dijo que la hipótesis es insostenible."
+          },
+          {
+            "q": "B",
+            "t": "Quer dizer que ele não aceita o argumento?",
+            "es": "¿O sea que no acepta el argumento?"
+          },
+          {
+            "q": "A",
+            "t": "Em outras palavras, sim. Ou melhor, aceita só com mais provas.",
+            "es": "En otras palabras, sí. O mejor dicho, lo acepta solo con más pruebas."
+          },
+          {
+            "q": "B",
+            "t": "Dito de outro modo, precisamos de dados novos.",
+            "es": "Dicho de otro modo, necesitamos datos nuevos."
+          },
+          {
+            "q": "A",
+            "t": "Exato. Vou citar o artigo que ele recomendou.",
+            "es": "Exacto. Voy a citar el artículo que él recomendó."
+          }
+        ]
+      },
+      "nota": "«Ou melhor» corrige lo que acabas de decir; «ou seja» y «isto é» aclaran sin corregir. «Quer dizer» también es coloquial: «ou seja» en conversación."
+    },
+    {
+      "id": "pt-b2-u8-l3",
+      "n": 3,
+      "titulo": "Causa y consecuencia en textos",
+      "objetivo": "Enlazar causas y consecuencias con conectores formales.",
+      "intro": "En textos largos, «porque» no basta. Truco: causa conocida = «já que»; causa formal = «uma vez que»; consecuencia = «portanto / de modo que».",
+      "palabras": [
+        {
+          "t": "já que",
+          "es": "ya que",
+          "pron": "yá ki",
+          "ej": "Já que está tarde, vamos embora.",
+          "ejes": "Ya que es tarde, nos vamos.",
+          "cog": false
+        },
+        {
+          "t": "visto que",
+          "es": "puesto que",
+          "pron": "vístu ki",
+          "ej": "Visto que ninguém veio, cancelamos.",
+          "ejes": "Puesto que nadie vino, cancelamos.",
+          "cog": false
+        },
+        {
+          "t": "uma vez que",
+          "es": "una vez que / dado que",
+          "pron": "úma véz ki",
+          "ej": "Uma vez que o prazo acabou, não há como mudar.",
+          "ejes": "Dado que el plazo terminó, no hay cómo cambiarlo.",
+          "cog": false
+        },
+        {
+          "t": "de modo que",
+          "es": "de modo que",
+          "pron": "dyi módu ki",
+          "ej": "Fizemos o plano, de modo que tudo ficou claro.",
+          "ejes": "Hicimos el plan, de modo que todo quedó claro.",
+          "cog": false
+        },
+        {
+          "t": "por conseguinte",
+          "es": "por consiguiente",
+          "pron": "por konseguíntyi",
+          "ej": "Houve atraso; por conseguinte, adiamos.",
+          "ejes": "Hubo retraso; por consiguiente, pospusimos.",
+          "cog": false
+        },
+        {
+          "t": "devido a",
+          "es": "debido a",
+          "pron": "devídu a",
+          "ej": "Devido a falhas técnicas, o evento foi adiado.",
+          "ejes": "Debido a fallas técnicas, el evento fue pospuesto.",
+          "cog": false
+        },
+        {
+          "t": "graças a",
+          "es": "gracias a",
+          "pron": "grásas a",
+          "ej": "Graças a você, tudo deu certo.",
+          "ejes": "Gracias a ti, todo salió bien.",
+          "cog": false
+        },
+        {
+          "t": "em virtude de",
+          "es": "en virtud de",
+          "pron": "ein virtúdyi dyi",
+          "ej": "Em virtude de problemas técnicos, o jogo foi cancelado.",
+          "ejes": "A raíz de problemas técnicos, el juego fue cancelado.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Já que choveu, a gente ficou em casa.",
+          "es": "Ya que llovió, nos quedamos en casa.",
+          "pron": "yá ki shovéu, a yénti ficóu ein káza"
+        },
+        {
+          "t": "Devido ao atraso, a reunião começou às dez.",
+          "es": "Debido al retraso, la reunión empezó a las diez.",
+          "pron": "devídu au atrázu, a reuniáun komesóu as dés"
+        },
+        {
+          "t": "Graças ao apoio da equipe, terminamos a tempo.",
+          "es": "Gracias al apoyo del equipo, terminamos a tiempo.",
+          "pron": "grásas au apóiu da ekípi, terminámus a témpu"
+        },
+        {
+          "t": "Visto que ninguém se manifestou, o assunto foi encerrado.",
+          "es": "Puesto que nadie se manifestó, el asunto fue cerrado.",
+          "pron": "vístu ki ningéin si manifestóu, u asúntu fói enserádu"
+        },
+        {
+          "t": "O custo subiu, de modo que precisamos reduzir despesas.",
+          "es": "El costo subió, de modo que necesitamos reducir gastos.",
+          "pron": "u kústu subíu, dyi módu ki presisámus redusír despézas"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Explicando um atraso",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Por que o projeto atrasou?",
+            "es": "¿Por qué se atrasó el proyecto?"
+          },
+          {
+            "q": "B",
+            "t": "Devido a falhas no sistema, a equipe perdeu duas semanas.",
+            "es": "Debido a fallas en el sistema, el equipo perdió dos semanas."
+          },
+          {
+            "q": "A",
+            "t": "Já que isso aconteceu, quando vamos entregar?",
+            "es": "Ya que eso ocurrió, ¿cuándo vamos a entregar?"
+          },
+          {
+            "q": "B",
+            "t": "Em duas semanas, graças ao esforço de todos.",
+            "es": "En dos semanas, gracias al esfuerzo de todos."
+          },
+          {
+            "q": "A",
+            "t": "Então avise o cliente, de modo que ele não se surpreenda.",
+            "es": "Entonces avisa al cliente, de modo que no se sorprenda."
+          }
+        ]
+      },
+      "nota": "«Em virtude de» y «por conseguinte» son formales y se ven más en textos oficiales; «por isso» y «já que» sirven mejor en la conversación."
+    },
+    {
+      "id": "pt-b2-u8-l4",
+      "n": 4,
+      "titulo": "La estructura de un texto largo",
+      "objetivo": "Reconocer y nombrar las partes de un texto largo.",
+      "intro": "Un texto bien armado tiene partes claras. Truco: introducción presenta el tema, desarrollo lo explica y conclusión cierra con la idea principal.",
+      "palabras": [
+        {
+          "t": "introdução",
+          "es": "introducción",
+          "pron": "introdusáun",
+          "ej": "A introdução apresenta o tema.",
+          "ejes": "La introducción presenta el tema.",
+          "cog": true
+        },
+        {
+          "t": "desenvolvimento",
+          "es": "desarrollo",
+          "pron": "dezenvolviméntu",
+          "ej": "O desenvolvimento tem três partes.",
+          "ejes": "El desarrollo tiene tres partes.",
+          "cog": false
+        },
+        {
+          "t": "conclusão",
+          "es": "conclusión",
+          "pron": "konklusáun",
+          "ej": "A conclusão resume as ideias.",
+          "ejes": "La conclusión resume las ideas.",
+          "cog": true
+        },
+        {
+          "t": "parágrafo",
+          "es": "párrafo",
+          "pron": "parágrafu",
+          "ej": "Cada parágrafo traz uma ideia.",
+          "ejes": "Cada párrafo trae una idea.",
+          "cog": true
+        },
+        {
+          "t": "tese",
+          "es": "tesis",
+          "pron": "tézi",
+          "ej": "A tese do autor é clara.",
+          "ejes": "La tesis del autor es clara.",
+          "cog": true
+        },
+        {
+          "t": "tópico",
+          "es": "tema / punto",
+          "pron": "tópiku",
+          "ej": "Cada tópico precisa de um exemplo.",
+          "ejes": "Cada punto necesita un ejemplo.",
+          "cog": true
+        },
+        {
+          "t": "ideia central",
+          "es": "idea central",
+          "pron": "idéia sentrál",
+          "ej": "A ideia central é a sustentabilidade.",
+          "ejes": "La idea central es la sostenibilidad.",
+          "cog": false
+        },
+        {
+          "t": "referência",
+          "es": "referencia",
+          "pron": "referénsia",
+          "ej": "Inclua uma referência no final.",
+          "ejes": "Incluye una referencia al final.",
+          "cog": true
+        }
+      ],
+      "frases": [
+        {
+          "t": "A introdução apresenta o tema e a tese do autor.",
+          "es": "La introducción presenta el tema y la tesis del autor.",
+          "pron": "a introdusáun aprezénta u téma i a tézi du autór"
+        },
+        {
+          "t": "Cada parágrafo desenvolve uma ideia diferente.",
+          "es": "Cada párrafo desarrolla una idea diferente.",
+          "pron": "káda parágrafu dezenvólvi úma idéia diferéntyi"
+        },
+        {
+          "t": "A conclusão retoma a ideia central do texto.",
+          "es": "La conclusión retoma la idea central del texto.",
+          "pron": "a konklusáun retóma a idéia sentrál du téstu"
+        },
+        {
+          "t": "Antes de escrever, defina a tese e os tópicos.",
+          "es": "Antes de escribir, define la tesis y los puntos.",
+          "pron": "ántyis dyi eskrevér, defíni a tézi i us tópikus"
+        },
+        {
+          "t": "No final, cite todas as referências usadas.",
+          "es": "Al final, cita todas las referencias usadas.",
+          "pron": "nu finál, síti tódas as referénsias uzádas"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Revisando um trabalho",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Terminei o trabalho, mas não sei se a estrutura está boa.",
+            "es": "Terminé el trabajo, pero no sé si la estructura está bien."
+          },
+          {
+            "q": "B",
+            "t": "Mostre a introdução. Ela apresenta a tese com clareza?",
+            "es": "Muéstrame la introducción. ¿Presenta la tesis con claridad?"
+          },
+          {
+            "q": "A",
+            "t": "Acho que sim. O desenvolvimento tem quatro parágrafos.",
+            "es": "Creo que sí. El desarrollo tiene cuatro párrafos."
+          },
+          {
+            "q": "B",
+            "t": "Bom. E a conclusão retoma a ideia central?",
+            "es": "Bien. ¿Y la conclusión retoma la idea central?"
+          },
+          {
+            "q": "A",
+            "t": "Retoma, e coloquei as referências no final.",
+            "es": "La retoma, y puse las referencias al final."
+          }
+        ]
+      },
+      "nota": "En el ámbito escolar se pide siempre «introdução, desenvolvimento e conclusão»; las «referências» van al final, como en cualquier trabajo académico."
+    },
+    {
+      "id": "pt-b2-u8-l5",
+      "n": 5,
+      "titulo": "Repaso: resumir un texto largo",
+      "objetivo": "Resumir y parafrasear un texto con conectores y estructura clara.",
+      "intro": "Une todo: resumen, paráfrasis, causa y consecuencia. Truco: tu resumen debe tener tesis, dos argumentos y conclusión, unidos por conectores.",
+      "palabras": [
+        {
+          "t": "o autor defende",
+          "es": "el autor defiende",
+          "pron": "u autór deféndi",
+          "ej": "Segundo o texto, o autor defende a mudança.",
+          "ejes": "Según el texto, el autor defiende el cambio.",
+          "cog": false
+        },
+        {
+          "t": "o texto aborda",
+          "es": "el texto aborda",
+          "pron": "u téstu abórda",
+          "ej": "Hoje o texto aborda um tema atual.",
+          "ejes": "Hoy el texto aborda un tema actual.",
+          "cog": false
+        },
+        {
+          "t": "conforme",
+          "es": "conforme / según",
+          "pron": "konfórmi",
+          "ej": "Conforme o texto, a economia cresceu.",
+          "ejes": "Según el texto, la economía creció.",
+          "cog": false
+        },
+        {
+          "t": "apontar",
+          "es": "señalar",
+          "pron": "apontár",
+          "ej": "O estudo vai apontar os principais riscos.",
+          "ejes": "El estudio va a señalar los principales riesgos.",
+          "cog": false
+        },
+        {
+          "t": "concluir que",
+          "es": "concluir que",
+          "pron": "konkluír ki",
+          "ej": "Podemos concluir que o plano funcionou.",
+          "ejes": "Podemos concluir que el plan funcionó.",
+          "cog": true
+        },
+        {
+          "t": "reforçar",
+          "es": "reforzar",
+          "pron": "reforsár",
+          "ej": "Os dados vão reforçar essa ideia.",
+          "ejes": "Los datos van a reforzar esa idea.",
+          "cog": false
+        },
+        {
+          "t": "em conclusão",
+          "es": "en conclusión",
+          "pron": "ein konklusáun",
+          "ej": "Em conclusão, o projeto é viável.",
+          "ejes": "En conclusión, el proyecto es viable.",
+          "cog": true
+        },
+        {
+          "t": "para finalizar",
+          "es": "para finalizar",
+          "pron": "pára finalizár",
+          "ej": "Para finalizar, agradeço a todos.",
+          "ejes": "Para finalizar, agradezco a todos.",
+          "cog": true
+        }
+      ],
+      "frases": [
+        {
+          "t": "O texto aborda a crise da água e defende o reuso.",
+          "es": "El texto aborda la crisis del agua y defiende el reúso.",
+          "pron": "u téstu abórda a krízi da água i deféndi u réuzu"
+        },
+        {
+          "t": "Conforme o autor, os dados reforçam essa tese.",
+          "es": "Según el autor, los datos refuerzan esa tesis.",
+          "pron": "konfórmi u autór, us dádus reforsáu ésa tézi"
+        },
+        {
+          "t": "Em outras palavras, a água é um recurso limitado.",
+          "es": "En otras palabras, el agua es un recurso limitado.",
+          "pron": "ein ótras palávras, a água é úm rekúrsu limitádu"
+        },
+        {
+          "t": "Já que o problema é global, é preciso agir em conjunto.",
+          "es": "Ya que el problema es global, hay que actuar en conjunto.",
+          "pron": "yá ki u probléma é globál, é presísu ayír ein konyúntu"
+        },
+        {
+          "t": "Em conclusão, o autor propõe ações urgentes e viáveis.",
+          "es": "En conclusión, el autor propone acciones urgentes y viables.",
+          "pron": "ein konklusáun, u autór propóni asóis uryéntis i viávis"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Resumindo um artigo",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Pode resumir o artigo que você leu ontem?",
+            "es": "¿Puedes resumir el artículo que leíste ayer?"
+          },
+          {
+            "q": "B",
+            "t": "Claro. O texto aborda a crise da água e o autor defende o reuso.",
+            "es": "Claro. El texto aborda la crisis del agua y el autor defiende el reúso."
+          },
+          {
+            "q": "A",
+            "t": "E quais são os argumentos?",
+            "es": "¿Y cuáles son los argumentos?"
+          },
+          {
+            "q": "B",
+            "t": "Conforme o autor, o consumo cresce e, portanto, os recursos diminuem.",
+            "es": "Según el autor, el consumo crece y, por lo tanto, los recursos disminuyen."
+          },
+          {
+            "q": "A",
+            "t": "E a conclusão?",
+            "es": "¿Y la conclusión?"
+          },
+          {
+            "q": "B",
+            "t": "Em conclusão, ele propõe ações urgentes. Em outras palavras, agir já.",
+            "es": "En conclusión, propone acciones urgentes. En otras palabras, actuar ya."
+          }
+        ]
+      },
+      "nota": "Un resumen perfecto responde tres preguntas: ¿de qué trata?, ¿qué defiende? y ¿qué concluye? Usa «o texto aborda», «o autor defende» y «em conclusão»."
+    }
+  ]
+}

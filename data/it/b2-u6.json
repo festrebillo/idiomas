@@ -1,0 +1,223 @@
+{
+  "id": "it-b2-u6",
+  "idioma": "it",
+  "nivel": "B2",
+  "n": 6,
+  "titulo": "Deducir y especular",
+  "resumen": "Aprenderás a suponer y deducir con «dovere» de probabilidad, el futuro epistémico y el congiuntivo con «forse», «può darsi che» y «sembra che».",
+  "puedo": [
+    "Usar «dovere» para expresar probabilidad: deve essere, dev'essere.",
+    "Usar el futuro para suponer algo del presente: sarà, avrà.",
+    "Usar «forse», «magari» y «può darsi che» con el modo correcto.",
+    "Usar «sembra che», «pare che» y «si direbbe che».",
+    "Argumentar una suposición con indicios y expresar distintos grados de certeza."
+  ],
+  "gramatica": {
+    "titulo": "Suposición: dovere, futuro y congiuntivo",
+    "texto": "El italiano tiene tres formas principales de suponer.\n1. Dovere + infinitivo (muy probable): Deve essere stanco (debe de estar cansado). Pasado: Deve aver perso il treno (debe de haber perdido el tren).\n2. Futuro epistémico (suposición sobre el presente): Sarà in ufficio (estará en la oficina). Pasado: Avrà perso il treno (habrá perdido el tren).\n3. Congiuntivo con expresiones de duda: Può darsi che sia stanco; sembra che abbia perso il treno. «Forse» admite indicativo o congiuntivo: Forse è stanco / Forse sia stanco (este es literario).\nTruco: «deve» y el futuro son casi sinónimos; el futuro suena un poco más casual, «deve» más seguro.",
+    "tabla": [
+      ["Deve essere stanco.", "Debe de estar cansado.", "déve ésere stánco"],
+      ["Sarà in ufficio.", "Estará en la oficina.", "sará in uffíchio"],
+      ["Avrà perso il treno.", "Habrá perdido el tren.", "avrá pérso il tréno"],
+      ["Può darsi che sia stanco.", "Puede ser que esté cansado.", "puó dársi ke sía stánco"],
+      ["Sembra che abbia perso il treno.", "Parece que perdió el tren.", "sémbra ke ábbia pérso il tréno"]
+    ],
+    "errores": [
+      "«Dovere» de probabilidad no significa obligación: «deve essere vero» = «debe de ser verdad», no «tiene que ser verdad (obligación)».",
+      "No uses el futuro para el futuro real al suponer: «sarà a casa» (supongo que está) es presente; «sarà a casa domani» (estará mañana) es futuro real.",
+      "Con «può darsi che» y «sembra che» siempre congiuntivo: «sembra che sia», no «sembra che è»."
+    ]
+  },
+  "practica": [
+    "Mira diez fotos de personas en las redes y escribe una suposición para cada una: «Deve essere...», «Sarà...» (8 minutos).",
+    "Escribe cinco deducciones sobre un compañero que no llegó: «Avrà perso il treno» (5 minutos).",
+    "Lee una noticia y subraya las expresiones de duda: «sembra che», «pare che», «a quanto pare» (6 minutos).",
+    "Habla en voz alta durante un minuto sobre un misterio cotidiano (por qué un vecino no sale) con cinco hipótesis distintas (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b2-u6-l1",
+      "n": 1,
+      "titulo": "Dovere de probabilidad",
+      "objetivo": "Usar «dovere» para expresar que algo es muy probable.",
+      "intro": "«Deve essere» = «debe de ser». No es obligación sino suposición apoyada en indicios. Truco: si en español dices «debe de», aquí va «dovere».",
+      "palabras": [
+        { "t": "deve essere", "es": "debe de ser / estar", "pron": "déve ésere", "ej": "Deve essere tardi: è già buio.", "ejes": "Debe de ser tarde: ya está oscuro.", "cog": false },
+        { "t": "deve avere", "es": "debe de tener", "pron": "déve avére", "ej": "Deve avere almeno quarant'anni.", "ejes": "Debe de tener al menos cuarenta años.", "cog": false },
+        { "t": "deve aver perso", "es": "debe de haber perdido", "pron": "déve avér pérso", "ej": "Deve aver perso il treno.", "ejes": "Debe de haber perdido el tren.", "cog": false },
+        { "t": "devono essere", "es": "deben de ser", "pron": "dévono ésere", "ej": "Devono essere già arrivati.", "ejes": "Deben de haber llegado ya.", "cog": false },
+        { "t": "dev'essere", "es": "debe de ser (contraído)", "pron": "dév ésere", "ej": "Dev'essere stato un bel viaggio.", "ejes": "Debe de haber sido un lindo viaje.", "cog": false },
+        { "t": "dovrebbe", "es": "debería (probable)", "pron": "dovrébbe", "ej": "Dovrebbe arrivare tra poco.", "ejes": "Debería llegar dentro de poco.", "cog": false },
+        { "t": "senza dubbio", "es": "sin duda", "pron": "sénsa dúbbio", "ej": "È senza dubbio il miglior ristorante della zona.", "ejes": "Es sin duda el mejor restaurante de la zona.", "cog": false },
+        { "t": "a giudicare da", "es": "a juzgar por", "pron": "a yudicáre da", "ej": "A giudicare da questo cielo, pioverà.", "ejes": "A juzgar por este cielo, lloverá.", "cog": false },
+        { "t": "evidentemente", "es": "evidentemente", "pron": "evidenteménte", "ej": "Evidentemente nessuno ha letto le istruzioni.", "ejes": "Evidentemente nadie leyó las instrucciones.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Deve essere tardi: tutte le luci sono spente.", "es": "Debe de ser tarde: todas las luces están apagadas.", "pron": "déve ésere tárdi túte le lúchi sóno spénte" },
+        { "t": "A giudicare dall'accento, deve essere napoletano.", "es": "A juzgar por el acento, debe de ser napolitano.", "pron": "a yudicáre dallachénto déve ésere napoletáno" },
+        { "t": "Deve aver perso il treno, non risponde al telefono.", "es": "Debe de haber perdido el tren, no contesta el teléfono.", "pron": "déve avér pérso il tréno non rispónde al teléfono" },
+        { "t": "Devono essere già a casa: le finestre sono aperte.", "es": "Deben de estar ya en casa: las ventanas están abiertas.", "pron": "dévono ésere yá a cása le finéstre sóno apérte" },
+        { "t": "Dev'essere stato un viaggio lunghissimo.", "es": "Debe de haber sido un viaje larguísimo.", "pron": "dév ésere státo un viádyo lunguíssimo" }
+      ],
+      "dialogo": {
+        "titulo": "Un vicino misterioso",
+        "lineas": [
+          { "q": "A", "t": "Hai visto? Le luci del vicino sono accese da due giorni.", "es": "¿Viste? Las luces del vecino están prendidas hace dos días." },
+          { "q": "B", "t": "Deve essere partito in fretta.", "es": "Debe de haber salido apurado." },
+          { "q": "A", "t": "O deve essere malato, non lo vedo mai.", "es": "O debe de estar enfermo, nunca lo veo." },
+          { "q": "B", "t": "A giudicare dalla posta, dev'essere via da una settimana.", "es": "A juzgar por el correo, debe de estar fuera hace una semana." },
+          { "q": "A", "t": "Dovrebbe tornare presto, no?", "es": "Debería volver pronto, ¿no?" },
+          { "q": "B", "t": "Senza dubbio. Evidentemente ha lasciato la luce per i ladri!", "es": "Sin duda. ¡Evidentemente dejó la luz para los ladrones!" }
+        ]
+      },
+      "nota": "Obligación: «devo studiare» (tengo que estudiar). Probabilidad: «deve essere stanco» (debe de estar cansado). El contexto decide; con essere casi siempre es probabilidad."
+    },
+    {
+      "id": "it-b2-u6-l2",
+      "n": 2,
+      "titulo": "Futuro epistémico",
+      "objetivo": "Usar el futuro simple y anterior para suponer cosas del presente y del pasado.",
+      "intro": "El futuro simple expresa suposición sobre el presente («sarà a casa») y el futuro anteriore sobre el pasado («avrà perso»). Truco: lo mismo que el español «estará», «habrá llegado».",
+      "palabras": [
+        { "t": "sarà", "es": "estará, será (suposición)", "pron": "sará", "ej": "Sarà a casa, ha la luce accesa.", "ejes": "Estará en casa, tiene la luz prendida.", "cog": false },
+        { "t": "avrà", "es": "tendrá (suposición)", "pron": "avrá", "ej": "Avrà trent'anni, non di più.", "ejes": "Tendrá treinta años, no más.", "cog": false },
+        { "t": "avrà perso", "es": "habrá perdido", "pron": "avrá pérso", "ej": "Avrà perso il treno.", "ejes": "Habrá perdido el tren.", "cog": false },
+        { "t": "sarà arrivato", "es": "habrá llegado", "pron": "sará arriváto", "ej": "Sarà arrivato in ufficio da un pezzo.", "ejes": "Habrá llegado a la oficina hace rato.", "cog": false },
+        { "t": "costerà", "es": "costará", "pron": "costerá", "ej": "Costerà almeno cento euro.", "ejes": "Costará al menos cien euros.", "cog": false },
+        { "t": "saranno", "es": "serán / estarán", "pron": "saránno", "ej": "Saranno le otto, ormai.", "ejes": "Serán las ocho, ya.", "cog": false },
+        { "t": "avranno", "es": "tendrán", "pron": "avránno", "ej": "Avranno almeno venti anni.", "ejes": "Tendrán al menos veinte años.", "cog": false },
+        { "t": "chissà", "es": "quién sabe", "pron": "quissá", "ej": "Chissà dov'è finito.", "ejes": "Quién sabe dónde habrá ido a parar.", "cog": false },
+        { "t": "sarà per questo", "es": "será por eso", "pron": "sará per cuésto", "ej": "Sarà per questo che non risponde.", "ejes": "Será por eso que no responde.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Dov'è Anna? Sarà ancora in riunione.", "es": "¿Dónde está Anna? Estará todavía en reunión.", "pron": "dov ánna sará ancóra in riunióne" },
+        { "t": "Quanto costerà questo orologio? Costerà almeno mille euro.", "es": "¿Cuánto costará este reloj? Costará al menos mil euros.", "pron": "cuánto costerá cuésto orolódyo costerá alméno mílle éuro" },
+        { "t": "Non risponde: avrà perso il telefono.", "es": "No contesta: habrá perdido el teléfono.", "pron": "non rispónde avrá pérso il teléfono" },
+        { "t": "Saranno le otto, ormai.", "es": "Serán las ocho, ya.", "pron": "saránno le ótto ormái" },
+        { "t": "Sarà per questo che nessuno ha risposto.", "es": "Será por eso que nadie respondió.", "pron": "sará per cuésto ke nesúno a rispósto" }
+      ],
+      "dialogo": {
+        "titulo": "Dov'è Luca?",
+        "lineas": [
+          { "q": "A", "t": "Luca non è ancora arrivato. Che ore sono?", "es": "Luca todavía no llegó. ¿Qué hora es?" },
+          { "q": "B", "t": "Saranno le nove e mezza, credo.", "es": "Serán las nueve y media, creo." },
+          { "q": "A", "t": "Avrà perso l'autobus, come al solito.", "es": "Habrá perdido el autobús, como siempre." },
+          { "q": "B", "t": "O sarà rimasto bloccato nel traffico.", "es": "O se habrá quedado atascado en el tráfico." },
+          { "q": "A", "t": "Chissà quanto ci metterà ad arrivare.", "es": "Quién sabe cuánto tardará en llegar." },
+          { "q": "B", "t": "Sarà qui tra mezz'ora, vedrai.", "es": "Estará aquí en media hora, ya verás." }
+        ]
+      },
+      "nota": "El futuro epistémico se usa en el habla informal con confianza: «Sarà» es casi una respuesta completa a «¿Dónde está?» para decir «supongo que sí / no sé»."
+    },
+    {
+      "id": "it-b2-u6-l3",
+      "n": 3,
+      "titulo": "Forse, magari y può darsi che",
+      "objetivo": "Expresar posibilidad con «forse», «magari», «può darsi che» y elegir el modo correcto.",
+      "intro": "«Forse» admite indicativo; «può darsi che» y «è possibile che» piden congiuntivo. Truco: si hay «che», casi siempre congiuntivo.",
+      "palabras": [
+        { "t": "forse", "es": "quizá", "pron": "fórse", "ej": "Forse domani piove.", "ejes": "Quizá mañana llueva.", "cog": false },
+        { "t": "magari", "es": "a lo mejor", "pron": "magári", "ej": "Magari arriva domani.", "ejes": "A lo mejor llega mañana.", "cog": false },
+        { "t": "può darsi che", "es": "puede ser que", "pron": "puó dársi ke", "ej": "Può darsi che sia in ritardo.", "ejes": "Puede ser que esté retrasado.", "cog": false },
+        { "t": "è possibile che", "es": "es posible que", "pron": "e possíbile ke", "ej": "È possibile che abbia sbagliato indirizzo.", "ejes": "Es posible que se haya equivocado de dirección.", "cog": false },
+        { "t": "probabilmente", "es": "probablemente", "pron": "probabilménte", "ej": "Probabilmente parte domani.", "ejes": "Probablemente sale mañana.", "cog": true },
+        { "t": "è probabile che", "es": "es probable que", "pron": "e probábile ke", "ej": "È probabile che piova stasera.", "ejes": "Es probable que llueva esta noche.", "cog": false },
+        { "t": "forse sì, forse no", "es": "quizá sí, quizá no", "pron": "fórse sí fórse nó", "ej": "Vieni? Forse sì, forse no.", "ejes": "¿Vienes? Quizá sí, quizá no.", "cog": false },
+        { "t": "non è detto che", "es": "no es seguro que", "pron": "non e détto ke", "ej": "Non è detto che vinca lui.", "ejes": "No es seguro que gane él.", "cog": false },
+        { "t": "potrebbe darsi", "es": "podría ser", "pron": "potrébbe dársi", "ej": "Potrebbe darsi che abbia ragione.", "ejes": "Podría ser que tenga razón.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Forse domani piove, forse no.", "es": "Quizá mañana llueva, quizá no.", "pron": "fórse dománi piove fórse nó" },
+        { "t": "Può darsi che abbia perso il portafoglio in treno.", "es": "Puede ser que haya perdido la billetera en el tren.", "pron": "puó dársi ke ábbia pérso il portafóñio in tréno" },
+        { "t": "È probabile che arrivino con un'ora di ritardo.", "es": "Es probable que lleguen con una hora de retraso.", "pron": "e probábile ke arrívino con unóra di ritárdo" },
+        { "t": "Non è detto che sia colpa sua.", "es": "No es seguro que sea culpa suya.", "pron": "non e détto ke sía cólpa súa" },
+        { "t": "Magari ha dimenticato di chiamare.", "es": "A lo mejor se olvidó de llamar.", "pron": "magári a dimenticáto di quiamáre" }
+      ],
+      "dialogo": {
+        "titulo": "Un ritardo sospetto",
+        "lineas": [
+          { "q": "A", "t": "Paolo non risponde da stamattina. Che strano.", "es": "Paolo no contesta desde esta mañana. Qué raro." },
+          { "q": "B", "t": "Può darsi che sia in riunione.", "es": "Puede ser que esté en una reunión." },
+          { "q": "A", "t": "Oppure è probabile che abbia il telefono scarico.", "es": "O es probable que tenga el teléfono sin batería." },
+          { "q": "B", "t": "Magari ha dimenticato di caricarlo.", "es": "A lo mejor se olvidó de cargarlo." },
+          { "q": "A", "t": "Non è detto che sia successo qualcosa di grave.", "es": "No es seguro que haya pasado algo grave." },
+          { "q": "B", "t": "Forse sì, forse no. Aspettiamo ancora un po'.", "es": "Quizá sí, quizá no. Esperemos un poco más." }
+        ]
+      },
+      "nota": "«Forse» + indicativo es el uso normal; «forse» + congiuntivo suena literario. «Magari» con indicativo es coloquial; con congiuntivo imperfetto es «ojalá»."
+    },
+    {
+      "id": "it-b2-u6-l4",
+      "n": 4,
+      "titulo": "Sembra che, pare che, a quanto pare",
+      "objetivo": "Usar verbos y expresiones de apariencia con el modo adecuado.",
+      "intro": "«Sembra che», «pare che» y «si direbbe che» presentan información como probable pero sin certeza. Truco: «sembra che» + congiuntivo; «mi sembra di» + infinitivo con el mismo sujeto.",
+      "palabras": [
+        { "t": "sembra che", "es": "parece que", "pron": "sémbra ke", "ej": "Sembra che abbia vinto lui.", "ejes": "Parece que ganó él.", "cog": false },
+        { "t": "pare che", "es": "dicen que, parece que", "pron": "páre ke", "ej": "Pare che il treno sia in ritardo.", "ejes": "Parece que el tren está retrasado.", "cog": false },
+        { "t": "a quanto pare", "es": "al parecer", "pron": "a cuánto páre", "ej": "A quanto pare, non ha capito nulla.", "ejes": "Al parecer, no ha entendido nada.", "cog": false },
+        { "t": "si direbbe che", "es": "se diría que", "pron": "si direbbe ke", "ej": "Si direbbe che sia sempre stato qui.", "ejes": "Se diría que siempre ha estado aquí.", "cog": false },
+        { "t": "mi sembra di", "es": "me parece (que yo)", "pron": "mi sémbra di", "ej": "Mi sembra di conoscerti.", "ejes": "Me parece conocerte.", "cog": false },
+        { "t": "ho l'impressione che", "es": "tengo la impresión de que", "pron": "o limpressióne ke", "ej": "Ho l'impressione che non sia stata sincera.", "ejes": "Tengo la impresión de que no fue sincera.", "cog": false },
+        { "t": "a prima vista", "es": "a primera vista", "pron": "a príma vísta", "ej": "A prima vista sembra tutto in ordine.", "ejes": "A primera vista todo parece en orden.", "cog": false },
+        { "t": "stando a", "es": "según, de acuerdo con", "pron": "stándo a", "ej": "Stando a quanto dice, partirà domani.", "ejes": "Según lo que dice, partirá mañana.", "cog": false },
+        { "t": "credo che", "es": "creo que", "pron": "crédo ke", "ej": "Credo che sia già partito.", "ejes": "Creo que ya partió.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Sembra che abbiano cambiato programma all'ultimo momento.", "es": "Parece que cambiaron el programa a último momento.", "pron": "sémbra ke ábbiano cambiáto programa allúltimo moménto" },
+        { "t": "A quanto pare, il volo è stato cancellato.", "es": "Al parecer, el vuelo fue cancelado.", "pron": "a cuánto páre il vólo e státo cancelláto" },
+        { "t": "Ho l'impressione che non abbiano capito.", "es": "Tengo la impresión de que no entendieron.", "pron": "o limpressióne ke non ábbiano capíto" },
+        { "t": "Stando a quanto dice il giornale, la crisi è finita.", "es": "Según lo que dice el periódico, la crisis ha terminado.", "pron": "stándo a cuánto díce il yornále la crísi e finíta" },
+        { "t": "A prima vista sembra una buona offerta.", "es": "A primera vista parece una buena oferta.", "pron": "a príma vísta sémbra úna buóna offérta" }
+      ],
+      "dialogo": {
+        "titulo": "Voci di corridoio",
+        "lineas": [
+          { "q": "A", "t": "Hai sentito? Sembra che chiudano l'ufficio di Torino.", "es": "¿Escuchaste? Parece que cierran la oficina de Turín." },
+          { "q": "B", "t": "A quanto pare, è solo una voce, ma ho l'impressione che sia vera.", "es": "Al parecer, es solo un rumor, pero tengo la impresión de que es cierto." },
+          { "q": "A", "t": "Stando a quanto dice Marco, la decisione è già presa.", "es": "Según lo que dice Marco, la decisión ya está tomada." },
+          { "q": "B", "t": "Mi sembra di aver capito che mercoledì ci sarà un comunicato.", "es": "Me parece haber entendido que el miércoles habrá un comunicado." },
+          { "q": "A", "t": "A prima vista sembra grave, ma non è detto.", "es": "A primera vista parece grave, pero no es seguro." },
+          { "q": "B", "t": "Credo che sia meglio aspettare l'ufficiale.", "es": "Creo que es mejor esperar el comunicado oficial." }
+        ]
+      },
+      "nota": "«Sembrare» + infinitivo/adjetivo no pide congiuntivo: «sembra stanco», «sembrano felici». El congiuntivo solo aparece con «che» + verbo conjugado."
+    },
+    {
+      "id": "it-b2-u6-l5",
+      "n": 5,
+      "titulo": "Repaso: hipótesis y grados de certeza",
+      "objetivo": "Graduar la certeza de una suposición combinando dovere, futuro, congiuntivo e indicios.",
+      "intro": "De más a menos seguro: «sicuramente», «deve essere», «sarà», «probabilmente», «forse», «magari». Truco: apoya cada suposición en un indicio con «visto che» o «a giudicare da».",
+      "palabras": [
+        { "t": "sicuramente", "es": "seguramente", "pron": "sicuraménte", "ej": "Sicuramente avrà dimenticato l'appuntamento.", "ejes": "Seguramente habrá olvidado la cita.", "cog": true },
+        { "t": "senza dubbio", "es": "sin duda", "pron": "sénsa dúbbio", "ej": "Ha senza dubbio ragione.", "ejes": "Sin duda tiene razón.", "cog": false },
+        { "t": "scommetto che", "es": "apuesto que", "pron": "scommétto ke", "ej": "Scommetto che ha perso le chiavi.", "ejes": "Apuesto a que ha perdido las llaves.", "cog": false },
+        { "t": "suppongo che", "es": "supongo que", "pron": "suppóngo ke", "ej": "Suppongo che sia già partito.", "ejes": "Supongo que ya partió.", "cog": true },
+        { "t": "immagino che", "es": "imagino que", "pron": "immáñino ke", "ej": "Immagino che tu sia stanco.", "ejes": "Imagino que estás cansado.", "cog": true },
+        { "t": "visto che", "es": "dado que, visto que", "pron": "vísto ke", "ej": "Visto che non risponde, sarà fuori.", "ejes": "Dado que no contesta, estará fuera.", "cog": false },
+        { "t": "magari", "es": "a lo mejor", "pron": "magári", "ej": "Magari è uscito senza dirlo a nessuno.", "ejes": "A lo mejor salió sin decirle a nadie.", "cog": false },
+        { "t": "chissà se", "es": "quién sabe si", "pron": "quissá se", "ej": "Chissà se arriverà in tempo.", "ejes": "Quién sabe si llegará a tiempo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Sicuramente avrà dimenticato di avvisare.", "es": "Seguramente se habrá olvidado de avisar.", "pron": "sicuraménte avrá dimenticáto di avvisáre" },
+        { "t": "Scommetto che ha perso il treno anche oggi.", "es": "Apuesto a que perdió el tren también hoy.", "pron": "scommétto ke a pérso il tréno áñche ódyi" },
+        { "t": "Suppongo che sia già in viaggio.", "es": "Supongo que ya está de viaje.", "pron": "suppóngo ke sía yá in viádyo" },
+        { "t": "Visto che non risponde, magari ha il telefono spento.", "es": "Dado que no contesta, a lo mejor tiene el teléfono apagado.", "pron": "vísto ke non rispónde magári a il teléfono spénto" },
+        { "t": "Chissà se riusciranno a trovarci.", "es": "Quién sabe si lograrán encontrarnos.", "pron": "quissá se riusciránno a trovárci" }
+      ],
+      "dialogo": {
+        "titulo": "Il caso del collega assente",
+        "lineas": [
+          { "q": "A", "t": "Giulia non è ancora arrivata, e sono le undici.", "es": "Giulia todavía no llegó, y son las once." },
+          { "q": "B", "t": "Sicuramente avrà avuto un problema: visto che non risponde, sarà in metropolitana.", "es": "Seguramente tuvo un problema: dado que no contesta, estará en el metro." },
+          { "q": "A", "t": "Scommetto che ha dimenticato la sveglia.", "es": "Apuesto a que olvidó la alarma." },
+          { "q": "B", "t": "Immagino che arrivi tra poco; può darsi che sia già per strada.", "es": "Imagino que llegará pronto; puede ser que ya esté en camino." },
+          { "q": "A", "t": "Chissà se ha preso l'autobus giusto.", "es": "Quién sabe si tomó el autobús correcto." },
+          { "q": "B", "t": "Senza dubbio: eccola, è appena entrata!", "es": "Sin duda: ¡ahí está, acaba de entrar!" }
+        ]
+      },
+      "nota": "Para sonar natural, mezcla los recursos: «Deve essere stanco, sarà per questo che non è venuto, o forse ha avuto un imprevisto»."
+    }
+  ]
+}

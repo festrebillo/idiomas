@@ -1,0 +1,724 @@
+{
+  "id": "pt-b2-u7",
+  "idioma": "pt",
+  "nivel": "B2",
+  "n": 7,
+  "titulo": "Argumentar y debatir",
+  "resumen": "Aprenderás el lenguaje del debate y la concesión («embora + subjuntivo», «apesar de», «mesmo que») para defender una opinión y reconocer los argumentos contrarios.",
+  "puedo": [
+    "Dar mi opinión con firmeza y cortesía: «na minha opinião», «a meu ver».",
+    "Reconocer un argumento contrario con «embora», «apesar de», «mesmo que».",
+    "Estar de acuerdo o en desacuerdo con matices.",
+    "Rebatir un argumento y proponer otro.",
+    "Ordenar un debate: «por um lado... por outro lado», «em suma»."
+  ],
+  "gramatica": {
+    "titulo": "Concesión: embora, mesmo que, apesar de",
+    "texto": "La concesión admite un hecho contrario y aun así sigue defendiendo la idea principal: Embora seja caro, vale a pena (Aunque sea caro, vale la pena).\n«Embora», «mesmo que», «ainda que» y «por mais que» llevan SIEMPRE subjuntivo: embora ele seja jovem, mesmo que chova, por mais que tente.\n«Apesar de» se usa con sustantivo o infinitivo (no con subjuntivo): Apesar da chuva, saímos; Apesar de estar cansado, ele trabalhou.\n«Apesar de que» es una variante con indicativo y suena más literaria; en la conversación se prefiere «embora».\nTruco: si después viene un verbo conjugado, usa «embora»; si viene un sustantivo o infinitivo, usa «apesar de».",
+    "tabla": [
+      [
+        "Embora seja caro, vale a pena.",
+        "Aunque sea caro, vale la pena.",
+        "embóra séya káru, váli a péna"
+      ],
+      [
+        "Mesmo que chova, eu vou.",
+        "Aunque llueva, voy.",
+        "mésmu ki shóva, éu vóu"
+      ],
+      [
+        "Por mais que tente, não consigo.",
+        "Por más que intente, no puedo.",
+        "por máis ki téntyi, náun konsígu"
+      ],
+      [
+        "Apesar da chuva, saímos.",
+        "A pesar de la lluvia, salimos.",
+        "apézar da shúva, saímus"
+      ],
+      [
+        "Apesar de estar cansado, ele veio.",
+        "A pesar de estar cansado, vino.",
+        "apézar dyi estár kansádu, éli véiu"
+      ],
+      [
+        "Ainda que discorde, respeito.",
+        "Aunque no esté de acuerdo, respeto.",
+        "aínda ki dyiskórdyi, respéitu"
+      ]
+    ],
+    "errores": [
+      "No uses indicativo con «embora»: «embora é caro» es incorrecto; di «embora seja caro».",
+      "No digas «apesar que» sin «de»: es «apesar de» (o «apesar de que»).",
+      "No confundas «embora» (aunque) con «ir-se»: «foi embora» significa «se fue»; «embora seja» significa «aunque sea»."
+    ]
+  },
+  "practica": [
+    "Escribe 6 frases con «embora + subjuntivo» sobre tu ciudad, tu trabajo o tu estudio (7 minutos).",
+    "Elige un tema (teletrabajo, redes sociales) y escribe un argumento a favor y otro en contra (8 minutos).",
+    "Graba un audio de 90 segundos defendiendo una opinión con 3 conectores (7 minutos).",
+    "Lee un artículo de opinión en portugués y subraya 5 expresiones de concesión (7 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b2-u7-l1",
+      "n": 1,
+      "titulo": "Embora, mesmo que, apesar de",
+      "objetivo": "Reconocer un argumento contrario y mantener tu opinión.",
+      "intro": "La concesión es el arma del debate: admites algo y sigues adelante. Truco: «embora» y «mesmo que» + subjuntivo; «apesar de» + sustantivo o infinitivo.",
+      "palabras": [
+        {
+          "t": "embora",
+          "es": "aunque",
+          "pron": "embóra",
+          "ej": "Embora seja difícil, vou tentar.",
+          "ejes": "Aunque sea difícil, voy a intentarlo.",
+          "cog": false
+        },
+        {
+          "t": "mesmo que",
+          "es": "aunque / incluso si",
+          "pron": "mésmu ki",
+          "ej": "Mesmo que chova, vamos sair.",
+          "ejes": "Aunque llueva, vamos a salir.",
+          "cog": false
+        },
+        {
+          "t": "ainda que",
+          "es": "aun cuando",
+          "pron": "aínda ki",
+          "ej": "Ainda que ele peça desculpas, não perdoo.",
+          "ejes": "Aun cuando él pida disculpas, no perdono.",
+          "cog": false
+        },
+        {
+          "t": "por mais que",
+          "es": "por más que",
+          "pron": "por máis ki",
+          "ej": "Por mais que eu estude, não entendo.",
+          "ejes": "Por más que estudie, no entiendo.",
+          "cog": false
+        },
+        {
+          "t": "apesar de",
+          "es": "a pesar de",
+          "pron": "apézar dyi",
+          "ej": "Apesar de cansado, ele sorriu.",
+          "ejes": "A pesar de cansado, él sonrió.",
+          "cog": false
+        },
+        {
+          "t": "mesmo assim",
+          "es": "aun así",
+          "pron": "mésmu asím",
+          "ej": "Choveu, mas fomos mesmo assim.",
+          "ejes": "Llovió, pero fuimos aun así.",
+          "cog": false
+        },
+        {
+          "t": "no entanto",
+          "es": "sin embargo",
+          "pron": "nu entántu",
+          "ej": "É caro; no entanto, vale a pena.",
+          "ejes": "Es caro; sin embargo, vale la pena.",
+          "cog": false
+        },
+        {
+          "t": "contudo",
+          "es": "no obstante",
+          "pron": "kontúdu",
+          "ej": "Gostei; contudo, achei longo.",
+          "ejes": "Me gustó; no obstante, lo encontré largo.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Embora seja caro, o produto vale a pena.",
+          "es": "Aunque sea caro, el producto vale la pena.",
+          "pron": "embóra séya káru, u prodútu váli a péna"
+        },
+        {
+          "t": "Mesmo que chova, a gente vai à praia.",
+          "es": "Aunque llueva, vamos a la playa.",
+          "pron": "mésmu ki shóva, a yénti vái a práya"
+        },
+        {
+          "t": "Apesar do cansaço, ele terminou o relatório.",
+          "es": "A pesar del cansancio, él terminó el informe.",
+          "pron": "apézar du kansásu, éli terminóu u relatóriu"
+        },
+        {
+          "t": "Por mais que ela tente, não consegue se concentrar.",
+          "es": "Por más que ella intente, no logra concentrarse.",
+          "pron": "por máis ki éla téntyi, náun konséigi si konsentrár"
+        },
+        {
+          "t": "Ele errou, mas mesmo assim ganhou o jogo.",
+          "es": "Se equivocó, pero aun así ganó el partido.",
+          "pron": "éli errou, máis mésmu asím ganhóu u yógu"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Vale a pena?",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Embora o curso seja caro, eu acho que vale a pena.",
+            "es": "Aunque el curso sea caro, creo que vale la pena."
+          },
+          {
+            "q": "B",
+            "t": "Apesar do preço, a qualidade é boa?",
+            "es": "A pesar del precio, ¿la calidad es buena?"
+          },
+          {
+            "q": "A",
+            "t": "É excelente. Mesmo que eu tenha que pagar em parcelas, não me arrependo.",
+            "es": "Es excelente. Aunque tenga que pagar en cuotas, no me arrepiento."
+          },
+          {
+            "q": "B",
+            "t": "Por mais que eu queira, agora não tenho dinheiro.",
+            "es": "Por más que quiera, ahora no tengo dinero."
+          },
+          {
+            "q": "A",
+            "t": "Mesmo assim, vale conversar com a escola. Às vezes dão desconto.",
+            "es": "Aun así, vale la pena hablar con la escuela. A veces dan descuento."
+          }
+        ]
+      },
+      "nota": "«Embora» en una frase aislada (Ele foi embora) significa «se fue»; como conjunción (embora seja) significa «aunque»."
+    },
+    {
+      "id": "pt-b2-u7-l2",
+      "n": 2,
+      "titulo": "Dar tu opinión",
+      "objetivo": "Presentar tu opinión con matices y firmeza.",
+      "intro": "Una opinión bien presentada convence más. Truco: «na minha opinião» (neutro), «a meu ver» (formal), «eu diria que» (cortés).",
+      "palabras": [
+        {
+          "t": "na minha opinião",
+          "es": "en mi opinión",
+          "pron": "na míña opiniáun",
+          "ej": "Na minha opinião, o projeto é viável.",
+          "ejes": "En mi opinión, el proyecto es viable.",
+          "cog": false
+        },
+        {
+          "t": "do meu ponto de vista",
+          "es": "desde mi punto de vista",
+          "pron": "du méu póntu dyi vísta",
+          "ej": "Do meu ponto de vista, o preço é justo.",
+          "ejes": "Desde mi punto de vista, el precio es justo.",
+          "cog": false
+        },
+        {
+          "t": "a meu ver",
+          "es": "a mi parecer",
+          "pron": "a méu vér",
+          "ej": "A meu ver, a proposta é boa.",
+          "ejes": "A mi parecer, la propuesta es buena.",
+          "cog": false
+        },
+        {
+          "t": "concordo plenamente",
+          "es": "estoy totalmente de acuerdo",
+          "pron": "konkórdu plenaméntyi",
+          "ej": "Concordo plenamente com você.",
+          "ejes": "Estoy totalmente de acuerdo contigo.",
+          "cog": false
+        },
+        {
+          "t": "discordo de",
+          "es": "no estoy de acuerdo con",
+          "pron": "dyiskórdu dyi",
+          "ej": "Discordo de você nesse ponto.",
+          "ejes": "No estoy de acuerdo contigo en ese punto.",
+          "cog": false
+        },
+        {
+          "t": "tenho certeza de que",
+          "es": "estoy seguro de que",
+          "pron": "téñu sertéza dyi ki",
+          "ej": "Tenho certeza de que vai dar certo.",
+          "ejes": "Estoy seguro de que va a salir bien.",
+          "cog": false
+        },
+        {
+          "t": "em primeiro lugar",
+          "es": "en primer lugar",
+          "pron": "ein priméiru lugár",
+          "ej": "Em primeiro lugar, precisamos de um plano.",
+          "ejes": "En primer lugar, necesitamos un plan.",
+          "cog": false
+        },
+        {
+          "t": "além disso",
+          "es": "además",
+          "pron": "aléin dísu",
+          "ej": "Além disso, o custo é baixo.",
+          "ejes": "Además, el costo es bajo.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Na minha opinião, o transporte público deveria melhorar.",
+          "es": "En mi opinión, el transporte público debería mejorar.",
+          "pron": "na míña opiniáun, u transpórtyi públiku deveria meyorár"
+        },
+        {
+          "t": "A meu ver, esse argumento não se sustenta.",
+          "es": "A mi parecer, ese argumento no se sostiene.",
+          "pron": "a méu vér, ési arguméntu náun si sustéinta"
+        },
+        {
+          "t": "Concordo plenamente, mas gostaria de acrescentar algo.",
+          "es": "Estoy totalmente de acuerdo, pero me gustaría añadir algo.",
+          "pron": "konkórdu plenaméntyi, máis gostaría dyi akresentár álgu"
+        },
+        {
+          "t": "Discordo de você: os números mostram o contrário.",
+          "es": "No estoy de acuerdo contigo: los números muestran lo contrario.",
+          "pron": "dyiskórdu dyi vosé: us números móstran u kontráriu"
+        },
+        {
+          "t": "Em primeiro lugar, quero esclarecer um ponto.",
+          "es": "En primer lugar, quiero aclarar un punto.",
+          "pron": "ein priméiru lugár, kéru esklaresér ún póntu"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Reunião de equipe",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Na minha opinião, devemos adiar o lançamento.",
+            "es": "En mi opinión, debemos posponer el lanzamiento."
+          },
+          {
+            "q": "B",
+            "t": "Discordo de você. A meu ver, o mercado está pronto.",
+            "es": "No estoy de acuerdo contigo. A mi parecer, el mercado está listo."
+          },
+          {
+            "q": "A",
+            "t": "Em primeiro lugar, o produto ainda tem falhas.",
+            "es": "En primer lugar, el producto todavía tiene fallas."
+          },
+          {
+            "q": "B",
+            "t": "Concordo plenamente. Além disso, falta publicidade.",
+            "es": "Estoy totalmente de acuerdo. Además, falta publicidad."
+          },
+          {
+            "q": "A",
+            "t": "Então, do meu ponto de vista, adiar é a melhor opção.",
+            "es": "Entonces, desde mi punto de vista, posponer es la mejor opción."
+          }
+        ]
+      },
+      "nota": "En un debate cortés, empieza con una concesión antes de discordar: «Entendo o seu ponto, mas discordo.»"
+    },
+    {
+      "id": "pt-b2-u7-l3",
+      "n": 3,
+      "titulo": "Lenguaje del debate",
+      "objetivo": "Defender, rebatir y ponderar argumentos.",
+      "intro": "Un debate necesita verbos precisos. Truco: «defender» una idea, «rebater» la ajena, «ponderar» antes de decidir.",
+      "palabras": [
+        {
+          "t": "defender",
+          "es": "defender",
+          "pron": "defendér",
+          "ej": "Vou defender a minha ideia até o fim.",
+          "ejes": "Voy a defender mi idea hasta el final.",
+          "cog": true
+        },
+        {
+          "t": "rebater",
+          "es": "rebatir",
+          "pron": "rebatér",
+          "ej": "Ele soube rebater todas as críticas.",
+          "ejes": "Él supo rebatir todas las críticas.",
+          "cog": false
+        },
+        {
+          "t": "contra-argumentar",
+          "es": "contraargumentar",
+          "pron": "kontra-argumentár",
+          "ej": "É difícil contra-argumentar com dados.",
+          "ejes": "Es difícil contraargumentar con datos.",
+          "cog": true
+        },
+        {
+          "t": "o argumento",
+          "es": "el argumento",
+          "pron": "u arguméntu",
+          "ej": "O argumento dela é convincente.",
+          "ejes": "Su argumento es convincente.",
+          "cog": true
+        },
+        {
+          "t": "a favor",
+          "es": "a favor",
+          "pron": "a favór",
+          "ej": "Sou a favor da mudança.",
+          "ejes": "Estoy a favor del cambio.",
+          "cog": true
+        },
+        {
+          "t": "contra",
+          "es": "en contra",
+          "pron": "kóntra",
+          "ej": "Eu voto contra essa proposta.",
+          "ejes": "Yo voto en contra de esta propuesta.",
+          "cog": true
+        },
+        {
+          "t": "ponderar",
+          "es": "ponderar",
+          "pron": "ponderár",
+          "ej": "Precisamos ponderar os prós e os contras.",
+          "ejes": "Necesitamos ponderar los pros y los contras.",
+          "cog": true
+        },
+        {
+          "t": "levar em conta",
+          "es": "tomar en cuenta",
+          "pron": "levár ein kónta",
+          "ej": "É preciso levar em conta todos os fatores.",
+          "ejes": "Hay que tomar en cuenta todos los factores.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Sou a favor da jornada reduzida, embora tenha ressalvas.",
+          "es": "Estoy a favor de la jornada reducida, aunque tengo reservas.",
+          "pron": "sóu a favór da yornáda redusída, embóra téña resálvas"
+        },
+        {
+          "t": "Ele rebateu cada argumento com dados concretos.",
+          "es": "Él rebatió cada argumento con datos concretos.",
+          "pron": "éli rebatéu káda arguméntu kon dádus konkrétus"
+        },
+        {
+          "t": "Antes de votar, vamos ponderar os prós e os contras.",
+          "es": "Antes de votar, vamos a ponderar los pros y los contras.",
+          "pron": "ántyis dyi votár, vámus ponderár us prós i us kóntras"
+        },
+        {
+          "t": "É preciso levar em conta o custo e o prazo.",
+          "es": "Hay que tomar en cuenta el costo y el plazo.",
+          "pron": "é presísu levár ein kónta u kústu i u prázu"
+        },
+        {
+          "t": "Sou contra essa medida, mesmo que seja popular.",
+          "es": "Estoy en contra de esa medida, aunque sea popular.",
+          "pron": "sóu kóntra ésa medída, mésmu ki séya populár"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Um debate sobre teletrabalho",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Sou a favor do teletrabalho. Embora tenha desvantagens, os benefícios são maiores.",
+            "es": "Estoy a favor del teletrabajo. Aunque tiene desventajas, los beneficios son mayores."
+          },
+          {
+            "q": "B",
+            "t": "Discordo. Contra o seu argumento, há perda de contato humano.",
+            "es": "No estoy de acuerdo. Contra tu argumento, hay pérdida de contacto humano."
+          },
+          {
+            "q": "A",
+            "t": "Posso rebater: hoje existem reuniões em vídeo e encontros mensais.",
+            "es": "Puedo rebatir: hoy existen reuniones en video y encuentros mensuales."
+          },
+          {
+            "q": "B",
+            "t": "É um ponto válido, mas precisamos levar em conta a saúde mental.",
+            "es": "Es un punto válido, pero debemos tomar en cuenta la salud mental."
+          },
+          {
+            "q": "A",
+            "t": "Vamos ponderar tudo antes de decidir.",
+            "es": "Vamos a ponderar todo antes de decidir."
+          }
+        ]
+      },
+      "nota": "«Contra» y «a favor» se usan con «ser»: «sou a favor», «sou contra». En votaciones: «voto a favor», «voto contra»."
+    },
+    {
+      "id": "pt-b2-u7-l4",
+      "n": 4,
+      "titulo": "Estructurar la argumentación",
+      "objetivo": "Ordenar un argumento con conectores de contraste y conclusión.",
+      "intro": "Un argumento sin orden se pierde. Truco: «por um lado... por outro lado» presenta dos caras; «em suma» cierra.",
+      "palabras": [
+        {
+          "t": "por um lado",
+          "es": "por un lado",
+          "pron": "por ún ládu",
+          "ej": "Por um lado, é barato.",
+          "ejes": "Por un lado, es barato.",
+          "cog": false
+        },
+        {
+          "t": "por outro lado",
+          "es": "por otro lado",
+          "pron": "por ótru ládu",
+          "ej": "Por outro lado, demora muito.",
+          "ejes": "Por otro lado, demora mucho.",
+          "cog": false
+        },
+        {
+          "t": "em contrapartida",
+          "es": "en cambio",
+          "pron": "ein kontrapartída",
+          "ej": "Gastamos mais; em contrapartida, ganhamos qualidade.",
+          "ejes": "Gastamos más; en cambio, ganamos calidad.",
+          "cog": false
+        },
+        {
+          "t": "ou seja",
+          "es": "es decir",
+          "pron": "ou séya",
+          "ej": "Ele chegou tarde, ou seja, perdeu a reunião.",
+          "ejes": "Llegó tarde, es decir, perdió la reunión.",
+          "cog": false
+        },
+        {
+          "t": "em suma",
+          "es": "en suma",
+          "pron": "ein súma",
+          "ej": "Em suma, o plano é viável.",
+          "ejes": "En suma, el plan es viable.",
+          "cog": false
+        },
+        {
+          "t": "portanto",
+          "es": "por lo tanto",
+          "pron": "portántu",
+          "ej": "O custo é alto; portanto, vamos adiar.",
+          "ejes": "El costo es alto; por lo tanto, vamos a posponer.",
+          "cog": false
+        },
+        {
+          "t": "por isso",
+          "es": "por eso",
+          "pron": "por ísu",
+          "ej": "Choveu muito; por isso, cancelamos.",
+          "ejes": "Llovió mucho; por eso, cancelamos.",
+          "cog": false
+        },
+        {
+          "t": "afinal",
+          "es": "al fin y al cabo",
+          "pron": "afinál",
+          "ej": "Afinal, o que importa é o resultado.",
+          "ejes": "Al fin y al cabo, lo que importa es el resultado.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Por um lado, o curso é caro; por outro lado, é muito completo.",
+          "es": "Por un lado, el curso es caro; por otro, es muy completo.",
+          "pron": "por ún ládu, u kúrsu é káru; por ótru ládu, é múitu komplétu"
+        },
+        {
+          "t": "Os custos subiram; em contrapartida, a qualidade melhorou.",
+          "es": "Los costos subieron; en cambio, la calidad mejoró.",
+          "pron": "us kústus subíram; ein kontrapartída, a kualidádyi meyoróu"
+        },
+        {
+          "t": "Ele não estudou, ou seja, vai reprovar.",
+          "es": "Él no estudió, es decir, va a reprobar.",
+          "pron": "éli náun estudóu, ou séya, vái reprovár"
+        },
+        {
+          "t": "Em suma, a proposta é boa, embora precise de ajustes.",
+          "es": "En suma, la propuesta es buena, aunque necesita ajustes.",
+          "pron": "ein súma, a propósta é bóa, embóra presíza dyi ajústis"
+        },
+        {
+          "t": "Afinal, o importante é chegar a um acordo.",
+          "es": "Al fin y al cabo, lo importante es llegar a un acuerdo.",
+          "pron": "afinál, u importánti é shegár a ún akórdu"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Decidindo onde morar",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Por um lado, morar no centro é prático.",
+            "es": "Por un lado, vivir en el centro es práctico."
+          },
+          {
+            "q": "B",
+            "t": "Por outro lado, o barulho é enorme. Em contrapartida, tudo fica perto.",
+            "es": "Por otro lado, el ruido es enorme. En cambio, todo queda cerca."
+          },
+          {
+            "q": "A",
+            "t": "Ou seja, o aluguel é mais caro, mas a gente economiza em transporte.",
+            "es": "Es decir, el alquiler es más caro, pero ahorramos en transporte."
+          },
+          {
+            "q": "B",
+            "t": "Em suma, vale a pena, embora a gente perca silêncio.",
+            "es": "En suma, vale la pena, aunque perdamos silencio."
+          },
+          {
+            "q": "A",
+            "t": "Afinal, o que importa é a nossa rotina.",
+            "es": "Al fin y al cabo, lo que importa es nuestra rutina."
+          }
+        ]
+      },
+      "nota": "«Ou seja» explica algo con otras palabras (es decir); «portanto» y «por isso» introducen una consecuencia."
+    },
+    {
+      "id": "pt-b2-u7-l5",
+      "n": 5,
+      "titulo": "Repaso: un debate completo",
+      "objetivo": "Mantener un debate cortés con opinión, concesión y conclusión.",
+      "intro": "Arma un debate corto de principio a fin. Truco: opinión, concesión, argumento, conclusión: «Na minha opinião..., embora..., além disso..., em suma...».",
+      "palabras": [
+        {
+          "t": "o debate",
+          "es": "el debate",
+          "pron": "u debátyi",
+          "ej": "O debate foi muito animado.",
+          "ejes": "El debate fue muy animado.",
+          "cog": true
+        },
+        {
+          "t": "persuadir",
+          "es": "persuadir",
+          "pron": "persuadír",
+          "ej": "Ele sabe persuadir qualquer plateia.",
+          "ejes": "Él sabe persuadir a cualquier público.",
+          "cog": true
+        },
+        {
+          "t": "convincente",
+          "es": "convincente",
+          "pron": "konvinséntyi",
+          "ej": "Foi um discurso convincente.",
+          "ejes": "Fue un discurso convincente.",
+          "cog": true
+        },
+        {
+          "t": "ressalva",
+          "es": "reserva / salvedad",
+          "pron": "resálva",
+          "ej": "Com uma ressalva, concordo com você.",
+          "ejes": "Con una salvedad, estoy de acuerdo contigo.",
+          "cog": false
+        },
+        {
+          "t": "chegar a um consenso",
+          "es": "llegar a un consenso",
+          "pron": "shegár a ún konsénsu",
+          "ej": "Queremos chegar a um consenso.",
+          "ejes": "Queremos llegar a un consenso.",
+          "cog": false
+        },
+        {
+          "t": "ceder",
+          "es": "ceder",
+          "pron": "sedér",
+          "ej": "Às vezes é preciso ceder.",
+          "ejes": "A veces es necesario ceder.",
+          "cog": true
+        },
+        {
+          "t": "razoável",
+          "es": "razonable",
+          "pron": "razoável",
+          "ej": "Sua proposta é razoável.",
+          "ejes": "Tu propuesta es razonable.",
+          "cog": true
+        },
+        {
+          "t": "polêmico",
+          "es": "polémico",
+          "pron": "polémiku",
+          "ej": "É um tema muito polêmico.",
+          "ejes": "Es un tema muy polémico.",
+          "cog": true
+        }
+      ],
+      "frases": [
+        {
+          "t": "Na minha opinião, o tema é polêmico, embora todos tenham argumentos válidos.",
+          "es": "En mi opinión, el tema es polémico, aunque todos tienen argumentos válidos.",
+          "pron": "na míña opiniáun, u téma é polémiku, embóra tódus téñam arguméntus válidus"
+        },
+        {
+          "t": "Concordo com ressalvas: por um lado é razoável, por outro, caro.",
+          "es": "Estoy de acuerdo con reservas: por un lado es razonable, por otro, caro.",
+          "pron": "konkórdu kon resálvas: por ún ládu é razoável, por ótru, káru"
+        },
+        {
+          "t": "Mesmo que seja difícil, precisamos chegar a um consenso.",
+          "es": "Aunque sea difícil, necesitamos llegar a un consenso.",
+          "pron": "mésmu ki séya dyifísil, presisámus shegár a ún konsénsu"
+        },
+        {
+          "t": "Ele ficou convincente, apesar de nervoso.",
+          "es": "Él fue convincente, a pesar de estar nervioso.",
+          "pron": "éli ficóu konvinséntyi, apézar dyi nervózu"
+        },
+        {
+          "t": "Em suma, ceder um pouco é a melhor saída.",
+          "es": "En suma, ceder un poco es la mejor salida.",
+          "pron": "ein súma, sedér ún póuku é a meyór saída"
+        }
+      ],
+      "dialogo": {
+        "titulo": "O debate final",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Na minha opinião, as aulas deveriam começar mais tarde.",
+            "es": "En mi opinión, las clases deberían empezar más tarde."
+          },
+          {
+            "q": "B",
+            "t": "Embora eu entenda o argumento, discordo. Por um lado, os alunos dormem mais.",
+            "es": "Aunque entiendo el argumento, no estoy de acuerdo. Por un lado, los alumnos duermen más."
+          },
+          {
+            "q": "A",
+            "t": "Em contrapartida, rendem mais. Além disso, o ônibus fica menos cheio.",
+            "es": "En cambio, rinden más. Además, el bus va menos lleno."
+          },
+          {
+            "q": "B",
+            "t": "É um argumento razoável. Mas e os pais que trabalham cedo?",
+            "es": "Es un argumento razonable. ¿Pero y los padres que trabajan temprano?"
+          },
+          {
+            "q": "A",
+            "t": "Mesmo que seja complicado, podemos chegar a um consenso.",
+            "es": "Aunque sea complicado, podemos llegar a un consenso."
+          },
+          {
+            "q": "B",
+            "t": "Em suma, vale ceder um pouco dos dois lados.",
+            "es": "En suma, vale la pena ceder un poco de ambos lados."
+          }
+        ]
+      },
+      "nota": "Un debate cortés usa mucha concesión y pocas negaciones secas. Evita «você está errado»; usa «discordo, porque...»."
+    }
+  ]
+}

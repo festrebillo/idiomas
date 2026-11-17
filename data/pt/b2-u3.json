@@ -1,0 +1,724 @@
+{
+  "id": "pt-b2-u3",
+  "idioma": "pt",
+  "nivel": "B2",
+  "n": 3,
+  "titulo": "Deseos y arrepentimientos",
+  "resumen": "Aprenderás a expresar deseos (quem me dera, tomara que) y arrepentimientos con «se eu tivesse + participio, teria + participio».",
+  "puedo": [
+    "Expresar deseos: «tomara que dê certo», «quem me dera ter mais tempo».",
+    "Decir de qué me arrepiento: «devia ter estudado».",
+    "Hablar del pasado que no pudo ser: «se eu tivesse ido, teria visto».",
+    "Lamentar algo con «que pena que», «lamento que».",
+    "Hablar de lecciones aprendidas y oportunidades perdidas."
+  ],
+  "gramatica": {
+    "titulo": "Se eu tivesse + participio, teria + participio",
+    "texto": "Para hablar del pasado que ya no se puede cambiar, el portugués usa dos formas compuestas con el verbo «ter»: «se eu tivesse + participio» (condición, mais-que-perfeito do subjuntivo) y «teria + participio» (resultado, futuro do pretérito composto).\nSe eu tivesse estudado, teria passado na prova (Si hubiera estudiado, habría aprobado el examen).\nEl participio no cambia: tivesse feito, teria dito, tivesse ido.\nPara deseos sobre el presente o futuro usa «tomara que» + presente del subjuntivo (tomara que chova) y «quem me dera» + infinitivo o imperfeito (quem me dera poder / ter). Para arrepentimientos simples: «devia ter + participio» (debí haber...).\nTruco: «tivesse + participio» va siempre en la parte del «se»; «teria + participio» va en la parte del resultado.",
+    "tabla": [
+      [
+        "se eu tivesse estudado",
+        "si hubiera estudiado",
+        "si éu tivési estudádu"
+      ],
+      [
+        "eu teria passado",
+        "yo habría aprobado",
+        "éu tería pasádu"
+      ],
+      [
+        "devia ter ido",
+        "debí haber ido",
+        "dyivía tér ídu"
+      ],
+      [
+        "quem me dera ter ido",
+        "ojalá hubiera ido",
+        "kéin mi déra tér ídu"
+      ],
+      [
+        "tomara que dê certo",
+        "ojalá salga bien",
+        "tomára ki dé sértu"
+      ],
+      [
+        "que pena que não veio",
+        "qué pena que no vino",
+        "ki péna ki náun véiu"
+      ]
+    ],
+    "errores": [
+      "No uses «se eu teria estudado»: el condicional nunca va después de «se»; di «se eu tivesse estudado».",
+      "No traduzcas «ojalá» como «oxalá» en conversación diaria: se oye más «tomara que» o «quem me dera».",
+      "«Tomara que» exige subjuntivo: «tomara que você venha», no «tomara que você vem»."
+    ]
+  },
+  "practica": [
+    "Escribe 6 frases «Se eu tivesse..., teria...» sobre cosas del pasado (8 minutos).",
+    "Escribe 5 deseos con «tomara que» y 3 con «quem me dera» (6 minutos).",
+    "Cuenta en voz alta durante 2 minutos un arrepentimiento con «devia ter» y «não devia ter».",
+    "Escucha una canción en portugués de Brasil y anota cada deseo o lamento que encuentres (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b2-u3-l1",
+      "n": 1,
+      "titulo": "Deseos: tomara que, quem me dera",
+      "objetivo": "Expresar deseos sobre el presente y el futuro.",
+      "intro": "Estas fórmulas muestran deseo con emoción. Truco: «tomara que» + presente del subjuntivo; «quem me dera» se dice solo o con un infinitivo.",
+      "palabras": [
+        {
+          "t": "tomara que",
+          "es": "ojalá que",
+          "pron": "tomára ki",
+          "ej": "Eu espero e digo: tomara que dê certo.",
+          "ejes": "Espero y digo: ojalá salga bien.",
+          "cog": false
+        },
+        {
+          "t": "quem me dera",
+          "es": "ojalá (fuera así)",
+          "pron": "kéin mi déra",
+          "ej": "Ah, quem me dera ter férias agora.",
+          "ejes": "Ay, ojalá tuviera vacaciones ahora.",
+          "cog": false
+        },
+        {
+          "t": "oxalá",
+          "es": "ojalá",
+          "pron": "oshalá",
+          "ej": "Oxalá ele chegue a tempo.",
+          "ejes": "Ojalá él llegue a tiempo.",
+          "cog": true
+        },
+        {
+          "t": "queria que",
+          "es": "quisiera que",
+          "pron": "kería ki",
+          "ej": "Eu queria que você ficasse mais.",
+          "ejes": "Quisiera que te quedaras más.",
+          "cog": false
+        },
+        {
+          "t": "espero que",
+          "es": "espero que",
+          "pron": "espéru ki",
+          "ej": "Espero que você goste do presente.",
+          "ejes": "Espero que te guste el regalo.",
+          "cog": false
+        },
+        {
+          "t": "se Deus quiser",
+          "es": "si Dios quiere",
+          "pron": "si déus kisér",
+          "ej": "Se Deus quiser, passo no concurso.",
+          "ejes": "Si Dios quiere, apruebo el concurso.",
+          "cog": false
+        },
+        {
+          "t": "desejo",
+          "es": "deseo",
+          "pron": "dezéyu",
+          "ej": "Meu maior desejo é viajar.",
+          "ejes": "Mi mayor deseo es viajar.",
+          "cog": true
+        },
+        {
+          "t": "torcer por",
+          "es": "apoyar / desear suerte",
+          "pron": "torsér por",
+          "ej": "Eu vou torcer por você.",
+          "ejes": "Voy a desearte suerte (apoyarte).",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Tomara que amanhã faça sol.",
+          "es": "Ojalá mañana haga sol.",
+          "pron": "tomára ki amañán fása sól"
+        },
+        {
+          "t": "Quem me dera ter mais tempo livre.",
+          "es": "Ojalá tuviera más tiempo libre.",
+          "pron": "kéin mi déra tér máis témpu lívri"
+        },
+        {
+          "t": "Espero que você consiga o emprego.",
+          "es": "Espero que consigas el empleo.",
+          "pron": "espéru ki vosé konsíga u empréyu"
+        },
+        {
+          "t": "Eu queria que a semana tivesse mais um dia.",
+          "es": "Quisiera que la semana tuviera un día más.",
+          "pron": "éu kería ki a semána tivési máis ún día"
+        },
+        {
+          "t": "Vou torcer por vocês na final.",
+          "es": "Voy a apoyarlos en la final.",
+          "pron": "vóu torsér por vosés na finál"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Antes da entrevista",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Amanhã tenho a entrevista mais importante da minha vida.",
+            "es": "Mañana tengo la entrevista más importante de mi vida."
+          },
+          {
+            "q": "B",
+            "t": "Tomara que dê tudo certo. Eu vou torcer por você.",
+            "es": "Ojalá salga todo bien. Voy a apoyarte."
+          },
+          {
+            "q": "A",
+            "t": "Quem me dera estar mais calmo. Não consigo dormir.",
+            "es": "Ojalá estuviera más tranquilo. No consigo dormir."
+          },
+          {
+            "q": "B",
+            "t": "Respira fundo. Espero que eles gostem de você.",
+            "es": "Respira hondo. Espero que les caigas bien."
+          },
+          {
+            "q": "A",
+            "t": "Se Deus quiser, ligo para você depois com a boa notícia.",
+            "es": "Si Dios quiere, te llamo después con la buena noticia."
+          }
+        ]
+      },
+      "nota": "«Se Deus quiser» y «tomara» son muy usados en Brasil sin ser necesariamente religiosos: son fórmulas de esperanza cotidiana."
+    },
+    {
+      "id": "pt-b2-u3-l2",
+      "n": 2,
+      "titulo": "Arrepentimientos: devia ter...",
+      "objetivo": "Expresar lo que se debió o no se debió hacer.",
+      "intro": "Para decir «debí haber...», usa «devia ter» + participio. Truco: «devia ter» y «não devia ter» son tus mejores amigos para los arrepentimientos.",
+      "palabras": [
+        {
+          "t": "devia ter",
+          "es": "debí haber",
+          "pron": "dyivía tér",
+          "ej": "Eu devia ter estudado mais.",
+          "ejes": "Debí haber estudiado más.",
+          "cog": false
+        },
+        {
+          "t": "não devia ter",
+          "es": "no debí haber",
+          "pron": "náun dyivía tér",
+          "ej": "Eu não devia ter dito isso.",
+          "ejes": "No debí haber dicho eso.",
+          "cog": false
+        },
+        {
+          "t": "podia ter",
+          "es": "pude haber",
+          "pron": "podía tér",
+          "ej": "Você podia ter avisado antes.",
+          "ejes": "Pudiste haber avisado antes.",
+          "cog": false
+        },
+        {
+          "t": "me arrependo de",
+          "es": "me arrepiento de",
+          "pron": "mi arrepéndu dyi",
+          "ej": "Me arrependo de não ter ido.",
+          "ejes": "Me arrepiento de no haber ido.",
+          "cog": false
+        },
+        {
+          "t": "que pena que",
+          "es": "qué pena que",
+          "pron": "ki péna ki",
+          "ej": "Que pena que você não pôde vir.",
+          "ejes": "Qué pena que no pudiste venir.",
+          "cog": false
+        },
+        {
+          "t": "lamento",
+          "es": "lamento",
+          "pron": "laméntu",
+          "ej": "Lamento muito o que aconteceu.",
+          "ejes": "Lamento mucho lo que ocurrió.",
+          "cog": true
+        },
+        {
+          "t": "infelizmente",
+          "es": "lamentablemente",
+          "pron": "infelizméntyi",
+          "ej": "Infelizmente, cheguei tarde demais.",
+          "ejes": "Lamentablemente, llegué demasiado tarde.",
+          "cog": true
+        },
+        {
+          "t": "tarde demais",
+          "es": "demasiado tarde",
+          "pron": "tárdyi demáis",
+          "ej": "Percebi tarde demais.",
+          "ejes": "Me di cuenta demasiado tarde.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Eu devia ter ouvido o seu conselho.",
+          "es": "Debí haber escuchado tu consejo.",
+          "pron": "éu dyivía tér ouvídu u séu konsélyu"
+        },
+        {
+          "t": "Eu não devia ter gritado com ela.",
+          "es": "No debí haberle gritado.",
+          "pron": "éu náun dyivía tér gritádu kon éla"
+        },
+        {
+          "t": "Me arrependo de ter largado o curso.",
+          "es": "Me arrepiento de haber dejado el curso.",
+          "pron": "mi arrepéndu dyi tér largádu u kúrsu"
+        },
+        {
+          "t": "Que pena que você não pôde vir à festa.",
+          "es": "Qué pena que no pudiste venir a la fiesta.",
+          "pron": "ki péna ki vosé náun pódyi vir a fésta"
+        },
+        {
+          "t": "Você podia ter me ligado ontem.",
+          "es": "Podrías haberme llamado ayer.",
+          "pron": "vosé podía tér mi ligádu óntein"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Um erro que custou caro",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Perdi o prazo do projeto por causa de um e-mail.",
+            "es": "Perdí el plazo del proyecto por un correo."
+          },
+          {
+            "q": "B",
+            "t": "Você devia ter confirmado com o cliente.",
+            "es": "Debiste haberlo confirmado con el cliente."
+          },
+          {
+            "q": "A",
+            "t": "Eu sei. Me arrependo de ter confiado só na mensagem.",
+            "es": "Lo sé. Me arrepiento de haber confiado solo en el mensaje."
+          },
+          {
+            "q": "B",
+            "t": "Que pena. Mas aprenda com isso e não perca o ânimo.",
+            "es": "Qué pena. Pero aprende de esto y no pierdas el ánimo."
+          },
+          {
+            "q": "A",
+            "t": "Vou pedir uma nova chance. Não devia ter ficado calado.",
+            "es": "Voy a pedir otra oportunidad. No debí haberme quedado callado."
+          }
+        ]
+      },
+      "nota": "En Brasil, «devia ter» es más natural que «deveria ter» en la conversación. Los dos son correctos."
+    },
+    {
+      "id": "pt-b2-u3-l3",
+      "n": 3,
+      "titulo": "Se eu tivesse feito, teria...",
+      "objetivo": "Hablar de un pasado alternativo con tivesse + participio y teria + participio.",
+      "intro": "Aquí está el corazón de la unidad: «Si hubiera hecho X, habría pasado Y». Truco: «tivesse» abre la condición y «teria» cierra el resultado, ambos con participio.",
+      "palabras": [
+        {
+          "t": "tivesse feito",
+          "es": "hubiera hecho",
+          "pron": "tivési féitu",
+          "ej": "Se eu tivesse feito o curso, teria conseguido o cargo.",
+          "ejes": "Si hubiera hecho el curso, habría conseguido el puesto.",
+          "cog": false
+        },
+        {
+          "t": "tivesse estudado",
+          "es": "hubiera estudiado",
+          "pron": "tivési estudádu",
+          "ej": "Se ele tivesse estudado, teria passado.",
+          "ejes": "Si hubiera estudiado, habría aprobado.",
+          "cog": false
+        },
+        {
+          "t": "tivesse ido",
+          "es": "hubiera ido",
+          "pron": "tivési ídu",
+          "ej": "Se você tivesse ido, teria gostado.",
+          "ejes": "Si hubieras ido, te habría gustado.",
+          "cog": false
+        },
+        {
+          "t": "tivesse dito",
+          "es": "hubiera dicho",
+          "pron": "tivési dítu",
+          "ej": "Se ela tivesse dito a verdade, não teria brigado.",
+          "ejes": "Si ella hubiera dicho la verdad, no habría peleado.",
+          "cog": false
+        },
+        {
+          "t": "tivesse sabido",
+          "es": "hubiera sabido",
+          "pron": "tivési sabídu",
+          "ej": "Se eu tivesse sabido, teria vindo antes.",
+          "ejes": "Si lo hubiera sabido, habría venido antes.",
+          "cog": false
+        },
+        {
+          "t": "teria passado",
+          "es": "habría aprobado",
+          "pron": "tería pasádu",
+          "ej": "Com mais tempo, teria passado na prova.",
+          "ejes": "Con más tiempo, habría aprobado el examen.",
+          "cog": false
+        },
+        {
+          "t": "teria evitado",
+          "es": "habría evitado",
+          "pron": "tería evitádu",
+          "ej": "Um aviso teria evitado o problema.",
+          "ejes": "Un aviso habría evitado el problema.",
+          "cog": false
+        },
+        {
+          "t": "se não fosse",
+          "es": "si no fuera por",
+          "pron": "si náun fósi",
+          "ej": "Se não fosse a chuva, teríamos ido.",
+          "ejes": "Si no fuera por la lluvia, habríamos ido.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Se eu tivesse acordado cedo, teria pegado o ônibus.",
+          "es": "Si me hubiera levantado temprano, habría tomado el bus.",
+          "pron": "si éu tivési akordádu sédu, tería pegádu u ónibus"
+        },
+        {
+          "t": "Se você tivesse me avisado, eu teria ajudado.",
+          "es": "Si me hubieras avisado, te habría ayudado.",
+          "pron": "si vosé tivési mi avizádu, éu tería ayudádu"
+        },
+        {
+          "t": "Se nós tivéssemos saído antes, não teríamos pegado trânsito.",
+          "es": "Si hubiéramos salido antes, no habríamos agarrado tráfico.",
+          "pron": "si nós tivésemus saídu ántyis, náun teríamus pegádu tránzitu"
+        },
+        {
+          "t": "Se ela tivesse aceitado, teria ganhado mais.",
+          "es": "Si ella hubiera aceptado, habría ganado más.",
+          "pron": "si éla tivési aseitádu, tería ganhádu máis"
+        },
+        {
+          "t": "Se não fosse o seu apoio, eu teria desistido.",
+          "es": "Si no fuera por tu apoyo, habría desistido.",
+          "pron": "si náun fósi u séu apóiu, éu tería dezistídu"
+        }
+      ],
+      "dialogo": {
+        "titulo": "O que poderia ter sido",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Se eu tivesse estudado mais, teria passado no concurso.",
+            "es": "Si hubiera estudiado más, habría pasado el concurso."
+          },
+          {
+            "q": "B",
+            "t": "Não se culpe. Se você tivesse tido mais tempo, teria conseguido.",
+            "es": "No te culpes. Si hubieras tenido más tiempo, lo habrías logrado."
+          },
+          {
+            "q": "A",
+            "t": "Se eu tivesse começado em janeiro, estaria mais preparado agora.",
+            "es": "Si hubiera empezado en enero, estaría más preparado ahora."
+          },
+          {
+            "q": "B",
+            "t": "Mas você ainda pode tentar no ano que vem.",
+            "es": "Pero todavía puedes intentar el año que viene."
+          },
+          {
+            "q": "A",
+            "t": "Sim. Se não fosse o seu incentivo, eu teria desistido.",
+            "es": "Sí. Si no fuera por tu aliento, habría desistido."
+          }
+        ]
+      },
+      "nota": "Se pueden mezclar: «Se eu tivesse estudado, estaria mais tranquilo agora» (condición en el pasado, resultado en el presente)."
+    },
+    {
+      "id": "pt-b2-u3-l4",
+      "n": 4,
+      "titulo": "Oportunidades y lecciones",
+      "objetivo": "Hablar de oportunidades perdidas y lo que se aprende de ellas.",
+      "intro": "Todo arrepentimiento enseña algo. Truco: cierra siempre tu lamento con una lección: «aprendi que...».",
+      "palabras": [
+        {
+          "t": "a oportunidade",
+          "es": "la oportunidad",
+          "pron": "a oportunidádyi",
+          "ej": "Foi a oportunidade da minha vida.",
+          "ejes": "Fue la oportunidad de mi vida.",
+          "cog": true
+        },
+        {
+          "t": "perder a chance",
+          "es": "perder la chance",
+          "pron": "perdér a shánsi",
+          "ej": "Não quero perder a chance de viajar.",
+          "ejes": "No quiero perder la chance de viajar.",
+          "cog": false
+        },
+        {
+          "t": "desperdiçar",
+          "es": "desperdiciar",
+          "pron": "desperdisár",
+          "ej": "Não vale a pena desperdiçar tempo.",
+          "ejes": "No vale la pena desperdiciar tiempo.",
+          "cog": true
+        },
+        {
+          "t": "lição",
+          "es": "lección",
+          "pron": "a lisáun",
+          "ej": "Foi uma lição para a vida toda.",
+          "ejes": "Fue una lección para toda la vida.",
+          "cog": true
+        },
+        {
+          "t": "aprender com",
+          "es": "aprender de",
+          "pron": "aprendér kon",
+          "ej": "Precisamos aprender com os erros.",
+          "ejes": "Necesitamos aprender de los errores.",
+          "cog": false
+        },
+        {
+          "t": "superar",
+          "es": "superar",
+          "pron": "superár",
+          "ej": "Ele conseguiu superar o medo.",
+          "ejes": "Él logró superar el miedo.",
+          "cog": true
+        },
+        {
+          "t": "remorso",
+          "es": "remordimiento",
+          "pron": "u remórzu",
+          "ej": "Senti remorso por muito tempo.",
+          "ejes": "Sentí remordimiento por mucho tiempo.",
+          "cog": true
+        },
+        {
+          "t": "virar a página",
+          "es": "pasar la página",
+          "pron": "virár a páyina",
+          "ej": "É hora de virar a página.",
+          "ejes": "Es hora de pasar la página.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Foi uma oportunidade rara e eu a deixei passar.",
+          "es": "Fue una oportunidad rara y la dejé pasar.",
+          "pron": "fói úma oportunidádyi rára i éu a deshéi pasár"
+        },
+        {
+          "t": "Não quero desperdiçar outra chance.",
+          "es": "No quiero desperdiciar otra oportunidad.",
+          "pron": "náun kéru desperdisár ótra shánsi"
+        },
+        {
+          "t": "Aprendi uma lição importante com aquele erro.",
+          "es": "Aprendí una lección importante de ese error.",
+          "pron": "aprendí úma lisáun importánti kon akéli érru"
+        },
+        {
+          "t": "Depois de tanto remorso, preciso virar a página.",
+          "es": "Después de tanto remordimiento, necesito pasar la página.",
+          "pron": "depóis dyi tántu remórzu, presízu virár a páyina"
+        },
+        {
+          "t": "Ele superou a perda e recomeçou do zero.",
+          "es": "Él superó la pérdida y empezó de cero.",
+          "pron": "éli superóu a pérda i rekomesóu du zéru"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Uma conversa franca",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Ainda penso na vaga que eu deixei passar no ano passado.",
+            "es": "Todavía pienso en la vacante que dejé pasar el año pasado."
+          },
+          {
+            "q": "B",
+            "t": "Foi uma oportunidade e tanto. Você se arrepende?",
+            "es": "Fue una gran oportunidad. ¿Te arrepientes?"
+          },
+          {
+            "q": "A",
+            "t": "Bastante. Se eu tivesse aceitado, hoje estaria numa posição melhor.",
+            "es": "Bastante. Si hubiera aceptado, hoy estaría en una mejor posición."
+          },
+          {
+            "q": "B",
+            "t": "Mas olha o que você aprendeu com isso.",
+            "es": "Pero mira lo que aprendiste con eso."
+          },
+          {
+            "q": "A",
+            "t": "Tem razão. Está na hora de virar a página.",
+            "es": "Tienes razón. Es hora de pasar la página."
+          }
+        ]
+      },
+      "nota": "«Perder a chance» y «perder a oportunidade» son equivalentes; «chance» es más coloquial."
+    },
+    {
+      "id": "pt-b2-u3-l5",
+      "n": 5,
+      "titulo": "Repaso: lo que fue y lo que desearía",
+      "objetivo": "Mezclar deseos, lamentos y condiciones del pasado en una conversación.",
+      "intro": "Repasa todo en una sola charla. Truco: alterna deseo para el futuro (tomara que), lamento del pasado (devia ter) y condición imposible (se eu tivesse).",
+      "palabras": [
+        {
+          "t": "me arrepender",
+          "es": "arrepentirme",
+          "pron": "mi arrependér",
+          "ej": "Não quero me arrepender depois.",
+          "ejes": "No quiero arrepentirme después.",
+          "cog": false
+        },
+        {
+          "t": "tomara",
+          "es": "ojalá",
+          "pron": "tomára",
+          "ej": "Tomara! Seria perfeito.",
+          "ejes": "¡Ojalá! Sería perfecto.",
+          "cog": false
+        },
+        {
+          "t": "decepcionado",
+          "es": "decepcionado",
+          "pron": "desepsionádu",
+          "ej": "Fiquei decepcionado com o resultado.",
+          "ejes": "Quedé decepcionado con el resultado.",
+          "cog": true
+        },
+        {
+          "t": "a frustração",
+          "es": "la frustración",
+          "pron": "a frustrasáun",
+          "ej": "A frustração passa com o tempo.",
+          "ejes": "La frustración pasa con el tiempo.",
+          "cog": true
+        },
+        {
+          "t": "ter coragem",
+          "es": "tener valor",
+          "pron": "tér korázhen",
+          "ej": "Preciso ter coragem para recomeçar.",
+          "ejes": "Necesito tener valor para empezar de nuevo.",
+          "cog": false
+        },
+        {
+          "t": "dar uma chance",
+          "es": "dar una oportunidad",
+          "pron": "dár úma shánsi",
+          "ej": "Vou dar uma chance ao novo método.",
+          "ejes": "Voy a dar una oportunidad al nuevo método.",
+          "cog": false
+        },
+        {
+          "t": "ainda dá tempo",
+          "es": "todavía hay tiempo",
+          "pron": "aínda dá témpu",
+          "ej": "Calma, ainda dá tempo de mudar.",
+          "ejes": "Calma, todavía hay tiempo de cambiar.",
+          "cog": false
+        },
+        {
+          "t": "recomeçar",
+          "es": "empezar de nuevo",
+          "pron": "rekomesár",
+          "ej": "Nunca é tarde para recomeçar.",
+          "ejes": "Nunca es tarde para empezar de nuevo.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Tomara que ainda dê tempo de recomeçar.",
+          "es": "Ojalá todavía haya tiempo de empezar de nuevo.",
+          "pron": "tomára ki aínda dé témpu dyi rekomesár"
+        },
+        {
+          "t": "Se eu tivesse tido coragem, teria falado com ela.",
+          "es": "Si hubiera tenido valor, habría hablado con ella.",
+          "pron": "si éu tivési tídu korázhen, tería faládu kon éla"
+        },
+        {
+          "t": "Fiquei decepcionado, mas não quero me arrepender depois.",
+          "es": "Quedé decepcionado, pero no quiero arrepentirme después.",
+          "pron": "fikéi desepsionádu, más náun kéru mi arrependér depóis"
+        },
+        {
+          "t": "Eu devia ter dado uma chance ao projeto.",
+          "es": "Debí haberle dado una oportunidad al proyecto.",
+          "pron": "éu dyivía tér dádu úma shánsi u proyétu"
+        },
+        {
+          "t": "Quem me dera ter dito isso antes.",
+          "es": "Ojalá hubiera dicho eso antes.",
+          "pron": "kéin mi déra tér dítu ísu ántyis"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Uma conversa sobre recomeços",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Fiquei muito decepcionado com o resultado do exame.",
+            "es": "Quedé muy decepcionado con el resultado del examen."
+          },
+          {
+            "q": "B",
+            "t": "Eu sei. Mas se você tivesse desistido agora, teria se arrependido.",
+            "es": "Lo sé. Pero si hubieras desistido ahora, te habrías arrepentido."
+          },
+          {
+            "q": "A",
+            "t": "Quem me dera ter estudado com mais calma.",
+            "es": "Ojalá hubiera estudiado con más calma."
+          },
+          {
+            "q": "B",
+            "t": "Ainda dá tempo. Tomara que a próxima prova seja melhor.",
+            "es": "Todavía hay tiempo. Ojalá la próxima prueba sea mejor."
+          },
+          {
+            "q": "A",
+            "t": "Vou recomeçar amanhã. Preciso ter coragem.",
+            "es": "Voy a empezar de nuevo mañana. Necesito tener valor."
+          },
+          {
+            "q": "B",
+            "t": "Conte comigo. Eu vou torcer por você.",
+            "es": "Cuenta conmigo. Voy a apoyarte."
+          }
+        ]
+      },
+      "nota": "Resumen: deseo futuro = tomara que + presente do subjuntivo; lamento del pasado = devia ter + participio; hipótesis pasada = se eu tivesse + participio, teria + participio."
+    }
+  ]
+}

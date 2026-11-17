@@ -1,0 +1,219 @@
+{
+  "id": "pt-b2-u10",
+  "idioma": "pt",
+  "nivel": "B2",
+  "n": 10,
+  "titulo": "Registro formal e informal",
+  "resumen": "Aprenderás a elegir entre «você» y «o senhor / a senhora», a distinguir la jerga de la lengua formal y a usar «a gente» y «nós» según la situación.",
+  "puedo": [
+    "Tratar con respeto a una persona mayor o a un cliente con «o senhor / a senhora».",
+    "Formular pedidos formales con «poderia», «gostaria» y «teria a gentileza».",
+    "Reconocer la jerga cotidiana y decir lo mismo en registro formal.",
+    "Elegir entre «a gente» y «nós» según el contexto.",
+    "Adaptar un mismo mensaje a un amigo y a un jefe."
+  ],
+  "gramatica": {
+    "titulo": "Você, o senhor / a senhora y el verbo en tercera persona",
+    "texto": "En Brasil «você» es el trato normal entre adultos, tanto informal como neutro. Para mostrar respeto (a una persona mayor, un cliente, un superior) se usa «o senhor» (hombre) o «a senhora» (mujer).\nEl detalle importante: «você», «o senhor» y «a senhora» llevan el verbo en tercera persona singular, igual que «ele / ela»: O senhor quer café? (¿Quiere café?). El plural es «vocês», «os senhores» y «as senhoras», con el verbo en tercera persona plural.\n«Tu» existe en algunas regiones (sur, Pará, Maranhão), pero muchas veces con el verbo de «ele». Para aprender, usa «você» y «o senhor / a senhora».",
+    "tabla": [
+      ["Você quer água?", "¿Quieres agua? (informal)", "vosé kér ágwa"],
+      ["O senhor quer água?", "¿Quiere agua, señor? (formal)", "u señór kér ágwa"],
+      ["A senhora pode esperar?", "¿Puede esperar, señora?", "a señóra pódyi esperár"],
+      ["Vocês vão ao evento?", "¿Van al evento? (varios)", "voséz váun au evéntu"],
+      ["Os senhores já chegaram?", "¿Los señores ya llegaron?", "us señórus yá shegárau"]
+    ],
+    "errores": [
+      "No conjugues «você» como «tú»: es «você quer», no «você quieres» ni «você queres».",
+      "Con «o senhor / a senhora» el verbo va en tercera persona: «o senhor pode», no «o senhor podes».",
+      "«Senhor» sin «o» antes solo se usa al llamar a alguien: «Senhor Silva!», pero al hablar de él, «o senhor Silva»."
+    ]
+  },
+  "practica": [
+    "Escribe un diálogo de 6 líneas con un cliente: usa «o senhor / a senhora» en todo momento (8 minutos).",
+    "Reescribe 6 mensajes informales (con «tô», «pra», «valeu») en versión formal (8 minutos).",
+    "Graba un audio de 1 minuto presentándote a tu jefe y otro a un amigo; compara el registro (8 minutos).",
+    "Mira una entrevista de trabajo en portugués y anota las fórmulas de cortesía (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b2-u10-l1",
+      "n": 1,
+      "titulo": "Você, o senhor y a senhora",
+      "objetivo": "Dirigirte con respeto a clientes, jefes y personas mayores.",
+      "intro": "Con amigos usas «você». Con un cliente o una persona mayor, «o senhor» o «a senhora». Truco: el verbo es igual que con «você», solo cambia la forma de dirigirte.",
+      "palabras": [
+        { "t": "o senhor", "es": "usted (a un hombre)", "pron": "u señór", "ej": "O senhor aceita um café?", "ejes": "¿Usted acepta un café?", "cog": false },
+        { "t": "a senhora", "es": "usted (a una mujer)", "pron": "a señóra", "ej": "A senhora gostaria de sentar?", "ejes": "¿Usted quisiera sentarse?", "cog": false },
+        { "t": "cliente", "es": "cliente", "pron": "kliénti", "ej": "O cliente chegou cedo hoje.", "ejes": "El cliente llegó temprano hoy.", "cog": true },
+        { "t": "tratamento", "es": "trato, forma de dirigirse", "pron": "trataméntu", "ej": "Esse tratamento é muito respeitoso.", "ejes": "Ese trato es muy respetuoso.", "cog": false },
+        { "t": "tratar", "es": "tratar", "pron": "tratár", "ej": "Prefiro tratar meu chefe por senhor.", "ejes": "Prefiero tratar a mi jefe de usted.", "cog": true },
+        { "t": "com licença", "es": "con permiso", "pron": "kon lisénsa", "ej": "Com licença, posso entrar?", "ejes": "Con permiso, ¿puedo entrar?", "cog": false },
+        { "t": "faça o favor", "es": "haga el favor", "pron": "fása u favór", "ej": "Faça o favor de sentar, doutora.", "ejes": "Haga el favor de sentarse, doctora.", "cog": false },
+        { "t": "respeito", "es": "respeto", "pron": "respéitu", "ej": "Os alunos tratam o professor com respeito.", "ejes": "Los alumnos tratan al profesor con respeto.", "cog": true },
+        { "t": "doutor", "es": "doctor, tratamiento de respeto", "pron": "dowtór", "ej": "O doutor Almeida já chegou.", "ejes": "El doctor Almeida ya llegó.", "cog": true }
+      ],
+      "frases": [
+        { "t": "O senhor aceita um café?", "es": "¿Usted acepta un café?", "pron": "u señór aséita ún kafé" },
+        { "t": "A senhora gostaria de sentar?", "es": "¿Usted quisiera sentarse?", "pron": "a señóra gostaría dyi sentár" },
+        { "t": "Com licença, o senhor pode me ajudar?", "es": "Con permiso, ¿usted puede ayudarme?", "pron": "kon lisénsa, u señór pódyi mi ayudár" },
+        { "t": "Você vai ao almoço de amanhã?", "es": "¿Vas al almuerzo de mañana?", "pron": "vosé vái au awmósu dyi amañán" },
+        { "t": "Faça o favor de aguardar um momento.", "es": "Haga el favor de esperar un momento.", "pron": "fása u favór dyi agwardár ún moméntu" }
+      ],
+      "dialogo": {
+        "titulo": "Recebendo um cliente",
+        "lineas": [
+          { "q": "A", "t": "Bom dia! O senhor tem hora marcada?", "es": "¡Buen día! ¿Usted tiene cita?" },
+          { "q": "B", "t": "Tenho, às dez. Sou o cliente da doutora Lima.", "es": "Sí, a las diez. Soy el cliente de la doctora Lima." },
+          { "q": "A", "t": "Faça o favor de sentar. A doutora já vai atender o senhor.", "es": "Haga el favor de sentarse. La doctora lo atenderá enseguida." },
+          { "q": "B", "t": "Obrigado. A senhora poderia me dar um copo de água?", "es": "Gracias. ¿Usted podría darme un vaso de agua?" },
+          { "q": "A", "t": "Claro, com licença um instante.", "es": "Claro, con permiso un instante." }
+        ]
+      },
+      "nota": "En Brasil muchos jóvenes dicen «você» a todos, pero en servicios, trámites y con personas mayores «o senhor / a senhora» muestra educación."
+    },
+    {
+      "id": "pt-b2-u10-l2",
+      "n": 2,
+      "titulo": "Pedidos y cortesía formal",
+      "objetivo": "Pedir cosas con fórmulas formales en una oficina o por correo.",
+      "intro": "El registro formal suaviza los pedidos con el condicional: «poderia», «gostaria». Truco: así como en español dices «podría» y «quisiera», aquí añade «teria a gentileza de» para sonar muy educado.",
+      "palabras": [
+        { "t": "poderia", "es": "podría", "pron": "podería", "ej": "O senhor poderia repetir, por favor?", "ejes": "¿Usted podría repetir, por favor?", "cog": false },
+        { "t": "gostaria de", "es": "quisiera, me gustaría", "pron": "gostaría dyi", "ej": "Gostaria de marcar uma consulta.", "ejes": "Quisiera programar una cita.", "cog": false },
+        { "t": "teria a gentileza de", "es": "tendría la amabilidad de", "pron": "tería a yentíleza dyi", "ej": "A senhora teria a gentileza de assinar aqui?", "ejes": "¿Usted tendría la amabilidad de firmar aquí?", "cog": false },
+        { "t": "agradeço desde já", "es": "agradezco de antemano", "pron": "agradésu dézdyi yá", "ej": "Aguardo seu retorno e agradeço desde já.", "ejes": "Espero su respuesta y agradezco de antemano.", "cog": false },
+        { "t": "fico à disposição", "es": "quedo a su disposición", "pron": "fíku a dyispozisáun", "ej": "Qualquer dúvida, fico à disposição.", "ejes": "Cualquier duda, quedo a su disposición.", "cog": false },
+        { "t": "informar", "es": "informar", "pron": "informár", "ej": "Poderia me informar o horário da reunião?", "ejes": "¿Podría informarme el horario de la reunión?", "cog": true },
+        { "t": "solicitar", "es": "solicitar, pedir", "pron": "solisitár", "ej": "Gostaria de solicitar um orçamento.", "ejes": "Quisiera solicitar un presupuesto.", "cog": true },
+        { "t": "prezado", "es": "estimado", "pron": "prezádu", "ej": "Prezado Sr. Souza, segue o documento.", "ejes": "Estimado Sr. Souza, adjunto el documento.", "cog": false },
+        { "t": "atenciosamente", "es": "atentamente", "pron": "atensiozaméntyi", "ej": "Atenciosamente, Maria Rocha.", "ejes": "Atentamente, Maria Rocha.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Poderia me informar o preço, por favor?", "es": "¿Podría informarme el precio, por favor?", "pron": "podería mi informár u présu, por favór" },
+        { "t": "Gostaria de marcar uma reunião.", "es": "Quisiera programar una reunión.", "pron": "gostaría dyi markár úma reuniáun" },
+        { "t": "Teria a gentileza de me enviar o contrato?", "es": "¿Tendría la amabilidad de enviarme el contrato?", "pron": "tería a yentíleza dyi mi enviár u kontrátu" },
+        { "t": "Agradeço desde já a sua atenção.", "es": "Agradezco de antemano su atención.", "pron": "agradésu dézdyi yá a súa atensáun" },
+        { "t": "Qualquer dúvida, fico à disposição.", "es": "Cualquier duda, quedo a su disposición.", "pron": "kuawkér dúvida, fíku a dyispozisáun" }
+      ],
+      "dialogo": {
+        "titulo": "Um pedido por telefone",
+        "lineas": [
+          { "q": "A", "t": "Bom dia. Gostaria de falar com o responsável pelas vendas.", "es": "Buen día. Quisiera hablar con el responsable de ventas." },
+          { "q": "B", "t": "Um momento. A senhora poderia me informar o seu nome?", "es": "Un momento. ¿Usted podría informarme su nombre?" },
+          { "q": "A", "t": "Marta Costa. Gostaria de solicitar um orçamento.", "es": "Marta Costa. Quisiera solicitar un presupuesto." },
+          { "q": "B", "t": "Teria a gentileza de enviar os detalhes por e-mail?", "es": "¿Tendría la amabilidad de enviar los detalles por correo?" },
+          { "q": "A", "t": "Claro. Agradeço desde já.", "es": "Claro. Agradezco de antemano." }
+        ]
+      },
+      "nota": "En un correo formal abre con «Prezado(a) Sr.(a)» y cierra con «Atenciosamente». El corchete «(a)» indica que cambia según el género."
+    },
+    {
+      "id": "pt-b2-u10-l3",
+      "n": 3,
+      "titulo": "Gírias y su versión formal",
+      "objetivo": "Reconocer gírias comunes y decir lo mismo con un registro formal.",
+      "intro": "Entre amigos oirás «beleza» o «valeu»; en una reunión, «está bem» o «agradeço». Truco: aprende cada pareja gíria y formal, y elige según con quién hablas.",
+      "palabras": [
+        { "t": "valeu", "es": "gracias (informal)", "pron": "valéu", "ej": "Valeu pela ajuda, cara!", "ejes": "¡Gracias por la ayuda, amigo!", "cog": false },
+        { "t": "beleza", "es": "bien, de acuerdo", "pron": "beléza", "ej": "Beleza, a gente se vê amanhã.", "ejes": "Bien, nos vemos mañana.", "cog": false },
+        { "t": "legal", "es": "genial, bueno", "pron": "legáu", "ej": "Esse filme é muito legal.", "ejes": "Esa película es muy buena.", "cog": false },
+        { "t": "cara", "es": "tipo, amigo", "pron": "kára", "ej": "Esse cara trabalha comigo.", "ejes": "Este tipo trabaja conmigo.", "cog": false },
+        { "t": "firmeza", "es": "todo bien, firme", "pron": "firméza", "ej": "Firmeza, pode contar comigo.", "ejes": "Todo bien, puedes contar conmigo.", "cog": false },
+        { "t": "bacana", "es": "bacán, buena onda", "pron": "bakána", "ej": "Que festa bacana!", "ejes": "¡Qué fiesta bacán!", "cog": false },
+        { "t": "grana", "es": "plata (jerga)", "pron": "grána", "ej": "Estou sem grana este mês.", "ejes": "Estoy sin plata este mes.", "cog": false },
+        { "t": "agradeço", "es": "agradezco (formal)", "pron": "agradésu", "ej": "Agradeço a sua colaboração.", "ejes": "Agradezco su colaboración.", "cog": false },
+        { "t": "recursos", "es": "recursos, fondos (formal)", "pron": "rekúrsus", "ej": "A empresa não tem recursos suficientes.", "ejes": "La empresa no tiene recursos suficientes.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Valeu, cara! Você salvou o meu dia.", "es": "¡Gracias, amigo! Me salvaste el día.", "pron": "valéu, kára vosé salvóu u méu día" },
+        { "t": "Beleza, a gente se fala mais tarde.", "es": "Bien, hablamos más tarde.", "pron": "beléza, a yénti si fála máis tárdyi" },
+        { "t": "Estou sem grana, mas o filme é legal.", "es": "Estoy sin plata, pero la película es buena.", "pron": "estóu séin grána, mais u fíwmi é legáu" },
+        { "t": "Agradeço a sua colaboração.", "es": "Agradezco su colaboración.", "pron": "agradésu a súa kolaborasáun" },
+        { "t": "A empresa não dispõe de recursos suficientes.", "es": "La empresa no dispone de recursos suficientes.", "pron": "a empresa náun dyispóin dyi rekúrsus sufisiéntis" }
+      ],
+      "dialogo": {
+        "titulo": "Amigo e chefe",
+        "lineas": [
+          { "q": "A", "t": "E aí, cara, firmeza? Esse show foi bacana, né?", "es": "¿Qué tal, amigo, todo bien? Ese show estuvo bacán, ¿no?" },
+          { "q": "B", "t": "Foi legal, sim. Valeu pelo convite!", "es": "Estuvo genial, sí. ¡Gracias por la invitación!" },
+          { "q": "A", "t": "Agora preciso falar com o diretor. Vou dizer: agradeço a oportunidade.", "es": "Ahora debo hablar con el director. Le diré: agradezco la oportunidad." },
+          { "q": "B", "t": "Boa ideia. Com ele não vale falar de grana nem usar gíria.", "es": "Buena idea. Con él no conviene hablar de plata ni usar jerga." },
+          { "q": "A", "t": "Beleza. Em casa eu relaxo de novo.", "es": "Bien. En casa me relajo de nuevo." }
+        ]
+      },
+      "nota": "«Cara» es coloquial y funciona como «tipo, amigo». Entre desconocidos formales evita «cara», «grana» y «firmeza»."
+    },
+    {
+      "id": "pt-b2-u10-l4",
+      "n": 4,
+      "titulo": "A gente, nós y el habla oral",
+      "objetivo": "Elegir «a gente» o «nós» y entender contracciones del habla oral.",
+      "intro": "En la conversación «a gente vai» (nosotros vamos) es lo normal; en un texto formal, «nós vamos». Truco: «a gente» lleva el verbo en singular, como «ele».",
+      "palabras": [
+        { "t": "a gente", "es": "nosotros (informal)", "pron": "a yénti", "ej": "A gente sempre almoça junto.", "ejes": "Siempre almorzamos juntos.", "cog": false },
+        { "t": "nós", "es": "nosotros (formal)", "pron": "nós", "ej": "Nós agradecemos a presença de todos.", "ejes": "Agradecemos la presencia de todos.", "cog": false },
+        { "t": "tô", "es": "estoy (oral)", "pron": "tó", "ej": "Tô chegando em dez minutos.", "ejes": "Estoy llegando en diez minutos.", "cog": false },
+        { "t": "tá", "es": "está, vale (oral)", "pron": "tá", "ej": "Tá bom, eu espero aqui.", "ejes": "Vale, espero aquí.", "cog": false },
+        { "t": "pra", "es": "para (oral)", "pron": "pra", "ej": "Esse presente é pra você.", "ejes": "Este regalo es para ti.", "cog": false },
+        { "t": "né", "es": "¿no?, ¿verdad?", "pron": "né", "ej": "Está frio hoje, né?", "ejes": "Hace frío hoy, ¿verdad?", "cog": false },
+        { "t": "cadê", "es": "¿dónde está?", "pron": "kadé", "ej": "Cadê a minha chave?", "ejes": "¿Dónde está mi llave?", "cog": false },
+        { "t": "pra gente", "es": "para nosotros", "pron": "pra yénti", "ej": "O chefe trouxe café pra gente.", "ejes": "El jefe trajo café para nosotros.", "cog": false },
+        { "t": "informal", "es": "informal", "pron": "informáu", "ej": "O tom da conversa foi bem informal.", "ejes": "El tono de la conversación fue muy informal.", "cog": true }
+      ],
+      "frases": [
+        { "t": "A gente vai ao cinema hoje.", "es": "Hoy vamos al cine.", "pron": "a yénti vái au sinéma óyi" },
+        { "t": "Nós vamos apresentar o projeto amanhã.", "es": "Vamos a presentar el proyecto mañana.", "pron": "nós vámus apresentár u proyétu amañán" },
+        { "t": "Tô com fome, a gente almoça logo?", "es": "Tengo hambre, ¿almorzamos pronto?", "pron": "tó kon fómi, a yénti awmósa lógu" },
+        { "t": "Cadê o João? Tá atrasado, né?", "es": "¿Dónde está João? Está atrasado, ¿no?", "pron": "kadé u yoáun tá atrazádu né" },
+        { "t": "Esse convite é pra gente.", "es": "Esta invitación es para nosotros.", "pron": "ésyi konvíti é pra yénti" }
+      ],
+      "dialogo": {
+        "titulo": "No elevador do trabalho",
+        "lineas": [
+          { "q": "A", "t": "Cadê o pessoal? A reunião já começou?", "es": "¿Dónde está la gente? ¿La reunión ya empezó?" },
+          { "q": "B", "t": "Tá começando agora. A gente vai entrar juntos?", "es": "Está empezando ahora. ¿Entramos juntos?" },
+          { "q": "A", "t": "Vamos. Nós precisamos apresentar o relatório, né?", "es": "Vamos. Tenemos que presentar el informe, ¿no?" },
+          { "q": "B", "t": "Isso. Tô nervoso, mas o chefe trouxe café pra gente.", "es": "Así es. Estoy nervioso, pero el jefe trajo café para nosotros." },
+          { "q": "A", "t": "Relaxa. Dentro da sala usamos tom mais formal.", "es": "Relájate. Dentro de la sala usamos un tono más formal." }
+        ]
+      },
+      "nota": "Escribir «a gente vamos» es un error: el verbo va en singular («a gente vai»). «Tô», «tá» y «pra» se oyen mucho pero se evitan en documentos."
+    },
+    {
+      "id": "pt-b2-u10-l5",
+      "n": 5,
+      "titulo": "Repaso: mismo mensaje, dos registros",
+      "objetivo": "Decir lo mismo a un amigo y a un superior cambiando el registro.",
+      "intro": "Repasa lo aprendido comparando versiones. Truco: antes de hablar, pregúntate quién te escucha y elige el tono.",
+      "palabras": [
+        { "t": "formal", "es": "formal", "pron": "formáu", "ej": "Esse e-mail precisa ser mais formal.", "ejes": "Este correo necesita ser más formal.", "cog": true },
+        { "t": "registro", "es": "registro (de lengua)", "pron": "rejístru", "ej": "Mudar de registro depende da pessoa.", "ejes": "Cambiar de registro depende de la persona.", "cog": true },
+        { "t": "educado", "es": "educado, cortés", "pron": "edukádu", "ej": "Ele é sempre muito educado.", "ejes": "Él siempre es muy educado.", "cog": false },
+        { "t": "informalidade", "es": "informalidad", "pron": "informalidádyi", "ej": "A informalidade é comum entre amigos.", "ejes": "La informalidad es común entre amigos.", "cog": true },
+        { "t": "entrevista", "es": "entrevista", "pron": "entrevísta", "ej": "A entrevista de trabalho foi ótima.", "ejes": "La entrevista de trabajo fue excelente.", "cog": true },
+        { "t": "recado", "es": "mensaje, recado", "pron": "rekádu", "ej": "Deixei um recado para o gerente.", "ejes": "Dejé un recado para el gerente.", "cog": false },
+        { "t": "gerente", "es": "gerente", "pron": "yerénti", "ej": "O gerente vai atender o senhor.", "ejes": "El gerente va a atender al señor.", "cog": true },
+        { "t": "mensagem", "es": "mensaje", "pron": "mensáyein", "ej": "Mandei uma mensagem para a minha amiga.", "ejes": "Le mandé un mensaje a mi amiga.", "cog": false },
+        { "t": "contato", "es": "contacto", "pron": "kontátu", "ej": "Entrarei em contato com o senhor amanhã.", "ejes": "Me pondré en contacto con usted mañana.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Valeu, beleza? Tô chegando pra reunião.", "es": "Gracias, ¿todo bien? Ya llego a la reunión.", "pron": "valéu, beléza tó shegándu pra reuniáun" },
+        { "t": "Agradeço. Estou chegando para a reunião.", "es": "Agradezco. Estoy llegando a la reunión.", "pron": "agradésu estóu shegándu pára a reuniáun" },
+        { "t": "O senhor poderia me enviar uma mensagem?", "es": "¿Usted podría enviarme un mensaje?", "pron": "u señór podería mi enviár úma mensáyein" },
+        { "t": "A gente se fala amanhã, tá bom?", "es": "Hablamos mañana, ¿vale?", "pron": "a yénti si fála amañán tá bóm" },
+        { "t": "Entrarei em contato com o senhor.", "es": "Me pondré en contacto con usted.", "pron": "entraréi ein kontátu kon u señór" }
+      ],
+      "dialogo": {
+        "titulo": "Entrevista de trabalho",
+        "lineas": [
+          { "q": "A", "t": "Bom dia. A senhora é a candidata da entrevista?", "es": "Buen día. ¿Usted es la candidata de la entrevista?" },
+          { "q": "B", "t": "Sim, sou eu. Agradeço a oportunidade.", "es": "Sí, soy yo. Agradezco la oportunidad." },
+          { "q": "A", "t": "O gerente vai atender a senhora em instantes. Fique à vontade.", "es": "El gerente la atenderá en un momento. Póngase cómoda." },
+          { "q": "B", "t": "Obrigada. Posso deixar um recado para uma amiga?", "es": "Gracias. ¿Puedo dejar un recado para una amiga?" },
+          { "q": "A", "t": "Pode, mas na entrevista evite gírias e seja educada.", "es": "Puede, pero en la entrevista evite la jerga y sea educada." }
+        ]
+      },
+      "nota": "Regla útil: con amigos puedes usar jerga y «a gente»; en entrevistas, correos y reuniones usa «o senhor / a senhora» y frases completas."
+    }
+  ]
+}

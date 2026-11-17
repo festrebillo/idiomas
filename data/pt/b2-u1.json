@@ -1,0 +1,737 @@
+{
+  "id": "pt-b2-u1",
+  "idioma": "pt",
+  "nivel": "B2",
+  "n": 1,
+  "titulo": "Narrar con detalle",
+  "resumen": "Aprenderás el mais-que-perfeito (tinha + participio) para contar qué había pasado antes, y a combinar imperfeito, perfeito y conectores narrativos en un relato.",
+  "puedo": [
+    "Contar que algo ya había pasado antes de otro hecho: «já tinha saído».",
+    "Combinar imperfeito (escenario) y perfeito (hechos) en un relato.",
+    "Ordenar una historia con conectores: «em seguida», «por fim», «assim que».",
+    "Contar imprevistos y anécdotas con detalle.",
+    "Narrar un viaje o un día complicado de principio a fin."
+  ],
+  "gramatica": {
+    "titulo": "Mais-que-perfeito: tinha + participio",
+    "texto": "Cuando cuentas una historia en pasado y quieres decir que algo ocurrió ANTES de otro hecho pasado, usas el mais-que-perfeito. En el habla se forma con «tinha» (imperfeito de ter) + participio: Quando cheguei, o filme já tinha começado (Cuando llegué, la película ya había empezado).\nEl participio de este tiempo no cambia: tinha feito, tinha chegado, tinha saído. Participios irregulares comunes: feito, dito, visto, posto, aberto, escrito.\nEn textos formales y literarios existe la forma simple (chegara, fizera), pero en conversación casi nadie la usa: usa «tinha + participio». También verás «havia + participio» en textos escritos.\nTruco: pregúntate cuál pasó primero. Lo que pasó primero va con «tinha»; lo que pasó después va en perfeito.",
+    "tabla": [
+      [
+        "eu tinha chegado",
+        "yo había llegado",
+        "éu tíña shegádu"
+      ],
+      [
+        "você tinha feito",
+        "tú habías hecho",
+        "vosê tíña féitu"
+      ],
+      [
+        "ele tinha saído",
+        "él había salido",
+        "éli tíña saídu"
+      ],
+      [
+        "nós tínhamos visto",
+        "habíamos visto",
+        "nós tíñamus vístu"
+      ],
+      [
+        "eles tinham dito",
+        "habían dicho",
+        "éles tíñau dítu"
+      ],
+      [
+        "já tinha acontecido",
+        "ya había ocurrido",
+        "yá tíña akontesídu"
+      ]
+    ],
+    "errores": [
+      "No uses el perfeito para todo: «Quando cheguei, ele saiu» significa que salió DESPUÉS de que llegaste; si ya se había ido, di «ele já tinha saído».",
+      "No copies el «había + participio» con «haver» en la conversación: en el habla se dice «tinha chegado», no «havia chegado» (suena escrito).",
+      "No confundas «tinha» (había + participio / tenía) con «tive»: «tive que ir» es «tuve que ir»; «tinha ido» es «había ido»."
+    ]
+  },
+  "practica": [
+    "Escribe 6 frases sobre tu semana pasada con «já tinha...» antes de otro hecho (7 minutos).",
+    "Cuenta en voz alta, en 2 minutos, cómo fue tu mañana de ayer usando 4 conectores (em seguida, por fim...).",
+    "Lee un cuento corto en portugués y subraya 5 verbos en mais-que-perfeito (8 minutos).",
+    "Graba un audio contando un imprevisto de viaje y escúchalo: ¿diferenciaste bien lo anterior y lo posterior? (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b2-u1-l1",
+      "n": 1,
+      "titulo": "Lo que ya había pasado",
+      "objetivo": "Decir que algo ocurrió antes de otro hecho con «tinha + participio».",
+      "intro": "El mais-que-perfeito es el «ya había...» del portugués. Truco: ponlo siempre junto a «já» o «nunca» y la idea de «antes» queda clarísima.",
+      "palabras": [
+        {
+          "t": "tinha chegado",
+          "es": "había llegado",
+          "pron": "tíña shegádu",
+          "ej": "Quando liguei, ela já tinha chegado.",
+          "ejes": "Cuando llamé, ella ya había llegado.",
+          "cog": false
+        },
+        {
+          "t": "já tinha saído",
+          "es": "ya había salido",
+          "pron": "yá tíña saídu",
+          "ej": "Quando cheguei, o gerente já tinha saído.",
+          "ejes": "Cuando llegué, el gerente ya había salido.",
+          "cog": false
+        },
+        {
+          "t": "nunca tinha visto",
+          "es": "nunca había visto",
+          "pron": "núnka tíña vístu",
+          "ej": "Eu nunca tinha visto o mar.",
+          "ejes": "Yo nunca había visto el mar.",
+          "cog": false
+        },
+        {
+          "t": "tinha esquecido",
+          "es": "había olvidado",
+          "pron": "tíña eskesídu",
+          "ej": "Percebi que tinha esquecido a carteira.",
+          "ejes": "Me di cuenta de que había olvidado la billetera.",
+          "cog": false
+        },
+        {
+          "t": "na véspera",
+          "es": "la víspera",
+          "pron": "na véspera",
+          "ej": "Na véspera da viagem, não consegui dormir.",
+          "ejes": "La víspera del viaje no pude dormir.",
+          "cog": false
+        },
+        {
+          "t": "naquele dia",
+          "es": "aquel día",
+          "pron": "nakéli día",
+          "ej": "Naquele dia, tudo deu errado.",
+          "ejes": "Aquel día todo salió mal.",
+          "cog": false
+        },
+        {
+          "t": "de repente",
+          "es": "de repente",
+          "pron": "dyi repénti",
+          "ej": "De repente, a luz apagou.",
+          "ejes": "De repente, la luz se apagó.",
+          "cog": false
+        },
+        {
+          "t": "a princípio",
+          "es": "al principio",
+          "pron": "a prinsípiu",
+          "ej": "A princípio, ninguém acreditou nele.",
+          "ejes": "Al principio, nadie le creyó.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Quando cheguei, o filme já tinha começado.",
+          "es": "Cuando llegué, la película ya había empezado.",
+          "pron": "kuándu shegéi, u fílmi yá tíña komesádu"
+        },
+        {
+          "t": "Eu nunca tinha viajado de avião antes daquela vez.",
+          "es": "Yo nunca había viajado en avión antes de aquella vez.",
+          "pron": "éu núnka tíña viayádu dyi avióun ántyis dakéla vés"
+        },
+        {
+          "t": "Ela me contou que já tinha vendido o carro.",
+          "es": "Ella me contó que ya había vendido el carro.",
+          "pron": "éla mi kontóu ki yá tíña vendídu u kárru"
+        },
+        {
+          "t": "Na véspera, nós tínhamos combinado tudo.",
+          "es": "La víspera, habíamos acordado todo.",
+          "pron": "na véspera, nós tíñamus kombinádu túdu"
+        },
+        {
+          "t": "De repente, percebi que tinha perdido as chaves.",
+          "es": "De repente, noté que había perdido las llaves.",
+          "pron": "dyi repénti, persebí ki tíña perdídu as sháves"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Chegando tarde ao aeroporto",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Quando cheguei ao portão, o voo já tinha saído.",
+            "es": "Cuando llegué a la puerta, el vuelo ya había salido."
+          },
+          {
+            "q": "B",
+            "t": "Sério? Você não tinha feito o check-in on-line?",
+            "es": "¿En serio? ¿No habías hecho el check-in en línea?"
+          },
+          {
+            "q": "A",
+            "t": "Tinha, mas esqueci que o portão mudou de lugar.",
+            "es": "Sí, pero olvidé que la puerta cambió de lugar."
+          },
+          {
+            "q": "B",
+            "t": "Nossa! E o que você fez depois?",
+            "es": "¡Caramba! ¿Y qué hiciste después?"
+          },
+          {
+            "q": "A",
+            "t": "Remarquei para a noite. Nunca tinha passado tanta raiva.",
+            "es": "Reprogramé para la noche. Nunca había sentido tanta rabia."
+          }
+        ]
+      },
+      "nota": "Para el «ya había + participio» en conversación, usa «tinha». «Havia» + participio suena más literario y es común en la escritura."
+    },
+    {
+      "id": "pt-b2-u1-l2",
+      "n": 2,
+      "titulo": "Conectores para ordenar la historia",
+      "objetivo": "Encadenar los hechos de un relato con conectores de tiempo.",
+      "intro": "Un buen relato necesita señales de orden. Truco: aprende los conectores en pares: «primeiro... em seguida... por fim».",
+      "palabras": [
+        {
+          "t": "em seguida",
+          "es": "enseguida / a continuación",
+          "pron": "ein seguída",
+          "ej": "Entrei em casa e, em seguida, liguei para ela.",
+          "ejes": "Entré a casa y enseguida la llamé.",
+          "cog": false
+        },
+        {
+          "t": "logo depois",
+          "es": "poco después",
+          "pron": "lógu depóis",
+          "ej": "Saímos e, logo depois, começou a chover.",
+          "ejes": "Salimos y, poco después, empezó a llover.",
+          "cog": false
+        },
+        {
+          "t": "enquanto isso",
+          "es": "mientras tanto",
+          "pron": "enkuántu ísu",
+          "ej": "Enquanto isso, meu irmão esperava no carro.",
+          "ejes": "Mientras tanto, mi hermano esperaba en el carro.",
+          "cog": false
+        },
+        {
+          "t": "por fim",
+          "es": "por último / al fin",
+          "pron": "por fím",
+          "ej": "Por fim, conseguimos um táxi.",
+          "ejes": "Por último, conseguimos un taxi.",
+          "cog": false
+        },
+        {
+          "t": "ao mesmo tempo",
+          "es": "al mismo tiempo",
+          "pron": "au mésmu témpu",
+          "ej": "Os dois falaram ao mesmo tempo.",
+          "ejes": "Los dos hablaron al mismo tiempo.",
+          "cog": false
+        },
+        {
+          "t": "assim que",
+          "es": "apenas / en cuanto",
+          "pron": "asím ki",
+          "ej": "Assim que cheguei, o telefone tocou.",
+          "ejes": "En cuanto llegué, sonó el teléfono.",
+          "cog": false
+        },
+        {
+          "t": "até que",
+          "es": "hasta que",
+          "pron": "até ki",
+          "ej": "Esperei até que ele respondesse.",
+          "ejes": "Esperé hasta que él respondiera.",
+          "cog": false
+        },
+        {
+          "t": "no fim das contas",
+          "es": "al final de cuentas",
+          "pron": "nu fím das kóntas",
+          "ej": "No fim das contas, tudo acabou bem.",
+          "ejes": "Al final de cuentas, todo terminó bien.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Primeiro pedimos o café e, em seguida, a conta.",
+          "es": "Primero pedimos el café y enseguida la cuenta.",
+          "pron": "priméiru pedímus u kafé i, ein seguída, a kónta"
+        },
+        {
+          "t": "Enquanto isso, a Marta preparava o jantar.",
+          "es": "Mientras tanto, Marta preparaba la cena.",
+          "pron": "enkuántu ísu, a márta preparáva u yantár"
+        },
+        {
+          "t": "Assim que o sol saiu, fomos para a praia.",
+          "es": "En cuanto salió el sol, fuimos a la playa.",
+          "pron": "asím ki u sól saíu, fómus pára a práya"
+        },
+        {
+          "t": "Esperamos até que o ônibus chegasse.",
+          "es": "Esperamos hasta que llegó el bus.",
+          "pron": "esperámus até ki u ónibus shegási"
+        },
+        {
+          "t": "Por fim, tudo deu certo no fim das contas.",
+          "es": "Al final, todo salió bien al fin y al cabo.",
+          "pron": "por fím, túdu déu sértu nu fím das kóntas"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Contando o fim de semana",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Como foi o passeio de sábado?",
+            "es": "¿Cómo fue el paseo del sábado?"
+          },
+          {
+            "q": "B",
+            "t": "Primeiro, pegamos trânsito. Em seguida, o carro quebrou.",
+            "es": "Primero, agarramos tráfico. Luego, el carro se averió."
+          },
+          {
+            "q": "A",
+            "t": "Que horror! E o que vocês fizeram?",
+            "es": "¡Qué horror! ¿Y qué hicieron?"
+          },
+          {
+            "q": "B",
+            "t": "Esperamos até que o guincho chegasse. Enquanto isso, comemos um lanche.",
+            "es": "Esperamos hasta que llegó la grúa. Mientras tanto, comimos un refrigerio."
+          },
+          {
+            "q": "A",
+            "t": "E no fim das contas, vocês chegaram?",
+            "es": "¿Y al final llegaron?"
+          },
+          {
+            "q": "B",
+            "t": "Chegamos, sim, já de noite.",
+            "es": "Sí, llegamos, ya de noche."
+          }
+        ]
+      },
+      "nota": "«Assim que» y «até que» se usan con subjuntivo cuando miran al futuro (assim que ele chegar); en pasado narrado, «até que + imperfeito do subjuntivo» es común en relatos."
+    },
+    {
+      "id": "pt-b2-u1-l3",
+      "n": 3,
+      "titulo": "Imperfeito y perfeito en un relato",
+      "objetivo": "Separar el escenario (imperfeito) de los hechos (perfeito).",
+      "intro": "El imperfeito pinta el fondo: qué pasaba, cómo era. El perfeito cuenta los hechos que interrumpen. Truco: «Eu estava... quando... (pasó algo)».",
+      "palabras": [
+        {
+          "t": "acontecer",
+          "es": "ocurrir",
+          "pron": "akontesér",
+          "ej": "Não sei o que pode acontecer amanhã.",
+          "ejes": "No sé qué puede ocurrir mañana.",
+          "cog": false
+        },
+        {
+          "t": "perceber",
+          "es": "darse cuenta",
+          "pron": "persebér",
+          "ej": "Demorei a perceber o erro.",
+          "ejes": "Tardé en darme cuenta del error.",
+          "cog": false
+        },
+        {
+          "t": "reparar",
+          "es": "fijarse / notar",
+          "pron": "reparár",
+          "ej": "Vale a pena reparar nos detalhes.",
+          "ejes": "Vale la pena fijarse en los detalles.",
+          "cog": false
+        },
+        {
+          "t": "o cenário",
+          "es": "el escenario",
+          "pron": "u senáriu",
+          "ej": "O cenário era uma praia deserta.",
+          "ejes": "El escenario era una playa desierta.",
+          "cog": true
+        },
+        {
+          "t": "o susto",
+          "es": "el susto",
+          "pron": "u súztu",
+          "ej": "O susto passou logo.",
+          "ejes": "El susto pasó pronto.",
+          "cog": true
+        },
+        {
+          "t": "o desfecho",
+          "es": "el desenlace",
+          "pron": "u desféshu",
+          "ej": "O desfecho da história me surpreendeu.",
+          "ejes": "El desenlace de la historia me sorprendió.",
+          "cog": false
+        },
+        {
+          "t": "relatar",
+          "es": "relatar",
+          "pron": "relatár",
+          "ej": "Ele vai relatar o que viu.",
+          "ejes": "Él va a relatar lo que vio.",
+          "cog": true
+        },
+        {
+          "t": "o enredo",
+          "es": "la trama",
+          "pron": "u enrédu",
+          "ej": "O enredo do filme é complicado.",
+          "ejes": "La trama de la película es complicada.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Eu andava pela rua quando ouvi um grito.",
+          "es": "Yo caminaba por la calle cuando oí un grito.",
+          "pron": "éu andáva péla rúa kuándu oví ún grítu"
+        },
+        {
+          "t": "Estava chovendo e ninguém queria sair de casa.",
+          "es": "Estaba lloviendo y nadie quería salir de casa.",
+          "pron": "estáva shovéndu i ningéin kería saír dyi káza"
+        },
+        {
+          "t": "Quando percebi, o ônibus já tinha passado.",
+          "es": "Cuando me di cuenta, el bus ya había pasado.",
+          "pron": "kuándu persebí, u ónibus yá tíña pasádu"
+        },
+        {
+          "t": "Ela dormia quando o telefone tocou.",
+          "es": "Ella dormía cuando sonó el teléfono.",
+          "pron": "éla dormía kuándu u telefóni tokóu"
+        },
+        {
+          "t": "O desfecho foi inesperado para todos.",
+          "es": "El desenlace fue inesperado para todos.",
+          "pron": "u desféshu fói inesperádu pára tódus"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Uma noite estranha",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Você nem imagina o que aconteceu ontem à noite.",
+            "es": "No te imaginas lo que ocurrió anoche."
+          },
+          {
+            "q": "B",
+            "t": "Conta! Onde você estava?",
+            "es": "¡Cuenta! ¿Dónde estabas?"
+          },
+          {
+            "q": "A",
+            "t": "Eu voltava do trabalho quando percebi que alguém me seguia.",
+            "es": "Volvía del trabajo cuando noté que alguien me seguía."
+          },
+          {
+            "q": "B",
+            "t": "Que susto! E como foi o desfecho?",
+            "es": "¡Qué susto! ¿Y cómo fue el desenlace?"
+          },
+          {
+            "q": "A",
+            "t": "Era só o meu vizinho, que tinha me reconhecido de longe.",
+            "es": "Era solo mi vecino, que me había reconocido de lejos."
+          }
+        ]
+      },
+      "nota": "Regla práctica: imperfeito = lo que estaba en curso o era habitual; perfeito = lo que ocurrió y se terminó. «Estava dormindo quando ele chegou» (dormía / él llegó)."
+    },
+    {
+      "id": "pt-b2-u1-l4",
+      "n": 4,
+      "titulo": "Imprevistos y anécdotas",
+      "objetivo": "Contar un contratiempo con vocabulario preciso.",
+      "intro": "Las mejores anécdotas son los imprevistos. Truco: aprende «por sorte» y «por azar» como pareja: te ayudan a cerrar la historia.",
+      "palabras": [
+        {
+          "t": "o imprevisto",
+          "es": "el imprevisto",
+          "pron": "u imprevístu",
+          "ej": "O imprevisto atrapalhou a reunião.",
+          "ejes": "El imprevisto arruinó la reunión.",
+          "cog": true
+        },
+        {
+          "t": "por sorte",
+          "es": "por suerte",
+          "pron": "por sórti",
+          "ej": "Por sorte, havia um mecânico perto.",
+          "ejes": "Por suerte, había un mecánico cerca.",
+          "cog": false
+        },
+        {
+          "t": "por azar",
+          "es": "por mala suerte",
+          "pron": "por azár",
+          "ej": "Por azar, perdi o último trem.",
+          "ejes": "Por mala suerte, perdí el último tren.",
+          "cog": false
+        },
+        {
+          "t": "levar um susto",
+          "es": "llevarse un susto",
+          "pron": "levár ún súztu",
+          "ej": "Vou levar um susto se ele entrar assim.",
+          "ejes": "Me voy a llevar un susto si entra así.",
+          "cog": false
+        },
+        {
+          "t": "dar errado",
+          "es": "salir mal",
+          "pron": "dár errádu",
+          "ej": "Não quero dar errado de novo.",
+          "ejes": "No quiero que me salga mal otra vez.",
+          "cog": false
+        },
+        {
+          "t": "me atrasar",
+          "es": "retrasarme",
+          "pron": "mi atrazár",
+          "ej": "Hoje não posso me atrasar.",
+          "ejes": "No puedo retrasarme hoy.",
+          "cog": false
+        },
+        {
+          "t": "escapar",
+          "es": "escapar",
+          "pron": "eskapár",
+          "ej": "Foi difícil escapar da chuva.",
+          "ejes": "Fue difícil escapar de la lluvia.",
+          "cog": false
+        },
+        {
+          "t": "a pane",
+          "es": "la avería",
+          "pron": "a páni",
+          "ej": "Aconteceu a pane na estrada.",
+          "ejes": "Ocurrió la avería en la carretera.",
+          "cog": false
+        },
+        {
+          "t": "o prejuízo",
+          "es": "el perjuicio / la pérdida",
+          "pron": "u prezhuízu",
+          "ej": "O prejuízo foi grande para a loja.",
+          "ejes": "La pérdida fue grande para la tienda.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Por sorte, ninguém se machucou no acidente.",
+          "es": "Por suerte, nadie se lastimó en el accidente.",
+          "pron": "por sórti, ningéin si mashukóu nu asidénti"
+        },
+        {
+          "t": "Tudo deu errado logo no primeiro dia.",
+          "es": "Todo salió mal desde el primer día.",
+          "pron": "túdu déu errádu lógu nu priméiru día"
+        },
+        {
+          "t": "O voo se atrasou por causa da neblina.",
+          "es": "El vuelo se retrasó por la neblina.",
+          "pron": "u vóu si atrazóu por káuza da neblína"
+        },
+        {
+          "t": "Tive um imprevisto no trabalho e saí tarde.",
+          "es": "Tuve un imprevisto en el trabajo y salí tarde.",
+          "pron": "tívi ún imprevístu nu trabálhu i saí tárdyi"
+        },
+        {
+          "t": "O prejuízo da pane foi bem maior do que eu imaginava.",
+          "es": "La pérdida por la avería fue mucho mayor de lo que imaginaba.",
+          "pron": "u prezhuízu da páni fói béin maiór du ki éu imazhináva"
+        }
+      ],
+      "dialogo": {
+        "titulo": "A viagem que deu errado",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "A nossa viagem a Gramado foi uma sequência de imprevistos.",
+            "es": "Nuestro viaje a Gramado fue una secuencia de imprevistos."
+          },
+          {
+            "q": "B",
+            "t": "Mesmo? O que aconteceu?",
+            "es": "¿En serio? ¿Qué pasó?"
+          },
+          {
+            "q": "A",
+            "t": "Primeiro, o carro teve uma pane. Em seguida, começou a chover forte.",
+            "es": "Primero, el carro tuvo una avería. Luego empezó a llover fuerte."
+          },
+          {
+            "q": "B",
+            "t": "Nossa! Vocês conseguiram ajuda?",
+            "es": "¡Caramba! ¿Consiguieron ayuda?"
+          },
+          {
+            "q": "A",
+            "t": "Por sorte, um senhor parou e nos levou até a cidade.",
+            "es": "Por suerte, un señor paró y nos llevó hasta la ciudad."
+          }
+        ]
+      },
+      "nota": "«Dar errado» y «dar certo» son muy naturales en Brasil: «o plano deu certo» (el plan salió bien). No digas «saiu mal» para planes."
+    },
+    {
+      "id": "pt-b2-u1-l5",
+      "n": 5,
+      "titulo": "Repaso: un día de principio a fin",
+      "objetivo": "Narrar un día completo combinando tiempos y conectores.",
+      "intro": "Ahora junta todo: escenario, hechos, lo anterior y los conectores. Truco: antes de hablar, ordena tres hechos y marca cuál ocurrió primero.",
+      "palabras": [
+        {
+          "t": "o relato",
+          "es": "el relato",
+          "pron": "u relátu",
+          "ej": "O relato dele foi muito divertido.",
+          "ejes": "Su relato fue muy divertido.",
+          "cog": false
+        },
+        {
+          "t": "no começo",
+          "es": "al comienzo",
+          "pron": "nu komésu",
+          "ej": "No começo, tudo parecia normal.",
+          "ejes": "Al comienzo, todo parecía normal.",
+          "cog": false
+        },
+        {
+          "t": "mais tarde",
+          "es": "más tarde",
+          "pron": "máis tárdyi",
+          "ej": "Mais tarde, descobri a verdade.",
+          "ejes": "Más tarde, descubrí la verdad.",
+          "cog": false
+        },
+        {
+          "t": "por causa de",
+          "es": "a causa de",
+          "pron": "por káuza dyi",
+          "ej": "Chegamos tarde por causa de uma greve.",
+          "ejes": "Llegamos tarde a causa de una huelga.",
+          "cog": false
+        },
+        {
+          "t": "felizmente",
+          "es": "felizmente",
+          "pron": "felizméntyi",
+          "ej": "Felizmente, ninguém saiu ferido.",
+          "ejes": "Felizmente, nadie salió herido.",
+          "cog": true
+        },
+        {
+          "t": "infelizmente",
+          "es": "lamentablemente",
+          "pron": "infelizméntyi",
+          "ej": "Infelizmente, o evento foi cancelado.",
+          "ejes": "Lamentablemente, el evento fue cancelado.",
+          "cog": true
+        },
+        {
+          "t": "a certa altura",
+          "es": "en cierto momento",
+          "pron": "a sérta altúra",
+          "ej": "A certa altura, ela desistiu.",
+          "ejes": "En cierto momento, ella desistió.",
+          "cog": false
+        },
+        {
+          "t": "contar",
+          "es": "contar",
+          "pron": "kontár",
+          "ej": "Vou contar o que me aconteceu.",
+          "ejes": "Voy a contar lo que me pasó.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "No começo, nada indicava que o dia seria difícil.",
+          "es": "Al comienzo, nada indicaba que el día sería difícil.",
+          "pron": "nu komésu, náda indikáva ki u día seria difísil"
+        },
+        {
+          "t": "A certa altura, percebi que já tinha perdido a reunião.",
+          "es": "En cierto momento, noté que ya había perdido la reunión.",
+          "pron": "a sérta altúra, persebí ki yá tíña perdídu a reuniáun"
+        },
+        {
+          "t": "Felizmente, o chefe entendeu o imprevisto.",
+          "es": "Felizmente, el jefe entendió el imprevisto.",
+          "pron": "felizméntyi, u shéfi entendéu u imprevístu"
+        },
+        {
+          "t": "Mais tarde, assim que cheguei em casa, caí no sono.",
+          "es": "Más tarde, apenas llegué a casa, me dormí.",
+          "pron": "máis tárdyi, asím ki shegéi ein káza, kaí nu sónu"
+        },
+        {
+          "t": "Por causa da chuva, a rua estava alagada.",
+          "es": "A causa de la lluvia, la calle estaba inundada.",
+          "pron": "por káuza da shúva, a rúa estáva alagáda"
+        }
+      ],
+      "dialogo": {
+        "titulo": "O pior dia da semana",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Quer ouvir o relato do meu dia? Foi um desastre.",
+            "es": "¿Quieres oír el relato de mi día? Fue un desastre."
+          },
+          {
+            "q": "B",
+            "t": "Quero! Começa do início.",
+            "es": "¡Quiero! Empieza desde el inicio."
+          },
+          {
+            "q": "A",
+            "t": "No começo, tudo parecia normal. Mas o despertador não tinha tocado.",
+            "es": "Al comienzo, todo parecía normal. Pero el despertador no había sonado."
+          },
+          {
+            "q": "B",
+            "t": "Aí você se atrasou, claro.",
+            "es": "Entonces te retrasaste, claro."
+          },
+          {
+            "q": "A",
+            "t": "Exato. Em seguida, perdi o ônibus e, por fim, cheguei depois do chefe.",
+            "es": "Exacto. Luego perdí el bus y, por último, llegué después del jefe."
+          },
+          {
+            "q": "B",
+            "t": "Felizmente, a sexta-feira já chegou.",
+            "es": "Felizmente, ya llegó el viernes."
+          }
+        ]
+      },
+      "nota": "Un buen relato suele seguir este orden: escenario (imperfeito), hecho clave (perfeito), antecedente (tinha + participio), desenlace."
+    }
+  ]
+}

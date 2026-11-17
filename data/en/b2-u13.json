@@ -1,0 +1,221 @@
+{
+  "id": "en-b2-u13",
+  "idioma": "en",
+  "nivel": "B2",
+  "n": 13,
+  "titulo": "Relativas avanzadas y frases con participio",
+  "resumen": "Aprenderás cláusulas relativas con comas, relativas reducidas y frases con -ing y -ed para dar más información sin repetir palabras.",
+  "puedo": [
+    "Añadir información extra con who y which entre comas.",
+    "Usar whose, where y when en cláusulas relativas.",
+    "Reducir una relativa con -ing o -ed: the man talking, the book written.",
+    "Usar frases con participio para acciones simultáneas o seguidas.",
+    "Escribir oraciones más compactas y naturales."
+  ],
+  "gramatica": {
+    "titulo": "Relativas con comas y relativas reducidas",
+    "texto": "Las relativas que definían (sin comas) identifican a quién o qué nos referimos: The man who called is my boss. Las relativas con comas solo añaden información extra: My boss, who lives in Lima, called me. Aquí no puedes usar that.\nSe pueden reducir las relativas: con -ing si la acción es activa (The man talking to Ana is my boss = who is talking) y con -ed o participio si es pasiva (The book written by Borges = which was written). También existen frases con participio: Walking home, I saw Ana (mientras caminaba a casa, vi a Ana).\nTruco: si puedes quitar la información y la oración sigue teniendo sentido, usa comas.",
+    "tabla": [
+      ["My boss, who lives in Lima, called.", "Mi jefe, que vive en Lima, llamó.", "mai bos ju livs in lima cold"],
+      ["The man who called is my boss.", "El hombre que llamó es mi jefe.", "da man ju cold is mai bos"],
+      ["The man talking to Ana is my boss.", "El hombre que habla con Ana es mi jefe.", "da man tókin tu ana is mai bos"],
+      ["The book written by Borges is great.", "El libro escrito por Borges es genial.", "da buk ríten bai bórjes is greit"],
+      ["Walking home, I saw Ana.", "Caminando a casa, vi a Ana.", "uókin joum ai so ana"],
+      ["Tired, he went to bed.", "Cansado, se fue a la cama.", "taird ji uent tu bed"]
+    ],
+    "errores": [
+      "No uses that con comas: es My car, which is red, is new, no «My car, that is red, is new».",
+      "No olvides las comas en la información extra: sin comas cambia el significado.",
+      "No mezcles sujetos en frases con participio: «Walking home, the rain started» es incorrecto, porque la lluvia no camina. Di Walking home, I got wet."
+    ]
+  },
+  "practica": [
+    "Escribe 6 oraciones con who o which entre comas sobre tu familia o tu ciudad (10 minutos).",
+    "Convierte 6 relativas en reducidas: The woman who is waiting becomes The woman waiting (8 minutos).",
+    "Describe en voz alta a 5 personas de una foto usando -ing y -ed (6 minutos).",
+    "Lee un artículo corto y subraya 5 cláusulas relativas o participios (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b2-u13-l1",
+      "n": 1,
+      "titulo": "Relativas con comas",
+      "objetivo": "Dar información adicional con who y which entre comas.",
+      "intro": "Las comas marcan información extra que se puede quitar. Truco: en esta información no puedes usar that, solo who o which.",
+      "palabras": [
+        { "t": "colleague", "es": "colega", "pron": "cólig", "ej": "My colleague, who lives nearby, drives me home.", "ejes": "Mi colega, que vive cerca, me lleva a casa.", "cog": true },
+        { "t": "neighbor", "es": "vecino", "pron": "néiber", "ej": "My neighbor, who is a doctor, is very kind.", "ejes": "Mi vecino, que es médico, es muy amable.", "cog": false },
+        { "t": "founder", "es": "fundador", "pron": "fáunder", "ej": "The founder, who is 70, still works.", "ejes": "El fundador, que tiene 70, todavía trabaja.", "cog": false },
+        { "t": "landmark", "es": "lugar emblemático", "pron": "lándmark", "ej": "The landmark, which is old, attracts tourists.", "ejes": "El lugar emblemático, que es antiguo, atrae turistas.", "cog": false },
+        { "t": "century", "es": "siglo", "pron": "sénchuri", "ej": "The church dates from the 17th century.", "ejes": "La iglesia es del siglo XVII.", "cog": true },
+        { "t": "famous", "es": "famoso", "pron": "féimos", "ej": "She is famous for her paintings.", "ejes": "Es famosa por sus pinturas.", "cog": true },
+        { "t": "award", "es": "premio", "pron": "uórd", "ej": "He won an award last year.", "ejes": "Ganó un premio el año pasado.", "cog": false },
+        { "t": "retire", "es": "jubilarse", "pron": "ritáir", "ej": "My uncle will retire next year.", "ejes": "Mi tío se jubilará el próximo año.", "cog": false },
+        { "t": "owner", "es": "dueño", "pron": "óuner", "ej": "The owner is very friendly.", "ejes": "El dueño es muy amable.", "cog": false }
+      ],
+      "frases": [
+        { "t": "My brother, who lives in Spain, is a chef.", "es": "Mi hermano, que vive en España, es chef.", "pron": "mai bróder ju livs in spein is a shef" },
+        { "t": "Lima, which is my hometown, is very big.", "es": "Lima, que es mi ciudad natal, es muy grande.", "pron": "lima uich is mai jóumtaun is véri big" },
+        { "t": "Machu Picchu, which is in Peru, is famous.", "es": "Machu Picchu, que está en el Perú, es famoso.", "pron": "máchu píchu uich is in perú is féimos" },
+        { "t": "The owner, who is 60, wants to retire.", "es": "El dueño, que tiene 60, quiere jubilarse.", "pron": "di óuner ju is síksti uonts tu ritáir" },
+        { "t": "Our neighbor, who is a nurse, helped us.", "es": "Nuestra vecina, que es enfermera, nos ayudó.", "pron": "áuer néiber ju is a ners jelpt os" }
+      ],
+      "dialogo": {
+        "titulo": "Una visita",
+        "lineas": [
+          { "q": "A", "t": "This is my uncle, who lives in Cusco.", "es": "Este es mi tío, que vive en Cusco." },
+          { "q": "B", "t": "Nice to meet you. Is that the church, which dates from the 17th century?", "es": "Mucho gusto. ¿Es esa la iglesia, que es del siglo XVII?" },
+          { "q": "A", "t": "Yes. Its founder, who was a priest, came from Spain.", "es": "Sí. Su fundador, que era sacerdote, vino de España." },
+          { "q": "B", "t": "Fascinating. Is it a famous landmark?", "es": "Fascinante. ¿Es un lugar emblemático famoso?" },
+          { "q": "A", "t": "Very. Many tourists visit it.", "es": "Mucho. Muchos turistas la visitan." }
+        ]
+      },
+      "nota": "En una cláusula con comas, who es para personas y which para cosas. No uses that en ese caso."
+    },
+    {
+      "id": "en-b2-u13-l2",
+      "n": 2,
+      "titulo": "Whose, where, when y which",
+      "objetivo": "Usar whose, where, when y which para dar más detalles.",
+      "intro": "Estas palabras relativas dan más información. Truco: whose indica posesión, where es lugar, when es tiempo y which puede referirse a toda una idea.",
+      "palabras": [
+        { "t": "whose", "es": "cuyo, de quien", "pron": "juus", "ej": "I met a man whose son is a pilot.", "ejes": "Conocí a un hombre cuyo hijo es piloto.", "cog": false },
+        { "t": "where", "es": "donde", "pron": "juer", "ej": "This is the town where I was born.", "ejes": "Este es el pueblo donde nací.", "cog": false },
+        { "t": "when", "es": "cuando", "pron": "juen", "ej": "I remember the day when we met.", "ejes": "Recuerdo el día en que nos conocimos.", "cog": false },
+        { "t": "reason", "es": "razón", "pron": "ríson", "ej": "That is the reason why I came.", "ejes": "Esa es la razón por la que vine.", "cog": true },
+        { "t": "pilot", "es": "piloto", "pron": "páilot", "ej": "The pilot greeted us.", "ejes": "El piloto nos saludó.", "cog": true },
+        { "t": "district", "es": "distrito", "pron": "dístrict", "ej": "I live in a quiet district.", "ejes": "Vivo en un distrito tranquilo.", "cog": true },
+        { "t": "lend", "es": "prestar", "pron": "lend", "ej": "Can you lend me some money?", "ejes": "¿Puedes prestarme dinero?", "cog": false },
+        { "t": "lose", "es": "perder", "pron": "luus", "ej": "I don't want to lose my keys.", "ejes": "No quiero perder mis llaves.", "cog": false },
+        { "t": "arrive", "es": "llegar", "pron": "aráiv", "ej": "We arrive at six.", "ejes": "Llegamos a las seis.", "cog": false }
+      ],
+      "frases": [
+        { "t": "That's the woman whose car was stolen.", "es": "Esa es la mujer a quien le robaron el auto.", "pron": "dats da uúmán juus car uas stóulen" },
+        { "t": "This is the cafe where we first met.", "es": "Este es el café donde nos conocimos.", "pron": "dis is da caféi juer ui ferst met" },
+        { "t": "I'll never forget the day when I arrived.", "es": "Nunca olvidaré el día en que llegué.", "pron": "ail néver forguét da dei juen ai aráivd" },
+        { "t": "I lost my keys, which was annoying.", "es": "Perdí mis llaves, lo cual fue molesto.", "pron": "ai lost mai kis uich uas anóiin" },
+        { "t": "He lent me money, which was very kind.", "es": "Me prestó dinero, lo cual fue muy amable.", "pron": "ji lent mi móni uich uas véri caind" }
+      ],
+      "dialogo": {
+        "titulo": "En una reunión de vecinos",
+        "lineas": [
+          { "q": "A", "t": "This is the district where I grew up.", "es": "Este es el distrito donde crecí." },
+          { "q": "B", "t": "Do you know Lucia, whose husband is a pilot?", "es": "¿Conoces a Lucía, cuyo esposo es piloto?" },
+          { "q": "A", "t": "Yes. She told me about the day when he lost his license.", "es": "Sí. Me contó del día en que perdió su licencia." },
+          { "q": "B", "t": "That was the reason why he changed jobs, which was a good decision.", "es": "Esa fue la razón por la que cambió de trabajo, lo cual fue una buena decisión." },
+          { "q": "A", "t": "Definitely.", "es": "Sin duda." }
+        ]
+      },
+      "nota": "Which con coma puede referirse a toda la oración anterior: He passed the exam, which surprised everyone."
+    },
+    {
+      "id": "en-b2-u13-l3",
+      "n": 3,
+      "titulo": "Relativas reducidas",
+      "objetivo": "Reducir una relativa con -ing o con participio pasado.",
+      "intro": "Se puede quitar who is, which was, etc. Truco: -ing si la acción es activa (the man talking); participio si es pasiva (the book written).",
+      "palabras": [
+        { "t": "standing", "es": "de pie", "pron": "stándin", "ej": "The man standing there is my boss.", "ejes": "El hombre que está de pie allí es mi jefe.", "cog": false },
+        { "t": "sitting", "es": "sentado", "pron": "sítin", "ej": "The girl sitting next to me is shy.", "ejes": "La niña sentada a mi lado es tímida.", "cog": false },
+        { "t": "written", "es": "escrito", "pron": "ríten", "ej": "The letter written by Ana is long.", "ejes": "La carta escrita por Ana es larga.", "cog": false },
+        { "t": "painted", "es": "pintado", "pron": "péintid", "ej": "The wall painted blue is mine.", "ejes": "La pared pintada de azul es mía.", "cog": false },
+        { "t": "built", "es": "construido", "pron": "bilt", "ej": "The bridge built in 1990 is old.", "ejes": "El puente construido en 1990 es viejo.", "cog": false },
+        { "t": "waiting", "es": "esperando", "pron": "uéitin", "ej": "The people waiting outside are cold.", "ejes": "La gente que espera afuera tiene frío.", "cog": false },
+        { "t": "invited", "es": "invitado", "pron": "inváitid", "ej": "The guests invited to the party arrived.", "ejes": "Los invitados a la fiesta llegaron.", "cog": false },
+        { "t": "damaged", "es": "dañado", "pron": "dámichd", "ej": "The car damaged in the storm is mine.", "ejes": "El auto dañado en la tormenta es mío.", "cog": false },
+        { "t": "carry", "es": "llevar, cargar", "pron": "cári", "ej": "I carry a box to the car.", "ejes": "Llevo una caja al auto.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The man standing at the door is my boss.", "es": "El hombre que está en la puerta es mi jefe.", "pron": "da man stándin at da dor is mai bos" },
+        { "t": "Who is the girl sitting next to Paul?", "es": "¿Quién es la chica sentada junto a Paul?", "pron": "ju is da guerl sítin nekst tu pol" },
+        { "t": "The report written by Ana was excellent.", "es": "El informe escrito por Ana fue excelente.", "pron": "da ripórt ríten bai ana uas éxelent" },
+        { "t": "Cars parked here will be towed.", "es": "Los autos estacionados aquí serán remolcados.", "pron": "cars parkt jiar uil bi toud" },
+        { "t": "People living in Lima know the traffic.", "es": "Quienes viven en Lima conocen el tráfico.", "pron": "pípol lívin in lima nou da tráfic" }
+      ],
+      "dialogo": {
+        "titulo": "En una fiesta",
+        "lineas": [
+          { "q": "A", "t": "Who is the man standing by the window?", "es": "¿Quién es el hombre que está junto a la ventana?" },
+          { "q": "B", "t": "He's the author of the book written about Lima.", "es": "Es el autor del libro escrito sobre Lima." },
+          { "q": "A", "t": "And the woman sitting next to him?", "es": "¿Y la mujer sentada junto a él?" },
+          { "q": "B", "t": "She's his editor. The guests invited tonight are all from the publishing house.", "es": "Es su editora. Los invitados de esta noche son todos de la editorial." },
+          { "q": "A", "t": "I see. Thanks for explaining.", "es": "Ya veo. Gracias por explicar." }
+        ]
+      },
+      "nota": "Solo reduces la relativa cuando el pronombre es sujeto: The man who called... = The man calling... Si es objeto, no se reduce igual."
+    },
+    {
+      "id": "en-b2-u13-l4",
+      "n": 4,
+      "titulo": "Frases con participio",
+      "objetivo": "Usar frases con -ing y -ed para acciones simultáneas o seguidas.",
+      "intro": "Una frase con participio comparte el sujeto con la oración principal. Truco: pregunta quien hace las dos acciones; debe ser la misma persona.",
+      "palabras": [
+        { "t": "walking", "es": "caminando", "pron": "uókin", "ej": "Walking to work, I saw an accident.", "ejes": "Caminando al trabajo, vi un accidente.", "cog": false },
+        { "t": "having", "es": "habiendo", "pron": "jávin", "ej": "Having finished, we went home.", "ejes": "Habiendo terminado, nos fuimos a casa.", "cog": false },
+        { "t": "tired", "es": "cansado", "pron": "táird", "ej": "Tired, he went to bed.", "ejes": "Cansado, se fue a la cama.", "cog": false },
+        { "t": "surprised", "es": "sorprendido", "pron": "serpráisd", "ej": "Surprised, she opened the box.", "ejes": "Sorprendida, abrió la caja.", "cog": true },
+        { "t": "listening", "es": "escuchando", "pron": "lísenin", "ej": "Listening to music, I cleaned the house.", "ejes": "Escuchando música, limpié la casa.", "cog": false },
+        { "t": "feeling", "es": "sintiendo", "pron": "fílin", "ej": "Feeling sick, she stayed home.", "ejes": "Sintiéndose mal, se quedó en casa.", "cog": false },
+        { "t": "knowing", "es": "sabiendo", "pron": "nóuin", "ej": "Knowing the answer, he smiled.", "ejes": "Sabiendo la respuesta, sonrió.", "cog": false },
+        { "t": "seeing", "es": "viendo", "pron": "síin", "ej": "Seeing the time, I ran.", "ejes": "Al ver la hora, corrí.", "cog": false },
+        { "t": "unable", "es": "incapaz", "pron": "onéibol", "ej": "Unable to sleep, he read a book.", "ejes": "Sin poder dormir, leyó un libro.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Walking home, I met an old friend.", "es": "Caminando a casa, encontré a un viejo amigo.", "pron": "uókin joum ai met an ould frend" },
+        { "t": "Having finished work, she went to the gym.", "es": "Habiendo terminado el trabajo, fue al gimnasio.", "pron": "jávin fínisht uerk shi uent tu da yim" },
+        { "t": "Feeling tired, he went to bed early.", "es": "Sintiendo cansancio, se acostó temprano.", "pron": "fílin taird ji uent tu bed érli" },
+        { "t": "Surprised by the news, she sat down.", "es": "Sorprendida por la noticia, se sentó.", "pron": "serpráisd bai da nius shi sat daun" },
+        { "t": "Not knowing what to do, I called Ana.", "es": "Sin saber qué hacer, llamé a Ana.", "pron": "not nóuin uat tu du ai cold ana" }
+      ],
+      "dialogo": {
+        "titulo": "Una historia de la mañana",
+        "lineas": [
+          { "q": "A", "t": "Walking to work, I saw an accident.", "es": "Caminando al trabajo, vi un accidente." },
+          { "q": "B", "t": "Really? What did you do?", "es": "¿En serio? ¿Qué hiciste?" },
+          { "q": "A", "t": "Not knowing what to do, I called the police.", "es": "Sin saber qué hacer, llamé a la policía." },
+          { "q": "B", "t": "Surprised by the noise, did everyone stop?", "es": "Sorprendidos por el ruido, ¿se paró todo el mundo?" },
+          { "q": "A", "t": "Yes. Having waited ten minutes, I finally went on to the office.", "es": "Sí. Después de esperar diez minutos, por fin seguí a la oficina." }
+        ]
+      },
+      "nota": "Las frases con participio son más comunes en la escritura que en la conversación. Son muy útiles en narraciones y artículos."
+    },
+    {
+      "id": "en-b2-u13-l5",
+      "n": 5,
+      "titulo": "Repaso: más información en menos palabras",
+      "objetivo": "Combinar relativas con comas, reducidas y participios en un texto.",
+      "intro": "Repasa todo lo visto: relativas con comas, reducidas y participios. Truco: al escribir, une dos oraciones cortas en una con una relativa.",
+      "palabras": [
+        { "t": "journalist", "es": "periodista", "pron": "yérnalist", "ej": "The journalist, who is from Lima, writes about food.", "ejes": "La periodista, que es de Lima, escribe sobre comida.", "cog": true },
+        { "t": "describe", "es": "describir", "pron": "discráib", "ej": "Can you describe the man?", "ejes": "¿Puedes describir al hombre?", "cog": true },
+        { "t": "publish", "es": "publicar", "pron": "póblish", "ej": "They publish a new book every year.", "ejes": "Publican un libro nuevo cada año.", "cog": true },
+        { "t": "recent", "es": "reciente", "pron": "rísent", "ej": "It's a recent photo.", "ejes": "Es una foto reciente.", "cog": true },
+        { "t": "article", "es": "artículo", "pron": "árticol", "ej": "I read an article about it.", "ejes": "Leí un artículo sobre eso.", "cog": true },
+        { "t": "cause", "es": "causar", "pron": "coz", "ej": "Heavy rain can cause floods.", "ejes": "La lluvia fuerte puede causar inundaciones.", "cog": true },
+        { "t": "flood", "es": "inundación", "pron": "flod", "ej": "The flood destroyed many houses.", "ejes": "La inundación destruyó muchas casas.", "cog": false },
+        { "t": "rescue", "es": "rescatar", "pron": "réskiu", "ej": "They rescue people after a storm.", "ejes": "Rescatan a gente después de una tormenta.", "cog": true },
+        { "t": "volunteer", "es": "voluntario", "pron": "volentír", "ej": "She is a volunteer at the shelter.", "ejes": "Ella es voluntaria en el refugio.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Ana, who is a journalist, wrote an article.", "es": "Ana, que es periodista, escribió un artículo.", "pron": "ana ju is a yérnalist rout an árticol" },
+        { "t": "The article published last week is very good.", "es": "El artículo publicado la semana pasada es muy bueno.", "pron": "di árticol póblisht last uik is véri gud" },
+        { "t": "The volunteers helping the victims are tired.", "es": "Los voluntarios que ayudan a las víctimas están cansados.", "pron": "da volentírs jélpin da víctims ar taird" },
+        { "t": "Heavy rain, which caused a flood, hit the town.", "es": "Una lluvia fuerte, que causó una inundación, golpeó el pueblo.", "pron": "jévi rein uich cozd a flod jit da taun" },
+        { "t": "Having rescued ten people, they went home.", "es": "Tras rescatar a diez personas, se fueron a casa.", "pron": "jávin réskiud ten pípol dei uent joum" },
+        { "t": "Seeing the water rise, we moved upstairs.", "es": "Al ver subir el agua, subimos al piso de arriba.", "pron": "síin da uóter rais ui mudv ópsters" }
+      ],
+      "dialogo": {
+        "titulo": "Una noticia",
+        "lineas": [
+          { "q": "A", "t": "Did you read the article published today?", "es": "¿Leiste el artículo publicado hoy?" },
+          { "q": "B", "t": "Yes. The journalist, who is from Lima, describes the flood very well.", "es": "Sí. La periodista, que es de Lima, describe muy bien la inundación." },
+          { "q": "A", "t": "The volunteers rescuing families were amazing.", "es": "Los voluntarios que rescataban familias fueron increíbles." },
+          { "q": "B", "t": "True. Having lost their homes, many people needed help.", "es": "Cierto. Habiendo perdido sus casas, muchos necesitaron ayuda." },
+          { "q": "A", "t": "Let's donate something.", "es": "Donemos algo." }
+        ]
+      },
+      "nota": "Las relativas y los participios hacen tu escritura más fluida. Alterna oraciones largas con otras cortas para mantener el ritmo."
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": "en-b2-u8",
+  "idioma": "en",
+  "nivel": "B2",
+  "n": 8,
+  "titulo": "Textos largos y resúmenes",
+  "resumen": "Aprenderás a leer textos largos con método, a resumir con tus propias palabras, a parafrasear y a conectar ideas con conectores de texto formales.",
+  "puedo": [
+    "Identificar la idea principal y los detalles de un texto largo.",
+    "Resumir un texto con mis propias palabras.",
+    "Parafrasear con in other words, that is to say y sinónimos.",
+    "Conectar ideas con firstly, moreover, consequently y in conclusion.",
+    "Escribir un resumen claro y bien organizado."
+  ],
+  "gramatica": {
+    "titulo": "Conectores de texto: ordenar, añadir, concluir",
+    "texto": "Los conectores guían al lector por el texto. Ordenar: firstly, secondly, finally. Añadir: moreover, furthermore, in addition. Causa y resultado: because of, consequently, as a result. Contrastar: however, on the other hand. Concluir: in conclusion, to sum up.\nPara parafrasear (decir lo mismo con otras palabras) usa: in other words, that is to say, put differently.\nReglas: los conectores formales suelen ir al inicio de la oración seguidos de coma (Moreover, the results were clear); pero también pueden ir en medio entre comas (The results, however, were unclear).\nTruco: un resumen usa tus palabras, no copia frases del texto; es entre un cuarto y un tercio de la longitud original.",
+    "tabla": [
+      ["Firstly, ... Secondly, ... Finally, ...", "En primer lugar... En segundo lugar... Por último...", "férstli... sécondli... fáinali"],
+      ["Moreover, the results were clear.", "Además, los resultados fueron claros.", "moróuver, da risálts uer clier"],
+      ["Consequently, sales rose.", "En consecuencia, las ventas subieron.", "cónsecuentli, seils rous"],
+      ["In other words, it failed.", "En otras palabras, fracasó.", "in áder uerds, it feild"],
+      ["To sum up, the plan works.", "En resumen, el plan funciona.", "tu sam ap, da plan uerks"],
+      ["The data, however, is incomplete.", "Los datos, sin embargo, están incompletos.", "da déita, jauéver, is incomplít"]
+    ],
+    "errores": [
+      "No pongas coma después de un conector dentro de una oración sin pausa: es The results, however, were clear (con comas a ambos lados).",
+      "No uses in conclusion en la mitad del texto: solo al final.",
+      "No copies frases del original en tu resumen: reformúlalas con tus palabras."
+    ]
+  },
+  "practica": [
+    "Lee un artículo corto en inglés y escribe un resumen de 3 oraciones con tus palabras (15 minutos).",
+    "Toma 5 oraciones de un texto y parafraséalas con in other words (10 minutos).",
+    "Escribe un párrafo de 6 oraciones usando firstly, moreover, however y in conclusion (12 minutos).",
+    "Cuenta en voz alta, en 1 minuto, el resumen de una película que viste usando conectores (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b2-u8-l1",
+      "n": 1,
+      "titulo": "Leer con método",
+      "objetivo": "Encontrar la idea principal y los detalles de un texto largo.",
+      "intro": "Antes de resumir, hay que entender. Usa skim (leer rápido para la idea general) y scan (buscar un dato). Truco: la idea principal suele estar en la primera o última oración de cada párrafo.",
+      "palabras": [
+        { "t": "skim", "es": "hojear, leer por encima", "pron": "skim", "ej": "I always skim the headlines first.", "ejes": "Siempre hojeo primero los titulares.", "cog": false },
+        { "t": "scan", "es": "buscar un dato rápidamente", "pron": "scan", "ej": "Scan the text for the date.", "ejes": "Busca la fecha en el texto.", "cog": false },
+        { "t": "main idea", "es": "idea principal", "pron": "mein aidía", "ej": "What is the main idea of this paragraph?", "ejes": "¿Cuál es la idea principal de este párrafo?", "cog": false },
+        { "t": "supporting detail", "es": "detalle de apoyo", "pron": "sepórtin dítail", "ej": "Each paragraph has a supporting detail.", "ejes": "Cada párrafo tiene un detalle de apoyo.", "cog": false },
+        { "t": "key point", "es": "punto clave", "pron": "ki point", "ej": "Underline the key point in each section.", "ejes": "Subraya el punto clave de cada sección.", "cog": false },
+        { "t": "infer", "es": "inferir, deducir", "pron": "infér", "ej": "You can infer the meaning from the context.", "ejes": "Puedes inferir el significado por el contexto.", "cog": true },
+        { "t": "context", "es": "contexto", "pron": "cóntekst", "ej": "Use the context to guess new words.", "ejes": "Usa el contexto para adivinar palabras nuevas.", "cog": true },
+        { "t": "outline", "es": "esquema, bosquejo", "pron": "áutlain", "ej": "Write an outline before you summarize.", "ejes": "Escribe un esquema antes de resumir.", "cog": false }
+      ],
+      "frases": [
+        { "t": "First, skim the text to get the general idea.", "es": "Primero, hojea el texto para tener la idea general.", "pron": "ferst, skim da text tu guet da yéneral aidía" },
+        { "t": "Then scan it for names and dates.", "es": "Luego búscale nombres y fechas.", "pron": "den scan it for neims and deits" },
+        { "t": "The main idea is usually in the first paragraph.", "es": "La idea principal suele estar en el primer párrafo.", "pron": "da mein aidía is iúshuali in da ferst páragraf" },
+        { "t": "You can infer the meaning from the context.", "es": "Puedes inferir el significado por el contexto.", "pron": "iu can infér da mínin from da cóntekst" },
+        { "t": "Write a short outline before you summarize.", "es": "Escribe un esquema breve antes de resumir.", "pron": "rait a short áutlain bifór iu sámaraiz" }
+      ],
+      "dialogo": {
+        "titulo": "Preparar un examen de lectura",
+        "lineas": [
+          { "q": "A", "t": "How do you read long texts so quickly, Rosa?", "es": "¿Cómo lees tan rápido los textos largos, Rosa?" },
+          { "q": "B", "t": "I skim first to get the general idea. Then I scan for key points.", "es": "Primero hojeo para tener la idea general. Luego busco los puntos clave." },
+          { "q": "A", "t": "And what do you do with new words?", "es": "¿Y qué haces con las palabras nuevas?" },
+          { "q": "B", "t": "I try to infer the meaning from the context before I use a dictionary.", "es": "Trato de inferir el significado por el contexto antes de usar el diccionario." },
+          { "q": "A", "t": "Smart. Do you write an outline too?", "es": "Inteligente. ¿También haces un esquema?" },
+          { "q": "B", "t": "Always. The main idea goes first, then each supporting detail.", "es": "Siempre. La idea principal va primero y luego cada detalle de apoyo." }
+        ]
+      },
+      "nota": "Skimming y scanning son técnicas distintas: skim = idea general; scan = dato concreto. Úsalas en exámenes como TOEFL o IELTS."
+    },
+    {
+      "id": "en-b2-u8-l2",
+      "n": 2,
+      "titulo": "Resumir con tus palabras",
+      "objetivo": "Reducir un texto a sus ideas esenciales sin copiar frases.",
+      "intro": "Resumir es quedarse con lo esencial. Quita ejemplos, repeticiones y detalles menores. Truco: cuéntalo como se lo contarías a un amigo en 30 segundos.",
+      "palabras": [
+        { "t": "sum up", "es": "resumir", "pron": "sam ap", "ej": "Can you sum up the article in one sentence?", "ejes": "¿Puedes resumir el artículo en una oración?", "cog": false },
+        { "t": "in a nutshell", "es": "en pocas palabras", "pron": "in a nátshel", "ej": "In a nutshell, the company is losing money.", "ejes": "En pocas palabras, la empresa está perdiendo dinero.", "cog": false },
+        { "t": "briefly", "es": "brevemente", "pron": "brífli", "ej": "Briefly, the plan has three stages.", "ejes": "Brevemente, el plan tiene tres etapas.", "cog": false },
+        { "t": "overall", "es": "en general", "pron": "ouverol", "ej": "Overall, the results were positive.", "ejes": "En general, los resultados fueron positivos.", "cog": false },
+        { "t": "essential", "es": "esencial", "pron": "isénshal", "ej": "Keep only the essential information.", "ejes": "Conserva solo la información esencial.", "cog": true },
+        { "t": "leave out", "es": "omitir, dejar fuera", "pron": "liv áut", "ej": "You can leave out the minor details.", "ejes": "Puedes omitir los detalles menores.", "cog": false },
+        { "t": "condense", "es": "condensar", "pron": "condéns", "ej": "Try to condense this page into five lines.", "ejes": "Intenta condensar esta página en cinco líneas.", "cog": true },
+        { "t": "gist", "es": "esencia, idea general", "pron": "yist", "ej": "I only got the gist of the conversation.", "ejes": "Solo entendí la idea general de la conversación.", "cog": false }
+      ],
+      "frases": [
+        { "t": "In a nutshell, the company is losing money.", "es": "En pocas palabras, la empresa está perdiendo dinero.", "pron": "in a nátshel, da cámpani is lúsin máni" },
+        { "t": "Overall, the results were positive.", "es": "En general, los resultados fueron positivos.", "pron": "ouverol, da risálts uer pósitiv" },
+        { "t": "Can you sum up the article in one sentence?", "es": "¿Puedes resumir el artículo en una oración?", "pron": "can iu sam ap di ártical in uan séntens" },
+        { "t": "Leave out the minor details and keep the essentials.", "es": "Omite los detalles menores y conserva lo esencial.", "pron": "liv áut da máiner dítails and kip di isénshals" },
+        { "t": "I only got the gist of what he said.", "es": "Solo capté la idea general de lo que dijo.", "pron": "ai ounli got da yist ov juat ji sed" }
+      ],
+      "dialogo": {
+        "titulo": "Resumen de un informe",
+        "lineas": [
+          { "q": "A", "t": "I don't have time to read this 40-page report. Can you sum it up?", "es": "No tengo tiempo de leer este informe de 40 páginas. ¿Puedes resumirlo?" },
+          { "q": "B", "t": "In a nutshell, the company grew by ten percent, but costs also increased.", "es": "En pocas palabras, la empresa creció un diez por ciento, pero los costos también subieron." },
+          { "q": "A", "t": "Overall, is it good news or bad news?", "es": "En general, ¿es una buena o mala noticia?" },
+          { "q": "B", "t": "Mostly good. I left out the technical details, but I can send them if you want.", "es": "Mayormente buena. Omití los detalles técnicos, pero puedo enviártelos si quieres." },
+          { "q": "A", "t": "Just the essential figures, please.", "es": "Solo las cifras esenciales, por favor." },
+          { "q": "B", "t": "Sure. I'll condense them into a one-page table.", "es": "Claro. Los condensaré en una tabla de una página." }
+        ]
+      },
+      "nota": "En un resumen usa el presente y evita opiniones personales: The author argues that... Es un buen modelo de inicio."
+    },
+    {
+      "id": "en-b2-u8-l3",
+      "n": 3,
+      "titulo": "Parafrasear",
+      "objetivo": "Decir lo mismo con otras palabras usando in other words, that is to say y sinónimos.",
+      "intro": "Parafrasear es reformular una idea sin cambiar su significado. Cambia el vocabulario y la estructura, pero mantén el sentido. Truco: cambia las palabras clave por sinónimos y reordena la oración.",
+      "palabras": [
+        { "t": "in other words", "es": "en otras palabras", "pron": "in áder uerds", "ej": "In other words, we have no choice.", "ejes": "En otras palabras, no tenemos opción.", "cog": false },
+        { "t": "that is to say", "es": "es decir", "pron": "dat is tu sei", "ej": "She's bilingual, that is to say, she speaks two languages.", "ejes": "Es bilingüe, es decir, habla dos idiomas.", "cog": false },
+        { "t": "put differently", "es": "dicho de otra manera", "pron": "put díferentli", "ej": "Put differently, the plan failed.", "ejes": "Dicho de otra manera, el plan fracasó.", "cog": false },
+        { "t": "rephrase", "es": "reformular", "pron": "rifréis", "ej": "Could you rephrase the question, please?", "ejes": "¿Podrías reformular la pregunta, por favor?", "cog": false },
+        { "t": "synonym", "es": "sinónimo", "pron": "sínonim", "ej": "Another synonym for big is huge.", "ejes": "Otro sinónimo de big es huge.", "cog": true },
+        { "t": "meaning", "es": "significado", "pron": "mínin", "ej": "The meaning stays the same.", "ejes": "El significado se mantiene igual.", "cog": false },
+        { "t": "paraphrase", "es": "parafrasear", "pron": "párafreis", "ej": "Try to paraphrase this sentence.", "ejes": "Intenta parafrasear esta oración.", "cog": true },
+        { "t": "to put it simply", "es": "para decirlo simple", "pron": "tu put it símpli", "ej": "To put it simply, it works.", "ejes": "Para decirlo simple, funciona.", "cog": false }
+      ],
+      "frases": [
+        { "t": "In other words, we have no choice.", "es": "En otras palabras, no tenemos opción.", "pron": "in áder uerds, ui jav nou choís" },
+        { "t": "That is to say, the plan has failed.", "es": "Es decir, el plan ha fracasado.", "pron": "dat is tu sei, da plan jas feild" },
+        { "t": "Could you rephrase that, please?", "es": "¿Podrías reformular eso, por favor?", "pron": "cud iu rifréis dat, plis" },
+        { "t": "Try to paraphrase this sentence.", "es": "Intenta parafrasear esta oración.", "pron": "trai tu párafreis dis séntens" },
+        { "t": "Put differently, prices are rising quickly.", "es": "Dicho de otra manera, los precios suben rápido.", "pron": "put díferentli, práises ar ráisin cuíckli" }
+      ],
+      "dialogo": {
+        "titulo": "En clase de escritura",
+        "lineas": [
+          { "q": "A", "t": "Could you rephrase this sentence, please? It's too complicated.", "es": "¿Podrías reformular esta oración, por favor? Es muy complicada." },
+          { "q": "B", "t": "Sure. In other words, the company lost money last year.", "es": "Claro. En otras palabras, la empresa perdió dinero el año pasado." },
+          { "q": "A", "t": "That's clearer. Is there a synonym for decline?", "es": "Eso es más claro. ¿Hay un sinónimo de decline?" },
+          { "q": "B", "t": "Yes, decrease or drop. The meaning stays the same.", "es": "Sí, decrease o drop. El significado se mantiene." },
+          { "q": "A", "t": "To put it simply, I should paraphrase, not copy.", "es": "Para decirlo simple, debo parafrasear, no copiar." },
+          { "q": "B", "t": "Exactly. That is to say, use your own words.", "es": "Exacto. Es decir, usa tus propias palabras." }
+        ]
+      },
+      "nota": "Parafrasear no es solo cambiar una palabra: cambia estructura y vocabulario. Si solo cambias palabras sueltas, sigue pareciendo copia."
+    },
+    {
+      "id": "en-b2-u8-l4",
+      "n": 4,
+      "titulo": "Conectores de texto",
+      "objetivo": "Ordenar, añadir, causar y concluir con conectores formales de escritura.",
+      "intro": "Los conectores son el hilo del texto. Úsalos para ordenar (firstly), añadir (moreover), causar (consequently) y concluir (in conclusion). Truco: no abuses; un conector por idea clave es suficiente.",
+      "palabras": [
+        { "t": "firstly", "es": "en primer lugar", "pron": "férstli", "ej": "Firstly, we need a clear plan.", "ejes": "En primer lugar, necesitamos un plan claro.", "cog": false },
+        { "t": "moreover", "es": "además", "pron": "moróuver", "ej": "Moreover, it is much cheaper.", "ejes": "Además, es mucho más barato.", "cog": false },
+        { "t": "furthermore", "es": "asimismo, es más", "pron": "férdermor", "ej": "Furthermore, the team is highly motivated.", "ejes": "Asimismo, el equipo está muy motivado.", "cog": false },
+        { "t": "in addition", "es": "además", "pron": "in adíshen", "ej": "In addition, they offer free delivery.", "ejes": "Además, ofrecen entrega gratis.", "cog": true },
+        { "t": "consequently", "es": "en consecuencia", "pron": "cónsecuentli", "ej": "Consequently, the project was delayed.", "ejes": "En consecuencia, el proyecto se retrasó.", "cog": true },
+        { "t": "nonetheless", "es": "sin embargo, no obstante", "pron": "nanedelés", "ej": "It was hard; nonetheless, we finished.", "ejes": "Fue difícil; no obstante, terminamos.", "cog": false },
+        { "t": "in conclusion", "es": "en conclusión", "pron": "in conclúshen", "ej": "In conclusion, the idea is worth trying.", "ejes": "En conclusión, vale la pena probar la idea.", "cog": true },
+        { "t": "to sum up", "es": "en resumen", "pron": "tu sam ap", "ej": "To sum up, we need more time.", "ejes": "En resumen, necesitamos más tiempo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Firstly, we need a clear plan.", "es": "En primer lugar, necesitamos un plan claro.", "pron": "férstli, ui nid a clier plan" },
+        { "t": "Moreover, the results are very promising.", "es": "Además, los resultados son muy prometedores.", "pron": "moróuver, da risálts ar véri prómisin" },
+        { "t": "Consequently, the project was delayed.", "es": "En consecuencia, el proyecto se retrasó.", "pron": "cónsecuentli, da próyect uas diléid" },
+        { "t": "It was hard; nonetheless, we finished on time.", "es": "Fue difícil; no obstante, terminamos a tiempo.", "pron": "it uas jard; nanedelés, ui fínisht on taim" },
+        { "t": "In conclusion, the idea is worth trying.", "es": "En conclusión, vale la pena probar la idea.", "pron": "in conclúshen, di aidía is uerz tráiin" }
+      ],
+      "dialogo": {
+        "titulo": "Preparar una presentación",
+        "lineas": [
+          { "q": "A", "t": "Firstly, I'll explain the problem. Then I'll present the solution.", "es": "En primer lugar, explicaré el problema. Luego presentaré la solución." },
+          { "q": "B", "t": "Good. Moreover, add some numbers to back up your claim.", "es": "Bien. Además, añade algunas cifras para respaldar tu afirmación." },
+          { "q": "A", "t": "Furthermore, I want to mention the risks. Consequently, the board will understand.", "es": "Asimismo, quiero mencionar los riesgos. En consecuencia, la junta entenderá." },
+          { "q": "B", "t": "Nonetheless, keep it short. Nobody likes a long presentation.", "es": "No obstante, hazla breve. A nadie le gusta una presentación larga." },
+          { "q": "A", "t": "Right. To sum up, I'll finish in ten minutes.", "es": "Claro. En resumen, terminaré en diez minutos." },
+          { "q": "B", "t": "In conclusion, you're well prepared. Good luck!", "es": "En conclusión, estás bien preparado. ¡Suerte!" }
+        ]
+      },
+      "nota": "Moreover y furthermore son formales y de escritura. En conversación diaria se prefiere also, plus o besides."
+    },
+    {
+      "id": "en-b2-u8-l5",
+      "n": 5,
+      "titulo": "Repaso: escribir un resumen",
+      "objetivo": "Escribir un resumen completo con idea principal, paráfrasis y conectores.",
+      "intro": "Reúne todo: identifica la idea principal, reformula con tus palabras y conecta con conectores formales. Truco: abre con la idea principal, desarrolla dos o tres puntos y cierra con una conclusión.",
+      "palabras": [
+        { "t": "article", "es": "artículo", "pron": "ártical", "ej": "I read an interesting article about robots.", "ejes": "Leí un artículo interesante sobre robots.", "cog": true },
+        { "t": "author", "es": "autor", "pron": "ózor", "ej": "The author argues that school should change.", "ejes": "El autor sostiene que la escuela debe cambiar.", "cog": true },
+        { "t": "argue", "es": "sostener, argumentar", "pron": "árguiu", "ej": "Some experts argue that we should work less.", "ejes": "Algunos expertos sostienen que deberíamos trabajar menos.", "cog": false },
+        { "t": "highlight", "es": "destacar, resaltar", "pron": "jáilait", "ej": "Please highlight the key problems.", "ejes": "Por favor destaca los problemas clave.", "cog": false },
+        { "t": "conclusion", "es": "conclusión", "pron": "conclúshen", "ej": "The conclusion is clear and simple.", "ejes": "La conclusión es clara y simple.", "cog": true },
+        { "t": "draft", "es": "borrador", "pron": "draft", "ej": "Send me your first draft by Friday.", "ejes": "Envíame tu primer borrador antes del viernes.", "cog": false },
+        { "t": "proofread", "es": "revisar (un texto)", "pron": "prúfrid", "ej": "Please proofread your summary before sending it.", "ejes": "Por favor revisa tu resumen antes de enviarlo.", "cog": false },
+        { "t": "word count", "es": "número de palabras", "pron": "uerd cáunt", "ej": "The word count must not exceed 150.", "ejes": "El número de palabras no debe exceder 150.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The author argues that schools must change.", "es": "El autor sostiene que las escuelas deben cambiar.", "pron": "di ózor árguiuz dat scuuls mast cheinch" },
+        { "t": "The article highlights three main problems.", "es": "El artículo destaca tres problemas principales.", "pron": "di ártical jáilaits zri mein próblems" },
+        { "t": "Moreover, it suggests some practical solutions.", "es": "Además, sugiere algunas soluciones prácticas.", "pron": "moróuver, it sagyésts sam práctical solúshens" },
+        { "t": "In other words, education needs reform.", "es": "En otras palabras, la educación necesita una reforma.", "pron": "in áder uerds, edyuquéishen nids rifórm" },
+        { "t": "In conclusion, the text offers a balanced view.", "es": "En conclusión, el texto ofrece una visión equilibrada.", "pron": "in conclúshen, da text ófers a bálanst viu" },
+        { "t": "Please proofread your draft before sending it.", "es": "Por favor revisa tu borrador antes de enviarlo.", "pron": "plis prúfrid ior draft bifór séndin it" }
+      ],
+      "dialogo": {
+        "titulo": "Revisar un resumen",
+        "lineas": [
+          { "q": "A", "t": "Here's my draft summary of the article. Can you proofread it?", "es": "Aquí está mi borrador del resumen del artículo. ¿Puedes revisarlo?" },
+          { "q": "B", "t": "Sure. The first line is good: the author argues that schools must change.", "es": "Claro. La primera línea es buena: el autor sostiene que las escuelas deben cambiar." },
+          { "q": "A", "t": "Thanks. Moreover, I highlighted three problems.", "es": "Gracias. Además, destaqué tres problemas." },
+          { "q": "B", "t": "Good, but you copied a sentence. In other words, you should paraphrase it.", "es": "Bien, pero copiaste una oración. En otras palabras, deberías parafrasearla." },
+          { "q": "A", "t": "You're right. Is the word count okay?", "es": "Tienes razón. ¿El número de palabras está bien?" },
+          { "q": "B", "t": "It's 180. To sum up, cut about thirty words and add a short conclusion.", "es": "Son 180. En resumen, recorta unas treinta palabras y añade una conclusión breve." }
+        ]
+      },
+      "nota": "Un resumen eficaz suele tener un cuarto o un tercio de la longitud original. Revisa siempre ortografía, conectores y concordancia."
+    }
+  ]
+}

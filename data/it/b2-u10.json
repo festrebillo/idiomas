@@ -1,0 +1,216 @@
+{
+  "id": "it-b2-u10",
+  "idioma": "it",
+  "nivel": "B2",
+  "n": 10,
+  "titulo": "Registro formal e informal",
+  "resumen": "Aprenderás a elegir entre tú y Lei, y entre vocabulario formal y coloquial, según con quién hablas o escribes.",
+  "puedo": [
+    "Elegir entre «tu» y «Lei» según la situación.",
+    "Usar el imperativo y las fórmulas de cortesía con «Lei».",
+    "Distinguir palabras formales de sus equivalentes coloquiales.",
+    "Escribir un correo formal y un mensaje informal.",
+    "Cambiar de registro sin sonar raro ni descortés."
+  ],
+  "gramatica": {
+    "titulo": "«Tu» y «Lei»: dos formas de tratar a alguien",
+    "texto": "Con amigos, familia y gente joven se usa «tu». Con desconocidos, personas mayores o en situaciones profesionales se usa «Lei», que equivale a «usted» y usa la 3.ª persona singular del verbo, aunque se hable a una persona (hombre o mujer).\nTú: Come stai? Puoi aiutarmi? Vieni!\nLei: Come sta? Può aiutarmi? Venga!\nEl imperativo de cortesía usa el presente del congiuntivo: Si accomodi, Mi dica, Scusi. Los pronombres son «La» (la veo) y «Le» (le doy); en textos escritos formales suelen llevar mayúscula: Le scrivo, La ringrazio.\nPlural formal: «voi» (o «Loro», muy raro). En una conversación, si el otro propone «Diamoci del tu», cambias a «tu».",
+    "tabla": [
+      ["Come stai? / Come sta?", "¿Cómo estás? / ¿Cómo está usted?", "cóme stái / cóme sta"],
+      ["Puoi aiutarmi? / Può aiutarmi?", "¿Puedes ayudarme? / ¿Puede ayudarme?", "puói aiutármi / puó aiutármi"],
+      ["Scusa! / Scusi!", "¡Disculpa! / ¡Disculpe!", "scúsa / scúsi"],
+      ["Vieni! / Venga!", "¡Ven! / ¡Venga usted!", "viéni / vénga"],
+      ["Ti scrivo / Le scrivo", "te escribo / le escribo", "ti scrívo / le scrívo"],
+      ["Ti ringrazio / La ringrazio", "te agradezco / le agradezco", "ti ringrátsio / la ringrátsio"]
+    ],
+    "errores": [
+      "Con «Lei» el verbo va en 3.ª persona: «Lei è di Lima?», no «Lei sei di Lima?».",
+      "El imperativo formal no es el imperativo «tu»: «Mi dica», no «Dimmi», si tratas de Lei.",
+      "No uses «voi» como «usted»: «voi» es solo plural (ustedes) en el italiano estándar."
+    ]
+  },
+  "practica": [
+    "Escribe diez saludos y preguntas, primero con «tu» y luego con «Lei» (8 minutos).",
+    "Imagina que hablas con un médico y con un amigo: di en voz alta la misma petición de las dos maneras (5 minutos).",
+    "Escribe un correo formal de cinco líneas pidiendo información a una empresa (10 minutos).",
+    "Escribe tres mensajes informales a un amigo usando expresiones coloquiales de la lección 3 (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b2-u10-l1",
+      "n": 1,
+      "titulo": "Saludos y fórmulas de cortesía",
+      "objetivo": "Saludar y despedirme con el registro adecuado.",
+      "intro": "En italiano el saludo cambia según la confianza. Truco: «Buongiorno» y «Buonasera» son para desconocidos; «ciao» es para amigos (y nunca para el jefe al conocerlo).",
+      "palabras": [
+        { "t": "buongiorno", "es": "buenos días", "pron": "buonyórno", "ej": "Buongiorno, signora Rossi.", "ejes": "Buenos días, señora Rossi.", "cog": false },
+        { "t": "ciao", "es": "hola, chao", "pron": "chao", "ej": "Ciao, Marco, come va?", "ejes": "Hola, Marco, ¿cómo va?", "cog": false },
+        { "t": "piacere", "es": "mucho gusto", "pron": "piachére", "ej": "Piacere, sono Elena Bianchi.", "ejes": "Mucho gusto, soy Elena Bianchi.", "cog": false },
+        { "t": "come sta", "es": "cómo está usted", "pron": "cóme sta", "ej": "Buonasera, come sta?", "ejes": "Buenas noches, ¿cómo está usted?", "cog": false },
+        { "t": "come stai", "es": "cómo estás", "pron": "cóme stái", "ej": "Ciao, come stai?", "ejes": "Hola, ¿cómo estás?", "cog": false },
+        { "t": "mi scusi", "es": "disculpe", "pron": "mi scúsi", "ej": "Mi scusi, sa che ore sono?", "ejes": "Disculpe, ¿sabe qué hora es?", "cog": false },
+        { "t": "arrivederLa", "es": "hasta luego (a usted)", "pron": "arrivedérla", "ej": "Grazie e arrivederLa.", "ejes": "Gracias y hasta luego.", "cog": false },
+        { "t": "a presto", "es": "hasta pronto", "pron": "a présto", "ej": "Ci sentiamo domani, a presto!", "ejes": "Hablamos mañana, ¡hasta pronto!", "cog": false }
+      ],
+      "frases": [
+        { "t": "Buongiorno, come sta?", "es": "Buenos días, ¿cómo está usted?", "pron": "buonyórno cóme sta" },
+        { "t": "Ciao, come stai?", "es": "Hola, ¿cómo estás?", "pron": "chao cóme stái" },
+        { "t": "Piacere di conoscerLa.", "es": "Mucho gusto en conocerlo.", "pron": "piachére di conoshérla" },
+        { "t": "Mi scusi, può ripetere?", "es": "Disculpe, ¿puede repetir?", "pron": "mi scúsi puó ripétere" },
+        { "t": "Arrivederci e a presto!", "es": "¡Hasta luego y hasta pronto!", "pron": "arrivedérchi e a présto" }
+      ],
+      "dialogo": {
+        "titulo": "Un primo incontro",
+        "lineas": [
+          { "q": "A", "t": "Buongiorno, sono Elena Bianchi. Piacere.", "es": "Buenos días, soy Elena Bianchi. Mucho gusto." },
+          { "q": "B", "t": "Piacere mio. Come sta, dottoressa?", "es": "El gusto es mío. ¿Cómo está, doctora?" },
+          { "q": "A", "t": "Bene, grazie. Possiamo darci del tu?", "es": "Bien, gracias. ¿Podemos tutearnos?" },
+          { "q": "B", "t": "Volentieri! Allora, come stai?", "es": "¡Con gusto! Entonces, ¿cómo estás?" },
+          { "q": "A", "t": "Bene. Ciao, a presto!", "es": "Bien. ¡Chao, hasta pronto!" }
+        ]
+      },
+      "nota": "«Darsi del tu» es pasar a tutearse. Normalmente propone el cambio la persona mayor o de mayor rango. «Ciao» sirve para saludar y para despedirse, pero solo entre conocidos."
+    },
+    {
+      "id": "it-b2-u10-l2",
+      "n": 2,
+      "titulo": "Hablar de Lei: imperativo y pronombres",
+      "objetivo": "Pedir y ofrecer cosas con «Lei» y usar las fórmulas de atención al público.",
+      "intro": "Con «Lei» el imperativo viene del congiuntivo: «venga», «dica», «si accomodi». Truco: son las mismas formas que oirás en tiendas, bancos y oficinas.",
+      "palabras": [
+        { "t": "mi dica", "es": "dígame", "pron": "mi díca", "ej": "Buongiorno, mi dica.", "ejes": "Buenos días, dígame.", "cog": false },
+        { "t": "si accomodi", "es": "tome asiento, adelante", "pron": "si accómodi", "ej": "Prego, si accomodi.", "ejes": "Por favor, tome asiento.", "cog": false },
+        { "t": "venga", "es": "venga", "pron": "vénga", "ej": "Venga con me, per favore.", "ejes": "Venga conmigo, por favor.", "cog": false },
+        { "t": "può", "es": "puede", "pron": "puó", "ej": "Può aspettare un momento?", "ejes": "¿Puede esperar un momento?", "cog": false },
+        { "t": "le dispiace", "es": "le molesta", "pron": "le dispiáche", "ej": "Le dispiace se apro la finestra?", "ejes": "¿Le molesta si abro la ventana?", "cog": false },
+        { "t": "la ringrazio", "es": "le agradezco", "pron": "la ringrátsio", "ej": "La ringrazio per la pazienza.", "ejes": "Le agradezco su paciencia.", "cog": false },
+        { "t": "ecco a Lei", "es": "aquí tiene", "pron": "ékko a léi", "ej": "Ecco a Lei il suo caffè.", "ejes": "Aquí tiene su café.", "cog": false },
+        { "t": "tenga", "es": "tome, quédese", "pron": "ténga", "ej": "Tenga il resto.", "ejes": "Quédese con el cambio.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Buongiorno, mi dica.", "es": "Buenos días, dígame.", "pron": "buonyórno mi díca" },
+        { "t": "Si accomodi, prego.", "es": "Tome asiento, por favor.", "pron": "si accómodi prégo" },
+        { "t": "Le dispiace se apro la finestra?", "es": "¿Le molesta si abro la ventana?", "pron": "le dispiáche se ápro la finéstra" },
+        { "t": "La ringrazio per la sua pazienza.", "es": "Le agradezco su paciencia.", "pron": "la ringrátsio per la súa patsiénsa" },
+        { "t": "Ecco a Lei il suo caffè.", "es": "Aquí tiene su café.", "pron": "ékko a léi il súo caffé" }
+      ],
+      "dialogo": {
+        "titulo": "In banca",
+        "lineas": [
+          { "q": "A", "t": "Buongiorno, mi dica.", "es": "Buenos días, dígame." },
+          { "q": "B", "t": "Vorrei aprire un conto. Può aiutarmi?", "es": "Quisiera abrir una cuenta. ¿Puede ayudarme?" },
+          { "q": "A", "t": "Certo, si accomodi. Mi dia un documento, per favore.", "es": "Claro, tome asiento. Deme un documento, por favor." },
+          { "q": "B", "t": "Ecco, tenga il passaporto.", "es": "Aquí tiene el pasaporte." },
+          { "q": "A", "t": "La ringrazio. Un momento e abbiamo finito.", "es": "Se lo agradezco. Un momento y terminamos." }
+        ]
+      },
+      "nota": "Con «Lei» se usa a menudo el condizionale de cortesía: «Vorrei», «Potrebbe aiutarmi?». Es más suave que «Voglio» o «Puoi»."
+    },
+    {
+      "id": "it-b2-u10-l3",
+      "n": 3,
+      "titulo": "Vocabulario formal y coloquial",
+      "objetivo": "Reconocer pares de palabras formales y coloquiales y elegir según el contexto.",
+      "intro": "El mismo concepto tiene palabras distintas en la oficina y en el bar. Truco: lo formal suele parecerse más al español; lo coloquial suena más corto y más italiano.",
+      "palabras": [
+        { "t": "acquistare", "es": "adquirir (formal), comprar", "pron": "acuistáre", "ej": "Desidero acquistare due biglietti.", "ejes": "Deseo adquirir dos boletos.", "cog": true },
+        { "t": "abitazione", "es": "vivienda (formal)", "pron": "abitatsióne", "ej": "La mia abitazione si trova in centro.", "ejes": "Mi vivienda se encuentra en el centro.", "cog": true },
+        { "t": "vettura", "es": "vehículo (formal)", "pron": "vettúra", "ej": "La vettura è parcheggiata fuori.", "ejes": "El vehículo está estacionado afuera.", "cog": false },
+        { "t": "un sacco di", "es": "un montón de (coloquial)", "pron": "un sácco di", "ej": "Ho un sacco di cose da fare.", "ejes": "Tengo un montón de cosas que hacer.", "cog": false },
+        { "t": "boh", "es": "ni idea, no sé", "pron": "bo", "ej": "Dov'è Marco? Boh, non lo so.", "ejes": "¿Dónde está Marco? Ni idea, no lo sé.", "cog": false },
+        { "t": "figo", "es": "genial, chévere (coloquial)", "pron": "fígo", "ej": "Che figo questo posto!", "ejes": "¡Qué chévere este lugar!", "cog": false },
+        { "t": "mica", "es": "para nada, no creas", "pron": "míca", "ej": "Non è mica difficile.", "ejes": "No es nada difícil.", "cog": false },
+        { "t": "tipo", "es": "tipo, como, un chico", "pron": "típo", "ej": "È un tipo simpatico.", "ejes": "Es un tipo simpático.", "cog": true },
+        { "t": "denaro", "es": "dinero (formal)", "pron": "denáro", "ej": "Il denaro non basta mai.", "ejes": "El dinero nunca alcanza.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Desidero acquistare due biglietti.", "es": "Deseo adquirir dos boletos.", "pron": "desídero acuistáre dúe billétti" },
+        { "t": "La vettura è parcheggiata fuori.", "es": "El vehículo está estacionado afuera.", "pron": "la vettúra e parkeyáta fuóri" },
+        { "t": "Ho un sacco di cose da fare.", "es": "Tengo un montón de cosas que hacer.", "pron": "o un sácco di cóse da fáre" },
+        { "t": "Boh, non lo so.", "es": "Ni idea, no lo sé.", "pron": "bo non lo só" },
+        { "t": "Non è mica difficile.", "es": "No es nada difícil.", "pron": "non e míca diffíchile" }
+      ],
+      "dialogo": {
+        "titulo": "Tra amici",
+        "lineas": [
+          { "q": "A", "t": "Che figo il tuo nuovo appartamento!", "es": "¡Qué chévere tu nuevo departamento!" },
+          { "q": "B", "t": "Grazie! Ho un sacco di cose da sistemare.", "es": "¡Gracias! Tengo un montón de cosas que arreglar." },
+          { "q": "A", "t": "Quanto costa l'affitto?", "es": "¿Cuánto cuesta el alquiler?" },
+          { "q": "B", "t": "Boh, credo mille euro. Non è mica poco.", "es": "Ni idea, creo que mil euros. No es poco." },
+          { "q": "A", "t": "Ti do una mano a traslocare.", "es": "Te ayudo con la mudanza." }
+        ]
+      },
+      "nota": "«Mica» refuerza una negación en el habla: «Non è mica vero» = «No es verdad, ¿sabes?». Se evita en textos formales."
+    },
+    {
+      "id": "it-b2-u10-l4",
+      "n": 4,
+      "titulo": "Correos y mensajes",
+      "objetivo": "Escribir correos formales y mensajes informales con las fórmulas adecuadas.",
+      "intro": "El correo tiene saludo y despedida fijos. Truco: «Gentile» + apellido para desconocidos; «Caro» + nombre para conocidos.",
+      "palabras": [
+        { "t": "gentile", "es": "estimado/a", "pron": "yentíle", "ej": "Gentile dottor Rossi, Le scrivo per un'informazione.", "ejes": "Estimado doctor Rossi, le escribo para pedir información.", "cog": false },
+        { "t": "in allegato", "es": "adjunto", "pron": "in alegáto", "ej": "In allegato trova il documento richiesto.", "ejes": "Adjunto encontrará el documento solicitado.", "cog": false },
+        { "t": "resto a disposizione", "es": "quedo a su disposición", "pron": "résto a disposisióne", "ej": "Per qualsiasi dubbio resto a disposizione.", "ejes": "Para cualquier duda quedo a su disposición.", "cog": false },
+        { "t": "cordiali saluti", "es": "atentamente, saludos cordiales", "pron": "cordiáli salúti", "ej": "Cordiali saluti, Anna Verdi.", "ejes": "Saludos cordiales, Anna Verdi.", "cog": false },
+        { "t": "distinti saluti", "es": "atentamente (muy formal)", "pron": "distínti salúti", "ej": "Distinti saluti, Paolo Neri.", "ejes": "Atentamente, Paolo Neri.", "cog": false },
+        { "t": "caro", "es": "querido", "pron": "cáro", "ej": "Caro Luca, come stai?", "ejes": "Querido Luca, ¿cómo estás?", "cog": false },
+        { "t": "un abbraccio", "es": "un abrazo", "pron": "un abbráccho", "ej": "Ti aspetto, un abbraccio!", "ejes": "Te espero, ¡un abrazo!", "cog": false },
+        { "t": "ti scrivo per", "es": "te escribo para", "pron": "ti scrívo per", "ej": "Ti scrivo per dirti una cosa.", "ejes": "Te escribo para decirte algo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Gentile signora Verdi, Le scrivo per un'informazione.", "es": "Estimada señora Verdi, le escribo para pedir información.", "pron": "yentíle siñóra vérdi le scrívo per un informatsióne" },
+        { "t": "In allegato trova il contratto firmato.", "es": "Adjunto encontrará el contrato firmado.", "pron": "in alegáto tróva il contrátto firmáto" },
+        { "t": "Resto a disposizione per qualsiasi dubbio.", "es": "Quedo a su disposición para cualquier duda.", "pron": "résto a disposisióne per cualsiási dúbio" },
+        { "t": "Caro Luca, ti scrivo per invitarti a cena.", "es": "Querido Luca, te escribo para invitarte a cenar.", "pron": "cáro lúca ti scrívo per invitárti a chéna" },
+        { "t": "Un abbraccio e a presto!", "es": "¡Un abrazo y hasta pronto!", "pron": "un abbráccho e a présto" }
+      ],
+      "dialogo": {
+        "titulo": "Due messaggi",
+        "lineas": [
+          { "q": "A", "t": "Come comincio l'email per il direttore?", "es": "¿Cómo empiezo el correo para el director?" },
+          { "q": "B", "t": "Con «Gentile direttore» e poi «Le scrivo per».", "es": "Con «Estimado director» y luego «Le escribo para»." },
+          { "q": "A", "t": "E alla fine?", "es": "¿Y al final?" },
+          { "q": "B", "t": "Metti «Cordiali saluti» e il tuo nome.", "es": "Pon «Saludos cordiales» y tu nombre." },
+          { "q": "A", "t": "Per Luca basta «Un abbraccio», vero?", "es": "Para Luca basta «Un abrazo», ¿verdad?" }
+        ]
+      },
+      "nota": "En italiano los títulos se usan mucho: «dottor/dottoressa» para quien tiene título universitario, «ingegnere», «avvocato», «professore». Si no sabes, «Gentile signor/signora» es seguro."
+    },
+    {
+      "id": "it-b2-u10-l5",
+      "n": 5,
+      "titulo": "Repaso: cambiar de registro",
+      "objetivo": "Decir lo mismo de forma formal e informal según la persona.",
+      "intro": "Practica pasar de una versión a la otra. Truco: antes de hablar, pregúntate: ¿conozco a esta persona?, ¿es mayor o tiene un cargo?, ¿es una situación seria?",
+      "palabras": [
+        { "t": "mi dica", "es": "dígame", "pron": "mi díca", "ej": "Buonasera, mi dica pure.", "ejes": "Buenas noches, dígame nomás.", "cog": false },
+        { "t": "ti dispiace", "es": "te molesta", "pron": "ti dispiáche", "ej": "Ti dispiace se esco prima?", "ejes": "¿Te molesta si salgo antes?", "cog": false },
+        { "t": "le dispiace", "es": "le molesta", "pron": "le dispiáche", "ej": "Le dispiace se esco prima?", "ejes": "¿Le molesta si salgo antes?", "cog": false },
+        { "t": "gentile", "es": "estimado", "pron": "yentíle", "ej": "Gentile cliente, la informiamo che il negozio è chiuso.", "ejes": "Estimado cliente, le informamos que la tienda está cerrada.", "cog": false },
+        { "t": "un sacco di", "es": "un montón de", "pron": "un sácco di", "ej": "Ho un sacco di lavoro oggi.", "ejes": "Tengo un montón de trabajo hoy.", "cog": false },
+        { "t": "numerosi", "es": "numerosos (formal)", "pron": "numerósi", "ej": "Abbiamo ricevuto numerosi ordini.", "ejes": "Hemos recibido numerosos pedidos.", "cog": true },
+        { "t": "ci sentiamo", "es": "hablamos, nos escribimos", "pron": "chi sentiámo", "ej": "Ci sentiamo domani, ciao!", "ejes": "Hablamos mañana, ¡chao!", "cog": false },
+        { "t": "la contatterò", "es": "me pondré en contacto con usted", "pron": "la contatteró", "ej": "La contatterò entro venerdì.", "ejes": "Me pondré en contacto con usted antes del viernes.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Ti dispiace se esco prima?", "es": "¿Te molesta si salgo antes?", "pron": "ti dispiáche se ésco prima" },
+        { "t": "Le dispiace se esco prima?", "es": "¿Le molesta si salgo antes?", "pron": "le dispiáche se ésco príma" },
+        { "t": "Ho un sacco di lavoro oggi.", "es": "Tengo un montón de trabajo hoy.", "pron": "o un sácco di lavóro ódyi" },
+        { "t": "Abbiamo ricevuto numerosi ordini.", "es": "Hemos recibido numerosos pedidos.", "pron": "abbiámo richevúto numerósi órdini" },
+        { "t": "La contatterò entro venerdì.", "es": "Me pondré en contacto con usted antes del viernes.", "pron": "la contatteró éntro venerdí" }
+      ],
+      "dialogo": {
+        "titulo": "Due registri",
+        "lineas": [
+          { "q": "A", "t": "Ciao, Marco, ci sentiamo domani?", "es": "Hola, Marco, ¿hablamos mañana?" },
+          { "q": "B", "t": "Sì, ti scrivo io. Ciao!", "es": "Sí, te escribo yo. ¡Chao!" },
+          { "q": "A", "t": "Buongiorno, dottoressa. La contatterò domani.", "es": "Buenos días, doctora. Me pondré en contacto con usted mañana." },
+          { "q": "B", "t": "La ringrazio, resto a disposizione.", "es": "Se lo agradezco, quedo a su disposición." },
+          { "q": "A", "t": "Cordiali saluti e buona giornata.", "es": "Saludos cordiales y buen día." }
+        ]
+      },
+      "nota": "Si dudas, empieza con «Lei». Es mucho menos grave pasar a «tu» más tarde que tutear a alguien que esperaba respeto."
+    }
+  ]
+}

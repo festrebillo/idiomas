@@ -1,0 +1,221 @@
+{
+  "id": "en-b2-u15",
+  "idioma": "en",
+  "nivel": "B2",
+  "n": 15,
+  "titulo": "Conectores y cohesión",
+  "resumen": "Aprenderás conectores para contrastar, añadir, explicar causas y consecuencias, y dar cohesión a tus textos: however, although, despite, whereas y moreover.",
+  "puedo": [
+    "Contrastar ideas con however, although, whereas y on the other hand.",
+    "Usar despite e in spite of con un sustantivo o -ing.",
+    "Añadir información con moreover, in addition y besides.",
+    "Expresar causa y resultado con therefore, as a result y due to.",
+    "Dar cohesión a un párrafo con los conectores adecuados."
+  ],
+  "gramatica": {
+    "titulo": "Conectores: qué los sigue y cómo se puntúan",
+    "texto": "Los conectores unen ideas, pero cada uno exige una estructura distinta.\nAlthough / even though / whereas + sujeto + verbo: Although it was late, we kept working.\nDespite / in spite of + sustantivo o -ing: Despite the rain, we went out. Despite being tired, he finished.\nHowever / moreover / therefore van al inicio de una oración, con punto antes y coma después: It was late. However, we kept working.\nTruco: although y however significan lo mismo (sin embargo, aunque), pero although conecta dos partes de una oración y however empieza una oración nueva.",
+    "tabla": [
+      ["Although it was late, we kept working.", "Aunque era tarde, seguimos trabajando.", "oldóu it uas leit ui kept uérkin"],
+      ["It was late. However, we kept working.", "Era tarde. Sin embargo, seguimos trabajando.", "it uas leit jauéver ui kept uérkin"],
+      ["Despite the rain, we went out.", "A pesar de la lluvia, salimos.", "dispáit da rein ui uent aut"],
+      ["I like tea, whereas he likes coffee.", "A mí me gusta el té, mientras que a él, el café.", "ai laik ti juerás ji laiks cófi"],
+      ["It's cheap. Moreover, it's good.", "Es barato. Además, es bueno.", "its chip morióver its gud"],
+      ["It rained. Therefore, we stayed home.", "Llovió. Por lo tanto, nos quedamos en casa.", "it reind dérfor ui steid joum"]
+    ],
+    "errores": [
+      "No pongas but junto a although: es Although it was late, we worked, no «Although it was late, but we worked».",
+      "No uses despite con sujeto y verbo: es Despite the rain o Despite the fact that it rained, no «Despite it rained».",
+      "No digas «despite of»: se dice despite (sin of) o in spite of (con of)."
+    ]
+  },
+  "practica": [
+    "Escribe 6 pares de oraciones: una con although y otra con however que digan lo mismo (10 minutos).",
+    "Lee un artículo de opinión y subraya 6 conectores; di si contrastan, añaden o explican (10 minutos).",
+    "Escribe un párrafo de 8 líneas sobre tu ciudad con moreover, however y as a result (12 minutos).",
+    "Habla 1 minuto sobre ventajas y desventajas de trabajar desde casa usando on the other hand y whereas (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b2-u15-l1",
+      "n": 1,
+      "titulo": "Contrastar ideas",
+      "objetivo": "Contrastar con however, although, even though y whereas.",
+      "intro": "Los conectores de contraste muestran una idea que va en contra de otra. Truco: although va en medio de la oración; however empieza una oración nueva, con coma después.",
+      "palabras": [
+        { "t": "however", "es": "sin embargo", "pron": "jauéver", "ej": "It was cheap. However, it broke quickly.", "ejes": "Era barato. Sin embargo, se rompió pronto.", "cog": false },
+        { "t": "although", "es": "aunque", "pron": "oldóu", "ej": "Although it rained, we had fun.", "ejes": "Aunque llovió, nos divertimos.", "cog": false },
+        { "t": "even though", "es": "aunque (más fuerte)", "pron": "ívan dóu", "ej": "She went out even though she was sick.", "ejes": "Salió aunque estaba enferma.", "cog": false },
+        { "t": "whereas", "es": "mientras que", "pron": "juerás", "ej": "I like tea, whereas he likes coffee.", "ejes": "A mí me gusta el té, mientras que a él el café.", "cog": false },
+        { "t": "while", "es": "mientras que, aunque", "pron": "juail", "ej": "While I agree, I have doubts.", "ejes": "Aunque estoy de acuerdo, tengo dudas.", "cog": false },
+        { "t": "on the other hand", "es": "por otro lado", "pron": "on di óder jand", "ej": "On the other hand, it saves money.", "ejes": "Por otro lado, ahorra dinero.", "cog": false },
+        { "t": "nevertheless", "es": "no obstante", "pron": "nevérdeles", "ej": "It is risky. Nevertheless, we will try.", "ejes": "Es arriesgado. No obstante, lo intentaremos.", "cog": false },
+        { "t": "yet", "es": "sin embargo, aun así", "pron": "iet", "ej": "He is rich, yet he is unhappy.", "ejes": "Es rico, pero aun así es infeliz.", "cog": false },
+        { "t": "in contrast", "es": "en contraste", "pron": "in cóntrast", "ej": "In contrast, the south is dry.", "ejes": "En contraste, el sur es seco.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Although it was cold, we went swimming.", "es": "Aunque hacía frío, fuimos a nadar.", "pron": "oldóu it uas could ui uent suímin" },
+        { "t": "The flat is small. However, it is very bright.", "es": "El departamento es pequeño. Sin embargo, es muy luminoso.", "pron": "da flat is smol jauéver it is véri brait" },
+        { "t": "My sister loves spicy food, whereas I hate it.", "es": "A mi hermana le encanta lo picante, mientras que yo lo odio.", "pron": "mai síster lovs spáisi fud juerás ai jeit it" },
+        { "t": "On the one hand, it is cheap. On the other hand, it is far.", "es": "Por un lado es barato. Por otro lado, está lejos.", "pron": "on da uan jand it is chip on di óder jand it is far" },
+        { "t": "Even though he studied, he failed.", "es": "Aunque estudió, reprobó.", "pron": "ívan dóu ji stódid ji feild" }
+      ],
+      "dialogo": {
+        "titulo": "Decidir dónde vivir",
+        "lineas": [
+          { "q": "A", "t": "The apartment is small. However, it is in a great location.", "es": "El apartamento es pequeño. Sin embargo, tiene una ubicación excelente." },
+          { "q": "B", "t": "Although it's central, the rent is high.", "es": "Aunque es céntrico, el alquiler es alto." },
+          { "q": "A", "t": "On the other hand, the houses outside the city are cheaper.", "es": "Por otro lado, las casas fuera de la ciudad son más baratas." },
+          { "q": "B", "t": "True, whereas the commute there takes two hours.", "es": "Cierto, mientras que el viaje allí toma dos horas." },
+          { "q": "A", "t": "Nevertheless, I think we should visit both.", "es": "Aun así, creo que deberíamos visitar ambos." }
+        ]
+      },
+      "nota": "En inglés hablado, but y still son más comunes que nevertheless o yet. Esos son más típicos de la escritura."
+    },
+    {
+      "id": "en-b2-u15-l2",
+      "n": 2,
+      "titulo": "Despite e in spite of",
+      "objetivo": "Usar despite e in spite of con sustantivos y -ing.",
+      "intro": "Despite e in spite of significan a pesar de, y son iguales. Truco: después van un sustantivo, un -ing o the fact that + oración, nunca sujeto + verbo solos.",
+      "palabras": [
+        { "t": "despite", "es": "a pesar de", "pron": "dispáit", "ej": "Despite the rain, we went out.", "ejes": "A pesar de la lluvia, salimos.", "cog": false },
+        { "t": "in spite of", "es": "a pesar de", "pron": "in spáit ov", "ej": "In spite of the noise, I slept well.", "ejes": "A pesar del ruido, dormí bien.", "cog": false },
+        { "t": "the fact that", "es": "el hecho de que", "pron": "da fact dat", "ej": "Despite the fact that it was late, we stayed.", "ejes": "A pesar de que era tarde, nos quedamos.", "cog": false },
+        { "t": "traffic", "es": "tráfico", "pron": "tráfic", "ej": "We arrived on time despite the traffic.", "ejes": "Llegamos a tiempo a pesar del tráfico.", "cog": true },
+        { "t": "illness", "es": "enfermedad", "pron": "ílnes", "ej": "Despite his illness, he worked.", "ejes": "A pesar de su enfermedad, trabajó.", "cog": false },
+        { "t": "difficulty", "es": "dificultad", "pron": "dífikolti", "ej": "She learned it with difficulty.", "ejes": "Lo aprendió con dificultad.", "cog": true },
+        { "t": "obstacle", "es": "obstáculo", "pron": "óbstacol", "ej": "Every obstacle taught him something.", "ejes": "Cada obstáculo le enseñó algo.", "cog": true },
+        { "t": "succeed", "es": "tener éxito", "pron": "sacsíd", "ej": "They will succeed despite everything.", "ejes": "Tendrán éxito a pesar de todo.", "cog": true },
+        { "t": "tiredness", "es": "cansancio", "pron": "táirdnes", "ej": "I couldn't hide my tiredness.", "ejes": "No pude ocultar mi cansancio.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Despite the traffic, we arrived on time.", "es": "A pesar del tráfico, llegamos a tiempo.", "pron": "dispáit da tráfic ui aráivd on taim" },
+        { "t": "In spite of his illness, he came to work.", "es": "A pesar de su enfermedad, vino a trabajar.", "pron": "in spáit ov jis ílnes ji queim tu uerk" },
+        { "t": "Despite feeling tired, she went running.", "es": "A pesar de sentirse cansada, fue a correr.", "pron": "dispáit fílin taird shi uent rónin" },
+        { "t": "Despite the fact that it was cold, we swam.", "es": "A pesar de que hacía frío, nadamos.", "pron": "dispáit da fact dat it uas could ui suám" },
+        { "t": "He succeeded despite many obstacles.", "es": "Tuvo éxito a pesar de muchos obstáculos.", "pron": "ji saksídid dispáit méni óbstacols" }
+      ],
+      "dialogo": {
+        "titulo": "Una carrera",
+        "lineas": [
+          { "q": "A", "t": "Did you finish the marathon despite the heat?", "es": "¿Terminaste el maratón a pesar del calor?" },
+          { "q": "B", "t": "Yes, in spite of my tiredness. I almost stopped.", "es": "Sí, a pesar de mi cansancio. Casi paro." },
+          { "q": "A", "t": "Despite the fact that it was hot, you looked strong.", "es": "A pesar de que hacía calor, te veías fuerte." },
+          { "q": "B", "t": "Thanks. Every obstacle taught me something.", "es": "Gracias. Cada obstáculo me enseñó algo." },
+          { "q": "A", "t": "You can succeed in the next one too.", "es": "Puedes tener éxito en la próxima también." }
+        ]
+      },
+      "nota": "Despite y in spite of significan lo mismo. Fíjate: despite no lleva of, pero in spite of sí."
+    },
+    {
+      "id": "en-b2-u15-l3",
+      "n": 3,
+      "titulo": "Añadir información",
+      "objetivo": "Añadir argumentos con moreover, in addition, besides y furthermore.",
+      "intro": "Estos conectores suman ideas. Truco: moreover y furthermore son formales y de escritura; besides y what's more suenan más hablados.",
+      "palabras": [
+        { "t": "moreover", "es": "además", "pron": "morióver", "ej": "It's cheap. Moreover, it's very good.", "ejes": "Es barato. Además, es muy bueno.", "cog": false },
+        { "t": "furthermore", "es": "asimismo, además", "pron": "férdermor", "ej": "Furthermore, the staff is friendly.", "ejes": "Asimismo, el personal es amable.", "cog": false },
+        { "t": "in addition", "es": "además", "pron": "in adíshon", "ej": "In addition, we offer free delivery.", "ejes": "Además, ofrecemos envío gratuito.", "cog": true },
+        { "t": "besides", "es": "además, aparte de eso", "pron": "bisáids", "ej": "Besides, I don't like that place.", "ejes": "Además, no me gusta ese lugar.", "cog": false },
+        { "t": "what's more", "es": "es más, y además", "pron": "juats mor", "ej": "What's more, it's free.", "ejes": "Es más, es gratis.", "cog": false },
+        { "t": "as well as", "es": "además de", "pron": "as uel as", "ej": "She speaks French as well as Spanish.", "ejes": "Habla francés además de español.", "cog": false },
+        { "t": "also", "es": "también", "pron": "ólsou", "ej": "She also speaks Italian.", "ejes": "Ella también habla italiano.", "cog": false },
+        { "t": "not only", "es": "no solo", "pron": "not óunli", "ej": "Not only is it cheap, it's tasty.", "ejes": "No solo es barato, es sabroso.", "cog": false },
+        { "t": "on top of that", "es": "encima de eso", "pron": "on top ov dat", "ej": "On top of that, he paid for lunch.", "ejes": "Encima de eso, pagó el almuerzo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The hotel is clean. Moreover, it is very cheap.", "es": "El hotel es limpio. Además, es muy barato.", "pron": "da joutél is clin morióver it is véri chip" },
+        { "t": "In addition to the salary, we offer insurance.", "es": "Además del sueldo, ofrecemos seguro.", "pron": "in adíshon tu da sálari ui ófer inshúrans" },
+        { "t": "I don't want to go. Besides, it's too late.", "es": "No quiero ir. Además, es muy tarde.", "pron": "ai dont uant tu gou bisáids its tu leit" },
+        { "t": "Not only is it fast, but it is also cheap.", "es": "No solo es rápido, sino también barato.", "pron": "not óunli is it fast bot it is ólsou chip" },
+        { "t": "She speaks English as well as French.", "es": "Habla inglés además de francés.", "pron": "shi spiks ínglish as uel as french" }
+      ],
+      "dialogo": {
+        "titulo": "Elegir un restaurante",
+        "lineas": [
+          { "q": "A", "t": "This restaurant is cheap. Moreover, the portions are huge.", "es": "Este restaurante es barato. Además, las porciones son enormes." },
+          { "q": "B", "t": "Not only is it cheap, but it's also near the office.", "es": "No solo es barato, sino que también queda cerca de la oficina." },
+          { "q": "A", "t": "Besides, the staff is very friendly.", "es": "Además, el personal es muy amable." },
+          { "q": "B", "t": "What's more, they have vegetarian options as well as seafood.", "es": "Es más, tienen opciones vegetarianas además de mariscos." },
+          { "q": "A", "t": "Then it's settled. Let's go.", "es": "Entonces está decidido. Vamos." }
+        ]
+      },
+      "nota": "Cuando empiezas con not only, el verbo va antes del sujeto: Not only is it cheap. Es un estilo algo formal, muy bueno para escribir."
+    },
+    {
+      "id": "en-b2-u15-l4",
+      "n": 4,
+      "titulo": "Causa y resultado",
+      "objetivo": "Expresar causas y consecuencias con conectores.",
+      "intro": "Dos grupos: los de causa (because of, due to) y los de resultado (therefore, as a result). Truco: because of y due to van seguidos de sustantivo, no de sujeto + verbo.",
+      "palabras": [
+        { "t": "because of", "es": "debido a", "pron": "bicós ov", "ej": "We stayed home because of the rain.", "ejes": "Nos quedamos en casa debido a la lluvia.", "cog": false },
+        { "t": "due to", "es": "debido a", "pron": "diu tu", "ej": "The flight was late due to fog.", "ejes": "El vuelo se retrasó por la niebla.", "cog": false },
+        { "t": "therefore", "es": "por lo tanto", "pron": "dérfor", "ej": "It rained. Therefore, we stayed home.", "ejes": "Llovió. Por lo tanto, nos quedamos en casa.", "cog": false },
+        { "t": "as a result", "es": "como resultado", "pron": "as a rizólt", "ej": "As a result, sales rose.", "ejes": "Como resultado, las ventas subieron.", "cog": false },
+        { "t": "consequently", "es": "en consecuencia", "pron": "cónsecuentli", "ej": "Consequently, many people lost their jobs.", "ejes": "En consecuencia, muchos perdieron su trabajo.", "cog": true },
+        { "t": "so that", "es": "para que", "pron": "sou dat", "ej": "I left early so that I could arrive on time.", "ejes": "Salí temprano para poder llegar a tiempo.", "cog": false },
+        { "t": "since", "es": "puesto que", "pron": "sins", "ej": "Since it's late, let's go.", "ejes": "Puesto que es tarde, vámonos.", "cog": false },
+        { "t": "thus", "es": "así, por lo tanto", "pron": "dos", "ej": "Thus, the plan failed.", "ejes": "Así, el plan fracasó.", "cog": false },
+        { "t": "owing to", "es": "debido a (formal)", "pron": "óuin tu", "ej": "Owing to the strike, schools closed.", "ejes": "Debido a la huelga, las escuelas cerraron.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The match was cancelled because of the rain.", "es": "El partido se canceló por la lluvia.", "pron": "da mach uas cánseld bicós ov da rein" },
+        { "t": "The trains were late due to a strike.", "es": "Los trenes se retrasaron por una huelga.", "pron": "da treins uer leit diu tu a straik" },
+        { "t": "Prices rose. Therefore, people bought less.", "es": "Los precios subieron. Por lo tanto, la gente compró menos.", "pron": "práises rous dérfor pípol bot les" },
+        { "t": "He studied hard. As a result, he passed.", "es": "Estudió mucho. Como resultado, aprobó.", "pron": "ji stódid jard as a rizólt ji past" },
+        { "t": "I saved money so that I could travel.", "es": "Ahorré dinero para poder viajar.", "pron": "ai seivd móni sou dat ai cud trávol" }
+      ],
+      "dialogo": {
+        "titulo": "Un retraso",
+        "lineas": [
+          { "q": "A", "t": "Why is the flight delayed?", "es": "¿Por qué está retrasado el vuelo?" },
+          { "q": "B", "t": "It's late due to bad weather.", "es": "Está retrasado por el mal tiempo." },
+          { "q": "A", "t": "Consequently, we will miss the meeting.", "es": "En consecuencia, perderemos la reunión." },
+          { "q": "B", "t": "Since we can't change it, let's call the client.", "es": "Puesto que no podemos cambiarlo, llamemos al cliente." },
+          { "q": "A", "t": "Good idea. As a result, we won't look unprofessional.", "es": "Buena idea. Como resultado, no pareceremos poco profesionales." }
+        ]
+      },
+      "nota": "Because se usa con oración (because it rained); because of se usa con sustantivo (because of the rain)."
+    },
+    {
+      "id": "en-b2-u15-l5",
+      "n": 5,
+      "titulo": "Repaso: un texto bien conectado",
+      "objetivo": "Combinar conectores de contraste, adición, causa y resultado en un texto.",
+      "intro": "Un buen texto usa varios conectores. Truco: elige uno de cada tipo y evita repetir el mismo en cada oración.",
+      "palabras": [
+        { "t": "firstly", "es": "en primer lugar", "pron": "férstli", "ej": "Firstly, let me explain.", "ejes": "En primer lugar, déjenme explicar.", "cog": false },
+        { "t": "finally", "es": "por último", "pron": "fáinali", "ej": "Finally, I want to thank you.", "ejes": "Por último, quiero agradecerles.", "cog": true },
+        { "t": "in conclusion", "es": "en conclusión", "pron": "in conclúshon", "ej": "In conclusion, the plan is good.", "ejes": "En conclusión, el plan es bueno.", "cog": true },
+        { "t": "for instance", "es": "por ejemplo", "pron": "for ínstans", "ej": "For instance, we can save energy.", "ejes": "Por ejemplo, podemos ahorrar energía.", "cog": false },
+        { "t": "in other words", "es": "en otras palabras", "pron": "in óder uérds", "ej": "In other words, we need more time.", "ejes": "En otras palabras, necesitamos más tiempo.", "cog": false },
+        { "t": "overall", "es": "en general", "pron": "ouverról", "ej": "Overall, the trip was great.", "ejes": "En general, el viaje fue genial.", "cog": false },
+        { "t": "as for", "es": "en cuanto a", "pron": "as for", "ej": "As for the budget, it is fine.", "ejes": "En cuanto al presupuesto, está bien.", "cog": false },
+        { "t": "in fact", "es": "de hecho", "pron": "in fact", "ej": "In fact, it was very easy.", "ejes": "De hecho, fue muy fácil.", "cog": false },
+        { "t": "otherwise", "es": "de lo contrario", "pron": "óderuais", "ej": "Hurry up, otherwise we'll be late.", "ejes": "Apúrate, de lo contrario llegaremos tarde.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Firstly, the location is perfect.", "es": "En primer lugar, la ubicación es perfecta.", "pron": "férstli da loukéishon is pérfect" },
+        { "t": "However, the price is quite high.", "es": "Sin embargo, el precio es bastante alto.", "pron": "jauéver da prais is cuait jai" },
+        { "t": "Moreover, there is no parking.", "es": "Además, no hay estacionamiento.", "pron": "morióver der is nou párkin" },
+        { "t": "As a result, I decided not to rent it.", "es": "Como resultado, decidí no alquilarlo.", "pron": "as a rizólt ai disáidid not tu rent it" },
+        { "t": "Overall, it was a useful experience.", "es": "En general, fue una experiencia útil.", "pron": "ouverról it uas a iúsful expíriens" },
+        { "t": "Hurry up, otherwise we'll miss the bus.", "es": "Apúrate, de lo contrario perderemos el bus.", "pron": "jórri op óderuais uil mis da bos" }
+      ],
+      "dialogo": {
+        "titulo": "Opinión sobre un viaje",
+        "lineas": [
+          { "q": "A", "t": "How was your trip? Overall, did you enjoy it?", "es": "¿Cómo estuvo tu viaje? En general, ¿lo disfrutaste?" },
+          { "q": "B", "t": "Yes. The hotel was beautiful. However, the food was expensive.", "es": "Sí. El hotel era hermoso. Sin embargo, la comida era cara." },
+          { "q": "A", "t": "In fact, I've heard that. Did you do anything free?", "es": "De hecho, lo había oído. ¿Hicieron algo gratis?" },
+          { "q": "B", "t": "As for activities, we hiked. Moreover, we saw a festival.", "es": "En cuanto a actividades, hicimos senderismo. Además, vimos un festival." },
+          { "q": "A", "t": "Great. In conclusion, would you go again?", "es": "Genial. En conclusión, ¿volverías a ir?" }
+        ]
+      },
+      "nota": "En conversación basta con unos pocos conectores. En un ensayo o informe, úsalos para guiar al lector de una idea a la siguiente."
+    }
+  ]
+}

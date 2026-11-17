@@ -1,0 +1,221 @@
+{
+  "id": "en-b2-u16",
+  "idioma": "en",
+  "nivel": "B2",
+  "n": 16,
+  "titulo": "Negociar y persuadir",
+  "resumen": "Aprenderás el lenguaje para negociar, poner condiciones, persuadir y cerrar acuerdos, y repasarás lo más importante del nivel B2.",
+  "puedo": [
+    "Hacer ofertas y contraofertas con cortesía.",
+    "Poner condiciones con if, provided that, as long as y unless.",
+    "Persuadir con argumentos y frases como I strongly believe.",
+    "Cerrar un acuerdo y confirmar los términos.",
+    "Repasar los temas del nivel B2 en una conversación completa."
+  ],
+  "gramatica": {
+    "titulo": "Condiciones y concesiones al negociar",
+    "texto": "En una negociación pones condiciones con if, as long as, provided that y unless. Todas llevan el verbo en presente aunque hablen del futuro: We will sign if you lower the price.\nAs long as y provided that significan siempre que: We'll accept as long as delivery is free. Unless significa a menos que (= if not): Unless you lower the price, we can't sign.\nPara suavizar tu postura usa would y could: We would be willing to... / Could you possibly...? Para ceder: I'm prepared to meet you halfway.\nTruco: no uses will después de if o unless: es If you sign, we will deliver, no «If you will sign».",
+    "tabla": [
+      ["We'll sign if you lower the price.", "Firmaremos si baja el precio.", "uil sain if iu lóuer da prais"],
+      ["As long as delivery is free, we agree.", "Siempre que el envío sea gratis, aceptamos.", "as long as diliveri is fri ui agrí"],
+      ["Provided that you pay in advance, yes.", "Siempre que pague por adelantado, sí.", "provaidid dat iu pei in adváns ies"],
+      ["Unless you lower it, we can't sign.", "A menos que lo baje, no podemos firmar.", "anles iu lóuer it ui cant sain"],
+      ["We would be willing to compromise.", "Estaríamos dispuestos a ceder.", "ui uud bi uílin tu cómpromais"],
+      ["Let's meet halfway.", "Lleguemos a un punto medio.", "lets mit jáfuei"]
+    ],
+    "errores": [
+      "No uses will después de if o unless: es If you pay now, I will give a discount, no «If you will pay now».",
+      "No uses not con unless: Unless you pay already significa if you don't pay; no digas «unless you don't pay».",
+      "No suenes demasiado directo: «Give me a discount» es brusco; di Could you possibly offer a discount?"
+    ]
+  },
+  "practica": [
+    "Escribe 6 condiciones con if, as long as y unless sobre tu trabajo o vida diaria (10 minutos).",
+    "Simula en voz alta la compra de un carro: cliente y vendedor, con oferta y contraoferta (8 minutos).",
+    "Escribe un correo de 8 líneas pidiendo un mejor precio con tono cortés (12 minutos).",
+    "Elige un tema de B1 o B2 que te cueste y escribe 5 oraciones nuevas sobre él (10 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b2-u16-l1",
+      "n": 1,
+      "titulo": "Ofertas y contraofertas",
+      "objetivo": "Hacer una oferta, rechazarla con cortesía y proponer otra.",
+      "intro": "Negociar es proponer, responder y ceder. Truco: usa would y could para sonar amable, y da siempre una razón.",
+      "palabras": [
+        { "t": "offer", "es": "oferta, ofrecer", "pron": "ófer", "ej": "That's a generous offer.", "ejes": "Es una oferta generosa.", "cog": true },
+        { "t": "counteroffer", "es": "contraoferta", "pron": "cáunteróufer", "ej": "We will make a counteroffer.", "ejes": "Haremos una contraoferta.", "cog": true },
+        { "t": "price", "es": "precio", "pron": "prais", "ej": "The price is too high.", "ejes": "El precio es demasiado alto.", "cog": false },
+        { "t": "discount", "es": "descuento", "pron": "dískaunt", "ej": "Could you give us a discount?", "ejes": "¿Podría darnos un descuento?", "cog": true },
+        { "t": "budget", "es": "presupuesto", "pron": "bóyet", "ej": "That is above our budget.", "ejes": "Eso excede nuestro presupuesto.", "cog": false },
+        { "t": "flexible", "es": "flexible", "pron": "fléxibol", "ej": "We can be flexible on the date.", "ejes": "Podemos ser flexibles con la fecha.", "cog": true },
+        { "t": "reasonable", "es": "razonable", "pron": "rísonabol", "ej": "That sounds reasonable.", "ejes": "Eso suena razonable.", "cog": true },
+        { "t": "compromise", "es": "ceder, acuerdo mutuo", "pron": "cómpromais", "ej": "We can reach a compromise.", "ejes": "Podemos llegar a un acuerdo mutuo.", "cog": true },
+        { "t": "negotiate", "es": "negociar", "pron": "nigóushieit", "ej": "I'm ready to negotiate.", "ejes": "Estoy listo para negociar.", "cog": true }
+      ],
+      "frases": [
+        { "t": "We would like to offer you a thousand dollars.", "es": "Quisiéramos ofrecerle mil dólares.", "pron": "ui uud laik tu ófer iu a záusand dólars" },
+        { "t": "I'm afraid that is above our budget.", "es": "Me temo que eso excede nuestro presupuesto.", "pron": "aim afréid dat is abóv áuer bóyet" },
+        { "t": "Could you give us a discount?", "es": "¿Podría darnos un descuento?", "pron": "cud iu guiv os a dískaunt" },
+        { "t": "We can be flexible on the delivery date.", "es": "Podemos ser flexibles con la fecha de entrega.", "pron": "ui can bi fléxibol on da diliveri deit" },
+        { "t": "Let's try to reach a compromise.", "es": "Intentemos llegar a un acuerdo.", "pron": "lets trai tu rich a cómpromais" }
+      ],
+      "dialogo": {
+        "titulo": "Comprando una moto",
+        "lineas": [
+          { "q": "A", "t": "The price is three thousand dollars.", "es": "El precio es tres mil dólares." },
+          { "q": "B", "t": "I'm afraid that's above my budget. Could you give me a discount?", "es": "Me temo que eso excede mi presupuesto. ¿Podría darme un descuento?" },
+          { "q": "A", "t": "I can offer you two thousand eight hundred.", "es": "Puedo ofrecerle dos mil ochocientos." },
+          { "q": "B", "t": "That sounds reasonable, but I'd like to make a counteroffer: two thousand five hundred.", "es": "Suena razonable, pero quisiera hacer una contraoferta: dos mil quinientos." },
+          { "q": "A", "t": "Let's compromise at two thousand seven hundred.", "es": "Lleguemos a un acuerdo en dos mil setecientos." }
+        ]
+      },
+      "nota": "En EE. UU. es normal negociar precios de autos, alquileres y sueldos. En tiendas comunes los precios suelen ser fijos."
+    },
+    {
+      "id": "en-b2-u16-l2",
+      "n": 2,
+      "titulo": "Condiciones y concesiones",
+      "objetivo": "Poner condiciones y ceder con if, as long as, provided that y unless.",
+      "intro": "Poner condiciones es la mitad de negociar. Truco: después de if, unless y as long as, el verbo va en presente aunque hables del futuro.",
+      "palabras": [
+        { "t": "as long as", "es": "siempre que", "pron": "as long as", "ej": "We agree as long as you pay today.", "ejes": "Aceptamos siempre que pague hoy.", "cog": false },
+        { "t": "provided that", "es": "siempre que", "pron": "provaidid dat", "ej": "We sign provided that delivery is free.", "ejes": "Firmamos siempre que el envío sea gratis.", "cog": false },
+        { "t": "unless", "es": "a menos que", "pron": "anles", "ej": "We can't sign unless you lower the price.", "ejes": "No podemos firmar a menos que baje el precio.", "cog": false },
+        { "t": "condition", "es": "condición", "pron": "condíshon", "ej": "That is my only condition.", "ejes": "Esa es mi única condición.", "cog": true },
+        { "t": "in return", "es": "a cambio", "pron": "in ritérn", "ej": "In return, we will give you a discount.", "ejes": "A cambio, le daremos un descuento.", "cog": false },
+        { "t": "willing", "es": "dispuesto", "pron": "uílin", "ej": "I'm willing to wait a week.", "ejes": "Estoy dispuesto a esperar una semana.", "cog": false },
+        { "t": "meet halfway", "es": "ceder a medias", "pron": "mit jáfuei", "ej": "Let's meet halfway on the price.", "ejes": "Cedamos a medias con el precio.", "cog": false },
+        { "t": "deadline", "es": "plazo, fecha límite", "pron": "dédlain", "ej": "The deadline is Friday.", "ejes": "El plazo es el viernes.", "cog": false },
+        { "t": "refuse", "es": "rechazar, negarse", "pron": "rifiús", "ej": "We refuse to lower the price.", "ejes": "Nos negamos a bajar el precio.", "cog": false }
+      ],
+      "frases": [
+        { "t": "We'll sign if you lower the price.", "es": "Firmaremos si baja el precio.", "pron": "uil sain if iu lóuer da prais" },
+        { "t": "We agree as long as delivery is free.", "es": "Aceptamos siempre que el envío sea gratis.", "pron": "ui agrí as long as diliveri is fri" },
+        { "t": "Unless you pay today, we can't hold the price.", "es": "A menos que pague hoy, no podemos mantener el precio.", "pron": "anles iu pei tudéi ui cant jould da prais" },
+        { "t": "In return, we will give you a longer warranty.", "es": "A cambio, le daremos una garantía más larga.", "pron": "in ritérn ui uil guiv iu a lónguer uóranti" },
+        { "t": "I'm willing to meet you halfway.", "es": "Estoy dispuesto a ceder a medias.", "pron": "aim uílin tu mit iu jáfuei" }
+      ],
+      "dialogo": {
+        "titulo": "Alquilando una oficina",
+        "lineas": [
+          { "q": "A", "t": "We'll rent the office as long as the rent includes parking.", "es": "Alquilaremos la oficina siempre que el alquiler incluya estacionamiento." },
+          { "q": "B", "t": "That's possible, provided that you sign for two years.", "es": "Es posible, siempre que firme por dos años." },
+          { "q": "A", "t": "Unless you lower the price, we can't commit to two years.", "es": "A menos que baje el precio, no podemos comprometernos a dos años." },
+          { "q": "B", "t": "I'm willing to meet you halfway. Fifteen percent off, and in return, you sign today.", "es": "Estoy dispuesto a ceder a medias. Quince por ciento menos y, a cambio, firma hoy." },
+          { "q": "A", "t": "That works.", "es": "Eso funciona." }
+        ]
+      },
+      "nota": "Unless equivale a if not, pero no se usa con otra negación. Mejor: We won't go unless it stops raining."
+    },
+    {
+      "id": "en-b2-u16-l3",
+      "n": 3,
+      "titulo": "Persuadir",
+      "objetivo": "Convencer a alguien con argumentos y frases de persuasión.",
+      "intro": "Persuadir es dar buenos motivos, no presionar. Truco: habla de los beneficios para la otra persona, no solo de lo que tú quieres.",
+      "palabras": [
+        { "t": "convince", "es": "convencer", "pron": "convíns", "ej": "I want to convince you.", "ejes": "Quiero convencerte.", "cog": true },
+        { "t": "persuade", "es": "persuadir", "pron": "perssuéid", "ej": "She can persuade anyone.", "ejes": "Ella puede persuadir a cualquiera.", "cog": true },
+        { "t": "benefit", "es": "beneficio", "pron": "bénefit", "ej": "The main benefit is saving time.", "ejes": "El beneficio principal es ahorrar tiempo.", "cog": true },
+        { "t": "advantage", "es": "ventaja", "pron": "adváentich", "ej": "That's a clear advantage.", "ejes": "Es una ventaja clara.", "cog": true },
+        { "t": "evidence", "es": "evidencia, pruebas", "pron": "évidens", "ej": "We have strong evidence.", "ejes": "Tenemos pruebas sólidas.", "cog": true },
+        { "t": "guarantee", "es": "garantía, garantizar", "pron": "gárantí", "ej": "I guarantee the quality.", "ejes": "Garantizo la calidad.", "cog": true },
+        { "t": "trust", "es": "confianza, confiar", "pron": "trost", "ej": "You can trust our team.", "ejes": "Puede confiar en nuestro equipo.", "cog": false },
+        { "t": "reliable", "es": "confiable", "pron": "riláiabol", "ej": "This supplier is very reliable.", "ejes": "Este proveedor es muy confiable.", "cog": false },
+        { "t": "opportunity", "es": "oportunidad", "pron": "oportiúniti", "ej": "It's a great opportunity.", "ejes": "Es una gran oportunidad.", "cog": true }
+      ],
+      "frases": [
+        { "t": "I strongly believe this is the best option.", "es": "Creo firmemente que es la mejor opción.", "pron": "ai strónguli bilív dis is da best ópshon" },
+        { "t": "It would be in your interest to accept.", "es": "Le convendría aceptar.", "pron": "it uud bi in ior íntrest tu axépt" },
+        { "t": "The main benefit is saving time.", "es": "El beneficio principal es ahorrar tiempo.", "pron": "da mein bénefit is séivin taim" },
+        { "t": "We have strong evidence to support this.", "es": "Tenemos pruebas sólidas que lo respaldan.", "pron": "ui jav strong évidens tu sepórt dis" },
+        { "t": "You won't find a more reliable partner.", "es": "No encontrará un socio más confiable.", "pron": "iu uont faind a mor riláiabol pártner" }
+      ],
+      "dialogo": {
+        "titulo": "Convencer a un cliente",
+        "lineas": [
+          { "q": "A", "t": "I strongly believe our service is the best option for you.", "es": "Creo firmemente que nuestro servicio es la mejor opción para usted." },
+          { "q": "B", "t": "Why should I trust you? There are cheaper companies.", "es": "¿Por qué debería confiar en ustedes? Hay empresas más baratas." },
+          { "q": "A", "t": "We have strong evidence: ninety percent of our clients renew.", "es": "Tenemos pruebas sólidas: el noventa por ciento de nuestros clientes renueva." },
+          { "q": "B", "t": "That's a clear advantage. What's the main benefit?", "es": "Es una ventaja clara. ¿Cuál es el beneficio principal?" },
+          { "q": "A", "t": "We guarantee a reply within one hour.", "es": "Garantizamos una respuesta en una hora." }
+        ]
+      },
+      "nota": "Convince y persuade se parecen. Convince se centra en que alguien crea algo; persuade, en que alguien haga algo."
+    },
+    {
+      "id": "en-b2-u16-l4",
+      "n": 4,
+      "titulo": "Cerrar un acuerdo",
+      "objetivo": "Confirmar términos, aceptar y cerrar un trato.",
+      "intro": "Al cerrar, confirma lo acordado para evitar malentendidos. Truco: repite los puntos clave con let me confirm y pide la firma.",
+      "palabras": [
+        { "t": "deal", "es": "trato, acuerdo", "pron": "dil", "ej": "It's a good deal for both sides.", "ejes": "Es un buen trato para ambas partes.", "cog": false },
+        { "t": "terms", "es": "términos, condiciones", "pron": "terms", "ej": "Let's go over the terms.", "ejes": "Repasemos los términos.", "cog": false },
+        { "t": "contract", "es": "contrato", "pron": "cóntract", "ej": "Please read the contract.", "ejes": "Por favor, lea el contrato.", "cog": true },
+        { "t": "sign", "es": "firmar", "pron": "sain", "ej": "I'm ready to sign.", "ejes": "Estoy listo para firmar.", "cog": false },
+        { "t": "agree", "es": "estar de acuerdo, acordar", "pron": "agrí", "ej": "We agree on the price.", "ejes": "Estamos de acuerdo en el precio.", "cog": false },
+        { "t": "confirm", "es": "confirmar", "pron": "confírm", "ej": "Let me confirm the details.", "ejes": "Permítame confirmar los detalles.", "cog": true },
+        { "t": "settle", "es": "resolver, zanjar", "pron": "sétol", "ej": "Let's settle this today.", "ejes": "Zanjemos esto hoy.", "cog": false },
+        { "t": "handshake", "es": "apretón de manos", "pron": "jándsheik", "ej": "We sealed it with a handshake.", "ejes": "Lo sellamos con un apretón de manos.", "cog": false },
+        { "t": "proceed", "es": "proceder", "pron": "prosíd", "ej": "We can proceed with the order.", "ejes": "Podemos proceder con el pedido.", "cog": true }
+      ],
+      "frases": [
+        { "t": "I think we have a deal.", "es": "Creo que tenemos un trato.", "pron": "ai zink ui jav a dil" },
+        { "t": "Let me confirm the terms.", "es": "Permítame confirmar los términos.", "pron": "let mi confírm da terms" },
+        { "t": "We agree on the price and the date.", "es": "Estamos de acuerdo en el precio y la fecha.", "pron": "ui agrí on da prais and da deit" },
+        { "t": "Shall we proceed with the contract?", "es": "¿Procedemos con el contrato?", "pron": "shal ui prosíd uid da cóntract" },
+        { "t": "It's a pleasure doing business with you.", "es": "Es un placer hacer negocios con usted.", "pron": "its a pléshur dúin bísnes uid iu" }
+      ],
+      "dialogo": {
+        "titulo": "Firmando",
+        "lineas": [
+          { "q": "A", "t": "So, do we have a deal?", "es": "Entonces, ¿tenemos un trato?" },
+          { "q": "B", "t": "Yes. Let me confirm the terms: twelve months, free delivery, ten percent off.", "es": "Sí. Permítame confirmar los términos: doce meses, envío gratis, diez por ciento de descuento." },
+          { "q": "A", "t": "Correct. Shall we proceed with the contract?", "es": "Correcto. ¿Procedemos con el contrato?" },
+          { "q": "B", "t": "Of course. I'm ready to sign.", "es": "Por supuesto. Estoy listo para firmar." },
+          { "q": "A", "t": "It's a pleasure doing business with you.", "es": "Es un placer hacer negocios con usted." }
+        ]
+      },
+      "nota": "Let me confirm... al cierre evita malentendidos. Después, es habitual enviar un correo con los términos por escrito."
+    },
+    {
+      "id": "en-b2-u16-l5",
+      "n": 5,
+      "titulo": "Repaso general del nivel B2",
+      "objetivo": "Combinar idioms, registro, reuniones, relativas, comparaciones y conectores en una conversación.",
+      "intro": "Esta lección junta lo mejor del nivel B2. Truco: intenta usar al menos un elemento de cada unidad en tus próximas conversaciones.",
+      "palabras": [
+        { "t": "give and take", "es": "dar y recibir, ceder", "pron": "guiv and teik", "ej": "Negotiation needs give and take.", "ejes": "La negociación necesita ceder de ambos lados.", "cog": false },
+        { "t": "win-win", "es": "beneficioso para ambos", "pron": "uin uin", "ej": "We want a win-win solution.", "ejes": "Queremos una solución donde ambos ganen.", "cog": false },
+        { "t": "bottom line", "es": "lo esencial, el resultado final", "pron": "bótom lain", "ej": "The bottom line is we need more time.", "ejes": "Lo esencial es que necesitamos más tiempo.", "cog": false },
+        { "t": "on the table", "es": "sobre la mesa", "pron": "on da téibol", "ej": "Our best offer is on the table.", "ejes": "Nuestra mejor oferta está sobre la mesa.", "cog": false },
+        { "t": "make a point", "es": "hacer ver un punto", "pron": "meik a point", "ej": "I'd like to make a point about costs.", "ejes": "Quisiera hacer ver un punto sobre los costos.", "cog": false },
+        { "t": "come to terms", "es": "llegar a un acuerdo", "pron": "com tu terms", "ej": "They need to come to terms soon.", "ejes": "Necesitan llegar a un acuerdo pronto.", "cog": false },
+        { "t": "stand firm", "es": "mantenerse firme", "pron": "stand ferm", "ej": "We must stand firm on quality.", "ejes": "Debemos mantenernos firmes en la calidad.", "cog": false },
+        { "t": "back down", "es": "ceder, retroceder", "pron": "bak daun", "ej": "He refused to back down.", "ejes": "Se negó a ceder.", "cog": false },
+        { "t": "outcome", "es": "resultado", "pron": "áutcom", "ej": "I'm happy with the outcome.", "ejes": "Estoy contento con el resultado.", "cog": false }
+      ],
+      "frases": [
+        { "t": "The more we talk, the closer we get to a deal.", "es": "Mientras más hablamos, más cerca estamos de un trato.", "pron": "da mor ui tok da clóus-er ui guet tu a dil" },
+        { "t": "Although the offer is good, we need more time.", "es": "Aunque la oferta es buena, necesitamos más tiempo.", "pron": "oldóu di ófer is gud ui nid mor taim" },
+        { "t": "Our partner, who lives in Lima, agrees with us.", "es": "Nuestro socio, que vive en Lima, está de acuerdo.", "pron": "áuer pártner ju livs in lima agrís uid os" },
+        { "t": "To sum up, it is a win-win solution.", "es": "En resumen, es una solución donde ambos ganan.", "pron": "tu som op it is a uin uin solúshon" },
+        { "t": "Sorry to interrupt, but could we revisit the price?", "es": "Perdón por interrumpir, ¿podríamos revisar el precio?", "pron": "sórri tu interrópt bot cud ui rivísit da prais" },
+        { "t": "It was a piece of cake in the end.", "es": "Al final fue pan comido.", "pron": "it uas a pis ov keik in di end" }
+      ],
+      "dialogo": {
+        "titulo": "Cerrando un gran contrato",
+        "lineas": [
+          { "q": "A", "t": "Sorry to interrupt, but our best offer is on the table.", "es": "Perdón por interrumpir, pero nuestra mejor oferta está sobre la mesa." },
+          { "q": "B", "t": "Although it's good, the bottom line is that we need more time.", "es": "Aunque es buena, lo esencial es que necesitamos más tiempo." },
+          { "q": "A", "t": "The sooner we sign, the better the price. I strongly believe it's a win-win solution.", "es": "Mientras antes firmemos, mejor el precio. Creo firmemente que es una solución donde ambos ganan." },
+          { "q": "B", "t": "Fine, provided that you include free delivery.", "es": "Bien, siempre que incluyan envío gratis." },
+          { "q": "A", "t": "Agreed. Let's come to terms and sign.", "es": "De acuerdo. Lleguemos a un acuerdo y firmemos." }
+        ]
+      },
+      "nota": "Felicidades: terminaste el nivel B2. Sigue practicando con series, podcasts y conversaciones reales para pasar con seguridad al nivel C1."
+    }
+  ]
+}

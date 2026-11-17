@@ -1,0 +1,729 @@
+{
+  "id": "pt-b2-u5",
+  "idioma": "pt",
+  "nivel": "B2",
+  "n": 5,
+  "titulo": "Estilo indirecto completo",
+  "resumen": "Aprenderás a contar lo que alguien dijo con el cambio de tiempos (disse que estava, perguntou se tinha) y con verbos de reporte como contar, explicar, afirmar y prometer.",
+  "puedo": [
+    "Reportar lo que alguien dijo: «ela disse que estava cansada».",
+    "Cambiar los tiempos y las palabras de lugar y tiempo correctamente.",
+    "Reportar preguntas y pedidos: «perguntou se...», «pediu que...».",
+    "Usar verbos de reporte con matices: afirmar, negar, prometer, garantir.",
+    "Contar una conversación completa a otra persona."
+  ],
+  "gramatica": {
+    "titulo": "Discurso indirecto: cambio de tiempos",
+    "texto": "Cuando cuentas lo que alguien dijo, los tiempos retroceden un paso. Ana disse: «Estou cansada» pasa a Ana disse que estava cansada. El presente pasa al imperfeito; el perfeito pasa al mais-que-perfeito (tinha + participio); el futuro pasa al futuro do pretérito (iria / faria).\nLas palabras de lugar y tiempo también cambian: hoje pasa a naquele dia, amanhã a no dia seguinte, aqui a ali, este a aquele.\nPara preguntas usa «se» (sí/no) o la misma palabra interrogativa: Ele perguntou se eu ia à festa; Ele perguntou onde eu morava.\nPara órdenes usa «que» + imperfeito do subjuntivo: Ele pediu que eu esperasse.\nTruco: si el verbo de reporte está en pasado (disse, contou), todo lo demás «retrocede».",
+    "tabla": [
+      [
+        "«Estou cansada.» = disse que estava",
+        "dijo que estaba",
+        "dísi ki estáva"
+      ],
+      [
+        "«Fui ao banco.» = disse que tinha ido",
+        "dijo que había ido",
+        "dísi ki tíña ídu"
+      ],
+      [
+        "«Vou viajar.» = disse que ia viajar",
+        "dijo que iba a viajar",
+        "dísi ki ía viayár"
+      ],
+      [
+        "«Você vem?» = perguntou se eu ia",
+        "preguntó si yo iba",
+        "pergontóu si éu ía"
+      ],
+      [
+        "«Espere aqui.» = pediu que eu esperasse ali",
+        "pidió que esperara allí",
+        "pedyíu ki éu esperási alí"
+      ],
+      [
+        "hoje = naquele dia",
+        "hoy = aquel día",
+        "óyi = nakéli día"
+      ]
+    ],
+    "errores": [
+      "No dejes el verbo en presente después de «disse que»: «disse que está cansada» solo vale si sigue siendo verdad; lo normal es «disse que estava cansada».",
+      "No uses «se» en lugar de «que»: «disse que» (dijo que) para afirmar; «perguntou se» (preguntó si) para preguntar.",
+      "No olvides «naquele dia / no dia seguinte» en lugar de «hoje / amanhã» al reportar algo ya pasado."
+    ]
+  },
+  "practica": [
+    "Escribe 6 frases directas y pásalas a indirecto: «Ele disse: 'Vou viajar'» = «Ele disse que ia viajar» (8 minutos).",
+    "Cuenta en voz alta una conversación de ayer con 4 verbos de reporte diferentes (5 minutos).",
+    "Convierte 4 preguntas de un amigo a indirecto: «Perguntou se...» (6 minutos).",
+    "Lee un reportaje en portugués y subraya cada verbo de reporte (disse, afirmou, explicou) (7 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b2-u5-l1",
+      "n": 1,
+      "titulo": "Verbos para reportar",
+      "objetivo": "Elegir el verbo de reporte adecuado al tono de lo dicho.",
+      "intro": "«Disse» es neutro, pero hay verbos con más matiz. Truco: aprende un verbo para cada actitud: explicar, prometer, negar, avisar.",
+      "palabras": [
+        {
+          "t": "contou que",
+          "es": "contó que",
+          "pron": "kontóu ki",
+          "ej": "Ela contou que tinha mudado de emprego.",
+          "ejes": "Ella contó que había cambiado de empleo.",
+          "cog": false
+        },
+        {
+          "t": "explicou que",
+          "es": "explicó que",
+          "pron": "esplikóu ki",
+          "ej": "O professor explicou que a prova seria difícil.",
+          "ejes": "El profesor explicó que el examen sería difícil.",
+          "cog": false
+        },
+        {
+          "t": "afirmou que",
+          "es": "afirmó que",
+          "pron": "afirmóu ki",
+          "ej": "Ele afirmou que não sabia de nada.",
+          "ejes": "Él afirmó que no sabía nada.",
+          "cog": true
+        },
+        {
+          "t": "negou que",
+          "es": "negó que",
+          "pron": "negóu ki",
+          "ej": "Ela negou que tivesse mentido.",
+          "ejes": "Ella negó que hubiera mentido.",
+          "cog": true
+        },
+        {
+          "t": "prometeu que",
+          "es": "prometió que",
+          "pron": "prometéu ki",
+          "ej": "Ele prometeu que ia chegar cedo.",
+          "ejes": "Él prometió que iba a llegar temprano.",
+          "cog": false
+        },
+        {
+          "t": "garantiu que",
+          "es": "garantizó que",
+          "pron": "garantíu ki",
+          "ej": "O gerente garantiu que tudo ficaria pronto.",
+          "ejes": "El gerente garantizó que todo quedaría listo.",
+          "cog": false
+        },
+        {
+          "t": "avisou que",
+          "es": "avisó que",
+          "pron": "avizóu ki",
+          "ej": "Ela avisou que ia se atrasar.",
+          "ejes": "Ella avisó que se iba a atrasar.",
+          "cog": false
+        },
+        {
+          "t": "comentou que",
+          "es": "comentó que",
+          "pron": "komentóu ki",
+          "ej": "Ele comentou que o filme era longo.",
+          "ejes": "Él comentó que la película era larga.",
+          "cog": true
+        }
+      ],
+      "frases": [
+        {
+          "t": "Ela contou que estava muito feliz com o novo emprego.",
+          "es": "Ella contó que estaba muy feliz con el nuevo empleo.",
+          "pron": "éla kontóu ki estáva múitu felís kon u nóvu empréyu"
+        },
+        {
+          "t": "O médico explicou que o tratamento levaria um mês.",
+          "es": "El médico explicó que el tratamiento llevaría un mes.",
+          "pron": "u médiku esplikóu ki u tratamentu leváría ún més"
+        },
+        {
+          "t": "Ele prometeu que ligaria à noite.",
+          "es": "Él prometió que llamaría en la noche.",
+          "pron": "éli prometéu ki ligaría a nóiti"
+        },
+        {
+          "t": "A diretora negou que houvesse problemas.",
+          "es": "La directora negó que hubiera problemas.",
+          "pron": "a diretóra negóu ki ouvési problémas"
+        },
+        {
+          "t": "Ele avisou que ia chegar tarde.",
+          "es": "Él avisó que iba a llegar tarde.",
+          "pron": "éli avizóu ki ía shegár tárdyi"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Contando uma conversa",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "O que o chefe disse na reunião?",
+            "es": "¿Qué dijo el jefe en la reunión?"
+          },
+          {
+            "q": "B",
+            "t": "Ele explicou que a empresa estava em dificuldades.",
+            "es": "Explicó que la empresa estaba en dificultades."
+          },
+          {
+            "q": "A",
+            "t": "E ele garantiu que ninguém seria demitido?",
+            "es": "¿Y garantizó que nadie sería despedido?"
+          },
+          {
+            "q": "B",
+            "t": "Garantiu, sim. Prometeu que avisaria com antecedência.",
+            "es": "Sí, lo garantizó. Prometió que avisaría con antelación."
+          },
+          {
+            "q": "A",
+            "t": "Então, no fim, ele negou que houvesse cortes?",
+            "es": "Entonces, al final, ¿negó que hubiera recortes?"
+          }
+        ]
+      },
+      "nota": "«Disse que» es neutro; «explicou», «afirmou» y «garantiu» dan más información sobre cómo se dijo. En el periodismo verás mucho «afirmou» y «declarou»."
+    },
+    {
+      "id": "pt-b2-u5-l2",
+      "n": 2,
+      "titulo": "El cambio de tiempos y lugares",
+      "objetivo": "Cambiar tiempos verbales y expresiones de tiempo y lugar al reportar.",
+      "intro": "Al reportar algo pasado, el mundo «retrocede»: hoy ya no es hoy. Truco: hoje = naquele dia, amanhã = no dia seguinte, ontem = na véspera.",
+      "palabras": [
+        {
+          "t": "naquele dia",
+          "es": "ese día",
+          "pron": "nakéli día",
+          "ej": "Ela disse que naquele dia estava ocupada.",
+          "ejes": "Ella dijo que ese día estaba ocupada.",
+          "cog": false
+        },
+        {
+          "t": "no dia seguinte",
+          "es": "al día siguiente",
+          "pron": "nu día segíntyi",
+          "ej": "Ele me ligou no dia seguinte.",
+          "ejes": "Él me llamó al día siguiente.",
+          "cog": false
+        },
+        {
+          "t": "na véspera",
+          "es": "la víspera",
+          "pron": "na véspera",
+          "ej": "Ela disse que tinha chegado na véspera.",
+          "ejes": "Ella dijo que había llegado la víspera.",
+          "cog": false
+        },
+        {
+          "t": "naquele momento",
+          "es": "en ese momento",
+          "pron": "nakéli moméntu",
+          "ej": "Naquele momento, eu não sabia de nada.",
+          "ejes": "En ese momento, yo no sabía nada.",
+          "cog": false
+        },
+        {
+          "t": "ali",
+          "es": "allí",
+          "pron": "alí",
+          "ej": "Ele disse que ficaria ali até as cinco.",
+          "ejes": "Él dijo que se quedaría allí hasta las cinco.",
+          "cog": false
+        },
+        {
+          "t": "aquele",
+          "es": "aquel",
+          "pron": "akéli",
+          "ej": "Ele falou que aquele livro era ótimo.",
+          "ejes": "Él dijo que aquel libro era excelente.",
+          "cog": false
+        },
+        {
+          "t": "na semana anterior",
+          "es": "la semana anterior",
+          "pron": "na semána anteriór",
+          "ej": "Ela contou que tinha viajado na semana anterior.",
+          "ejes": "Ella contó que había viajado la semana anterior.",
+          "cog": false
+        },
+        {
+          "t": "dois dias depois",
+          "es": "dos días después",
+          "pron": "dóis días depóis",
+          "ej": "Dois dias depois, ele me respondeu.",
+          "ejes": "Dos días después, él me respondió.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Ela disse que estava cansada naquele dia.",
+          "es": "Ella dijo que estaba cansada ese día.",
+          "pron": "éla dísi ki estáva kansáda nakéli día"
+        },
+        {
+          "t": "Ele falou que ia viajar no dia seguinte.",
+          "es": "Él dijo que iba a viajar al día siguiente.",
+          "pron": "éli faló ki ía viayár nu día segíntyi"
+        },
+        {
+          "t": "Ela contou que tinha visto o filme na véspera.",
+          "es": "Ella contó que había visto la película la víspera.",
+          "pron": "éla kontóu ki tíña vístu u fílmi na véspera"
+        },
+        {
+          "t": "Ele disse que esperaria ali, na porta.",
+          "es": "Él dijo que esperaría allí, en la puerta.",
+          "pron": "éli dísi ki esperaría alí, na pórta"
+        },
+        {
+          "t": "Disseram que aquele restaurante tinha fechado.",
+          "es": "Dijeron que aquel restaurante había cerrado.",
+          "pron": "dísseram ki akéli restauránti tíña feshádu"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Fofocas do escritório",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "A Marina disse que ia viajar no dia seguinte.",
+            "es": "Marina dijo que iba a viajar al día siguiente."
+          },
+          {
+            "q": "B",
+            "t": "Verdade? Ela não tinha dito que voltaria só na semana anterior?",
+            "es": "¿En serio? ¿No había dicho que solo volvería la semana anterior?"
+          },
+          {
+            "q": "A",
+            "t": "Tinha, mas naquele momento ela não sabia da reunião.",
+            "es": "Sí, pero en ese momento no sabía de la reunión."
+          },
+          {
+            "q": "B",
+            "t": "Entendi. E o chefe, o que ele falou?",
+            "es": "Entendí. ¿Y el jefe, qué dijo?"
+          },
+          {
+            "q": "A",
+            "t": "Disse que ficaria ali esperando até as seis.",
+            "es": "Dijo que se quedaría allí esperando hasta las seis."
+          }
+        ]
+      },
+      "nota": "Si lo que cuentas sigue siendo verdad, puedes mantener el presente: «Ela disse que mora em Lima» (y sigue viviendo allí)."
+    },
+    {
+      "id": "pt-b2-u5-l3",
+      "n": 3,
+      "titulo": "Preguntas y órdenes en indirecto",
+      "objetivo": "Reportar preguntas y pedidos con «perguntou se», «pediu que».",
+      "intro": "Las preguntas indirectas no llevan signos de interrogación. Truco: «se» para sí/no, la misma palabra interrogativa para las demás; «que + subjuntivo» para pedidos.",
+      "palabras": [
+        {
+          "t": "perguntou se",
+          "es": "preguntó si",
+          "pron": "pergontóu si",
+          "ej": "Ele perguntou se eu queria café.",
+          "ejes": "Él preguntó si yo quería café.",
+          "cog": false
+        },
+        {
+          "t": "quis saber",
+          "es": "quiso saber",
+          "pron": "kis sabér",
+          "ej": "A professora quis saber onde eu morava.",
+          "ejes": "La profesora quiso saber dónde vivía.",
+          "cog": false
+        },
+        {
+          "t": "pediu que",
+          "es": "pidió que",
+          "pron": "pedyíu ki",
+          "ej": "Ela pediu que eu esperasse.",
+          "ejes": "Ella pidió que yo esperara.",
+          "cog": false
+        },
+        {
+          "t": "mandou que",
+          "es": "ordenó que",
+          "pron": "mandóu ki",
+          "ej": "O chefe mandou que todos saíssem.",
+          "ejes": "El jefe ordenó que todos salieran.",
+          "cog": false
+        },
+        {
+          "t": "aconselhou que",
+          "es": "aconsejó que",
+          "pron": "akonselhóu ki",
+          "ej": "Ela aconselhou que eu descansasse.",
+          "ejes": "Ella aconsejó que yo descansara.",
+          "cog": false
+        },
+        {
+          "t": "sugeriu que",
+          "es": "sugirió que",
+          "pron": "sugeríu ki",
+          "ej": "Ele sugeriu que fôssemos ao cinema.",
+          "ejes": "Él sugirió que fuéramos al cine.",
+          "cog": false
+        },
+        {
+          "t": "perguntou quando",
+          "es": "preguntó cuándo",
+          "pron": "pergontóu kuándu",
+          "ej": "Ela perguntou quando eu voltaria.",
+          "ejes": "Ella preguntó cuándo volvería.",
+          "cog": false
+        },
+        {
+          "t": "perguntou onde",
+          "es": "preguntó dónde",
+          "pron": "pergontóu óndyi",
+          "ej": "Ele perguntou onde ficava o banco.",
+          "ejes": "Él preguntó dónde quedaba el banco.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Ela perguntou se eu tinha entendido tudo.",
+          "es": "Ella preguntó si yo había entendido todo.",
+          "pron": "éla pergontóu si éu tíña entendídu túdu"
+        },
+        {
+          "t": "Ele quis saber quando a reunião ia começar.",
+          "es": "Él quiso saber cuándo iba a empezar la reunión.",
+          "pron": "éli kis sabér kuándu a reuniáun ía komesár"
+        },
+        {
+          "t": "A médica pediu que eu voltasse em uma semana.",
+          "es": "La médica pidió que volviera en una semana.",
+          "pron": "a médika pedyíu ki éu voltási ein úma semána"
+        },
+        {
+          "t": "Ele sugeriu que a gente deixasse para depois.",
+          "es": "Él sugirió que lo dejáramos para después.",
+          "pron": "éli sugeríu ki a yénti deishási pára depóis"
+        },
+        {
+          "t": "Ela perguntou onde eu tinha comprado aquele casaco.",
+          "es": "Ella preguntó dónde había comprado ese abrigo.",
+          "pron": "éla pergontóu óndyi éu tíña komprádu akéli kazáku"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Depois da consulta",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "O que a médica perguntou?",
+            "es": "¿Qué preguntó la médica?"
+          },
+          {
+            "q": "B",
+            "t": "Ela perguntou se eu tinha dormido bem e quis saber o que eu comia.",
+            "es": "Preguntó si había dormido bien y quiso saber qué comía."
+          },
+          {
+            "q": "A",
+            "t": "E ela pediu algum exame?",
+            "es": "¿Y pidió algún examen?"
+          },
+          {
+            "q": "B",
+            "t": "Pediu que eu fizesse um exame de sangue e voltasse na semana seguinte.",
+            "es": "Pidió que me hiciera un examen de sangre y volviera la semana siguiente."
+          },
+          {
+            "q": "A",
+            "t": "E aconselhou alguma coisa?",
+            "es": "¿Y aconsejó algo?"
+          },
+          {
+            "q": "B",
+            "t": "Aconselhou que eu descansasse mais.",
+            "es": "Aconsejó que descansara más."
+          }
+        ]
+      },
+      "nota": "El «que» de «pediu que» exige subjuntivo imperfeito cuando el verbo de pedir está en pasado: «pediu que eu esperasse»."
+    },
+    {
+      "id": "pt-b2-u5-l4",
+      "n": 4,
+      "titulo": "Citar fuentes y contar chismes",
+      "objetivo": "Atribuir información a otros con matices de certeza.",
+      "intro": "Cuando no estás seguro, atribuye la información. Truco: «segundo» y «de acordo com» te protegen de afirmar algo como si fuera tuyo.",
+      "palabras": [
+        {
+          "t": "segundo",
+          "es": "según",
+          "pron": "segúndu",
+          "ej": "Segundo o jornal, vai chover amanhã.",
+          "ejes": "Según el periódico, va a llover mañana.",
+          "cog": false
+        },
+        {
+          "t": "de acordo com",
+          "es": "de acuerdo con",
+          "pron": "dyi akórdu kon",
+          "ej": "De acordo com a empresa, o produto é seguro.",
+          "ejes": "De acuerdo con la empresa, el producto es seguro.",
+          "cog": false
+        },
+        {
+          "t": "ao que parece",
+          "es": "al parecer",
+          "pron": "au ki paréci",
+          "ej": "Ao que parece, ele já foi embora.",
+          "ejes": "Al parecer, él ya se fue.",
+          "cog": false
+        },
+        {
+          "t": "confirmou que",
+          "es": "confirmó que",
+          "pron": "konfirmóu ki",
+          "ej": "A empresa confirmou que haveria mudanças.",
+          "ejes": "La empresa confirmó que habría cambios.",
+          "cog": false
+        },
+        {
+          "t": "repetiu que",
+          "es": "repitió que",
+          "pron": "repetyíu ki",
+          "ej": "Ela repetiu que não queria ir.",
+          "ejes": "Ella repitió que no quería ir.",
+          "cog": false
+        },
+        {
+          "t": "reclamou que",
+          "es": "se quejó de que",
+          "pron": "reklamóu ki",
+          "ej": "Ele reclamou que o serviço era lento.",
+          "ejes": "Él se quejó de que el servicio era lento.",
+          "cog": false
+        },
+        {
+          "t": "segundo ele",
+          "es": "según él",
+          "pron": "segúndu éli",
+          "ej": "Segundo ele, tudo estava pronto.",
+          "ejes": "Según él, todo estaba listo.",
+          "cog": false
+        },
+        {
+          "t": "boato",
+          "es": "rumor",
+          "pron": "boátu",
+          "ej": "Isso é só um boato.",
+          "ejes": "Eso es solo un rumor.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Segundo a vizinha, o prédio será vendido.",
+          "es": "Según la vecina, el edificio será vendido.",
+          "pron": "segúndu a vizíña, u prédyiu será vendídu"
+        },
+        {
+          "t": "Ao que parece, ela já tinha pedido demissão.",
+          "es": "Al parecer, ella ya había renunciado.",
+          "pron": "au ki paréci, éla yá tíña pedídu dyimisáun"
+        },
+        {
+          "t": "De acordo com o relatório, as vendas caíram.",
+          "es": "De acuerdo con el informe, las ventas cayeron.",
+          "pron": "dyi akórdu kon u relatóriu, as véndas kaíram"
+        },
+        {
+          "t": "Ele reclamou que ninguém tinha avisado.",
+          "es": "Él se quejó de que nadie había avisado.",
+          "pron": "éli reklamóu ki ningéin tíña avizádu"
+        },
+        {
+          "t": "A empresa confirmou que haveria novas contratações.",
+          "es": "La empresa confirmó que habría nuevas contrataciones.",
+          "pron": "a empréza konfirmóu ki avería nóvas kontratasóis"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Rumores no escritório",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Você soube? Segundo o Paulo, a empresa vai demitir gente.",
+            "es": "¿Supiste? Según Paulo, la empresa va a despedir gente."
+          },
+          {
+            "q": "B",
+            "t": "Ouvi isso também, mas ao que parece é só um boato.",
+            "es": "Oí eso también, pero al parecer es solo un rumor."
+          },
+          {
+            "q": "A",
+            "t": "O RH confirmou que haveria uma reunião na sexta.",
+            "es": "Recursos Humanos confirmó que habría una reunión el viernes."
+          },
+          {
+            "q": "B",
+            "t": "Então vamos esperar. De acordo com o chefe, nada está decidido.",
+            "es": "Entonces esperemos. De acuerdo con el jefe, nada está decidido."
+          },
+          {
+            "q": "A",
+            "t": "Tomara. A Carla reclamou que ninguém explica nada aqui.",
+            "es": "Ojalá. Carla se quejó de que nadie explica nada aquí."
+          }
+        ]
+      },
+      "nota": "«Boato» y «fofoca» son rumores; «fofoca» es más personal y chismoso, mientras que «boato» suena más general."
+    },
+    {
+      "id": "pt-b2-u5-l5",
+      "n": 5,
+      "titulo": "Repaso: contar una conversación completa",
+      "objetivo": "Reportar un diálogo entero con cambios de tiempo, verbos de reporte y conectores.",
+      "intro": "Cierra la unidad contando una conversación entera. Truco: abre con «Ela me disse que...» y encadena con «depois perguntou se...» y «por fim pediu que...».",
+      "palabras": [
+        {
+          "t": "ela me disse que",
+          "es": "ella me dijo que",
+          "pron": "éla mi dísi ki",
+          "ej": "Ela me disse que estava de saída.",
+          "ejes": "Ella me dijo que estaba de salida.",
+          "cog": false
+        },
+        {
+          "t": "depois perguntou",
+          "es": "después preguntó",
+          "pron": "depóis pergontóu",
+          "ej": "Depois perguntou se eu tinha tempo.",
+          "ejes": "Después preguntó si tenía tiempo.",
+          "cog": false
+        },
+        {
+          "t": "por fim pediu",
+          "es": "por último pidió",
+          "pron": "por fím pedyíu",
+          "ej": "Por fim pediu que eu ligasse.",
+          "ejes": "Por último pidió que yo llamara.",
+          "cog": false
+        },
+        {
+          "t": "em resumo",
+          "es": "en resumen",
+          "pron": "ein rezúmu",
+          "ej": "Em resumo, ele não queria vir.",
+          "ejes": "En resumen, él no quería venir.",
+          "cog": false
+        },
+        {
+          "t": "acabou dizendo",
+          "es": "terminó diciendo",
+          "pron": "akabóu dyizéndu",
+          "ej": "Ele acabou dizendo que sim.",
+          "ejes": "Él terminó diciendo que sí.",
+          "cog": false
+        },
+        {
+          "t": "deixou claro",
+          "es": "dejó claro",
+          "pron": "deishóu kláru",
+          "ej": "Ela deixou claro que não aceitaria.",
+          "ejes": "Ella dejó claro que no aceptaría.",
+          "cog": false
+        },
+        {
+          "t": "fez questão de",
+          "es": "insistió en",
+          "pron": "féz kestáun dyi",
+          "ej": "Ele fez questão de pagar a conta.",
+          "ejes": "Él insistió en pagar la cuenta.",
+          "cog": false
+        },
+        {
+          "t": "em seguida",
+          "es": "enseguida",
+          "pron": "ein seguída",
+          "ej": "Em seguida, ela mudou de assunto.",
+          "ejes": "Enseguida, ella cambió de tema.",
+          "cog": false
+        }
+      ],
+      "frases": [
+        {
+          "t": "Ela me disse que estava de saída e perguntou se eu tinha tempo.",
+          "es": "Ella me dijo que estaba de salida y preguntó si yo tenía tiempo.",
+          "pron": "éla mi dísi ki estáva dyi saída i pergontóu si éu tíña témpu"
+        },
+        {
+          "t": "Ele deixou claro que não aceitaria a proposta.",
+          "es": "Él dejó claro que no aceptaría la propuesta.",
+          "pron": "éli deishóu kláru ki náun aseitaría a propósta"
+        },
+        {
+          "t": "Em resumo, ela pediu que eu ligasse no dia seguinte.",
+          "es": "En resumen, ella pidió que yo llamara al día siguiente.",
+          "pron": "ein rezúmu, éla pedyíu ki éu ligási nu día segíntyi"
+        },
+        {
+          "t": "Ele fez questão de dizer que não tinha culpa.",
+          "es": "Él insistió en decir que no tenía la culpa.",
+          "pron": "éli féz kestáun dyi dyizér ki náun tíña kúlpa"
+        },
+        {
+          "t": "Por fim, ele acabou dizendo que sim.",
+          "es": "Por último, él terminó diciendo que sí.",
+          "pron": "por fím, éli akabóu dyizéndu ki sim"
+        }
+      ],
+      "dialogo": {
+        "titulo": "Contando a conversa com o chefe",
+        "lineas": [
+          {
+            "q": "A",
+            "t": "Como foi a conversa com o chefe?",
+            "es": "¿Cómo fue la conversa con el jefe?"
+          },
+          {
+            "q": "B",
+            "t": "Ele me disse que estava satisfeito e perguntou se eu queria mais responsabilidades.",
+            "es": "Me dijo que estaba satisfecho y preguntó si quería más responsabilidades."
+          },
+          {
+            "q": "A",
+            "t": "E você respondeu o quê?",
+            "es": "¿Y tú qué respondiste?"
+          },
+          {
+            "q": "B",
+            "t": "Disse que sim, mas pedi que me desse uns dias para pensar.",
+            "es": "Dije que sí, pero pedí que me diera unos días para pensar."
+          },
+          {
+            "q": "A",
+            "t": "E ele aceitou?",
+            "es": "¿Y aceptó?"
+          },
+          {
+            "q": "B",
+            "t": "Aceitou, mas deixou claro que precisava da resposta na semana seguinte.",
+            "es": "Aceptó, pero dejó claro que necesitaba la respuesta la semana siguiente."
+          }
+        ]
+      },
+      "nota": "Para contar anécdotas, alterna «disse que», «contou que», «perguntou se» y «pediu que». Así evitas repetir siempre «disse»."
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "id": "it-b2-u15",
+  "idioma": "it",
+  "nivel": "B2",
+  "n": 15,
+  "titulo": "Conectores y cohesión",
+  "resumen": "Aprenderás los conectores que unen ideas en textos y conversaciones: añadir, concluir, contrastar, conceder y ordenar un discurso.",
+  "puedo": [
+    "Añadir información con «inoltre» e «in più».",
+    "Expresar consecuencia con «quindi», «perciò» y «di conseguenza».",
+    "Contrastar ideas con «tuttavia», «invece» y «mentre».",
+    "Conceder con «sebbene», «benché» y «nonostante».",
+    "Organizar un texto con «innanzitutto», «infine» e «in conclusione»."
+  ],
+  "gramatica": {
+    "titulo": "Conectores y el modo que piden",
+    "texto": "Los conectores unen frases y hacen que un texto se lea con fluidez. Algunos piden indicativo y otros congiuntivo.\nCon indicativo: quindi, perciò, tuttavia, inoltre, mentre, infatti. Ej.: Sono stanco, quindi vado a letto.\nCon congiuntivo: sebbene, benché, nonostante (+ nombre o che + congiuntivo), a meno che. Ej.: Sebbene sia stanco, esco.\n«Anche se» (aunque) puede ir con indicativo: Anche se piove, esco.\nTruco: los conectores que expresan oposición fuerte (sebbene, benché) casi siempre usan congiuntivo; los que suman o concluyen (inoltre, quindi) usan indicativo.",
+    "tabla": [
+      ["inoltre", "además", "inoltre"],
+      ["quindi / perciò", "por lo tanto", "cuíndi / perchió"],
+      ["tuttavia", "sin embargo", "tuttavía"],
+      ["mentre", "mientras que", "méntre"],
+      ["sebbene + congiuntivo", "aunque + subjuntivo", "sebbéne"],
+      ["in conclusione", "en conclusión", "in conclusióne"]
+    ],
+    "errores": [
+      "«Sebbene» pide congiuntivo: «Sebbene sia tardi», no «Sebbene è tardi».",
+      "«Mentre» significa «mientras que» (contraste) o «mientras» (tiempo); no confundas con «tuttavia».",
+      "«Infatti» no significa «en fin»: quiere decir «de hecho, en efecto»."
+    ]
+  },
+  "practica": [
+    "Escribe un párrafo de seis líneas sobre tu ciudad usando «innanzitutto», «inoltre» e «infine» (10 minutos).",
+    "Une cinco pares de frases con «quindi», «tuttavia» y «mentre» (6 minutos).",
+    "Escribe cinco frases con «sebbene» + congiuntivo sobre tu vida (6 minutos).",
+    "Lee un artículo corto en italiano y subraya todos los conectores que encuentres (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b2-u15-l1",
+      "n": 1,
+      "titulo": "Añadir y concluir",
+      "objetivo": "Sumar información y expresar consecuencias.",
+      "intro": "Con «inoltre» sumas una idea; con «quindi» y «perciò» sacas una consecuencia. Truco: «quindi» es el más usado en la conversación; «pertanto» es más formal.",
+      "palabras": [
+        { "t": "inoltre", "es": "además", "pron": "inóltre", "ej": "È bravo; inoltre è molto gentile.", "ejes": "Es hábil; además es muy amable.", "cog": false },
+        { "t": "in più", "es": "además, de más", "pron": "in piú", "ej": "Ci sono due ospiti in più.", "ejes": "Hay dos invitados de más.", "cog": false },
+        { "t": "quindi", "es": "por lo tanto, así que", "pron": "cuíndi", "ej": "Sono stanco, quindi vado a letto.", "ejes": "Estoy cansado, así que me voy a dormir.", "cog": false },
+        { "t": "perciò", "es": "por eso", "pron": "perchió", "ej": "Piove, perciò prendo l'ombrello.", "ejes": "Llueve, por eso llevo el paraguas.", "cog": false },
+        { "t": "dunque", "es": "pues, entonces", "pron": "dúnque", "ej": "Dunque, che cosa facciamo?", "ejes": "Entonces, ¿qué hacemos?", "cog": false },
+        { "t": "di conseguenza", "es": "en consecuencia", "pron": "di consegüénsa", "ej": "I costi aumentano e di conseguenza i prezzi salgono.", "ejes": "Los costos aumentan y en consecuencia los precios suben.", "cog": false },
+        { "t": "pertanto", "es": "por lo tanto (formal)", "pron": "pertánto", "ej": "Pertanto, non possiamo accettare.", "ejes": "Por lo tanto, no podemos aceptar.", "cog": false },
+        { "t": "infatti", "es": "de hecho, en efecto", "pron": "infátti", "ej": "È vero; infatti l'ho visto io.", "ejes": "Es verdad; de hecho lo vi yo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "È bravo e, inoltre, è molto gentile.", "es": "Es hábil y, además, muy amable.", "pron": "e brávo e inóltre e mólto yentíle" },
+        { "t": "Sono stanco, quindi vado a letto.", "es": "Estoy cansado, así que me voy a dormir.", "pron": "sóno stánco cuíndi vádo a létto" },
+        { "t": "Piove, perciò prendo l'ombrello.", "es": "Llueve, por eso llevo el paraguas.", "pron": "piove perchió préndo lombrélo" },
+        { "t": "I costi aumentano, di conseguenza i prezzi salgono.", "es": "Los costos aumentan, en consecuencia los precios suben.", "pron": "i cósti aumentáno di consegüénsa i prétsi sálgono" },
+        { "t": "È vero; infatti l'ho visto io.", "es": "Es verdad; de hecho lo vi yo.", "pron": "e véro infátti lo vísto ío" }
+      ],
+      "dialogo": {
+        "titulo": "Una decisione",
+        "lineas": [
+          { "q": "A", "t": "Il treno è in ritardo, quindi arriviamo tardi.", "es": "El tren va con retraso, así que llegamos tarde." },
+          { "q": "B", "t": "Inoltre piove, perciò prendiamo un taxi.", "es": "Además llueve, por eso tomemos un taxi." },
+          { "q": "A", "t": "Dunque ci vediamo direttamente al ristorante?", "es": "¿Entonces nos vemos directamente en el restaurante?" },
+          { "q": "B", "t": "Sì, infatti è vicino alla stazione.", "es": "Sí, de hecho está cerca de la estación." },
+          { "q": "A", "t": "Perfetto, a dopo.", "es": "Perfecto, hasta luego." }
+        ]
+      },
+      "nota": "«Quindi» y «dunque» pueden ir al inicio de la frase: «Quindi, che cosa facciamo?». «Pertanto» y «di conseguenza» se prefieren en textos escritos."
+    },
+    {
+      "id": "it-b2-u15-l2",
+      "n": 2,
+      "titulo": "Contrastar ideas",
+      "objetivo": "Contraponer ideas con «tuttavia», «invece», «mentre» y «anzi».",
+      "intro": "Contrastar es decir lo contrario o matizar. Truco: «tuttavia» y «però» introducen una objeción; «mentre» contrapone dos hechos paralelos.",
+      "palabras": [
+        { "t": "tuttavia", "es": "sin embargo", "pron": "tuttavía", "ej": "È caro; tuttavia lo compro.", "ejes": "Es caro; sin embargo lo compro.", "cog": false },
+        { "t": "però", "es": "pero", "pron": "peró", "ej": "Mi piace, però è troppo caro.", "ejes": "Me gusta, pero es demasiado caro.", "cog": false },
+        { "t": "invece", "es": "en cambio", "pron": "invéche", "ej": "Io lavoro; lui invece dorme.", "ejes": "Yo trabajo; él en cambio duerme.", "cog": false },
+        { "t": "mentre", "es": "mientras que", "pron": "méntre", "ej": "Lei studia, mentre lui gioca.", "ejes": "Ella estudia, mientras que él juega.", "cog": false },
+        { "t": "anzi", "es": "más bien, al contrario", "pron": "ántsi", "ej": "Non è difficile, anzi è facile.", "ejes": "No es difícil, al contrario es fácil.", "cog": false },
+        { "t": "eppure", "es": "y sin embargo", "pron": "eppúre", "ej": "Ho studiato, eppure ho sbagliato.", "ejes": "Estudié, y sin embargo me equivoqué.", "cog": false },
+        { "t": "comunque", "es": "de todos modos", "pron": "comúnque", "ej": "Comunque vada, ti chiamo.", "ejes": "De todos modos, te llamo.", "cog": false },
+        { "t": "al contrario", "es": "al contrario", "pron": "al contrário", "ej": "Al contrario, è molto semplice.", "ejes": "Al contrario, es muy sencillo.", "cog": true }
+      ],
+      "frases": [
+        { "t": "È caro; tuttavia lo compro.", "es": "Es caro; sin embargo lo compro.", "pron": "e cáro tuttavía lo cómpro" },
+        { "t": "Io lavoro, lui invece dorme.", "es": "Yo trabajo, él en cambio duerme.", "pron": "ío lavóro lúi invéche dórme" },
+        { "t": "Lei studia, mentre lui gioca.", "es": "Ella estudia, mientras que él juega.", "pron": "léi stúdia méntre lúi yóca" },
+        { "t": "Non è difficile, anzi è facile.", "es": "No es difícil, al contrario es fácil.", "pron": "non e diffíchile ántsi e fáchile" },
+        { "t": "Ho studiato, eppure ho sbagliato.", "es": "Estudié, y sin embargo me equivoqué.", "pron": "o studiáto eppúre o sbaliáto" }
+      ],
+      "dialogo": {
+        "titulo": "Due opinioni",
+        "lineas": [
+          { "q": "A", "t": "Questo lavoro è difficile.", "es": "Este trabajo es difícil." },
+          { "q": "B", "t": "Non è difficile, anzi è molto interessante.", "es": "No es difícil, al contrario es muy interesante." },
+          { "q": "A", "t": "Tuttavia ho poco tempo, mentre tu ne hai tanto.", "es": "Sin embargo tengo poco tiempo, mientras que tú tienes mucho." },
+          { "q": "B", "t": "Io invece sono sempre impegnato.", "es": "Yo en cambio siempre estoy ocupado." },
+          { "q": "A", "t": "Comunque, grazie per il consiglio.", "es": "De todos modos, gracias por el consejo." }
+        ]
+      },
+      "nota": "«Anzi» sirve para corregir o reforzar: «Non mi disturbi, anzi mi fa piacere» (No me molestas, al contrario me da gusto)."
+    },
+    {
+      "id": "it-b2-u15-l3",
+      "n": 3,
+      "titulo": "Conceder: sebbene y nonostante",
+      "objetivo": "Reconocer una dificultad y seguir adelante con «sebbene», «benché» y «nonostante».",
+      "intro": "Los conectores concesivos dicen «a pesar de que». Truco: «sebbene» y «benché» llevan congiuntivo; «nonostante» puede ir con nombre.",
+      "palabras": [
+        { "t": "sebbene", "es": "aunque, a pesar de que", "pron": "sebbéne", "ej": "Sebbene sia stanco, esco.", "ejes": "Aunque estoy cansado, salgo.", "cog": false },
+        { "t": "benché", "es": "aunque, a pesar de que", "pron": "benké", "ej": "Benché faccia freddo, usciamo.", "ejes": "Aunque hace frío, salimos.", "cog": false },
+        { "t": "nonostante", "es": "a pesar de", "pron": "nonostánte", "ej": "Nonostante la pioggia, siamo usciti.", "ejes": "A pesar de la lluvia, salimos.", "cog": false },
+        { "t": "anche se", "es": "aunque, incluso si", "pron": "ánke se", "ej": "Anche se piove, esco.", "ejes": "Aunque llueva, salgo.", "cog": false },
+        { "t": "malgrado", "es": "a pesar de", "pron": "malgrádo", "ej": "Malgrado la fatica, ce l'abbiamo fatta.", "ejes": "A pesar del esfuerzo, lo logramos.", "cog": false },
+        { "t": "per quanto", "es": "por más que", "pron": "per cuánto", "ej": "Per quanto mi sforzi, non capisco.", "ejes": "Por más que me esfuerce, no entiendo.", "cog": false },
+        { "t": "a meno che", "es": "a menos que", "pron": "a méno ke", "ej": "Vengo, a meno che non piova.", "ejes": "Voy, a menos que llueva.", "cog": false },
+        { "t": "pur", "es": "aun, aunque", "pron": "pur", "ej": "Pur essendo stanco, ha continuato.", "ejes": "Aun estando cansado, continuó.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Sebbene sia stanco, esco con voi.", "es": "Aunque estoy cansado, salgo con ustedes.", "pron": "sebbéne sía stánco ésco con vói" },
+        { "t": "Benché faccia freddo, andiamo al mare.", "es": "Aunque hace frío, vamos al mar.", "pron": "benké fáccia fréddo andiámo al máre" },
+        { "t": "Nonostante la pioggia, siamo usciti.", "es": "A pesar de la lluvia, salimos.", "pron": "nonostánte la piódya siámo ushíti" },
+        { "t": "Anche se piove, esco.", "es": "Aunque llueva, salgo.", "pron": "ánke se piove ésco" },
+        { "t": "Vengo, a meno che non piova.", "es": "Voy, a menos que llueva.", "pron": "véngo a méno ke non piova" }
+      ],
+      "dialogo": {
+        "titulo": "Una gita",
+        "lineas": [
+          { "q": "A", "t": "Sebbene faccia freddo, io vado in montagna.", "es": "Aunque hace frío, yo voy a la montaña." },
+          { "q": "B", "t": "Nonostante la pioggia?", "es": "¿A pesar de la lluvia?" },
+          { "q": "A", "t": "Sì, anche se piove, mi piace camminare.", "es": "Sí, aunque llueva, me gusta caminar." },
+          { "q": "B", "t": "Vengo anch'io, a meno che non nevichi.", "es": "Voy yo también, a menos que nieve." },
+          { "q": "A", "t": "Perfetto, partiamo alle otto.", "es": "Perfecto, partimos a las ocho." }
+        ]
+      },
+      "nota": "«Anche se» se usa con indicativo cuando es un hecho real («Anche se piove, esco») y con congiuntivo imperfetto para algo hipotético («Anche se piovesse, uscirei»)."
+    },
+    {
+      "id": "it-b2-u15-l4",
+      "n": 4,
+      "titulo": "Organizar un texto",
+      "objetivo": "Ordenar un texto con conectores de secuencia, ejemplo y resumen.",
+      "intro": "Un texto claro tiene principio, desarrollo y final. Truco: «innanzitutto, poi, infine» te dan un esquema fácil de aplicar.",
+      "palabras": [
+        { "t": "innanzitutto", "es": "ante todo, primero", "pron": "innantsituto", "ej": "Innanzitutto, grazie per essere venuti.", "ejes": "Ante todo, gracias por haber venido.", "cog": false },
+        { "t": "in primo luogo", "es": "en primer lugar", "pron": "in prímo luógo", "ej": "In primo luogo, vediamo i costi.", "ejes": "En primer lugar, veamos los costos.", "cog": false },
+        { "t": "poi", "es": "luego, después", "pron": "poi", "ej": "Poi andiamo al cinema.", "ejes": "Luego vamos al cine.", "cog": false },
+        { "t": "infine", "es": "por último", "pron": "infíne", "ej": "Infine, ringrazio tutti.", "ejes": "Por último, agradezco a todos.", "cog": false },
+        { "t": "ad esempio", "es": "por ejemplo", "pron": "ad esémpio", "ej": "Ad esempio, il caffè è molto popolare.", "ejes": "Por ejemplo, el café es muy popular.", "cog": false },
+        { "t": "cioè", "es": "es decir", "pron": "chioé", "ej": "Domani, cioè martedì, parto.", "ejes": "Mañana, es decir martes, parto.", "cog": false },
+        { "t": "in sintesi", "es": "en síntesis", "pron": "in síntesi", "ej": "In sintesi, il progetto funziona.", "ejes": "En síntesis, el proyecto funciona.", "cog": true },
+        { "t": "in conclusione", "es": "en conclusión", "pron": "in conclusióne", "ej": "In conclusione, accettiamo la proposta.", "ejes": "En conclusión, aceptamos la propuesta.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Innanzitutto, grazie per essere venuti.", "es": "Ante todo, gracias por haber venido.", "pron": "innantsitúto gratsie per ésere venúti" },
+        { "t": "Ad esempio, il caffè è molto popolare.", "es": "Por ejemplo, el café es muy popular.", "pron": "ad esémpio il caffé e mólto popoláre" },
+        { "t": "Domani, cioè martedì, parto.", "es": "Mañana, es decir martes, parto.", "pron": "dománi chioé martedí párto" },
+        { "t": "In sintesi, il progetto funziona.", "es": "En síntesis, el proyecto funciona.", "pron": "in síntesi il progétto funtsióna" },
+        { "t": "In conclusione, accettiamo la proposta.", "es": "En conclusión, aceptamos la propuesta.", "pron": "in conclusióne acchettiámo la propósta" }
+      ],
+      "dialogo": {
+        "titulo": "Un piccolo discorso",
+        "lineas": [
+          { "q": "A", "t": "Come comincio il discorso?", "es": "¿Cómo empiezo el discurso?" },
+          { "q": "B", "t": "Innanzitutto ringrazia gli ospiti.", "es": "Ante todo, agradece a los invitados." },
+          { "q": "A", "t": "Poi parlo del progetto, ad esempio dei costi.", "es": "Luego hablo del proyecto, por ejemplo de los costos." },
+          { "q": "B", "t": "E infine concludi con una sintesi.", "es": "Y por último concluyes con una síntesis." },
+          { "q": "A", "t": "Perfetto, in sintesi, grazie a tutti.", "es": "Perfecto, en síntesis, gracias a todos." }
+        ]
+      },
+      "nota": "«Cioè» introduce una aclaración: «Vado in Veneto, cioè a Venezia». En el habla oral también es muletilla: «cioè... non so»."
+    },
+    {
+      "id": "it-b2-u15-l5",
+      "n": 5,
+      "titulo": "Repaso: un texto cohesionado",
+      "objetivo": "Usar conectores de suma, contraste, concesión y orden en un mismo texto.",
+      "intro": "Repasa todos los conectores en un texto corto. Truco: escribe tres frases simples y únelas con «inoltre», «tuttavia» e «infine».",
+      "palabras": [
+        { "t": "inoltre", "es": "además", "pron": "inóltre", "ej": "Inoltre il prezzo è basso.", "ejes": "Además el precio es bajo.", "cog": false },
+        { "t": "tuttavia", "es": "sin embargo", "pron": "tuttavía", "ej": "È buono; tuttavia è caro.", "ejes": "Es bueno; sin embargo es caro.", "cog": false },
+        { "t": "quindi", "es": "por lo tanto", "pron": "cuíndi", "ej": "Quindi andiamo al mare.", "ejes": "Así que vamos al mar.", "cog": false },
+        { "t": "mentre", "es": "mientras que", "pron": "méntre", "ej": "Io leggo, mentre lei cucina.", "ejes": "Yo leo, mientras que ella cocina.", "cog": false },
+        { "t": "sebbene", "es": "aunque", "pron": "sebbéne", "ej": "Sebbene piova, usciamo.", "ejes": "Aunque llueva, salimos.", "cog": false },
+        { "t": "infatti", "es": "de hecho", "pron": "infátti", "ej": "Infatti l'ho già visto.", "ejes": "De hecho ya lo vi.", "cog": false },
+        { "t": "infine", "es": "por último", "pron": "infíne", "ej": "Infine, grazie a tutti.", "ejes": "Por último, gracias a todos.", "cog": false },
+        { "t": "ad esempio", "es": "por ejemplo", "pron": "ad esémpio", "ej": "Ad esempio, Roma è bellissima.", "ejes": "Por ejemplo, Roma es bellísima.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il museo è bello; inoltre è gratuito.", "es": "El museo es bonito; además es gratuito.", "pron": "il muséo e béllo inóltre e gratuíto" },
+        { "t": "È buono; tuttavia è molto caro.", "es": "Es bueno; sin embargo es muy caro.", "pron": "e buóno tuttavía e mólto cáro" },
+        { "t": "Io leggo, mentre lei cucina.", "es": "Yo leo, mientras que ella cocina.", "pron": "ío lédyo méntre léi cuchína" },
+        { "t": "Sebbene piova, usciamo comunque.", "es": "Aunque llueva, salimos de todos modos.", "pron": "sebbéne piova usciámo comúnque" },
+        { "t": "Infine, grazie a tutti per l'ascolto.", "es": "Por último, gracias a todos por escuchar.", "pron": "infíne grátsie a túti per lascólto" }
+      ],
+      "dialogo": {
+        "titulo": "Scegliere una vacanza",
+        "lineas": [
+          { "q": "A", "t": "Roma è bellissima; inoltre ci sono molti musei.", "es": "Roma es bellísima; además hay muchos museos." },
+          { "q": "B", "t": "È vero, tuttavia è molto cara.", "es": "Es verdad, sin embargo es muy cara." },
+          { "q": "A", "t": "Sebbene sia cara, vale la pena.", "es": "Aunque es cara, vale la pena." },
+          { "q": "B", "t": "Io preferisco il mare, mentre tu ami la città.", "es": "Yo prefiero el mar, mientras que tú amas la ciudad." },
+          { "q": "A", "t": "Allora, quindi, scegliamo un posto con entrambi.", "es": "Entonces, por lo tanto, elijamos un lugar con ambos." }
+        ]
+      },
+      "nota": "No uses demasiados conectores seguidos: uno por idea basta. En la conversación, «poi» y «quindi» bastan; los más formales se reservan para escribir."
+    }
+  ]
+}

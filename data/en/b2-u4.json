@@ -1,0 +1,221 @@
+{
+  "id": "en-b2-u4",
+  "idioma": "en",
+  "nivel": "B2",
+  "n": 4,
+  "titulo": "Pasiva avanzada y hacer que otro haga",
+  "resumen": "Aprenderás a decir que alguien hace algo por ti (have / get something done), la pasiva con modales y las pasivas de reporte como It is said that o He is believed to be.",
+  "puedo": [
+    "Usar have / get something done para servicios que otros hacen por mí.",
+    "Formar la pasiva con modales: must be done, should have been done.",
+    "Usar pasivas de reporte: It is said that... / He is said to be...",
+    "Pedir que alguien haga algo con have someone do / get someone to do.",
+    "Hablar de servicios, reparaciones y noticias con lenguaje formal."
+  ],
+  "gramatica": {
+    "titulo": "Have / get something done: otro lo hace por ti",
+    "texto": "Cuando otra persona hace algo POR ti (un servicio), usamos have o get + objeto + participio: I had my hair cut (me corté el pelo, o sea: me lo cortaron). I'm getting my car repaired.\nEstructura: have / get + cosa + participio. Get es más informal.\nTambién se usa para cosas malas que nos pasan sin querer: He had his wallet stolen.\nPasiva avanzada: con modales, modal + be + participio (The report must be finished today) y modal + have been + participio (It should have been done). Pasivas de reporte: It is said that he is rich / He is said to be rich.\nTruco: si dices I cut my hair, lo hiciste tú; si dices I had my hair cut, lo hizo otro.",
+    "tabla": [
+      ["I had my hair cut.", "Me corté el pelo (me lo cortaron).", "ai jad mai jer cat"],
+      ["She's getting her car repaired.", "Le están arreglando el auto.", "shis guétin jer car ripérd"],
+      ["He had his phone stolen.", "Le robaron el celular.", "ji jad jis foun stóulen"],
+      ["The work must be finished today.", "El trabajo debe terminarse hoy.", "da uerk mast bi fínisht tudéi"],
+      ["It should have been done earlier.", "Debió haberse hecho antes.", "it shud jav bin dan érlier"],
+      ["He is said to be very rich.", "Se dice que es muy rico.", "ji is sed tu bi véri rich"]
+    ],
+    "errores": [
+      "No uses el verbo base después del objeto: es I had my car washed, no «I had my car wash».",
+      "No digas «I cut my hair» si fuiste a la peluquería: es I had my hair cut.",
+      "No olvides be en la pasiva con modales: es It must be done, no «It must done»."
+    ]
+  },
+  "practica": [
+    "Haz una lista de 6 servicios que contrataste este año con I had... / I got... done (8 minutos).",
+    "Escribe 6 frases con pasiva con modales sobre las reglas de tu trabajo: Reports must be... (10 minutos).",
+    "Lee un titular de noticias en inglés y reescríbelo con It is said that / is believed to (10 minutos).",
+    "Graba un audio de 1 minuto explicando qué reparaciones necesita tu casa y cuándo las harás hacer (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b2-u4-l1",
+      "n": 1,
+      "titulo": "Have something done",
+      "objetivo": "Decir que otra persona hace un servicio por ti con have + objeto + participio.",
+      "intro": "I had my hair cut = alguien me lo cortó. La estructura es have + cosa + participio. Truco: no importa quién lo hizo, importa que tú lo ordenaste o lo recibiste.",
+      "palabras": [
+        { "t": "haircut", "es": "corte de pelo", "pron": "jérkat", "ej": "I need a haircut before the wedding.", "ejes": "Necesito un corte de pelo antes de la boda.", "cog": false },
+        { "t": "dry cleaner", "es": "tintorería", "pron": "drai clíner", "ej": "I took my suit to the dry cleaner.", "ejes": "Llevé mi terno a la tintorería.", "cog": false },
+        { "t": "mechanic", "es": "mecánico", "pron": "mecánic", "ej": "The mechanic will check the brakes.", "ejes": "El mecánico revisará los frenos.", "cog": true },
+        { "t": "plumber", "es": "gasfitero, plomero", "pron": "plámer", "ej": "We called a plumber to fix the leak.", "ejes": "Llamamos a un gasfitero para arreglar la fuga.", "cog": false },
+        { "t": "tailor", "es": "sastre", "pron": "téilor", "ej": "The tailor shortened my trousers.", "ejes": "El sastre acortó mi pantalón.", "cog": false },
+        { "t": "service", "es": "servicio, mantenimiento", "pron": "sérvis", "ej": "My car needs a service every six months.", "ejes": "Mi auto necesita un mantenimiento cada seis meses.", "cog": true },
+        { "t": "get done", "es": "hacer que se haga", "pron": "guet dan", "ej": "I want to get done everything before Friday.", "ejes": "Quiero dejar todo hecho antes del viernes.", "cog": false },
+        { "t": "estimate", "es": "presupuesto, estimación", "pron": "éstimeit", "ej": "Can I get an estimate for the repair?", "ejes": "¿Me puede dar un presupuesto para la reparación?", "cog": true }
+      ],
+      "frases": [
+        { "t": "I had my hair cut yesterday.", "es": "Ayer me corté el pelo (en la peluquería).", "pron": "ai jad mai jer cat iésterdei" },
+        { "t": "We are having the kitchen painted next week.", "es": "Vamos a mandar pintar la cocina la próxima semana.", "pron": "ui ar jávin da kítchen péintid nekst uik" },
+        { "t": "She had her suit cleaned at the dry cleaner.", "es": "Ella mandó limpiar su terno en la tintorería.", "pron": "shi jad jer sut clind at da drai clíner" },
+        { "t": "Where do you get your car serviced?", "es": "¿Dónde le haces el mantenimiento a tu auto?", "pron": "juer du iu guet ior car sérvist" },
+        { "t": "Have you had the brakes checked yet?", "es": "¿Ya te revisaron los frenos?", "pron": "jav iu jad da breiks chect iet" }
+      ],
+      "dialogo": {
+        "titulo": "Antes del viaje",
+        "lineas": [
+          { "q": "A", "t": "Have you had the car serviced before the trip?", "es": "¿Ya le hiciste el mantenimiento al auto antes del viaje?" },
+          { "q": "B", "t": "Yes, I took it to the mechanic yesterday. He's having the brakes checked today.", "es": "Sí, lo llevé al mecánico ayer. Hoy le revisan los frenos." },
+          { "q": "A", "t": "Good. Did you get an estimate first?", "es": "Bien. ¿Pediste un presupuesto antes?" },
+          { "q": "B", "t": "Of course. And I'm having a few things fixed at home too, like the leak.", "es": "Claro. Y también voy a mandar arreglar algunas cosas en casa, como la fuga." },
+          { "q": "A", "t": "I need to get my suit altered by the tailor before the wedding.", "es": "Yo tengo que hacer arreglar mi terno donde el sastre antes de la boda." },
+          { "q": "B", "t": "Make sure you get it done this week. They're always busy.", "es": "Asegúrate de hacerlo esta semana. Siempre están ocupados." }
+        ]
+      },
+      "nota": "Have y get son casi iguales; get es más informal y común en conversación: I got my phone fixed."
+    },
+    {
+      "id": "en-b2-u4-l2",
+      "n": 2,
+      "titulo": "Pasiva con modales",
+      "objetivo": "Usar must be, can be, should have been y otros modales en la pasiva.",
+      "intro": "La pasiva con modales: modal + be + participio (It must be done) y modal + have been + participio (It should have been done). Truco: se usa mucho en reglas, avisos y reportes.",
+      "palabras": [
+        { "t": "must be", "es": "debe ser (obligación)", "pron": "mast bi", "ej": "Passports must be shown at the entrance.", "ejes": "Los pasaportes deben mostrarse en la entrada.", "cog": false },
+        { "t": "can be", "es": "puede ser", "pron": "can bi", "ej": "This door can be locked from the inside.", "ejes": "Esta puerta puede cerrarse desde adentro.", "cog": false },
+        { "t": "should be", "es": "debería ser", "pron": "shud bi", "ej": "Fragile items should be handled with care.", "ejes": "Los objetos frágiles deberían manejarse con cuidado.", "cog": false },
+        { "t": "might be", "es": "podría ser", "pron": "mait bi", "ej": "The meeting might be postponed.", "ejes": "La reunión podría posponerse.", "cog": false },
+        { "t": "has to be", "es": "tiene que ser", "pron": "jas tu bi", "ej": "This form has to be signed by your manager.", "ejes": "Este formulario tiene que ser firmado por tu jefe.", "cog": false },
+        { "t": "deadline", "es": "fecha límite", "pron": "dédlain", "ej": "The deadline cannot be extended.", "ejes": "La fecha límite no puede extenderse.", "cog": false },
+        { "t": "submit", "es": "presentar, entregar", "pron": "sabmít", "ej": "Please submit your report before noon.", "ejes": "Por favor entrega tu informe antes del mediodía.", "cog": false },
+        { "t": "should have been", "es": "debió haberse", "pron": "shud jav bin", "ej": "The problem should have been reported earlier.", "ejes": "El problema debió haberse informado antes.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Reports must be submitted before noon.", "es": "Los informes deben entregarse antes del mediodía.", "pron": "ripórts mast bi sabmítid bifór nun" },
+        { "t": "This form has to be signed by your manager.", "es": "Este formulario tiene que ser firmado por tu jefe.", "pron": "dis form jas tu bi saind bai ior mánayer" },
+        { "t": "The deadline can't be extended.", "es": "La fecha límite no puede extenderse.", "pron": "da dédlain cant bi iksténdid" },
+        { "t": "The meeting might be postponed until Friday.", "es": "La reunión podría posponerse hasta el viernes.", "pron": "da míitin mait bi poustpóund antíl fráidei" },
+        { "t": "The mistake should have been noticed earlier.", "es": "El error debió haberse notado antes.", "pron": "da mistéik shud jav bin nóutist érlier" }
+      ],
+      "dialogo": {
+        "titulo": "Normas de la oficina",
+        "lineas": [
+          { "q": "A", "t": "New employees must be trained before they use the system.", "es": "Los empleados nuevos deben ser capacitados antes de usar el sistema." },
+          { "q": "B", "t": "Understood. Can the training be done online?", "es": "Entendido. ¿La capacitación puede hacerse en línea?" },
+          { "q": "A", "t": "Yes, but the form has to be signed afterwards.", "es": "Sí, pero el formulario tiene que firmarse después." },
+          { "q": "B", "t": "And what about the deadline? Can it be extended?", "es": "¿Y la fecha límite? ¿Puede extenderse?" },
+          { "q": "A", "t": "I'm afraid not. Reports must be submitted before noon on Friday.", "es": "Me temo que no. Los informes deben entregarse antes del mediodía del viernes." },
+          { "q": "B", "t": "The problem should have been mentioned earlier, but I'll manage.", "es": "El problema debió haberse mencionado antes, pero me las arreglaré." }
+        ]
+      },
+      "nota": "Con by solo si importa quién: The report must be signed by the director. Si no importa, omítelo."
+    },
+    {
+      "id": "en-b2-u4-l3",
+      "n": 3,
+      "titulo": "Pasivas de reporte",
+      "objetivo": "Informar lo que se dice o se cree con It is said that... y He is said to...",
+      "intro": "Con verbos como say, believe, think, report puedes decir «se dice que». Hay dos moldes: It is said that she is rich / She is said to be rich. Truco: es muy común en noticias y textos formales.",
+      "palabras": [
+        { "t": "is said to", "es": "se dice que", "pron": "is sed tu", "ej": "The old house is said to be haunted.", "ejes": "Se dice que la casa vieja está embrujada.", "cog": false },
+        { "t": "is believed to", "es": "se cree que", "pron": "is bilivd tu", "ej": "He is believed to be abroad.", "ejes": "Se cree que está en el extranjero.", "cog": false },
+        { "t": "is reported to", "es": "se informa que", "pron": "is ripórtid tu", "ej": "The fire is reported to have started at night.", "ejes": "Se informa que el incendio empezó de noche.", "cog": false },
+        { "t": "is known to", "es": "se sabe que", "pron": "is noun tu", "ej": "The author is known to be very private.", "ejes": "Se sabe que el autor es muy reservado.", "cog": false },
+        { "t": "is thought to", "es": "se piensa que", "pron": "is zot tu", "ej": "The painting is thought to be a fake.", "ejes": "Se piensa que el cuadro es falso.", "cog": false },
+        { "t": "rumor", "es": "rumor", "pron": "rúmor", "ej": "There's a rumor that the company is closing.", "ejes": "Hay un rumor de que la empresa va a cerrar.", "cog": true },
+        { "t": "allegedly", "es": "supuestamente", "pron": "alévidli", "ej": "He allegedly lied to the police.", "ejes": "Supuestamente le mintió a la policía.", "cog": false },
+        { "t": "according to", "es": "según", "pron": "acórdin tu", "ej": "According to the news, the roads are closed.", "ejes": "Según las noticias, las carreteras están cerradas.", "cog": false }
+      ],
+      "frases": [
+        { "t": "It is said that the old house is haunted.", "es": "Se dice que la casa vieja está embrujada.", "pron": "it is sed dat di ould jaus is jóntid" },
+        { "t": "He is believed to be living abroad.", "es": "Se cree que vive en el extranjero.", "pron": "ji is bilivd tu bi lívin abrod" },
+        { "t": "The company is thought to have lost millions.", "es": "Se piensa que la empresa perdió millones.", "pron": "da cámpani is zot tu jav lost mílions" },
+        { "t": "The fire is reported to have started at night.", "es": "Se informa que el incendio empezó de noche.", "pron": "da faier is ripórtid tu jav stártid at nait" },
+        { "t": "It is known that she speaks five languages.", "es": "Se sabe que ella habla cinco idiomas.", "pron": "it is noun dat shi spiks faiv lánguiyis" }
+      ],
+      "dialogo": {
+        "titulo": "Chismes de oficina",
+        "lineas": [
+          { "q": "A", "t": "Have you heard? The company is said to be closing the Lima branch.", "es": "¿Escuchaste? Se dice que la empresa va a cerrar la sucursal de Lima." },
+          { "q": "B", "t": "That's just a rumor. According to the manager, nothing has been decided.", "es": "Eso es solo un rumor. Según el gerente, no se ha decidido nada." },
+          { "q": "A", "t": "But the CEO is thought to have met the investors yesterday.", "es": "Pero se piensa que el gerente general se reunió con los inversionistas ayer." },
+          { "q": "B", "t": "He is known to travel a lot. It doesn't mean anything.", "es": "Se sabe que viaja mucho. No significa nada." },
+          { "q": "A", "t": "Allegedly, some jobs will be cut next month.", "es": "Supuestamente, algunos puestos se recortarán el mes que viene." },
+          { "q": "B", "t": "Don't believe everything you hear. Let's wait for the official announcement.", "es": "No creas todo lo que escuchas. Esperemos el anuncio oficial." }
+        ]
+      },
+      "nota": "Tras is said to usa to be + adjetivo, y para algo ya ocurrido to have + participio: He is said to have left."
+    },
+    {
+      "id": "en-b2-u4-l4",
+      "n": 4,
+      "titulo": "Hacer que otro haga algo",
+      "objetivo": "Pedir o conseguir que alguien haga algo con have someone do y get someone to do.",
+      "intro": "Si te refieres a la persona que hace el trabajo: have someone do something (sin to) o get someone to do something (con to). Truco: have es más directo y formal; get implica convencer.",
+      "palabras": [
+        { "t": "have", "es": "hacer que alguien haga (have + persona + verbo)", "pron": "jav sámuan du", "ej": "I'll have my assistant send you the file.", "ejes": "Haré que mi asistente te envíe el archivo.", "cog": false },
+        { "t": "get", "es": "conseguir que alguien haga (get + persona + to)", "pron": "guet sámuan tu du", "ej": "I couldn't get him to change his mind.", "ejes": "No pude lograr que cambiara de opinión.", "cog": false },
+        { "t": "make", "es": "obligar a alguien a hacer (make + persona + verbo)", "pron": "meik sámuan du", "ej": "The teacher will make us rewrite the essay.", "ejes": "La profesora nos hará reescribir el ensayo.", "cog": false },
+        { "t": "let", "es": "dejar que alguien haga (let + persona + verbo)", "pron": "let sámuan du", "ej": "My parents let me stay out late.", "ejes": "Mis padres me dejaban llegar tarde.", "cog": false },
+        { "t": "assistant", "es": "asistente", "pron": "asístant", "ej": "My assistant booked the flights.", "ejes": "Mi asistente reservó los vuelos.", "cog": true },
+        { "t": "persuade", "es": "persuadir", "pron": "persuéid", "ej": "I managed to persuade her to come.", "ejes": "Logré persuadirla de que viniera.", "cog": true },
+        { "t": "arrange", "es": "organizar, coordinar", "pron": "aréinch", "ej": "Can you arrange a meeting for Monday?", "ejes": "¿Puedes organizar una reunión para el lunes?", "cog": true },
+        { "t": "delegate", "es": "delegar", "pron": "déleguet", "ej": "A good manager knows how to delegate.", "ejes": "Un buen jefe sabe delegar.", "cog": true }
+      ],
+      "frases": [
+        { "t": "I'll have my assistant send you the report.", "es": "Haré que mi asistente te envíe el informe.", "pron": "ail jav mai asístant send iu da ripórt" },
+        { "t": "She got her brother to help her move.", "es": "Consiguió que su hermano la ayudara con la mudanza.", "pron": "shi got jer bráder tu jelp jer muv" },
+        { "t": "The boss made us work late on Friday.", "es": "El jefe nos obligó a trabajar hasta tarde el viernes.", "pron": "da bos meid as uerk leit on fráidei" },
+        { "t": "My parents let me borrow the car.", "es": "Mis padres me dejaron usar el auto.", "pron": "mai pérents let mi bórou da car" },
+        { "t": "Could you get someone to look at this?", "es": "¿Podrías conseguir que alguien le eche un vistazo a esto?", "pron": "cud iu guet sámuan tu luk at dis" }
+      ],
+      "dialogo": {
+        "titulo": "Organizar la reunión",
+        "lineas": [
+          { "q": "A", "t": "Can you arrange a meeting with the client for Monday?", "es": "¿Puedes organizar una reunión con el cliente para el lunes?" },
+          { "q": "B", "t": "I'll have my assistant call him this afternoon.", "es": "Haré que mi asistente lo llame esta tarde." },
+          { "q": "A", "t": "Great. And can you get the designer to send the new logo?", "es": "Perfecto. ¿Y puedes conseguir que el diseñador envíe el nuevo logo?" },
+          { "q": "B", "t": "I'll try. He doesn't like being made to rush.", "es": "Lo intentaré. No le gusta que lo apuren." },
+          { "q": "A", "t": "A good manager knows how to delegate, doesn't he?", "es": "Un buen jefe sabe delegar, ¿no?" },
+          { "q": "B", "t": "Exactly. I let my team decide most things on their own.", "es": "Exacto. Dejo que mi equipo decida casi todo por su cuenta." }
+        ]
+      },
+      "nota": "Recuerda: have / make / let + persona + verbo SIN to; get + persona + to + verbo."
+    },
+    {
+      "id": "en-b2-u4-l5",
+      "n": 5,
+      "titulo": "Repaso: servicios y reglas",
+      "objetivo": "Combinar causativo, pasiva con modales y pasivas de reporte en situaciones reales.",
+      "intro": "Repasa las tres estructuras en una situación realista: un hotel, una oficina y una noticia. Truco: pregunta quién hace la acción; si importa poco, usa pasiva; si lo hace otro por ti, usa have / get.",
+      "palabras": [
+        { "t": "renovate", "es": "renovar, remodelar", "pron": "rénoveit", "ej": "They plan to renovate the lobby next year.", "ejes": "Planean remodelar el vestíbulo el próximo año.", "cog": true },
+        { "t": "install", "es": "instalar", "pron": "instól", "ej": "We need to install a new air conditioner.", "ejes": "Necesitamos instalar un aire acondicionado nuevo.", "cog": true },
+        { "t": "contractor", "es": "contratista", "pron": "cóntractor", "ej": "The contractor will start on Monday.", "ejes": "El contratista empezará el lunes.", "cog": true },
+        { "t": "quote", "es": "cotización", "pron": "cuout", "ej": "I asked for a quote from three companies.", "ejes": "Pedí una cotización a tres empresas.", "cog": false },
+        { "t": "carry out", "es": "llevar a cabo", "pron": "cári áut", "ej": "Experts will carry out the work.", "ejes": "Expertos llevarán a cabo el trabajo.", "cog": false },
+        { "t": "on schedule", "es": "según lo previsto", "pron": "on skédyul", "ej": "The project is on schedule.", "ejes": "El proyecto va según lo previsto.", "cog": false },
+        { "t": "inspect", "es": "inspeccionar", "pron": "inspéct", "ej": "An engineer will inspect the building.", "ejes": "Un ingeniero inspeccionará el edificio.", "cog": true },
+        { "t": "permit", "es": "permiso, licencia", "pron": "pérmit", "ej": "You need a permit to build here.", "ejes": "Necesitas un permiso para construir aquí.", "cog": false }
+      ],
+      "frases": [
+        { "t": "We are having the whole building renovated.", "es": "Estamos mandando remodelar todo el edificio.", "pron": "ui ar jávin da joul bílding rénoveitid" },
+        { "t": "A permit must be obtained before work starts.", "es": "Se debe obtener un permiso antes de empezar la obra.", "pron": "a pérmit mast bi obtéind bifór uerk starts" },
+        { "t": "The contractor is said to be the best in town.", "es": "Se dice que el contratista es el mejor de la ciudad.", "pron": "da cóntractor is sed tu bi da best in taun" },
+        { "t": "I'm getting a new air conditioner installed.", "es": "Estoy mandando instalar un aire acondicionado nuevo.", "pron": "aim guétin a niu er condíshoner instóld" },
+        { "t": "The work should have been finished by now.", "es": "El trabajo ya debería haberse terminado.", "pron": "da uerk shud jav bin fínisht bai nau" },
+        { "t": "We got three companies to send a quote.", "es": "Conseguimos que tres empresas enviaran una cotización.", "pron": "ui got zri cámpanis tu send a cuout" }
+      ],
+      "dialogo": {
+        "titulo": "Remodelar el hotel",
+        "lineas": [
+          { "q": "A", "t": "We are having the lobby renovated this winter.", "es": "Vamos a mandar remodelar el vestíbulo este invierno." },
+          { "q": "B", "t": "Has a permit been obtained yet? It must be done before anything starts.", "es": "¿Ya se obtuvo el permiso? Debe hacerse antes de empezar." },
+          { "q": "A", "t": "Yes. The contractor got it last week. He's said to be very reliable.", "es": "Sí. El contratista lo consiguió la semana pasada. Se dice que es muy confiable." },
+          { "q": "B", "t": "Good. Will the work be carried out on schedule?", "es": "Bien. ¿El trabajo se llevará a cabo según lo previsto?" },
+          { "q": "A", "t": "It should be. I'll have the engineer inspect it every Friday.", "es": "Debería. Haré que el ingeniero lo inspeccione cada viernes." },
+          { "q": "B", "t": "Smart. I'm getting my own office painted too, so let's share the contractor.", "es": "Inteligente. Yo también voy a mandar pintar mi oficina, así que compartamos al contratista." }
+        ]
+      },
+      "nota": "Para pedir un servicio con cortesía: Could I have this repaired by Friday? suena profesional."
+    }
+  ]
+}

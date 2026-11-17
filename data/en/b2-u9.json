@@ -1,0 +1,222 @@
+{
+  "id": "en-b2-u9",
+  "idioma": "en",
+  "nivel": "B2",
+  "n": 9,
+  "titulo": "Expresiones idiomáticas",
+  "resumen": "Aprenderás idioms muy comunes por tema (dinero, trabajo, emociones y dificultades) y cómo usarlos sin traducirlos palabra por palabra.",
+  "puedo": [
+    "Entender idioms frecuentes en conversaciones y series.",
+    "Usar idioms sobre dinero, tiempo y trabajo con naturalidad.",
+    "Expresar emociones y opiniones con idioms comunes.",
+    "Evitar traducir los idioms palabra por palabra.",
+    "Elegir cuándo un idioma es apropiado y cuándo es mejor hablar directo."
+  ],
+  "gramatica": {
+    "titulo": "Los idioms son bloques fijos",
+    "texto": "Un idiom es una expresión cuyo significado no se deduce de sus palabras sueltas: it's a piece of cake no habla de pastel, significa «es facilísimo». Se aprende como un bloque completo.\nRegla clave: casi no se puede cambiar ninguna palabra. Se dice break the ice, no «break the frost». Lo que sí cambia es el verbo, que se conjuga: She broke the ice. Y puedes usarlos con to be o con otros verbos según el idiom.\nTruco: no los traduzcas al español; aprende la situación en que se usan. Muchos idioms se usan más en conversación que en escritos formales.",
+    "tabla": [
+      ["It's a piece of cake.", "Es pan comido.", "its a pis ov keik"],
+      ["Break the ice.", "Romper el hielo.", "breik di ais"],
+      ["Once in a blue moon.", "Muy de vez en cuando.", "uans in a blu mun"],
+      ["Cost an arm and a leg.", "Costar un ojo de la cara.", "cost an arm and a leg"],
+      ["Under the weather.", "Algo enfermo, decaído.", "ónder da uéder"],
+      ["Hit the nail on the head.", "Dar en el clavo.", "jit da neil on da jed"]
+    ],
+    "errores": [
+      "No cambies las palabras del idiom: es cost an arm and a leg, no «cost an arm and a foot».",
+      "No lo traduzcas literal: raining cats and dogs no es «llover gatos y perros» en español, sino «llover a cántaros».",
+      "No abuses de ellos en un correo formal: un idiom queda mejor en conversación o en un mensaje informal."
+    ]
+  },
+  "practica": [
+    "Escribe 6 idioms de esta unidad con su situación, no con una traducción literal (10 minutos).",
+    "Mira 10 minutos de una serie en inglés con subtítulos en inglés y anota 3 idioms que oigas.",
+    "Cuenta en voz alta tu semana usando 5 idioms distintos (8 minutos).",
+    "Crea 5 tarjetas: idiom en un lado, situación real tuya en el otro, y repásalas dos días seguidos."
+  ],
+  "lecciones": [
+    {
+      "id": "en-b2-u9-l1",
+      "n": 1,
+      "titulo": "Dinero y tiempo",
+      "objetivo": "Usar idioms comunes sobre dinero y tiempo.",
+      "intro": "Muchos idioms hablan de dinero y de tiempo. Truco: imagina la escena literal y luego asocia el significado real; así no los olvidas.",
+      "palabras": [
+        { "t": "cost an arm and a leg", "es": "costar un ojo de la cara", "pron": "cost an arm and a leg", "ej": "That watch will cost an arm and a leg.", "ejes": "Ese reloj va a costar un ojo de la cara.", "cog": false },
+        { "t": "break the bank", "es": "gastar demasiado", "pron": "breik da bank", "ej": "A small gift won't break the bank.", "ejes": "Un regalo pequeño no nos arruina.", "cog": false },
+        { "t": "save for a rainy day", "es": "ahorrar para tiempos difíciles", "pron": "seiv for aréini dei", "ej": "I try to save for a rainy day.", "ejes": "Trato de ahorrar para tiempos difíciles.", "cog": false },
+        { "t": "make ends meet", "es": "llegar a fin de mes", "pron": "meik ends mit", "ej": "It's hard to make ends meet in this city.", "ejes": "Es difícil llegar a fin de mes en esta ciudad.", "cog": false },
+        { "t": "a bargain", "es": "una ganga", "pron": "a bárguin", "ej": "This jacket was a bargain.", "ejes": "Esta chaqueta fue una ganga.", "cog": false },
+        { "t": "once in a blue moon", "es": "muy de vez en cuando", "pron": "uans in a blu mun", "ej": "We eat out once in a blue moon.", "ejes": "Salimos a comer muy de vez en cuando.", "cog": false },
+        { "t": "against the clock", "es": "contra reloj", "pron": "aguénst da clock", "ej": "We worked against the clock.", "ejes": "Trabajamos contra reloj.", "cog": false },
+        { "t": "in the nick of time", "es": "justo a tiempo", "pron": "in da nik ov taim", "ej": "She arrived in the nick of time.", "ejes": "Llegó justo a tiempo.", "cog": false },
+        { "t": "spare time", "es": "tiempo libre", "pron": "spéar taim", "ej": "I read in my spare time.", "ejes": "Leo en mi tiempo libre.", "cog": false }
+      ],
+      "frases": [
+        { "t": "That phone costs an arm and a leg.", "es": "Ese celular cuesta un ojo de la cara.", "pron": "dat foun costs an arm and a leg" },
+        { "t": "I only see him once in a blue moon.", "es": "Lo veo muy de vez en cuando.", "pron": "ai ónli si jim uans in a blu mun" },
+        { "t": "We made it in the nick of time.", "es": "Llegamos justo a tiempo.", "pron": "ui meid it in da nik ov taim" },
+        { "t": "It's a bargain at that price.", "es": "A ese precio es una ganga.", "pron": "its a bárguin at dat prais" },
+        { "t": "Many families struggle to make ends meet.", "es": "A muchas familias les cuesta llegar a fin de mes.", "pron": "méni fámilis strógol tu meik ends mit" }
+      ],
+      "dialogo": {
+        "titulo": "De compras",
+        "lineas": [
+          { "q": "A", "t": "Look at this leather bag. It must cost an arm and a leg.", "es": "Mira esta bolsa de cuero. Debe costar un ojo de la cara." },
+          { "q": "B", "t": "Actually, it's a bargain. It's half price today.", "es": "En realidad es una ganga. Hoy está a mitad de precio." },
+          { "q": "A", "t": "Still, I'm trying to save for a rainy day.", "es": "Aun así, estoy tratando de ahorrar para tiempos difíciles." },
+          { "q": "B", "t": "One bag won't break the bank, and sales like this come once in a blue moon.", "es": "Una bolsa no te arruina y ofertas así llegan muy de vez en cuando." },
+          { "q": "A", "t": "You're right. I'll take it.", "es": "Tienes razón. Me la llevo." }
+        ]
+      },
+      "nota": "Cost an arm and a leg se usa solo para cosas muy caras. Para algo normalmente caro basta con expensive."
+    },
+    {
+      "id": "en-b2-u9-l2",
+      "n": 2,
+      "titulo": "Trabajo y esfuerzo",
+      "objetivo": "Hablar del trabajo y del esfuerzo con idioms.",
+      "intro": "En la oficina se oyen muchos idioms. Truco: la mayoría suena informal pero amistoso; úsalos con compañeros, no en cartas formales.",
+      "palabras": [
+        { "t": "get the ball rolling", "es": "poner las cosas en marcha", "pron": "guet da bol róulin", "ej": "Let's get the ball rolling on the new project.", "ejes": "Pongamos en marcha el nuevo proyecto.", "cog": false },
+        { "t": "on the same page", "es": "de acuerdo, en sintonía", "pron": "on da seim peich", "ej": "We need to be on the same page.", "ejes": "Tenemos que estar en sintonía.", "cog": false },
+        { "t": "a piece of cake", "es": "pan comido", "pron": "a pis ov keik", "ej": "The test was a piece of cake.", "ejes": "El examen fue pan comido.", "cog": false },
+        { "t": "burn the midnight oil", "es": "trabajar hasta tarde", "pron": "bern da mídnait oil", "ej": "I had to burn the midnight oil to finish.", "ejes": "Tuve que trabajar hasta tarde para terminar.", "cog": false },
+        { "t": "go the extra mile", "es": "esforzarse más de lo esperado", "pron": "gou di éxtra mail", "ej": "Good agents go the extra mile for clients.", "ejes": "Los buenos agentes se esfuerzan de más por los clientes.", "cog": false },
+        { "t": "call it a day", "es": "dar el día por terminado", "pron": "col it a dei", "ej": "It's six o'clock. Let's call it a day.", "ejes": "Son las seis. Terminemos por hoy.", "cog": false },
+        { "t": "learn the ropes", "es": "aprender cómo funciona", "pron": "lern da roups", "ej": "It takes a month to learn the ropes.", "ejes": "Toma un mes aprender cómo funciona todo.", "cog": false },
+        { "t": "a tight deadline", "es": "un plazo muy justo", "pron": "a tait dédlain", "ej": "We have a tight deadline this week.", "ejes": "Tenemos un plazo muy justo esta semana.", "cog": false },
+        { "t": "touch base", "es": "ponerse en contacto brevemente", "pron": "toch beis", "ej": "Let's touch base on Friday.", "ejes": "Hablemos brevemente el viernes.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Let's get the ball rolling.", "es": "Pongamos esto en marcha.", "pron": "lets guet da bol róulin" },
+        { "t": "I think we're all on the same page.", "es": "Creo que estamos todos de acuerdo.", "pron": "ai zink uir ol on da seim peich" },
+        { "t": "The report was a piece of cake.", "es": "El informe fue pan comido.", "pron": "da ripórt uas a pis ov keik" },
+        { "t": "He went the extra mile to help us.", "es": "Se esforzó más de lo esperado para ayudarnos.", "pron": "ji uent di éxtra mail tu jelp os" },
+        { "t": "We're tired, so let's call it a day.", "es": "Estamos cansados, así que terminemos por hoy.", "pron": "uir taird sou lets col it a dei" },
+        { "t": "I'm still learning the ropes.", "es": "Todavía estoy aprendiendo cómo funciona todo.", "pron": "aim stil lérnin da roups" }
+      ],
+      "dialogo": {
+        "titulo": "En la oficina",
+        "lineas": [
+          { "q": "A", "t": "We have a tight deadline, so let's get the ball rolling.", "es": "Tenemos un plazo muy justo, así que pongamos esto en marcha." },
+          { "q": "B", "t": "Agreed. Are we all on the same page about the budget?", "es": "De acuerdo. ¿Estamos todos de acuerdo con el presupuesto?" },
+          { "q": "A", "t": "Yes. Maria is new, but she's learning the ropes fast.", "es": "Sí. María es nueva, pero aprende rápido cómo funciona todo." },
+          { "q": "B", "t": "Good. I may have to burn the midnight oil tonight.", "es": "Bien. Puede que tenga que trabajar hasta tarde esta noche." },
+          { "q": "A", "t": "Let's touch base tomorrow morning.", "es": "Hablemos mañana por la mañana." }
+        ]
+      },
+      "nota": "On the same page y touch base son muy usados en oficinas de EE. UU. En reuniones formales suenan algo coloquiales pero aceptados."
+    },
+    {
+      "id": "en-b2-u9-l3",
+      "n": 3,
+      "titulo": "Emociones y opiniones",
+      "objetivo": "Expresar cómo te sientes y qué opinas con idioms.",
+      "intro": "Los idioms de emociones dan color a tu inglés. Truco: aprende cada uno con una persona real, por ejemplo, un amigo que siempre está over the moon.",
+      "palabras": [
+        { "t": "over the moon", "es": "felicísimo", "pron": "óuver da mun", "ej": "She was over the moon about the news.", "ejes": "Estaba felicísima con la noticia.", "cog": false },
+        { "t": "under the weather", "es": "algo enfermo, decaído", "pron": "ónder da uéder", "ej": "I'm a bit under the weather today.", "ejes": "Hoy estoy algo decaído.", "cog": false },
+        { "t": "on cloud nine", "es": "en las nubes de felicidad", "pron": "on claud nain", "ej": "He's on cloud nine after the wedding.", "ejes": "Está en las nubes después de la boda.", "cog": false },
+        { "t": "feel blue", "es": "sentirse triste", "pron": "fil blu", "ej": "I feel blue when it rains for days.", "ejes": "Me siento triste cuando llueve por días.", "cog": false },
+        { "t": "hit the nail on the head", "es": "dar en el clavo", "pron": "jit da neil on da jed", "ej": "You hit the nail on the head.", "ejes": "Diste en el clavo.", "cog": false },
+        { "t": "drive someone up the wall", "es": "sacar de quicio a alguien", "pron": "draiv sómuan op da uol", "ej": "Loud music can drive someone up the wall.", "ejes": "La música fuerte puede sacar de quicio a alguien.", "cog": false },
+        { "t": "get cold feet", "es": "echarse atrás por miedo", "pron": "guet could fit", "ej": "Many people get cold feet before an interview.", "ejes": "Mucha gente se echa atrás antes de una entrevista.", "cog": false },
+        { "t": "keep your chin up", "es": "ánimo, no te desanimes", "pron": "kip ior chin op", "ej": "Keep your chin up, things will improve.", "ejes": "Ánimo, las cosas van a mejorar.", "cog": false },
+        { "t": "let off steam", "es": "desahogarse", "pron": "let of stim", "ej": "I run to let off steam.", "ejes": "Corro para desahogarme.", "cog": false }
+      ],
+      "frases": [
+        { "t": "I'm over the moon about my new job.", "es": "Estoy felicísimo con mi nuevo trabajo.", "pron": "aim óuver da mun abáut mai niu yob" },
+        { "t": "I'm feeling a little under the weather.", "es": "Me siento un poco decaído.", "pron": "aim fílin a lítol ónder da uéder" },
+        { "t": "That's exactly right. You hit the nail on the head.", "es": "Exacto. Diste en el clavo.", "pron": "dats exáctli rait iu jit da neil on da jed" },
+        { "t": "Her jokes drive me up the wall.", "es": "Sus chistes me sacan de quicio.", "pron": "jer youks draiv mi op da uol" },
+        { "t": "Don't get cold feet now.", "es": "No te eches atrás ahora.", "pron": "dont guet could fit nau" }
+      ],
+      "dialogo": {
+        "titulo": "Una buena noticia",
+        "lineas": [
+          { "q": "A", "t": "Hi Paula. You look like you're on cloud nine!", "es": "Hola, Paula. ¡Pareces estar en las nubes!" },
+          { "q": "B", "t": "I am! I got the job, and I'm over the moon.", "es": "¡Sí! Conseguí el trabajo y estoy felicísima." },
+          { "q": "A", "t": "Congratulations! Were you nervous?", "es": "¡Felicitaciones! ¿Estabas nerviosa?" },
+          { "q": "B", "t": "Very. I almost got cold feet before the interview.", "es": "Mucho. Casi me eché atrás antes de la entrevista." },
+          { "q": "A", "t": "Well, you deserve it. Let's celebrate tonight.", "es": "Te lo mereces. Celebremos esta noche." }
+        ]
+      },
+      "nota": "Under the weather solo se usa para malestares leves, como un resfriado. Para algo serio di sick o ill."
+    },
+    {
+      "id": "en-b2-u9-l4",
+      "n": 4,
+      "titulo": "Problemas y soluciones",
+      "objetivo": "Hablar de dificultades, éxito y decisiones con idioms.",
+      "intro": "Con estos idioms hablas de problemas y de cómo resolverlos. Truco: varios usan imágenes del cuerpo o de la naturaleza, fáciles de dibujar mentalmente.",
+      "palabras": [
+        { "t": "in the same boat", "es": "en la misma situación", "pron": "in da seim bout", "ej": "We're all in the same boat.", "ejes": "Todos estamos en la misma situación.", "cog": false },
+        { "t": "bite the bullet", "es": "afrontar algo difícil", "pron": "bait da búlet", "ej": "I decided to bite the bullet and ask for help.", "ejes": "Decidí afrontarlo y pedir ayuda.", "cog": false },
+        { "t": "back to square one", "es": "volver a empezar", "pron": "bak tu skuér uan", "ej": "The plan failed, so it's back to square one.", "ejes": "El plan falló, así que hay que volver a empezar.", "cog": false },
+        { "t": "a blessing in disguise", "es": "una bendición disfrazada", "pron": "a blésin in disgáis", "ej": "Losing that job was a blessing in disguise.", "ejes": "Perder ese trabajo fue una bendición disfrazada.", "cog": false },
+        { "t": "the last straw", "es": "la gota que colmó el vaso", "pron": "da last stro", "ej": "His rudeness was the last straw.", "ejes": "Su grosería fue la gota que colmó el vaso.", "cog": false },
+        { "t": "cut corners", "es": "hacer las cosas a medias", "pron": "cot kórners", "ej": "Never cut corners on safety.", "ejes": "Nunca descuides la seguridad por ahorrar.", "cog": false },
+        { "t": "think outside the box", "es": "pensar de forma creativa", "pron": "zink autsáid da box", "ej": "We need to think outside the box.", "ejes": "Necesitamos pensar de forma creativa.", "cog": false },
+        { "t": "the ball is in your court", "es": "te toca a ti decidir", "pron": "da bol is in ior cort", "ej": "I made my offer. The ball is in your court.", "ejes": "Hice mi oferta. Ahora te toca a ti.", "cog": false },
+        { "t": "better late than never", "es": "más vale tarde que nunca", "pron": "béter leit dan néver", "ej": "You came late, but better late than never.", "ejes": "Llegaste tarde, pero más vale tarde que nunca.", "cog": false }
+      ],
+      "frases": [
+        { "t": "We're all in the same boat.", "es": "Todos estamos en la misma situación.", "pron": "uir ol in da seim bout" },
+        { "t": "It's time to bite the bullet.", "es": "Es hora de afrontarlo.", "pron": "its taim tu bait da búlet" },
+        { "t": "The delay was a blessing in disguise.", "es": "La demora fue una bendición disfrazada.", "pron": "da diléi uas a blésin in disgáis" },
+        { "t": "That was the last straw.", "es": "Eso fue la gota que colmó el vaso.", "pron": "dat uas da last stro" },
+        { "t": "The ball is in your court now.", "es": "Ahora te toca a ti decidir.", "pron": "da bol is in ior cort nau" }
+      ],
+      "dialogo": {
+        "titulo": "Un proyecto fallido",
+        "lineas": [
+          { "q": "A", "t": "The client rejected the design, so it's back to square one.", "es": "El cliente rechazó el diseño, así que volvemos a empezar." },
+          { "q": "B", "t": "Don't worry. We're all in the same boat.", "es": "No te preocupes. Todos estamos en la misma situación." },
+          { "q": "A", "t": "Maybe it's a blessing in disguise. We can think outside the box this time.", "es": "Quizá es una bendición disfrazada. Esta vez podemos pensar de forma creativa." },
+          { "q": "B", "t": "Good idea. But we mustn't cut corners.", "es": "Buena idea. Pero no debemos hacer las cosas a medias." },
+          { "q": "A", "t": "Agreed. Let's bite the bullet and start today.", "es": "De acuerdo. Afrontémoslo y empecemos hoy." }
+        ]
+      },
+      "nota": "The ball is in your court viene del tenis y se usa mucho en negociaciones: ya hice mi parte, ahora tú decides."
+    },
+    {
+      "id": "en-b2-u9-l5",
+      "n": 5,
+      "titulo": "Repaso: idioms en acción",
+      "objetivo": "Combinar idioms de la unidad en conversaciones naturales.",
+      "intro": "Repasa idioms de las lecciones anteriores y suma algunos nuevos de uso diario. Truco: elige tres que más te gusten y úsalos hoy en una conversación real.",
+      "palabras": [
+        { "t": "spill the beans", "es": "soltar un secreto", "pron": "spil da bins", "ej": "Don't spill the beans about the party.", "ejes": "No sueltes el secreto de la fiesta.", "cog": false },
+        { "t": "break the ice", "es": "romper el hielo", "pron": "breik di ais", "ej": "A joke can break the ice.", "ejes": "Un chiste puede romper el hielo.", "cog": false },
+        { "t": "it's raining cats and dogs", "es": "llueve a cántaros", "pron": "its réinin cats and dogs", "ej": "Take an umbrella, it's raining cats and dogs.", "ejes": "Lleva paraguas, llueve a cántaros.", "cog": false },
+        { "t": "beat around the bush", "es": "andarse con rodeos", "pron": "bit aráund da bush", "ej": "Please do not beat around the bush.", "ejes": "Por favor, no te andes con rodeos.", "cog": false },
+        { "t": "pull someone's leg", "es": "tomarle el pelo a alguien", "pron": "pul sómuans leg", "ej": "Do not pull someone's leg about this.", "ejes": "No le tomes el pelo a alguien con esto.", "cog": false },
+        { "t": "a long shot", "es": "algo muy poco probable", "pron": "a long shot", "ej": "It's a long shot, but let's try.", "ejes": "Es muy poco probable, pero intentémoslo.", "cog": false },
+        { "t": "sleep on it", "es": "consultarlo con la almohada", "pron": "slip on it", "ej": "Let me sleep on it before I decide.", "ejes": "Déjame consultarlo con la almohada antes de decidir.", "cog": false },
+        { "t": "no big deal", "es": "no es para tanto", "pron": "nou big dil", "ej": "It's no big deal, really.", "ejes": "No es para tanto, de verdad.", "cog": false },
+        { "t": "figure out", "es": "averiguar, entender", "pron": "fígiur aut", "ej": "I can't figure out this puzzle.", "ejes": "No puedo entender este rompecabezas.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Please don't spill the beans.", "es": "Por favor, no sueltes el secreto.", "pron": "plis dont spil da bins" },
+        { "t": "A smile helps to break the ice.", "es": "Una sonrisa ayuda a romper el hielo.", "pron": "a smail jelps tu breik di ais" },
+        { "t": "Stop beating around the bush and tell me.", "es": "Deja de dar rodeos y dímelo.", "pron": "stop bítin aráund da bush and tel mi" },
+        { "t": "Let me sleep on it.", "es": "Déjame consultarlo con la almohada.", "pron": "let mi slip on it" },
+        { "t": "It's a long shot, but it might work.", "es": "Es muy improbable, pero puede funcionar.", "pron": "its a long shot bot it mait uerk" },
+        { "t": "Don't worry, it's no big deal.", "es": "No te preocupes, no es para tanto.", "pron": "dont uérri its nou big dil" }
+      ],
+      "dialogo": {
+        "titulo": "Una fiesta sorpresa",
+        "lineas": [
+          { "q": "A", "t": "Don't spill the beans, but we're planning a party for Tom.", "es": "No sueltes el secreto, pero estamos planeando una fiesta para Tom." },
+          { "q": "B", "t": "Do not pull someone's leg about this. He hates parties.", "es": "¿Me estás tomando el pelo? Él odia las fiestas." },
+          { "q": "A", "t": "It's a long shot, but a small dinner might break the ice with his new team.", "es": "Es poco probable, pero una cena pequeña podría romper el hielo con su equipo nuevo." },
+          { "q": "B", "t": "Let me sleep on it. I'll answer tomorrow.", "es": "Déjame consultarlo con la almohada. Respondo mañana." },
+          { "q": "A", "t": "Sure, no big deal. Just don't beat around the bush when you decide.", "es": "Claro, no es para tanto. Solo no te andes con rodeos cuando decidas." }
+        ]
+      },
+      "nota": "Los idioms cambian según la región. Los de esta unidad son comunes en inglés estadounidense, pero evita forzarlos: dos o tres bien usados suenan mejor que diez seguidos."
+    }
+  ]
+}

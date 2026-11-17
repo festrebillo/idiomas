@@ -1,0 +1,223 @@
+{
+  "id": "it-b2-u4",
+  "idioma": "it",
+  "nivel": "B2",
+  "n": 4,
+  "titulo": "Pasiva avanzada y hacer que otro haga",
+  "resumen": "Aprenderás a expresar obligaciones con «andare + participio» y a decir que alguien hace algo por ti con «fare + infinitivo» y «farsi + infinitivo».",
+  "puedo": [
+    "Usar «andare + participio» para obligaciones y cosas perdidas: va fatto, è andato perso.",
+    "Usar «venire + participio» en tiempos simples con matiz de proceso.",
+    "Decir que haces que otro haga algo con «fare + infinitivo».",
+    "Decir que alguien hace algo para ti con «farsi + infinitivo».",
+    "Combinar pasivo y causativo en conversaciones sobre servicios."
+  ],
+  "gramatica": {
+    "titulo": "«Fare» y «farsi» + infinitivo: que otro lo haga",
+    "texto": "Cuando no haces algo tú mismo sino que lo encargas, el italiano usa fare + infinitivo: Faccio riparare la macchina (hago que reparen el auto).\nSi la acción es para ti y el otro la hace sobre ti, se usa farsi + infinitivo: Mi faccio tagliare i capelli (me hago cortar el pelo). Con «farsi» el pronombre reflexivo va delante y el verbo se conjuga con essere: Mi sono fatto tagliare i capelli.\nCon pronombres: lo faccio riparare (lo hago reparar); gli faccio riparare la macchina (le hago reparar el auto, a él).\nTruco: «fare» = yo lo encargo; «farsi» = yo recibo el servicio.\nEste tema se conecta con el pasivo: «andare + participio» expresa obligación (il modulo va compilato = debe completarse) y destino (è andato perso = se perdió).",
+    "tabla": [
+      ["Faccio riparare la bici.", "Hago reparar la bici.", "fáccio riparáre la bíchi"],
+      ["Mi faccio tagliare i capelli.", "Me hago cortar el pelo.", "mi fáccio taliáre i capélli"],
+      ["Mi sono fatto fare un vestito.", "Me hice hacer un vestido.", "mi sóno fátto fáre un vestíto"],
+      ["Il modulo va compilato.", "El formulario debe completarse.", "il módulo va compiláto"],
+      ["Il pacco è andato perso.", "El paquete se perdió.", "il pácco e andáto pérso"]
+    ],
+    "errores": [
+      "No uses «mi faccio tagliare» para decir «lo corto yo»: si lo haces tú, es «mi taglio i capelli».",
+      "«Farsi» se conjuga con essere en los tiempos compuestos: «mi sono fatto fare», no «ho fatto farmi».",
+      "«Andare + participio» solo con tiempos simples (va fatto, andava fatto), no en passato prossimo: no «è andato fatto»."
+    ]
+  },
+  "practica": [
+    "Haz una lista de cinco servicios que encargas a otros (peluquería, taller, tintorería) y escribe: «Faccio... / Mi faccio...» (7 minutos).",
+    "Lee las instrucciones de un electrodoméstico y subraya o traduce cada «va + participio» (6 minutos).",
+    "Cuenta en voz alta qué hiciste reparar o hacer esta semana usando «Mi sono fatto...» (5 minutos).",
+    "Escribe cinco reglas de tu trabajo o tu estudio con «va + participio»: «Il report va consegnato entro...» (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b2-u4-l1",
+      "n": 1,
+      "titulo": "Andare + participio: debe hacerse",
+      "objetivo": "Expresar obligaciones y normas con «andare + participio».",
+      "intro": "«Andare» + participio equivale a «debe + participio» en instrucciones: «il modulo va compilato» (debe completarse). Truco: piensa en el verbo «ir» de «hay que ir haciendo»: va fatto = hay que hacerlo.",
+      "palabras": [
+        { "t": "va compilato", "es": "debe completarse", "pron": "va compiláto", "ej": "Il modulo va compilato in stampatello.", "ejes": "El formulario debe completarse en letra de imprenta.", "cog": false },
+        { "t": "va consegnato", "es": "debe entregarse", "pron": "va consegnáto", "ej": "Il progetto va consegnato entro venerdì.", "ejes": "El proyecto debe entregarse antes del viernes.", "cog": false },
+        { "t": "va firmato", "es": "debe firmarse", "pron": "va firmáto", "ej": "Il contratto va firmato in due copie.", "ejes": "El contrato debe firmarse en dos copias.", "cog": false },
+        { "t": "va conservato", "es": "debe conservarse", "pron": "va conserváto", "ej": "Lo scontrino va conservato per il cambio.", "ejes": "El comprobante debe conservarse para el cambio.", "cog": false },
+        { "t": "vanno controllati", "es": "deben revisarse", "pron": "vánno controlláti", "ej": "I documenti vanno controllati prima dell'invio.", "ejes": "Los documentos deben revisarse antes del envío.", "cog": false },
+        { "t": "andava fatto", "es": "debía hacerse", "pron": "andáva fátto", "ej": "Il lavoro andava fatto con più attenzione.", "ejes": "El trabajo debía hacerse con más atención.", "cog": false },
+        { "t": "è andato perso", "es": "se perdió", "pron": "e andáto pérso", "ej": "Il pacco è andato perso durante il trasporto.", "ejes": "El paquete se perdió durante el transporte.", "cog": false },
+        { "t": "è andata distrutta", "es": "quedó destruida", "pron": "e andáta distrútta", "ej": "La casa è andata distrutta dall'incendio.", "ejes": "La casa quedó destruida por el incendio.", "cog": false },
+        { "t": "entro venerdì", "es": "antes del viernes", "pron": "éntro venerdí", "ej": "Mandami il file entro venerdì.", "ejes": "Mándame el archivo antes del viernes.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il modulo va compilato e firmato in ogni pagina.", "es": "El formulario debe completarse y firmarse en cada página.", "pron": "il módulo va compiláto e firmáto in ógni página" },
+        { "t": "Questi farmaci vanno conservati in frigorifero.", "es": "Estos medicamentos deben conservarse en el refrigerador.", "pron": "cuésti fármaci vánno conserváti in frigorífero" },
+        { "t": "Il pacco è andato perso durante la spedizione.", "es": "El paquete se perdió durante el envío.", "pron": "il pácco e andáto pérso duránte la spedisióne" },
+        { "t": "La relazione va consegnata entro lunedì mattina.", "es": "El informe debe entregarse antes del lunes por la mañana.", "pron": "la relatsióne va consegnáta éntro lunedí mattína" },
+        { "t": "Tutte le regole vanno rispettate senza eccezioni.", "es": "Todas las reglas deben respetarse sin excepciones.", "pron": "túte le régole vánno rispettáte sénsa ecchetsióni" }
+      ],
+      "dialogo": {
+        "titulo": "In segreteria",
+        "lineas": [
+          { "q": "A", "t": "Buongiorno, come si presenta la domanda d'iscrizione?", "es": "Buenos días, ¿cómo se presenta la solicitud de inscripción?" },
+          { "q": "B", "t": "Il modulo va compilato in stampatello e va firmato.", "es": "El formulario debe completarse en letra de imprenta y firmarse." },
+          { "q": "A", "t": "E i documenti?", "es": "¿Y los documentos?" },
+          { "q": "B", "t": "Vanno consegnati entro venerdì, insieme a una foto.", "es": "Deben entregarse antes del viernes, junto con una foto." },
+          { "q": "A", "t": "Ho paura che una copia sia andata persa.", "es": "Me temo que una copia se haya perdido." },
+          { "q": "B", "t": "Nessun problema, va rifatta e basta.", "es": "Ningún problema, se rehace y listo." }
+        ]
+      },
+      "nota": "«Andare + participio» es muy frecuente en normas, carteles y manuales. «Dover essere + participio» también es posible, pero más formal: «deve essere compilato»."
+    },
+    {
+      "id": "it-b2-u4-l2",
+      "n": 2,
+      "titulo": "Venire + participio y otras pasivas",
+      "objetivo": "Usar «venire + participio» y combinarlo con «essere» y «si» para describir procesos.",
+      "intro": "«Venire» + participio describe un proceso en curso o habitual. Truco: «viene fatto» = «se está haciendo / se hace»; «è fatto» = «está hecho». Solo en tiempos simples.",
+      "palabras": [
+        { "t": "viene eseguito", "es": "se ejecuta, se realiza", "pron": "viéne esegúito", "ej": "Il controllo viene eseguito ogni mattina.", "ejes": "El control se realiza cada mañana.", "cog": false },
+        { "t": "viene considerato", "es": "se considera", "pron": "viéne consideráto", "ej": "Questo libro viene considerato un classico.", "ejes": "Este libro se considera un clásico.", "cog": false },
+        { "t": "viene richiesto", "es": "se solicita", "pron": "viéne richiésto", "ej": "Viene richiesto un documento d'identità.", "ejes": "Se solicita un documento de identidad.", "cog": false },
+        { "t": "verrà inaugurato", "es": "será inaugurado", "pron": "verrá inauguráto", "ej": "Il museo verrà inaugurato in primavera.", "ejes": "El museo será inaugurado en primavera.", "cog": false },
+        { "t": "verrebbe pagato", "es": "sería pagado", "pron": "verrébbe pagáto", "ej": "Il lavoro verrebbe pagato a fine mese.", "ejes": "El trabajo sería pagado a fin de mes.", "cog": false },
+        { "t": "venivano trattati", "es": "eran tratados", "pron": "venívano tráttati", "ej": "I clienti venivano trattati con rispetto.", "ejes": "Los clientes eran tratados con respeto.", "cog": false },
+        { "t": "viene definito", "es": "se define, es definido", "pron": "viéne definíto", "ej": "Il fenomeno viene definito «gentrificazione».", "ejes": "El fenómeno se define como «gentrificación».", "cog": false },
+        { "t": "viene annunciato", "es": "se anuncia", "pron": "viéne annunchiáto", "ej": "Il prossimo treno viene annunciato dall'altoparlante.", "ejes": "El próximo tren se anuncia por el altavoz.", "cog": false },
+        { "t": "viene ritirato", "es": "se retira, se recoge", "pron": "viéne ritiráto", "ej": "Il bagaglio viene ritirato al nastro tre.", "ejes": "El equipaje se recoge en la cinta tres.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il controllo viene eseguito ogni mattina alle sette.", "es": "El control se realiza cada mañana a las siete.", "pron": "il contróllo viéne esegúito ógni mattína alle sétte" },
+        { "t": "Questo romanzo viene considerato un capolavoro.", "es": "Esta novela se considera una obra maestra.", "pron": "cuésto romántso viéne consideráto un capolavóro" },
+        { "t": "Il nuovo ponte verrà inaugurato il prossimo anno.", "es": "El nuevo puente será inaugurado el próximo año.", "pron": "il nuóvo pónte verrá inauguráto il próssimo ánno" },
+        { "t": "Il bagaglio viene ritirato al nastro numero tre.", "es": "El equipaje se recoge en la cinta número tres.", "pron": "il bagáñio viéne ritiráto al nástro número tré" },
+        { "t": "Allora i clienti venivano trattati con molto rispetto.", "es": "Entonces los clientes eran tratados con mucho respeto.", "pron": "allóra i cliénti venívano trattáti con mólto rispétto" }
+      ],
+      "dialogo": {
+        "titulo": "All'aeroporto",
+        "lineas": [
+          { "q": "A", "t": "Dove viene ritirato il bagaglio del volo da Lima?", "es": "¿Dónde se recoge el equipaje del vuelo de Lima?" },
+          { "q": "B", "t": "Al nastro quattro. Viene annunciato tra poco.", "es": "En la cinta cuatro. Se anuncia en un momento." },
+          { "q": "A", "t": "E il controllo dei documenti?", "es": "¿Y el control de documentos?" },
+          { "q": "B", "t": "Viene eseguito all'uscita; viene richiesto il passaporto.", "es": "Se realiza a la salida; se solicita el pasaporte." },
+          { "q": "A", "t": "Il nuovo terminal sarà aperto presto?", "es": "¿La nueva terminal se abrirá pronto?" },
+          { "q": "B", "t": "Sì, verrà inaugurato a giugno.", "es": "Sí, será inaugurada en junio." }
+        ]
+      },
+      "nota": "Si no estás seguro, usa «essere»: siempre es correcto. «Venire» da más naturalidad cuando describes un proceso o una costumbre."
+    },
+    {
+      "id": "it-b2-u4-l3",
+      "n": 3,
+      "titulo": "Fare + infinitivo: hacer que otro haga",
+      "objetivo": "Decir que haces que otra persona haga algo con «fare + infinitivo».",
+      "intro": "Con «fare» + infinitivo el sujeto no actúa; hace que otro actúe: «faccio riparare la bici» (la mando reparar). Truco: el infinitivo va pegado a «fare»; no se pone nada en medio.",
+      "palabras": [
+        { "t": "faccio riparare", "es": "hago reparar", "pron": "fáccio riparáre", "ej": "Faccio riparare la bici dal meccanico.", "ejes": "Hago reparar la bici por el mecánico.", "cog": false },
+        { "t": "fa pulire", "es": "manda limpiar", "pron": "fa pulíre", "ej": "Mia madre fa pulire la casa ogni settimana.", "ejes": "Mi madre manda limpiar la casa cada semana.", "cog": false },
+        { "t": "ho fatto stampare", "es": "mandé imprimir", "pron": "o fátto stampáre", "ej": "Ho fatto stampare i documenti in copisteria.", "ejes": "Mandé imprimir los documentos en la copistería.", "cog": false },
+        { "t": "far vedere", "es": "mostrar, hacer ver", "pron": "far vedére", "ej": "Vuoi far vedere le foto al nonno?", "ejes": "¿Quieres mostrarle las fotos al abuelo?", "cog": false },
+        { "t": "far sapere", "es": "avisar, hacer saber", "pron": "far sapére", "ej": "Non dimenticare di far sapere la data a tutti.", "ejes": "No olvides avisar la fecha a todos.", "cog": false },
+        { "t": "farà costruire", "es": "mandará construir", "pron": "farrá costruíre", "ej": "Il comune farà costruire un nuovo parco.", "ejes": "El municipio mandará construir un nuevo parque.", "cog": false },
+        { "t": "faceva lavorare", "es": "hacía trabajar", "pron": "fachéva lavoráre", "ej": "Il capo faceva lavorare tutti fino a tardi.", "ejes": "El jefe hacía trabajar a todos hasta tarde.", "cog": false },
+        { "t": "fammi sapere", "es": "avísame", "pron": "fámmi sapére", "ej": "Fammi sapere se hai bisogno di aiuto.", "ejes": "Avísame si necesitas ayuda.", "cog": false },
+        { "t": "fa ridere", "es": "hace reír", "pron": "fa ridére", "ej": "Mio fratello fa ridere tutti.", "ejes": "Mi hermano hace reír a todos.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Faccio riparare la bici dal meccanico di quartiere.", "es": "Hago reparar la bici por el mecánico del barrio.", "pron": "fáccio riparáre la bíchi dal meccániko di cuartiére" },
+        { "t": "Ho fatto stampare i biglietti in copisteria.", "es": "Mandé imprimir los boletos en la copistería.", "pron": "o fátto stampáre i billétti in copisteria" },
+        { "t": "Il comune farà costruire una nuova scuola.", "es": "El municipio mandará construir una nueva escuela.", "pron": "il comúne farrá costruíre úna nuóva scuóla" },
+        { "t": "Fammi sapere appena arrivi in albergo.", "es": "Avísame apenas llegues al hotel.", "pron": "fámmi sapére appéna arrívi in albérgo" },
+        { "t": "Quel film mi ha fatto piangere.", "es": "Esa película me hizo llorar.", "pron": "cuel film mi a fátto pianchére" }
+      ],
+      "dialogo": {
+        "titulo": "Un trasloco",
+        "lineas": [
+          { "q": "A", "t": "Allora, come organizzate il trasloco?", "es": "Entonces, ¿cómo organizan la mudanza?" },
+          { "q": "B", "t": "Facciamo trasportare i mobili da una ditta.", "es": "Mandamos transportar los muebles con una empresa." },
+          { "q": "A", "t": "E la casa nuova? È pronta?", "es": "¿Y la casa nueva? ¿Está lista?" },
+          { "q": "B", "t": "Ho fatto pitturare le pareti e fatto cambiare la serratura.", "es": "Mandé pintar las paredes y cambiar la cerradura." },
+          { "q": "A", "t": "Fammi sapere se ti serve una mano.", "es": "Avísame si necesitas una mano." },
+          { "q": "B", "t": "Certo, ti faccio vedere la casa appena finiamo.", "es": "Claro, te muestro la casa apenas terminemos." }
+        ]
+      },
+      "nota": "Con «fare» también expresas causa en emociones: «mi fa arrabbiare» (me enoja), «ci ha fatto ridere» (nos hizo reír). El pronombre va antes de «fare»."
+    },
+    {
+      "id": "it-b2-u4-l4",
+      "n": 4,
+      "titulo": "Farsi + infinitivo: servicios para mí",
+      "objetivo": "Decir que alguien hace algo por o sobre ti con «farsi + infinitivo».",
+      "intro": "«Farsi» + infinitivo se usa cuando el beneficiario eres tú: «mi faccio tagliare i capelli». Truco: lleva el pronombre reflexivo y en tiempos compuestos usa essere: «mi sono fatto tagliare».",
+      "palabras": [
+        { "t": "mi faccio tagliare", "es": "me hago cortar", "pron": "mi fáccio taliáre", "ej": "Mi faccio tagliare i capelli ogni mese.", "ejes": "Me corto el pelo cada mes (en la peluquería).", "cog": false },
+        { "t": "mi sono fatto fare", "es": "me hice hacer", "pron": "mi sóno fátto fáre", "ej": "Mi sono fatto fare un vestito su misura.", "ejes": "Me hice hacer un traje a medida.", "cog": false },
+        { "t": "si è fatta aiutare", "es": "se hizo ayudar", "pron": "si e fátta aiutáre", "ej": "Si è fatta aiutare dai vicini con il trasloco.", "ejes": "Se hizo ayudar por los vecinos con la mudanza.", "cog": false },
+        { "t": "farsi capire", "es": "hacerse entender", "pron": "fársi capíre", "ej": "Non è facile farsi capire in una lingua straniera.", "ejes": "No es fácil hacerse entender en una lengua extranjera.", "cog": false },
+        { "t": "mi faccio consigliare", "es": "me dejo aconsejar", "pron": "mi fáccio consiliáre", "ej": "Mi faccio consigliare dal commesso.", "ejes": "Me dejo aconsejar por el vendedor.", "cog": false },
+        { "t": "mi sono fatta controllare", "es": "me hice revisar", "pron": "mi sóno fátta controlláre", "ej": "Mi sono fatta controllare dal dottore.", "ejes": "Me hice revisar por el doctor.", "cog": false },
+        { "t": "farsi fare", "es": "hacerse hacer", "pron": "fársi fáre", "ej": "Vale la pena farsi fare un preventivo prima di decidere.", "ejes": "Vale la pena pedir un presupuesto antes de decidir.", "cog": false },
+        { "t": "si fa vivo", "es": "da señales de vida", "pron": "si fa vívo", "ej": "Il mio amico non si fa vivo da mesi.", "ejes": "Mi amigo no da señales de vida desde hace meses.", "cog": false },
+        { "t": "mi faccio prestare", "es": "me hago prestar", "pron": "mi fáccio prestáre", "ej": "Mi faccio prestare la macchina da mio padre.", "ejes": "Le pido prestado el auto a mi padre.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Mi faccio tagliare i capelli ogni sei settimane.", "es": "Me corto el pelo (en la peluquería) cada seis semanas.", "pron": "mi fáccio taliáre i capélli ógni séi settimáne" },
+        { "t": "Mi sono fatto fare un abito su misura a Napoli.", "es": "Me mandé hacer un traje a medida en Nápoles.", "pron": "mi sóno fátto fáre un ábito su misúra a nápoli" },
+        { "t": "Si è fatta aiutare dai colleghi con il progetto.", "es": "Se hizo ayudar por los colegas con el proyecto.", "pron": "si e fátta aiutáre dai collégui con il progétto" },
+        { "t": "Mi sono fatta controllare la vista ieri.", "es": "Me hice revisar la vista ayer.", "pron": "mi sóno fátta controlláre la vísta ieri" },
+        { "t": "Mi faccio sempre consigliare dal commesso.", "es": "Siempre me dejo aconsejar por el vendedor.", "pron": "mi fáccio sémpre consiliáre dal commésso" }
+      ],
+      "dialogo": {
+        "titulo": "In salone",
+        "lineas": [
+          { "q": "A", "t": "Che bel taglio! Dove ti sei fatta tagliare i capelli?", "es": "¡Qué lindo corte! ¿Dónde te hiciste cortar el pelo?" },
+          { "q": "B", "t": "Da un parrucchiere in centro; mi faccio consigliare da lui da anni.", "es": "En una peluquería del centro; me dejo aconsejar por él desde hace años." },
+          { "q": "A", "t": "E il vestito? È nuovo?", "es": "¿Y el vestido? ¿Es nuevo?" },
+          { "q": "B", "t": "Me lo sono fatto fare da una sarta di quartiere.", "es": "Me lo mandé hacer con una costurera del barrio." },
+          { "q": "A", "t": "Quanto ti è costato?", "es": "¿Cuánto te costó?" },
+          { "q": "B", "t": "Meno di quanto pensassi: mi sono fatta fare lo sconto.", "es": "Menos de lo que pensaba: me conseguí un descuento." }
+        ]
+      },
+      "nota": "Hay un uso informal: «farsi + infinitivo» también significa «dejarse»: «non mi faccio mettere i piedi in testa» (no me dejo pisotear). Para pedir algo: «mi faccio prestare» = «le pido prestado»."
+    },
+    {
+      "id": "it-b2-u4-l5",
+      "n": 5,
+      "titulo": "Repaso: servicios y procedimientos",
+      "objetivo": "Mezclar andare, venire, fare y farsi en conversaciones sobre trámites, reparaciones y servicios.",
+      "intro": "Repasa el tema describiendo qué se hace en una oficina, un taller o una peluquería. Truco: «va + participio» para normas, «viene + participio» para procesos, «fare/farsi» para encargar.",
+      "palabras": [
+        { "t": "va richiesto", "es": "debe solicitarse", "pron": "va richiésto", "ej": "Il certificato va richiesto in comune.", "ejes": "El certificado debe solicitarse en el municipio.", "cog": false },
+        { "t": "viene rilasciato", "es": "se expide, se entrega", "pron": "viéne rilasciáto", "ej": "Il documento viene rilasciato in tre giorni.", "ejes": "El documento se expide en tres días.", "cog": false },
+        { "t": "faccio autenticare", "es": "hago autenticar", "pron": "fáccio autenticáre", "ej": "Faccio autenticare la firma dal notaio.", "ejes": "Hago autenticar la firma por el notario.", "cog": false },
+        { "t": "mi sono fatto fare", "es": "me hice hacer", "pron": "mi sóno fátto fáre", "ej": "Mi sono fatto fare un preventivo gratuito.", "ejes": "Me hice hacer un presupuesto gratuito.", "cog": false },
+        { "t": "il preventivo", "es": "el presupuesto", "pron": "il preventívo", "ej": "Il preventivo è valido trenta giorni.", "ejes": "El presupuesto es válido por treinta días.", "cog": false },
+        { "t": "la riparazione", "es": "la reparación", "pron": "la riparatsióne", "ej": "La riparazione costa poco.", "ejes": "La reparación cuesta poco.", "cog": true },
+        { "t": "il notaio", "es": "el notario", "pron": "il notáio", "ej": "Il notaio ha letto il contratto ad alta voce.", "ejes": "El notario leyó el contrato en voz alta.", "cog": true },
+        { "t": "la procura", "es": "el poder (documento)", "pron": "la procúra", "ej": "Ho dato la procura a mio fratello.", "ejes": "Le di el poder a mi hermano.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Il certificato va richiesto in comune e viene rilasciato in tre giorni.", "es": "El certificado debe solicitarse en el municipio y se expide en tres días.", "pron": "il chertificáto va richiésto in comúne e viéne rilasciáto in tré yórni" },
+        { "t": "Faccio autenticare la firma dal notaio.", "es": "Hago autenticar la firma por el notario.", "pron": "fáccio autenticáre la fírma dal notáio" },
+        { "t": "Mi sono fatto fare un preventivo da tre officine.", "es": "Me hice hacer un presupuesto en tres talleres.", "pron": "mi sóno fátto fáre un preventívo da tré offichíne" },
+        { "t": "Il documento va conservato per almeno dieci anni.", "es": "El documento debe conservarse al menos diez años.", "pron": "il documénto va conserváto per alméno diéchi ánni" },
+        { "t": "Ho dato la procura a mio fratello perché firmi per me.", "es": "Le di el poder a mi hermano para que firme por mí.", "pron": "o dáto la procúra a mío fratélo perké fírmi per me" }
+      ],
+      "dialogo": {
+        "titulo": "In comune",
+        "lineas": [
+          { "q": "A", "t": "Buongiorno, come si richiede il certificato di residenza?", "es": "Buenos días, ¿cómo se solicita el certificado de residencia?" },
+          { "q": "B", "t": "Va richiesto allo sportello e viene rilasciato in giornata.", "es": "Debe solicitarse en la ventanilla y se expide en el día." },
+          { "q": "A", "t": "Posso mandare mio fratello con una procura?", "es": "¿Puedo mandar a mi hermano con un poder?" },
+          { "q": "B", "t": "Sì, ma la firma va autenticata dal notaio.", "es": "Sí, pero la firma debe autenticarse por el notario." },
+          { "q": "A", "t": "Allora mi faccio fare un preventivo dal notaio.", "es": "Entonces me pido un presupuesto al notario." },
+          { "q": "B", "t": "Faccia pure: il preventivo è gratuito.", "es": "Adelante: el presupuesto es gratuito." }
+        ]
+      },
+      "nota": "En trámites italianos oirás mucho «va presentato», «va allegato», «va compilato». Reconócelos aunque no los uses tú."
+    }
+  ]
+}

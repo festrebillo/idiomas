@@ -1,0 +1,219 @@
+{
+  "id": "pt-b2-u11",
+  "idioma": "pt",
+  "nivel": "B2",
+  "n": 11,
+  "titulo": "Presentaciones y reuniones",
+  "resumen": "Aprenderás el lenguaje para presentar un tema, conducir y seguir una reunión, y pedir la palabra o interrumpir con cortesía, anunciando lo que vas a hacer con «vou» y «vamos».",
+  "puedo": [
+    "Abrir una presentación y presentar el tema.",
+    "Ordenar mi exposición y comentar gráficos y datos.",
+    "Seguir una reunión: agenda, plazos, responsables y acuerdos.",
+    "Interrumpir con cortesía o pedir la palabra.",
+    "Hacer preguntas, concordar, discordar y cerrar una reunión."
+  ],
+  "gramatica": {
+    "titulo": "Anunciar lo que vas a hacer: vou, vamos, permita-me",
+    "texto": "En una presentación anuncias cada paso con «vou + infinitivo» (voy a...) o «vamos + infinitivo» (vamos a..., para incluir al público): Vou apresentar os resultados. Vamos ver o gráfico.\nPara un tono más formal usa «permita-me + infinitivo» (permítame) o «gostaria de + infinitivo»: Permita-me explicar o objetivo. Gostaria de começar agradecendo.\nEl verbo que sigue siempre va en infinitivo, sin conjugar: vou falar, vamos começar, permita-me dizer.",
+    "tabla": [
+      ["Vou apresentar o projeto.", "Voy a presentar el proyecto.", "vóu apresentár u proyétu"],
+      ["Vamos ver o gráfico.", "Veamos el gráfico.", "vámus vér u gráfiku"],
+      ["Permita-me explicar.", "Permítame explicar.", "permíta-mi esplikár"],
+      ["Gostaria de começar agradecendo.", "Quisiera comenzar agradeciendo.", "gostaría dyi komesár agradesendu"],
+      ["Vou falar sobre três pontos.", "Voy a hablar de tres puntos.", "vóu falár sóbri trés póntus"]
+    ],
+    "errores": [
+      "El verbo después de «vou / vamos» va en infinitivo: «vou falar», no «vou falo».",
+      "Para «hablar de» un tema usa «falar sobre» o «falar de», no «falar en».",
+      "«Vamos» invita al público (veamos); «vou» habla solo de ti: no los mezcles sin necesidad."
+    ]
+  },
+  "practica": [
+    "Prepara una introducción de 1 minuto sobre tu trabajo con «vou falar sobre» (8 minutos).",
+    "Graba una presentación de 2 minutos sobre un gráfico o tabla usando «em primeiro lugar» y «por fim» (10 minutos).",
+    "Escribe un acta corta de una reunión imaginaria con pauta, prazo y responsável (8 minutos).",
+    "Practica en voz alta 6 frases para interrumpir con cortesía (5 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b2-u11-l1",
+      "n": 1,
+      "titulo": "Abrir una presentación",
+      "objetivo": "Saludar al público y anunciar el tema de una presentación.",
+      "intro": "Una buena apertura saluda, agradece y dice de qué vas a hablar. Truco: usa «Hoje vou falar sobre...» para anunciar el tema con claridad.",
+      "palabras": [
+        { "t": "apresentação", "es": "presentación", "pron": "apresentasáun", "ej": "A minha apresentação começa às dez.", "ejes": "Mi presentación empieza a las diez.", "cog": true },
+        { "t": "público", "es": "público, audiencia", "pron": "públiku", "ej": "O público ficou muito atento.", "ejes": "El público estuvo muy atento.", "cog": true },
+        { "t": "slide", "es": "diapositiva", "pron": "isláydi", "ej": "No próximo slide vamos ver os números.", "ejes": "En la próxima diapositiva veremos los números.", "cog": true },
+        { "t": "tema", "es": "tema", "pron": "téma", "ej": "O tema de hoje é a inovação.", "ejes": "El tema de hoy es la innovación.", "cog": true },
+        { "t": "objetivo", "es": "objetivo", "pron": "obyetívu", "ej": "O objetivo é mostrar os resultados.", "ejes": "El objetivo es mostrar los resultados.", "cog": true },
+        { "t": "agradecer", "es": "agradecer", "pron": "agradesér", "ej": "Quero agradecer a presença de todos.", "ejes": "Quiero agradecer la presencia de todos.", "cog": false },
+        { "t": "visão geral", "es": "visión general", "pron": "vizáun yerál", "ej": "Primeiro, uma visão geral do projeto.", "ejes": "Primero, una visión general del proyecto.", "cog": true },
+        { "t": "para começar", "es": "para empezar", "pron": "pára komesár", "ej": "Para começar, quero agradecer a todos.", "ejes": "Para empezar, quiero agradecer a todos.", "cog": false },
+        { "t": "apresentar", "es": "presentar", "pron": "apresentár", "ej": "Vou apresentar o nosso novo produto.", "ejes": "Voy a presentar nuestro nuevo producto.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Boa tarde a todos, e obrigado pela presença.", "es": "Buenas tardes a todos y gracias por su presencia.", "pron": "bóa tárdyi a tódus i obrigádu pela presénsa" },
+        { "t": "Hoje vou falar sobre inovação.", "es": "Hoy voy a hablar sobre innovación.", "pron": "óyi vóu falár sóbri inovasáun" },
+        { "t": "O objetivo é apresentar os resultados do ano.", "es": "El objetivo es presentar los resultados del año.", "pron": "u obyetívu é apresentár us rezuwtádus du ánu" },
+        { "t": "Vamos começar com uma visão geral.", "es": "Comencemos con una visión general.", "pron": "vámus komesár kon úma vizáun yerál" },
+        { "t": "Permita-me apresentar a nossa equipe.", "es": "Permítame presentar a nuestro equipo.", "pron": "permíta-mi apresentár a nóssa ekípi" }
+      ],
+      "dialogo": {
+        "titulo": "Antes da apresentação",
+        "lineas": [
+          { "q": "A", "t": "Você está nervosa com a apresentação?", "es": "¿Estás nerviosa con la presentación?" },
+          { "q": "B", "t": "Um pouco. Vou começar agradecendo ao público.", "es": "Un poco. Voy a empezar agradeciendo al público." },
+          { "q": "A", "t": "Boa ideia. Depois você anuncia o tema, não é?", "es": "Buena idea. Después anuncias el tema, ¿no?" },
+          { "q": "B", "t": "Isso. Hoje vou falar sobre os resultados do semestre.", "es": "Así es. Hoy voy a hablar sobre los resultados del semestre." },
+          { "q": "A", "t": "Perfeito. Mostre uma visão geral no primeiro slide.", "es": "Perfecto. Muestra una visión general en la primera diapositiva." }
+        ]
+      },
+      "nota": "«Slide» se pronuncia en Brasil casi como «isláidi» o «isláydi». «Apresentação» es presentación formal; «apresentar alguém» es presentar a una persona."
+    },
+    {
+      "id": "pt-b2-u11-l2",
+      "n": 2,
+      "titulo": "Ordenar ideas y comentar datos",
+      "objetivo": "Estructurar una exposición y describir gráficos y números.",
+      "intro": "Ordena tu discurso con «em primeiro lugar, em segundo lugar, por fim». Truco: cuenta con los dedos mientras hablas, así no te pierdes.",
+      "palabras": [
+        { "t": "em primeiro lugar", "es": "en primer lugar", "pron": "ein priméiru lugár", "ej": "Em primeiro lugar, vou mostrar os números.", "ejes": "En primer lugar, voy a mostrar los números.", "cog": false },
+        { "t": "em segundo lugar", "es": "en segundo lugar", "pron": "ein segúndu lugár", "ej": "Em segundo lugar, veremos os custos.", "ejes": "En segundo lugar, veremos los costos.", "cog": false },
+        { "t": "por fim", "es": "por último", "pron": "por fín", "ej": "Por fim, vou resumir as conclusões.", "ejes": "Por último, voy a resumir las conclusiones.", "cog": false },
+        { "t": "gráfico", "es": "gráfico", "pron": "gráfiku", "ej": "Esse gráfico mostra o crescimento das vendas.", "ejes": "Este gráfico muestra el crecimiento de las ventas.", "cog": true },
+        { "t": "dados", "es": "datos", "pron": "dádus", "ej": "Os dados mostram uma queda no verão.", "ejes": "Los datos muestran una caída en el verano.", "cog": false },
+        { "t": "aumento", "es": "aumento", "pron": "auméntu", "ej": "Houve um aumento de dez por cento.", "ejes": "Hubo un aumento del diez por ciento.", "cog": true },
+        { "t": "queda", "es": "caída, baja", "pron": "kéda", "ej": "A queda nas vendas preocupa a equipe.", "ejes": "La caída de las ventas preocupa al equipo.", "cog": false },
+        { "t": "tendência", "es": "tendencia", "pron": "tendénsia", "ej": "A tendência é de crescimento.", "ejes": "La tendencia es de crecimiento.", "cog": true },
+        { "t": "em resumo", "es": "en resumen", "pron": "ein rezúmu", "ej": "Em resumo, o ano foi positivo.", "ejes": "En resumen, el año fue positivo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Em primeiro lugar, vamos ver os dados.", "es": "En primer lugar, veamos los datos.", "pron": "ein priméiru lugár vámus vér us dádus" },
+        { "t": "Como mostra o gráfico, houve um aumento.", "es": "Como muestra el gráfico, hubo un aumento.", "pron": "kómu móstra u gráfiku óvi ún auméntu" },
+        { "t": "Em segundo lugar, houve uma queda nas vendas.", "es": "En segundo lugar, hubo una caída en las ventas.", "pron": "ein segúndu lugár óvi úma kéda nas véndas" },
+        { "t": "A tendência para o próximo ano é positiva.", "es": "La tendencia para el próximo año es positiva.", "pron": "a tendénsia pára u prósimu ánu é pozitíva" },
+        { "t": "Em resumo, vamos crescer dez por cento.", "es": "En resumen, vamos a crecer un diez por ciento.", "pron": "ein rezúmu vámus kresér déz por séntu" }
+      ],
+      "dialogo": {
+        "titulo": "Explicando os números",
+        "lineas": [
+          { "q": "A", "t": "Em primeiro lugar, vamos olhar esse gráfico.", "es": "En primer lugar, miremos este gráfico." },
+          { "q": "B", "t": "Os dados mostram um aumento no primeiro trimestre?", "es": "¿Los datos muestran un aumento en el primer trimestre?" },
+          { "q": "A", "t": "Sim, mas em segundo lugar houve uma queda em março.", "es": "Sí, pero en segundo lugar hubo una caída en marzo." },
+          { "q": "B", "t": "E qual é a tendência para os próximos meses?", "es": "¿Y cuál es la tendencia para los próximos meses?" },
+          { "q": "A", "t": "Por fim, esperamos recuperar. Em resumo, o ano será bom.", "es": "Por último, esperamos recuperarnos. En resumen, el año será bueno." }
+        ]
+      },
+      "nota": "«Por cento» se escribe «10%» y se lee «dez por cento». «Trimestre» son tres meses y «semestre», seis."
+    },
+    {
+      "id": "pt-b2-u11-l3",
+      "n": 3,
+      "titulo": "En la reunión: agenda y tareas",
+      "objetivo": "Hablar de la agenda, los plazos y los responsables de una reunión.",
+      "intro": "Una reunión tiene pauta (agenda), prazo (plazo) y responsáveis (encargados). Truco: «ata» es el acta; no la confundas con «ato», que es un acto.",
+      "palabras": [
+        { "t": "reunião", "es": "reunión", "pron": "reuniáun", "ej": "A reunião começa às duas da tarde.", "ejes": "La reunión empieza a las dos de la tarde.", "cog": true },
+        { "t": "pauta", "es": "agenda, temas a tratar", "pron": "páuta", "ej": "A pauta tem quatro pontos.", "ejes": "La agenda tiene cuatro puntos.", "cog": false },
+        { "t": "ata", "es": "acta", "pron": "áta", "ej": "Quem vai redigir a ata da reunião?", "ejes": "¿Quién va a redactar el acta de la reunión?", "cog": false },
+        { "t": "prazo", "es": "plazo", "pron": "prázu", "ej": "O prazo termina na sexta-feira.", "ejes": "El plazo termina el viernes.", "cog": false },
+        { "t": "responsável", "es": "responsable, encargado", "pron": "responsávew", "ej": "Quem é o responsável por esse projeto?", "ejes": "¿Quién es el responsable de este proyecto?", "cog": true },
+        { "t": "pendência", "es": "asunto pendiente", "pron": "pendénsia", "ej": "Temos que resolver a pendência do mês passado.", "ejes": "Tenemos que resolver el asunto pendiente del mes pasado.", "cog": false },
+        { "t": "aprovar", "es": "aprobar", "pron": "aprovár", "ej": "A diretoria vai aprovar o orçamento.", "ejes": "La dirección va a aprobar el presupuesto.", "cog": true },
+        { "t": "adiar", "es": "aplazar", "pron": "adiár", "ej": "Precisamos adiar a reunião para segunda.", "ejes": "Necesitamos aplazar la reunión para el lunes.", "cog": false },
+        { "t": "encaminhar", "es": "derivar, enviar a quien corresponde", "pron": "enkaminhár", "ej": "Vou encaminhar o pedido ao setor de compras.", "ejes": "Voy a derivar el pedido al área de compras.", "cog": false }
+      ],
+      "frases": [
+        { "t": "A pauta de hoje tem quatro pontos.", "es": "La agenda de hoy tiene cuatro puntos.", "pron": "a páuta dyi óyi téin kuátru póntus" },
+        { "t": "Quem é o responsável pela ata?", "es": "¿Quién es el responsable del acta?", "pron": "kéin é u responsávew péla áta" },
+        { "t": "O prazo para entregar é sexta-feira.", "es": "El plazo para entregar es el viernes.", "pron": "u prázu pára entregár é sestafeira" },
+        { "t": "Vamos aprovar o orçamento hoje?", "es": "¿Aprobamos el presupuesto hoy?", "pron": "vámus aprovár u orsaméntu óyi" },
+        { "t": "Preciso adiar a reunião por causa de uma pendência.", "es": "Necesito aplazar la reunión por un asunto pendiente.", "pron": "presísu adiár a reuniáun por káuza dyi úma pendénsia" }
+      ],
+      "dialogo": {
+        "titulo": "Na sala de reuniões",
+        "lineas": [
+          { "q": "A", "t": "A pauta de hoje tem três pontos e uma pendência.", "es": "La agenda de hoy tiene tres puntos y un asunto pendiente." },
+          { "q": "B", "t": "Quem é o responsável pela ata?", "es": "¿Quién es el responsable del acta?" },
+          { "q": "A", "t": "Eu cuido. Vamos aprovar o orçamento antes de sexta?", "es": "Yo me encargo. ¿Aprobamos el presupuesto antes del viernes?" },
+          { "q": "B", "t": "Sim, o prazo termina sexta. Vou encaminhar o pedido hoje.", "es": "Sí, el plazo termina el viernes. Voy a derivar el pedido hoy." },
+          { "q": "A", "t": "Então não precisamos adiar nada. Ótimo.", "es": "Entonces no necesitamos aplazar nada. Excelente." }
+        ]
+      },
+      "nota": "«Sexta-feira» se abrevia «sexta» en el habla. «Pauta» también significa lista de temas de un periódico o programa."
+    },
+    {
+      "id": "pt-b2-u11-l4",
+      "n": 4,
+      "titulo": "Interrumpir con cortesía",
+      "objetivo": "Pedir la palabra, interrumpir y volver al tema sin ofender.",
+      "intro": "Interrumpir con educación suaviza el pedido: «Desculpe interromper, posso acrescentar algo?». Truco: pide permiso primero y agradece después.",
+      "palabras": [
+        { "t": "desculpe interromper", "es": "perdón por interrumpir", "pron": "deskúwpi interrompér", "ej": "Desculpe interromper, mas tenho uma dúvida.", "ejes": "Perdón por interrumpir, pero tengo una duda.", "cog": false },
+        { "t": "posso acrescentar", "es": "puedo agregar", "pron": "pósu akresentár", "ej": "Posso acrescentar um ponto importante?", "ejes": "¿Puedo agregar un punto importante?", "cog": false },
+        { "t": "se me permite", "es": "si me permite", "pron": "si mi permítyi", "ej": "Se me permite, gostaria de dar uma sugestão.", "ejes": "Si me permite, quisiera dar una sugerencia.", "cog": false },
+        { "t": "só um instante", "es": "solo un momento", "pron": "só ún instántyi", "ej": "Só um instante, preciso confirmar um dado.", "ejes": "Solo un momento, necesito confirmar un dato.", "cog": false },
+        { "t": "deixa eu terminar", "es": "déjame terminar", "pron": "déisha éu terminár", "ej": "Deixa eu terminar a ideia, por favor.", "ejes": "Déjame terminar la idea, por favor.", "cog": false },
+        { "t": "voltando ao assunto", "es": "volviendo al tema", "pron": "vowtándu au asúntu", "ej": "Voltando ao assunto, o prazo é sexta.", "ejes": "Volviendo al tema, el plazo es el viernes.", "cog": false },
+        { "t": "pode continuar", "es": "puede continuar", "pron": "pódyi kontinuár", "ej": "Pode continuar, eu só estava pensando.", "ejes": "Puede continuar, solo estaba pensando.", "cog": false },
+        { "t": "com todo respeito", "es": "con todo respeto", "pron": "kon tódu respéitu", "ej": "Com todo respeito, eu vejo de outra forma.", "ejes": "Con todo respeto, yo lo veo de otra forma.", "cog": false },
+        { "t": "interromper", "es": "interrumpir", "pron": "interrompér", "ej": "Não quero interromper a sua explicação.", "ejes": "No quiero interrumpir su explicación.", "cog": true }
+      ],
+      "frases": [
+        { "t": "Desculpe interromper, posso fazer uma pergunta?", "es": "Perdón por interrumpir, ¿puedo hacer una pregunta?", "pron": "deskúwpi interrompér pósu fazér úma pergúnta" },
+        { "t": "Posso acrescentar uma informação?", "es": "¿Puedo agregar una información?", "pron": "pósu akresentár úma informasáun" },
+        { "t": "Só um instante, deixa eu terminar.", "es": "Solo un momento, déjame terminar.", "pron": "só ún instántyi déisha éu terminár" },
+        { "t": "Com todo respeito, discordo um pouco.", "es": "Con todo respeto, discrepo un poco.", "pron": "kon tódu respéitu dyiskórdu ún póuku" },
+        { "t": "Voltando ao assunto, qual é o prazo?", "es": "Volviendo al tema, ¿cuál es el plazo?", "pron": "vowtándu au asúntu kuáu é u prázu" }
+      ],
+      "dialogo": {
+        "titulo": "Pedindo a palavra",
+        "lineas": [
+          { "q": "A", "t": "Então a nossa proposta é lançar em maio.", "es": "Entonces nuestra propuesta es lanzar en mayo." },
+          { "q": "B", "t": "Desculpe interromper, posso acrescentar algo?", "es": "Perdón por interrumpir, ¿puedo agregar algo?" },
+          { "q": "A", "t": "Pode, mas só um instante, deixa eu terminar a ideia.", "es": "Puede, pero solo un momento, déjeme terminar la idea." },
+          { "q": "B", "t": "Claro. Com todo respeito, maio é cedo demais.", "es": "Claro. Con todo respeto, mayo es demasiado pronto." },
+          { "q": "A", "t": "Boa observação. Voltando ao assunto, vamos ver o prazo.", "es": "Buena observación. Volviendo al tema, veamos el plazo." }
+        ]
+      },
+      "nota": "En Brasil la gente interrumpe con frecuencia en una charla informal, pero en una reunión formal es mejor pedir permiso con «posso acrescentar?»."
+    },
+    {
+      "id": "pt-b2-u11-l5",
+      "n": 5,
+      "titulo": "Repaso: preguntas y cierre",
+      "objetivo": "Hacer preguntas, mostrar acuerdo o desacuerdo y cerrar una reunión.",
+      "intro": "Cerrar bien es parte de la reunión: resume, agradece y fija los siguientes pasos. Truco: usa «Para concluir...» y «Alguma pergunta?».",
+      "palabras": [
+        { "t": "pergunta", "es": "pregunta", "pron": "pergúnta", "ej": "Alguém tem alguma pergunta?", "ejes": "¿Alguien tiene alguna pregunta?", "cog": false },
+        { "t": "dúvida", "es": "duda", "pron": "dúvida", "ej": "Tenho uma dúvida sobre o prazo.", "ejes": "Tengo una duda sobre el plazo.", "cog": false },
+        { "t": "esclarecer", "es": "aclarar", "pron": "esklaresér", "ej": "Posso esclarecer esse ponto agora.", "ejes": "Puedo aclarar este punto ahora.", "cog": false },
+        { "t": "concordar", "es": "estar de acuerdo", "pron": "konkordár", "ej": "Prefiro concordar com a proposta da equipe.", "ejes": "Prefiero estar de acuerdo con la propuesta del equipo.", "cog": false },
+        { "t": "discordar", "es": "discrepar", "pron": "dyiskordár", "ej": "Infelizmente tenho que discordar.", "ejes": "Lamentablemente tengo que discrepar.", "cog": false },
+        { "t": "ponto de vista", "es": "punto de vista", "pron": "póntu dyi vísta", "ej": "Do meu ponto de vista, é arriscado.", "ejes": "Desde mi punto de vista, es arriesgado.", "cog": true },
+        { "t": "para concluir", "es": "para concluir", "pron": "pára konkluír", "ej": "Para concluir, agradeço a todos.", "ejes": "Para concluir, agradezco a todos.", "cog": false },
+        { "t": "encerrar", "es": "cerrar, terminar", "pron": "enserrár", "ej": "Vamos encerrar a reunião por hoje.", "ejes": "Cerremos la reunión por hoy.", "cog": false },
+        { "t": "próximos passos", "es": "próximos pasos", "pron": "prósimus pásus", "ej": "Os próximos passos estão na ata.", "ejes": "Los próximos pasos están en el acta.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Alguém tem alguma pergunta?", "es": "¿Alguien tiene alguna pregunta?", "pron": "awgéin téin awgúma pergúnta" },
+        { "t": "Concordo com você, mas tenho uma dúvida.", "es": "Estoy de acuerdo contigo, pero tengo una duda.", "pron": "konkórdu kon vosé mais teñu úma dúvida" },
+        { "t": "Do meu ponto de vista, o prazo é curto.", "es": "Desde mi punto de vista, el plazo es corto.", "pron": "du méu póntu dyi vísta u prázu é kúrtu" },
+        { "t": "Para concluir, os próximos passos estão na ata.", "es": "Para concluir, los próximos pasos están en el acta.", "pron": "pára konkluír us prósimus pásus estáun na áta" },
+        { "t": "Vamos encerrar por hoje. Obrigado a todos.", "es": "Cerremos por hoy. Gracias a todos.", "pron": "vámus enserrár por óyi obrigádu a tódus" }
+      ],
+      "dialogo": {
+        "titulo": "Fim da reunião",
+        "lineas": [
+          { "q": "A", "t": "Para concluir, os próximos passos estão na ata.", "es": "Para concluir, los próximos pasos están en el acta." },
+          { "q": "B", "t": "Tenho uma dúvida sobre o prazo. Posso esclarecer um ponto?", "es": "Tengo una duda sobre el plazo. ¿Puedo aclarar un punto?" },
+          { "q": "A", "t": "Claro. Do seu ponto de vista, qual é o problema?", "es": "Claro. Desde su punto de vista, ¿cuál es el problema?" },
+          { "q": "B", "t": "Concordo com a equipe, mas discordo do prazo de sexta.", "es": "Estoy de acuerdo con el equipo, pero discrepo del plazo del viernes." },
+          { "q": "A", "t": "Entendo. Vamos ajustar e encerrar a reunião por hoje.", "es": "Entiendo. Ajustemos y cerremos la reunión por hoy." }
+        ]
+      },
+      "nota": "Una frase de cierre común es «Alguma pergunta?» seguida de «Obrigado pela atenção». En correo se agradece con «Agradeço a atenção»."
+    }
+  ]
+}

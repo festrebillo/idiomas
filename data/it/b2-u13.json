@@ -1,0 +1,215 @@
+{
+  "id": "it-b2-u13",
+  "idioma": "it",
+  "nivel": "B2",
+  "n": 13,
+  "titulo": "Relativas avanzadas y frases con participio",
+  "resumen": "Aprenderás «cui» con preposición, «il quale», «chi» y las frases con participio y gerundio para unir ideas con elegancia.",
+  "puedo": [
+    "Usar «cui» con preposición: la persona di cui parlo.",
+    "Usar «il quale / la quale» en textos formales.",
+    "Usar «chi», «quello che» y «chiunque» como relativos.",
+    "Usar el participio y el gerundio para abreviar frases.",
+    "Unir dos frases largas sin repetir palabras."
+  ],
+  "gramatica": {
+    "titulo": "«Cui», «il quale» y frases con participio",
+    "texto": "El relativo «che» sirve para sujeto y objeto directo. Cuando hay preposición, se usa «cui»: la persona di cui parlo, la città in cui vivo, il collega con cui lavoro. «Cui» no cambia nunca.\n«Il quale» (la quale, i quali, le quali) concuerda en género y número y se usa sobre todo en textos formales o para evitar ambigüedades: Ho parlato con il direttore, il quale ha accettato.\n«Chi» significa «la persona que»: Chi studia impara.\nParticipio absoluto: Finita la riunione, siamo usciti (= Dopo che la riunione è finita). Gerundio absoluto: Essendo tardi, sono tornato a casa (= Poiché era tardi).\nTruco: si puedes sustituir «cui» por «a quien / en el que / del que», es una relativa con preposición.",
+    "tabla": [
+      ["la persona di cui parlo", "la persona de la que hablo", "la persóna di cúi párlo"],
+      ["la città in cui vivo", "la ciudad en la que vivo", "la chittá in cúi vívo"],
+      ["il collega con cui lavoro", "el colega con quien trabajo", "il colléga con cúi lavóro"],
+      ["il direttore, il quale ha accettato", "el director, el cual aceptó", "il direttóre il cuále a achettáto"],
+      ["chi studia impara", "quien estudia aprende", "ki stúdia impára"],
+      ["finita la riunione", "terminada la reunión", "finíta la riunióne"]
+    ],
+    "errores": [
+      "Con preposición, no se usa «che»: «la ragazza con cui parlo», no «la ragazza con che parlo».",
+      "«Cui» no cambia: «gli amici con cui esco», no «con cuii».",
+      "No repitas el pronombre: «il libro di cui ho bisogno», no «il libro di cui ne ho bisogno»."
+    ]
+  },
+  "practica": [
+    "Escribe diez frases con «cui» y distintas preposiciones (di, a, con, in, per) (8 minutos).",
+    "Une cinco pares de frases con «il quale / la quale» en un texto formal (8 minutos).",
+    "Convierte cinco frases con «dopo che» en frases con participio absoluto (6 minutos).",
+    "Lee un artículo de periódico italiano y subraya cinco relativas con «cui» (8 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "it-b2-u13-l1",
+      "n": 1,
+      "titulo": "«Cui» con preposición",
+      "objetivo": "Usar «cui» después de preposición para unir frases.",
+      "intro": "«Cui» es el relativo que se usa tras una preposición. Truco: «di cui» = de quien/del que, «in cui» = en el que, «con cui» = con quien.",
+      "palabras": [
+        { "t": "di cui", "es": "del que, de quien", "pron": "di cúi", "ej": "Questo è il libro di cui ti ho parlato.", "ejes": "Este es el libro del que te hablé.", "cog": false },
+        { "t": "in cui", "es": "en el que, donde", "pron": "in cúi", "ej": "La città in cui vivo è piccola.", "ejes": "La ciudad en la que vivo es pequeña.", "cog": false },
+        { "t": "con cui", "es": "con quien, con el que", "pron": "con cúi", "ej": "Il collega con cui lavoro è simpatico.", "ejes": "El colega con quien trabajo es simpático.", "cog": false },
+        { "t": "a cui", "es": "a quien, al que", "pron": "a cúi", "ej": "L'amico a cui scrivo vive a Roma.", "ejes": "El amigo a quien escribo vive en Roma.", "cog": false },
+        { "t": "per cui", "es": "por lo que, por eso", "pron": "per cúi", "ej": "Il motivo per cui ti chiamo è importante.", "ejes": "El motivo por el que te llamo es importante.", "cog": false },
+        { "t": "da cui", "es": "de donde, del que", "pron": "da cúi", "ej": "Il paese da cui vengo è piccolo.", "ejes": "El pueblo de donde vengo es pequeño.", "cog": false },
+        { "t": "su cui", "es": "sobre el que", "pron": "su cúi", "ej": "Il tavolo su cui lavoro è vecchio.", "ejes": "La mesa sobre la que trabajo es vieja.", "cog": false },
+        { "t": "la ragione", "es": "la razón", "pron": "la radyóne", "ej": "La ragione è semplice.", "ejes": "La razón es sencilla.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Questo è il libro di cui ti ho parlato.", "es": "Este es el libro del que te hablé.", "pron": "cuésto e il líbro di cúi ti o parláto" },
+        { "t": "La città in cui vivo è molto tranquilla.", "es": "La ciudad en la que vivo es muy tranquila.", "pron": "la chittá in cúi vívo e mólto tranquílla" },
+        { "t": "Il collega con cui lavoro è simpatico.", "es": "El colega con quien trabajo es simpático.", "pron": "il colléga con cúi lavóro e simpático" },
+        { "t": "Ho un amico a cui piace cucinare.", "es": "Tengo un amigo al que le gusta cocinar.", "pron": "o un amíco a cúi piáche cuchináre" },
+        { "t": "Il motivo per cui ti chiamo è importante.", "es": "El motivo por el que te llamo es importante.", "pron": "il motívo per cúi ti quiámo e importánte" }
+      ],
+      "dialogo": {
+        "titulo": "Sul lavoro",
+        "lineas": [
+          { "q": "A", "t": "Chi è la persona di cui parlavi?", "es": "¿Quién es la persona de la que hablabas?" },
+          { "q": "B", "t": "È il collega con cui lavoro.", "es": "Es el colega con quien trabajo." },
+          { "q": "A", "t": "E l'ufficio in cui lavorate è grande?", "es": "¿Y la oficina en la que trabajan es grande?" },
+          { "q": "B", "t": "Sì, è il motivo per cui sono contento.", "es": "Sí, es el motivo por el que estoy contento." },
+          { "q": "A", "t": "Allora è il lavoro a cui pensavi!", "es": "¡Entonces es el trabajo en el que pensabas!" }
+        ]
+      },
+      "nota": "En el habla se dice a menudo «dove» en lugar de «in cui» para lugares: «la città dove vivo». Es correcto y natural."
+    },
+    {
+      "id": "it-b2-u13-l2",
+      "n": 2,
+      "titulo": "«Il quale» y relativos formales",
+      "objetivo": "Usar «il quale» para evitar repeticiones y dar un tono formal.",
+      "intro": "«Il quale» cambia con el género y el número y se usa mucho en textos escritos. Truco: si hay dos personas en la frase, «il quale» deja claro a quién se refiere.",
+      "palabras": [
+        { "t": "il quale", "es": "el cual", "pron": "il cuále", "ej": "Ho parlato con il direttore, il quale ha accettato.", "ejes": "Hablé con el director, el cual aceptó.", "cog": false },
+        { "t": "la quale", "es": "la cual", "pron": "la cuále", "ej": "Ho scritto alla dottoressa, la quale ha risposto subito.", "ejes": "Le escribí a la doctora, la cual respondió enseguida.", "cog": false },
+        { "t": "i quali", "es": "los cuales", "pron": "i cuáli", "ej": "Ho incontrato due clienti, i quali erano molto soddisfatti.", "ejes": "Conocí a dos clientes, los cuales estaban muy satisfechos.", "cog": false },
+        { "t": "le quali", "es": "las cuales", "pron": "le cuáli", "ej": "Sono arrivate due lettere, le quali sono urgenti.", "ejes": "Llegaron dos cartas, las cuales son urgentes.", "cog": false },
+        { "t": "del quale", "es": "del cual", "pron": "del cuále", "ej": "È un progetto del quale siamo orgogliosi.", "ejes": "Es un proyecto del cual estamos orgullosos.", "cog": false },
+        { "t": "con il quale", "es": "con el cual", "pron": "con il cuále", "ej": "È l'uomo con il quale ho parlato.", "ejes": "Es el hombre con el cual hablé.", "cog": false },
+        { "t": "nel quale", "es": "en el cual", "pron": "nel cuále", "ej": "Il contratto nel quale si parla del prezzo è qui.", "ejes": "El contrato en el cual se habla del precio está aquí.", "cog": false },
+        { "t": "alla quale", "es": "a la cual", "pron": "ala cuále", "ej": "È la persona alla quale ho scritto.", "ejes": "Es la persona a la cual escribí.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Ho parlato con il direttore, il quale ha accettato.", "es": "Hablé con el director, el cual aceptó.", "pron": "o parláto con il direttóre il cuále a achettáto" },
+        { "t": "Ho scritto alla dottoressa, la quale ha risposto subito.", "es": "Le escribí a la doctora, la cual respondió enseguida.", "pron": "o scrítto ala dottoréssa la cuále a rispósto súbito" },
+        { "t": "Ci sono due problemi, i quali richiedono attenzione.", "es": "Hay dos problemas, los cuales requieren atención.", "pron": "chi sóno dúe probléme i cuáli richiédono atensióne" },
+        { "t": "È un progetto del quale siamo orgogliosi.", "es": "Es un proyecto del cual estamos orgullosos.", "pron": "e un progétto del cuále siámo orgolióssi" },
+        { "t": "Conosce l'uomo con il quale ho parlato?", "es": "¿Conoce al hombre con el cual hablé?", "pron": "conóshe luómo con il cuále o parláto" }
+      ],
+      "dialogo": {
+        "titulo": "Una lettera formale",
+        "lineas": [
+          { "q": "A", "t": "Ho scritto al direttore, il quale non ha ancora risposto.", "es": "Le escribí al director, el cual todavía no ha respondido." },
+          { "q": "B", "t": "Forse è in viaggio con la moglie, la quale lavora con lui.", "es": "Quizá está de viaje con su esposa, la cual trabaja con él." },
+          { "q": "A", "t": "Ho anche allegato il contratto, del quale ho una copia.", "es": "También adjunté el contrato, del cual tengo una copia." },
+          { "q": "B", "t": "Aspetta ancora un giorno.", "es": "Espera un día más." },
+          { "q": "A", "t": "Va bene, grazie del consiglio.", "es": "Está bien, gracias por el consejo." }
+        ]
+      },
+      "nota": "«Il quale» se usa para evitar ambigüedades: «Ho parlato con il figlio del direttore, il quale...» ¿el hijo o el director? Con «la quale» y «il quale» se distingue."
+    },
+    {
+      "id": "it-b2-u13-l3",
+      "n": 3,
+      "titulo": "«Chi», «quello che» y «chiunque»",
+      "objetivo": "Usar relativos sin antecedente para generalizar.",
+      "intro": "«Chi» significa «quien»; «quello che» y «ciò che» significan «lo que». Truco: «chi» siempre va con verbo en singular.",
+      "palabras": [
+        { "t": "chi", "es": "quien, el que", "pron": "ki", "ej": "Chi dorme non piglia pesci.", "ejes": "Quien duerme no pesca peces.", "cog": false },
+        { "t": "quello che", "es": "lo que", "pron": "cuéllo ke", "ej": "Quello che dici è vero.", "ejes": "Lo que dices es verdad.", "cog": false },
+        { "t": "ciò che", "es": "lo que (formal)", "pron": "chió ke", "ej": "Ciò che è successo è grave.", "ejes": "Lo que ha ocurrido es grave.", "cog": false },
+        { "t": "tutto ciò che", "es": "todo lo que", "pron": "túto chió ke", "ej": "Tutto ciò che voglio è riposare.", "ejes": "Todo lo que quiero es descansar.", "cog": false },
+        { "t": "chiunque", "es": "cualquiera, quien sea", "pron": "quiúnque", "ej": "Chiunque può partecipare.", "ejes": "Cualquiera puede participar.", "cog": false },
+        { "t": "dovunque", "es": "dondequiera", "pron": "dovúnque", "ej": "Dovunque vada, trova amici.", "ejes": "Dondequiera que vaya, encuentra amigos.", "cog": false },
+        { "t": "qualunque", "es": "cualquier", "pron": "cualúnque", "ej": "Qualunque scelta è buona.", "ejes": "Cualquier elección es buena.", "cog": false },
+        { "t": "quanto", "es": "cuanto, lo que", "pron": "cuánto", "ej": "Faccio quanto posso.", "ejes": "Hago lo que puedo.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Chi studia molto impara molto.", "es": "Quien estudia mucho aprende mucho.", "pron": "ki stúdia mólto impára mólto" },
+        { "t": "Quello che dici è vero.", "es": "Lo que dices es verdad.", "pron": "cuéllo ke díchi e véro" },
+        { "t": "Tutto ciò che voglio è riposare.", "es": "Todo lo que quiero es descansar.", "pron": "túto chió ke vólio riposáre" },
+        { "t": "Chiunque può partecipare.", "es": "Cualquiera puede participar.", "pron": "quiúnque puó partechipáre" },
+        { "t": "Dovunque vada, trova amici.", "es": "Dondequiera que vaya, encuentra amigos.", "pron": "dovúnque váda tróva amíchi" }
+      ],
+      "dialogo": {
+        "titulo": "Una discussione",
+        "lineas": [
+          { "q": "A", "t": "Non capisco quello che dici.", "es": "No entiendo lo que dices." },
+          { "q": "B", "t": "Voglio dire che chi lavora tanto merita un premio.", "es": "Quiero decir que quien trabaja mucho merece un premio." },
+          { "q": "A", "t": "Hai ragione, chiunque lo penserebbe.", "es": "Tienes razón, cualquiera lo pensaría." },
+          { "q": "B", "t": "Tutto ciò che chiedo è un po' di rispetto.", "es": "Todo lo que pido es un poco de respeto." },
+          { "q": "A", "t": "Lo avrai, ne parlo con il direttore.", "es": "Lo tendrás, lo hablo con el director." }
+        ]
+      },
+      "nota": "Con «chiunque», «dovunque» y «qualunque» se usa el congiuntivo: «Dovunque tu vada», «Chiunque sia». Es un uso formal que verás en periódicos y cartas."
+    },
+    {
+      "id": "it-b2-u13-l4",
+      "n": 4,
+      "titulo": "Participio y gerundio absolutos",
+      "objetivo": "Abreviar frases con participio y gerundio al inicio de la oración.",
+      "intro": "El participio pasado absoluto significa «una vez hecho algo»; el gerundio indica causa o modo. Truco: «finita la riunione» = «dopo che la riunione è finita».",
+      "palabras": [
+        { "t": "finita la riunione", "es": "terminada la reunión", "pron": "finíta la riunióne", "ej": "Finita la riunione, siamo andati a pranzo.", "ejes": "Terminada la reunión, fuimos a almorzar.", "cog": false },
+        { "t": "arrivato a casa", "es": "llegado a casa", "pron": "arriváto a cása", "ej": "Arrivato a casa, ho cenato.", "ejes": "Al llegar a casa, cené.", "cog": false },
+        { "t": "una volta finito", "es": "una vez terminado", "pron": "úna vólta finíto", "ej": "Una volta finito il lavoro, vado a casa.", "ejes": "Una vez terminado el trabajo, me voy a casa.", "cog": false },
+        { "t": "dette queste cose", "es": "dicho esto", "pron": "détte cuéste cóse", "ej": "Dette queste cose, possiamo cominciare.", "ejes": "Dicho esto, podemos empezar.", "cog": false },
+        { "t": "essendo", "es": "siendo, como es", "pron": "esséndo", "ej": "Essendo tardi, sono tornato a casa.", "ejes": "Como era tarde, me volví a casa.", "cog": false },
+        { "t": "avendo", "es": "habiendo, como tengo", "pron": "avéndo", "ej": "Avendo poco tempo, ho preso un taxi.", "ejes": "Como tenía poco tiempo, tomé un taxi.", "cog": false },
+        { "t": "volendo", "es": "queriendo, si se quiere", "pron": "voléndo", "ej": "Volendo, possiamo partire presto.", "ejes": "Si se quiere, podemos partir temprano.", "cog": false },
+        { "t": "pensandoci", "es": "pensándolo bien", "pron": "pensándochi", "ej": "Pensandoci, hai ragione tu.", "ejes": "Pensándolo bien, tienes razón.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Finita la riunione, siamo andati a pranzo.", "es": "Terminada la reunión, fuimos a almorzar.", "pron": "finíta la riunióne siámo andáti a prándso" },
+        { "t": "Arrivato a casa, ho cenato subito.", "es": "Al llegar a casa, cené de inmediato.", "pron": "arriváto a cása o chenáto súbito" },
+        { "t": "Essendo tardi, sono tornato a casa.", "es": "Como era tarde, me volví a casa.", "pron": "esséndo tárdi sóno tornáto a cása" },
+        { "t": "Avendo poco tempo, ho preso un taxi.", "es": "Como tenía poco tiempo, tomé un taxi.", "pron": "avéndo póco témpo o préso un táxi" },
+        { "t": "Pensandoci, hai ragione tu.", "es": "Pensándolo bien, tienes razón.", "pron": "pensándochi ái radyóne tu" }
+      ],
+      "dialogo": {
+        "titulo": "Dopo la riunione",
+        "lineas": [
+          { "q": "A", "t": "Finita la riunione, che cosa fai?", "es": "Terminada la reunión, ¿qué haces?" },
+          { "q": "B", "t": "Essendo stanco, torno a casa.", "es": "Como estoy cansado, vuelvo a casa." },
+          { "q": "A", "t": "Volendo, possiamo prendere un caffè prima.", "es": "Si quieres, podemos tomar un café antes." },
+          { "q": "B", "t": "Pensandoci, va bene.", "es": "Pensándolo bien, está bien." },
+          { "q": "A", "t": "Arrivati al bar, ordino io.", "es": "Cuando lleguemos al bar, ordeno yo." }
+        ]
+      },
+      "nota": "El sujeto del gerundio o participio absoluto suele coincidir con el de la frase principal. Si no coincide, el participio absoluto concuerda con su propio sujeto: «Finita la riunione» (la riunione es el sujeto del participio)."
+    },
+    {
+      "id": "it-b2-u13-l5",
+      "n": 5,
+      "titulo": "Repaso: unir ideas con elegancia",
+      "objetivo": "Combinar relativas con «cui», «il quale» y frases con participio en un texto corto.",
+      "intro": "Repasa la unidad uniendo frases. Truco: ante una frase larga, pregúntate ¿puedo unirla con «cui», «il quale» o un participio?",
+      "palabras": [
+        { "t": "di cui", "es": "del que", "pron": "di cúi", "ej": "È il progetto di cui parlo da giorni.", "ejes": "Es el proyecto del que hablo hace días.", "cog": false },
+        { "t": "con cui", "es": "con quien", "pron": "con cúi", "ej": "È la persona con cui lavoro.", "ejes": "Es la persona con quien trabajo.", "cog": false },
+        { "t": "in cui", "es": "en el que", "pron": "in cúi", "ej": "È il giorno in cui ci siamo conosciuti.", "ejes": "Es el día en que nos conocimos.", "cog": false },
+        { "t": "il quale", "es": "el cual", "pron": "il cuále", "ej": "Ho scritto al capo, il quale ha risposto.", "ejes": "Le escribí al jefe, el cual respondió.", "cog": false },
+        { "t": "chi", "es": "quien", "pron": "ki", "ej": "Chi ama lavora volentieri.", "ejes": "Quien ama trabaja con gusto.", "cog": false },
+        { "t": "quello che", "es": "lo que", "pron": "cuéllo ke", "ej": "Quello che conta è finire.", "ejes": "Lo que cuenta es terminar.", "cog": false },
+        { "t": "finito il lavoro", "es": "terminado el trabajo", "pron": "finíto il lavóro", "ej": "Finito il lavoro, siamo usciti.", "ejes": "Terminado el trabajo, salimos.", "cog": false },
+        { "t": "essendo", "es": "siendo, como es", "pron": "esséndo", "ej": "Essendo lunedì, il museo è chiuso.", "ejes": "Como es lunes, el museo está cerrado.", "cog": false }
+      ],
+      "frases": [
+        { "t": "È il progetto di cui parlo da giorni.", "es": "Es el proyecto del que hablo hace días.", "pron": "e il progétto di cúi párlo da yórni" },
+        { "t": "È il giorno in cui ci siamo conosciuti.", "es": "Es el día en que nos conocimos.", "pron": "e il yórno in cúi chi siámo conoshúti" },
+        { "t": "Ho scritto al capo, il quale ha risposto.", "es": "Le escribí al jefe, el cual respondió.", "pron": "o scrítto al cápo il cuále a rispósto" },
+        { "t": "Finito il lavoro, siamo usciti insieme.", "es": "Terminado el trabajo, salimos juntos.", "pron": "finíto il lavóro siámo ushíti insiéme" },
+        { "t": "Essendo lunedì, il museo è chiuso.", "es": "Como es lunes, el museo está cerrado.", "pron": "esséndo lunedí il muséo e chiúso" }
+      ],
+      "dialogo": {
+        "titulo": "Una buona notizia",
+        "lineas": [
+          { "q": "A", "t": "Ho incontrato il collega con cui lavoravo a Milano.", "es": "Me encontré con el colega con quien trabajaba en Milán." },
+          { "q": "B", "t": "Quello di cui mi parlavi sempre?", "es": "¿El que siempre me mencionabas?" },
+          { "q": "A", "t": "Sì, ha una proposta la quale mi interessa molto.", "es": "Sí, tiene una propuesta que me interesa mucho." },
+          { "q": "B", "t": "Finita la riunione, dimmi tutto.", "es": "Terminada la reunión, cuéntamelo todo." },
+          { "q": "A", "t": "Va bene, chi ha pazienza ottiene tutto.", "es": "Está bien, quien tiene paciencia consigue todo." }
+        ]
+      },
+      "nota": "Estas construcciones son frecuentes en periódicos, informes y cartas formales. En una conversación informal, el italiano prefiere frases más cortas con «che» y «dove»."
+    }
+  ]
+}

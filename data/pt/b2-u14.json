@@ -1,0 +1,219 @@
+{
+  "id": "pt-b2-u14",
+  "idioma": "pt",
+  "nivel": "B2",
+  "n": 14,
+  "titulo": "Cantidad y comparación avanzadas",
+  "resumen": "Aprenderás a expresar proporción y consecuencia con «quanto mais..., mais...» y «tão... que», a comparar con precisión (bem mais, muito menos) y a hablar de cantidades (a maioria, bastante, demais).",
+  "puedo": [
+    "Decir «cuanto más... más...» con «quanto mais..., mais...».",
+    "Expresar consecuencia con «tão... que» y «tanto... que».",
+    "Hacer comparaciones con «bem mais», «muito menos» y «ainda mais».",
+    "Hablar de cantidades con «a maioria», «bastante» y «de sobra».",
+    "Comparar cosas iguales con «tão... quanto» y «tanto... quanto»."
+  ],
+  "gramatica": {
+    "titulo": "Quanto mais..., mais... y tão... que",
+    "texto": "Para decir que dos cosas crecen juntas usa «quanto mais..., mais...»: Quanto mais estudo, mais aprendo (Cuanto más estudio, más aprendo). También funciona con «menos» y con adjetivos: Quanto menos tempo, melhor.\nPara expresar una consecuencia usa «tão + adjetivo/adverbio + que» o «tanto/tanta + sustantivo + que»: Estava tão cansado que dormi no ônibus. Havia tanta gente que não consegui entrar.\nPara comparar con igualdad usa «tão... quanto» o «tanto... quanto»: Ela é tão alta quanto o irmão.",
+    "tabla": [
+      ["Quanto mais estudo, mais aprendo.", "Cuanto más estudio, más aprendo.", "kuántu máis estúdu máis aprendu"],
+      ["Quanto antes, melhor.", "Cuanto antes, mejor.", "kuántu ántyis melyór"],
+      ["Estava tão cansado que dormi.", "Estaba tan cansado que dormí.", "estáva táun kansádu ki dormí"],
+      ["Havia tanta gente que não entrei.", "Había tanta gente que no entré.", "avía tánta yénti ki náun entréi"],
+      ["Ela é tão alta quanto ele.", "Ella es tan alta como él.", "éla é táun áwta kuántu éli"]
+    ],
+    "errores": [
+      "No traduzcas «cuanto más» con «como más»: es «quanto mais», y la segunda parte lleva «mais» también.",
+      "«Tão» va con adjetivos y adverbios, «tanto» con sustantivos y verbos: «tão rápido», «tanto trabalho».",
+      "Para consecuencia usa «que», no «como»: «tão cansado que», no «tão cansado como»."
+    ]
+  },
+  "practica": [
+    "Escribe 8 frases con «quanto mais..., mais...» sobre tus hábitos (8 minutos).",
+    "Completa 6 frases con «tão... que» y «tanto... que» sobre tu semana (8 minutos).",
+    "Compara 5 pares de cosas (ciudades, comidas, personas) con «bem mais» y «muito menos» (8 minutos).",
+    "Busca en una noticia en portugués expresiones de cantidad como «a maioria» y «a maior parte» (6 minutos)."
+  ],
+  "lecciones": [
+    {
+      "id": "pt-b2-u14-l1",
+      "n": 1,
+      "titulo": "Quanto mais..., mais...",
+      "objetivo": "Expresar que dos cosas aumentan o disminuyen juntas.",
+      "intro": "La estructura «quanto mais..., mais...» es una balanza: lo que sube a un lado sube al otro. Truco: en español ya la usas («cuanto más... más»), solo cambia por «quanto mais... mais».",
+      "palabras": [
+        { "t": "quanto mais", "es": "cuanto más", "pron": "kuántu máis", "ej": "Quanto mais estudo, mais aprendo.", "ejes": "Cuanto más estudio, más aprendo.", "cog": false },
+        { "t": "quanto menos", "es": "cuanto menos", "pron": "kuántu ménus", "ej": "Quanto menos açúcar, melhor.", "ejes": "Cuanto menos azúcar, mejor.", "cog": false },
+        { "t": "cada vez mais", "es": "cada vez más", "pron": "káda vés máis", "ej": "A cidade está cada vez mais cheia.", "ejes": "La ciudad está cada vez más llena.", "cog": false },
+        { "t": "cada vez menos", "es": "cada vez menos", "pron": "káda vés ménus", "ej": "Tenho cada vez menos tempo livre.", "ejes": "Tengo cada vez menos tiempo libre.", "cog": false },
+        { "t": "quanto antes", "es": "cuanto antes", "pron": "kuántu ántyis", "ej": "Responda quanto antes, por favor.", "ejes": "Responde cuanto antes, por favor.", "cog": false },
+        { "t": "quanto maior", "es": "cuanto mayor", "pron": "kuántu maiór", "ej": "Quanto maior a casa, maior o gasto.", "ejes": "Cuanto mayor la casa, mayor el gasto.", "cog": false },
+        { "t": "quanto mais cedo", "es": "cuanto más temprano", "pron": "kuántu máis sédu", "ej": "Quanto mais cedo você sair, melhor.", "ejes": "Cuanto más temprano salgas, mejor.", "cog": false },
+        { "t": "aos poucos", "es": "poco a poco", "pron": "aus pókus", "ej": "Aos poucos você vai melhorar.", "ejes": "Poco a poco vas a mejorar.", "cog": false },
+        { "t": "mais ou menos", "es": "más o menos", "pron": "máis ou ménus", "ej": "Estou mais ou menos bem hoje.", "ejes": "Estoy más o menos bien hoy.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Quanto mais estudo, mais aprendo.", "es": "Cuanto más estudio, más aprendo.", "pron": "kuántu máis estúdu máis aprendu" },
+        { "t": "Quanto menos tempo, mais rápido eu trabalho.", "es": "Cuanto menos tiempo, más rápido trabajo.", "pron": "kuántu ménus témpu máis rápidu éu trabálu" },
+        { "t": "A cidade está cada vez mais cara.", "es": "La ciudad está cada vez más cara.", "pron": "a sidádi está káda vés máis kára" },
+        { "t": "Quanto antes você chegar, melhor.", "es": "Cuanto antes llegues, mejor.", "pron": "kuántu ántyis vosé shegár melyór" },
+        { "t": "Aos poucos, o português fica mais fácil.", "es": "Poco a poco, el portugués se vuelve más fácil.", "pron": "aus pókus u portuguéis fíka máis fásiw" }
+      ],
+      "dialogo": {
+        "titulo": "Estudando para o exame",
+        "lineas": [
+          { "q": "A", "t": "Quanto mais eu estudo, mais eu me confundo.", "es": "Cuanto más estudio, más me confundo." },
+          { "q": "B", "t": "Calma. Aos poucos você vai entender.", "es": "Calma. Poco a poco vas a entender." },
+          { "q": "A", "t": "Tenho cada vez menos tempo para a revisão.", "es": "Tengo cada vez menos tiempo para repasar." },
+          { "q": "B", "t": "Quanto antes você começar, melhor. Quanto mais cedo, mais tranquilo.", "es": "Cuanto antes empieces, mejor. Cuanto más temprano, más tranquilo." },
+          { "q": "A", "t": "Mais ou menos assim eu faço. Obrigado pelo conselho.", "es": "Más o menos así lo hago. Gracias por el consejo." }
+        ]
+      },
+      "nota": "«Quanto mais... mais...» puede abreviarse: «Quanto mais, melhor» (cuanto más, mejor). Es una frase hecha muy usada."
+    },
+    {
+      "id": "pt-b2-u14-l2",
+      "n": 2,
+      "titulo": "Tão... que, tanto... que",
+      "objetivo": "Expresar consecuencia con «tão... que» y «tanto... que».",
+      "intro": "«Tão... que» mide una cualidad y dice su resultado. Truco: «tão» va con adjetivos, «tanto» con sustantivos y verbos; ambos se unen con «que».",
+      "palabras": [
+        { "t": "tão cansado que", "es": "tan cansado que", "pron": "táun kansádu ki", "ej": "Estava tão cansado que dormi no ônibus.", "ejes": "Estaba tan cansado que dormí en el bus.", "cog": false },
+        { "t": "tão rápido que", "es": "tan rápido que", "pron": "táun rápidu ki", "ej": "Ele corre tão rápido que ninguém o alcança.", "ejes": "Corre tan rápido que nadie lo alcanza.", "cog": false },
+        { "t": "tanto trabalho que", "es": "tanto trabajo que", "pron": "tántu trabálu ki", "ej": "Tenho tanto trabalho que não saio de casa.", "ejes": "Tengo tanto trabajo que no salgo de casa.", "cog": false },
+        { "t": "tanta gente que", "es": "tanta gente que", "pron": "tánta yénti ki", "ej": "Havia tanta gente que não consegui entrar.", "ejes": "Había tanta gente que no logré entrar.", "cog": false },
+        { "t": "tantos problemas que", "es": "tantos problemas que", "pron": "tántus problémas ki", "ej": "Teve tantos problemas que desistiu.", "ejes": "Tuvo tantos problemas que se rindió.", "cog": false },
+        { "t": "de tão", "es": "de tan", "pron": "dyi táun", "ej": "De tão feliz, ela chorou.", "ejes": "De tan feliz, lloró.", "cog": false },
+        { "t": "a ponto de", "es": "al punto de", "pron": "a póntu dyi", "ej": "Ele ficou nervoso a ponto de tremer.", "ejes": "Se puso nervioso al punto de temblar.", "cog": false },
+        { "t": "tanto que", "es": "tanto que", "pron": "tántu ki", "ej": "Ela ama a cidade, tanto que nunca saiu.", "ejes": "Ella ama la ciudad, tanto que nunca se fue.", "cog": false },
+        { "t": "tão difícil que", "es": "tan difícil que", "pron": "táun dyifísiw ki", "ej": "O exame foi tão difícil que ninguém passou.", "ejes": "El examen fue tan difícil que nadie aprobó.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Estava tão cansado que dormi no ônibus.", "es": "Estaba tan cansado que dormí en el bus.", "pron": "estáva táun kansádu ki dormí nu ónibus" },
+        { "t": "Havia tanta gente que não consegui entrar.", "es": "Había tanta gente que no logré entrar.", "pron": "avía tánta yénti ki náun konsegí entrár" },
+        { "t": "O exame foi tão difícil que ninguém passou.", "es": "El examen fue tan difícil que nadie aprobó.", "pron": "u ezámi fói táun dyifísiw ki ningéin pasóu" },
+        { "t": "De tão feliz, ela chorou.", "es": "De tan feliz, ella lloró.", "pron": "dyi táun felís éla shoróu" },
+        { "t": "Ele ficou nervoso a ponto de tremer.", "es": "Se puso nervioso al punto de temblar.", "pron": "éli ficóu nervózu a póntu dyi tremér" }
+      ],
+      "dialogo": {
+        "titulo": "Um dia complicado",
+        "lineas": [
+          { "q": "A", "t": "Hoje o trânsito estava tão ruim que cheguei atrasado.", "es": "Hoy el tráfico estaba tan malo que llegué tarde." },
+          { "q": "B", "t": "Eu tive tanto trabalho que não almocei.", "es": "Yo tuve tanto trabajo que no almorcé." },
+          { "q": "A", "t": "Havia tanta gente no refeitório que desisti.", "es": "Había tanta gente en el comedor que desistí." },
+          { "q": "B", "t": "Estou tão cansado que mal consigo pensar.", "es": "Estoy tan cansado que apenas puedo pensar." },
+          { "q": "A", "t": "Vamos para casa, estamos tão exaustos que mal falamos.", "es": "Vamos a casa, estamos tan agotados que apenas hablamos." }
+        ]
+      },
+      "nota": "«Tão... que» puede reforzarse con «a tal ponto que» en textos formales. En la conversación, «tão... que» es lo habitual."
+    },
+    {
+      "id": "pt-b2-u14-l3",
+      "n": 3,
+      "titulo": "Comparativos precisos",
+      "objetivo": "Comparar con matices usando «bem mais», «muito menos» y comparativos irregulares.",
+      "intro": "Para decir cuánta diferencia hay añade «bem», «muito» o «ainda» antes de «mais / menos». Truco: «melhor» y «pior» ya son comparativos, no digas «mais melhor».",
+      "palabras": [
+        { "t": "melhor do que", "es": "mejor que", "pron": "melyór dú ki", "ej": "Este plano é melhor do que o outro.", "ejes": "Este plan es mejor que el otro.", "cog": false },
+        { "t": "pior do que", "es": "peor que", "pron": "piór dú ki", "ej": "O trânsito está pior do que ontem.", "ejes": "El tráfico está peor que ayer.", "cog": false },
+        { "t": "maior que", "es": "mayor que", "pron": "maiór ki", "ej": "O Brasil é maior que a Argentina.", "ejes": "Brasil es más grande que Argentina.", "cog": false },
+        { "t": "menor que", "es": "menor que", "pron": "menór ki", "ej": "Minha casa é menor que a sua.", "ejes": "Mi casa es más pequeña que la tuya.", "cog": false },
+        { "t": "bem mais", "es": "mucho más", "pron": "béin máis", "ej": "Esse carro é bem mais caro.", "ejes": "Este carro es mucho más caro.", "cog": false },
+        { "t": "muito menos", "es": "mucho menos", "pron": "múitu ménus", "ej": "Hoje chove muito menos que ontem.", "ejes": "Hoy llueve mucho menos que ayer.", "cog": false },
+        { "t": "ainda mais", "es": "todavía más", "pron": "aínda máis", "ej": "Com a chuva, ficou ainda mais difícil.", "ejes": "Con la lluvia, se puso todavía más difícil.", "cog": false },
+        { "t": "mais bem preparado", "es": "mejor preparado", "pron": "máis béin preparádu", "ej": "Ele está mais bem preparado que eu.", "ejes": "Él está mejor preparado que yo.", "cog": false },
+        { "t": "o mais possível", "es": "lo más posible", "pron": "u máis posível", "ej": "Quero dormir o mais possível.", "ejes": "Quiero dormir lo más posible.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Esse plano é bem melhor do que o outro.", "es": "Este plan es mucho mejor que el otro.", "pron": "ésyi plánu é béin melyór dú ki u óutru" },
+        { "t": "O trânsito está pior do que ontem.", "es": "El tráfico está peor que ayer.", "pron": "u tránzitu está piór dú ki óntein" },
+        { "t": "Minha casa é bem menor que a sua.", "es": "Mi casa es mucho más pequeña que la tuya.", "pron": "míña káza é béin menór ki a súa" },
+        { "t": "Hoje chove muito menos que ontem.", "es": "Hoy llueve mucho menos que ayer.", "pron": "óyi shóvi múitu ménus ki óntein" },
+        { "t": "Ele está mais bem preparado que eu.", "es": "Él está mejor preparado que yo.", "pron": "éli está máis béin preparádu ki éu" }
+      ],
+      "dialogo": {
+        "titulo": "Comparando dois apartamentos",
+        "lineas": [
+          { "q": "A", "t": "Esse apartamento é bem mais caro que o outro.", "es": "Este departamento es mucho más caro que el otro." },
+          { "q": "B", "t": "Mas é bem maior e fica perto do metrô.", "es": "Pero es mucho más grande y queda cerca del metro." },
+          { "q": "A", "t": "O outro é menor que este, mas o bairro é melhor do que o daqui.", "es": "El otro es más pequeño que este, pero el barrio es mejor que el de aquí." },
+          { "q": "B", "t": "Com o trânsito, o outro bairro é pior do que parece.", "es": "Con el tráfico, el otro barrio es peor de lo que parece." },
+          { "q": "A", "t": "Então vou escolher o que me deixa mais bem preparado para trabalhar.", "es": "Entonces voy a elegir el que me deje mejor preparado para trabajar." }
+        ]
+      },
+      "nota": "«Mais bem» se usa antes de un participio («mais bem preparado»); «melhor» se usa solo («é melhor»). Ambas son correctas en contextos distintos."
+    },
+    {
+      "id": "pt-b2-u14-l4",
+      "n": 4,
+      "titulo": "Hablar de cantidades",
+      "objetivo": "Expresar mayoría, minoría, suficiencia y exceso.",
+      "intro": "Para hablar de cantidades sin números usa «a maioria», «bastante», «de sobra». Truco: «a maioria dos» + plural lleva el verbo en singular o plural; en el habla, plural es lo normal.",
+      "palabras": [
+        { "t": "a maioria", "es": "la mayoría", "pron": "a maioría", "ej": "A maioria dos alunos chegou cedo.", "ejes": "La mayoría de los alumnos llegó temprano.", "cog": false },
+        { "t": "a maior parte", "es": "la mayor parte", "pron": "a maiór pártyi", "ej": "A maior parte do dia eu trabalho.", "ejes": "La mayor parte del día trabajo.", "cog": false },
+        { "t": "a minoria", "es": "la minoría", "pron": "a minoría", "ej": "Só a minoria dos clientes reclamou.", "ejes": "Solo la minoría de los clientes reclamó.", "cog": true },
+        { "t": "a metade", "es": "la mitad", "pron": "a metádyi", "ej": "A metade da equipe viajou.", "ejes": "La mitad del equipo viajó.", "cog": false },
+        { "t": "bastante", "es": "bastante", "pron": "bastántyi", "ej": "Tenho bastante tempo hoje.", "ejes": "Tengo bastante tiempo hoy.", "cog": true },
+        { "t": "de sobra", "es": "de sobra", "pron": "dyi sóbra", "ej": "Temos comida de sobra para todos.", "ejes": "Tenemos comida de sobra para todos.", "cog": false },
+        { "t": "demais", "es": "demasiado", "pron": "dyimáis", "ej": "Esse café está doce demais.", "ejes": "Este café está demasiado dulce.", "cog": false },
+        { "t": "uma porção de", "es": "un montón de", "pron": "úma porsáun dyi", "ej": "Tenho uma porção de coisas para fazer.", "ejes": "Tengo un montón de cosas por hacer.", "cog": false },
+        { "t": "a grande maioria", "es": "la gran mayoría", "pron": "a grándyi maioría", "ej": "A grande maioria aprovou a proposta.", "ejes": "La gran mayoría aprobó la propuesta.", "cog": false }
+      ],
+      "frases": [
+        { "t": "A maioria dos alunos chegou cedo.", "es": "La mayoría de los alumnos llegó temprano.", "pron": "a maioría dus alúnus shegóu sédu" },
+        { "t": "A maior parte do dia eu trabalho.", "es": "La mayor parte del día trabajo.", "pron": "a maiór pártyi du día éu trabálu" },
+        { "t": "Temos comida de sobra para todos.", "es": "Tenemos comida de sobra para todos.", "pron": "témus komída dyi sóbra pára tódus" },
+        { "t": "Esse café está doce demais.", "es": "Este café está demasiado dulce.", "pron": "ésyi kafé está dósyi dyimáis" },
+        { "t": "A grande maioria aprovou a proposta.", "es": "La gran mayoría aprobó la propuesta.", "pron": "a grándyi maioría aprovóu a propósta" }
+      ],
+      "dialogo": {
+        "titulo": "Uma pesquisa no escritório",
+        "lineas": [
+          { "q": "A", "t": "A maioria dos funcionários quer trabalhar de casa.", "es": "La mayoría de los empleados quiere trabajar desde casa." },
+          { "q": "B", "t": "A grande maioria, sim. Só a minoria prefere o escritório.", "es": "La gran mayoría, sí. Solo la minoría prefiere la oficina." },
+          { "q": "A", "t": "A metade da equipe tem bastante espaço em casa.", "es": "La mitad del equipo tiene bastante espacio en casa." },
+          { "q": "B", "t": "Mas a outra metade tem barulho demais.", "es": "Pero la otra mitad tiene demasiado ruido." },
+          { "q": "A", "t": "Então temos uma porção de motivos para ter as duas opções.", "es": "Entonces tenemos un montón de motivos para tener las dos opciones." }
+        ]
+      },
+      "nota": "«Demais» va después del adjetivo o del verbo («doce demais», «trabalho demais»). No lo pongas antes: «demais doce» es incorrecto."
+    },
+    {
+      "id": "pt-b2-u14-l5",
+      "n": 5,
+      "titulo": "Repaso: igualdad y proporción",
+      "objetivo": "Combinar proporción, consecuencia, comparación e igualdad.",
+      "intro": "Une todo: «tão... quanto» para igualdad, «quanto mais...» para proporción y «tão... que» para consecuencia. Truco: «quanto» siempre acompaña a una igualdad o a una proporción.",
+      "palabras": [
+        { "t": "tão alta quanto", "es": "tan alta como", "pron": "táun áwta kuántu", "ej": "Ela é tão alta quanto o irmão.", "ejes": "Ella es tan alta como su hermano.", "cog": false },
+        { "t": "tanto quanto", "es": "tanto como", "pron": "tántu kuántu", "ej": "Eu gosto de café tanto quanto de chá.", "ejes": "Me gusta el café tanto como el té.", "cog": false },
+        { "t": "assim como", "es": "así como", "pron": "asín kómu", "ej": "Assim como você, eu cheguei cedo.", "ejes": "Así como tú, llegué temprano.", "cog": false },
+        { "t": "igual a", "es": "igual a", "pron": "igwáu a", "ej": "O preço é igual a ontem.", "ejes": "El precio es igual al de ayer.", "cog": false },
+        { "t": "mais do que nunca", "es": "más que nunca", "pron": "máis dú ki núnka", "ej": "Hoje preciso de ajuda mais do que nunca.", "ejes": "Hoy necesito ayuda más que nunca.", "cog": false },
+        { "t": "quanto mais", "es": "cuanto más", "pron": "kuántu máis", "ej": "Quanto mais eu leio, mais gosto.", "ejes": "Cuanto más leo, más me gusta.", "cog": false },
+        { "t": "tão tarde que", "es": "tan tarde que", "pron": "táun tárdyi ki", "ej": "Era tão tarde que fomos dormir.", "ejes": "Era tan tarde que fuimos a dormir.", "cog": false },
+        { "t": "bem melhor", "es": "mucho mejor", "pron": "béin melyór", "ej": "Hoje me sinto bem melhor.", "ejes": "Hoy me siento mucho mejor.", "cog": false },
+        { "t": "quase", "es": "casi", "pron": "kuázi", "ej": "Quase todos os alunos passaram.", "ejes": "Casi todos los alumnos aprobaron.", "cog": false }
+      ],
+      "frases": [
+        { "t": "Ela é tão alta quanto o irmão.", "es": "Ella es tan alta como su hermano.", "pron": "éla é táun áwta kuántu u irmáun" },
+        { "t": "Gosto de café tanto quanto de chá.", "es": "Me gusta el café tanto como el té.", "pron": "gósu dyi kafé tántu kuántu dyi shá" },
+        { "t": "Quanto mais leio, mais gosto de ler.", "es": "Cuanto más leo, más me gusta leer.", "pron": "kuántu máis léyu máis gósu dyi lér" },
+        { "t": "Era tão tarde que fomos dormir.", "es": "Era tan tarde que fuimos a dormir.", "pron": "éra táun tárdyi ki fómus dyi dormír" },
+        { "t": "Hoje me sinto bem melhor.", "es": "Hoy me siento mucho mejor.", "pron": "óyi mi síntu béin melyór" }
+      ],
+      "dialogo": {
+        "titulo": "Fim de semana na praia",
+        "lineas": [
+          { "q": "A", "t": "Hoje me sinto bem melhor. A praia ajudou.", "es": "Hoy me siento mucho mejor. La playa ayudó." },
+          { "q": "B", "t": "Eu amo o mar tanto quanto você. Quanto mais venho, mais gosto.", "es": "Amo el mar tanto como tú. Cuanto más vengo, más me gusta." },
+          { "q": "A", "t": "Ontem estava tão quente que nem consegui andar.", "es": "Ayer hacía tanto calor que ni pude caminar." },
+          { "q": "B", "t": "Hoje o clima é igual a ontem, mas o vento ajuda mais do que nunca.", "es": "Hoy el clima es igual al de ayer, pero el viento ayuda más que nunca." },
+          { "q": "A", "t": "Assim como você, eu quero voltar logo.", "es": "Así como tú, yo quiero volver pronto." }
+        ]
+      },
+      "nota": "Repaso útil: «tão... quanto» compara cosas iguales; «tão... que» da una consecuencia; «quanto mais..., mais...» muestra proporción."
+    }
+  ]
+}
